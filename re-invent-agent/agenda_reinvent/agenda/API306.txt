@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 123
+summary: tag_name :Amazon EventBridge, Services, Serverless Compute, Topic, AWS Step Functions, Services, 300 - Advanced, Level, Thursday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, Application Integration, Area of Interest, IT Professional/Technical Manager, Role, Developer/Engineer, Role, , speakers :firstName_0: Dhiraj, lastName_0: Mahapatro, firstName_1: Anton, lastName_1: Aleksandrov, , thirdpartyid :API306-R, sessionuid :D13B47E7-A84A-4858-9A97-2EE2BBE1AB21, title :Combining Step Functions and EventBridge: Use cases and best practices [REPEAT], description :Building distributed solutions with functions and microservices often requires coordinating workflows. You may need a data processing workflow that coordinates multiple services like AWS Lambda, Amazon S3, and Amazon Athena. Or a claim processing workflow that requires multiple approvals. Or a security workflow where millions of Amazon S3 objects must be checked for vulnerabilities. AWS Step Functions and Amazon EventBridge let you build and run workflows using simple and powerful visual tools. In this chalk talk, learn about common integration patterns combining Step Functions and EventBridge, real-world use cases, and best practices., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 123, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Forum 123
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Building distributed solutions with functions and microservices often requires coordinating workflows. You may need a data processing workflow that coordinates multiple services like AWS Lambda, Amazon S3, and Amazon Athena. Or a claim processing workflow that requires multiple approvals. Or a security workflow where millions of Amazon S3 objects must be checked for vulnerabilities. AWS Step Functions and Amazon EventBridge let you build and run workflows using simple and powerful visual tools. In this chalk talk, learn about common integration patterns combining Step Functions and EventBridge, real-world use cases, and best practices
+title: Combining Step Functions and EventBridge: Use cases and best practices [REPEAT]
+sessionuid: D13B47E7-A84A-4858-9A97-2EE2BBE1AB21
+thirdpartyid: API306-R
+speakers: firstName_0: Dhiraj, lastName_0: Mahapatro, firstName_1: Anton, lastName_1: Aleksandrov
+tag_name: Amazon EventBridge, Services, Serverless Compute, Topic, AWS Step Functions, Services, 300 - Advanced, Level, Thursday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, Application Integration, Area of Interest, IT Professional/Technical Manager, Role, Developer/Engineer, Role

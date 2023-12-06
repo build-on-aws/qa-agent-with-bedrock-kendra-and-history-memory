@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Titian 2306
+summary: tag_name :Training & Certification, Topic, Application Integration, Area of Interest, Cross Industry, Industry, Network & Infrastructure Security, Area of Interest, Solution/Systems Architect, Role, Thursday, Day, Venetian, Venue, IT Professional/Technical Manager, Role, Generative AI, Area of Interest, Developer/Engineer, Role, , speakers :, thirdpartyid :TNC003-R6, sessionuid :0652FD91-6F87-4985-AA6F-6576D092DE75, title :Self-paced labs [REPEAT], description :Practice learning AWS services in a live lab environment with AWS Builder Labs. Choose a lab and work through step-by-step scenarios on topics ranging from introductory to expert, and get your questions answered by AWS Training and Certification experts. No registration is required, but allow yourself approximately 40–120 minutes per lab. This is an all-day event., sessiontype :Lab, venuename :Venetian, floorplanname :Level 2, locationname :Titian 2306, startdatetimeutc :November, 30 2023 16:00:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 16:00:00 -0500
+locationname: Titian 2306
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lab
+description: Practice learning AWS services in a live lab environment with AWS Builder Labs. Choose a lab and work through step-by-step scenarios on topics ranging from introductory to expert, and get your questions answered by AWS Training and Certification experts. No registration is required, but allow yourself approximately 40–120 minutes per lab. This is an all-day event
+title: Self-paced labs [REPEAT]
+sessionuid: 0652FD91-6F87-4985-AA6F-6576D092DE75
+thirdpartyid: TNC003-R6
+speakers: 
+tag_name: Training & Certification, Topic, Application Integration, Area of Interest, Cross Industry, Industry, Network & Infrastructure Security, Area of Interest, Solution/Systems Architect, Role, Thursday, Day, Venetian, Venue, IT Professional/Technical Manager, Role, Generative AI, Area of Interest, Developer/Engineer, Role

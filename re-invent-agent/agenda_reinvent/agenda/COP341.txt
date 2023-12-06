@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Cloud Operations, Topic, Management & Governance, Area of Interest, Cloud Security Specialist, Role, Solution/Systems Architect, Role, AWS CloudTrail, Services, 300 - Advanced, Level, Tuesday, Day, Venetian, Venue, , speakers :firstName_0: Ania, lastName_0: Develter, , thirdpartyid :COP341, sessionuid :4E5BD368-5A29-4AC9-A900-C062BE3AC9AA, title :Centralize user activity from external sources in AWS CloudTrail Lake, description :<p>Organizations often use multiple tools to aggregate and analyze their user activity. In this lightning talk, learn how you can use AWS CloudTrail Lake to centralize user activity from external sources in one place. Find out how CloudTrail Lake helps you quickly query, analyze, and troubleshoot for potential operational issues and security concerns.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Organizations often use multiple tools to aggregate and analyze their user activity. In this lightning talk, learn how you can use AWS CloudTrail Lake to centralize user activity from external sources in one place. Find out how CloudTrail Lake helps you quickly query, analyze, and troubleshoot for potential operational issues and security concerns.</p>
+title: Centralize user activity from external sources in AWS CloudTrail Lake
+sessionuid: 4E5BD368-5A29-4AC9-A900-C062BE3AC9AA
+thirdpartyid: COP341
+speakers: firstName_0: Ania, lastName_0: Develter
+tag_name: Cloud Operations, Topic, Management & Governance, Area of Interest, Cloud Security Specialist, Role, Solution/Systems Architect, Role, AWS CloudTrail, Services, 300 - Advanced, Level, Tuesday, Day, Venetian, Venue

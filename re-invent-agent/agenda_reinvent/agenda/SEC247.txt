@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Islander C
+summary: tag_name :Data Protection, Area of Interest, Developer/Engineer, Role, Security, Compliance, & Identity, Topic, 200 - Intermediate, Level, Wednesday, Day, Mandalay Bay, Venue, Amazon Macie, Services, AWS Audit Manager, Services, AWS Lambda, Services, Cloud Security Specialist, Role, , speakers :firstName_0: Alex, lastName_0: Goff, firstName_1: Ollie, lastName_1: Croucher, , thirdpartyid :SEC247, sessionuid :1714FD28-98D4-4CCE-B722-0CC190A0F767, title :Practical data protection and risk assessment for sensitive workloads, description :Join this workshop to explore how to simplify the process of selecting the right tools to mitigate your data protection risks. Kick off the data protection lifecycle by conducting a risk assessment, and then learn how Amazon Macie, Amazon EventBridge, AWS Step Functions, and AWS Lambda can help you achieve your PCI, HIPAA, and GDPR compliance and data protection requirements. These offerings can find and identify sensitive data, automatically apply tags to buckets and objects that contain sensitive data, and enforce attribute-based access control IAM decisions based on those tags. You must bring your laptop to participate., sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Islander C, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Islander C
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: Join this workshop to explore how to simplify the process of selecting the right tools to mitigate your data protection risks. Kick off the data protection lifecycle by conducting a risk assessment, and then learn how Amazon Macie, Amazon EventBridge, AWS Step Functions, and AWS Lambda can help you achieve your PCI, HIPAA, and GDPR compliance and data protection requirements. These offerings can find and identify sensitive data, automatically apply tags to buckets and objects that contain sensitive data, and enforce attribute-based access control IAM decisions based on those tags. You must bring your laptop to participate
+title: Practical data protection and risk assessment for sensitive workloads
+sessionuid: 1714FD28-98D4-4CCE-B722-0CC190A0F767
+thirdpartyid: SEC247
+speakers: firstName_0: Alex, lastName_0: Goff, firstName_1: Ollie, lastName_1: Croucher
+tag_name: Data Protection, Area of Interest, Developer/Engineer, Role, Security, Compliance, & Identity, Topic, 200 - Intermediate, Level, Wednesday, Day, Mandalay Bay, Venue, Amazon Macie, Services, AWS Audit Manager, Services, AWS Lambda, Services, Cloud Security Specialist, Role

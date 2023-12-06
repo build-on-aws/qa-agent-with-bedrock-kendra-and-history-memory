@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 306
+summary: tag_name :Cloud Operations, Topic, 200 - Intermediate, Level, Global Infrastructure, Area of Interest, Developer/Engineer, Role, Hybrid Cloud, Topic, Cross Industry, Industry, IT Executive, Role, Thursday, Day, MGM Grand, Venue, Solution/Systems Architect, Role, Architecture, Topic, Resilience, Area of Interest, , speakers :firstName_0: Rob, lastName_0: Charlton, firstName_1: Stephen, lastName_1: James Martin, , thirdpartyid :ARC214, sessionuid :EE7065F5-B7B7-4970-872B-5BDE3F137333, title :Resilience of the AWS Cloud, description :In this chalk talk, discover how AWS builds an AWS Region, starting from a two-data center environment and adding infrastructure until it becomes a complete Region. Learn about the resilience benefits this infrastructure provides. Learn how AWS services sit on top of the physical infrastructure and are designed to be resilient. Explore how our service teams operate the services and the mechanisms they use to keep them running. Ask questions and get answers about the resilience of AWS infrastructure., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :306, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: 306
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: In this chalk talk, discover how AWS builds an AWS Region, starting from a two-data center environment and adding infrastructure until it becomes a complete Region. Learn about the resilience benefits this infrastructure provides. Learn how AWS services sit on top of the physical infrastructure and are designed to be resilient. Explore how our service teams operate the services and the mechanisms they use to keep them running. Ask questions and get answers about the resilience of AWS infrastructure
+title: Resilience of the AWS Cloud
+sessionuid: EE7065F5-B7B7-4970-872B-5BDE3F137333
+thirdpartyid: ARC214
+speakers: firstName_0: Rob, lastName_0: Charlton, firstName_1: Stephen, lastName_1: James Martin
+tag_name: Cloud Operations, Topic, 200 - Intermediate, Level, Global Infrastructure, Area of Interest, Developer/Engineer, Role, Hybrid Cloud, Topic, Cross Industry, Industry, IT Executive, Role, Thursday, Day, MGM Grand, Venue, Solution/Systems Architect, Role, Architecture, Topic, Resilience, Area of Interest

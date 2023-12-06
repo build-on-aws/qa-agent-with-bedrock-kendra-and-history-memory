@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Mandalay Bay Ballroom F
+summary: tag_name :AWS Glue, Services, Solution/Systems Architect, Role, Analytics, Topic, Sports, Industry, Amazon API Gateway, Services, AWS Amplify, Services, Front-End Web & Mobile, Area of Interest, 200 - Intermediate, Level, Cross Industry, Industry, Application Integration, Area of Interest, Wednesday, Day, Mandalay Bay, Venue, Developer/Engineer, Role, Architecture, Topic, BuildOn.AWS, Area of Interest, Tech Explorer, Role, , speakers :firstName_0: Arnaud, lastName_0: Jean, firstName_1: Boaz, lastName_1: Ziniman, , thirdpartyid :GHJ202, sessionuid :9E29ECBE-30BC-4D74-963E-A1E135EC3EE0, title :AWS GameDay: Formula 1, description :AWS GameDay: Formula 1 is a team-based learning exercise designed to allow participants to put their AWS skills to the test in a real-world, gamified, risk-free environment. Our fictitious F1 team, Unicorn.Rentals.Racing, wants to use data to enhance the performance of drivers, cars, and pit crews. With sample data from Formula 1, your team will put their skills to the test and ensure Unicorn.Rentals.Racing is ready to provide essential racing tooling for the team. If you don't have a team, join the session on your own and we will help find you one. You must bring your laptop to participate., sessiontype :Gamified Learning, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Mandalay Bay Ballroom F, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Mandalay Bay Ballroom F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Gamified Learning
+description: AWS GameDay: Formula 1 is a team-based learning exercise designed to allow participants to put their AWS skills to the test in a real-world, gamified, risk-free environment. Our fictitious F1 team, Unicorn.Rentals.Racing, wants to use data to enhance the performance of drivers, cars, and pit crews. With sample data from Formula 1, your team will put their skills to the test and ensure Unicorn.Rentals.Racing is ready to provide essential racing tooling for the team. If you don't have a team, join the session on your own and we will help find you one. You must bring your laptop to participate
+title: AWS GameDay: Formula 1
+sessionuid: 9E29ECBE-30BC-4D74-963E-A1E135EC3EE0
+thirdpartyid: GHJ202
+speakers: firstName_0: Arnaud, lastName_0: Jean, firstName_1: Boaz, lastName_1: Ziniman
+tag_name: AWS Glue, Services, Solution/Systems Architect, Role, Analytics, Topic, Sports, Industry, Amazon API Gateway, Services, AWS Amplify, Services, Front-End Web & Mobile, Area of Interest, 200 - Intermediate, Level, Cross Industry, Industry, Application Integration, Area of Interest, Wednesday, Day, Mandalay Bay, Venue, Developer/Engineer, Role, Architecture, Topic, BuildOn.AWS, Area of Interest, Tech Explorer, Role

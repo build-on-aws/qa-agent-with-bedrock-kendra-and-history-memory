@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :Thursday, Day, Wynn, Venue, AI/ML, Topic, Energy, Industry, 300 - Advanced, Level, Data Engineer, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, , speakers :firstName_0: Arnab, lastName_0: Sinha, firstName_1: Kumar, lastName_1: Lakshmipathi, , thirdpartyid :ENU308, sessionuid :2DDEE24C-5D13-41A9-B200-7DF61E4FAF9A, title :Streamline regulatory document analysis and review with generative AI, description :<p>Are you ready to revolutionize how the energy industry accesses vital regulatory and legislative information? Today, the process for searching documents is cumbersome and error-prone and relies on prerequisite domain expertise that slows critical decision-making. Join this chalk talk to explore the challenges and solutions for fine-tuning a large language model securely on regulatory and legislative documents using techniques such as Low-Rank Adaptation (LoRA) on Amazon Bedrock, Amazon SageMaker JumpStart, and Amazon S3. This chalk talk shares important information for employees across strategy and corporate affairs who make critical policy recommendations and decisions under tight timelines.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Are you ready to revolutionize how the energy industry accesses vital regulatory and legislative information? Today, the process for searching documents is cumbersome and error-prone and relies on prerequisite domain expertise that slows critical decision-making. Join this chalk talk to explore the challenges and solutions for fine-tuning a large language model securely on regulatory and legislative documents using techniques such as Low-Rank Adaptation (LoRA) on Amazon Bedrock, Amazon SageMaker JumpStart, and Amazon S3. This chalk talk shares important information for employees across strategy and corporate affairs who make critical policy recommendations and decisions under tight timelines.</p>
+title: Streamline regulatory document analysis and review with generative AI
+sessionuid: 2DDEE24C-5D13-41A9-B200-7DF61E4FAF9A
+thirdpartyid: ENU308
+speakers: firstName_0: Arnab, lastName_0: Sinha, firstName_1: Kumar, lastName_1: Lakshmipathi
+tag_name: Thursday, Day, Wynn, Venue, AI/ML, Topic, Energy, Industry, 300 - Advanced, Level, Data Engineer, Role, Developer/Engineer, Role, Solution/Systems Architect, Role

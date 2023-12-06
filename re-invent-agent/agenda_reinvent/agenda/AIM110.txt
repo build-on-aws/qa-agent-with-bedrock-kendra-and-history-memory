@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Bellini 2105
+summary: tag_name :Thursday, Day, Venetian, Venue, AI/ML, Topic, Business Applications, Topic, SaaS, Area of Interest, Generative AI, Area of Interest, Strategy & Transformation, Area of Interest, 100 - Foundational, Level, Data Engineer, Role, Developer/Engineer, Role, IT Executive, Role, Amazon Bedrock, Services, Amazon RedShift, Services, Amazon SageMaker, Services, , speakers :, thirdpartyid :AIM110-S, sessionuid :B30AFAA9-1A52-426C-93CF-EA6166C3D51F, title :Unlocking the power of AWS AI and data with Salesforce (sponsored by Salesforce), description :<p>In this session, learn how Salesforce Data Cloud and AWS AI and data services can help you break down data silos, create more personalized experiences, and generate powerful business insights. Explore the latest Salesforce integrations, which allow you to bring your own model with Amazon SageMaker and Amazon Bedrock and bring your own lake (data sharing and data federation) with Amazon Redshift. This presentation is brought to you by Salesforce, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Bellini 2105, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Bellini 2105
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>In this session, learn how Salesforce Data Cloud and AWS AI and data services can help you break down data silos, create more personalized experiences, and generate powerful business insights. Explore the latest Salesforce integrations, which allow you to bring your own model with Amazon SageMaker and Amazon Bedrock and bring your own lake (data sharing and data federation) with Amazon Redshift. This presentation is brought to you by Salesforce, an AWS Partner.</p>
+title: Unlocking the power of AWS AI and data with Salesforce (sponsored by Salesforce)
+sessionuid: B30AFAA9-1A52-426C-93CF-EA6166C3D51F
+thirdpartyid: AIM110-S
+speakers: 
+tag_name: Thursday, Day, Venetian, Venue, AI/ML, Topic, Business Applications, Topic, SaaS, Area of Interest, Generative AI, Area of Interest, Strategy & Transformation, Area of Interest, 100 - Foundational, Level, Data Engineer, Role, Developer/Engineer, Role, IT Executive, Role, Amazon Bedrock, Services, Amazon RedShift, Services, Amazon SageMaker, Services

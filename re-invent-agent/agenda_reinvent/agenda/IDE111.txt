@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific E
+summary: tag_name :Business Applications, Topic, Workforce Development, Area of Interest, Business Executive, Role, Developer/Engineer, Role, Customer Stories, Area of Interest, 100 - Foundational, Level, Monday, Day, Mandalay Bay, Venue, Inclusion & Diversity, Area of Interest, Customer Enablement, Topic, IT Executive, Role, , speakers :, thirdpartyid :IDE111, sessionuid :CA6B1CF8-A920-4AA7-BFDB-EE172F3C25AE, title :The antidote for doubt: Forging your voice and building your community, description :For women in technical roles, 32% will be the only woman in any given room at work. In this session, join AWS and customer leaders to learn how to close the confidence gap and foster belonging through mentorship, sponsorship, and community building. Challenge the status quo and empower innovation by finding your guiding purpose., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific E, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: South Pacific E
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: For women in technical roles, 32% will be the only woman in any given room at work. In this session, join AWS and customer leaders to learn how to close the confidence gap and foster belonging through mentorship, sponsorship, and community building. Challenge the status quo and empower innovation by finding your guiding purpose
+title: The antidote for doubt: Forging your voice and building your community
+sessionuid: CA6B1CF8-A920-4AA7-BFDB-EE172F3C25AE
+thirdpartyid: IDE111
+speakers: 
+tag_name: Business Applications, Topic, Workforce Development, Area of Interest, Business Executive, Role, Developer/Engineer, Role, Customer Stories, Area of Interest, 100 - Foundational, Level, Monday, Day, Mandalay Bay, Venue, Inclusion & Diversity, Area of Interest, Customer Enablement, Topic, IT Executive, Role

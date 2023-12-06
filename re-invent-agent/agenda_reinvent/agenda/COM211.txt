@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Thursday, Day, AI/ML, Topic, Training & Certification, Topic, Customer Stories, Area of Interest, Workforce Development, Area of Interest, Academic/Researcher, Role, Sales/Marketing, Role, Tech Explorer, Role, AWS DeepComposer, Services, AWS DeepRacer, Services, AWS Step Functions, Services, Venetian, Venue, 200 - Intermediate, Level, , speakers :firstName_0: Jennifer, lastName_0: Bergstrom, company_0: Parsons, , thirdpartyid :COM211, sessionuid :3596FA7F-AB18-4D67-84AC-028701C9C98D, title :Building a culture of curiosity through gamification, description :<p>AWS users want solutions using the latest technologies and services available. Given the pace of change, encouraging your staff to stay curious is imperative for any organization. Gamification can be a powerful tool in building a culture of curiosity. This dev chat provides a look at multiple gamification types using AWS services that reinforce curiosity and drive skill development in a fun and exciting way.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 20:50:00 -0500, 
+enddatetimeutc: November, 30 2023 20:50:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>AWS users want solutions using the latest technologies and services available. Given the pace of change, encouraging your staff to stay curious is imperative for any organization. Gamification can be a powerful tool in building a culture of curiosity. This dev chat provides a look at multiple gamification types using AWS services that reinforce curiosity and drive skill development in a fun and exciting way.</p>
+title: Building a culture of curiosity through gamification
+sessionuid: 3596FA7F-AB18-4D67-84AC-028701C9C98D
+thirdpartyid: COM211
+speakers: firstName_0: Jennifer, lastName_0: Bergstrom, company_0: Parsons
+tag_name: Thursday, Day, AI/ML, Topic, Training & Certification, Topic, Customer Stories, Area of Interest, Workforce Development, Area of Interest, Academic/Researcher, Role, Sales/Marketing, Role, Tech Explorer, Role, AWS DeepComposer, Services, AWS DeepRacer, Services, AWS Step Functions, Services, Venetian, Venue, 200 - Intermediate, Level

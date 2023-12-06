@@ -1,0 +1,14 @@
+location: MGM Grand, Level 2, 106
+summary: tag_name :Wednesday, Day, MGM Grand, Venue, Meals & Conference Services, Additional Services, , speakers :, thirdpartyid :ACT092, sessionuid :B9D3E361-BC5F-43AA-88DF-9BF02F950104, title :Reflection room, description :The reflection room provides a dark, quiet space for meditation, prayer, or yoga, or to find resources for sensory needs. The room is equipped with semi-private meditation pods, prayer rugs, yoga mats, comfortable seating, puzzles, and coloring supplies. The reflection room also includes sensory bags containing noise cancelling headphones, fidget tools, and other resources for attendees with sensory needs, and a sensory tent that provides a safe and calming environment to help attendees that might be feeling overwhelmed or overstimulated., sessiontype :Conference Services, venuename :MGM Grand, floorplanname :Level 2, locationname :106, startdatetimeutc :November, 29 2023 16:00:00 -0500, enddatetimeutc :November, 30 2023 04:30:00 -0500, 
+enddatetimeutc: November, 30 2023 04:30:00 -0500
+startdatetimeutc: November, 29 2023 16:00:00 -0500
+locationname: 106
+floorplanname: Level 2
+venuename: MGM Grand
+sessiontype: Conference Services
+description: The reflection room provides a dark, quiet space for meditation, prayer, or yoga, or to find resources for sensory needs. The room is equipped with semi-private meditation pods, prayer rugs, yoga mats, comfortable seating, puzzles, and coloring supplies. The reflection room also includes sensory bags containing noise cancelling headphones, fidget tools, and other resources for attendees with sensory needs, and a sensory tent that provides a safe and calming environment to help attendees that might be feeling overwhelmed or overstimulated
+title: Reflection room
+sessionuid: B9D3E361-BC5F-43AA-88DF-9BF02F950104
+thirdpartyid: ACT092
+speakers: 
+tag_name: Wednesday, Day, MGM Grand, Venue, Meals & Conference Services, Additional Services

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 101
+summary: tag_name :Serverless Compute, Topic, Solution/Systems Architect, Role, Developer/Engineer, Role, AWS Lambda, Services, IT Professional/Technical Manager, Role, Tuesday, Day, MGM Grand, Venue, 300 - Advanced, Level, , speakers :firstName_0: luca, lastName_0: mezzalira, firstName_1: Matt, lastName_1: Diamond, , thirdpartyid :SVS319-R, sessionuid :C29414A4-D8E3-4993-8318-4194859EABF5, title :AWS Lambda performance tuning: Best practices and guidance [REPEAT], description :In this chalk talk, learn about opportunities to optimize your serverless applications built with AWS Lambda. Discuss optimizations in the function configuration and within your function code. This talk also covers how you can best measure and tune your function’s performance by configuring memory to get the right application performance. Also hear best practices for initialization logic and reuse to enable fast startup and fast processing of your functions., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :101, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 23:00:00 -0500, 
+enddatetimeutc: November, 28 2023 23:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: 101
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: In this chalk talk, learn about opportunities to optimize your serverless applications built with AWS Lambda. Discuss optimizations in the function configuration and within your function code. This talk also covers how you can best measure and tune your function’s performance by configuring memory to get the right application performance. Also hear best practices for initialization logic and reuse to enable fast startup and fast processing of your functions
+title: AWS Lambda performance tuning: Best practices and guidance [REPEAT]
+sessionuid: C29414A4-D8E3-4993-8318-4194859EABF5
+thirdpartyid: SVS319-R
+speakers: firstName_0: luca, lastName_0: mezzalira, firstName_1: Matt, lastName_1: Diamond
+tag_name: Serverless Compute, Topic, Solution/Systems Architect, Role, Developer/Engineer, Role, AWS Lambda, Services, IT Professional/Technical Manager, Role, Tuesday, Day, MGM Grand, Venue, 300 - Advanced, Level

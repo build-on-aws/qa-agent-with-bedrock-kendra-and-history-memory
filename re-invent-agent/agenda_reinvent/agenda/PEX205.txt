@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Summit Showroom
+summary: tag_name :Partner Enablement, Topic, Wednesday, Day, Venetian, Venue, 200 - Intermediate, Level, , speakers :firstName_0: Craig, lastName_0: Wicks, firstName_1: Merve, lastName_1: Soner, , thirdpartyid :PEX205, sessionuid :12F5EF29-0065-409D-8AB8-696409884592, title :Benchmarking your SaaS business on AWS, description :Building, launching, and scaling a software as a service (SaaS) business can be a challenging journey. How do you make sure you are on the right path? What are the key elements of successful SaaS businesses? How do you best take advantage of AWS Partner programs and benefits? In this session, AWS experts share market trends, relevant AWS Partner programs and best practices, and success stories to help you navigate your journey. Additionally, get a sneak peek at an IDC report to understand how to benchmark your SaaS business. Stay ahead of the curve and learn about the latest SaaS resources. This session is intended for AWS Partners., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Summit Showroom, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 02:30:00 -0500, 
+enddatetimeutc: November, 30 2023 02:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Summit Showroom
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: Building, launching, and scaling a software as a service (SaaS) business can be a challenging journey. How do you make sure you are on the right path? What are the key elements of successful SaaS businesses? How do you best take advantage of AWS Partner programs and benefits? In this session, AWS experts share market trends, relevant AWS Partner programs and best practices, and success stories to help you navigate your journey. Additionally, get a sneak peek at an IDC report to understand how to benchmark your SaaS business. Stay ahead of the curve and learn about the latest SaaS resources. This session is intended for AWS Partners
+title: Benchmarking your SaaS business on AWS
+sessionuid: 12F5EF29-0065-409D-8AB8-696409884592
+thirdpartyid: PEX205
+speakers: firstName_0: Craig, lastName_0: Wicks, firstName_1: Merve, lastName_1: Soner
+tag_name: Partner Enablement, Topic, Wednesday, Day, Venetian, Venue, 200 - Intermediate, Level

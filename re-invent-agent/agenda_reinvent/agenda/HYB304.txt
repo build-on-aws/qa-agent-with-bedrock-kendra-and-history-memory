@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 311
+summary: tag_name :IT Professional/Technical Manager, Role, Manufacturing & Industrial, Industry, Telecommunications, Industry, AWS IoT Core, Services, Solution/Systems Architect, Role, Automotive, Industry, Tuesday, Day, MGM Grand, Venue, AI/ML, Topic, Threat Detection & Incident Response, Area of Interest, Developer/Engineer, Role, Hybrid Cloud, Topic, AWS Local Zones, Services, Amazon Bedrock, Services, Edge Computing, Area of Interest, 300 - Advanced, Level, Generative AI, Area of Interest, , speakers :firstName_0: Rui, lastName_0: Costa, firstName_1: Tiago, lastName_1: Costa Tomas, , thirdpartyid :HYB304, sessionuid :86EB62EE-FDE9-4581-B564-2D919D81E407, title :Generative AI for robotics: Race for the best drone control assistant, description :<p>In this workshop, learn how AWS edge services can be used to provide low-latency compute solutions. See a demo of this with an interactive game called Drone Inspector, where you implement a drone control assistant that processes natural language commands using generative AI. Compete against other attendees by building the best drone control assistant and sequence of drone actions. This workshop extends the Drone Inspector demo in the AWS Village. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 311, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Premier 311
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>In this workshop, learn how AWS edge services can be used to provide low-latency compute solutions. See a demo of this with an interactive game called Drone Inspector, where you implement a drone control assistant that processes natural language commands using generative AI. Compete against other attendees by building the best drone control assistant and sequence of drone actions. This workshop extends the Drone Inspector demo in the AWS Village. You must bring your laptop to participate.</p>
+title: Generative AI for robotics: Race for the best drone control assistant
+sessionuid: 86EB62EE-FDE9-4581-B564-2D919D81E407
+thirdpartyid: HYB304
+speakers: firstName_0: Rui, lastName_0: Costa, firstName_1: Tiago, lastName_1: Costa Tomas
+tag_name: IT Professional/Technical Manager, Role, Manufacturing & Industrial, Industry, Telecommunications, Industry, AWS IoT Core, Services, Solution/Systems Architect, Role, Automotive, Industry, Tuesday, Day, MGM Grand, Venue, AI/ML, Topic, Threat Detection & Incident Response, Area of Interest, Developer/Engineer, Role, Hybrid Cloud, Topic, AWS Local Zones, Services, Amazon Bedrock, Services, Edge Computing, Area of Interest, 300 - Advanced, Level, Generative AI, Area of Interest

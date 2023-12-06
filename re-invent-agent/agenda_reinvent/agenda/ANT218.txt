@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Solution/Systems Architect, Role, Data Engineer, Role, Well-Architected Framework, Area of Interest, IT Professional/Technical Manager, Role, Analytics, Topic, Amazon Aurora, Services, Thursday, Day, Venetian, Venue, Databases, Topic, Amazon RedShift, Services, 200 - Intermediate, Level, , speakers :firstName_0: Jyoti, lastName_0: Aggarwal, firstName_1: Adam, lastName_1: Levin, , thirdpartyid :ANT218, sessionuid :BA434364-56C5-4138-B07C-E75358E9EBD3, title :Unified and integrated near real-time analytics with zero-ETL, description :The integration requirements across a growing data landscape and diverse data stores present a substantial extract, transform, and load (ETL) challenge. Zero-ETL and adjacent technologies such as low-code, no-code, and visual code let builders focus more on creating value from data than preparing data. In this follow-up demo to ANT326, see how AWS analytics can accelerate ETL development., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :November, 30 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 23:20:00 -0500, 
+enddatetimeutc: November, 30 2023 23:20:00 -0500
+startdatetimeutc: November, 30 2023 23:00:00 -0500
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: The integration requirements across a growing data landscape and diverse data stores present a substantial extract, transform, and load (ETL) challenge. Zero-ETL and adjacent technologies such as low-code, no-code, and visual code let builders focus more on creating value from data than preparing data. In this follow-up demo to ANT326, see how AWS analytics can accelerate ETL development
+title: Unified and integrated near real-time analytics with zero-ETL
+sessionuid: BA434364-56C5-4138-B07C-E75358E9EBD3
+thirdpartyid: ANT218
+speakers: firstName_0: Jyoti, lastName_0: Aggarwal, firstName_1: Adam, lastName_1: Levin
+tag_name: Solution/Systems Architect, Role, Data Engineer, Role, Well-Architected Framework, Area of Interest, IT Professional/Technical Manager, Role, Analytics, Topic, Amazon Aurora, Services, Thursday, Day, Venetian, Venue, Databases, Topic, Amazon RedShift, Services, 200 - Intermediate, Level

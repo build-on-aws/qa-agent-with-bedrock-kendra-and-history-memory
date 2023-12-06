@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Breakers I
+summary: tag_name :200 - Intermediate, Level, AWS CloudTrail, Services, DevOps Engineer, Role, System Administrator, Role, Amazon CloudWatch, Services, Monitoring & Observability, Area of Interest, Cloud Security Specialist, Role, New to AWS, Topic, Wednesday, Day, Mandalay Bay, Venue, Amazon CloudWatch Logs, Services, , speakers :firstName_0: Renato, lastName_0: Fichmann, firstName_1: Santosh, lastName_1: Mohanty, , thirdpartyid :NTA201, sessionuid :4AA71ED9-75ED-4C69-9E56-98182B3B3FDC, title :Amazon EC2, ECS, and RDS workload observability for beginners, description :<p>In this workshop, learn how to set up cloud observability on Amazon EC2, Amazon ECS, and Amazon RDS workloads using native AWS tools. Hear about the importance of observability for gaining insights into application performance and reliability, and discover practical guidance on implementing observability at all layers. The workshop focuses on Amazon CloudWatch and Amazon RDS Performance Insights for monitoring and alerting. With these tools in hand, you can gain deep visibility into your AWS resources and build a robust and resilient cloud infrastructure. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Breakers I, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Breakers I
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: <p>In this workshop, learn how to set up cloud observability on Amazon EC2, Amazon ECS, and Amazon RDS workloads using native AWS tools. Hear about the importance of observability for gaining insights into application performance and reliability, and discover practical guidance on implementing observability at all layers. The workshop focuses on Amazon CloudWatch and Amazon RDS Performance Insights for monitoring and alerting. With these tools in hand, you can gain deep visibility into your AWS resources and build a robust and resilient cloud infrastructure. You must bring your laptop to participate.</p>
+title: Amazon EC2, ECS, and RDS workload observability for beginners
+sessionuid: 4AA71ED9-75ED-4C69-9E56-98182B3B3FDC
+thirdpartyid: NTA201
+speakers: firstName_0: Renato, lastName_0: Fichmann, firstName_1: Santosh, lastName_1: Mohanty
+tag_name: 200 - Intermediate, Level, AWS CloudTrail, Services, DevOps Engineer, Role, System Administrator, Role, Amazon CloudWatch, Services, Monitoring & Observability, Area of Interest, Cloud Security Specialist, Role, New to AWS, Topic, Wednesday, Day, Mandalay Bay, Venue, Amazon CloudWatch Logs, Services

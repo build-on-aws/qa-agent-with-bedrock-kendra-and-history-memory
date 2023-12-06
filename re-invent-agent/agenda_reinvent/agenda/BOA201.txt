@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 115
+summary: tag_name :200 - Intermediate, Level, Cloud Operations, Topic, AWS App Runner, Services, AWS Cloud Development Kit (CDK), Services, AWS Marketplace, Services, AWS Marketplace, Area of Interest, Monday, Day, MGM Grand, Venue, BuildOn.AWS, Area of Interest, , speakers :firstName_0: Abhishek, lastName_0: Gupta, firstName_1: Mohammed Fazalullah, lastName_1: Qudrath, , thirdpartyid :BOA201, sessionuid :BD9FCFA5-2322-4D55-9EC5-A996BBC581FC, title :A Go developer's guide to building on AWS, description :Go has become a common language of modern cloud-native development. Go powers disruptive technologies such as Kubernetes and Docker, and it’s not surprising that it has been in the top five “most loved” (statically typed) programming languages for the last five years. This demo-driven session dives deep into how to use Go with various AWS services including AWS Lambda, AWS App Runner, and Amazon DynamoDB to build serverless applications, data-intensive workloads, and cloud infrastructure. The goal of this session is for you to walk away with a broad understanding of what’s possible with Go on AWS., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 115, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 19:30:00 -0500, 
+enddatetimeutc: November, 27 2023 19:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: Grand 115
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Go has become a common language of modern cloud-native development. Go powers disruptive technologies such as Kubernetes and Docker, and it’s not surprising that it has been in the top five “most loved” (statically typed) programming languages for the last five years. This demo-driven session dives deep into how to use Go with various AWS services including AWS Lambda, AWS App Runner, and Amazon DynamoDB to build serverless applications, data-intensive workloads, and cloud infrastructure. The goal of this session is for you to walk away with a broad understanding of what’s possible with Go on AWS
+title: A Go developer's guide to building on AWS
+sessionuid: BD9FCFA5-2322-4D55-9EC5-A996BBC581FC
+thirdpartyid: BOA201
+speakers: firstName_0: Abhishek, lastName_0: Gupta, firstName_1: Mohammed Fazalullah, lastName_1: Qudrath
+tag_name: 200 - Intermediate, Level, Cloud Operations, Topic, AWS App Runner, Services, AWS Cloud Development Kit (CDK), Services, AWS Marketplace, Services, AWS Marketplace, Area of Interest, Monday, Day, MGM Grand, Venue, BuildOn.AWS, Area of Interest

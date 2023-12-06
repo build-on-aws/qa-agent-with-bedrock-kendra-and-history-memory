@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Tuesday, Day, Venetian, Venue, AI/ML, Topic, Customer Enablement, Topic, Cross Industry, Industry, Advertising & Marketing, Industry, 300 - Advanced, Level, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, AWS Marketplace, Services, AWS Marketplace, Area of Interest, Generative AI, Area of Interest, , speakers :firstName_0: Kenneth, lastName_0: Walsh, , thirdpartyid :MKT308, sessionuid :5524941F-4FCC-4985-A55C-DA78FDDF5E24, title :Generative AI for images with SageMaker JumpStart and AWS Marketplace, description :<p>Join this lightning talk for an illuminating discussion about harnessing the potential of generative AI with text-to-image foundation models (FMs) available in AWS Marketplace. This interactive talk demonstrates simple ways that you can kick-start your generative AI journey using AWS Partner solutions. From swift onboarding to navigating available tools, and from expediting market entry to simplifying complex tasks, this talk gives you an introduction to the skills and knowledge needed to make the most of generative AI technology.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :November, 28 2023 20:00:00 -0500, enddatetimeutc :November, 28 2023 20:20:00 -0500, 
+enddatetimeutc: November, 28 2023 20:20:00 -0500
+startdatetimeutc: November, 28 2023 20:00:00 -0500
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Join this lightning talk for an illuminating discussion about harnessing the potential of generative AI with text-to-image foundation models (FMs) available in AWS Marketplace. This interactive talk demonstrates simple ways that you can kick-start your generative AI journey using AWS Partner solutions. From swift onboarding to navigating available tools, and from expediting market entry to simplifying complex tasks, this talk gives you an introduction to the skills and knowledge needed to make the most of generative AI technology.</p>
+title: Generative AI for images with SageMaker JumpStart and AWS Marketplace
+sessionuid: 5524941F-4FCC-4985-A55C-DA78FDDF5E24
+thirdpartyid: MKT308
+speakers: firstName_0: Kenneth, lastName_0: Walsh
+tag_name: Tuesday, Day, Venetian, Venue, AI/ML, Topic, Customer Enablement, Topic, Cross Industry, Industry, Advertising & Marketing, Industry, 300 - Advanced, Level, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, AWS Marketplace, Services, AWS Marketplace, Area of Interest, Generative AI, Area of Interest

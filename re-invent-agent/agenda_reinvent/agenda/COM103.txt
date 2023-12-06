@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Amazon Bedrock, Services, Customer Stories, Area of Interest, 100 - Foundational, Level, DevOps and Developer Productivity, Topic, Sales/Marketing, Role, AWS Lambda, Services, AI/ML, Topic, Wednesday, Day, Venetian, Venue, Developer/Engineer, Role, Education, Industry, Solution/Systems Architect, Role, AWS Step Functions, Services, , speakers :firstName_0: Raphael, lastName_0: Bottino, company_0: Snyk, , thirdpartyid :COM103, sessionuid :CBB46E37-1386-4F8A-9CF6-20D10ED079DF, title :How Amazon Bedrock is helping the next generation of AWS builders, description :We have been using Amazon CodeWhisperer to improve our coding velocity and quality, but how can AI help us be better AWS builders? In this dev chat, learn how I used Amazon Bedrock to create a bot that gives out daily AWS tips, answers questions about AWS services, and is helping a new generation of AWS builders accelerate their learning., sessiontype :Dev Chat, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Dev Chat
+description: We have been using Amazon CodeWhisperer to improve our coding velocity and quality, but how can AI help us be better AWS builders? In this dev chat, learn how I used Amazon Bedrock to create a bot that gives out daily AWS tips, answers questions about AWS services, and is helping a new generation of AWS builders accelerate their learning
+title: How Amazon Bedrock is helping the next generation of AWS builders
+sessionuid: CBB46E37-1386-4F8A-9CF6-20D10ED079DF
+thirdpartyid: COM103
+speakers: firstName_0: Raphael, lastName_0: Bottino, company_0: Snyk
+tag_name: Amazon Bedrock, Services, Customer Stories, Area of Interest, 100 - Foundational, Level, DevOps and Developer Productivity, Topic, Sales/Marketing, Role, AWS Lambda, Services, AI/ML, Topic, Wednesday, Day, Venetian, Venue, Developer/Engineer, Role, Education, Industry, Solution/Systems Architect, Role, AWS Step Functions, Services

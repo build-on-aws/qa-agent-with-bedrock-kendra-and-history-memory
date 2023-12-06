@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Mouton 2
+summary: tag_name :Generative AI, Area of Interest, AI/ML, Topic, 300 - Advanced, Level, Amazon Kinesis, Services, Amazon OpenSearch Service, Services, Developer/Engineer, Role, Data Engineer, Role, Solution/Systems Architect, Role, Monday, Day, Wynn, Venue, Open Source, Area of Interest, Analytics, Topic, , speakers :firstName_0: Prashant, lastName_0: Agrawal, firstName_1: Ramesh, lastName_1: Chirumamilla, , thirdpartyid :ANT305-R, sessionuid :5248DD74-EF43-4161-AB16-36077EDDA945, title :Log analytics made easy with Amazon OpenSearch Serverless [REPEAT], description :Have you been hearing about Amazon OpenSearch Serverless, but are wondering how to get started? Join this two-hour hands-on workshop guided by product experts to learn how to set up a new OpenSearch Serverless collection in a provided demo account. Explore the different ingestion tools including Amazon Kinesis Data Firehose to send data to your OpenSearch Serverless collection and run search queries against the data. Discover how to design eye-catching visualizations with OpenSearch Dashboards. Finally, because security is always the top priority at AWS, learn how to secure your collection and documents based on assigned user privileges. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Level 1, locationname :Mouton 2, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 00:30:00 -0500, 
+enddatetimeutc: November, 28 2023 00:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Mouton 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Workshop
+description: Have you been hearing about Amazon OpenSearch Serverless, but are wondering how to get started? Join this two-hour hands-on workshop guided by product experts to learn how to set up a new OpenSearch Serverless collection in a provided demo account. Explore the different ingestion tools including Amazon Kinesis Data Firehose to send data to your OpenSearch Serverless collection and run search queries against the data. Discover how to design eye-catching visualizations with OpenSearch Dashboards. Finally, because security is always the top priority at AWS, learn how to secure your collection and documents based on assigned user privileges. You must bring your laptop to participate
+title: Log analytics made easy with Amazon OpenSearch Serverless [REPEAT]
+sessionuid: 5248DD74-EF43-4161-AB16-36077EDDA945
+thirdpartyid: ANT305-R
+speakers: firstName_0: Prashant, lastName_0: Agrawal, firstName_1: Ramesh, lastName_1: Chirumamilla
+tag_name: Generative AI, Area of Interest, AI/ML, Topic, 300 - Advanced, Level, Amazon Kinesis, Services, Amazon OpenSearch Service, Services, Developer/Engineer, Role, Data Engineer, Role, Solution/Systems Architect, Role, Monday, Day, Wynn, Venue, Open Source, Area of Interest, Analytics, Topic

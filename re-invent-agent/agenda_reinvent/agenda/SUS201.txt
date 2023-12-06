@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 1
+summary: tag_name :AI/ML, Topic, Sustainability, Area of Interest, Tuesday, Day, Wynn, Venue, 200 - Intermediate, Level, , speakers :firstName_0: Pauline, lastName_0: Ting, firstName_1: Charles, lastName_1: Roberts, , thirdpartyid :SUS201-R, sessionuid :97CB50F1-0126-4700-A029-CF1F4331512D, title :Using Amazon SageMaker, AutoGluon, and ASDI to predict air quality [REPEAT], description :According to the World Health Organization (WHO), ambient air pollution leads to an estimated 4.2 million deaths per year and around 91 percent of the world’s population lives where air quality levels exceed WHO limits. In this workshop, investigate the relationship between air quality and weather using Amazon SageMaker Studio. Access open data from the Amazon Sustainability Data Initiative (ASDI) with Amazon S3 and an API to explore air quality by geography. Deploy a machine learning model that uses AutoGluon binary classification models to predict how weather features may result in unhealthy air quality. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 1, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 29 2023 00:00:00 -0500, 
+enddatetimeutc: November, 29 2023 00:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Cristal 1
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: According to the World Health Organization (WHO), ambient air pollution leads to an estimated 4.2 million deaths per year and around 91 percent of the world’s population lives where air quality levels exceed WHO limits. In this workshop, investigate the relationship between air quality and weather using Amazon SageMaker Studio. Access open data from the Amazon Sustainability Data Initiative (ASDI) with Amazon S3 and an API to explore air quality by geography. Deploy a machine learning model that uses AutoGluon binary classification models to predict how weather features may result in unhealthy air quality. You must bring your laptop to participate
+title: Using Amazon SageMaker, AutoGluon, and ASDI to predict air quality [REPEAT]
+sessionuid: 97CB50F1-0126-4700-A029-CF1F4331512D
+thirdpartyid: SUS201-R
+speakers: firstName_0: Pauline, lastName_0: Ting, firstName_1: Charles, lastName_1: Roberts
+tag_name: AI/ML, Topic, Sustainability, Area of Interest, Tuesday, Day, Wynn, Venue, 200 - Intermediate, Level

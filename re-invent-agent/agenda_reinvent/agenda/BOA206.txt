@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :DevOps and Developer Productivity, Topic, AWS Cloud Development Kit (CDK), Services, AWS CloudFormation, Services, Global Infrastructure, Area of Interest, Wednesday, Day, Wynn, Venue, 200 - Intermediate, Level, BuildOn.AWS, Area of Interest, , speakers :firstName_0: Andra, lastName_0: Somesan, firstName_1: Lukasz, lastName_1: Panusz, firstName_2: Wojciech, lastName_2: Gawronski, , thirdpartyid :BOA206, sessionuid :1DAA103D-5B51-4C97-B9B6-1452CC10B029, title :Stateful vs. stateless workloads with IaC: Together or not?, description :When applying DevOps best practices and implementing infrastructure as code (IaC) for your projects, you have to make a decision: should you combine or separate components that store information (like databases) and other components that don’t? The duality of the question seems to suggest that there is only one right answer. However, the best answer is much more nuanced. This chalk talk explores the possibilities and the solutions, sharing actionable advice to help you decide when and, most importantly, why you should use each approach., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: When applying DevOps best practices and implementing infrastructure as code (IaC) for your projects, you have to make a decision: should you combine or separate components that store information (like databases) and other components that don’t? The duality of the question seems to suggest that there is only one right answer. However, the best answer is much more nuanced. This chalk talk explores the possibilities and the solutions, sharing actionable advice to help you decide when and, most importantly, why you should use each approach
+title: Stateful vs. stateless workloads with IaC: Together or not?
+sessionuid: 1DAA103D-5B51-4C97-B9B6-1452CC10B029
+thirdpartyid: BOA206
+speakers: firstName_0: Andra, lastName_0: Somesan, firstName_1: Lukasz, lastName_1: Panusz, firstName_2: Wojciech, lastName_2: Gawronski
+tag_name: DevOps and Developer Productivity, Topic, AWS Cloud Development Kit (CDK), Services, AWS CloudFormation, Services, Global Infrastructure, Area of Interest, Wednesday, Day, Wynn, Venue, 200 - Intermediate, Level, BuildOn.AWS, Area of Interest

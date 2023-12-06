@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 108
+summary: tag_name :BuildOn.AWS, Area of Interest, AI/ML, Topic, Education, Industry, Cross Industry, Industry, Wednesday, Day, Caesars Forum, Venue, 300 - Advanced, Level, , speakers :firstName_0: Josh, lastName_0: Famestad, firstName_1: Vadim, lastName_1: Omeltchenko, , thirdpartyid :WPS303-R, sessionuid :2B62C7FD-A746-462B-B95F-A922FB7275A5, title :New ways of educating with generative AI [REPEAT], description :Join this interactive chalk talk to dive deep on design patterns for implementing generative AI in education. Learn how to create solutions that improve learner outcomes as well as reduce administrative time across the education sector, allowing teachers to focus on delivering excellent content and interacting with learners. Explore topics such as lecture summation, virtual tutoring, question and answer generation and evaluation, and curriculum planning support., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 108, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Forum 108
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Join this interactive chalk talk to dive deep on design patterns for implementing generative AI in education. Learn how to create solutions that improve learner outcomes as well as reduce administrative time across the education sector, allowing teachers to focus on delivering excellent content and interacting with learners. Explore topics such as lecture summation, virtual tutoring, question and answer generation and evaluation, and curriculum planning support
+title: New ways of educating with generative AI [REPEAT]
+sessionuid: 2B62C7FD-A746-462B-B95F-A922FB7275A5
+thirdpartyid: WPS303-R
+speakers: firstName_0: Josh, lastName_0: Famestad, firstName_1: Vadim, lastName_1: Omeltchenko
+tag_name: BuildOn.AWS, Area of Interest, AI/ML, Topic, Education, Industry, Cross Industry, Industry, Wednesday, Day, Caesars Forum, Venue, 300 - Advanced, Level

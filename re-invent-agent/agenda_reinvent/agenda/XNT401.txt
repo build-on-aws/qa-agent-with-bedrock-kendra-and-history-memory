@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 7
+summary: tag_name :Cloud Operations, Topic, Solution/Systems Architect, Role, 400 - Expert, Level, DevOps and Developer Productivity, Topic, Tuesday, Day, Wynn, Venue, Developer/Engineer, Role, , speakers :firstName_0: Norman, lastName_0: Johanson, , thirdpartyid :XNT401, sessionuid :085DEC75-4942-4C6F-96D9-9135D5B458D4, title :Getting the most performance for your .NET apps from AWS SDK for .NET, description :The AWS SDK for .NET is critical for .NET developers building their applications using AWS services. This session goes beyond the simple examples of making requests to services and shows the advanced methods of using the SDK for .NET to maximize performance and reliability. In this session, learn about the many subtle features and tuning options that are not widely known and can have dramatic effects. These include features for tuning retries, timeouts, and HTTP client handling as well as features to customize the HTTP requests made by the SDK., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 7, startdatetimeutc :November, 29 2023 00:00:00 -0500, enddatetimeutc :November, 29 2023 01:00:00 -0500, 
+enddatetimeutc: November, 29 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 00:00:00 -0500
+locationname: Cristal 7
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Breakout Session
+description: The AWS SDK for .NET is critical for .NET developers building their applications using AWS services. This session goes beyond the simple examples of making requests to services and shows the advanced methods of using the SDK for .NET to maximize performance and reliability. In this session, learn about the many subtle features and tuning options that are not widely known and can have dramatic effects. These include features for tuning retries, timeouts, and HTTP client handling as well as features to customize the HTTP requests made by the SDK
+title: Getting the most performance for your .NET apps from AWS SDK for .NET
+sessionuid: 085DEC75-4942-4C6F-96D9-9135D5B458D4
+thirdpartyid: XNT401
+speakers: firstName_0: Norman, lastName_0: Johanson
+tag_name: Cloud Operations, Topic, Solution/Systems Architect, Role, 400 - Expert, Level, DevOps and Developer Productivity, Topic, Tuesday, Day, Wynn, Venue, Developer/Engineer, Role

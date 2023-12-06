@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Oceanside A
+summary: tag_name :AI/ML, Topic, Cross Industry, Industry, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Tuesday, Day, Mandalay Bay, Venue, Application Integration, Area of Interest, Management & Governance, Area of Interest, Monitoring & Observability, Area of Interest, 300 - Advanced, Level, Amazon SageMaker, Services, , speakers :firstName_0: Sokratis, lastName_0: Kartakis, firstName_1: Bobby, lastName_1: Lindsey, firstName_2: Kirit, lastName_2: Thadaka, , thirdpartyid :AIM305, sessionuid :0D213C17-2D9D-4750-A673-81E8A9B6EBAD, title :Deliver high-performance ML models faster with MLOps tools, description :<p>Machine learning operations (MLOps) tools help you automate and standardize the ML lifecycle to productionize ML models faster without compromising model performance. Amazon SageMaker provides a breadth of mission-ready MLOps tools to experiment, train, test, deploy, and govern ML models at scale. In this workshop, learn how to use SageMaker to implement an end-to-end MLOps solution for your organization. Go through experimentation, workflow orchestration, model registration, and model monitoring. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Oceanside A, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 29 2023 00:00:00 -0500, 
+enddatetimeutc: November, 29 2023 00:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Oceanside A
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: <p>Machine learning operations (MLOps) tools help you automate and standardize the ML lifecycle to productionize ML models faster without compromising model performance. Amazon SageMaker provides a breadth of mission-ready MLOps tools to experiment, train, test, deploy, and govern ML models at scale. In this workshop, learn how to use SageMaker to implement an end-to-end MLOps solution for your organization. Go through experimentation, workflow orchestration, model registration, and model monitoring. You must bring your laptop to participate.</p>
+title: Deliver high-performance ML models faster with MLOps tools
+sessionuid: 0D213C17-2D9D-4750-A673-81E8A9B6EBAD
+thirdpartyid: AIM305
+speakers: firstName_0: Sokratis, lastName_0: Kartakis, firstName_1: Bobby, lastName_1: Lindsey, firstName_2: Kirit, lastName_2: Thadaka
+tag_name: AI/ML, Topic, Cross Industry, Industry, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Tuesday, Day, Mandalay Bay, Venue, Application Integration, Area of Interest, Management & Governance, Area of Interest, Monitoring & Observability, Area of Interest, 300 - Advanced, Level, Amazon SageMaker, Services

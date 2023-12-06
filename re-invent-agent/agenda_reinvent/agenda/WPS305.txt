@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 364
+summary: tag_name :Networking & Content Delivery, Topic, Global Infrastructure, Area of Interest, Government, Industry, Cross Industry, Industry, 300 - Advanced, Level, Monday, Day, MGM Grand, Venue, , speakers :firstName_0: Andreia, lastName_0: Gouveia, firstName_1: Cleber, lastName_1: Gomes da Silva, firstName_2: Vinicius, lastName_2: Soares Batista, firstName_3: Alysha, lastName_3: Test, , thirdpartyid :WPS305, sessionuid :65CE1098-84F3-425F-A92E-AD83FE994D5D, title :1.5 million requests per second—a story from the Brazilian elections, description :<p>Delivering critical public events at mass scale requires an infrastructure like no other. In this session, learn how AWS supported the 2022 Brazilian elections and implemented the infrastructure for the voting application for citizens, which supported more than 100 million users and a CDN solution for voting results that handled 1.5 million requests per second. Explore the unique context and user requirements, chosen solutions for each domain, and how performance, resilience, and security were validated at global scale.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 364, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Chairmans 364
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Delivering critical public events at mass scale requires an infrastructure like no other. In this session, learn how AWS supported the 2022 Brazilian elections and implemented the infrastructure for the voting application for citizens, which supported more than 100 million users and a CDN solution for voting results that handled 1.5 million requests per second. Explore the unique context and user requirements, chosen solutions for each domain, and how performance, resilience, and security were validated at global scale.</p>
+title: 1.5 million requests per second—a story from the Brazilian elections
+sessionuid: 65CE1098-84F3-425F-A92E-AD83FE994D5D
+thirdpartyid: WPS305
+speakers: firstName_0: Andreia, lastName_0: Gouveia, firstName_1: Cleber, lastName_1: Gomes da Silva, firstName_2: Vinicius, lastName_2: Soares Batista, firstName_3: Alysha, lastName_3: Test
+tag_name: Networking & Content Delivery, Topic, Global Infrastructure, Area of Interest, Government, Industry, Cross Industry, Industry, 300 - Advanced, Level, Monday, Day, MGM Grand, Venue

@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Bollinger
+summary: tag_name :Amazon Elastic Kubernetes Service (EKS), Services, Global Infrastructure, Area of Interest, Cloud Security Specialist, Role, Security, Compliance, & Identity, Topic, Wednesday, Day, Wynn, Venue, Developer/Engineer, Role, 300 - Advanced, Level, Cross Industry, Industry, DevOps Engineer, Role, Network & Infrastructure Security, Area of Interest, Kubernetes, Topic, Application Security, Area of Interest, , speakers :firstName_0: George, lastName_0: John, firstName_1: Micah, lastName_1: Hausler, , thirdpartyid :CON335, sessionuid :B6DBC8D6-F4EC-47DA-B7A7-C93DBE6CA1FC, title :Securing Kubernetes workloads, description :In this session, learn about best practices and recommendations to secure your Amazon EKS clusters. Get guidance on how security practitioners and cluster administrators can protect information, systems, and assets that are reliant on Amazon EKS, while delivering business value to their customers. The best practice guidance covers various security areas that are pertinent to a managed Kubernetes service like AWS Identity and Access Management, runtime and network security, image signing, infrastructure security, data encryption, and secrets management., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Upper Level, locationname :Bollinger, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Bollinger
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Breakout Session
+description: In this session, learn about best practices and recommendations to secure your Amazon EKS clusters. Get guidance on how security practitioners and cluster administrators can protect information, systems, and assets that are reliant on Amazon EKS, while delivering business value to their customers. The best practice guidance covers various security areas that are pertinent to a managed Kubernetes service like AWS Identity and Access Management, runtime and network security, image signing, infrastructure security, data encryption, and secrets management
+title: Securing Kubernetes workloads
+sessionuid: B6DBC8D6-F4EC-47DA-B7A7-C93DBE6CA1FC
+thirdpartyid: CON335
+speakers: firstName_0: George, lastName_0: John, firstName_1: Micah, lastName_1: Hausler
+tag_name: Amazon Elastic Kubernetes Service (EKS), Services, Global Infrastructure, Area of Interest, Cloud Security Specialist, Role, Security, Compliance, & Identity, Topic, Wednesday, Day, Wynn, Venue, Developer/Engineer, Role, 300 - Advanced, Level, Cross Industry, Industry, DevOps Engineer, Role, Network & Infrastructure Security, Area of Interest, Kubernetes, Topic, Application Security, Area of Interest

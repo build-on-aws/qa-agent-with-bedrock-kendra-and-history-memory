@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 9
+summary: tag_name :AWS License Manager, Services, IT Professional/Technical Manager, Role, Cost Optimization, Area of Interest, Amazon Elastic Compute Cloud (EC2), Services, AWS Marketplace, Area of Interest, Wednesday, Day, Wynn, Venue, 200 - Intermediate, Level, Cross Industry, Industry, System Administrator, Role, Management & Governance, Area of Interest, Compute, Topic, Enterprise & Migration, Topic, Solution/Systems Architect, Role, , speakers :firstName_0: Manan, lastName_0: Gupta, firstName_1: Mark, lastName_1: Baker, , thirdpartyid :ENT218, sessionuid :D779697D-0E07-42E9-905C-FFA32E1E1344, title :Managing your commercial Linux workloads on Amazon EC2, description :AWS offers a broad range of commercial Linux distributions, including Red Hat Enterprise Linux, Ubuntu Pro, and SUSE Linux Enterprise Server. In this session, learn how to manage and optimize your commercial Linux workloads on Amazon EC2. Find out how you can use AWS License Manager to discover and track your commercial Linux subscriptions, and then learn a few strategies to manage and cost optimize these subscriptions. Also hear about upcoming end-of-support scenarios that may impact you and how AWS and our commercial Linux AWS Partners can support you through the transition., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 9, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 01:30:00 -0500, 
+enddatetimeutc: November, 30 2023 01:30:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: Lafite 9
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: AWS offers a broad range of commercial Linux distributions, including Red Hat Enterprise Linux, Ubuntu Pro, and SUSE Linux Enterprise Server. In this session, learn how to manage and optimize your commercial Linux workloads on Amazon EC2. Find out how you can use AWS License Manager to discover and track your commercial Linux subscriptions, and then learn a few strategies to manage and cost optimize these subscriptions. Also hear about upcoming end-of-support scenarios that may impact you and how AWS and our commercial Linux AWS Partners can support you through the transition
+title: Managing your commercial Linux workloads on Amazon EC2
+sessionuid: D779697D-0E07-42E9-905C-FFA32E1E1344
+thirdpartyid: ENT218
+speakers: firstName_0: Manan, lastName_0: Gupta, firstName_1: Mark, lastName_1: Baker
+tag_name: AWS License Manager, Services, IT Professional/Technical Manager, Role, Cost Optimization, Area of Interest, Amazon Elastic Compute Cloud (EC2), Services, AWS Marketplace, Area of Interest, Wednesday, Day, Wynn, Venue, 200 - Intermediate, Level, Cross Industry, Industry, System Administrator, Role, Management & Governance, Area of Interest, Compute, Topic, Enterprise & Migration, Topic, Solution/Systems Architect, Role

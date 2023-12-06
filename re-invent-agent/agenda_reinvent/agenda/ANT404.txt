@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :Amazon RedShift, Services, Management & Governance, Area of Interest, 400 - Expert, Level, Business Intelligence, Area of Interest, Developer/Engineer, Role, Monday, Day, Wynn, Venue, Analytics, Topic, Data Protection, Area of Interest, Databases, Topic, Solution/Systems Architect, Role, AWS Data Exchange, Services, Data Engineer, Role, , speakers :firstName_0: Phil, lastName_0: Bates, firstName_1: Saurav, lastName_1: Das, , thirdpartyid :ANT404-R, sessionuid :14BB6CCD-DC4A-497A-9D92-82DED44C48C0, title :Build a secure and highly available data strategy with Amazon Redshift [REPEAT], description :Data warehouse workloads are increasingly being used with business-critical analytics applications that require the highest levels of security, availability, and resiliency. Attend this chalk talk to learn about analyzing all your data across data sources while improving the security and reliability of your data warehouse., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 27 2023 22:00:00 -0500, 
+enddatetimeutc: November, 27 2023 22:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Data warehouse workloads are increasingly being used with business-critical analytics applications that require the highest levels of security, availability, and resiliency. Attend this chalk talk to learn about analyzing all your data across data sources while improving the security and reliability of your data warehouse
+title: Build a secure and highly available data strategy with Amazon Redshift [REPEAT]
+sessionuid: 14BB6CCD-DC4A-497A-9D92-82DED44C48C0
+thirdpartyid: ANT404-R
+speakers: firstName_0: Phil, lastName_0: Bates, firstName_1: Saurav, lastName_1: Das
+tag_name: Amazon RedShift, Services, Management & Governance, Area of Interest, 400 - Expert, Level, Business Intelligence, Area of Interest, Developer/Engineer, Role, Monday, Day, Wynn, Venue, Analytics, Topic, Data Protection, Area of Interest, Databases, Topic, Solution/Systems Architect, Role, AWS Data Exchange, Services, Data Engineer, Role

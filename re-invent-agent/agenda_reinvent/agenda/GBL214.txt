@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Monday, Day, AI/ML, Topic, Architecture, Topic, Application Security, Area of Interest, Generative AI, Area of Interest, Non-English, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Cloud Security Specialist, Role, Data Scientist, Role, Developer/Engineer, Role, Amazon Bedrock, Services, AWS Identity and Access Management (IAM), Services, Venetian, Venue, , speakers :firstName_0: Claudia, lastName_0: Izquierdo, , thirdpartyid :GBL214-ES, sessionuid :7470BFDB-5034-4052-B611-BBC2238D008B, title :Integrating generative AI in your apps with Amazon Bedrock [Spanish], description :<p>This lightning talk is delivered in Spanish. Join this talk to unveil the future of applications with generative AI and see how Amazon Bedrock is changing the game. Discover how this service not only reinvents user experiences and boosts productivity but also can help increase security. Explore architectures, data flows, and security measures, including services like AWS KMS, AWS CloudTrail, and AWS Identity and Access Management (IAM). Don’t miss the opportunity to elevate your understanding of generative AI to new heights, all within a framework of security and scalability.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :November, 28 2023 01:30:00 -0500, enddatetimeutc :November, 28 2023 01:50:00 -0500, 
+enddatetimeutc: November, 28 2023 01:50:00 -0500
+startdatetimeutc: November, 28 2023 01:30:00 -0500
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>This lightning talk is delivered in Spanish. Join this talk to unveil the future of applications with generative AI and see how Amazon Bedrock is changing the game. Discover how this service not only reinvents user experiences and boosts productivity but also can help increase security. Explore architectures, data flows, and security measures, including services like AWS KMS, AWS CloudTrail, and AWS Identity and Access Management (IAM). Don’t miss the opportunity to elevate your understanding of generative AI to new heights, all within a framework of security and scalability.</p>
+title: Integrating generative AI in your apps with Amazon Bedrock [Spanish]
+sessionuid: 7470BFDB-5034-4052-B611-BBC2238D008B
+thirdpartyid: GBL214-ES
+speakers: firstName_0: Claudia, lastName_0: Izquierdo
+tag_name: Monday, Day, AI/ML, Topic, Architecture, Topic, Application Security, Area of Interest, Generative AI, Area of Interest, Non-English, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Cloud Security Specialist, Role, Data Scientist, Role, Developer/Engineer, Role, Amazon Bedrock, Services, AWS Identity and Access Management (IAM), Services, Venetian, Venue

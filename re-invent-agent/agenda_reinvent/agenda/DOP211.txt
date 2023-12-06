@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas E
+summary: tag_name :DevOps Engineer, Role, DevOps and Developer Productivity, Topic, Developer/Engineer, Role, Amazon CodeWhisperer, Services, 200 - Intermediate, Level, Wednesday, Day, Mandalay Bay, Venue, Responsible AI, Area of Interest, Generative AI, Area of Interest, , speakers :firstName_0: Jessica, lastName_0: Feng, firstName_1: Joe, lastName_1: Cudby, , thirdpartyid :DOP211, sessionuid :D53987EB-43B3-4104-B3AB-984BCADBEA86, title :Boost developer productivity with Amazon CodeWhisperer, description :<p>Generative AI is transforming the way that developers work. Writing code is already getting disrupted by tools like Amazon CodeWhisperer, which enhances developer productivity by providing real-time code completions based on natural language prompts. In this session, get insights into how to evaluate and measure productivity with the adoption of generative AI–powered tools. Learn from the AWS Disaster Recovery team who uses CodeWhisperer to solve complex engineering problems by gaining efficiency through longer productivity cycles and increasing velocity to market for ongoing fixes. Hear how integrating tools like CodeWhisperer into your workflows can boost productivity.</p>, sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas E, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 01:30:00 -0500, 
+enddatetimeutc: November, 30 2023 01:30:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: South Seas E
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: <p>Generative AI is transforming the way that developers work. Writing code is already getting disrupted by tools like Amazon CodeWhisperer, which enhances developer productivity by providing real-time code completions based on natural language prompts. In this session, get insights into how to evaluate and measure productivity with the adoption of generative AI–powered tools. Learn from the AWS Disaster Recovery team who uses CodeWhisperer to solve complex engineering problems by gaining efficiency through longer productivity cycles and increasing velocity to market for ongoing fixes. Hear how integrating tools like CodeWhisperer into your workflows can boost productivity.</p>
+title: Boost developer productivity with Amazon CodeWhisperer
+sessionuid: D53987EB-43B3-4104-B3AB-984BCADBEA86
+thirdpartyid: DOP211
+speakers: firstName_0: Jessica, lastName_0: Feng, firstName_1: Joe, lastName_1: Cudby
+tag_name: DevOps Engineer, Role, DevOps and Developer Productivity, Topic, Developer/Engineer, Role, Amazon CodeWhisperer, Services, 200 - Intermediate, Level, Wednesday, Day, Mandalay Bay, Venue, Responsible AI, Area of Interest, Generative AI, Area of Interest

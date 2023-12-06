@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific E
+summary: tag_name :Kubernetes, Topic, DevOps Engineer, Role, Developer/Engineer, Role, Amazon Elastic Kubernetes Service (EKS), Services, Global Infrastructure, Area of Interest, Thursday, Day, Mandalay Bay, Venue, Cross Industry, Industry, System Administrator, Role, 300 - Advanced, Level, , speakers :firstName_0: Vipin, lastName_0: Mohan, firstName_1: Vipul, lastName_1: Sabhaya, , thirdpartyid :CON327, sessionuid :17DA62D3-ABB8-4F9E-89DA-ACB1E4A7F287, title :A deep dive on Amazon EKS, description :Kubernetes is a powerful solution for managing containerized applications with benefits such as automation, scalability, portability, and a thriving ecosystem. In this session, learn how you can use Kubernetes to streamline development and operations workflows while helping ensure that business-critical applications are reliable, resilient, and scalable. Discover how Amazon EKS helps you easily deploy, manage, and scale containerized applications using Kubernetes. The session is intended to help you understand the inner mechanics of Amazon EKS so that you can fully harness its potential., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific E, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: South Pacific E
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Kubernetes is a powerful solution for managing containerized applications with benefits such as automation, scalability, portability, and a thriving ecosystem. In this session, learn how you can use Kubernetes to streamline development and operations workflows while helping ensure that business-critical applications are reliable, resilient, and scalable. Discover how Amazon EKS helps you easily deploy, manage, and scale containerized applications using Kubernetes. The session is intended to help you understand the inner mechanics of Amazon EKS so that you can fully harness its potential
+title: A deep dive on Amazon EKS
+sessionuid: 17DA62D3-ABB8-4F9E-89DA-ACB1E4A7F287
+thirdpartyid: CON327
+speakers: firstName_0: Vipin, lastName_0: Mohan, firstName_1: Vipul, lastName_1: Sabhaya
+tag_name: Kubernetes, Topic, DevOps Engineer, Role, Developer/Engineer, Role, Amazon Elastic Kubernetes Service (EKS), Services, Global Infrastructure, Area of Interest, Thursday, Day, Mandalay Bay, Venue, Cross Industry, Industry, System Administrator, Role, 300 - Advanced, Level

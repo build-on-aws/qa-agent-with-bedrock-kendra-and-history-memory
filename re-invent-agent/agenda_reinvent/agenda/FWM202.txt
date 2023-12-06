@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 318
+summary: tag_name :Front-End Web & Mobile, Area of Interest, AWS Device Farm, Services, Developer/Engineer, Role, Business Applications, Topic, Monday, Day, MGM Grand, Venue, DevOps and Developer Productivity, Topic, 200 - Intermediate, Level, , speakers :firstName_0: Nikhil, lastName_0: Dabhade, firstName_1: Alex, lastName_1: Lynchosky, company_1: Riot Games, firstName_2: Sam, lastName_2: Patzer, , thirdpartyid :FWM202, sessionuid :9145FD45-0D3C-493E-868F-ACD3CA99D987, title :Improve your mobile and web app quality using AWS Device Farm, description :In this session, learn how you can improve the quality of your mobile and web apps by running tests on real devices at scale with AWS Device Farm. Hear from Riot Games, a leading game developer and publisher, about how they use Device Farm to streamline their mobile app testing process, improve the quality of their mobile games and SDKs, run automated and manual tests on real devices in the cloud, identify and fix issues faster, and release updates more frequently. Hear how Riot takes advantage of the newly released support for VPC connectivity to Private Devices to securely access AWS Device Farm from within their own VPC, ensuring that their testing data remains private and secure., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 318, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Premier 318
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: In this session, learn how you can improve the quality of your mobile and web apps by running tests on real devices at scale with AWS Device Farm. Hear from Riot Games, a leading game developer and publisher, about how they use Device Farm to streamline their mobile app testing process, improve the quality of their mobile games and SDKs, run automated and manual tests on real devices in the cloud, identify and fix issues faster, and release updates more frequently. Hear how Riot takes advantage of the newly released support for VPC connectivity to Private Devices to securely access AWS Device Farm from within their own VPC, ensuring that their testing data remains private and secure
+title: Improve your mobile and web app quality using AWS Device Farm
+sessionuid: 9145FD45-0D3C-493E-868F-ACD3CA99D987
+thirdpartyid: FWM202
+speakers: firstName_0: Nikhil, lastName_0: Dabhade, firstName_1: Alex, lastName_1: Lynchosky, company_1: Riot Games, firstName_2: Sam, lastName_2: Patzer
+tag_name: Front-End Web & Mobile, Area of Interest, AWS Device Farm, Services, Developer/Engineer, Role, Business Applications, Topic, Monday, Day, MGM Grand, Venue, DevOps and Developer Productivity, Topic, 200 - Intermediate, Level

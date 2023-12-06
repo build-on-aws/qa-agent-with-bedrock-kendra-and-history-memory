@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 111
+summary: tag_name :Monday, Day, MGM Grand, Venue, 300 - Advanced, Level, AI/ML, Topic, Management & Governance, Area of Interest, Generative AI, Area of Interest, Responsible AI, Area of Interest, Cross Industry, Industry, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon SageMaker, Services, , speakers :firstName_0: Jose, lastName_0: Cassio dos Santos Junior, firstName_1: Alicia, lastName_1: Sagae, , thirdpartyid :AIM301, sessionuid :D0C417C6-C1E2-433D-B7B2-051A88B8D57E, title :Advancing responsible AI: Toxicity in generative AI, description :<p>Building and operating machine learning applications responsibly requires an active, consistent approach to prevent, assess, and mitigate harm. This workshop guides you through how to identify toxicity in traditional and generative AI applications, from understanding the causes and consequences of toxicity to developing and implementing mitigation strategies, including dataset and metric selection. The workshop is run by an AWS team of experts on responsible AI who develop science, tools, and best practices to advance responsible AI within AWS. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 111, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 00:30:00 -0500, 
+enddatetimeutc: November, 28 2023 00:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Grand 111
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Building and operating machine learning applications responsibly requires an active, consistent approach to prevent, assess, and mitigate harm. This workshop guides you through how to identify toxicity in traditional and generative AI applications, from understanding the causes and consequences of toxicity to developing and implementing mitigation strategies, including dataset and metric selection. The workshop is run by an AWS team of experts on responsible AI who develop science, tools, and best practices to advance responsible AI within AWS. You must bring your laptop to participate.</p>
+title: Advancing responsible AI: Toxicity in generative AI
+sessionuid: D0C417C6-C1E2-433D-B7B2-051A88B8D57E
+thirdpartyid: AIM301
+speakers: firstName_0: Jose, lastName_0: Cassio dos Santos Junior, firstName_1: Alicia, lastName_1: Sagae
+tag_name: Monday, Day, MGM Grand, Venue, 300 - Advanced, Level, AI/ML, Topic, Management & Governance, Area of Interest, Generative AI, Area of Interest, Responsible AI, Area of Interest, Cross Industry, Industry, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon SageMaker, Services

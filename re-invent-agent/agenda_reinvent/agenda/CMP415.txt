@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 101
+summary: tag_name :Compute, Topic, Generative AI, Area of Interest, AWS Batch, Services, AWS ParallelCluster, Services, Aerospace & Satellite, Industry, Developer/Engineer, Role, Business Intelligence, Area of Interest, Manufacturing & Industrial, Industry, Automotive, Industry, Tuesday, Day, Caesars Forum, Venue, AI/ML, Topic, 400 - Expert, Level, BuildOn.AWS, Area of Interest, Solution/Systems Architect, Role, Data Scientist, Role, Amazon SageMaker, Services, , speakers :firstName_0: Neil, lastName_0: Ashton, firstName_1: Sandeep, lastName_1: Sovani, , thirdpartyid :CMP415-R, sessionuid :3D608AA2-5B38-4357-B24C-97357A576E36, title :Machine learning for engineering simulations [REPEAT], description :In recent years, machine learning (ML) has emerged as a promising method to augment traditional engineering simulations and help designers explore a large set of design points at a lower cost when compared to traditional approaches. This chalk talk presents various ML use cases for engineering simulation (ML4Sim) and then walks through how you can use services such as AWS ParallelCluster, AWS Batch, and Amazon SageMaker to build a complete ML4Sim workflow that includes dataset generation, training, inference, and post-processing., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 101, startdatetimeutc :November, 29 2023 00:00:00 -0500, enddatetimeutc :November, 29 2023 01:00:00 -0500, 
+enddatetimeutc: November, 29 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 00:00:00 -0500
+locationname: Forum 101
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: In recent years, machine learning (ML) has emerged as a promising method to augment traditional engineering simulations and help designers explore a large set of design points at a lower cost when compared to traditional approaches. This chalk talk presents various ML use cases for engineering simulation (ML4Sim) and then walks through how you can use services such as AWS ParallelCluster, AWS Batch, and Amazon SageMaker to build a complete ML4Sim workflow that includes dataset generation, training, inference, and post-processing
+title: Machine learning for engineering simulations [REPEAT]
+sessionuid: 3D608AA2-5B38-4357-B24C-97357A576E36
+thirdpartyid: CMP415-R
+speakers: firstName_0: Neil, lastName_0: Ashton, firstName_1: Sandeep, lastName_1: Sovani
+tag_name: Compute, Topic, Generative AI, Area of Interest, AWS Batch, Services, AWS ParallelCluster, Services, Aerospace & Satellite, Industry, Developer/Engineer, Role, Business Intelligence, Area of Interest, Manufacturing & Industrial, Industry, Automotive, Industry, Tuesday, Day, Caesars Forum, Venue, AI/ML, Topic, 400 - Expert, Level, BuildOn.AWS, Area of Interest, Solution/Systems Architect, Role, Data Scientist, Role, Amazon SageMaker, Services

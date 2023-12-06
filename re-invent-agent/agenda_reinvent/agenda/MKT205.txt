@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Thursday, Day, Venetian, Venue, Customer Enablement, Topic, New to AWS, Topic, AWS Marketplace, Area of Interest, Independent Software Vendor (ISV), Area of Interest, SaaS, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, System Administrator, Role, AWS Marketplace, Services, , speakers :firstName_0: Andrei, lastName_0: Okhotnikov, , thirdpartyid :MKT205, sessionuid :177621E4-C577-4084-AB3F-9863E67723BD, title :Find, try, configure, and launch SaaS applications in AWS Marketplace, description :<p>SaaS is the preferred consumption model for many organizations because it allows you to optimize costs while improving speed and agility. AWS Marketplace simplifies the process of finding the tools you need to quickly go from proof of concept to production, with access to free trials using your AWS account and pay-as-you-go pricing. In this lightning talk, learn how to reduce the time and resources required to find, validate, configure, and launch SaaS applications from leading vendors in AWS Marketplace.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 20:50:00 -0500, 
+enddatetimeutc: November, 30 2023 20:50:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>SaaS is the preferred consumption model for many organizations because it allows you to optimize costs while improving speed and agility. AWS Marketplace simplifies the process of finding the tools you need to quickly go from proof of concept to production, with access to free trials using your AWS account and pay-as-you-go pricing. In this lightning talk, learn how to reduce the time and resources required to find, validate, configure, and launch SaaS applications from leading vendors in AWS Marketplace.</p>
+title: Find, try, configure, and launch SaaS applications in AWS Marketplace
+sessionuid: 177621E4-C577-4084-AB3F-9863E67723BD
+thirdpartyid: MKT205
+speakers: firstName_0: Andrei, lastName_0: Okhotnikov
+tag_name: Thursday, Day, Venetian, Venue, Customer Enablement, Topic, New to AWS, Topic, AWS Marketplace, Area of Interest, Independent Software Vendor (ISV), Area of Interest, SaaS, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, System Administrator, Role, AWS Marketplace, Services

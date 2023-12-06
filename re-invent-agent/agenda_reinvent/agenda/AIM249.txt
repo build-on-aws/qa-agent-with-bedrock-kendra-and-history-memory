@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Developer/Engineer, Role, Cross Industry, Industry, Customer Stories, Area of Interest, Cloud Operations, Topic, Financial Services, Industry, 200 - Intermediate, Level, Thursday, Day, Venetian, Venue, Business Executive, Role, IT Professional/Technical Manager, Role, AI/ML, Topic, , speakers :, thirdpartyid :AIM249-S, sessionuid :6C92E581-BEDC-4C75-B2FA-63CB1F03C675, title :Catalyzing success: Max Life’s digital insurance revolution with PwC (sponsored by PwC), description :Join PwC for insights on insurance sector transformation. Max Life in India tackled tech and scalability issues head-on, elevating agility and data-driven decision-making. Their journey boosted cloud adoption from 12% to 60%, turbocharging contact center productivity by 40% and increasing digital NPS from 20 to 65. Unified data platforms enabled informed choices, and rapid underwriting issuance hit 50% within 30 minutes. Agile delivery, cost optimization, data modernization, and peak-load efficiency enhanced operational excellence. In this lightning talk, witness Max Life’s success story, a testament to thriving in a dynamic market. This presentation is brought to you by PwC, an AWS Partner., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 19:20:00 -0500, 
+enddatetimeutc: November, 30 2023 19:20:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Join PwC for insights on insurance sector transformation. Max Life in India tackled tech and scalability issues head-on, elevating agility and data-driven decision-making. Their journey boosted cloud adoption from 12% to 60%, turbocharging contact center productivity by 40% and increasing digital NPS from 20 to 65. Unified data platforms enabled informed choices, and rapid underwriting issuance hit 50% within 30 minutes. Agile delivery, cost optimization, data modernization, and peak-load efficiency enhanced operational excellence. In this lightning talk, witness Max Life’s success story, a testament to thriving in a dynamic market. This presentation is brought to you by PwC, an AWS Partner
+title: Catalyzing success: Max Life’s digital insurance revolution with PwC (sponsored by PwC)
+sessionuid: 6C92E581-BEDC-4C75-B2FA-63CB1F03C675
+thirdpartyid: AIM249-S
+speakers: 
+tag_name: Developer/Engineer, Role, Cross Industry, Industry, Customer Stories, Area of Interest, Cloud Operations, Topic, Financial Services, Industry, 200 - Intermediate, Level, Thursday, Day, Venetian, Venue, Business Executive, Role, IT Professional/Technical Manager, Role, AI/ML, Topic

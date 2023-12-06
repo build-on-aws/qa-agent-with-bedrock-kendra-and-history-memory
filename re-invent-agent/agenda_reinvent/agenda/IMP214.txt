@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 118
+summary: tag_name :Application Integration, Area of Interest, IT Professional/Technical Manager, Role, Architecture, Topic, Business Intelligence, Area of Interest, Amazon SageMaker, Services, Thursday, Day, MGM Grand, Venue, Social Impact, Area of Interest, 200 - Intermediate, Level, Amazon Personalize, Services, Cross Industry, Industry, Solution/Systems Architect, Role, Data Engineer, Role, AI/ML, Topic, , speakers :firstName_0: David, lastName_0: Lloyd, firstName_1: Jonathan, lastName_1: Schellack, , thirdpartyid :IMP214, sessionuid :6E742A46-7956-46D1-A579-5AB2CDC72787, title :Personalize patient or member experience to help amplify your mission, description :Different consumer segments require different engagement strategies. Implementing effective and targeted ways to interact with these segments has the potential to substantially reduce avoidable unplanned post-acute follow-up costs. In this workshop, learn how to use AWS services to personalize your patient and member experiences, help grow engagement, and help improve outcomes using data from EHR, claims, and other systems. These concepts can be applied to any nonprofit organization for personalized member engagement, helping accelerate your mission. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 118, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Grand 118
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: Different consumer segments require different engagement strategies. Implementing effective and targeted ways to interact with these segments has the potential to substantially reduce avoidable unplanned post-acute follow-up costs. In this workshop, learn how to use AWS services to personalize your patient and member experiences, help grow engagement, and help improve outcomes using data from EHR, claims, and other systems. These concepts can be applied to any nonprofit organization for personalized member engagement, helping accelerate your mission. You must bring your laptop to participate
+title: Personalize patient or member experience to help amplify your mission
+sessionuid: 6E742A46-7956-46D1-A579-5AB2CDC72787
+thirdpartyid: IMP214
+speakers: firstName_0: David, lastName_0: Lloyd, firstName_1: Jonathan, lastName_1: Schellack
+tag_name: Application Integration, Area of Interest, IT Professional/Technical Manager, Role, Architecture, Topic, Business Intelligence, Area of Interest, Amazon SageMaker, Services, Thursday, Day, MGM Grand, Venue, Social Impact, Area of Interest, 200 - Intermediate, Level, Amazon Personalize, Services, Cross Industry, Industry, Solution/Systems Architect, Role, Data Engineer, Role, AI/ML, Topic

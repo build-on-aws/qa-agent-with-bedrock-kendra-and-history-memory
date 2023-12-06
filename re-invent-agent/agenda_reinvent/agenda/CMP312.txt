@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 305
+summary: tag_name :Compute, Topic, DevOps and Developer Productivity, Topic, Front-End Web & Mobile, Area of Interest, Global Infrastructure, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, DevOps Engineer, Role, IT Professional/Technical Manager, Role, Amazon Elastic Compute Cloud (EC2), Services, AWS CodeBuild, Services, Tuesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Sebastien, lastName_0: Stormacq, firstName_1: Vishal, lastName_1: Mummigatti, , thirdpartyid :CMP312, sessionuid :3CA54B11-192E-4E43-A599-142BC8440594, title :CI/CD pipelines with EC2 Mac instances to accelerate testing cycles, description :<p>In this chalk talk, learn how to automate Apple CI/CD build pipelines in the cloud. Explore how you can streamline testing and deployment by integrating orchestrated runners to achieve consistent and repeatable builds. Learn how organizations using Amazon EC2 Mac instances were able to realize a 90% reduction of testing cycles by using runners from GitLab, GitHub, CircleCI, or Bitrise.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 305, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 23:00:00 -0500, 
+enddatetimeutc: November, 28 2023 23:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Alliance 305
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In this chalk talk, learn how to automate Apple CI/CD build pipelines in the cloud. Explore how you can streamline testing and deployment by integrating orchestrated runners to achieve consistent and repeatable builds. Learn how organizations using Amazon EC2 Mac instances were able to realize a 90% reduction of testing cycles by using runners from GitLab, GitHub, CircleCI, or Bitrise.</p>
+title: CI/CD pipelines with EC2 Mac instances to accelerate testing cycles
+sessionuid: 3CA54B11-192E-4E43-A599-142BC8440594
+thirdpartyid: CMP312
+speakers: firstName_0: Sebastien, lastName_0: Stormacq, firstName_1: Vishal, lastName_1: Mummigatti
+tag_name: Compute, Topic, DevOps and Developer Productivity, Topic, Front-End Web & Mobile, Area of Interest, Global Infrastructure, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, DevOps Engineer, Role, IT Professional/Technical Manager, Role, Amazon Elastic Compute Cloud (EC2), Services, AWS CodeBuild, Services, Tuesday, Day, Caesars Forum, Venue

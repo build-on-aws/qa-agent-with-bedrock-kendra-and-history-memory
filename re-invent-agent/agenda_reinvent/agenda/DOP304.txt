@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Mouton 2
+summary: tag_name :300 - Advanced, Level, DevOps and Developer Productivity, Topic, DevOps Engineer, Role, Thursday, Day, Wynn, Venue, AWS Cloud Development Kit (CDK), Services, , speakers :firstName_0: Tyler, lastName_0: Lynch, firstName_1: Serge, lastName_1: Poueme, , thirdpartyid :DOP304, sessionuid :D2E2A05E-ADF5-4E52-BB18-316F8561CE69, title :Develop AWS CDK resources to deploy your applications on AWS, description :<p>In this workshop, learn how to build and deploy applications using infrastructure as code with AWS Cloud Development Kit (AWS CDK). Create resources using AWS CDK and learn maintenance and operations tips. In addition, get an introduction to building your own constructs. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Wynn, floorplanname :Level 1, locationname :Mouton 2, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Mouton 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Workshop
+description: <p>In this workshop, learn how to build and deploy applications using infrastructure as code with AWS Cloud Development Kit (AWS CDK). Create resources using AWS CDK and learn maintenance and operations tips. In addition, get an introduction to building your own constructs. You must bring your laptop to participate.</p>
+title: Develop AWS CDK resources to deploy your applications on AWS
+sessionuid: D2E2A05E-ADF5-4E52-BB18-316F8561CE69
+thirdpartyid: DOP304
+speakers: firstName_0: Tyler, lastName_0: Lynch, firstName_1: Serge, lastName_1: Poueme
+tag_name: 300 - Advanced, Level, DevOps and Developer Productivity, Topic, DevOps Engineer, Role, Thursday, Day, Wynn, Venue, AWS Cloud Development Kit (CDK), Services

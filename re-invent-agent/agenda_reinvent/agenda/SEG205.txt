@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 368
+summary: tag_name :Tuesday, Day, MGM Grand, Venue, AI/ML, Topic, DevOps and Developer Productivity, Topic, Digital Native Business (DNB), Area of Interest, Innovation on AWS, Area of Interest, Strategy & Transformation, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, Entrepreneur (Founder/Co-Founder), Role, IT Executive, Role, , speakers :firstName_0: Anuj, lastName_0: Gupta, firstName_1: Anne, lastName_1: Hunt, firstName_2: Justin, lastName_2: Hiza, company_2: Shutterstock, , thirdpartyid :SEG205, sessionuid :1E411C95-CA65-4165-AAF2-B6F0678839A6, title :Lead with AI/ML to innovate, reduce tech debt, and boost productivity, description :<p>As a business, technical debt affects your ability to move fast. Do you experience unexpected issues, struggle with scale, or wonder how to prioritize? Artificial intelligence (AI) can help. In this session, hear from Shutterstock, who used AI to reduce tech debt, increase productivity, and delight their customers with new features. Explore build vs. buy evaluations, a comprehensive approach to total cost of ownership, and legacy design limitations. Learn how to get better visibility and reduce tech debt from the lens of both the business and engineering.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 368, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Chairmans 368
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>As a business, technical debt affects your ability to move fast. Do you experience unexpected issues, struggle with scale, or wonder how to prioritize? Artificial intelligence (AI) can help. In this session, hear from Shutterstock, who used AI to reduce tech debt, increase productivity, and delight their customers with new features. Explore build vs. buy evaluations, a comprehensive approach to total cost of ownership, and legacy design limitations. Learn how to get better visibility and reduce tech debt from the lens of both the business and engineering.</p>
+title: Lead with AI/ML to innovate, reduce tech debt, and boost productivity
+sessionuid: 1E411C95-CA65-4165-AAF2-B6F0678839A6
+thirdpartyid: SEG205
+speakers: firstName_0: Anuj, lastName_0: Gupta, firstName_1: Anne, lastName_1: Hunt, firstName_2: Justin, lastName_2: Hiza, company_2: Shutterstock
+tag_name: Tuesday, Day, MGM Grand, Venue, AI/ML, Topic, DevOps and Developer Productivity, Topic, Digital Native Business (DNB), Area of Interest, Innovation on AWS, Area of Interest, Strategy & Transformation, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, Entrepreneur (Founder/Co-Founder), Role, IT Executive, Role

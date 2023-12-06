@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 121
+summary: tag_name :Business Executive, Role, Amazon Machine Learning (ML), Services, Analytics, Topic, Generative AI, Area of Interest, Business Intelligence, Area of Interest, IT Executive, Role, Amazon Bedrock, Services, AI/ML, Topic, 100 - Foundational, Level, Caesars Forum, Venue, Wednesday, Day, Amazon QuickSight, Services, Advisor/Consultant, Role, Cross Industry, Industry, Strategy & Transformation, Area of Interest, , speakers :firstName_0: Zac, lastName_0: Woodall, firstName_1: Corey, lastName_1: Savory, company_1: Traeger Grills, , thirdpartyid :BSI101, sessionuid :63A56706-272E-4819-899F-3D218F4231D4, title :Generative BI in Amazon QuickSight, description :You can infuse generative AI into how your business users interact with data. In this session, learn how generative BI capabilities in Amazon QuickSight allow business analysts to author dashboards using natural language and how business users can easily dive deep into data by simply asking questions. Discover how business users can also use generative BI capabilities to quickly create compelling stories to drive decision-making, while developers can integrate these capabilities into applications to differentiate and monetize data like never before., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 121, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Forum 121
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: You can infuse generative AI into how your business users interact with data. In this session, learn how generative BI capabilities in Amazon QuickSight allow business analysts to author dashboards using natural language and how business users can easily dive deep into data by simply asking questions. Discover how business users can also use generative BI capabilities to quickly create compelling stories to drive decision-making, while developers can integrate these capabilities into applications to differentiate and monetize data like never before
+title: Generative BI in Amazon QuickSight
+sessionuid: 63A56706-272E-4819-899F-3D218F4231D4
+thirdpartyid: BSI101
+speakers: firstName_0: Zac, lastName_0: Woodall, firstName_1: Corey, lastName_1: Savory, company_1: Traeger Grills
+tag_name: Business Executive, Role, Amazon Machine Learning (ML), Services, Analytics, Topic, Generative AI, Area of Interest, Business Intelligence, Area of Interest, IT Executive, Role, Amazon Bedrock, Services, AI/ML, Topic, 100 - Foundational, Level, Caesars Forum, Venue, Wednesday, Day, Amazon QuickSight, Services, Advisor/Consultant, Role, Cross Industry, Industry, Strategy & Transformation, Area of Interest

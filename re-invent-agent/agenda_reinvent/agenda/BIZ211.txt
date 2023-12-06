@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3002
+summary: tag_name :Business Applications, Topic, DevOps Engineer, Role, IT Executive, Role, Tuesday, Day, Venetian, Venue, 200 - Intermediate, Level, Amazon CloudWatch, Services, Business Intelligence, Area of Interest, IT Professional/Technical Manager, Role, , speakers :firstName_0: Chris, lastName_0: Crocco, company_0: Splunk, , thirdpartyid :BIZ211-S, sessionuid :07E2AA9A-AA0F-4F7E-8063-1FE637866B21, title :Observability best practices for hybrid environments (sponsored by Splunk), description :Teams who work in hybrid environments can struggle with data consistency and context, visibility, scalability, and resource management. Left unresolved, these challenges can result in delayed issue detection, inaccurate troubleshooting, and resource strain, impacting overall system performance and business operations. This session provides an overview of best practices for observability in hybrid environments. Learn how to aggregate data across on-premises and AWS environments to see your entire application regardless of where it’s hosted, and discover how to use the Splunk Observability platform to solve issues in multiple environments from one dashboard. This presentation is brought to you by Splunk, an AWS Partner., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3002, startdatetimeutc :November, 28 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 22:00:00 -0500, 
+enddatetimeutc: November, 28 2023 22:00:00 -0500
+startdatetimeutc: November, 28 2023 21:00:00 -0500
+locationname: Lido 3002
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Breakout Session
+description: Teams who work in hybrid environments can struggle with data consistency and context, visibility, scalability, and resource management. Left unresolved, these challenges can result in delayed issue detection, inaccurate troubleshooting, and resource strain, impacting overall system performance and business operations. This session provides an overview of best practices for observability in hybrid environments. Learn how to aggregate data across on-premises and AWS environments to see your entire application regardless of where it’s hosted, and discover how to use the Splunk Observability platform to solve issues in multiple environments from one dashboard. This presentation is brought to you by Splunk, an AWS Partner
+title: Observability best practices for hybrid environments (sponsored by Splunk)
+sessionuid: 07E2AA9A-AA0F-4F7E-8063-1FE637866B21
+thirdpartyid: BIZ211-S
+speakers: firstName_0: Chris, lastName_0: Crocco, company_0: Splunk
+tag_name: Business Applications, Topic, DevOps Engineer, Role, IT Executive, Role, Tuesday, Day, Venetian, Venue, 200 - Intermediate, Level, Amazon CloudWatch, Services, Business Intelligence, Area of Interest, IT Professional/Technical Manager, Role

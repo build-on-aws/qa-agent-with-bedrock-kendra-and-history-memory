@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 364
+summary: tag_name :IT Executive, Role, Data Engineer, Role, Hybrid Cloud, Topic, AWS Local Zones, Services, AWS Snow Family, Services, Manufacturing & Industrial, Industry, Customer Stories, Area of Interest, AWS Outposts, Services, Business Executive, Role, Tuesday, Day, MGM Grand, Venue, AI/ML, Topic, Strategy & Transformation, Area of Interest, 200 - Intermediate, Level, Edge Computing, Area of Interest, Financial Services, Industry, , speakers :firstName_0: Jan, lastName_0: Hofmeyr, , thirdpartyid :HYB201, sessionuid :50A98AAA-00A6-42D8-A6E8-928CA8FBA4FB, title :AWS wherever you need it, description :Enterprises are adopting the AWS Cloud at a rapid pace to reduce costs, become more agile, and innovate faster. While most workloads can be migrated to the cloud, some remain on premises or in edge locations due to low latency, local data processing, or data residency requirements. Learn how AWS services like AWS Outposts, AWS Local Zones, AWS Wavelength, AWS Snow Family, and AWS IoT support hybrid cloud workloads and enable new, highly responsive applications such as virtual reality, connected vehicles, gaming, live video streaming, and smart factories., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 364, startdatetimeutc :November, 28 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 22:00:00 -0500, 
+enddatetimeutc: November, 28 2023 22:00:00 -0500
+startdatetimeutc: November, 28 2023 21:00:00 -0500
+locationname: Chairmans 364
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Enterprises are adopting the AWS Cloud at a rapid pace to reduce costs, become more agile, and innovate faster. While most workloads can be migrated to the cloud, some remain on premises or in edge locations due to low latency, local data processing, or data residency requirements. Learn how AWS services like AWS Outposts, AWS Local Zones, AWS Wavelength, AWS Snow Family, and AWS IoT support hybrid cloud workloads and enable new, highly responsive applications such as virtual reality, connected vehicles, gaming, live video streaming, and smart factories
+title: AWS wherever you need it
+sessionuid: 50A98AAA-00A6-42D8-A6E8-928CA8FBA4FB
+thirdpartyid: HYB201
+speakers: firstName_0: Jan, lastName_0: Hofmeyr
+tag_name: IT Executive, Role, Data Engineer, Role, Hybrid Cloud, Topic, AWS Local Zones, Services, AWS Snow Family, Services, Manufacturing & Industrial, Industry, Customer Stories, Area of Interest, AWS Outposts, Services, Business Executive, Role, Tuesday, Day, MGM Grand, Venue, AI/ML, Topic, Strategy & Transformation, Area of Interest, 200 - Intermediate, Level, Edge Computing, Area of Interest, Financial Services, Industry

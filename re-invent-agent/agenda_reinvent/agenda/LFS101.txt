@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Amazon Bedrock, Services, IT Professional/Technical Manager, Role, Generative AI, Area of Interest, Amazon DataZone, Services, Databases, Topic, IT Executive, Role, Wednesday, Day, Venetian, Venue, Business Executive, Role, AI/ML, Topic, 100 - Foundational, Level, Life Sciences, Industry, , speakers :firstName_0: Valerie, lastName_0: Delva, , thirdpartyid :LFS101, sessionuid :FCCFE2EA-C001-48A2-8620-8677BC473F55, title :Integrated data, generative AI, and a new era of health breakthroughs, description :Generative AI has the potential to dramatically improve time to diagnoses, quality of care, and the speed of research and development of critical therapeutics. The success of generative AI depends on access to quality data, and access to quality data depends on a comprehensive data strategy. In this lightning talk, explore the essential role of a comprehensive data strategy that uses the AWS Health for Data portfolio to unlock the full power of healthcare and life sciences data. Learn how to build integrated data strategies to make better, faster decisions with the power of machine learning and generative AI., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 21:20:00 -0500, 
+enddatetimeutc: November, 29 2023 21:20:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Generative AI has the potential to dramatically improve time to diagnoses, quality of care, and the speed of research and development of critical therapeutics. The success of generative AI depends on access to quality data, and access to quality data depends on a comprehensive data strategy. In this lightning talk, explore the essential role of a comprehensive data strategy that uses the AWS Health for Data portfolio to unlock the full power of healthcare and life sciences data. Learn how to build integrated data strategies to make better, faster decisions with the power of machine learning and generative AI
+title: Integrated data, generative AI, and a new era of health breakthroughs
+sessionuid: FCCFE2EA-C001-48A2-8620-8677BC473F55
+thirdpartyid: LFS101
+speakers: firstName_0: Valerie, lastName_0: Delva
+tag_name: Amazon Bedrock, Services, IT Professional/Technical Manager, Role, Generative AI, Area of Interest, Amazon DataZone, Services, Databases, Topic, IT Executive, Role, Wednesday, Day, Venetian, Venue, Business Executive, Role, AI/ML, Topic, 100 - Foundational, Level, Life Sciences, Industry

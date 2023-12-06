@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Mouton 2
+summary: tag_name :200 - Intermediate, Level, Application Integration, Area of Interest, AWS Lambda, Services, Solution/Systems Architect, Role, AWS Step Functions, Services, Data Engineer, Role, Tuesday, Day, Wynn, Venue, Amazon EventBridge, Services, Serverless Compute, Topic, Developer/Engineer, Role, , speakers :firstName_0: Ben, lastName_0: Smith, , thirdpartyid :API201, sessionuid :F7748727-EEC9-4911-A046-ED0045501901, title :Serverlesspresso: Building event-driven applications from the start, description :In this workshop, discover how to build a complete coffee-ordering serverless web application. Learn about event-driven architectures and how to use services such as AWS Lambda, Amazon EventBridge, AWS Step Functions, and more. Create a scalable, serverless web application that allows users to order coffee and baristas to keep track of and fulfill orders. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Level 1, locationname :Mouton 2, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Mouton 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Workshop
+description: In this workshop, discover how to build a complete coffee-ordering serverless web application. Learn about event-driven architectures and how to use services such as AWS Lambda, Amazon EventBridge, AWS Step Functions, and more. Create a scalable, serverless web application that allows users to order coffee and baristas to keep track of and fulfill orders. You must bring your laptop to participate
+title: Serverlesspresso: Building event-driven applications from the start
+sessionuid: F7748727-EEC9-4911-A046-ED0045501901
+thirdpartyid: API201
+speakers: firstName_0: Ben, lastName_0: Smith
+tag_name: 200 - Intermediate, Level, Application Integration, Area of Interest, AWS Lambda, Services, Solution/Systems Architect, Role, AWS Step Functions, Services, Data Engineer, Role, Tuesday, Day, Wynn, Venue, Amazon EventBridge, Services, Serverless Compute, Topic, Developer/Engineer, Role

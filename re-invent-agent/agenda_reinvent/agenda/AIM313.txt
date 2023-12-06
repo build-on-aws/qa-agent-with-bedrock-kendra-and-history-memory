@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :AI/ML, Topic, Business Intelligence, Area of Interest, Analytics, Topic, Data Engineer, Role, Data Scientist, Role, Wednesday, Day, Venetian, Venue, 300 - Advanced, Level, Cross Industry, Industry, Amazon Elastic Kubernetes Service (EKS), Services, Developer/Engineer, Role, , speakers :firstName_0: Sameer, lastName_0: Raheja, company_0: NVIDIA, , thirdpartyid :AIM313-S, sessionuid :CEE8F138-0EC1-4EC7-B918-FC17CB2BA691, title :How to accelerate Apache Spark pipelines on Amazon EMR with RAPIDS (sponsored by NVIDIA), description :<p>The RAPIDS Accelerator for Amazon EMR transparently accelerates Apache Spark pipelines for data processing. In this lightning talk, learn how to deploy the RAPIDS Accelerator on Amazon EMR with Amazon EC2 and Amazon EKS using NVIDIA GPUs. Explore the queries that are ideal for GPUs and learn how to predict cost savings for Spark workloads on Amazon EMR. RAPIDS is part of NVIDIA AI Enterprise, an end-to-end, secure, cloud-native suite of AI software available in AWS Marketplace that allows organizations to solve new challenges while increasing operational efficiency. This presentation is brought to you by NVIDIA, an AWS Partner.</p>, sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 00:20:00 -0500, 
+enddatetimeutc: November, 30 2023 00:20:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: <p>The RAPIDS Accelerator for Amazon EMR transparently accelerates Apache Spark pipelines for data processing. In this lightning talk, learn how to deploy the RAPIDS Accelerator on Amazon EMR with Amazon EC2 and Amazon EKS using NVIDIA GPUs. Explore the queries that are ideal for GPUs and learn how to predict cost savings for Spark workloads on Amazon EMR. RAPIDS is part of NVIDIA AI Enterprise, an end-to-end, secure, cloud-native suite of AI software available in AWS Marketplace that allows organizations to solve new challenges while increasing operational efficiency. This presentation is brought to you by NVIDIA, an AWS Partner.</p>
+title: How to accelerate Apache Spark pipelines on Amazon EMR with RAPIDS (sponsored by NVIDIA)
+sessionuid: CEE8F138-0EC1-4EC7-B918-FC17CB2BA691
+thirdpartyid: AIM313-S
+speakers: firstName_0: Sameer, lastName_0: Raheja, company_0: NVIDIA
+tag_name: AI/ML, Topic, Business Intelligence, Area of Interest, Analytics, Topic, Data Engineer, Role, Data Scientist, Role, Wednesday, Day, Venetian, Venue, 300 - Advanced, Level, Cross Industry, Industry, Amazon Elastic Kubernetes Service (EKS), Services, Developer/Engineer, Role

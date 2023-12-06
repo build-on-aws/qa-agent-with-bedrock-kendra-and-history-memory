@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafleur 2
+summary: tag_name :Media & Entertainment, Industry, Edge Computing, Area of Interest, IT Administrator, Role, Sports, Industry, Developer/Engineer, Role, Sustainability, Area of Interest, 200 - Intermediate, Level, Monday, Day, Wynn, Venue, Networking & Content Delivery, Topic, Business Executive, Role, , speakers :firstName_0: Felix, lastName_0: Wegner, firstName_1: Jason, lastName_1: O'Malley, firstName_2: Marcel, lastName_2: Mohaupt, company_2: European League of Football, , thirdpartyid :MAE203, sessionuid :0CF078A1-0B17-4806-97ED-1AE773524FC1, title :How ELF reduced their carbon footprint by broadcasting on AWS, description :In this session, the European League of Football (ELF) shares their journey as a new sports league to adopt a built-in-the-cloud broadcasting production pipeline on AWS. By using AWS cloud-based remote production tools and infrastructure, the 2023 season saw positive impacts including lower video latency, better video quality, increased reliability, lower operational costs, and a reduction in the ELF’s carbon footprint. Learn methods for architecting media workloads efficiently in alignment with the AWS Well-Architected Framework sustainability pillar and how AWS can help with your sustainability journey., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafleur 2, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Lafleur 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: In this session, the European League of Football (ELF) shares their journey as a new sports league to adopt a built-in-the-cloud broadcasting production pipeline on AWS. By using AWS cloud-based remote production tools and infrastructure, the 2023 season saw positive impacts including lower video latency, better video quality, increased reliability, lower operational costs, and a reduction in the ELF’s carbon footprint. Learn methods for architecting media workloads efficiently in alignment with the AWS Well-Architected Framework sustainability pillar and how AWS can help with your sustainability journey
+title: How ELF reduced their carbon footprint by broadcasting on AWS
+sessionuid: 0CF078A1-0B17-4806-97ED-1AE773524FC1
+thirdpartyid: MAE203
+speakers: firstName_0: Felix, lastName_0: Wegner, firstName_1: Jason, lastName_1: O'Malley, firstName_2: Marcel, lastName_2: Mohaupt, company_2: European League of Football
+tag_name: Media & Entertainment, Industry, Edge Computing, Area of Interest, IT Administrator, Role, Sports, Industry, Developer/Engineer, Role, Sustainability, Area of Interest, 200 - Intermediate, Level, Monday, Day, Wynn, Venue, Networking & Content Delivery, Topic, Business Executive, Role

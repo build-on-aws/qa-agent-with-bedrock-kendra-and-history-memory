@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas G
+summary: tag_name :200 - Intermediate, Level, Developer/Engineer, Role, Cross Industry, Industry, Tuesday, Day, Mandalay Bay, Venue, Training & Certification, Topic, DevOps and Developer Productivity, Topic, , speakers :firstName_0: Anita, lastName_0: Harvin, firstName_1: Ike, lastName_1: Ogbo, , thirdpartyid :TNC209, sessionuid :43BAD8C1-85AD-4B76-9243-38E6E16C1B89, title :Exam prep: AWS Certified Developer – Associate, description :<p>Prepare for the AWS Certified Developer – Associate exam with this 1.5-hour interactive study session. Review the AWS Certified Developer – Associate Official Practice Question Set, and get your questions answered by the subject matter expert leading the study session.</p>, sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas G, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: South Seas G
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: <p>Prepare for the AWS Certified Developer – Associate exam with this 1.5-hour interactive study session. Review the AWS Certified Developer – Associate Official Practice Question Set, and get your questions answered by the subject matter expert leading the study session.</p>
+title: Exam prep: AWS Certified Developer – Associate
+sessionuid: 43BAD8C1-85AD-4B76-9243-38E6E16C1B89
+thirdpartyid: TNC209
+speakers: firstName_0: Anita, lastName_0: Harvin, firstName_1: Ike, lastName_1: Ogbo
+tag_name: 200 - Intermediate, Level, Developer/Engineer, Role, Cross Industry, Industry, Tuesday, Day, Mandalay Bay, Venue, Training & Certification, Topic, DevOps and Developer Productivity, Topic

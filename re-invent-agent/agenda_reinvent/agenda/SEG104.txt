@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 355
+summary: tag_name :Tuesday, Day, MGM Grand, Venue, New to AWS, Topic, Independent Software Vendor (ISV), Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, Business Executive, Role, Entrepreneur (Founder/Co-Founder), Role, Sales/Marketing, Role, AWS Marketplace, Services, , speakers :firstName_0: Jeff, lastName_0: Klaus, , thirdpartyid :SEG104, sessionuid :E579AFF5-F97B-4D39-A674-0C9416659622, title :Scale your software company with AWS growth programs, description :<p>With growth a top priority, hear from AWS executives about programs to help you scale. In this session, learn how to expand into new markets with AWS, use the AWS sales team to co-sell your solution, run co-marketing campaigns, and sell on AWS Marketplace. Explore next steps for how and who to engage with at AWS to accelerate your growth in 2024 and beyond.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 355, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Chairmans 355
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>With growth a top priority, hear from AWS executives about programs to help you scale. In this session, learn how to expand into new markets with AWS, use the AWS sales team to co-sell your solution, run co-marketing campaigns, and sell on AWS Marketplace. Explore next steps for how and who to engage with at AWS to accelerate your growth in 2024 and beyond.</p>
+title: Scale your software company with AWS growth programs
+sessionuid: E579AFF5-F97B-4D39-A674-0C9416659622
+thirdpartyid: SEG104
+speakers: firstName_0: Jeff, lastName_0: Klaus
+tag_name: Tuesday, Day, MGM Grand, Venue, New to AWS, Topic, Independent Software Vendor (ISV), Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, Business Executive, Role, Entrepreneur (Founder/Co-Founder), Role, Sales/Marketing, Role, AWS Marketplace, Services

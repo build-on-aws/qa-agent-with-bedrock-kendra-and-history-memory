@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 7
+summary: tag_name :Customer Enablement, Topic, Enterprise & Migration, Topic, AWS Marketplace, Area of Interest, Management & Governance, Area of Interest, Government, Industry, Nonprofit, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, AWS Marketplace, Services, Wednesday, Day, Wynn, Venue, , speakers :firstName_0: Bryana, lastName_0: Tucci, firstName_1: Lori, lastName_1: Anne, company_1: US Government, firstName_2: Matt, lastName_2: Ater, company_2: Vispero, , thirdpartyid :MKT203, sessionuid :B8F75126-4504-4F59-9FB0-9993C82DA220, title :AWS Marketplace helps government agencies meet accessibility mandates, description :<p>Government agencies need to meet accessibility mandates under Section 508. In this session, learn about how organizations can implement and manage accessibility programs through an AWS Partner solution in AWS Marketplace for the U.S. Intelligence Community (ICMP) in the AWS Top Secret Region, an Amazon Dedicated Cloud (ADC). Hear how AWS, a U.S. Intelligence Community customer, and an AWS Partner came together to improve accessibility for vision-impaired government officials—a system that the private sector can replicate as well.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 7, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Cristal 7
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: standard
+description: <p>Government agencies need to meet accessibility mandates under Section 508. In this session, learn about how organizations can implement and manage accessibility programs through an AWS Partner solution in AWS Marketplace for the U.S. Intelligence Community (ICMP) in the AWS Top Secret Region, an Amazon Dedicated Cloud (ADC). Hear how AWS, a U.S. Intelligence Community customer, and an AWS Partner came together to improve accessibility for vision-impaired government officials—a system that the private sector can replicate as well.</p>
+title: AWS Marketplace helps government agencies meet accessibility mandates
+sessionuid: B8F75126-4504-4F59-9FB0-9993C82DA220
+thirdpartyid: MKT203
+speakers: firstName_0: Bryana, lastName_0: Tucci, firstName_1: Lori, lastName_1: Anne, company_1: US Government, firstName_2: Matt, lastName_2: Ater, company_2: Vispero
+tag_name: Customer Enablement, Topic, Enterprise & Migration, Topic, AWS Marketplace, Area of Interest, Management & Governance, Area of Interest, Government, Industry, Nonprofit, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, AWS Marketplace, Services, Wednesday, Day, Wynn, Venue

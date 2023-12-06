@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :DevOps and Developer Productivity, Topic, 200 - Intermediate, Level, AWS Device Farm, Services, Monday, Day, Venetian, Venue, Developer/Engineer, Role, Front-End Web & Mobile, Area of Interest, Business Applications, Topic, , speakers :firstName_0: Ozioma, lastName_0: Uzoegwu, firstName_1: Robert, lastName_1: Bradley, , thirdpartyid :FWM208, sessionuid :84F082CD-FA39-4CD0-A3F1-F7DD3A2C0063, title :Running AWS Device Farm tests from Amazon CodeCatalyst, description :In this follow-up demonstration to FWM202, see how to test desktop browser–based applications using AWS Device Farm. Write test specifications to implement automated tests against core functions like login, alerts, and navigation. These tests will validate expected behavior across the AWS Device Farm available browsers and capabilities. Also test your continuous integration and continuous delivery (CI/CD) pipeline within Amazon CodeCatalyst. The goal of this lightning talk is for you to leave with practical knowledge of using Device Farm for automated and remote access testing of web-based applications., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: In this follow-up demonstration to FWM202, see how to test desktop browser–based applications using AWS Device Farm. Write test specifications to implement automated tests against core functions like login, alerts, and navigation. These tests will validate expected behavior across the AWS Device Farm available browsers and capabilities. Also test your continuous integration and continuous delivery (CI/CD) pipeline within Amazon CodeCatalyst. The goal of this lightning talk is for you to leave with practical knowledge of using Device Farm for automated and remote access testing of web-based applications
+title: Running AWS Device Farm tests from Amazon CodeCatalyst
+sessionuid: 84F082CD-FA39-4CD0-A3F1-F7DD3A2C0063
+thirdpartyid: FWM208
+speakers: firstName_0: Ozioma, lastName_0: Uzoegwu, firstName_1: Robert, lastName_1: Bradley
+tag_name: DevOps and Developer Productivity, Topic, 200 - Intermediate, Level, AWS Device Farm, Services, Monday, Day, Venetian, Venue, Developer/Engineer, Role, Front-End Web & Mobile, Area of Interest, Business Applications, Topic

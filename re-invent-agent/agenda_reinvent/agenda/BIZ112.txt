@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Wednesday, Day, Venetian, Venue, AI/ML, Topic, Business Applications, Topic, Innovation on AWS, Area of Interest, SaaS, Area of Interest, Generative AI, Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, Business Executive, Role, Data Scientist, Role, Developer/Engineer, Role, AWS AppFabric, Services, , speakers :firstName_0: Odianosen, lastName_0: Enaholo, firstName_1: Anant, lastName_1: Patel, , thirdpartyid :BIZ112, sessionuid :7D19697F-1910-45A3-A694-F9EE5C4F9B36, title :How generative AI features of AWS AppFabric help SaaS app developers, description :<p>Application developers see the benefits that generative AI can bring to their applications but are faced with distinct challenges as they reinvent their application experiences and elevate personalization. Join this lightning talk to learn how the generative AI features of AWS AppFabric let software as a service (SaaS) application developers quickly add intelligent, relevant cross-application experiences for their end users without building custom integrations to other applications.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 01:50:00 -0500, 
+enddatetimeutc: November, 30 2023 01:50:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Application developers see the benefits that generative AI can bring to their applications but are faced with distinct challenges as they reinvent their application experiences and elevate personalization. Join this lightning talk to learn how the generative AI features of AWS AppFabric let software as a service (SaaS) application developers quickly add intelligent, relevant cross-application experiences for their end users without building custom integrations to other applications.</p>
+title: How generative AI features of AWS AppFabric help SaaS app developers
+sessionuid: 7D19697F-1910-45A3-A694-F9EE5C4F9B36
+thirdpartyid: BIZ112
+speakers: firstName_0: Odianosen, lastName_0: Enaholo, firstName_1: Anant, lastName_1: Patel
+tag_name: Wednesday, Day, Venetian, Venue, AI/ML, Topic, Business Applications, Topic, Innovation on AWS, Area of Interest, SaaS, Area of Interest, Generative AI, Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, Business Executive, Role, Data Scientist, Role, Developer/Engineer, Role, AWS AppFabric, Services

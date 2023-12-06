@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :Student, Role, Solution/Systems Architect, Role, Life Sciences, Industry, Amazon Braket, Services, 300 - Advanced, Level, Government, Industry, Education, Industry, Academic/Researcher, Role, Monday, Day, Mandalay Bay, Venue, Hybrid Cloud, Topic, Quantum Technologies, Area of Interest, , speakers :firstName_0: Alexander, lastName_0: Dalzell, firstName_1: Samuel, lastName_1: McArdle, , thirdpartyid :QTC302-R, sessionuid :C02602B1-D60C-4A15-A36F-08CE6646C512, title :Evaluating algorithms and potential applications of quantum computing [REPEAT], description :Quantum computing has far-reaching proposed applications ranging from drug design and materials engineering to supply chain management and computational finance. However, not all applications are equally viable, as many face significant challenges that will need to be overcome to make them a reality. In this chalk talk, join quantum algorithm experts from the AWS Center for Quantum Computing to learn how future applications can be compared and evaluated as candidates for quantum solutions. Dive deep into the world of quantum algorithms and learn why quantum computers may or may not be helpful for solving certain problems., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: Quantum computing has far-reaching proposed applications ranging from drug design and materials engineering to supply chain management and computational finance. However, not all applications are equally viable, as many face significant challenges that will need to be overcome to make them a reality. In this chalk talk, join quantum algorithm experts from the AWS Center for Quantum Computing to learn how future applications can be compared and evaluated as candidates for quantum solutions. Dive deep into the world of quantum algorithms and learn why quantum computers may or may not be helpful for solving certain problems
+title: Evaluating algorithms and potential applications of quantum computing [REPEAT]
+sessionuid: C02602B1-D60C-4A15-A36F-08CE6646C512
+thirdpartyid: QTC302-R
+speakers: firstName_0: Alexander, lastName_0: Dalzell, firstName_1: Samuel, lastName_1: McArdle
+tag_name: Student, Role, Solution/Systems Architect, Role, Life Sciences, Industry, Amazon Braket, Services, 300 - Advanced, Level, Government, Industry, Education, Industry, Academic/Researcher, Role, Monday, Day, Mandalay Bay, Venue, Hybrid Cloud, Topic, Quantum Technologies, Area of Interest

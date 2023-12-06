@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1280
+summary: tag_name :Inclusion & Diversity, Area of Interest, Thursday, Day, Venetian, Venue, PeerTalks, Additional Services, , speakers :, thirdpartyid :ACT052, sessionuid :5C39480F-D88C-4E20-8F1D-9B1F0264BBDB, title :Underrepresented Founder Startup workshop and meetup, description :Dr. Laura Huang, an HBS professor who studied gender parity in the startup world, found that women founders get asked more prevention questions (“Is this actually a large market opportunity?”) while men get asked more promotion questions (“How big can this business get?”). Join the AWS Startups and Underrepresented Founder Startup BD teams for a tactical pitching workshop to learn how to identify unconsciously biased questions, ways to respond using the reclaim, inform, and promote (RIP) method, and how to clarify and pivot. Following this workshop, network and find community with fellow re:Invent attendees during our meetup for underrepresented startup founders., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1280, startdatetimeutc :November, 30 2023 20:00:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:00:00 -0500
+locationname: Hall B, Expo, Booth #1280
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Dr. Laura Huang, an HBS professor who studied gender parity in the startup world, found that women founders get asked more prevention questions (“Is this actually a large market opportunity?”) while men get asked more promotion questions (“How big can this business get?”). Join the AWS Startups and Underrepresented Founder Startup BD teams for a tactical pitching workshop to learn how to identify unconsciously biased questions, ways to respond using the reclaim, inform, and promote (RIP) method, and how to clarify and pivot. Following this workshop, network and find community with fellow re:Invent attendees during our meetup for underrepresented startup founders
+title: Underrepresented Founder Startup workshop and meetup
+sessionuid: 5C39480F-D88C-4E20-8F1D-9B1F0264BBDB
+thirdpartyid: ACT052
+speakers: 
+tag_name: Inclusion & Diversity, Area of Interest, Thursday, Day, Venetian, Venue, PeerTalks, Additional Services

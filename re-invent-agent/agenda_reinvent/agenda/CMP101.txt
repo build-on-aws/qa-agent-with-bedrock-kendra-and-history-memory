@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Murano 3203
+summary: tag_name :Cross Industry, Industry, Compute, Topic, Well-Architected Framework, Area of Interest, IT Professional/Technical Manager, Role, Tuesday, Day, Venetian, Venue, Amazon Elastic Compute Cloud (EC2), Services, Solution/Systems Architect, Role, Developer/Engineer, Role, 100 - Foundational, Level, DevOps and Developer Productivity, Topic, Application Integration, Area of Interest, Innovation on AWS, Area of Interest, , speakers :firstName_0: Murat, lastName_0: Guven, firstName_1: Puneeth, lastName_1: Tirunagari, , thirdpartyid :CMP101, sessionuid :6A832E40-DDBF-4905-8C4D-EBDA4952CD68, title :Become a pro at Amazon Lightsail for Research in 90 minutes, description :Ready to become an Amazon Lightsail for Research expert? This workshop takes you through deploying a virtual computer, loading datasets, and running queries on that data quickly and efficiently. Learn about cost optimization, budgets, and best practices to maximize the value you get from the service. You must bring your laptop to participate., sessiontype :Workshop, venuename :Venetian, floorplanname :Level 3, locationname :Murano 3203, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Murano 3203
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Workshop
+description: Ready to become an Amazon Lightsail for Research expert? This workshop takes you through deploying a virtual computer, loading datasets, and running queries on that data quickly and efficiently. Learn about cost optimization, budgets, and best practices to maximize the value you get from the service. You must bring your laptop to participate
+title: Become a pro at Amazon Lightsail for Research in 90 minutes
+sessionuid: 6A832E40-DDBF-4905-8C4D-EBDA4952CD68
+thirdpartyid: CMP101
+speakers: firstName_0: Murat, lastName_0: Guven, firstName_1: Puneeth, lastName_1: Tirunagari
+tag_name: Cross Industry, Industry, Compute, Topic, Well-Architected Framework, Area of Interest, IT Professional/Technical Manager, Role, Tuesday, Day, Venetian, Venue, Amazon Elastic Compute Cloud (EC2), Services, Solution/Systems Architect, Role, Developer/Engineer, Role, 100 - Foundational, Level, DevOps and Developer Productivity, Topic, Application Integration, Area of Interest, Innovation on AWS, Area of Interest

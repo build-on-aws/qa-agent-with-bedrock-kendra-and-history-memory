@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon SageMaker, Services, Automotive, Industry, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, Caesars Forum, Venue, Thursday, Day, Amazon Elastic Compute Cloud (EC2), Services, Amazon Simple Storage Service (S3), Services, Compute, Topic, AI/ML, Topic, , speakers :firstName_0: Maria, lastName_0: Guerra, firstName_1: Jörg, lastName_1: Krebs, company_1: BMW, firstName_2: Sriram, lastName_2: Palghat, company_2: Qualcomm, , thirdpartyid :AUT202, sessionuid :1F74E29F-FFA3-4165-A64E-1C9935E18F63, title :How BMW & Qualcomm built an automated driving software platform on AWS, description :<p>Developing highly automated driving features is a data-driven, compute-intensive process that includes a complex tool chain. &nbsp;From data ingest to algorithm training and large-scale simulation, learn how BMW utilizes AWS Cloud infrastructure for data management and tool chain integration to accelerate automated driving feature development for the Neue Klasse of vehicles starting production in 2025.</p>, sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: <p>Developing highly automated driving features is a data-driven, compute-intensive process that includes a complex tool chain. &nbsp;From data ingest to algorithm training and large-scale simulation, learn how BMW utilizes AWS Cloud infrastructure for data management and tool chain integration to accelerate automated driving feature development for the Neue Klasse of vehicles starting production in 2025.</p>
+title: How BMW & Qualcomm built an automated driving software platform on AWS
+sessionuid: 1F74E29F-FFA3-4165-A64E-1C9935E18F63
+thirdpartyid: AUT202
+speakers: firstName_0: Maria, lastName_0: Guerra, firstName_1: Jörg, lastName_1: Krebs, company_1: BMW, firstName_2: Sriram, lastName_2: Palghat, company_2: Qualcomm
+tag_name: Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon SageMaker, Services, Automotive, Industry, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, Caesars Forum, Venue, Thursday, Day, Amazon Elastic Compute Cloud (EC2), Services, Amazon Simple Storage Service (S3), Services, Compute, Topic, AI/ML, Topic

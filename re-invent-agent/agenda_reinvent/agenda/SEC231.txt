@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Cloud Operations, Topic, Security, Compliance, & Identity, Topic, Application Security, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Cloud Security Specialist, Role, Wednesday, Day, Venetian, Venue, , speakers :firstName_0: Ty, lastName_0: Murphy, company_0: Orca Security, , thirdpartyid :SEC231-S, sessionuid :ED99ED6D-98E5-4FF1-8511-B69EE19FBF5C, title :The origin of cloud security challenges and a revolutionary solution (sponsored by Orca Security), description :<p>AWS has revolutionized the way IT infrastructure is managed, providing enterprises with greater flexibility, improved business continuity, and cost reduction. However, the security market has used the same approach as when everything was managed on premises. In this lightning talk, explore what led to application of these techniques, the challenges these approaches caused, and a revolutionary change that gave security teams the advantage they needed to keep pace with the speed and scale of the cloud. This presentation is brought to you by Orca Security, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>AWS has revolutionized the way IT infrastructure is managed, providing enterprises with greater flexibility, improved business continuity, and cost reduction. However, the security market has used the same approach as when everything was managed on premises. In this lightning talk, explore what led to application of these techniques, the challenges these approaches caused, and a revolutionary change that gave security teams the advantage they needed to keep pace with the speed and scale of the cloud. This presentation is brought to you by Orca Security, an AWS Partner.</p>
+title: The origin of cloud security challenges and a revolutionary solution (sponsored by Orca Security)
+sessionuid: ED99ED6D-98E5-4FF1-8511-B69EE19FBF5C
+thirdpartyid: SEC231-S
+speakers: firstName_0: Ty, lastName_0: Murphy, company_0: Orca Security
+tag_name: Cloud Operations, Topic, Security, Compliance, & Identity, Topic, Application Security, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Cloud Security Specialist, Role, Wednesday, Day, Venetian, Venue

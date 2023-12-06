@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :IT Executive, Role, Cross Industry, Industry, IT Professional/Technical Manager, Role, Wednesday, Day, Venetian, Venue, Non-English, Area of Interest, Solution/Systems Architect, Role, 200 - Intermediate, Level, , speakers :firstName_0: Akira, lastName_0: Yamauchi, , thirdpartyid :GBL212-JA, sessionuid :375CF849-18DF-4B34-B8B6-59A5F333FE0A, title :10 essential concepts for AWS architecting [Japanese], description :This lightning talk is delivered in Japanese. AWS has continually released new services and features for our customers' innovation, yet the key principles of architecture design have not changed. In this talk, explore 10 essential and versatile design principles to help increase your AWS utilization., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: This lightning talk is delivered in Japanese. AWS has continually released new services and features for our customers' innovation, yet the key principles of architecture design have not changed. In this talk, explore 10 essential and versatile design principles to help increase your AWS utilization
+title: 10 essential concepts for AWS architecting [Japanese]
+sessionuid: 375CF849-18DF-4B34-B8B6-59A5F333FE0A
+thirdpartyid: GBL212-JA
+speakers: firstName_0: Akira, lastName_0: Yamauchi
+tag_name: IT Executive, Role, Cross Industry, Industry, IT Professional/Technical Manager, Role, Wednesday, Day, Venetian, Venue, Non-English, Area of Interest, Solution/Systems Architect, Role, 200 - Intermediate, Level

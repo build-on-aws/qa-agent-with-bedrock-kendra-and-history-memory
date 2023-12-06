@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 115
+summary: tag_name :100 - Foundational, Level, Entrepreneur (Founder/Co-Founder), Role, Monday, Day, MGM Grand, Venue, Cross Industry, Industry, Business Executive, Role, Innovation on AWS, Area of Interest, IT Executive, Role, , speakers :firstName_0: Alla, lastName_0: Simoneau, firstName_1: Rich, lastName_1: Hua, , thirdpartyid :INO103, sessionuid :9B0D4F00-8C77-4246-A00A-F3F20D269CBA, title :The innovator’s mindset: Building adaptable & resilient organizations, description :<p>Culture can become your most powerful differentiator. Over the last 20+ years, Amazon’s peculiar culture has been linked to not just how we use technology or structure teams, but also the consistent application of core mechanisms resulting in sustained innovation and resilience. But innovation is not only a cognitive process—it’s also an emotional one. This session provides a unique perspective on building a resilient innovation culture and discusses how to balance technical and emotional skills to empower talent and create long-term agility. Learn how to tap into this often underrated side of your brain to supercharge your own focus, creativity, and innovation.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 115, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 01:30:00 -0500, 
+enddatetimeutc: November, 28 2023 01:30:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: Grand 115
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>Culture can become your most powerful differentiator. Over the last 20+ years, Amazon’s peculiar culture has been linked to not just how we use technology or structure teams, but also the consistent application of core mechanisms resulting in sustained innovation and resilience. But innovation is not only a cognitive process—it’s also an emotional one. This session provides a unique perspective on building a resilient innovation culture and discusses how to balance technical and emotional skills to empower talent and create long-term agility. Learn how to tap into this often underrated side of your brain to supercharge your own focus, creativity, and innovation.</p>
+title: The innovator’s mindset: Building adaptable & resilient organizations
+sessionuid: 9B0D4F00-8C77-4246-A00A-F3F20D269CBA
+thirdpartyid: INO103
+speakers: firstName_0: Alla, lastName_0: Simoneau, firstName_1: Rich, lastName_1: Hua
+tag_name: 100 - Foundational, Level, Entrepreneur (Founder/Co-Founder), Role, Monday, Day, MGM Grand, Venue, Cross Industry, Industry, Business Executive, Role, Innovation on AWS, Area of Interest, IT Executive, Role

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 167
+summary: tag_name :300 - Advanced, Level, Security, Compliance, & Identity, Topic, Thursday, Day, MGM Grand, Venue, Amazon SageMaker, Services, Amazon Simple Storage Service (S3), Services, AWS Key Management Service (KMS), Services, , speakers :firstName_0: Mark, lastName_0: Cline, firstName_1: Zach, lastName_1: Miller, , thirdpartyid :SEC326, sessionuid :B2482D6E-2F4F-435F-B08A-C9B4E977E4CB, title :Securely modernize payment applications with AWS, description :Payment processing is a complex practice that requires some of the highest levels of security, compliance, and performance. AWS Payment Cryptography allows organization to replace their complex and expensive payment hardware security modules (HSMs) with an elastic, managed service with pay-as-you-go pricing. Organizations that migrate payment processing applications to AWS often have important requirements such as tokenizing sensitive data and incorporating fraud analysis on incoming transactions. In this chalk talk, consider important architectural decisions for building or modernizing payment applications on AWS, and explore reference architectures for common use cases like PCI PIN block translation, tokenization of cardholder data, and fraud analysis for payment data., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 167, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Boulevard 167
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Payment processing is a complex practice that requires some of the highest levels of security, compliance, and performance. AWS Payment Cryptography allows organization to replace their complex and expensive payment hardware security modules (HSMs) with an elastic, managed service with pay-as-you-go pricing. Organizations that migrate payment processing applications to AWS often have important requirements such as tokenizing sensitive data and incorporating fraud analysis on incoming transactions. In this chalk talk, consider important architectural decisions for building or modernizing payment applications on AWS, and explore reference architectures for common use cases like PCI PIN block translation, tokenization of cardholder data, and fraud analysis for payment data
+title: Securely modernize payment applications with AWS
+sessionuid: B2482D6E-2F4F-435F-B08A-C9B4E977E4CB
+thirdpartyid: SEC326
+speakers: firstName_0: Mark, lastName_0: Cline, firstName_1: Zach, lastName_1: Miller
+tag_name: 300 - Advanced, Level, Security, Compliance, & Identity, Topic, Thursday, Day, MGM Grand, Venue, Amazon SageMaker, Services, Amazon Simple Storage Service (S3), Services, AWS Key Management Service (KMS), Services

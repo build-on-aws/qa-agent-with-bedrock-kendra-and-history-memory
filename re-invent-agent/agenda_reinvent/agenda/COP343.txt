@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Summit Showroom
+summary: tag_name :300 - Advanced, Level, Developer/Engineer, Role, Tuesday, Day, Venetian, Venue, AWS X-Ray, Services, IT Professional/Technical Manager, Role, Amazon CloudWatch, Services, DevOps Engineer, Role, Cloud Operations, Topic, Monitoring & Observability, Area of Interest, , speakers :firstName_0: David, lastName_0: Yanacek, , thirdpartyid :COP343, sessionuid :3844EC73-E267-4ACF-AE2B-4D86C206564E, title :Building observability to increase resiliency, description :Using observability effectively is essential for proving your resilient system operates the way you planned. Well-applied observability helps you find early signs of problems, before they impact customers, and react quickly to mitigate impact. In this session, learn how you can use observability best practices to improve your resilience posture in AWS. Dive deep into real-world failure modes, and see how you can use the right combination of instrumentation and observability tools to solve them quickly. This session includes a demo of these techniques and practices using AWS services like Amazon CloudWatch and AWS X-Ray., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Summit Showroom, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: Summit Showroom
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: Using observability effectively is essential for proving your resilient system operates the way you planned. Well-applied observability helps you find early signs of problems, before they impact customers, and react quickly to mitigate impact. In this session, learn how you can use observability best practices to improve your resilience posture in AWS. Dive deep into real-world failure modes, and see how you can use the right combination of instrumentation and observability tools to solve them quickly. This session includes a demo of these techniques and practices using AWS services like Amazon CloudWatch and AWS X-Ray
+title: Building observability to increase resiliency
+sessionuid: 3844EC73-E267-4ACF-AE2B-4D86C206564E
+thirdpartyid: COP343
+speakers: firstName_0: David, lastName_0: Yanacek
+tag_name: 300 - Advanced, Level, Developer/Engineer, Role, Tuesday, Day, Venetian, Venue, AWS X-Ray, Services, IT Professional/Technical Manager, Role, Amazon CloudWatch, Services, DevOps Engineer, Role, Cloud Operations, Topic, Monitoring & Observability, Area of Interest

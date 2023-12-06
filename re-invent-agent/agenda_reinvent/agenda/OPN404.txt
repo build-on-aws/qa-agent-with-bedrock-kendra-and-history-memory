@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Reef F
+summary: tag_name :System Administrator, Role, Developer/Engineer, Role, Open Source, Area of Interest, 400 - Expert, Level, Tuesday, Day, Mandalay Bay, Venue, Business Applications, Topic, DevOps and Developer Productivity, Topic, DevOps Engineer, Role, , speakers :firstName_0: Niall, lastName_0: Thomson, firstName_1: Mihai, lastName_1: Tabara, company_1: Spotify, firstName_2: Bryan, lastName_2: Landes, , thirdpartyid :OPN404, sessionuid :BD017CEE-9868-474A-A93D-78C55FC16290, title :Transforming deployment: Deep dive into Backstage on AWS, description :In this session, go beyond the basics and learn about the intricacies of deploying Backstage on AWS with experts from AWS and Spotify. This session is designed for seasoned platform engineers, DevOps professionals, and anyone who is ready to explore advanced Backstage deployment strategies. Backstage is transforming the way organizations approach their developer portals by simplifying onboarding, increasing adherence to best practices, and providing a unified view of an organization's operational landscape., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Reef F, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: Reef F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: In this session, go beyond the basics and learn about the intricacies of deploying Backstage on AWS with experts from AWS and Spotify. This session is designed for seasoned platform engineers, DevOps professionals, and anyone who is ready to explore advanced Backstage deployment strategies. Backstage is transforming the way organizations approach their developer portals by simplifying onboarding, increasing adherence to best practices, and providing a unified view of an organization's operational landscape
+title: Transforming deployment: Deep dive into Backstage on AWS
+sessionuid: BD017CEE-9868-474A-A93D-78C55FC16290
+thirdpartyid: OPN404
+speakers: firstName_0: Niall, lastName_0: Thomson, firstName_1: Mihai, lastName_1: Tabara, company_1: Spotify, firstName_2: Bryan, lastName_2: Landes
+tag_name: System Administrator, Role, Developer/Engineer, Role, Open Source, Area of Interest, 400 - Expert, Level, Tuesday, Day, Mandalay Bay, Venue, Business Applications, Topic, DevOps and Developer Productivity, Topic, DevOps Engineer, Role

@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific E
+summary: tag_name :Developer/Engineer, Role, 300 - Advanced, Level, Solution/Systems Architect, Role, Wednesday, Day, Mandalay Bay, Venue, AI/ML, Topic, Generative AI, Area of Interest, Amazon SageMaker, Services, IT Professional/Technical Manager, Role, Amazon Bedrock, Services, Analytics, Topic, Cross Industry, Industry, , speakers :firstName_0: Mark, lastName_0: Roy, firstName_1: Girish, lastName_1: Arunagiri, firstName_2: Takeshi, lastName_2: Yamada, company_2: NIKKEI, , thirdpartyid :AIM337, sessionuid :19C50881-3BEE-4CEA-BE5B-67B49B2969B5, title :Accelerate generative AI application development with Amazon Bedrock, description :<p>Generative AI has the potential to transform how companies build applications and engage customers by enabling more intuitive, conversational experiences. In this session, learn how to utilize Amazon Bedrock’s serverless experience to quickly build and scale generative AI applications with a choice of leading foundation models, while maintaining security and privacy. See how you can privately customize models with your own data to deliver differentiated experiences to your customers. See a demo of the end-to-end developer experience and the broad capabilities of Amazon Bedrock.</p>, sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific E, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 02:30:00 -0500, 
+enddatetimeutc: November, 30 2023 02:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: South Pacific E
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: <p>Generative AI has the potential to transform how companies build applications and engage customers by enabling more intuitive, conversational experiences. In this session, learn how to utilize Amazon Bedrock’s serverless experience to quickly build and scale generative AI applications with a choice of leading foundation models, while maintaining security and privacy. See how you can privately customize models with your own data to deliver differentiated experiences to your customers. See a demo of the end-to-end developer experience and the broad capabilities of Amazon Bedrock.</p>
+title: Accelerate generative AI application development with Amazon Bedrock
+sessionuid: 19C50881-3BEE-4CEA-BE5B-67B49B2969B5
+thirdpartyid: AIM337
+speakers: firstName_0: Mark, lastName_0: Roy, firstName_1: Girish, lastName_1: Arunagiri, firstName_2: Takeshi, lastName_2: Yamada, company_2: NIKKEI
+tag_name: Developer/Engineer, Role, 300 - Advanced, Level, Solution/Systems Architect, Role, Wednesday, Day, Mandalay Bay, Venue, AI/ML, Topic, Generative AI, Area of Interest, Amazon SageMaker, Services, IT Professional/Technical Manager, Role, Amazon Bedrock, Services, Analytics, Topic, Cross Industry, Industry

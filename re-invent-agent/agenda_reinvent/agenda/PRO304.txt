@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 355
+summary: tag_name :300 - Advanced, Level, Games, Industry, AI/ML, Topic, Analytics, Topic, Sports, Industry, Sales/Marketing, Role, Business Executive, Role, Media & Entertainment, Industry, Generative AI, Area of Interest, Data Scientist, Role, Tuesday, Day, MGM Grand, Venue, Business Intelligence, Area of Interest, Customer Stories, Area of Interest, Amazon SageMaker, Services, , speakers :firstName_0: Aarti, lastName_0: Sahni, firstName_1: Andrew, lastName_1: Uhm, company_1: NFL, firstName_2: Elena, lastName_2: Ehrlich, , thirdpartyid :PRO304, sessionuid :6E467797-812E-43D0-8A9F-ABDA01323640, title :NFL Next Gen Stats: Using AI/ML to transform fan engagement, description :The landscape of sports statistics has evolved over the years, transitioning from the basic box scores to more advanced metrics that provide a deeper understanding of player performance and game dynamics. With the advent of next-gen stats and data analytics, football analysts and enthusiasts are now equipped with tools to analyze the game in unprecedented detail. Join this session to learn how AWS and the NFL's Next Gen Stats team use cutting-edge technologies like AI/ML to develop new stats from the ground up and retrain existing ones., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 355, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: Chairmans 355
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: The landscape of sports statistics has evolved over the years, transitioning from the basic box scores to more advanced metrics that provide a deeper understanding of player performance and game dynamics. With the advent of next-gen stats and data analytics, football analysts and enthusiasts are now equipped with tools to analyze the game in unprecedented detail. Join this session to learn how AWS and the NFL's Next Gen Stats team use cutting-edge technologies like AI/ML to develop new stats from the ground up and retrain existing ones
+title: NFL Next Gen Stats: Using AI/ML to transform fan engagement
+sessionuid: 6E467797-812E-43D0-8A9F-ABDA01323640
+thirdpartyid: PRO304
+speakers: firstName_0: Aarti, lastName_0: Sahni, firstName_1: Andrew, lastName_1: Uhm, company_1: NFL, firstName_2: Elena, lastName_2: Ehrlich
+tag_name: 300 - Advanced, Level, Games, Industry, AI/ML, Topic, Analytics, Topic, Sports, Industry, Sales/Marketing, Role, Business Executive, Role, Media & Entertainment, Industry, Generative AI, Area of Interest, Data Scientist, Role, Tuesday, Day, MGM Grand, Venue, Business Intelligence, Area of Interest, Customer Stories, Area of Interest, Amazon SageMaker, Services

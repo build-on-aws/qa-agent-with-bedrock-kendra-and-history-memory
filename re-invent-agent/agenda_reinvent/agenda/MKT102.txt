@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafleur 2
+summary: tag_name :AWS Marketplace, Area of Interest, 100 - Foundational, Level, Migration & Transfer, Area of Interest, AWS Marketplace, Services, Cloud Operations, Topic, Business Executive, Role, IT Executive, Role, Enterprise & Migration, Topic, IT Professional/Technical Manager, Role, Wednesday, Day, Wynn, Venue, , speakers :firstName_0: Matthew, lastName_0: Nagle, firstName_1: Akin, lastName_1: Ceylan, company_1: Lionsgate, firstName_2: Gray, lastName_2: Ainsworth, company_2: Lionsgate, , thirdpartyid :MKT102, sessionuid :ECD5DD6E-0A88-4E5C-95C2-641FCF2BE07F, title :Fast-track industry modernization with AWS Marketplace, description :As the number of industry-focused solutions in the cloud continues to expand, business and technical decision-makers, along with line-of-business leaders, are turning to specialized partners to optimize and accelerate innovation within their industry. These organizations are increasingly taking a buy vs. build approach, looking for purpose-built solutions that help address their users’ unique needs. In this session, one AWS customer shares how procuring industry partner solutions on AWS Marketplace helped them simplify procurement and unlock innovation faster., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafleur 2, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 21:00:00 -0500, 
+enddatetimeutc: November, 29 2023 21:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Lafleur 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: As the number of industry-focused solutions in the cloud continues to expand, business and technical decision-makers, along with line-of-business leaders, are turning to specialized partners to optimize and accelerate innovation within their industry. These organizations are increasingly taking a buy vs. build approach, looking for purpose-built solutions that help address their users’ unique needs. In this session, one AWS customer shares how procuring industry partner solutions on AWS Marketplace helped them simplify procurement and unlock innovation faster
+title: Fast-track industry modernization with AWS Marketplace
+sessionuid: ECD5DD6E-0A88-4E5C-95C2-641FCF2BE07F
+thirdpartyid: MKT102
+speakers: firstName_0: Matthew, lastName_0: Nagle, firstName_1: Akin, lastName_1: Ceylan, company_1: Lionsgate, firstName_2: Gray, lastName_2: Ainsworth, company_2: Lionsgate
+tag_name: AWS Marketplace, Area of Interest, 100 - Foundational, Level, Migration & Transfer, Area of Interest, AWS Marketplace, Services, Cloud Operations, Topic, Business Executive, Role, IT Executive, Role, Enterprise & Migration, Topic, IT Professional/Technical Manager, Role, Wednesday, Day, Wynn, Venue

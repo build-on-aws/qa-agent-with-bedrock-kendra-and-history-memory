@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 2
+summary: tag_name :Developer/Engineer, Role, 400 - Expert, Level, AWS Service Catalog, Services, Solution/Systems Architect, Role, Management & Governance, Area of Interest, AWS Control Tower, Services, DevOps Engineer, Role, Wednesday, Day, Wynn, Venue, Cloud Operations, Topic, AWS Cloud Development Kit (CDK), Services, , speakers :firstName_0: Eric, lastName_0: Westfall, firstName_1: Brian, lastName_1: Terry, , thirdpartyid :COP405, sessionuid :E5A07B40-746C-406B-B5D1-4D5E46D5E1CC, title :Coding for account customizations at scale, description :In this code talk, learn how to apply baseline configurations and account customizations across your multi-account AWS environment at scale. Dive deep into AWS Cloud Development Kit (AWS CDK) and HashiCorp Terraform, discover real-world examples, and explore how AWS Control Tower and account factory customizations (AFCs) can help you securely scale your customizations across hundreds or even thousands of accounts., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 2, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Lafite 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: In this code talk, learn how to apply baseline configurations and account customizations across your multi-account AWS environment at scale. Dive deep into AWS Cloud Development Kit (AWS CDK) and HashiCorp Terraform, discover real-world examples, and explore how AWS Control Tower and account factory customizations (AFCs) can help you securely scale your customizations across hundreds or even thousands of accounts
+title: Coding for account customizations at scale
+sessionuid: E5A07B40-746C-406B-B5D1-4D5E46D5E1CC
+thirdpartyid: COP405
+speakers: firstName_0: Eric, lastName_0: Westfall, firstName_1: Brian, lastName_1: Terry
+tag_name: Developer/Engineer, Role, 400 - Expert, Level, AWS Service Catalog, Services, Solution/Systems Architect, Role, Management & Governance, Area of Interest, AWS Control Tower, Services, DevOps Engineer, Role, Wednesday, Day, Wynn, Venue, Cloud Operations, Topic, AWS Cloud Development Kit (CDK), Services

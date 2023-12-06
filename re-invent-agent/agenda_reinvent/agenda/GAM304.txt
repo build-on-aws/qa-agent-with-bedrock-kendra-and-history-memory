@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine F
+summary: tag_name :Wednesday, Day, Mandalay Bay, Venue, Compute, Topic, Networking & Content Delivery, Topic, Customer Stories, Area of Interest, Edge Computing, Area of Interest, Global Infrastructure, Area of Interest, Games, Industry, Media & Entertainment, Industry, 300 - Advanced, Level, Developer/Engineer, Role, IT Administrator, Role, Solution/Systems Architect, Role, Amazon Elastic Kubernetes Service (EKS), Services, AWS Global Accelerator, Services, AWS Outposts, Services, , speakers :firstName_0: Hadrian, lastName_0: Baron, firstName_1: Aditya, lastName_1: Kumar, company_1: Riot Games, firstName_2: Ruaidhri, lastName_2: Power, company_2: Riot Games, , thirdpartyid :GAM304, sessionuid :1CD8D879-70CA-4A47-95BB-3D25401CC806, title :Exiting the data center: A League of Legends and VALORANT story, description :<p>Moving hundreds of thousands of players from on-premises data centers to the cloud with minimal downtime requires a unique mix of engineering, planning, and collaboration. In this session, learn how Riot Games, AWS, and Slalom globally migrated League of Legends and VALORANT from the data center to AWS Regions and AWS Local Zones.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine F, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Jasmine F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Moving hundreds of thousands of players from on-premises data centers to the cloud with minimal downtime requires a unique mix of engineering, planning, and collaboration. In this session, learn how Riot Games, AWS, and Slalom globally migrated League of Legends and VALORANT from the data center to AWS Regions and AWS Local Zones.</p>
+title: Exiting the data center: A League of Legends and VALORANT story
+sessionuid: 1CD8D879-70CA-4A47-95BB-3D25401CC806
+thirdpartyid: GAM304
+speakers: firstName_0: Hadrian, lastName_0: Baron, firstName_1: Aditya, lastName_1: Kumar, company_1: Riot Games, firstName_2: Ruaidhri, lastName_2: Power, company_2: Riot Games
+tag_name: Wednesday, Day, Mandalay Bay, Venue, Compute, Topic, Networking & Content Delivery, Topic, Customer Stories, Area of Interest, Edge Computing, Area of Interest, Global Infrastructure, Area of Interest, Games, Industry, Media & Entertainment, Industry, 300 - Advanced, Level, Developer/Engineer, Role, IT Administrator, Role, Solution/Systems Architect, Role, Amazon Elastic Kubernetes Service (EKS), Services, AWS Global Accelerator, Services, AWS Outposts, Services

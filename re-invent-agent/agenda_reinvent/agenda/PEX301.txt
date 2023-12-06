@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 315
+summary: tag_name :Thursday, Day, MGM Grand, Venue, AWS Marketplace, Area of Interest, 300 - Advanced, Level, Partner Enablement, Topic, , speakers :firstName_0: Joseph, lastName_0: Shih, firstName_1: Leno, lastName_1: Piperi, , thirdpartyid :PEX301, sessionuid :0E4A8772-C65C-4877-9740-6DBDA375E023, title :AWS Marketplace seller hands-on: Publish, update & manage your product, description :<p>In this workshop, choose between hands-on labs for new sellers just starting or labs for experienced sellers looking to optimize their operations in AWS Marketplace. Sellers just starting can explore publishing virtual machine, container, or SaaS-based products. Established sellers can learn about API-enabled automations for their delivery pipelines and other integrations with AWS Marketplace. You must bring your laptop to participate. The part of the workshop intended for established sellers requires a registered seller account with an existing published product. For new or interested sellers, an active AWS account is required. This workshop is intended for AWS Partners.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 315, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :December, 01 2023 00:00:00 -0500, 
+enddatetimeutc: December, 01 2023 00:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Premier 315
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>In this workshop, choose between hands-on labs for new sellers just starting or labs for experienced sellers looking to optimize their operations in AWS Marketplace. Sellers just starting can explore publishing virtual machine, container, or SaaS-based products. Established sellers can learn about API-enabled automations for their delivery pipelines and other integrations with AWS Marketplace. You must bring your laptop to participate. The part of the workshop intended for established sellers requires a registered seller account with an existing published product. For new or interested sellers, an active AWS account is required. This workshop is intended for AWS Partners.</p>
+title: AWS Marketplace seller hands-on: Publish, update & manage your product
+sessionuid: 0E4A8772-C65C-4877-9740-6DBDA375E023
+thirdpartyid: PEX301
+speakers: firstName_0: Joseph, lastName_0: Shih, firstName_1: Leno, lastName_1: Piperi
+tag_name: Thursday, Day, MGM Grand, Venue, AWS Marketplace, Area of Interest, 300 - Advanced, Level, Partner Enablement, Topic

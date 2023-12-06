@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :Amazon CloudFront, Services, Well-Architected Framework, Area of Interest, Front-End Web & Mobile, Area of Interest, Cross Industry, Industry, Networking & Content Delivery, Topic, IT Professional/Technical Manager, Role, Developer/Engineer, Role, Monday, Day, Wynn, Venue, 200 - Intermediate, Level, Solution/Systems Architect, Role, , speakers :firstName_0: Sagar, lastName_0: Desarda, , thirdpartyid :NET209, sessionuid :13E0ACF7-8677-4330-9918-2B7F88B9679F, title :Optimize website performance for SEO with Amazon CloudFront, description :It’s no secret that users love a fast and reliable website. Slow-loading websites can frustrate online users and create negative experiences. Moreover, did you know that website speed is one of the key factors affecting search engine optimization (SEO) rankings? In this chalk talk, learn how Amazon CloudFront can deliver high-performing websites to end users using a distributed global network. Bring your questions about how to reduce page load times, handle sudden surges in traffic, and enhance security., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :November, 27 2023 20:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 20:00:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: It’s no secret that users love a fast and reliable website. Slow-loading websites can frustrate online users and create negative experiences. Moreover, did you know that website speed is one of the key factors affecting search engine optimization (SEO) rankings? In this chalk talk, learn how Amazon CloudFront can deliver high-performing websites to end users using a distributed global network. Bring your questions about how to reduce page load times, handle sudden surges in traffic, and enhance security
+title: Optimize website performance for SEO with Amazon CloudFront
+sessionuid: 13E0ACF7-8677-4330-9918-2B7F88B9679F
+thirdpartyid: NET209
+speakers: firstName_0: Sagar, lastName_0: Desarda
+tag_name: Amazon CloudFront, Services, Well-Architected Framework, Area of Interest, Front-End Web & Mobile, Area of Interest, Cross Industry, Industry, Networking & Content Delivery, Topic, IT Professional/Technical Manager, Role, Developer/Engineer, Role, Monday, Day, Wynn, Venue, 200 - Intermediate, Level, Solution/Systems Architect, Role

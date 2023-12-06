@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine Registration Desk North
+summary: tag_name :Tuesday, Day, Mandalay Bay, Venue, Meals & Conference Services, Additional Services, , speakers :, thirdpartyid :ACT073, sessionuid :265420DA-7608-4BFB-9650-9E57682A4E9B, title :Lactation room, description :<p>The lactation room provides parents with a private, secure space to express breastmilk for their nursing child. The room is equipped with lockers, a refrigerator, a microwave, disposable cold packs and wipes, and a comfortable space to pump. Reservations for the duration of the conference can be made at the check-in desk outside the room.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine Registration Desk North, startdatetimeutc :November, 28 2023 16:00:00 -0500, enddatetimeutc :November, 29 2023 03:00:00 -0500, 
+enddatetimeutc: November, 29 2023 03:00:00 -0500
+startdatetimeutc: November, 28 2023 16:00:00 -0500
+locationname: Jasmine Registration Desk North
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>The lactation room provides parents with a private, secure space to express breastmilk for their nursing child. The room is equipped with lockers, a refrigerator, a microwave, disposable cold packs and wipes, and a comfortable space to pump. Reservations for the duration of the conference can be made at the check-in desk outside the room.</p>
+title: Lactation room
+sessionuid: 265420DA-7608-4BFB-9650-9E57682A4E9B
+thirdpartyid: ACT073
+speakers: 
+tag_name: Tuesday, Day, Mandalay Bay, Venue, Meals & Conference Services, Additional Services

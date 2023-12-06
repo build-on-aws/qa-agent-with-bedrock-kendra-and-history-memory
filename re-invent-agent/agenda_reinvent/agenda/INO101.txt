@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 311
+summary: tag_name :100 - Foundational, Level, IT Executive, Role, Business Executive, Role, Cross Industry, Industry, Innovation on AWS, Area of Interest, New to AWS, Topic, Monday, Day, MGM Grand, Venue, Entrepreneur (Founder/Co-Founder), Role, , speakers :firstName_0: Ellen, lastName_0: Cowan, firstName_1: Richard, lastName_1: Taylor, , thirdpartyid :INO101, sessionuid :0DBEA0C6-FE8A-4677-8FA3-ABDEFEC9F15D, title :Define your next $1B opportunity: Introduction to Working Backwards, description :<p>This intensive and highly collaborative workshop is inspired by the same customer-centric methods used by Amazon to develop breakthrough innovations our customers love, such as Amazon Prime, Amazon Kindle, Amazon Echo, Amazon Alexa, Amazon Go, and AWS. In this workshop intended for business and technical decision-makers, engage with an interactive journey that introduces you to the Working Backwards process. Walk through some of the general activities and outputs of a full digital innovation Working Backwards project. While not required, we do encourage individuals to attend with colleagues from the same team or organization. You do not need a laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 311, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 00:30:00 -0500, 
+enddatetimeutc: November, 28 2023 00:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Premier 311
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>This intensive and highly collaborative workshop is inspired by the same customer-centric methods used by Amazon to develop breakthrough innovations our customers love, such as Amazon Prime, Amazon Kindle, Amazon Echo, Amazon Alexa, Amazon Go, and AWS. In this workshop intended for business and technical decision-makers, engage with an interactive journey that introduces you to the Working Backwards process. Walk through some of the general activities and outputs of a full digital innovation Working Backwards project. While not required, we do encourage individuals to attend with colleagues from the same team or organization. You do not need a laptop to participate.</p>
+title: Define your next $1B opportunity: Introduction to Working Backwards
+sessionuid: 0DBEA0C6-FE8A-4677-8FA3-ABDEFEC9F15D
+thirdpartyid: INO101
+speakers: firstName_0: Ellen, lastName_0: Cowan, firstName_1: Richard, lastName_1: Taylor
+tag_name: 100 - Foundational, Level, IT Executive, Role, Business Executive, Role, Cross Industry, Industry, Innovation on AWS, Area of Interest, New to AWS, Topic, Monday, Day, MGM Grand, Venue, Entrepreneur (Founder/Co-Founder), Role

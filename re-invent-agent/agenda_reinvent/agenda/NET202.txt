@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 9
+summary: tag_name :Networking & Content Delivery, Topic, 200 - Intermediate, Level, AWS Client VPN, Services, Developer/Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Cross Industry, Industry, Monitoring & Observability, Area of Interest, Application Security, Area of Interest, Wynn, Venue, Monday, Day, Amazon Elastic Compute Cloud (EC2), Services, AWS Verified Access, Services, Network & Infrastructure Security, Area of Interest, , speakers :firstName_0: Shovan, lastName_0: Das, firstName_1: Tom, lastName_1: Adamski, photo_1: PXL_20230518_194930820_3_20231708021601.jpeg, firstName_2: Juan, lastName_2: Suarez, company_2: Avalon, , thirdpartyid :NET202, sessionuid :385A850B-ED00-4DE0-8FEF-BF0F20C280FB, title :Secure remote connectivity to AWS, description :Explore secure and efficient ways to access your private AWS and on-premises resources without exposing them directly to the internet. Join this session to learn how to provide remote connectivity to your private corporate applications and virtual machines. Explore services like AWS Verified Access, AWS Client VPN, and Amazon EC2 Instance Connect to help you decide which one best suits your use case., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 9, startdatetimeutc :November, 28 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 22:00:00 -0500, 
+enddatetimeutc: November, 28 2023 22:00:00 -0500
+startdatetimeutc: November, 28 2023 21:00:00 -0500
+locationname: Lafite 9
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: Explore secure and efficient ways to access your private AWS and on-premises resources without exposing them directly to the internet. Join this session to learn how to provide remote connectivity to your private corporate applications and virtual machines. Explore services like AWS Verified Access, AWS Client VPN, and Amazon EC2 Instance Connect to help you decide which one best suits your use case
+title: Secure remote connectivity to AWS
+sessionuid: 385A850B-ED00-4DE0-8FEF-BF0F20C280FB
+thirdpartyid: NET202
+speakers: firstName_0: Shovan, lastName_0: Das, firstName_1: Tom, lastName_1: Adamski, photo_1: PXL_20230518_194930820_3_20231708021601.jpeg, firstName_2: Juan, lastName_2: Suarez, company_2: Avalon
+tag_name: Networking & Content Delivery, Topic, 200 - Intermediate, Level, AWS Client VPN, Services, Developer/Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Cross Industry, Industry, Monitoring & Observability, Area of Interest, Application Security, Area of Interest, Wynn, Venue, Monday, Day, Amazon Elastic Compute Cloud (EC2), Services, AWS Verified Access, Services, Network & Infrastructure Security, Area of Interest

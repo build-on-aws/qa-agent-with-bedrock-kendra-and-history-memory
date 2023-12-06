@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :200 - Intermediate, Level, Enterprise & Migration, Topic, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Thursday, Day, Venetian, Venue, , speakers :firstName_0: Shilpa, lastName_0: Dabke, company_0: Clearwater, firstName_1: Umar, lastName_1: Saeed, , thirdpartyid :SMB213, sessionuid :EEEB899A-E0DA-45C9-8218-548DBB0017C7, title :Clearwater delivers innovation and growth by migrating to AWS, description :<p>Clearwater Analytics is a leading provider of SaaS-based investment accounting, reporting, and analytics solutions. They report on $6.6 trillion in assets across thousands of customers. In this lightning talk, hear how the company migrated 714 applications from on premises to AWS and delighted their customers with shortened onboarding times. Walk through how Clearwater’s leadership team assembled their team and how they are using industry-transformative cloud technologies to delight customers.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Clearwater Analytics is a leading provider of SaaS-based investment accounting, reporting, and analytics solutions. They report on $6.6 trillion in assets across thousands of customers. In this lightning talk, hear how the company migrated 714 applications from on premises to AWS and delighted their customers with shortened onboarding times. Walk through how Clearwater’s leadership team assembled their team and how they are using industry-transformative cloud technologies to delight customers.</p>
+title: Clearwater delivers innovation and growth by migrating to AWS
+sessionuid: EEEB899A-E0DA-45C9-8218-548DBB0017C7
+thirdpartyid: SMB213
+speakers: firstName_0: Shilpa, lastName_0: Dabke, company_0: Clearwater, firstName_1: Umar, lastName_1: Saeed
+tag_name: 200 - Intermediate, Level, Enterprise & Migration, Topic, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Thursday, Day, Venetian, Venue

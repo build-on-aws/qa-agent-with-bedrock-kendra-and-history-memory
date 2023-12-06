@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :Cloud Operations, Topic, 300 - Advanced, Level, Management & Governance, Area of Interest, AWS CloudTrail, Services, DevOps Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Monday, Day, Wynn, Venue, AWS Audit Manager, Services, , speakers :firstName_0: Eric, lastName_0: Westfall, firstName_1: Kanishk, lastName_1: Mahajan, , thirdpartyid :COP303-R, sessionuid :4CD7BB83-A06C-419E-BFD5-7EE8E61AEF23, title :Cloud governance and auditing best practices on AWS [REPEAT], description :In this chalk talk, learn about best practices for implementing governance and automating evidence collection for industry requirements and internal policies. Hear about common use cases and specific practices that can help with cloud governance and auditing, including how you can prepare appropriate auditing resources for formalized standards like the Federal Risk and Authorization Management Program (FedRAMP), the National Institute of Standards and Technology (NIST), and more., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 20:30:00 -0500, 
+enddatetimeutc: November, 27 2023 20:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: In this chalk talk, learn about best practices for implementing governance and automating evidence collection for industry requirements and internal policies. Hear about common use cases and specific practices that can help with cloud governance and auditing, including how you can prepare appropriate auditing resources for formalized standards like the Federal Risk and Authorization Management Program (FedRAMP), the National Institute of Standards and Technology (NIST), and more
+title: Cloud governance and auditing best practices on AWS [REPEAT]
+sessionuid: 4CD7BB83-A06C-419E-BFD5-7EE8E61AEF23
+thirdpartyid: COP303-R
+speakers: firstName_0: Eric, lastName_0: Westfall, firstName_1: Kanishk, lastName_1: Mahajan
+tag_name: Cloud Operations, Topic, 300 - Advanced, Level, Management & Governance, Area of Interest, AWS CloudTrail, Services, DevOps Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Monday, Day, Wynn, Venue, AWS Audit Manager, Services

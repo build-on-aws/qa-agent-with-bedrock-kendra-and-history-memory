@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas G
+summary: tag_name :Cross Industry, Industry, DevOps and Developer Productivity, Topic, 300 - Advanced, Level, Monday, Day, Mandalay Bay, Venue, Developer/Engineer, Role, DevOps Engineer, Role, Training & Certification, Topic, , speakers :firstName_0: Julie, lastName_0: Elkins, firstName_1: CJ, lastName_1: Taylor, , thirdpartyid :TNC301, sessionuid :45682E3E-8990-4BC0-8CF9-32DB5E2AB317, title :Exam prep: AWS Certified DevOps Engineer – Professional, description :Prepare for the AWS Certified DevOps Engineer – Professional exam with this 2-hour interactive study session. Review the AWS Certified DevOps Engineer – Professional Official Practice Question Set, and get your questions answered by the subject matter expert leading the study session., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas G, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 20:30:00 -0500, 
+enddatetimeutc: November, 27 2023 20:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: South Seas G
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Prepare for the AWS Certified DevOps Engineer – Professional exam with this 2-hour interactive study session. Review the AWS Certified DevOps Engineer – Professional Official Practice Question Set, and get your questions answered by the subject matter expert leading the study session
+title: Exam prep: AWS Certified DevOps Engineer – Professional
+sessionuid: 45682E3E-8990-4BC0-8CF9-32DB5E2AB317
+thirdpartyid: TNC301
+speakers: firstName_0: Julie, lastName_0: Elkins, firstName_1: CJ, lastName_1: Taylor
+tag_name: Cross Industry, Industry, DevOps and Developer Productivity, Topic, 300 - Advanced, Level, Monday, Day, Mandalay Bay, Venue, Developer/Engineer, Role, DevOps Engineer, Role, Training & Certification, Topic

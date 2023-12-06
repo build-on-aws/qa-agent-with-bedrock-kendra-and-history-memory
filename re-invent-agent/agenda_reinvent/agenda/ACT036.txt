@@ -1,0 +1,14 @@
+location: MGM Grand, Level 2, Hakkasan
+summary: tag_name :Wednesday, Day, MGM Grand, Venue, Happy Hour/Reception, Additional Services, , speakers :, thirdpartyid :ACT036, sessionuid :DDC732A2-2D50-4E05-AABA-6DBCA81D1EBE, title :ClickHouse networking reception at Hakkasan, description :More information coming soon., sessiontype :Community Activities, venuename :MGM Grand, floorplanname :Level 2, locationname :Hakkasan, startdatetimeutc :November, 30 2023 02:00:00 -0500, enddatetimeutc :November, 30 2023 04:00:00 -0500, 
+enddatetimeutc: November, 30 2023 04:00:00 -0500
+startdatetimeutc: November, 30 2023 02:00:00 -0500
+locationname: Hakkasan
+floorplanname: Level 2
+venuename: MGM Grand
+sessiontype: Community Activities
+description: More information coming soon
+title: ClickHouse networking reception at Hakkasan
+sessionuid: DDC732A2-2D50-4E05-AABA-6DBCA81D1EBE
+thirdpartyid: ACT036
+speakers: 
+tag_name: Wednesday, Day, MGM Grand, Venue, Happy Hour/Reception, Additional Services

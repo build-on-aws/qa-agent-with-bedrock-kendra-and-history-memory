@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 355
+summary: tag_name :Cost Optimization, Area of Interest, Customer Stories, Area of Interest, IT Executive, Role, Compute, Topic, Amazon Elastic Compute Cloud (EC2), Services, Monday, Day, MGM Grand, Venue, 200 - Intermediate, Level, Solution/Systems Architect, Role, Amazon EC2 Auto Scaling, Services, Cross Industry, Industry, Developer/Engineer, Role, , speakers :firstName_0: Lorenzo, lastName_0: Winfrey, firstName_1: Eric, lastName_1: Legault, company_1: Salesforce, , thirdpartyid :CMP207, sessionuid :F1E5BC7E-08DC-4E1F-8C90-BDD5231A805B, title :Capacity, availability, cost efficiency: Pick three, description :<p>In a world of trade-offs, choosing between capacity, availability, and cost efficiency seems inevitable. But what if you could have all three? In this session, explore powerful AWS strategies such as using attribute-based instance type selection, prioritizing operational flexibility, and using Amazon EC2 flex instances to help you get the compute resources you need, when you need them, all while spending as little as possible.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 355, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Chairmans 355
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>In a world of trade-offs, choosing between capacity, availability, and cost efficiency seems inevitable. But what if you could have all three? In this session, explore powerful AWS strategies such as using attribute-based instance type selection, prioritizing operational flexibility, and using Amazon EC2 flex instances to help you get the compute resources you need, when you need them, all while spending as little as possible.</p>
+title: Capacity, availability, cost efficiency: Pick three
+sessionuid: F1E5BC7E-08DC-4E1F-8C90-BDD5231A805B
+thirdpartyid: CMP207
+speakers: firstName_0: Lorenzo, lastName_0: Winfrey, firstName_1: Eric, lastName_1: Legault, company_1: Salesforce
+tag_name: Cost Optimization, Area of Interest, Customer Stories, Area of Interest, IT Executive, Role, Compute, Topic, Amazon Elastic Compute Cloud (EC2), Services, Monday, Day, MGM Grand, Venue, 200 - Intermediate, Level, Solution/Systems Architect, Role, Amazon EC2 Auto Scaling, Services, Cross Industry, Industry, Developer/Engineer, Role

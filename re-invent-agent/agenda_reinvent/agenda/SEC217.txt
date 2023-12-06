@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 301
+summary: tag_name :IT Executive, Role, Cross Industry, Industry, 200 - Intermediate, Level, Security, Compliance, & Identity, Topic, Thursday, Day, MGM Grand, Venue, Data Protection, Area of Interest, , speakers :firstName_0: Alex, lastName_0: Meek-Holmes, firstName_1: Kathy, lastName_1: Liu, , thirdpartyid :SEC217, sessionuid :AA6AA6EA-794B-467D-AAB5-7812879E1FED, title :Explore the AWS sovereign-by-design approach, description :Digital sovereignty requirements and expectations continue to evolve. Who has control over data and infrastructure in the digital domain continues to be a top customer concern globally. Join this chalk talk to discuss your individual requirements and learn how you can meet your needs with the AWS Cloud. Explore the AWS sovereign-by-design approach, and find out how AWS is expanding its capabilities to further meet digital sovereignty goals., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :301, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 20:30:00 -0500, 
+enddatetimeutc: November, 30 2023 20:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: 301
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Digital sovereignty requirements and expectations continue to evolve. Who has control over data and infrastructure in the digital domain continues to be a top customer concern globally. Join this chalk talk to discuss your individual requirements and learn how you can meet your needs with the AWS Cloud. Explore the AWS sovereign-by-design approach, and find out how AWS is expanding its capabilities to further meet digital sovereignty goals
+title: Explore the AWS sovereign-by-design approach
+sessionuid: AA6AA6EA-794B-467D-AAB5-7812879E1FED
+thirdpartyid: SEC217
+speakers: firstName_0: Alex, lastName_0: Meek-Holmes, firstName_1: Kathy, lastName_1: Liu
+tag_name: IT Executive, Role, Cross Industry, Industry, 200 - Intermediate, Level, Security, Compliance, & Identity, Topic, Thursday, Day, MGM Grand, Venue, Data Protection, Area of Interest

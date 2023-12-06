@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Developer/Engineer, Role, Amazon GuardDuty, Services, Generative AI, Area of Interest, Amazon SageMaker, Services, Security, Compliance, & Identity, Topic, Wednesday, Day, Venetian, Venue, DevOps Engineer, Role, AI/ML, Topic, Network & Infrastructure Security, Area of Interest, 300 - Advanced, Level, Customer Stories, Area of Interest, Amazon Bedrock, Services, , speakers :firstName_0: David, lastName_0: Victoria, company_0: Caylent, Inc., , thirdpartyid :COM309, sessionuid :BB1FAE79-3A03-433C-9D95-98D78BF6DEDB, title :Shaping the future of security on AWS with generative AI, description :In this dev chat, learn about innovative aspects in the world of SecOps through the use of LLM and generative AI. Learn how advanced models like Llama 2 and Claude are being applied on AWS infrastructure to simulate and detect threats in real time, helping operations teams elevate their security posture. Explore time-honored technologies like Amazon SageMaker, Amazon GuardDuty, and AWS Lambda, as well as recent innovations like SageMaker JumpStart Foundation Models and Amazon Bedrock., sessiontype :Dev Chat, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Dev Chat
+description: In this dev chat, learn about innovative aspects in the world of SecOps through the use of LLM and generative AI. Learn how advanced models like Llama 2 and Claude are being applied on AWS infrastructure to simulate and detect threats in real time, helping operations teams elevate their security posture. Explore time-honored technologies like Amazon SageMaker, Amazon GuardDuty, and AWS Lambda, as well as recent innovations like SageMaker JumpStart Foundation Models and Amazon Bedrock
+title: Shaping the future of security on AWS with generative AI
+sessionuid: BB1FAE79-3A03-433C-9D95-98D78BF6DEDB
+thirdpartyid: COM309
+speakers: firstName_0: David, lastName_0: Victoria, company_0: Caylent, Inc.
+tag_name: Developer/Engineer, Role, Amazon GuardDuty, Services, Generative AI, Area of Interest, Amazon SageMaker, Services, Security, Compliance, & Identity, Topic, Wednesday, Day, Venetian, Venue, DevOps Engineer, Role, AI/ML, Topic, Network & Infrastructure Security, Area of Interest, 300 - Advanced, Level, Customer Stories, Area of Interest, Amazon Bedrock, Services

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 318
+summary: tag_name :AWS CodePipeline, Services, DevOps and Developer Productivity, Topic, 200 - Intermediate, Level, AWS Cloud Development Kit (CDK), Services, Monday, Day, MGM Grand, Venue, DevOps Engineer, Role, Well-Architected Framework, Area of Interest, Developer/Engineer, Role, , speakers :firstName_0: Doug, lastName_0: Clauson, firstName_1: Ranjith, lastName_1: Ramakrishnan, , thirdpartyid :DOP208, sessionuid :B8BE35DD-A01F-4299-B040-3529BECBA79D, title :Continuous integration and delivery for AWS, description :AWS provides one place where you can plan work, collaborate on code, build, test, and deploy applications with continuous integration/continuous delivery (CI/CD) tools. In this session, learn about how to create end-to-end CI/CD pipelines using infrastructure as code on AWS., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 318, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Premier 318
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: AWS provides one place where you can plan work, collaborate on code, build, test, and deploy applications with continuous integration/continuous delivery (CI/CD) tools. In this session, learn about how to create end-to-end CI/CD pipelines using infrastructure as code on AWS
+title: Continuous integration and delivery for AWS
+sessionuid: B8BE35DD-A01F-4299-B040-3529BECBA79D
+thirdpartyid: DOP208
+speakers: firstName_0: Doug, lastName_0: Clauson, firstName_1: Ranjith, lastName_1: Ramakrishnan
+tag_name: AWS CodePipeline, Services, DevOps and Developer Productivity, Topic, 200 - Intermediate, Level, AWS Cloud Development Kit (CDK), Services, Monday, Day, MGM Grand, Venue, DevOps Engineer, Role, Well-Architected Framework, Area of Interest, Developer/Engineer, Role

@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :AWS CloudHSM, Services, IT Executive, Role, Consumer Packaged Goods, Industry, Blockchain, Area of Interest, Monday, Day, Venetian, Venue, 200 - Intermediate, Level, Tech Explorer, Role, Amazon Elastic Compute Cloud (EC2), Services, Retail, Industry, Compute, Topic, Business Executive, Role, , speakers :, thirdpartyid :BLC203, sessionuid :331F697B-280D-4F0C-8BF7-16117719E14F, title :Building NFT experiences on AWS, description :In this lightning talk, Web3 experts walk you through a live demo of an application through which you can interact with non-fungible tokens on one or more public blockchains., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 28 2023 01:00:00 -0500, enddatetimeutc :November, 28 2023 01:20:00 -0500, 
+enddatetimeutc: November, 28 2023 01:20:00 -0500
+startdatetimeutc: November, 28 2023 01:00:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: In this lightning talk, Web3 experts walk you through a live demo of an application through which you can interact with non-fungible tokens on one or more public blockchains
+title: Building NFT experiences on AWS
+sessionuid: 331F697B-280D-4F0C-8BF7-16117719E14F
+thirdpartyid: BLC203
+speakers: 
+tag_name: AWS CloudHSM, Services, IT Executive, Role, Consumer Packaged Goods, Industry, Blockchain, Area of Interest, Monday, Day, Venetian, Venue, 200 - Intermediate, Level, Tech Explorer, Role, Amazon Elastic Compute Cloud (EC2), Services, Retail, Industry, Compute, Topic, Business Executive, Role

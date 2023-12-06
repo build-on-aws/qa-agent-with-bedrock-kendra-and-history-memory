@@ -1,0 +1,14 @@
+location: , , Las Vegas Festival Grounds
+summary: tag_name :Thursday, Day, Happy Hour/Reception, Additional Services, , speakers :, thirdpartyid :ACT159, sessionuid :9D4B9230-E46C-4CF9-B9BF-EC8AEA44AD20, title :re:Play Party, description :<p>Welcome to the coolest party in tech! For our annual re:Play Party, celebrate a successful re:Invent with amazing interactive activities like dodgeball, button mash, and more! Enjoy a lively musical lineup with live bands and DJ performances on two stages. Shuttles to the Las Vegas Festival Grounds start at 7:00 PM.</p>, sessiontype :standard, venuename :, floorplanname :, locationname :Las Vegas Festival Grounds, startdatetimeutc :December, 01 2023 03:30:00 -0500, enddatetimeutc :December, 01 2023 08:00:00 -0500, 
+enddatetimeutc: December, 01 2023 08:00:00 -0500
+startdatetimeutc: December, 01 2023 03:30:00 -0500
+locationname: Las Vegas Festival Grounds
+floorplanname: 
+venuename: 
+sessiontype: standard
+description: <p>Welcome to the coolest party in tech! For our annual re:Play Party, celebrate a successful re:Invent with amazing interactive activities like dodgeball, button mash, and more! Enjoy a lively musical lineup with live bands and DJ performances on two stages. Shuttles to the Las Vegas Festival Grounds start at 7:00 PM.</p>
+title: re:Play Party
+sessionuid: 9D4B9230-E46C-4CF9-B9BF-EC8AEA44AD20
+thirdpartyid: ACT159
+speakers: 
+tag_name: Thursday, Day, Happy Hour/Reception, Additional Services

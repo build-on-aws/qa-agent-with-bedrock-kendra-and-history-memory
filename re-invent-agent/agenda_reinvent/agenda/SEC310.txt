@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 123
+summary: tag_name :AWS Shield, Services, Cloud Security Specialist, Role, Security, Compliance, & Identity, Topic, Wednesday, Day, MGM Grand, Venue, IT Administrator, Role, AWS WAF, Services, Networking & Content Delivery, Topic, Cross Industry, Industry, Network & Infrastructure Security, Area of Interest, AWS Shield Advanced, Services, 300 - Advanced, Level, Solution/Systems Architect, Role, , speakers :firstName_0: Ian, lastName_0: Olson, firstName_1: Bryan, lastName_1: Van Hook, , thirdpartyid :SEC310, sessionuid :5AFE53E3-E454-4367-8154-F9D348BD1ED1, title :Mitigating HTTP security events at scale, description :Come participate in a team-based environment to practice protecting a web application in real time. In this workshop, your team uses AWS WAF and AWS Shield to mitigate distributed HTTP floods, web exploits, and malicious bots that can disrupt the experience of your customers. This workshop offers a risk-free environment where teamwork is paramount as you work together under pressure. Watch a real-time scoreboard as your team works through each level. The most effective teams earn a prize at the end! You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 123, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 03:30:00 -0500, 
+enddatetimeutc: November, 30 2023 03:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Grand 123
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: Come participate in a team-based environment to practice protecting a web application in real time. In this workshop, your team uses AWS WAF and AWS Shield to mitigate distributed HTTP floods, web exploits, and malicious bots that can disrupt the experience of your customers. This workshop offers a risk-free environment where teamwork is paramount as you work together under pressure. Watch a real-time scoreboard as your team works through each level. The most effective teams earn a prize at the end! You must bring your laptop to participate
+title: Mitigating HTTP security events at scale
+sessionuid: 5AFE53E3-E454-4367-8154-F9D348BD1ED1
+thirdpartyid: SEC310
+speakers: firstName_0: Ian, lastName_0: Olson, firstName_1: Bryan, lastName_1: Van Hook
+tag_name: AWS Shield, Services, Cloud Security Specialist, Role, Security, Compliance, & Identity, Topic, Wednesday, Day, MGM Grand, Venue, IT Administrator, Role, AWS WAF, Services, Networking & Content Delivery, Topic, Cross Industry, Industry, Network & Infrastructure Security, Area of Interest, AWS Shield Advanced, Services, 300 - Advanced, Level, Solution/Systems Architect, Role

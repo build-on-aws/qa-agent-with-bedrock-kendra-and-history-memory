@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 101
+summary: tag_name :Developer/Engineer, Role, Cost Optimization, Area of Interest, Solution/Systems Architect, Role, Enterprise & Migration, Topic, Government, Industry, Amazon Relational Database Service (RDS), Services, Databases, Topic, Thursday, Day, MGM Grand, Venue, Financial Services, Industry, System Administrator, Role, Amazon ElastiCache, Services, Cross Industry, Industry, Microsoft, Area of Interest, 300 - Advanced, Level, , speakers :firstName_0: Anuja, lastName_0: Malik, firstName_1: Bill, lastName_1: Jacobi, , thirdpartyid :DAT313, sessionuid :BD8AF68C-3709-44E3-9ED0-CA15B588AAF1, title :Cost-optimize SQL Server workloads on Amazon RDS and Amazon RDS Custom, description :Developers and DBAs love running their SQL Server workloads on Amazon RDS, which enables them to reduce resources from managing undifferentiated database management tasks. As their applications grow in size, they want to learn best practices for cost optimization. In this chalk talk, learn more about key cost dimensions such as compute, storage, I/O, and backups. Discover what mechanisms and optimizations you can apply to reduce costs, including the use of a cache like Amazon ElastiCache., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :101, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: 101
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Developers and DBAs love running their SQL Server workloads on Amazon RDS, which enables them to reduce resources from managing undifferentiated database management tasks. As their applications grow in size, they want to learn best practices for cost optimization. In this chalk talk, learn more about key cost dimensions such as compute, storage, I/O, and backups. Discover what mechanisms and optimizations you can apply to reduce costs, including the use of a cache like Amazon ElastiCache
+title: Cost-optimize SQL Server workloads on Amazon RDS and Amazon RDS Custom
+sessionuid: BD8AF68C-3709-44E3-9ED0-CA15B588AAF1
+thirdpartyid: DAT313
+speakers: firstName_0: Anuja, lastName_0: Malik, firstName_1: Bill, lastName_1: Jacobi
+tag_name: Developer/Engineer, Role, Cost Optimization, Area of Interest, Solution/Systems Architect, Role, Enterprise & Migration, Topic, Government, Industry, Amazon Relational Database Service (RDS), Services, Databases, Topic, Thursday, Day, MGM Grand, Venue, Financial Services, Industry, System Administrator, Role, Amazon ElastiCache, Services, Cross Industry, Industry, Microsoft, Area of Interest, 300 - Advanced, Level

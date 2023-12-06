@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 311
+summary: tag_name :400 - Expert, Level, DevOps and Developer Productivity, Topic, Strategy & Transformation, Area of Interest, Well-Architected Framework, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, Amazon CodeCatalyst, Services, Monday, Day, Caesars Forum, Venue, , speakers :firstName_0: Michael, lastName_0: Kaiser, firstName_1: Shivansh, lastName_1: Singh, firstName_2: Brad, lastName_2: Watson, firstName_3: Tarun, lastName_3: Khemani, firstName_4: Jinet, lastName_4: Jose, , thirdpartyid :DOP402-R, sessionuid :9A716D64-3D29-47A6-A53E-B504C12D3C7C, title :Manage dev environments at scale with Amazon CodeCatalyst [REPEAT], description :<p>Amazon CodeCatalyst Dev Environments are cloud-based environments that you can use to quickly work on the code stored in the source repositories of your project. They are automatically created with pre-installed dependencies and language-specific packages so you can work on a new or existing project right away. In this session, learn how to create secure, reproducible, and consistent environments for VS Code, AWS Cloud9, and JetBrains IDEs. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 311, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Alliance 311
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Amazon CodeCatalyst Dev Environments are cloud-based environments that you can use to quickly work on the code stored in the source repositories of your project. They are automatically created with pre-installed dependencies and language-specific packages so you can work on a new or existing project right away. In this session, learn how to create secure, reproducible, and consistent environments for VS Code, AWS Cloud9, and JetBrains IDEs. You must bring your laptop to participate.</p>
+title: Manage dev environments at scale with Amazon CodeCatalyst [REPEAT]
+sessionuid: 9A716D64-3D29-47A6-A53E-B504C12D3C7C
+thirdpartyid: DOP402-R
+speakers: firstName_0: Michael, lastName_0: Kaiser, firstName_1: Shivansh, lastName_1: Singh, firstName_2: Brad, lastName_2: Watson, firstName_3: Tarun, lastName_3: Khemani, firstName_4: Jinet, lastName_4: Jose
+tag_name: 400 - Expert, Level, DevOps and Developer Productivity, Topic, Strategy & Transformation, Area of Interest, Well-Architected Framework, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, Amazon CodeCatalyst, Services, Monday, Day, Caesars Forum, Venue

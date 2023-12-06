@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Amazon Connect, Services, Solution/Systems Architect, Role, Amazon Pinpoint, Services, Business Applications, Topic, Cross Industry, Industry, Business Executive, Role, Social Impact, Area of Interest, Wednesday, Day, Venetian, Venue, 100 - Foundational, Level, IT Professional/Technical Manager, Role, Customer Enablement, Topic, BuildOn.AWS, Area of Interest, Application Integration, Area of Interest, , speakers :firstName_0: Ivo, lastName_0: Janssen, , thirdpartyid :IMP104, sessionuid :6320BE67-1F4E-42C4-BBEB-0E1A7830CD55, title :Improve outreach with cost-effective contact center solutions, description :Nonprofit organizations have a need for reliable and cost-effective outreach solutions for their constituent bases, such as inbound call centers or digital outreach through messaging campaigns. You can build integrated outreach solutions with Amazon Connect for inbound communications and Amazon Pinpoint for outbound marketing campaigns. In this session, learn about these services and discover how AWS can help with your mission outreach in a secure and cost-effective way., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 18:50:00 -0500, 
+enddatetimeutc: November, 29 2023 18:50:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Nonprofit organizations have a need for reliable and cost-effective outreach solutions for their constituent bases, such as inbound call centers or digital outreach through messaging campaigns. You can build integrated outreach solutions with Amazon Connect for inbound communications and Amazon Pinpoint for outbound marketing campaigns. In this session, learn about these services and discover how AWS can help with your mission outreach in a secure and cost-effective way
+title: Improve outreach with cost-effective contact center solutions
+sessionuid: 6320BE67-1F4E-42C4-BBEB-0E1A7830CD55
+thirdpartyid: IMP104
+speakers: firstName_0: Ivo, lastName_0: Janssen
+tag_name: Amazon Connect, Services, Solution/Systems Architect, Role, Amazon Pinpoint, Services, Business Applications, Topic, Cross Industry, Industry, Business Executive, Role, Social Impact, Area of Interest, Wednesday, Day, Venetian, Venue, 100 - Foundational, Level, IT Professional/Technical Manager, Role, Customer Enablement, Topic, BuildOn.AWS, Area of Interest, Application Integration, Area of Interest

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 413
+summary: tag_name :DevOps Engineer, Role, Developer/Engineer, Role, 200 - Intermediate, Level, Serverless Compute, Topic, AWS Lambda, Services, Application Integration, Area of Interest, Thursday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, , speakers :firstName_0: Swapnil, lastName_0: Singh, firstName_1: Tom, lastName_1: Romano, firstName_2: Rodrigo, lastName_2: Cabrera, firstName_3: Rahul, lastName_3: Popat, firstName_4: Ben, lastName_4: Moses, , thirdpartyid :SVS208-R, sessionuid :B0FED3BE-2747-4B55-9704-3075078541BC, title :Learn testing patterns for serverless, event-driven applications [REPEAT], description :Testing plays a critical role in the software development lifecycle. In this builders’ session, explore patterns and best practices for testing serverless applications. Focus on the unique aspects of serverless, including testing the integrations between various cloud services and how to handle distributed, asynchronous components. After this session, you will have a deeper understanding of testing practices that you can apply in your projects. You must bring your laptop to participate., sessiontype :Builders' Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 413, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Academy 413
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Builders' Session
+description: Testing plays a critical role in the software development lifecycle. In this builders’ session, explore patterns and best practices for testing serverless applications. Focus on the unique aspects of serverless, including testing the integrations between various cloud services and how to handle distributed, asynchronous components. After this session, you will have a deeper understanding of testing practices that you can apply in your projects. You must bring your laptop to participate
+title: Learn testing patterns for serverless, event-driven applications [REPEAT]
+sessionuid: B0FED3BE-2747-4B55-9704-3075078541BC
+thirdpartyid: SVS208-R
+speakers: firstName_0: Swapnil, lastName_0: Singh, firstName_1: Tom, lastName_1: Romano, firstName_2: Rodrigo, lastName_2: Cabrera, firstName_3: Rahul, lastName_3: Popat, firstName_4: Ben, lastName_4: Moses
+tag_name: DevOps Engineer, Role, Developer/Engineer, Role, 200 - Intermediate, Level, Serverless Compute, Topic, AWS Lambda, Services, Application Integration, Area of Interest, Thursday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role

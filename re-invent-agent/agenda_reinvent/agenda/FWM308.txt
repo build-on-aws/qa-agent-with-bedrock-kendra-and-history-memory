@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 115
+summary: tag_name :AWS AppSync, Services, 300 - Advanced, Level, DevOps and Developer Productivity, Topic, Developer/Engineer, Role, Front-End Web & Mobile, Area of Interest, Monday, Day, Caesars Forum, Venue, DevOps Engineer, Role, , speakers :firstName_0: Ozioma, lastName_0: Uzoegwu, firstName_1: Nicholas, lastName_1: DeJaco, , thirdpartyid :FWM308-R, sessionuid :9E22A736-5E8E-4BAF-8289-766E97CAFA59, title :Architecture patterns for building private APIs with AWS AppSync [REPEAT], description :<p>A highly requested feature on AWS AppSync is support for private APIs, which allow clients within a private network to access GraphQL APIs on AWS AppSync without traversing the public internet. In this chalk talk, dive deep on this new feature and the architecture patterns to enable API clients in different locations, in the AWS Cloud and on premises, to invoke private APIs on AWS AppSync. Learn how to build enterprise-ready GraphQL APIs that will meet your security requirements around private access to your AWS AppSync APIs.</p>, sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 115, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 19:30:00 -0500, 
+enddatetimeutc: November, 27 2023 19:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: Forum 115
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: <p>A highly requested feature on AWS AppSync is support for private APIs, which allow clients within a private network to access GraphQL APIs on AWS AppSync without traversing the public internet. In this chalk talk, dive deep on this new feature and the architecture patterns to enable API clients in different locations, in the AWS Cloud and on premises, to invoke private APIs on AWS AppSync. Learn how to build enterprise-ready GraphQL APIs that will meet your security requirements around private access to your AWS AppSync APIs.</p>
+title: Architecture patterns for building private APIs with AWS AppSync [REPEAT]
+sessionuid: 9E22A736-5E8E-4BAF-8289-766E97CAFA59
+thirdpartyid: FWM308-R
+speakers: firstName_0: Ozioma, lastName_0: Uzoegwu, firstName_1: Nicholas, lastName_1: DeJaco
+tag_name: AWS AppSync, Services, 300 - Advanced, Level, DevOps and Developer Productivity, Topic, Developer/Engineer, Role, Front-End Web & Mobile, Area of Interest, Monday, Day, Caesars Forum, Venue, DevOps Engineer, Role

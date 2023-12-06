@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Oceanside D
+summary: tag_name :Cloud Operations, Topic, Enterprise & Migration, Topic, AWS Marketplace, Area of Interest, Management & Governance, Area of Interest, Cost Optimization, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, AWS Billing and Cost Management, Services, AWS Marketplace, Services, Tuesday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Lisa, lastName_0: Lewison, firstName_1: Natalie, lastName_1: Daley, company_1: HSBC, , thirdpartyid :MKT202, sessionuid :AAD75D36-6ED2-4F46-AC4E-03AA08332201, title :Gain visibility into your software spend with AWS Marketplace, description :<p>Cloud computing has changed the way organizations think about IT spend optimization. In this session, learn how AWS Marketplace can be a central part of an organization's FinOps strategy by helping establish guardrails, improve cloud procurement efficiency, and reduce on-premises stranded IT costs at every stage of their cloud journey. Discover how AWS Marketplace can help you gain greater cost insights, leverage budget alerts, and support spend consolidation and optimization with flexible pricing and consumption models.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Oceanside D, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 23:00:00 -0500, 
+enddatetimeutc: November, 28 2023 23:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Oceanside D
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Cloud computing has changed the way organizations think about IT spend optimization. In this session, learn how AWS Marketplace can be a central part of an organization's FinOps strategy by helping establish guardrails, improve cloud procurement efficiency, and reduce on-premises stranded IT costs at every stage of their cloud journey. Discover how AWS Marketplace can help you gain greater cost insights, leverage budget alerts, and support spend consolidation and optimization with flexible pricing and consumption models.</p>
+title: Gain visibility into your software spend with AWS Marketplace
+sessionuid: AAD75D36-6ED2-4F46-AC4E-03AA08332201
+thirdpartyid: MKT202
+speakers: firstName_0: Lisa, lastName_0: Lewison, firstName_1: Natalie, lastName_1: Daley, company_1: HSBC
+tag_name: Cloud Operations, Topic, Enterprise & Migration, Topic, AWS Marketplace, Area of Interest, Management & Governance, Area of Interest, Cost Optimization, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, AWS Billing and Cost Management, Services, AWS Marketplace, Services, Tuesday, Day, Mandalay Bay, Venue

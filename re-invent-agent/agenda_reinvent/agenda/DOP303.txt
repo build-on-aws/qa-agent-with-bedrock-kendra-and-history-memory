@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 5
+summary: tag_name :DevOps Engineer, Role, Developer/Engineer, Role, AWS Cloud Development Kit (CDK), Services, Tuesday, Day, Wynn, Venue, 300 - Advanced, Level, DevOps and Developer Productivity, Topic, , speakers :firstName_0: Dr. Rahul Sharad, lastName_0: Gaikwad, firstName_1: Panna, lastName_1: Shetty, , thirdpartyid :DOP303-R, sessionuid :7911398B-4B08-4454-B60D-0A3B52453D15, title :Continuous integration and delivery on AWS [REPEAT], description :<p>In this workshop, learn to create end-to-end continuous integration and continuous delivery (CI/CD) pipelines using AWS Cloud Development Kit (AWS CDK). Review the fundamental concepts of continuous integration, continuous deployment, and continuous delivery. Then, using TypeScript/Python, define an AWS CodePipeline, AWS CodeBuild, and AWS CodeCommit workflow. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 5, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 21:00:00 -0500, 
+enddatetimeutc: November, 28 2023 21:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Cristal 5
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: <p>In this workshop, learn to create end-to-end continuous integration and continuous delivery (CI/CD) pipelines using AWS Cloud Development Kit (AWS CDK). Review the fundamental concepts of continuous integration, continuous deployment, and continuous delivery. Then, using TypeScript/Python, define an AWS CodePipeline, AWS CodeBuild, and AWS CodeCommit workflow. You must bring your laptop to participate.</p>
+title: Continuous integration and delivery on AWS [REPEAT]
+sessionuid: 7911398B-4B08-4454-B60D-0A3B52453D15
+thirdpartyid: DOP303-R
+speakers: firstName_0: Dr. Rahul Sharad, lastName_0: Gaikwad, firstName_1: Panna, lastName_1: Shetty
+tag_name: DevOps Engineer, Role, Developer/Engineer, Role, AWS Cloud Development Kit (CDK), Services, Tuesday, Day, Wynn, Venue, 300 - Advanced, Level, DevOps and Developer Productivity, Topic

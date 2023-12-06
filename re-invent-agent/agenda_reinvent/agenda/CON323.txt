@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 320
+summary: tag_name :Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Serverless Compute, Topic, Solution/Systems Architect, Role, Amazon Elastic Container Service (ECS), Services, DevOps Engineer, Role, Tuesday, Day, MGM Grand, Venue, Monitoring & Observability, Area of Interest, Compute, Topic, AWS Fargate, Services, , speakers :firstName_0: Mridula, lastName_0: Grandhi, firstName_1: Arvind, lastName_1: Soni, , thirdpartyid :CON323, sessionuid :50259AA3-4E2F-487C-8DAC-5D676F68BA4E, title :Implementing observability for AWS Fargate serverless applications, description :As containerized workloads on AWS Fargate scale, maintaining effective observability becomes increasingly challenging. In this chalk talk, consider strategies and best practices for scaling observability with AWS Fargate deployments. Explore approaches for how to manage monitoring and logging at scale, including optimizing metric collection, log aggregation, and analysis. Dive into container-centric monitoring techniques, efficient log management, and how you can utilize AWS services such as Amazon CloudWatch Logs, AWS Lambda, and AWS Glue., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 320, startdatetimeutc :November, 29 2023 00:00:00 -0500, enddatetimeutc :November, 29 2023 01:00:00 -0500, 
+enddatetimeutc: November, 29 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 00:00:00 -0500
+locationname: Premier 320
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: As containerized workloads on AWS Fargate scale, maintaining effective observability becomes increasingly challenging. In this chalk talk, consider strategies and best practices for scaling observability with AWS Fargate deployments. Explore approaches for how to manage monitoring and logging at scale, including optimizing metric collection, log aggregation, and analysis. Dive into container-centric monitoring techniques, efficient log management, and how you can utilize AWS services such as Amazon CloudWatch Logs, AWS Lambda, and AWS Glue
+title: Implementing observability for AWS Fargate serverless applications
+sessionuid: 50259AA3-4E2F-487C-8DAC-5D676F68BA4E
+thirdpartyid: CON323
+speakers: firstName_0: Mridula, lastName_0: Grandhi, firstName_1: Arvind, lastName_1: Soni
+tag_name: Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Serverless Compute, Topic, Solution/Systems Architect, Role, Amazon Elastic Container Service (ECS), Services, DevOps Engineer, Role, Tuesday, Day, MGM Grand, Venue, Monitoring & Observability, Area of Interest, Compute, Topic, AWS Fargate, Services

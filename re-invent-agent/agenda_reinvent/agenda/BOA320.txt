@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 122
+summary: tag_name :Databases, Topic, BuildOn.AWS, Area of Interest, Cost Optimization, Area of Interest, 300 - Advanced, Level, Amazon Elastic Kubernetes Service (EKS), Services, Amazon MemoryDB for Redis, Services, AWS Cloud Development Kit (CDK), Services, Monday, Day, MGM Grand, Venue, , speakers :firstName_0: Roberto, lastName_0: Luna Rojas, firstName_1: Sashi, lastName_1: Varanasi, , thirdpartyid :BOA320, sessionuid :0DDFE2B3-8B56-4041-9525-B63FDAA250DE, title :Building high-performance gaming applications with Redis, description :<p>In this session, explore Redis data structures and the infrastructure prerequisites tailored for real-time gaming applications. These use cases encompass elements like leaderboards, in-game messaging, notifications, and more. To facilitate comprehension, see these concepts come to life with a practical example: a game you can actively engage in! By the end of this session, gain a comprehensive understanding of why Amazon MemoryDB for Redis is an ideal choice for handling high-performance gaming workloads.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 122, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Grand 122
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>In this session, explore Redis data structures and the infrastructure prerequisites tailored for real-time gaming applications. These use cases encompass elements like leaderboards, in-game messaging, notifications, and more. To facilitate comprehension, see these concepts come to life with a practical example: a game you can actively engage in! By the end of this session, gain a comprehensive understanding of why Amazon MemoryDB for Redis is an ideal choice for handling high-performance gaming workloads.</p>
+title: Building high-performance gaming applications with Redis
+sessionuid: 0DDFE2B3-8B56-4041-9525-B63FDAA250DE
+thirdpartyid: BOA320
+speakers: firstName_0: Roberto, lastName_0: Luna Rojas, firstName_1: Sashi, lastName_1: Varanasi
+tag_name: Databases, Topic, BuildOn.AWS, Area of Interest, Cost Optimization, Area of Interest, 300 - Advanced, Level, Amazon Elastic Kubernetes Service (EKS), Services, Amazon MemoryDB for Redis, Services, AWS Cloud Development Kit (CDK), Services, Monday, Day, MGM Grand, Venue

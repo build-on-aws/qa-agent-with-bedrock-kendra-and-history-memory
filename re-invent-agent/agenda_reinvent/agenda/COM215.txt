@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Network & Infrastructure Security, Area of Interest, Customer Stories, Area of Interest, Amazon GuardDuty, Services, Application Security, Area of Interest, Security, Compliance, & Identity, Topic, Tuesday, Day, Venetian, Venue, Cloud Security Specialist, Role, Tech Explorer, Role, Amazon Elastic Kubernetes Service (EKS), Services, AWS Identity and Access Management (IAM), Services, Developer/Engineer, Role, 200 - Intermediate, Level, , speakers :firstName_0: Michal, lastName_0: Brygidyn, company_0: Xebia, , thirdpartyid :COM215, sessionuid :1A3A7ADE-C1D8-43AF-BEB0-462972E7F23A, title :Securing data in the cloud: Real-world AWS security scenarios, description :In this dev chat, delve into the world of AWS security through the lens of real-world scenarios. Discuss the impact of misconfigurations, the threats they present, and how to manage them effectively. Filled with actionable insights, this dev chat empowers you to secure your AWS environments and understand the importance of constant vigilance in cloud security., sessiontype :Dev Chat, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Dev Chat
+description: In this dev chat, delve into the world of AWS security through the lens of real-world scenarios. Discuss the impact of misconfigurations, the threats they present, and how to manage them effectively. Filled with actionable insights, this dev chat empowers you to secure your AWS environments and understand the importance of constant vigilance in cloud security
+title: Securing data in the cloud: Real-world AWS security scenarios
+sessionuid: 1A3A7ADE-C1D8-43AF-BEB0-462972E7F23A
+thirdpartyid: COM215
+speakers: firstName_0: Michal, lastName_0: Brygidyn, company_0: Xebia
+tag_name: Network & Infrastructure Security, Area of Interest, Customer Stories, Area of Interest, Amazon GuardDuty, Services, Application Security, Area of Interest, Security, Compliance, & Identity, Topic, Tuesday, Day, Venetian, Venue, Cloud Security Specialist, Role, Tech Explorer, Role, Amazon Elastic Kubernetes Service (EKS), Services, AWS Identity and Access Management (IAM), Services, Developer/Engineer, Role, 200 - Intermediate, Level

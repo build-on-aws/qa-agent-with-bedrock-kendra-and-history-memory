@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Strategy & Transformation, Area of Interest, 100 - Foundational, Level, Sales/Marketing, Role, Monday, Day, Venetian, Venue, Business Executive, Role, IT Executive, Role, Partner Enablement, Topic, , speakers :firstName_0: Elizabeth, lastName_0: Burton, , thirdpartyid :PEX115, sessionuid :8D42771D-5618-4A19-9923-100C15DB831B, title :Create your AWS GTM framework by Working Backwards, description :Working Backwards has been part of Amazonian culture for nearly two decades. It is a mechanism for innovation that has been used at Amazon Web Services and with AWS Partners to design new products and features. But did you know that you can use the Working Backwards principle to create a joint GTM framework with AWS to propel your business forward? Join this lightning talk to learn about Working Backwards and how it can help you identify the best ways to go to market with AWS, generate demand, and grow revenue. This lightning talk is intended for AWS Partners., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 28 2023 01:30:00 -0500, enddatetimeutc :November, 28 2023 01:50:00 -0500, 
+enddatetimeutc: November, 28 2023 01:50:00 -0500
+startdatetimeutc: November, 28 2023 01:30:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Working Backwards has been part of Amazonian culture for nearly two decades. It is a mechanism for innovation that has been used at Amazon Web Services and with AWS Partners to design new products and features. But did you know that you can use the Working Backwards principle to create a joint GTM framework with AWS to propel your business forward? Join this lightning talk to learn about Working Backwards and how it can help you identify the best ways to go to market with AWS, generate demand, and grow revenue. This lightning talk is intended for AWS Partners
+title: Create your AWS GTM framework by Working Backwards
+sessionuid: 8D42771D-5618-4A19-9923-100C15DB831B
+thirdpartyid: PEX115
+speakers: firstName_0: Elizabeth, lastName_0: Burton
+tag_name: Strategy & Transformation, Area of Interest, 100 - Foundational, Level, Sales/Marketing, Role, Monday, Day, Venetian, Venue, Business Executive, Role, IT Executive, Role, Partner Enablement, Topic

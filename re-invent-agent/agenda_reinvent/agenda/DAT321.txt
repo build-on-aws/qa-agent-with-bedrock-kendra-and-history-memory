@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 123
+summary: tag_name :Cross Industry, Industry, Media & Entertainment, Industry, Serverless Compute, Topic, 300 - Advanced, Level, Financial Services, Industry, Cost Optimization, Area of Interest, Solution/Systems Architect, Role, Databases, Topic, IT Professional/Technical Manager, Role, Tuesday, Day, Caesars Forum, Venue, Developer/Engineer, Role, Amazon Aurora, Services, , speakers :firstName_0: Aditya, lastName_0: Samant, firstName_1: Chirag, lastName_1: Dave, , thirdpartyid :DAT321-R, sessionuid :FC7150C4-5574-40B1-B30F-A9719F1234B4, title :Optimize your Amazon Aurora resources to reduce costs [REPEAT], description :Amazon Aurora is a cloud-native managed relational database offering that lets you create, manage, and scale your database resources with ease. In this chalk talk, dive deep into Aurora cost components and see how you can use cost-focused features and tooling to optimize costs for your workload without sacrificing performance or scale. Also learn how the Amazon Aurora I/O-Optimized configuration can help you achieve cost savings for your I/O-intensive workloads., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 123, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: Forum 123
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Amazon Aurora is a cloud-native managed relational database offering that lets you create, manage, and scale your database resources with ease. In this chalk talk, dive deep into Aurora cost components and see how you can use cost-focused features and tooling to optimize costs for your workload without sacrificing performance or scale. Also learn how the Amazon Aurora I/O-Optimized configuration can help you achieve cost savings for your I/O-intensive workloads
+title: Optimize your Amazon Aurora resources to reduce costs [REPEAT]
+sessionuid: FC7150C4-5574-40B1-B30F-A9719F1234B4
+thirdpartyid: DAT321-R
+speakers: firstName_0: Aditya, lastName_0: Samant, firstName_1: Chirag, lastName_1: Dave
+tag_name: Cross Industry, Industry, Media & Entertainment, Industry, Serverless Compute, Topic, 300 - Advanced, Level, Financial Services, Industry, Cost Optimization, Area of Interest, Solution/Systems Architect, Role, Databases, Topic, IT Professional/Technical Manager, Role, Tuesday, Day, Caesars Forum, Venue, Developer/Engineer, Role, Amazon Aurora, Services

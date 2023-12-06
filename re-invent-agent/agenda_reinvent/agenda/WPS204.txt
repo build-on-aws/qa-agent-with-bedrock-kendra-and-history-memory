@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 104
+summary: tag_name :Hybrid Cloud, Topic, Disaster Response & Recovery, Area of Interest, Edge Computing, Area of Interest, Government, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Tuesday, Day, MGM Grand, Venue, , speakers :firstName_0: Doug, lastName_0: Hairfield, firstName_1: Andy, lastName_1: Banks, , thirdpartyid :WPS204, sessionuid :0A00F46E-BEFE-4EC3-B96A-5C111849511E, title :Mission edge: Delivering data-driven insights in austere environments, description :<p>Edge solutions for rapid decision-making have evolved beyond compute at the edge. Advancements in communications and compute density now allow organizations to fuse the tactical edge with cloud to generate advanced “mission edge” solutions. This fusion of technologies brings advanced mission capabilities and outcomes but can come at the cost of increased design complexity. In this chalk talk, AWS experts dive deep on unique requirements and lessons learned when building mission edge solutions. Through real-world examples learn how to create architectures that meet mission requirements by finding the right compromise between robust cloud capabilities and tactical edge agility.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :104, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: 104
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Edge solutions for rapid decision-making have evolved beyond compute at the edge. Advancements in communications and compute density now allow organizations to fuse the tactical edge with cloud to generate advanced “mission edge” solutions. This fusion of technologies brings advanced mission capabilities and outcomes but can come at the cost of increased design complexity. In this chalk talk, AWS experts dive deep on unique requirements and lessons learned when building mission edge solutions. Through real-world examples learn how to create architectures that meet mission requirements by finding the right compromise between robust cloud capabilities and tactical edge agility.</p>
+title: Mission edge: Delivering data-driven insights in austere environments
+sessionuid: 0A00F46E-BEFE-4EC3-B96A-5C111849511E
+thirdpartyid: WPS204
+speakers: firstName_0: Doug, lastName_0: Hairfield, firstName_1: Andy, lastName_1: Banks
+tag_name: Hybrid Cloud, Topic, Disaster Response & Recovery, Area of Interest, Edge Computing, Area of Interest, Government, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Tuesday, Day, MGM Grand, Venue

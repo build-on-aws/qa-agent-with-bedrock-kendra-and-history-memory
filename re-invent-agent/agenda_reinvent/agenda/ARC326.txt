@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 305
+summary: tag_name :DevOps Engineer, Role, Amazon Elastic Load Balancing (ELB), Services, Resilience, Area of Interest, Solution/Systems Architect, Role, BuildOn.AWS, Area of Interest, Developer/Engineer, Role, Monday, Day, Caesars Forum, Venue, 300 - Advanced, Level, Amazon API Gateway, Services, Cross Industry, Industry, Architecture, Topic, , speakers :firstName_0: Tulip, lastName_0: Gupta, firstName_1: Ish, lastName_1: Singh, , thirdpartyid :ARC326, sessionuid :9A97BA67-B6C8-4ABD-8EAC-5EDB2A8E077C, title :How Amazon uses cellular architecture and scales in the cloud, description :In this chalk talk, explore how Amazon teams have scaled their platforms with cellular architectures. Learn how Amazon Prime Video scaled to handle high-profile live events (such as Thursday Night Football, EPL, and more). Discover how Amazon Ads scaled to handle millions of transactions per second with low latency requirements of 30–100 milliseconds. Explore the use of Amazon API Gateway versus Elastic Load Balancing to route requests, cellular routing decisions, and resiliency architecture for cells. Learn about the advantages of cell-based architecture, use cases, requirements, best practices, and lessons learned., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 305, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Alliance 305
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: In this chalk talk, explore how Amazon teams have scaled their platforms with cellular architectures. Learn how Amazon Prime Video scaled to handle high-profile live events (such as Thursday Night Football, EPL, and more). Discover how Amazon Ads scaled to handle millions of transactions per second with low latency requirements of 30–100 milliseconds. Explore the use of Amazon API Gateway versus Elastic Load Balancing to route requests, cellular routing decisions, and resiliency architecture for cells. Learn about the advantages of cell-based architecture, use cases, requirements, best practices, and lessons learned
+title: How Amazon uses cellular architecture and scales in the cloud
+sessionuid: 9A97BA67-B6C8-4ABD-8EAC-5EDB2A8E077C
+thirdpartyid: ARC326
+speakers: firstName_0: Tulip, lastName_0: Gupta, firstName_1: Ish, lastName_1: Singh
+tag_name: DevOps Engineer, Role, Amazon Elastic Load Balancing (ELB), Services, Resilience, Area of Interest, Solution/Systems Architect, Role, BuildOn.AWS, Area of Interest, Developer/Engineer, Role, Monday, Day, Caesars Forum, Venue, 300 - Advanced, Level, Amazon API Gateway, Services, Cross Industry, Industry, Architecture, Topic

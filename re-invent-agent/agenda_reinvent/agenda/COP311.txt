@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 123
+summary: tag_name :Cloud Operations, Topic, AWS Systems Manager, Services, Management & Governance, Area of Interest, 300 - Advanced, Level, DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Monday, Day, MGM Grand, Venue, AWS Config, Services, AWS Audit Manager, Services, , speakers :firstName_0: Alexis, lastName_0: Robinson, firstName_1: Yagya, lastName_1: Vir Singh, , thirdpartyid :COP311-R, sessionuid :1B94EBE7-614C-4D6E-87D9-735D1A3F8C3E, title :Simplify continuous auditing and compliance on AWS [REPEAT], description :This workshop walks through the steps you can take with AWS cloud operations services to centralize and simplify continuous auditing and compliance across AWS Regions and accounts. Start by learning how to use AWS Systems Manager Explorer to gather the compliance status of AWS Config rules. Next, learn how to use AWS Systems Manager Automation documents (runbooks) to automate the remediation of any noncompliant AWS Config rules. Finally, use AWS Audit Manager to collect the evidence from this process to prepare for audits. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 123, startdatetimeutc :November, 27 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 22:00:00 -0500
+locationname: Grand 123
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: This workshop walks through the steps you can take with AWS cloud operations services to centralize and simplify continuous auditing and compliance across AWS Regions and accounts. Start by learning how to use AWS Systems Manager Explorer to gather the compliance status of AWS Config rules. Next, learn how to use AWS Systems Manager Automation documents (runbooks) to automate the remediation of any noncompliant AWS Config rules. Finally, use AWS Audit Manager to collect the evidence from this process to prepare for audits. You must bring your laptop to participate
+title: Simplify continuous auditing and compliance on AWS [REPEAT]
+sessionuid: 1B94EBE7-614C-4D6E-87D9-735D1A3F8C3E
+thirdpartyid: COP311-R
+speakers: firstName_0: Alexis, lastName_0: Robinson, firstName_1: Yagya, lastName_1: Vir Singh
+tag_name: Cloud Operations, Topic, AWS Systems Manager, Services, Management & Governance, Area of Interest, 300 - Advanced, Level, DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Monday, Day, MGM Grand, Venue, AWS Config, Services, AWS Audit Manager, Services

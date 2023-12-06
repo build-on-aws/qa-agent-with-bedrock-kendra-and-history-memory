@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Venetian Ballroom F
+summary: tag_name :Wednesday, Day, Venetian, Venue, , speakers :firstName_0: Ruba, lastName_0: Borno, , thirdpartyid :KEY004, sessionuid :2944C5D1-EBEB-4C3F-8421-2315EDC1B234, title :AWS Partner Keynote with Ruba Borno, description :<p>Join the AWS Partner Keynote, presented by Ruba Borno, Vice President of AWS Worldwide Channels and Alliances, as she delves into the world of strategic partnerships to show how AWS and AWS Partners are achieving impossible firsts, helping customers reimagine their business models and drive business outcomes. Hear from partners and customers about how they’re utilizing AWS to develop industry-changing solutions. Learn how we work together across industries and geographies to provide innovative solutions, robust customer opportunities, and tailored content and programs that drive collective prosperity. Discover how AWS is improving the digital experience for partners and connecting them with higher-value opportunities and longer-term success.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Venetian Ballroom F, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:30:00 -0500, 
+enddatetimeutc: November, 30 2023 00:30:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Venetian Ballroom F
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Join the AWS Partner Keynote, presented by Ruba Borno, Vice President of AWS Worldwide Channels and Alliances, as she delves into the world of strategic partnerships to show how AWS and AWS Partners are achieving impossible firsts, helping customers reimagine their business models and drive business outcomes. Hear from partners and customers about how they’re utilizing AWS to develop industry-changing solutions. Learn how we work together across industries and geographies to provide innovative solutions, robust customer opportunities, and tailored content and programs that drive collective prosperity. Discover how AWS is improving the digital experience for partners and connecting them with higher-value opportunities and longer-term success.</p>
+title: AWS Partner Keynote with Ruba Borno
+sessionuid: 2944C5D1-EBEB-4C3F-8421-2315EDC1B234
+thirdpartyid: KEY004
+speakers: firstName_0: Ruba, lastName_0: Borno
+tag_name: Wednesday, Day, Venetian, Venue

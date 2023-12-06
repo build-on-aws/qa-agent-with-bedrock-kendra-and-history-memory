@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Storage, Topic, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Thursday, Day, Venetian, Venue, , speakers :firstName_0: Ozan, lastName_0: Talu, , thirdpartyid :SMB210, sessionuid :2198E7F3-6AAD-475B-887D-0D1D1616CB46, title :Migrate your data to AWS seamlessly with Amazon FSx for NetApp ONTAP, description :<p>Are you migrating data from your on-premises network-attached storage environment or looking for a data backup solution to protect against ransomware? Amazon FSx for NetApp ONTAP is a fully managed service that seamlessly extends your on-premises storage to the cloud, giving you capacity that grows and shrinks automatically. Join this lightning talk to get practical advice on how you can easily take advantage of cloud storage.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Are you migrating data from your on-premises network-attached storage environment or looking for a data backup solution to protect against ransomware? Amazon FSx for NetApp ONTAP is a fully managed service that seamlessly extends your on-premises storage to the cloud, giving you capacity that grows and shrinks automatically. Join this lightning talk to get practical advice on how you can easily take advantage of cloud storage.</p>
+title: Migrate your data to AWS seamlessly with Amazon FSx for NetApp ONTAP
+sessionuid: 2198E7F3-6AAD-475B-887D-0D1D1616CB46
+thirdpartyid: SMB210
+speakers: firstName_0: Ozan, lastName_0: Talu
+tag_name: Storage, Topic, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Thursday, Day, Venetian, Venue

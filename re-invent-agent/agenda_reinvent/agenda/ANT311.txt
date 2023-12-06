@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :AWS Glue, Services, Developer/Engineer, Role, Data Engineer, Role, Monday, Day, Mandalay Bay, Venue, Amazon Kinesis, Services, Retail, Industry, 300 - Advanced, Level, Analytics, Topic, , speakers :firstName_0: Ripunjaya, lastName_0: Pattnaik, firstName_1: Gal, lastName_1: Heyne, , thirdpartyid :ANT311-R, sessionuid :243C4D47-572C-40C4-A4F9-0358F768D10A, title :Stream data and build transactional lakes with AWS Glue streaming [REPEAT], description :Members of a company’s data engineering team can be tasked with streaming data from an online store, processing it, making predictions, and adjusting product discounts accordingly. In this chalk talk, learn how to create a low-code streaming pipeline with AWS Glue and Amazon Kinesis to load, clean, and transform sales data, and make it available for machine learning., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 01:00:00 -0500, 
+enddatetimeutc: November, 28 2023 01:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: Members of a company’s data engineering team can be tasked with streaming data from an online store, processing it, making predictions, and adjusting product discounts accordingly. In this chalk talk, learn how to create a low-code streaming pipeline with AWS Glue and Amazon Kinesis to load, clean, and transform sales data, and make it available for machine learning
+title: Stream data and build transactional lakes with AWS Glue streaming [REPEAT]
+sessionuid: 243C4D47-572C-40C4-A4F9-0358F768D10A
+thirdpartyid: ANT311-R
+speakers: firstName_0: Ripunjaya, lastName_0: Pattnaik, firstName_1: Gal, lastName_1: Heyne
+tag_name: AWS Glue, Services, Developer/Engineer, Role, Data Engineer, Role, Monday, Day, Mandalay Bay, Venue, Amazon Kinesis, Services, Retail, Industry, 300 - Advanced, Level, Analytics, Topic

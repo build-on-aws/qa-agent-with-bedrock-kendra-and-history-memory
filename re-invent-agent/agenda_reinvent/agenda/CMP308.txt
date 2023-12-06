@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 101
+summary: tag_name :Compute, Topic, Networking & Content Delivery, Topic, Global Infrastructure, Area of Interest, Migration & Transfer, Area of Interest, Resilience, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Cloud Security Specialist, Role, Solution/Systems Architect, Role, System Administrator, Role, Amazon Elastic Compute Cloud (EC2), Services, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Antal, lastName_0: Gyori, , thirdpartyid :CMP308, sessionuid :0B263D84-9DF1-49A4-9491-62C17DD481F4, title :Build scalable network and security virtual appliances with Amazon EC2, description :<p>Security and network virtual appliances represent a critical component of customer deployments on Amazon EC2 because they help secure these workloads and implement connectivity to the internet and across VPCs. The Amazon EC2 network optimized instance portfolio offers organizations one of the highest, most consistent network performances in the cloud. Join this chalk talk to learn how AWS customers are using Amazon EC2 to optimize costs and scale the performance of their security and network virtual appliances, whether they are deploying virtual appliances offered through AWS Marketplace or self-hosting them.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :101, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: 101
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Security and network virtual appliances represent a critical component of customer deployments on Amazon EC2 because they help secure these workloads and implement connectivity to the internet and across VPCs. The Amazon EC2 network optimized instance portfolio offers organizations one of the highest, most consistent network performances in the cloud. Join this chalk talk to learn how AWS customers are using Amazon EC2 to optimize costs and scale the performance of their security and network virtual appliances, whether they are deploying virtual appliances offered through AWS Marketplace or self-hosting them.</p>
+title: Build scalable network and security virtual appliances with Amazon EC2
+sessionuid: 0B263D84-9DF1-49A4-9491-62C17DD481F4
+thirdpartyid: CMP308
+speakers: firstName_0: Antal, lastName_0: Gyori
+tag_name: Compute, Topic, Networking & Content Delivery, Topic, Global Infrastructure, Area of Interest, Migration & Transfer, Area of Interest, Resilience, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Cloud Security Specialist, Role, Solution/Systems Architect, Role, System Administrator, Role, Amazon Elastic Compute Cloud (EC2), Services, Wednesday, Day, MGM Grand, Venue

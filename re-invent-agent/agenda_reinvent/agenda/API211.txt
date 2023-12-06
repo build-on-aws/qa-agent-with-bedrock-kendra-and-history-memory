@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 7
+summary: tag_name :Monday, Day, Wynn, Venue, Solution/Systems Architect, Role, AWS Lambda, Services, Cross Industry, Industry, Developer/Engineer, Role, Serverless Compute, Topic, Amazon EventBridge, Services, Media & Entertainment, Industry, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Application Integration, Area of Interest, , speakers :firstName_0: Tim, lastName_0: Bruce, firstName_1: Fernanda, lastName_1: Machado, firstName_2: Pawan, lastName_2: Puthran, firstName_3: Alexander, lastName_3: Schüren, firstName_4: Daniel, lastName_4: Fargano, , thirdpartyid :API211-R, sessionuid :0E5E476B-45C7-4987-BC91-089F5EBC8659, title :Extend a video streaming application with Powertools for AWS Lambda [REPEAT], description :Event-driven architectures allow you to evolve your applications over time. In this hands-on session, you extend an event-driven streaming application to generate a video transcript using AWS machine learning services. You use Powertools for AWS Lambda to implement best practices for logging and observability and to validate incoming events. By the end of the session, you have a serverless service ready to extend a real-world video streaming application. You must bring your laptop to participate., sessiontype :Builders' Session, venuename :Wynn, floorplanname :Level 1, locationname :Latour 7, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 19:30:00 -0500, 
+enddatetimeutc: November, 27 2023 19:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: Latour 7
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Builders' Session
+description: Event-driven architectures allow you to evolve your applications over time. In this hands-on session, you extend an event-driven streaming application to generate a video transcript using AWS machine learning services. You use Powertools for AWS Lambda to implement best practices for logging and observability and to validate incoming events. By the end of the session, you have a serverless service ready to extend a real-world video streaming application. You must bring your laptop to participate
+title: Extend a video streaming application with Powertools for AWS Lambda [REPEAT]
+sessionuid: 0E5E476B-45C7-4987-BC91-089F5EBC8659
+thirdpartyid: API211-R
+speakers: firstName_0: Tim, lastName_0: Bruce, firstName_1: Fernanda, lastName_1: Machado, firstName_2: Pawan, lastName_2: Puthran, firstName_3: Alexander, lastName_3: Schüren, firstName_4: Daniel, lastName_4: Fargano
+tag_name: Monday, Day, Wynn, Venue, Solution/Systems Architect, Role, AWS Lambda, Services, Cross Industry, Industry, Developer/Engineer, Role, Serverless Compute, Topic, Amazon EventBridge, Services, Media & Entertainment, Industry, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Application Integration, Area of Interest

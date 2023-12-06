@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 7
+summary: tag_name :Developer/Engineer, Role, Application Integration, Area of Interest, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, 200 - Intermediate, Level, Wednesday, Day, Wynn, Venue, Serverless Compute, Topic, Amazon EventBridge, Services, , speakers :firstName_0: James, lastName_0: Eastham, firstName_1: Alexander, lastName_1: Vladimirov, firstName_2: Cheryl, lastName_2: Joseph, firstName_3: Jeff, lastName_3: Oriecuia, firstName_4: Viraj, lastName_4: Padte, , thirdpartyid :API205-R, sessionuid :F1E4C801-071A-4C90-870F-F0A06C670B33, title :Decoupling your data-driven applications with Amazon EventBridge Pipes [REPEAT], description :Decoupling services is one of the largest advantages of adopting a modern event-driven architecture, which can improve development agility and operational resilience. In this builders’ session, see how different services or even different applications can respond in real time to changes in an Amazon DynamoDB table using Amazon EventBridge Pipes and event buses. Learn to reduce coupling by prioritizing configuration over code, serverless over provisioned services, and generic over service-specific communication. You must bring your laptop to participate., sessiontype :Builders' Session, venuename :Wynn, floorplanname :Level 1, locationname :Latour 7, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Latour 7
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Builders' Session
+description: Decoupling services is one of the largest advantages of adopting a modern event-driven architecture, which can improve development agility and operational resilience. In this builders’ session, see how different services or even different applications can respond in real time to changes in an Amazon DynamoDB table using Amazon EventBridge Pipes and event buses. Learn to reduce coupling by prioritizing configuration over code, serverless over provisioned services, and generic over service-specific communication. You must bring your laptop to participate
+title: Decoupling your data-driven applications with Amazon EventBridge Pipes [REPEAT]
+sessionuid: F1E4C801-071A-4C90-870F-F0A06C670B33
+thirdpartyid: API205-R
+speakers: firstName_0: James, lastName_0: Eastham, firstName_1: Alexander, lastName_1: Vladimirov, firstName_2: Cheryl, lastName_2: Joseph, firstName_3: Jeff, lastName_3: Oriecuia, firstName_4: Viraj, lastName_4: Padte
+tag_name: Developer/Engineer, Role, Application Integration, Area of Interest, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, 200 - Intermediate, Level, Wednesday, Day, Wynn, Venue, Serverless Compute, Topic, Amazon EventBridge, Services

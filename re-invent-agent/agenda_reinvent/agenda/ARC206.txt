@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Bellini 2105
+summary: tag_name :Architecture, Topic, BuildOn.AWS, Area of Interest, Front-End Web & Mobile, Area of Interest, Well-Architected Framework, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Amazon DynamoDB, Services, AWS Amplify, Services, AWS App Runner, Services, 200 - Intermediate, Level, Monday, Day, Venetian, Venue, , speakers :firstName_0: Chris, lastName_0: Munns, firstName_1: Skye, lastName_1: Hart, , thirdpartyid :ARC206, sessionuid :7E13564B-8209-4F6E-9DF9-4FF99330757E, title :Scaling on AWS for the first 10 million users, description :In this session, learn about patterns and techniques for architecting the ability to handle rapid growth and success in the early days of your business into your infrastructure on AWS. From implementing highly scalable AWS services to architecting proven patterns, there are a number of choices you can make early on to help you overcome some common infrastructure challenges. Learn how to adapt to growth and scale without needing to completely rebuild., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Bellini 2105, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 20:30:00 -0500, 
+enddatetimeutc: November, 27 2023 20:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Bellini 2105
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: In this session, learn about patterns and techniques for architecting the ability to handle rapid growth and success in the early days of your business into your infrastructure on AWS. From implementing highly scalable AWS services to architecting proven patterns, there are a number of choices you can make early on to help you overcome some common infrastructure challenges. Learn how to adapt to growth and scale without needing to completely rebuild
+title: Scaling on AWS for the first 10 million users
+sessionuid: 7E13564B-8209-4F6E-9DF9-4FF99330757E
+thirdpartyid: ARC206
+speakers: firstName_0: Chris, lastName_0: Munns, firstName_1: Skye, lastName_1: Hart
+tag_name: Architecture, Topic, BuildOn.AWS, Area of Interest, Front-End Web & Mobile, Area of Interest, Well-Architected Framework, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Amazon DynamoDB, Services, AWS Amplify, Services, AWS App Runner, Services, 200 - Intermediate, Level, Monday, Day, Venetian, Venue

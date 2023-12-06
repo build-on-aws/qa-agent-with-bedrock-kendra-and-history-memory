@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 122
+summary: tag_name :200 - Intermediate, Level, Enterprise & Migration, Topic, IT Administrator, Role, Migration & Transfer, Area of Interest, Strategy & Transformation, Area of Interest, Wednesday, Day, MGM Grand, Venue, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Management & Governance, Area of Interest, Cloud Operations, Topic, AWS Support, Services, , speakers :firstName_0: Rodney, lastName_0: Grilli, firstName_1: Lynn, lastName_1: Jones, firstName_2: Jonathan, lastName_2: Hutchins, company_2: LegalZoom, , thirdpartyid :SUP202, sessionuid :492FFCA8-CF99-4527-89D7-4BD10FDA022D, title :Using AWS solutions to accelerate customer-led migrations, description :More and more customers are choosing to lead their own migration and modernization initiatives. Many times, this results in delays due to obstacles like a cloud skills gap, a lack of migration planning tools, and technical blockers. In this session, walk through the many services, solutions, and tools that you can use to speed up your cloud migration and application modernization initiatives. Also hear how LegalZoom used these resources to plan and seamlessly migrate 300+ servers and 100+ DB instances during a single weekend cutover event., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 122, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Grand 122
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: More and more customers are choosing to lead their own migration and modernization initiatives. Many times, this results in delays due to obstacles like a cloud skills gap, a lack of migration planning tools, and technical blockers. In this session, walk through the many services, solutions, and tools that you can use to speed up your cloud migration and application modernization initiatives. Also hear how LegalZoom used these resources to plan and seamlessly migrate 300+ servers and 100+ DB instances during a single weekend cutover event
+title: Using AWS solutions to accelerate customer-led migrations
+sessionuid: 492FFCA8-CF99-4527-89D7-4BD10FDA022D
+thirdpartyid: SUP202
+speakers: firstName_0: Rodney, lastName_0: Grilli, firstName_1: Lynn, lastName_1: Jones, firstName_2: Jonathan, lastName_2: Hutchins, company_2: LegalZoom
+tag_name: 200 - Intermediate, Level, Enterprise & Migration, Topic, IT Administrator, Role, Migration & Transfer, Area of Interest, Strategy & Transformation, Area of Interest, Wednesday, Day, MGM Grand, Venue, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Management & Governance, Area of Interest, Cloud Operations, Topic, AWS Support, Services

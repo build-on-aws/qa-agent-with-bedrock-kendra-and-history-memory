@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :AWS Step Functions, Services, AWS AppSync, Services, System Administrator, Role, 200 - Intermediate, Level, Tech Explorer, Role, Thursday, Day, Venetian, Venue, Amazon DynamoDB, Services, Customer Stories, Area of Interest, Developer/Engineer, Role, Serverless Compute, Topic, Automotive, Industry, , speakers :firstName_0: Matthew, lastName_0: Wilson, company_0: Instil Software, photo_0: headshot_20232809054602.jpeg, , thirdpartyid :COM208, sessionuid :E6BCD6CB-AAB8-4A6D-BE56-5A9413F5432E, title :Zero to serverless car insurance, description :<p>At the start of 2021, Instil began an ambitious project to build a car insurance platform from beginning to end using serverless technology on AWS. Over the past two years, they learned a lot about what it takes to build a serverless platform, including what it means to be serverless-first, what works well, and what doesn’t. But above all, they learned to love the serverless offering on AWS. This dev chat explores Instil’s serverless journey. Learn why you shouldn’t stuff a monolith into a Lambda, how you can avoid Lambda functions entirely, when to make use of AWS Step Functions, and more.</p>, sessiontype :Dev Chat, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 22:50:00 -0500, 
+enddatetimeutc: November, 30 2023 22:50:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Dev Chat
+description: <p>At the start of 2021, Instil began an ambitious project to build a car insurance platform from beginning to end using serverless technology on AWS. Over the past two years, they learned a lot about what it takes to build a serverless platform, including what it means to be serverless-first, what works well, and what doesn’t. But above all, they learned to love the serverless offering on AWS. This dev chat explores Instil’s serverless journey. Learn why you shouldn’t stuff a monolith into a Lambda, how you can avoid Lambda functions entirely, when to make use of AWS Step Functions, and more.</p>
+title: Zero to serverless car insurance
+sessionuid: E6BCD6CB-AAB8-4A6D-BE56-5A9413F5432E
+thirdpartyid: COM208
+speakers: firstName_0: Matthew, lastName_0: Wilson, company_0: Instil Software, photo_0: headshot_20232809054602.jpeg
+tag_name: AWS Step Functions, Services, AWS AppSync, Services, System Administrator, Role, 200 - Intermediate, Level, Tech Explorer, Role, Thursday, Day, Venetian, Venue, Amazon DynamoDB, Services, Customer Stories, Area of Interest, Developer/Engineer, Role, Serverless Compute, Topic, Automotive, Industry

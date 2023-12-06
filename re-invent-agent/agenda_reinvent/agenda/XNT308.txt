@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Murano 3306
+summary: tag_name :Solution/Systems Architect, Role, Developer/Engineer, Role, 300 - Advanced, Level, Serverless Compute, Topic, Thursday, Day, Venetian, Venue, DevOps and Developer Productivity, Topic, , speakers :firstName_0: Dror, lastName_0: Helper, , thirdpartyid :XNT308, sessionuid :BA42AA13-0030-484C-8B42-6ADDD64C4184, title :Test automation for .NET applications running on AWS, description :<p>Software developers are required to rapidly develop new features without sacrificing quality. As software grows, building and deploying an increasingly complex codebase becomes difficult and error-prone. In addition, developers use cloud-based services as well as microservice and serverless applications that cannot be tested on their development machines. In this session, discover the different types of automated tests and tools you can use to test your .NET microservice and serverless applications. Also learn how to apply automated tests to create consistent and effective tests that support your project’s success.</p>, sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 3, locationname :Murano 3306, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Murano 3306
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Breakout Session
+description: <p>Software developers are required to rapidly develop new features without sacrificing quality. As software grows, building and deploying an increasingly complex codebase becomes difficult and error-prone. In addition, developers use cloud-based services as well as microservice and serverless applications that cannot be tested on their development machines. In this session, discover the different types of automated tests and tools you can use to test your .NET microservice and serverless applications. Also learn how to apply automated tests to create consistent and effective tests that support your project’s success.</p>
+title: Test automation for .NET applications running on AWS
+sessionuid: BA42AA13-0030-484C-8B42-6ADDD64C4184
+thirdpartyid: XNT308
+speakers: firstName_0: Dror, lastName_0: Helper
+tag_name: Solution/Systems Architect, Role, Developer/Engineer, Role, 300 - Advanced, Level, Serverless Compute, Topic, Thursday, Day, Venetian, Venue, DevOps and Developer Productivity, Topic

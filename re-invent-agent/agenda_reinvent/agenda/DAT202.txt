@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 122
+summary: tag_name :IT Professional/Technical Manager, Role, Amazon Aurora, Services, Amazon Relational Database Service (RDS), Services, Solution/Systems Architect, Role, Monday, Day, MGM Grand, Venue, Cross Industry, Industry, Databases, Topic, Developer/Engineer, Role, Management & Governance, Area of Interest, 200 - Intermediate, Level, Monitoring & Observability, Area of Interest, Innovation on AWS, Area of Interest, , speakers :firstName_0: Pini, lastName_0: Dibask, firstName_1: Maxym, lastName_1: Kharchenko, , thirdpartyid :DAT202, sessionuid :3A2CFF6F-6F5A-4209-8344-BB2E6CE20D0B, title :Take a load off: Diagnose & resolve performance issues with Amazon RDS, description :Tuning the performance of a relational database is both an art and a science. In this session, learn how to make the most of Amazon RDS performance monitoring features such as Performance Insights and Enhanced Monitoring. Leave this session with an understanding of how to diagnose and remediate database performance issues efficiently., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 122, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 19:30:00 -0500, 
+enddatetimeutc: November, 27 2023 19:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: Grand 122
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Tuning the performance of a relational database is both an art and a science. In this session, learn how to make the most of Amazon RDS performance monitoring features such as Performance Insights and Enhanced Monitoring. Leave this session with an understanding of how to diagnose and remediate database performance issues efficiently
+title: Take a load off: Diagnose & resolve performance issues with Amazon RDS
+sessionuid: 3A2CFF6F-6F5A-4209-8344-BB2E6CE20D0B
+thirdpartyid: DAT202
+speakers: firstName_0: Pini, lastName_0: Dibask, firstName_1: Maxym, lastName_1: Kharchenko
+tag_name: IT Professional/Technical Manager, Role, Amazon Aurora, Services, Amazon Relational Database Service (RDS), Services, Solution/Systems Architect, Role, Monday, Day, MGM Grand, Venue, Cross Industry, Industry, Databases, Topic, Developer/Engineer, Role, Management & Governance, Area of Interest, 200 - Intermediate, Level, Monitoring & Observability, Area of Interest, Innovation on AWS, Area of Interest

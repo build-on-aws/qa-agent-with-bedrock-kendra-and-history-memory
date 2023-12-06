@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Bellini 2105
+summary: tag_name :Developer/Engineer, Role, Cross Industry, Industry, Networking & Content Delivery, Topic, IT Professional/Technical Manager, Role, 400 - Expert, Level, Monday, Day, Venetian, Venue, Solution/Systems Architect, Role, Global Infrastructure, Area of Interest, Generative AI, Area of Interest, Architecture, Topic, Well-Architected Framework, Area of Interest, , speakers :firstName_0: Stephen, lastName_0: Callaghan, , thirdpartyid :NET401, sessionuid :A7BB8068-5C65-4523-B534-7CB405156A66, title :AWS journey toward intent-driven network infrastructure, description :Join this session to hear about the latest AWS networking innovations that improve AWS infrastructure’s security, reliability, and performance. Hear from senior principal engineers about the new intent-driven control plane and how it facilitates the machine learning workloads that are underpinning the generative AI boom. This deep-dive session goes into the motivation for the control plane and network designs, characteristics of the system, and lessons learned. From designing and building custom hardware and software to developing the resilient systems that operate the network, discover what goes into making sure the AWS network is ready for all of your workloads., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Bellini 2105, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Bellini 2105
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: Join this session to hear about the latest AWS networking innovations that improve AWS infrastructure’s security, reliability, and performance. Hear from senior principal engineers about the new intent-driven control plane and how it facilitates the machine learning workloads that are underpinning the generative AI boom. This deep-dive session goes into the motivation for the control plane and network designs, characteristics of the system, and lessons learned. From designing and building custom hardware and software to developing the resilient systems that operate the network, discover what goes into making sure the AWS network is ready for all of your workloads
+title: AWS journey toward intent-driven network infrastructure
+sessionuid: A7BB8068-5C65-4523-B534-7CB405156A66
+thirdpartyid: NET401
+speakers: firstName_0: Stephen, lastName_0: Callaghan
+tag_name: Developer/Engineer, Role, Cross Industry, Industry, Networking & Content Delivery, Topic, IT Professional/Technical Manager, Role, 400 - Expert, Level, Monday, Day, Venetian, Venue, Solution/Systems Architect, Role, Global Infrastructure, Area of Interest, Generative AI, Area of Interest, Architecture, Topic, Well-Architected Framework, Area of Interest

@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :300 - Advanced, Level, Developer/Engineer, Role, AWS Glue, Services, Databases, Topic, Open Source, Area of Interest, Data Engineer, Role, DevOps Engineer, Role, Security, Compliance, & Identity, Topic, Tuesday, Day, Mandalay Bay, Venue, AWS Lake Formation, Services, Amazon Athena, Services, , speakers :firstName_0: Sercan, lastName_0: Karaoglu, firstName_1: Ankita, lastName_1: Gavali, , thirdpartyid :OPN309-R, sessionuid :CFCFB785-7EF7-4984-B95D-713749009D61, title :Building a secure and scalable transactional data lake [REPEAT], description :In this chalk talk, explore how to build a transactional data lake using Apache Iceberg, AWS Glue, and cross-account data shares using AWS Lake Formation and Amazon Athena. Learn how to configure Lake Formation using Iceberg table formats, upsert and merge in an Amazon S3 data lake using an Iceberg framework, and apply Lake Formation access control using Athena. This chalk talk also covers how to set permissions for an Iceberg table in the AWS Glue Data Catalog, query data using Amazon Athena, and implement a thorough governance strategy with fine-grained access control to the data lake with AWS Lake Formation., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 20:30:00 -0500, 
+enddatetimeutc: November, 28 2023 20:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: In this chalk talk, explore how to build a transactional data lake using Apache Iceberg, AWS Glue, and cross-account data shares using AWS Lake Formation and Amazon Athena. Learn how to configure Lake Formation using Iceberg table formats, upsert and merge in an Amazon S3 data lake using an Iceberg framework, and apply Lake Formation access control using Athena. This chalk talk also covers how to set permissions for an Iceberg table in the AWS Glue Data Catalog, query data using Amazon Athena, and implement a thorough governance strategy with fine-grained access control to the data lake with AWS Lake Formation
+title: Building a secure and scalable transactional data lake [REPEAT]
+sessionuid: CFCFB785-7EF7-4984-B95D-713749009D61
+thirdpartyid: OPN309-R
+speakers: firstName_0: Sercan, lastName_0: Karaoglu, firstName_1: Ankita, lastName_1: Gavali
+tag_name: 300 - Advanced, Level, Developer/Engineer, Role, AWS Glue, Services, Databases, Topic, Open Source, Area of Interest, Data Engineer, Role, DevOps Engineer, Role, Security, Compliance, & Identity, Topic, Tuesday, Day, Mandalay Bay, Venue, AWS Lake Formation, Services, Amazon Athena, Services

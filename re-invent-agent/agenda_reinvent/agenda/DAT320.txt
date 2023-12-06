@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 301
+summary: tag_name :Solution/Systems Architect, Role, Amazon Relational Database Service (RDS), Services, 300 - Advanced, Level, Migration & Transfer, Area of Interest, Developer/Engineer, Role, Databases, Topic, Cross Industry, Industry, System Administrator, Role, Financial Services, Industry, Wednesday, Day, MGM Grand, Venue, Microsoft, Area of Interest, Enterprise & Migration, Topic, Government, Industry, , speakers :firstName_0: Anuja, lastName_0: Malik, firstName_1: Bill, lastName_1: Jacobi, , thirdpartyid :DAT320, sessionuid :1BCC6FFF-D187-4FBD-B4B9-FF0E513486B8, title :Migrate & deploy SQL Server to Amazon RDS & RDS Custom for SQL Server, description :Amazon RDS helps you efficiently set up, operate, and scale SQL Server databases in the cloud. In this chalk talk, explore strategies and best practices for migrating, operating, and scaling SQL Server on Amazon RDS and Amazon RDS Custom for SQL Server. Through a whiteboarding session, explore different migration options and learn about high availability, multi-AZ deployments, and disaster recovery solutions., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :301, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: 301
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Amazon RDS helps you efficiently set up, operate, and scale SQL Server databases in the cloud. In this chalk talk, explore strategies and best practices for migrating, operating, and scaling SQL Server on Amazon RDS and Amazon RDS Custom for SQL Server. Through a whiteboarding session, explore different migration options and learn about high availability, multi-AZ deployments, and disaster recovery solutions
+title: Migrate & deploy SQL Server to Amazon RDS & RDS Custom for SQL Server
+sessionuid: 1BCC6FFF-D187-4FBD-B4B9-FF0E513486B8
+thirdpartyid: DAT320
+speakers: firstName_0: Anuja, lastName_0: Malik, firstName_1: Bill, lastName_1: Jacobi
+tag_name: Solution/Systems Architect, Role, Amazon Relational Database Service (RDS), Services, 300 - Advanced, Level, Migration & Transfer, Area of Interest, Developer/Engineer, Role, Databases, Topic, Cross Industry, Industry, System Administrator, Role, Financial Services, Industry, Wednesday, Day, MGM Grand, Venue, Microsoft, Area of Interest, Enterprise & Migration, Topic, Government, Industry

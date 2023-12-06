@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Terrace 151
+summary: tag_name :AWS Backup, Services, Data Protection, Area of Interest, Government, Industry, Resilience, Area of Interest, Cross Industry, Industry, IT Professional/Technical Manager, Role, Security, Compliance, & Identity, Topic, 300 - Advanced, Level, Tuesday, Day, MGM Grand, Venue, Financial Services, Industry, System Administrator, Role, Storage, Topic, Solution/Systems Architect, Role, Disaster Response & Recovery, Area of Interest, , speakers :firstName_0: Prachi, lastName_0: Gupta, firstName_1: Brian, lastName_1: Benscoter, firstName_2: Aaron, lastName_2: Khoo, firstName_3: Larry, lastName_3: Babarinde, firstName_4: Steve, lastName_4: DeVos, , thirdpartyid :STG306-R, sessionuid :6DB95FED-96EC-4E57-8C09-702E57802994, title :Protect AWS resources with AWS Backup [REPEAT], description :This builders’ session shows you how to use AWS Backup to help protect your data and prove data protection compliance. Learn how to deploy backup plans and vaults, assign resources, create on-demand backups, perform cross-Region backup and restore, create immutable backups with AWS Backup Vault Lock, and demonstrate compliance with AWS Backup Audit Manager. You must bring your laptop to participate., sessiontype :Builders' Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Terrace 151, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Terrace 151
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Builders' Session
+description: This builders’ session shows you how to use AWS Backup to help protect your data and prove data protection compliance. Learn how to deploy backup plans and vaults, assign resources, create on-demand backups, perform cross-Region backup and restore, create immutable backups with AWS Backup Vault Lock, and demonstrate compliance with AWS Backup Audit Manager. You must bring your laptop to participate
+title: Protect AWS resources with AWS Backup [REPEAT]
+sessionuid: 6DB95FED-96EC-4E57-8C09-702E57802994
+thirdpartyid: STG306-R
+speakers: firstName_0: Prachi, lastName_0: Gupta, firstName_1: Brian, lastName_1: Benscoter, firstName_2: Aaron, lastName_2: Khoo, firstName_3: Larry, lastName_3: Babarinde, firstName_4: Steve, lastName_4: DeVos
+tag_name: AWS Backup, Services, Data Protection, Area of Interest, Government, Industry, Resilience, Area of Interest, Cross Industry, Industry, IT Professional/Technical Manager, Role, Security, Compliance, & Identity, Topic, 300 - Advanced, Level, Tuesday, Day, MGM Grand, Venue, Financial Services, Industry, System Administrator, Role, Storage, Topic, Solution/Systems Architect, Role, Disaster Response & Recovery, Area of Interest

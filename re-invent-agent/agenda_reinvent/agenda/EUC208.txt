@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :End-User Computing, Topic, Application Security, Area of Interest, Independent Software Vendor (ISV), Area of Interest, Migration & Transfer, Area of Interest, 200 - Intermediate, Level, Business Executive, Role, IT Administrator, Role, Solution/Systems Architect, Role, Amazon AppStream 2.0, Services, Amazon WorkSpaces, Services, Amazon WorkSpaces Web, Services, Monday, Day, Wynn, Venue, , speakers :firstName_0: Richard, lastName_0: Spaven, firstName_1: VASANT, lastName_1: SIRSAT, , thirdpartyid :EUC208-R, sessionuid :ACC03CFD-C025-41B1-9DCD-20F7807F8D97, title :AWS end user computing services performance and security enhancements [REPEAT], description :<p>Many organizations struggle to balance remote/hybrid work environments with the need to provide secure, cost-effective, and productive technology for their end users. The AWS end user computing portfolio of services provides the flexibility to select the best-fit solution for a wide range of workloads. This chalk talk discusses new developments in AWS end user computing services that strengthen the security posture for a distributed workforce while also providing the performance for an optimal end user experience.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 19:30:00 -0500, 
+enddatetimeutc: November, 27 2023 19:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Many organizations struggle to balance remote/hybrid work environments with the need to provide secure, cost-effective, and productive technology for their end users. The AWS end user computing portfolio of services provides the flexibility to select the best-fit solution for a wide range of workloads. This chalk talk discusses new developments in AWS end user computing services that strengthen the security posture for a distributed workforce while also providing the performance for an optimal end user experience.</p>
+title: AWS end user computing services performance and security enhancements [REPEAT]
+sessionuid: ACC03CFD-C025-41B1-9DCD-20F7807F8D97
+thirdpartyid: EUC208-R
+speakers: firstName_0: Richard, lastName_0: Spaven, firstName_1: VASANT, lastName_1: SIRSAT
+tag_name: End-User Computing, Topic, Application Security, Area of Interest, Independent Software Vendor (ISV), Area of Interest, Migration & Transfer, Area of Interest, 200 - Intermediate, Level, Business Executive, Role, IT Administrator, Role, Solution/Systems Architect, Role, Amazon AppStream 2.0, Services, Amazon WorkSpaces, Services, Amazon WorkSpaces Web, Services, Monday, Day, Wynn, Venue

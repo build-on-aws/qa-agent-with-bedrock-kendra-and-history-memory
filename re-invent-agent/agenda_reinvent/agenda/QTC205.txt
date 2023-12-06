@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 108
+summary: tag_name :Hybrid Cloud, Topic, Quantum Technologies, Area of Interest, Government, Industry, Life Sciences, Industry, 200 - Intermediate, Level, Academic/Researcher, Role, Solution/Systems Architect, Role, Amazon Braket, Services, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Perminder, lastName_0: Singh, firstName_1: Stig, lastName_1: Rasmussen, company_1: Kvantify, firstName_2: Xiaofan, lastName_2: Yang, , thirdpartyid :QTC205, sessionuid :9CBF451D-A75E-426A-BF4F-4F4426BB3423, title :Toward quantum advantage in computational chemistry and biology, description :<p>Simulating biological systems and chemical processes is notoriously challenging and time-consuming on classical computers, which significantly limits the use of simulation tools in both academia and industries. Quantum computing provides the prospect of natively modeling these phenomena and may revolutionize the use of simulation in areas such as drug discovery, food science, and enzyme engineering. Join this chalk talk to learn how Kvantify is pushing the boundaries of what is achievable on real-world quantum computers today by using AWS Cloud services and patented quantum algorithms.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 108, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Forum 108
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Simulating biological systems and chemical processes is notoriously challenging and time-consuming on classical computers, which significantly limits the use of simulation tools in both academia and industries. Quantum computing provides the prospect of natively modeling these phenomena and may revolutionize the use of simulation in areas such as drug discovery, food science, and enzyme engineering. Join this chalk talk to learn how Kvantify is pushing the boundaries of what is achievable on real-world quantum computers today by using AWS Cloud services and patented quantum algorithms.</p>
+title: Toward quantum advantage in computational chemistry and biology
+sessionuid: 9CBF451D-A75E-426A-BF4F-4F4426BB3423
+thirdpartyid: QTC205
+speakers: firstName_0: Perminder, lastName_0: Singh, firstName_1: Stig, lastName_1: Rasmussen, company_1: Kvantify, firstName_2: Xiaofan, lastName_2: Yang
+tag_name: Hybrid Cloud, Topic, Quantum Technologies, Area of Interest, Government, Industry, Life Sciences, Industry, 200 - Intermediate, Level, Academic/Researcher, Role, Solution/Systems Architect, Role, Amazon Braket, Services, Wednesday, Day, Caesars Forum, Venue

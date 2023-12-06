@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 228
+summary: tag_name :Developer/Engineer, Role, AWS Amplify, Services, Monday, Day, Caesars Forum, Venue, 300 - Advanced, Level, AWS AppSync, Services, DevOps and Developer Productivity, Topic, Front-End Web & Mobile, Area of Interest, , speakers :firstName_0: Sam, lastName_0: Burton, firstName_1: Stefano, lastName_1: Sandrini, , thirdpartyid :FWM304-R, sessionuid :EB08121A-C212-4390-92E2-2D2D72DE9D00, title :Build a real-time application with AWS Amplify & AWS AppSync [REPEAT], description :<p>Building differentiated experiences leveraging real-time data helps to increase engagement and delight end users. In this workshop, build an online, real-time, multiplayer serverless trivia application quickly. More importantly, learn how to build real-time capabilities such as player scoring, leaderboards, and game state updates into your application. Use AWS Amplify to connect a frontend to a sophisticated backend with a GraphQL API powered by AWS AppSync using WebSockets to deliver real-time data to users. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 228, startdatetimeutc :November, 27 2023 16:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 16:00:00 -0500
+locationname: Summit 228
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: <p>Building differentiated experiences leveraging real-time data helps to increase engagement and delight end users. In this workshop, build an online, real-time, multiplayer serverless trivia application quickly. More importantly, learn how to build real-time capabilities such as player scoring, leaderboards, and game state updates into your application. Use AWS Amplify to connect a frontend to a sophisticated backend with a GraphQL API powered by AWS AppSync using WebSockets to deliver real-time data to users. You must bring your laptop to participate.</p>
+title: Build a real-time application with AWS Amplify & AWS AppSync [REPEAT]
+sessionuid: EB08121A-C212-4390-92E2-2D2D72DE9D00
+thirdpartyid: FWM304-R
+speakers: firstName_0: Sam, lastName_0: Burton, firstName_1: Stefano, lastName_1: Sandrini
+tag_name: Developer/Engineer, Role, AWS Amplify, Services, Monday, Day, Caesars Forum, Venue, 300 - Advanced, Level, AWS AppSync, Services, DevOps and Developer Productivity, Topic, Front-End Web & Mobile, Area of Interest

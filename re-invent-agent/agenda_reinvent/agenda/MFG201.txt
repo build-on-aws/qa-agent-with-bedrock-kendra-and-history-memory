@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 118
+summary: tag_name :Internet of Things, Topic, BuildOn.AWS, Area of Interest, Well-Architected Framework, Area of Interest, Manufacturing & Industrial, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, AWS IoT Greengrass, Services, AWS IoT SiteWise, Services, AWS IoT TwinMaker, Services, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Christophe, lastName_0: Renard, firstName_1: Seibou, lastName_1: Gounteni, , thirdpartyid :MFG201, sessionuid :49E303C5-8514-49A1-8CF5-2EA04F8A9963, title :Generate actionable operational insights with a digital twin, description :<p>In this workshop, learn how to use a PLC simulator of a bottling factory to deploy software running at the edge to securely collect and ingest machine data into the cloud, calculate and monitor KPIs like overall equipment effectiveness, and configure alarms in a cloud-based dashboard with a factory digital twin. Then, explore how you can enhance this informative digital twin and drive actionable insights to optimize production by modeling different scenarios. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 118, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Forum 118
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In this workshop, learn how to use a PLC simulator of a bottling factory to deploy software running at the edge to securely collect and ingest machine data into the cloud, calculate and monitor KPIs like overall equipment effectiveness, and configure alarms in a cloud-based dashboard with a factory digital twin. Then, explore how you can enhance this informative digital twin and drive actionable insights to optimize production by modeling different scenarios. You must bring your laptop to participate.</p>
+title: Generate actionable operational insights with a digital twin
+sessionuid: 49E303C5-8514-49A1-8CF5-2EA04F8A9963
+thirdpartyid: MFG201
+speakers: firstName_0: Christophe, lastName_0: Renard, firstName_1: Seibou, lastName_1: Gounteni
+tag_name: Internet of Things, Topic, BuildOn.AWS, Area of Interest, Well-Architected Framework, Area of Interest, Manufacturing & Industrial, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, AWS IoT Greengrass, Services, AWS IoT SiteWise, Services, AWS IoT TwinMaker, Services, Wednesday, Day, Caesars Forum, Venue

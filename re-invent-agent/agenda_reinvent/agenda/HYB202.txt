@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Hybrid Cloud, Topic, Customer Stories, Area of Interest, AWS Community, Area of Interest, 200 - Intermediate, Level, Entrepreneur (Founder/Co-Founder), Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Tuesday, Day, Venetian, Venue, , speakers :firstName_0: Jay, lastName_0: Turner, company_0: Console Connect, , thirdpartyid :HYB202-S, sessionuid :EA1F9AE5-9E09-4948-B7D1-A801D8DB233B, title :How to make AWS connections smarter & improve multicloud networking (sponsored by Console Connect), description :<p>Uncover the benefits of using a network as a service (NaaS) platform to power your AWS instance and create a more scalable and secure way to move to the cloud. In this lightning talk, Console Connect’s Jay Turner shares insights into how to provision dedicated connections to the AWS Cloud in minutes; using NaaS and AWS Direct Connect together to save on egress charges; improving efficiency by automating your cloud network via API; and how NaaS can deliver secure and fast multicloud networking. This presentation is brought to you by Console Connect, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Uncover the benefits of using a network as a service (NaaS) platform to power your AWS instance and create a more scalable and secure way to move to the cloud. In this lightning talk, Console Connect’s Jay Turner shares insights into how to provision dedicated connections to the AWS Cloud in minutes; using NaaS and AWS Direct Connect together to save on egress charges; improving efficiency by automating your cloud network via API; and how NaaS can deliver secure and fast multicloud networking. This presentation is brought to you by Console Connect, an AWS Partner.</p>
+title: How to make AWS connections smarter & improve multicloud networking (sponsored by Console Connect)
+sessionuid: EA1F9AE5-9E09-4948-B7D1-A801D8DB233B
+thirdpartyid: HYB202-S
+speakers: firstName_0: Jay, lastName_0: Turner, company_0: Console Connect
+tag_name: Hybrid Cloud, Topic, Customer Stories, Area of Interest, AWS Community, Area of Interest, 200 - Intermediate, Level, Entrepreneur (Founder/Co-Founder), Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Tuesday, Day, Venetian, Venue

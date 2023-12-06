@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Oceanside B
+summary: tag_name :AI/ML, Topic, Analytics, Topic, Small and Midsize Business (SMB), Area of Interest, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Wednesday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Deepti, lastName_0: Venuturumilli, firstName_1: Pablo, lastName_1: Redondo Sanchez, , thirdpartyid :SMB204, sessionuid :CC23716D-2B8E-4384-A790-275AE9F409DE, title :Zero to machine learning: Jump-start your data-driven journey, description :<p>In this session, see how organizations with constrained resources (budgets, skill gaps, time) can jump-start their data-driven journey with advanced analytics and ML capabilities. Learn AWS Working Backwards best practices to drive forward data-related projects that address tangible business value. Then dive into AWS analytics and AI/ML capabilities that simplify and expedite data pipeline delivery and business value from ML workloads. Hear about low-code no-code (LCNC) AWS services within the context of a complete data pipeline architecture.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Oceanside B, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Oceanside B
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>In this session, see how organizations with constrained resources (budgets, skill gaps, time) can jump-start their data-driven journey with advanced analytics and ML capabilities. Learn AWS Working Backwards best practices to drive forward data-related projects that address tangible business value. Then dive into AWS analytics and AI/ML capabilities that simplify and expedite data pipeline delivery and business value from ML workloads. Hear about low-code no-code (LCNC) AWS services within the context of a complete data pipeline architecture.</p>
+title: Zero to machine learning: Jump-start your data-driven journey
+sessionuid: CC23716D-2B8E-4384-A790-275AE9F409DE
+thirdpartyid: SMB204
+speakers: firstName_0: Deepti, lastName_0: Venuturumilli, firstName_1: Pablo, lastName_1: Redondo Sanchez
+tag_name: AI/ML, Topic, Analytics, Topic, Small and Midsize Business (SMB), Area of Interest, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Wednesday, Day, Mandalay Bay, Venue

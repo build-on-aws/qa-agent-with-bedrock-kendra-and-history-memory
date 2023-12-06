@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :Serverless Compute, Topic, Developer/Engineer, Role, DevOps Engineer, Role, AWS Lambda, Services, Solution/Systems Architect, Role, 300 - Advanced, Level, Open Source, Area of Interest, DevOps and Developer Productivity, Topic, Monday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Harold, lastName_0: Sun, firstName_1: Elon, lastName_1: Niu, , thirdpartyid :SVS312, sessionuid :C234CF67-59A0-4EE9-89D0-A58CE114BCB9, title :Building serverless applications with Terraform, description :Terraform by HashiCorp is an open source infrastructure-as-code software tool that helps you safely and predictably create, change, and improve infrastructure. In this chalk talk, see how to use Terraform constructs to manage, build, and deploy your application., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 27 2023 22:00:00 -0500, 
+enddatetimeutc: November, 27 2023 22:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: Terraform by HashiCorp is an open source infrastructure-as-code software tool that helps you safely and predictably create, change, and improve infrastructure. In this chalk talk, see how to use Terraform constructs to manage, build, and deploy your application
+title: Building serverless applications with Terraform
+sessionuid: C234CF67-59A0-4EE9-89D0-A58CE114BCB9
+thirdpartyid: SVS312
+speakers: firstName_0: Harold, lastName_0: Sun, firstName_1: Elon, lastName_1: Niu
+tag_name: Serverless Compute, Topic, Developer/Engineer, Role, DevOps Engineer, Role, AWS Lambda, Services, Solution/Systems Architect, Role, 300 - Advanced, Level, Open Source, Area of Interest, DevOps and Developer Productivity, Topic, Monday, Day, Mandalay Bay, Venue

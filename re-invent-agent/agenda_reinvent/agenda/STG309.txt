@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 5
+summary: tag_name :AWS DataSync, Services, Storage, Topic, Developer/Engineer, Role, Solution/Systems Architect, Role, 300 - Advanced, Level, Enterprise & Migration, Topic, Amazon FSx for NetApp ONTAP, Services, Wynn, Venue, Tuesday, Day, Data Protection, Area of Interest, Amazon Simple Storage Service (S3), Services, System Administrator, Role, Migration & Transfer, Area of Interest, Financial Services, Industry, Media & Entertainment, Industry, , speakers :firstName_0: Samuel, lastName_0: Sousa, firstName_1: Madhukumar, lastName_1: Adavi, , thirdpartyid :STG309, sessionuid :4B1DEE84-E52F-424B-875F-6D57649A0CC8, title :Migrate your on-premises data to AWS storage using AWS DataSync, description :In this workshop, learn how to efficiently perform online migration of your on-premises data to the cloud. Get hands-on with AWS DataSync to copy data from a simulated on-premises NAS to a variety of cloud targets, including Amazon S3 and Amazon FSx for NetApp ONTAP. This workshop covers three broad use cases for online data transfer at scale: analytics processing, archival, and data protection. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 5, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 03:00:00 -0500, 
+enddatetimeutc: November, 29 2023 03:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: Cristal 5
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: In this workshop, learn how to efficiently perform online migration of your on-premises data to the cloud. Get hands-on with AWS DataSync to copy data from a simulated on-premises NAS to a variety of cloud targets, including Amazon S3 and Amazon FSx for NetApp ONTAP. This workshop covers three broad use cases for online data transfer at scale: analytics processing, archival, and data protection. You must bring your laptop to participate
+title: Migrate your on-premises data to AWS storage using AWS DataSync
+sessionuid: 4B1DEE84-E52F-424B-875F-6D57649A0CC8
+thirdpartyid: STG309
+speakers: firstName_0: Samuel, lastName_0: Sousa, firstName_1: Madhukumar, lastName_1: Adavi
+tag_name: AWS DataSync, Services, Storage, Topic, Developer/Engineer, Role, Solution/Systems Architect, Role, 300 - Advanced, Level, Enterprise & Migration, Topic, Amazon FSx for NetApp ONTAP, Services, Wynn, Venue, Tuesday, Day, Data Protection, Area of Interest, Amazon Simple Storage Service (S3), Services, System Administrator, Role, Migration & Transfer, Area of Interest, Financial Services, Industry, Media & Entertainment, Industry

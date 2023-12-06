@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Venetian Ballroom F
+summary: tag_name :Monday, Day, Venetian, Venue, , speakers :firstName_0: Peter, lastName_0: DeSantis, , thirdpartyid :KEY001, sessionuid :94F6983D-FE92-4F15-A5C1-41E4EA70FB3D, title :Monday Night Live with Peter DeSantis, description :<p>Join Peter DeSantis, Senior Vice President of AWS Utility Computing, as he continues the Monday Night Live tradition of diving deep into the engineering that powers AWS services. Get a closer look at how our unique approach and culture of innovation help create leading-edge solutions across the entire spectrum, from silicon to services—without compromising on performance or cost.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Venetian Ballroom F, startdatetimeutc :November, 28 2023 03:30:00 -0500, enddatetimeutc :November, 28 2023 05:00:00 -0500, 
+enddatetimeutc: November, 28 2023 05:00:00 -0500
+startdatetimeutc: November, 28 2023 03:30:00 -0500
+locationname: Venetian Ballroom F
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Join Peter DeSantis, Senior Vice President of AWS Utility Computing, as he continues the Monday Night Live tradition of diving deep into the engineering that powers AWS services. Get a closer look at how our unique approach and culture of innovation help create leading-edge solutions across the entire spectrum, from silicon to services—without compromising on performance or cost.</p>
+title: Monday Night Live with Peter DeSantis
+sessionuid: 94F6983D-FE92-4F15-A5C1-41E4EA70FB3D
+thirdpartyid: KEY001
+speakers: firstName_0: Peter, lastName_0: DeSantis
+tag_name: Monday, Day, Venetian, Venue

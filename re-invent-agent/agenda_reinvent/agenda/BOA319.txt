@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 1
+summary: tag_name :DevOps and Developer Productivity, Topic, BuildOn.AWS, Area of Interest, Modernization, Area of Interest, 300 - Advanced, Level, Amazon CloudFront, Services, AWS CodeBuild, Services, AWS CodeCommit, Services, Wednesday, Day, Wynn, Venue, , speakers :firstName_0: Rohan, lastName_0: Kachewar, company_0: Amazon, firstName_1: François, lastName_1: Bouteruche, , thirdpartyid :BOA319, sessionuid :315FDB92-8F81-4E60-9682-C942AB3FFA9D, title :Creating an automated C# code documentation generator with AWS DevOps, description :<p>Having well-maintained technical documentation can significantly enhance developer productivity. Automating the documentation generation process helps ensure that it remains consistently up to date, eliminating the operational burden of manual updates and mitigating the risk of errors. In this chalk talk, explore a solution that implements best practices for technical documentation, including a standardized structure, comprehensive version history, and cost-efficient hosting. This documentation is centrally stored with robust access controls and undergoes automatic updates with each code check-in. Hear about the team’s approach to building this documentation and how they utilized various AWS services in the process.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 1, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Lafite 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Having well-maintained technical documentation can significantly enhance developer productivity. Automating the documentation generation process helps ensure that it remains consistently up to date, eliminating the operational burden of manual updates and mitigating the risk of errors. In this chalk talk, explore a solution that implements best practices for technical documentation, including a standardized structure, comprehensive version history, and cost-efficient hosting. This documentation is centrally stored with robust access controls and undergoes automatic updates with each code check-in. Hear about the team’s approach to building this documentation and how they utilized various AWS services in the process.</p>
+title: Creating an automated C# code documentation generator with AWS DevOps
+sessionuid: 315FDB92-8F81-4E60-9682-C942AB3FFA9D
+thirdpartyid: BOA319
+speakers: firstName_0: Rohan, lastName_0: Kachewar, company_0: Amazon, firstName_1: François, lastName_1: Bouteruche
+tag_name: DevOps and Developer Productivity, Topic, BuildOn.AWS, Area of Interest, Modernization, Area of Interest, 300 - Advanced, Level, Amazon CloudFront, Services, AWS CodeBuild, Services, AWS CodeCommit, Services, Wednesday, Day, Wynn, Venue

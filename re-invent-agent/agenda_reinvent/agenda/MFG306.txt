@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 115
+summary: tag_name :Architecture, Topic, Application Integration, Area of Interest, Global Infrastructure, Area of Interest, Automotive, Industry, Manufacturing & Industrial, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon Elastic Compute Cloud (EC2), Services, Amazon FSx, Services, NICE DCV, Services, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Ahmed, lastName_0: Elzeftawi, firstName_1: Emad, lastName_1: Mankbadi, , thirdpartyid :MFG306, sessionuid :0E318368-C561-4386-9733-6C585410AC87, title :Product engineering compute and eVDI environments on AWS, description :<p>Join this chalk talk for an interactive discussion focusing on enterprise requirements for product engineering. Learn how to deploy a turnkey environment and use cloud technologies to enable your engineering applications, such as OpenFOAM and ParaView, on AWS.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 115, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Forum 115
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Join this chalk talk for an interactive discussion focusing on enterprise requirements for product engineering. Learn how to deploy a turnkey environment and use cloud technologies to enable your engineering applications, such as OpenFOAM and ParaView, on AWS.</p>
+title: Product engineering compute and eVDI environments on AWS
+sessionuid: 0E318368-C561-4386-9733-6C585410AC87
+thirdpartyid: MFG306
+speakers: firstName_0: Ahmed, lastName_0: Elzeftawi, firstName_1: Emad, lastName_1: Mankbadi
+tag_name: Architecture, Topic, Application Integration, Area of Interest, Global Infrastructure, Area of Interest, Automotive, Industry, Manufacturing & Industrial, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon Elastic Compute Cloud (EC2), Services, Amazon FSx, Services, NICE DCV, Services, Wednesday, Day, Caesars Forum, Venue

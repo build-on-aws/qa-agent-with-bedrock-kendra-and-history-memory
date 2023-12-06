@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 123
+summary: tag_name :Security, Compliance, & Identity, Topic, Small and Midsize Business (SMB), Area of Interest, 200 - Intermediate, Level, Cloud Security Specialist, Role, IT Executive, Role, Solution/Systems Architect, Role, Monday, Day, Caesars Forum, Venue, , speakers :firstName_0: Krati, lastName_0: Singh, firstName_1: Fred, lastName_1: Hoskyns, , thirdpartyid :SMB203-R, sessionuid :F7110FA1-35E2-4172-83FF-B7461EA61C72, title :Assessing your security posture: Where should you invest? [REPEAT], description :<p>In this chalk talk, learn how to assess the security posture of your cloud footprint and explore which areas of cybersecurity you should invest in and focus on to help get the best outcomes.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 123, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Forum 123
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In this chalk talk, learn how to assess the security posture of your cloud footprint and explore which areas of cybersecurity you should invest in and focus on to help get the best outcomes.</p>
+title: Assessing your security posture: Where should you invest? [REPEAT]
+sessionuid: F7110FA1-35E2-4172-83FF-B7461EA61C72
+thirdpartyid: SMB203-R
+speakers: firstName_0: Krati, lastName_0: Singh, firstName_1: Fred, lastName_1: Hoskyns
+tag_name: Security, Compliance, & Identity, Topic, Small and Midsize Business (SMB), Area of Interest, 200 - Intermediate, Level, Cloud Security Specialist, Role, IT Executive, Role, Solution/Systems Architect, Role, Monday, Day, Caesars Forum, Venue

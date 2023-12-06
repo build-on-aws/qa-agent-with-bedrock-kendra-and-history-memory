@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :Migration & Transfer, Area of Interest, Business Executive, Role, Innovation on AWS, Area of Interest, 200 - Intermediate, Level, Strategy & Transformation, Area of Interest, Cross Industry, Industry, IT Executive, Role, Enterprise & Migration, Topic, Monday, Day, Caesars Forum, Venue, IT Professional/Technical Manager, Role, , speakers :firstName_0: Jake, lastName_0: Burns, , thirdpartyid :ENT216, sessionuid :D18DE3EA-4DF7-4BBE-A66C-2F7265B3231C, title :How to find and realize real-world business value in the cloud, description :AWS enterprise strategists use their firsthand executive experience to help leadership teams from hundreds of the world’s largest companies transform their businesses using AWS. In this session, hear about their combined experience and the lessons they have learned from going all-in with AWS. Learn where to really find business value in the cloud, how to realize that value, and, ultimately, how to build a successful business case that will provide a win for finance, IT, and your entire organization., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 17:30:00 -0500, 
+enddatetimeutc: November, 27 2023 17:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: AWS enterprise strategists use their firsthand executive experience to help leadership teams from hundreds of the world’s largest companies transform their businesses using AWS. In this session, hear about their combined experience and the lessons they have learned from going all-in with AWS. Learn where to really find business value in the cloud, how to realize that value, and, ultimately, how to build a successful business case that will provide a win for finance, IT, and your entire organization
+title: How to find and realize real-world business value in the cloud
+sessionuid: D18DE3EA-4DF7-4BBE-A66C-2F7265B3231C
+thirdpartyid: ENT216
+speakers: firstName_0: Jake, lastName_0: Burns
+tag_name: Migration & Transfer, Area of Interest, Business Executive, Role, Innovation on AWS, Area of Interest, 200 - Intermediate, Level, Strategy & Transformation, Area of Interest, Cross Industry, Industry, IT Executive, Role, Enterprise & Migration, Topic, Monday, Day, Caesars Forum, Venue, IT Professional/Technical Manager, Role

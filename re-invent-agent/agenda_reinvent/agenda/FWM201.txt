@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas F
+summary: tag_name :AWS AppSync, Services, 200 - Intermediate, Level, Wednesday, Day, Mandalay Bay, Venue, DevOps and Developer Productivity, Topic, Developer/Engineer, Role, Front-End Web & Mobile, Area of Interest, , speakers :firstName_0: Michael, lastName_0: Liendo, firstName_1: Brice, lastName_1: Pellé, , thirdpartyid :FWM201, sessionuid :5427DCA1-E9A1-4C4B-80AB-D11AE67FD837, title :What’s new with AWS AppSync for enterprise API developers, description :AWS AppSync is a simple way to connect your frontend web and mobile applications to data and events with serverless GraphQL and pub/sub APIs. Join this session to learn about all the exciting new AWS AppSync features released this year that make it even more seamless for API developers to realize the benefits of GraphQL for application development., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas F, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: South Seas F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: AWS AppSync is a simple way to connect your frontend web and mobile applications to data and events with serverless GraphQL and pub/sub APIs. Join this session to learn about all the exciting new AWS AppSync features released this year that make it even more seamless for API developers to realize the benefits of GraphQL for application development
+title: What’s new with AWS AppSync for enterprise API developers
+sessionuid: 5427DCA1-E9A1-4C4B-80AB-D11AE67FD837
+thirdpartyid: FWM201
+speakers: firstName_0: Michael, lastName_0: Liendo, firstName_1: Brice, lastName_1: Pellé
+tag_name: AWS AppSync, Services, 200 - Intermediate, Level, Wednesday, Day, Mandalay Bay, Venue, DevOps and Developer Productivity, Topic, Developer/Engineer, Role, Front-End Web & Mobile, Area of Interest

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 113
+summary: tag_name :Customer Stories, Area of Interest, 100 - Foundational, Level, New to AWS, Topic, Thursday, Day, Caesars Forum, Venue, Advisor/Consultant, Role, IT Executive, Role, Strategy & Transformation, Area of Interest, , speakers :firstName_0: John, lastName_0: Goodson, company_0: CCC Intelligent Solutions, firstName_1: Justin, lastName_1: McWhirter, , thirdpartyid :NTA102, sessionuid :EF0CB05E-E3CD-480C-A7A6-FDD06D1FB803, title :Cloud migration strategy, description :This session provides a framework for organizations that need help making a business case to migrate to AWS. Learn how to structure your teams, plan for the migration, measure progress, and mitigate risks related to unexpected costs post migration. Hear from a change agent who has successfully led cloud migrations at three different organizations., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 113, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Forum 113
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: This session provides a framework for organizations that need help making a business case to migrate to AWS. Learn how to structure your teams, plan for the migration, measure progress, and mitigate risks related to unexpected costs post migration. Hear from a change agent who has successfully led cloud migrations at three different organizations
+title: Cloud migration strategy
+sessionuid: EF0CB05E-E3CD-480C-A7A6-FDD06D1FB803
+thirdpartyid: NTA102
+speakers: firstName_0: John, lastName_0: Goodson, company_0: CCC Intelligent Solutions, firstName_1: Justin, lastName_1: McWhirter
+tag_name: Customer Stories, Area of Interest, 100 - Foundational, Level, New to AWS, Topic, Thursday, Day, Caesars Forum, Venue, Advisor/Consultant, Role, IT Executive, Role, Strategy & Transformation, Area of Interest

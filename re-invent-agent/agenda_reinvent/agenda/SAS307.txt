@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 101
+summary: tag_name :Solution/Systems Architect, Role, Architecture, Topic, Monday, Day, Caesars Forum, Venue, Developer/Engineer, Role, SaaS, Area of Interest, 300 - Advanced, Level, , speakers :firstName_0: Dave, lastName_0: Roberts, firstName_1: Humberto, lastName_1: Somensi, , thirdpartyid :SAS307, sessionuid :EFA31E37-E559-4998-81A9-3FF1AADF3C45, title :SaaS tenant isolation: Patterns and strategies, description :Tenant isolation is an essential part of multi-tenant environments. SaaS builders must identify the strategies that can be used to isolate tenant resources spanning a range of technologies, services, and resource partitioning strategies. In this chalk talk, consider runtime and deploy-time isolation techniques, connecting isolation to your authentication/authorization model. Review the different AWS offerings that are combined to enforce tenant-level isolation, including AWS STS, service mesh, Amazon Cognito Role Mapping, IAM session tags, and dynamic token generation. The goal is to take an in-depth look at a range of isolation patterns., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 101, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 01:30:00 -0500, 
+enddatetimeutc: November, 28 2023 01:30:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: Forum 101
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Tenant isolation is an essential part of multi-tenant environments. SaaS builders must identify the strategies that can be used to isolate tenant resources spanning a range of technologies, services, and resource partitioning strategies. In this chalk talk, consider runtime and deploy-time isolation techniques, connecting isolation to your authentication/authorization model. Review the different AWS offerings that are combined to enforce tenant-level isolation, including AWS STS, service mesh, Amazon Cognito Role Mapping, IAM session tags, and dynamic token generation. The goal is to take an in-depth look at a range of isolation patterns
+title: SaaS tenant isolation: Patterns and strategies
+sessionuid: EFA31E37-E559-4998-81A9-3FF1AADF3C45
+thirdpartyid: SAS307
+speakers: firstName_0: Dave, lastName_0: Roberts, firstName_1: Humberto, lastName_1: Somensi
+tag_name: Solution/Systems Architect, Role, Architecture, Topic, Monday, Day, Caesars Forum, Venue, Developer/Engineer, Role, SaaS, Area of Interest, 300 - Advanced, Level

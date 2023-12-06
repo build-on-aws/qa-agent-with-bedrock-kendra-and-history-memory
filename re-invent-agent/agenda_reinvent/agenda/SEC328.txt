@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 220
+summary: tag_name :300 - Advanced, Level, AWS Identity and Access Management (IAM), Services, Developer/Engineer, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Security, Compliance, & Identity, Topic, Wednesday, Day, Caesars Forum, Venue, IT Executive, Role, Management & Governance, Area of Interest, , speakers :firstName_0: Samuel, lastName_0: Folkes, firstName_1: Mohamed, lastName_1: Keshk, , thirdpartyid :SEC328, sessionuid :90E05E32-6058-424D-9B92-7A659C056860, title :Strategies for authenticating machines on AWS, description :In today’s connected world, there are more services and devices than ever before that need to securely communicate with each other without human intervention. This chalk talk examines various approaches to authenticating machines on AWS, including mTLS, IAM Roles Anywhere, instance profiles, and OAuth client credentials. It highlights the pros and cons of each approach, discusses best practices when using these approaches, and helps you determine which approach is best suited for specific use cases., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 220, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Summit 220
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: In today’s connected world, there are more services and devices than ever before that need to securely communicate with each other without human intervention. This chalk talk examines various approaches to authenticating machines on AWS, including mTLS, IAM Roles Anywhere, instance profiles, and OAuth client credentials. It highlights the pros and cons of each approach, discusses best practices when using these approaches, and helps you determine which approach is best suited for specific use cases
+title: Strategies for authenticating machines on AWS
+sessionuid: 90E05E32-6058-424D-9B92-7A659C056860
+thirdpartyid: SEC328
+speakers: firstName_0: Samuel, lastName_0: Folkes, firstName_1: Mohamed, lastName_1: Keshk
+tag_name: 300 - Advanced, Level, AWS Identity and Access Management (IAM), Services, Developer/Engineer, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Security, Compliance, & Identity, Topic, Wednesday, Day, Caesars Forum, Venue, IT Executive, Role, Management & Governance, Area of Interest

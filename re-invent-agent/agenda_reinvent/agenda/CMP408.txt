@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Margaux 1
+summary: tag_name :Compute, Topic, DevOps and Developer Productivity, Topic, Front-End Web & Mobile, Area of Interest, Global Infrastructure, Area of Interest, Cross Industry, Industry, 400 - Expert, Level, Developer/Engineer, Role, DevOps Engineer, Role, IT Professional/Technical Manager, Role, Amazon Elastic Compute Cloud (EC2), Services, AWS Systems Manager, Services, Wednesday, Day, Wynn, Venue, , speakers :firstName_0: Sebastien, lastName_0: Stormacq, firstName_1: Dave, lastName_1: Siederer, , thirdpartyid :CMP408, sessionuid :0868C3D2-BBE4-443E-99B7-3DAC7CF2DC94, title :Automating and managing Amazon EC2 Mac instances at scale, description :<p>In this code talk, learn how Amazon EC2 Mac instances are launched, configured, and kept up to date. Create scripts to spin up instances, discover utilities that can keep apps up to date, learn how to use AWS Systems Manager to run commands, review released updates, and learn how to integrate with Jamf for mobile device management.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Margaux 1, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Margaux 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>In this code talk, learn how Amazon EC2 Mac instances are launched, configured, and kept up to date. Create scripts to spin up instances, discover utilities that can keep apps up to date, learn how to use AWS Systems Manager to run commands, review released updates, and learn how to integrate with Jamf for mobile device management.</p>
+title: Automating and managing Amazon EC2 Mac instances at scale
+sessionuid: 0868C3D2-BBE4-443E-99B7-3DAC7CF2DC94
+thirdpartyid: CMP408
+speakers: firstName_0: Sebastien, lastName_0: Stormacq, firstName_1: Dave, lastName_1: Siederer
+tag_name: Compute, Topic, DevOps and Developer Productivity, Topic, Front-End Web & Mobile, Area of Interest, Global Infrastructure, Area of Interest, Cross Industry, Industry, 400 - Expert, Level, Developer/Engineer, Role, DevOps Engineer, Role, IT Professional/Technical Manager, Role, Amazon Elastic Compute Cloud (EC2), Services, AWS Systems Manager, Services, Wednesday, Day, Wynn, Venue

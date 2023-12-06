@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Margaux 1
+summary: tag_name :DevOps and Developer Productivity, Topic, Front-End Web & Mobile, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, AWS Amplify, Services, Tuesday, Day, Wynn, Venue, 300 - Advanced, Level, , speakers :firstName_0: Ryan, lastName_0: Yanchuleff, firstName_1: Venugopalan, lastName_1: Vasudevan, , thirdpartyid :FWM314, sessionuid :C04C3DA3-509C-481C-AFE9-5ECB6A7CBA4F, title :Accelerate frontend web and mobile development with AWS Amplify, description :<p>User-facing web and mobile applications are the primary touchpoint between organizations and their customers. In this code talk, explore how AWS Amplify can be used to develop a full-stack application from the beginning, including authentication, data access using GraphQL, file storage, and geolocation. See how you can now visually build your application front to back, from developing the frontend UI to configuring the application backend.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Margaux 1, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Margaux 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>User-facing web and mobile applications are the primary touchpoint between organizations and their customers. In this code talk, explore how AWS Amplify can be used to develop a full-stack application from the beginning, including authentication, data access using GraphQL, file storage, and geolocation. See how you can now visually build your application front to back, from developing the frontend UI to configuring the application backend.</p>
+title: Accelerate frontend web and mobile development with AWS Amplify
+sessionuid: C04C3DA3-509C-481C-AFE9-5ECB6A7CBA4F
+thirdpartyid: FWM314
+speakers: firstName_0: Ryan, lastName_0: Yanchuleff, firstName_1: Venugopalan, lastName_1: Vasudevan
+tag_name: DevOps and Developer Productivity, Topic, Front-End Web & Mobile, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, AWS Amplify, Services, Tuesday, Day, Wynn, Venue, 300 - Advanced, Level

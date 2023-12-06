@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 221
+summary: tag_name :AWS Elemental MediaLive, Services, Developer/Engineer, Role, AWS Elemental MediaPackage, Services, Edge Computing, Area of Interest, Architecture, Topic, Wednesday, Day, Caesars Forum, Venue, Networking & Content Delivery, Topic, 300 - Advanced, Level, IT Administrator, Role, Amazon Interactive Video Service (IVS), Services, Media & Entertainment, Industry, , speakers :firstName_0: Phil, lastName_0: Harrison, firstName_1: Bryan, lastName_1: Samis, , thirdpartyid :MAE304, sessionuid :CE7E3929-5BDF-4793-BE96-153D7914EDEA, title :Get the lowest latency for your live video streaming use cases, description :If you’re streaming live sports, teaching an online class, or building an interactive social media platform, you want the lowest possible latency for your live video streams. Reducing the time from the event happening or host speaking to your viewers seeing and hearing the action means that you can give your audiences the opportunity to enjoy the best, most engaging experience. In this chalk talk, explore solutions for producing low-latency and real-time livestreaming on AWS, what the tradeoffs of each solution are, and which options can be used to fit your unique requirements., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 221, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Summit 221
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: If you’re streaming live sports, teaching an online class, or building an interactive social media platform, you want the lowest possible latency for your live video streams. Reducing the time from the event happening or host speaking to your viewers seeing and hearing the action means that you can give your audiences the opportunity to enjoy the best, most engaging experience. In this chalk talk, explore solutions for producing low-latency and real-time livestreaming on AWS, what the tradeoffs of each solution are, and which options can be used to fit your unique requirements
+title: Get the lowest latency for your live video streaming use cases
+sessionuid: CE7E3929-5BDF-4793-BE96-153D7914EDEA
+thirdpartyid: MAE304
+speakers: firstName_0: Phil, lastName_0: Harrison, firstName_1: Bryan, lastName_1: Samis
+tag_name: AWS Elemental MediaLive, Services, Developer/Engineer, Role, AWS Elemental MediaPackage, Services, Edge Computing, Area of Interest, Architecture, Topic, Wednesday, Day, Caesars Forum, Venue, Networking & Content Delivery, Topic, 300 - Advanced, Level, IT Administrator, Role, Amazon Interactive Video Service (IVS), Services, Media & Entertainment, Industry

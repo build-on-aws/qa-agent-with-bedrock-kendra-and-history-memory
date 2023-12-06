@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Bayside B
+summary: tag_name :Wednesday, Day, Mandalay Bay, Venue, Community Activities, Additional Services, , speakers :, thirdpartyid :ACT124, sessionuid :0E92ABF6-851B-4253-AF64-454A0D527954, title :re:Invent Rec Center: Arts and crafts, description :Get creative! Customize your re:Invent SWAG, or select from a variety of guided and unguided arts and crafts projects to take home or donate to a local charity., sessiontype :Community Activities, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Bayside B, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 30 2023 02:00:00 -0500, 
+enddatetimeutc: November, 30 2023 02:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Bayside B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Community Activities
+description: Get creative! Customize your re:Invent SWAG, or select from a variety of guided and unguided arts and crafts projects to take home or donate to a local charity
+title: re:Invent Rec Center: Arts and crafts
+sessionuid: 0E92ABF6-851B-4253-AF64-454A0D527954
+thirdpartyid: ACT124
+speakers: 
+tag_name: Wednesday, Day, Mandalay Bay, Venue, Community Activities, Additional Services

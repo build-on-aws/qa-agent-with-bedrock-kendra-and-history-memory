@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 167
+summary: tag_name :Cloud Operations, Topic, Developer/Engineer, Role, Architecture, Topic, Wednesday, Day, MGM Grand, Venue, 300 - Advanced, Level, Amazon CloudWatch, Services, AWS X-Ray, Services, Solution/Systems Architect, Role, , speakers :firstName_0: Paul, lastName_0: Hoffmann, firstName_1: Jagadeesh Babu, lastName_1: Chitikesi, , thirdpartyid :XNT310, sessionuid :DA43AE56-9A87-4CB6-9F24-0332B7A3AC97, title :Modern observability tooling for .NET applications on AWS, description :<p>The architecture patterns used for building software systems have changed significantly over the last decade. Systems were easier to monitor when everything was a monolith running on workstations updating a single database. With modern applications, you are required to monitor hundreds of microservices running across different platforms containing virtual machines, containers, and serverless functions. This significantly increases your monitoring needs to avoid lost time and revenue that are critical for businesses to function. This chalk talk presents observability tooling you can use to monitor your .NET applications on AWS to reduce costly downtime and improve end user experience.</p>, sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 167, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Boulevard 167
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: <p>The architecture patterns used for building software systems have changed significantly over the last decade. Systems were easier to monitor when everything was a monolith running on workstations updating a single database. With modern applications, you are required to monitor hundreds of microservices running across different platforms containing virtual machines, containers, and serverless functions. This significantly increases your monitoring needs to avoid lost time and revenue that are critical for businesses to function. This chalk talk presents observability tooling you can use to monitor your .NET applications on AWS to reduce costly downtime and improve end user experience.</p>
+title: Modern observability tooling for .NET applications on AWS
+sessionuid: DA43AE56-9A87-4CB6-9F24-0332B7A3AC97
+thirdpartyid: XNT310
+speakers: firstName_0: Paul, lastName_0: Hoffmann, firstName_1: Jagadeesh Babu, lastName_1: Chitikesi
+tag_name: Cloud Operations, Topic, Developer/Engineer, Role, Architecture, Topic, Wednesday, Day, MGM Grand, Venue, 300 - Advanced, Level, Amazon CloudWatch, Services, AWS X-Ray, Services, Solution/Systems Architect, Role

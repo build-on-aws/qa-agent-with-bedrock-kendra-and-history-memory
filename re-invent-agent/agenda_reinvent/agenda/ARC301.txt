@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 316
+summary: tag_name :DevOps Engineer, Role, Resilience, Area of Interest, Developer/Engineer, Role, Architecture, Topic, 300 - Advanced, Level, Solution/Systems Architect, Role, Monday, Day, MGM Grand, Venue, Cross Industry, Industry, Amazon CloudWatch, Services, AWS Systems Manager, Services, , speakers :firstName_0: Mike, lastName_0: Haken, firstName_1: Medha, lastName_1: Shree, , thirdpartyid :ARC301-R, sessionuid :4CA9E763-8E8E-4987-93B3-51C184C92549, title :Advanced Multi-AZ resilience patterns: Mitigating gray failures [REPEAT], description :Many organizations run their workloads in highly available, multi-AZ configurations. These architectures perform well during binary failure events but often encounter problems with gray failures. These types of failures can manifest subtly and defy quick and definitive detection. This workshop demonstrates how you can use services like Amazon CloudWatch to detect gray failures and implement two mitigation patterns to respond to them. This workshop supports the content in the gray failures section of the “Advanced Multi-AZ Resilience Patterns” whitepaper published on AWS Documentation. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 316, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 21:30:00 -0500, 
+enddatetimeutc: November, 27 2023 21:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Premier 316
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: Many organizations run their workloads in highly available, multi-AZ configurations. These architectures perform well during binary failure events but often encounter problems with gray failures. These types of failures can manifest subtly and defy quick and definitive detection. This workshop demonstrates how you can use services like Amazon CloudWatch to detect gray failures and implement two mitigation patterns to respond to them. This workshop supports the content in the gray failures section of the “Advanced Multi-AZ Resilience Patterns” whitepaper published on AWS Documentation. You must bring your laptop to participate
+title: Advanced Multi-AZ resilience patterns: Mitigating gray failures [REPEAT]
+sessionuid: 4CA9E763-8E8E-4987-93B3-51C184C92549
+thirdpartyid: ARC301-R
+speakers: firstName_0: Mike, lastName_0: Haken, firstName_1: Medha, lastName_1: Shree
+tag_name: DevOps Engineer, Role, Resilience, Area of Interest, Developer/Engineer, Role, Architecture, Topic, 300 - Advanced, Level, Solution/Systems Architect, Role, Monday, Day, MGM Grand, Venue, Cross Industry, Industry, Amazon CloudWatch, Services, AWS Systems Manager, Services

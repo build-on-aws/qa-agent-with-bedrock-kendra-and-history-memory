@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :AWS Lambda, Services, IT Professional/Technical Manager, Role, Serverless Compute, Topic, Cross Industry, Industry, Solution/Systems Architect, Role, Application Integration, Area of Interest, Amazon EventBridge, Services, Amazon Simple Notification Service (SNS), Services, Wednesday, Day, Venetian, Venue, 200 - Intermediate, Level, Developer/Engineer, Role, , speakers :firstName_0: Michael, lastName_0: Gasch, , thirdpartyid :API208, sessionuid :8B14D0E4-BF22-498A-A7F9-E25965B30AC8, title :Schedule work with Amazon EventBridge Scheduler, description :Learn how to schedule tens of millions of one-time and recurrent tasks without provisioning or managing infrastructure using Amazon EventBridge Scheduler. As a follow-up demonstration to API303, see how to use this feature to replace workloads, from simple cron tasks to complex, user-scheduled reminders, in this lightning talk. Learn how to easily apply these patterns to your workloads and simplify your scheduled tasks., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Learn how to schedule tens of millions of one-time and recurrent tasks without provisioning or managing infrastructure using Amazon EventBridge Scheduler. As a follow-up demonstration to API303, see how to use this feature to replace workloads, from simple cron tasks to complex, user-scheduled reminders, in this lightning talk. Learn how to easily apply these patterns to your workloads and simplify your scheduled tasks
+title: Schedule work with Amazon EventBridge Scheduler
+sessionuid: 8B14D0E4-BF22-498A-A7F9-E25965B30AC8
+thirdpartyid: API208
+speakers: firstName_0: Michael, lastName_0: Gasch
+tag_name: AWS Lambda, Services, IT Professional/Technical Manager, Role, Serverless Compute, Topic, Cross Industry, Industry, Solution/Systems Architect, Role, Application Integration, Area of Interest, Amazon EventBridge, Services, Amazon Simple Notification Service (SNS), Services, Wednesday, Day, Venetian, Venue, 200 - Intermediate, Level, Developer/Engineer, Role

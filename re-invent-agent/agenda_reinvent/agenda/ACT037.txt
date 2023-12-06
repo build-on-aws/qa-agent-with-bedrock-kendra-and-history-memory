@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Michelob ULTRA Events Arena
+summary: tag_name :Wednesday, Day, Mandalay Bay, Venue, Community Activities, Additional Services, , speakers :, thirdpartyid :ACT037, sessionuid :FDD2758A-3227-403C-82FC-64C2542D5FE8, title :AWS re:Invent 5K race, description :Bring your workout gear and get ready to join the fun. Embrace the challenge alongside fellow attendees to cross the finish line of the annual re:Invent 5K race benefiting Fred Hutchinson Cancer Center. The course begins and ends at the Michelob ULTRA Arena at Mandalay Bay and follows Frank Sinatra Drive. Participants of all skill levels are welcome, and there is no fee to participate. Visit the Community Kiosk to pick up your race packet prior to the race. Wave start begins at 6:00 AM. Shuttles from campus to the event area run from 5:15 to 6:30 AM., sessiontype :Community Activities, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Michelob ULTRA Events Arena, startdatetimeutc :November, 30 2023 02:00:00 -0500, enddatetimeutc :November, 30 2023 04:00:00 -0500, 
+enddatetimeutc: November, 30 2023 04:00:00 -0500
+startdatetimeutc: November, 30 2023 02:00:00 -0500
+locationname: Michelob ULTRA Events Arena
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Community Activities
+description: Bring your workout gear and get ready to join the fun. Embrace the challenge alongside fellow attendees to cross the finish line of the annual re:Invent 5K race benefiting Fred Hutchinson Cancer Center. The course begins and ends at the Michelob ULTRA Arena at Mandalay Bay and follows Frank Sinatra Drive. Participants of all skill levels are welcome, and there is no fee to participate. Visit the Community Kiosk to pick up your race packet prior to the race. Wave start begins at 6:00 AM. Shuttles from campus to the event area run from 5:15 to 6:30 AM
+title: AWS re:Invent 5K race
+sessionuid: FDD2758A-3227-403C-82FC-64C2542D5FE8
+thirdpartyid: ACT037
+speakers: 
+tag_name: Wednesday, Day, Mandalay Bay, Venue, Community Activities, Additional Services

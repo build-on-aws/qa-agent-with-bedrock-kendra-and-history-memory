@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 113
+summary: tag_name :Solution/Systems Architect, Role, Enterprise & Migration, Topic, Amazon RedShift, Services, IT Professional/Technical Manager, Role, SAP, Area of Interest, Wednesday, Day, MGM Grand, Venue, Amazon AppFlow, Services, 200 - Intermediate, Level, Cross Industry, Industry, IT Administrator, Role, , speakers :firstName_0: Odilon, lastName_0: Goulart, firstName_1: Pavol, lastName_1: Masarovic, , thirdpartyid :ENT208-R, sessionuid :1D42B370-64AC-4FEE-B20C-812C38A7C566, title :Build an SAP data lake and drive new business insights [REPEAT], description :By combining SAP data and non-SAP data in AWS data lakes, organizations are using AWS analytics, artificial intelligence, and machine learning services to drive new insights that support their business transformations. In this workshop, create bidirectional data flows between SAP applications and AWS services. Then, drive new business insights and apply them to streamline common business processes like sales forecasting, inventory management, and more. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 113, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 00:30:00 -0500, 
+enddatetimeutc: November, 30 2023 00:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Grand 113
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: By combining SAP data and non-SAP data in AWS data lakes, organizations are using AWS analytics, artificial intelligence, and machine learning services to drive new insights that support their business transformations. In this workshop, create bidirectional data flows between SAP applications and AWS services. Then, drive new business insights and apply them to streamline common business processes like sales forecasting, inventory management, and more. You must bring your laptop to participate
+title: Build an SAP data lake and drive new business insights [REPEAT]
+sessionuid: 1D42B370-64AC-4FEE-B20C-812C38A7C566
+thirdpartyid: ENT208-R
+speakers: firstName_0: Odilon, lastName_0: Goulart, firstName_1: Pavol, lastName_1: Masarovic
+tag_name: Solution/Systems Architect, Role, Enterprise & Migration, Topic, Amazon RedShift, Services, IT Professional/Technical Manager, Role, SAP, Area of Interest, Wednesday, Day, MGM Grand, Venue, Amazon AppFlow, Services, 200 - Intermediate, Level, Cross Industry, Industry, IT Administrator, Role

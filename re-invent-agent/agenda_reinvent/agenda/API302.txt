@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafleur 2
+summary: tag_name :300 - Advanced, Level, Serverless Compute, Topic, Solution/Systems Architect, Role, Amazon EventBridge, Services, AWS Lambda, Services, Tech Explorer, Role, Application Integration, Area of Interest, Wednesday, Day, Wynn, Venue, Amazon Simple Notification Service (SNS), Services, Developer/Engineer, Role, , speakers :firstName_0: Eric, lastName_0: Johnson, , thirdpartyid :API302, sessionuid :BE23F34A-DBFA-4641-B0EA-3404A84E80D6, title :Building next-generation applications with event-driven architecture, description :Event-driven architecture helps companies build highly scalable distributed applications. When application integrations are decoupled, applications become more durable and easier to manage. In this session, learn about common integration patterns seen in the wild and how to decouple them. Discover how you can use AWS messaging services to connect microservices and coordinate data flow using minimal custom code. Finally, find out how to reduce duplicate events and build in resiliency to prepare for application issues by understanding and planning for idempotency., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafleur 2, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Lafleur 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: Event-driven architecture helps companies build highly scalable distributed applications. When application integrations are decoupled, applications become more durable and easier to manage. In this session, learn about common integration patterns seen in the wild and how to decouple them. Discover how you can use AWS messaging services to connect microservices and coordinate data flow using minimal custom code. Finally, find out how to reduce duplicate events and build in resiliency to prepare for application issues by understanding and planning for idempotency
+title: Building next-generation applications with event-driven architecture
+sessionuid: BE23F34A-DBFA-4641-B0EA-3404A84E80D6
+thirdpartyid: API302
+speakers: firstName_0: Eric, lastName_0: Johnson
+tag_name: 300 - Advanced, Level, Serverless Compute, Topic, Solution/Systems Architect, Role, Amazon EventBridge, Services, AWS Lambda, Services, Tech Explorer, Role, Application Integration, Area of Interest, Wednesday, Day, Wynn, Venue, Amazon Simple Notification Service (SNS), Services, Developer/Engineer, Role

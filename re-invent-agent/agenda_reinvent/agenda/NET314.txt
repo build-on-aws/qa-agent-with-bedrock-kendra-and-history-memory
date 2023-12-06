@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 110
+summary: tag_name :Tuesday, Day, Caesars Forum, Venue, System Administrator, Role, Cross Industry, Industry, Amazon Virtual Private Cloud (VPC), Services, AWS Cloud WAN, Services, Developer/Engineer, Role, Networking & Content Delivery, Topic, Network & Infrastructure Security, Area of Interest, 300 - Advanced, Level, Solution/Systems Architect, Role, Global Infrastructure, Area of Interest, Well-Architected Framework, Area of Interest, AWS Transit Gateway, Services, , speakers :, thirdpartyid :NET314-R1, sessionuid :A8168072-CEC0-4A6C-AC2A-BD6E5A72C78A, title :How to connect multiple VPCs across locations [REPEAT], description :Setting up connectivity and managing networks can be complex, especially when you have business requirements that include multiple VPCs across various locations. Customers often ask whether they should use AWS Cloud WAN or AWS Transit Gateway or set up direct VPC peering. The answer? It depends! Join this chalk talk to hear from AWS experts as they demystify the use cases, common architectures, and tradeoffs between different multi-VPC connectivity options. Get live feedback on your specific use cases, and hear questions raised by your colleagues., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 110, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: Forum 110
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Setting up connectivity and managing networks can be complex, especially when you have business requirements that include multiple VPCs across various locations. Customers often ask whether they should use AWS Cloud WAN or AWS Transit Gateway or set up direct VPC peering. The answer? It depends! Join this chalk talk to hear from AWS experts as they demystify the use cases, common architectures, and tradeoffs between different multi-VPC connectivity options. Get live feedback on your specific use cases, and hear questions raised by your colleagues
+title: How to connect multiple VPCs across locations [REPEAT]
+sessionuid: A8168072-CEC0-4A6C-AC2A-BD6E5A72C78A
+thirdpartyid: NET314-R1
+speakers: 
+tag_name: Tuesday, Day, Caesars Forum, Venue, System Administrator, Role, Cross Industry, Industry, Amazon Virtual Private Cloud (VPC), Services, AWS Cloud WAN, Services, Developer/Engineer, Role, Networking & Content Delivery, Topic, Network & Infrastructure Security, Area of Interest, 300 - Advanced, Level, Solution/Systems Architect, Role, Global Infrastructure, Area of Interest, Well-Architected Framework, Area of Interest, AWS Transit Gateway, Services

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :Amazon Bedrock, Services, AI/ML, Topic, Amazon Simple Storage Service (S3), Services, Amazon FSx for Lustre, Services, Advertising & Marketing, Industry, IT Administrator, Role, Generative AI, Area of Interest, Wednesday, Day, Wynn, Venue, Solution/Systems Architect, Role, 300 - Advanced, Level, Retail, Industry, Strategy & Transformation, Area of Interest, Storage, Topic, Financial Services, Industry, Data Engineer, Role, , speakers :firstName_0: Laura, lastName_0: shepard, firstName_1: John, lastName_1: Mallory, firstName_2: Simon, lastName_2: Zamarin, , thirdpartyid :STG345-R, sessionuid :EB1D034E-8C04-454C-8E3B-312239308418, title :How to optimize AWS storage for generative AI and ML workloads [REPEAT], description :Scaling deep learning programs into production often comes with its challenges, and you can’t have high quality data modeling if your storage isn’t optimized for performance scalability. Getting this wrong can lead to unexpected cost and performance issues. In this interactive chalk talk, get answers to your questions related to selecting and optimizing storage for AI and ML workloads so you can build better, innovate faster, and deploy at scale., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 21:00:00 -0500, 
+enddatetimeutc: November, 29 2023 21:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Scaling deep learning programs into production often comes with its challenges, and you can’t have high quality data modeling if your storage isn’t optimized for performance scalability. Getting this wrong can lead to unexpected cost and performance issues. In this interactive chalk talk, get answers to your questions related to selecting and optimizing storage for AI and ML workloads so you can build better, innovate faster, and deploy at scale
+title: How to optimize AWS storage for generative AI and ML workloads [REPEAT]
+sessionuid: EB1D034E-8C04-454C-8E3B-312239308418
+thirdpartyid: STG345-R
+speakers: firstName_0: Laura, lastName_0: shepard, firstName_1: John, lastName_1: Mallory, firstName_2: Simon, lastName_2: Zamarin
+tag_name: Amazon Bedrock, Services, AI/ML, Topic, Amazon Simple Storage Service (S3), Services, Amazon FSx for Lustre, Services, Advertising & Marketing, Industry, IT Administrator, Role, Generative AI, Area of Interest, Wednesday, Day, Wynn, Venue, Solution/Systems Architect, Role, 300 - Advanced, Level, Retail, Industry, Strategy & Transformation, Area of Interest, Storage, Topic, Financial Services, Industry, Data Engineer, Role

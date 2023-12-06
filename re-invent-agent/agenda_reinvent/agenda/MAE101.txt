@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Thursday, Day, Venetian, Venue, Inclusion & Diversity, Area of Interest, Social Impact, Area of Interest, Workforce Development, Area of Interest, Games, Industry, Media & Entertainment, Industry, Sports, Industry, 100 - Foundational, Level, Business Executive, Role, Developer/Engineer, Role, Sales/Marketing, Role, , speakers :, thirdpartyid :MAE101, sessionuid :1E79BECE-8525-448A-A5F0-D3E788130958, title :Pathways to inclusion, description :<p>Join this lightning talk to discuss pathways to inclusion in our industry, how to open doors for the next generation of female leaders, and the role we collectively play in expanding access, belonging, and inclusivity in our organizations.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 22:20:00 -0500, 
+enddatetimeutc: November, 30 2023 22:20:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Join this lightning talk to discuss pathways to inclusion in our industry, how to open doors for the next generation of female leaders, and the role we collectively play in expanding access, belonging, and inclusivity in our organizations.</p>
+title: Pathways to inclusion
+sessionuid: 1E79BECE-8525-448A-A5F0-D3E788130958
+thirdpartyid: MAE101
+speakers: 
+tag_name: Thursday, Day, Venetian, Venue, Inclusion & Diversity, Area of Interest, Social Impact, Area of Interest, Workforce Development, Area of Interest, Games, Industry, Media & Entertainment, Industry, Sports, Industry, 100 - Foundational, Level, Business Executive, Role, Developer/Engineer, Role, Sales/Marketing, Role

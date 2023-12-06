@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 304
+summary: tag_name :Networking & Content Delivery, Topic, Global Infrastructure, Area of Interest, Well-Architected Framework, Area of Interest, Games, Industry, Media & Entertainment, Industry, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon CloudFront, Services, Amazon Elastic Compute Cloud (EC2), Services, Amazon Virtual Private Cloud (VPC), Services, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Achraf, lastName_0: Souk, firstName_1: Ivo, lastName_1: Pinto, , thirdpartyid :NET323, sessionuid :9ADB80F7-32C8-4744-8B6E-A737BC5D36E8, title :Digging into AWS network performance, description :<p>Websites that take too long to load or video streams with buffering hurt the user experience. The network connecting your cloud resources to your users is a major factor in the overall performance of your application. In this chalk talk, learn about network performance, which metrics to monitor, the dimensions to consider, the tools to use, and how to interpret the results. See how to measure the network performance of AWS Regional resources such as Amazon EC2 and Amazon CloudFront. Come with questions and learn how to improve your networking performance.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :304, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: 304
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Websites that take too long to load or video streams with buffering hurt the user experience. The network connecting your cloud resources to your users is a major factor in the overall performance of your application. In this chalk talk, learn about network performance, which metrics to monitor, the dimensions to consider, the tools to use, and how to interpret the results. See how to measure the network performance of AWS Regional resources such as Amazon EC2 and Amazon CloudFront. Come with questions and learn how to improve your networking performance.</p>
+title: Digging into AWS network performance
+sessionuid: 9ADB80F7-32C8-4744-8B6E-A737BC5D36E8
+thirdpartyid: NET323
+speakers: firstName_0: Achraf, lastName_0: Souk, firstName_1: Ivo, lastName_1: Pinto
+tag_name: Networking & Content Delivery, Topic, Global Infrastructure, Area of Interest, Well-Architected Framework, Area of Interest, Games, Industry, Media & Entertainment, Industry, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon CloudFront, Services, Amazon Elastic Compute Cloud (EC2), Services, Amazon Virtual Private Cloud (VPC), Services, Wednesday, Day, MGM Grand, Venue

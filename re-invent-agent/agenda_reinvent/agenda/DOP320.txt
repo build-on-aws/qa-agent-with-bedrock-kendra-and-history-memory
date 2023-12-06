@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 1
+summary: tag_name :300 - Advanced, Level, DevOps Engineer, Role, DevOps and Developer Productivity, Topic, Well-Architected Framework, Area of Interest, Thursday, Day, Wynn, Venue, Developer/Engineer, Role, Amazon CodeCatalyst, Services, Strategy & Transformation, Area of Interest, , speakers :firstName_0: Michael, lastName_0: Ohde, firstName_1: Ryan, lastName_1: Bachman, , thirdpartyid :DOP320, sessionuid :B584C229-787B-4F68-A8B2-0865431B4C0F, title :Build a path to production with Amazon CodeCatalyst blueprints, description :Amazon CodeCatalyst uses blueprints to configure your software projects in the service. Blueprints instruct CodeCatalyst on how to set up a code repository with working sample code, define cloud infrastructure, and run pre-configured CI/CD workflows for your project. In this session, learn how blueprints in CodeCatalyst can give developers a compliant software service they’ll want to use on AWS., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 1, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Lafite 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Amazon CodeCatalyst uses blueprints to configure your software projects in the service. Blueprints instruct CodeCatalyst on how to set up a code repository with working sample code, define cloud infrastructure, and run pre-configured CI/CD workflows for your project. In this session, learn how blueprints in CodeCatalyst can give developers a compliant software service they’ll want to use on AWS
+title: Build a path to production with Amazon CodeCatalyst blueprints
+sessionuid: B584C229-787B-4F68-A8B2-0865431B4C0F
+thirdpartyid: DOP320
+speakers: firstName_0: Michael, lastName_0: Ohde, firstName_1: Ryan, lastName_1: Bachman
+tag_name: 300 - Advanced, Level, DevOps Engineer, Role, DevOps and Developer Productivity, Topic, Well-Architected Framework, Area of Interest, Thursday, Day, Wynn, Venue, Developer/Engineer, Role, Amazon CodeCatalyst, Services, Strategy & Transformation, Area of Interest

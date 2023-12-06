@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific E
+summary: tag_name :Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, 300 - Advanced, Level, Tuesday, Day, Mandalay Bay, Venue, Serverless Compute, Topic, Developer/Engineer, Role, Application Integration, Area of Interest, , speakers :firstName_0: Dirk, lastName_0: Fröhner, firstName_1: Gregor, lastName_1: Hohpe, , thirdpartyid :API309, sessionuid :1B81EBE2-EB9C-49A1-BA1D-BC22ADE574AC, title :Advanced integration patterns & trade-offs for loosely coupled systems, description :<p>Modern applications rarely live in isolation: They expose APIs, publish events, call third-party services, and externalize states. Being (typically) composed of decoupled components, such applications must address the fundamental challenges of distributed systems, including out-of-order delivery, idempotence, or partial failures. In this session, learn about common design trade-offs for distributed systems, how to navigate them with design patterns, and how to embed those patterns in your cloud automation.</p>, sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific E, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: South Pacific E
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: <p>Modern applications rarely live in isolation: They expose APIs, publish events, call third-party services, and externalize states. Being (typically) composed of decoupled components, such applications must address the fundamental challenges of distributed systems, including out-of-order delivery, idempotence, or partial failures. In this session, learn about common design trade-offs for distributed systems, how to navigate them with design patterns, and how to embed those patterns in your cloud automation.</p>
+title: Advanced integration patterns & trade-offs for loosely coupled systems
+sessionuid: 1B81EBE2-EB9C-49A1-BA1D-BC22ADE574AC
+thirdpartyid: API309
+speakers: firstName_0: Dirk, lastName_0: Fröhner, firstName_1: Gregor, lastName_1: Hohpe
+tag_name: Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, 300 - Advanced, Level, Tuesday, Day, Mandalay Bay, Venue, Serverless Compute, Topic, Developer/Engineer, Role, Application Integration, Area of Interest

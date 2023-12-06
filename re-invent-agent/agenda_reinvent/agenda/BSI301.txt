@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :Solution/Systems Architect, Role, 300 - Advanced, Level, Architecture, Topic, Amazon QuickSight, Services, Developer/Engineer, Role, Analytics, Topic, IT Professional/Technical Manager, Role, Monday, Day, Mandalay Bay, Venue, Business Intelligence, Area of Interest, Digital Native Business (DNB), Area of Interest, Independent Software Vendor (ISV), Area of Interest, Cross Industry, Industry, , speakers :firstName_0: Srikanth, lastName_0: Baheti, firstName_1: Vetri, lastName_1: Natarajan, , thirdpartyid :BSI301-R, sessionuid :D9471745-5743-475B-AFBB-2B4E91F790A5, title :Architectural patterns for embedded analytics using Amazon QuickSight [REPEAT], description :Amazon QuickSight helps users add insightful analytics into virtually any application with customized, interactive visuals, dashboards, and natural language query (NLQ) experiences with QuickSight Q. In this chalk talk, learn about architectural patterns and deployment options around authentication, authorization, automation, and customization to help you build seamlessly integrated experiences. Also learn about best practices to support multi-tenancy at any scale., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 01:30:00 -0500, 
+enddatetimeutc: November, 28 2023 01:30:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: Amazon QuickSight helps users add insightful analytics into virtually any application with customized, interactive visuals, dashboards, and natural language query (NLQ) experiences with QuickSight Q. In this chalk talk, learn about architectural patterns and deployment options around authentication, authorization, automation, and customization to help you build seamlessly integrated experiences. Also learn about best practices to support multi-tenancy at any scale
+title: Architectural patterns for embedded analytics using Amazon QuickSight [REPEAT]
+sessionuid: D9471745-5743-475B-AFBB-2B4E91F790A5
+thirdpartyid: BSI301-R
+speakers: firstName_0: Srikanth, lastName_0: Baheti, firstName_1: Vetri, lastName_1: Natarajan
+tag_name: Solution/Systems Architect, Role, 300 - Advanced, Level, Architecture, Topic, Amazon QuickSight, Services, Developer/Engineer, Role, Analytics, Topic, IT Professional/Technical Manager, Role, Monday, Day, Mandalay Bay, Venue, Business Intelligence, Area of Interest, Digital Native Business (DNB), Area of Interest, Independent Software Vendor (ISV), Area of Interest, Cross Industry, Industry

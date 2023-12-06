@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 115
+summary: tag_name :300 - Advanced, Level, Wednesday, Day, Caesars Forum, Venue, Security, Compliance, & Identity, Topic, Cloud Security Specialist, Role, Cross Industry, Industry, Amazon GuardDuty, Services, AWS Security Hub, Services, Amazon Inspector Classic, Services, Solution/Systems Architect, Role, Threat Detection & Incident Response, Area of Interest, , speakers :firstName_0: Himanshu, lastName_0: Verma, firstName_1: Ryan, lastName_1: Holland, , thirdpartyid :SEC308, sessionuid :6B7B6F87-351C-429D-9705-5F20116DEC56, title :Continuous innovation in AWS detection and response services, description :Join this chalk talk to learn about the latest advancements and most recent AWS launches in detection and response. This talk focuses on use cases such as threat detection, automated and continual vulnerability management, centralized monitoring and continuous cloud security posture management, unified security data management, and workload and data discovery and protection. Through these use cases, gain a deeper understanding of how you can seamlessly integrate AWS detection and response services to help protect your workloads at scale, enhance your security posture, and streamline security operations across your entire AWS environment., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 115, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 01:30:00 -0500, 
+enddatetimeutc: November, 30 2023 01:30:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: Forum 115
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Join this chalk talk to learn about the latest advancements and most recent AWS launches in detection and response. This talk focuses on use cases such as threat detection, automated and continual vulnerability management, centralized monitoring and continuous cloud security posture management, unified security data management, and workload and data discovery and protection. Through these use cases, gain a deeper understanding of how you can seamlessly integrate AWS detection and response services to help protect your workloads at scale, enhance your security posture, and streamline security operations across your entire AWS environment
+title: Continuous innovation in AWS detection and response services
+sessionuid: 6B7B6F87-351C-429D-9705-5F20116DEC56
+thirdpartyid: SEC308
+speakers: firstName_0: Himanshu, lastName_0: Verma, firstName_1: Ryan, lastName_1: Holland
+tag_name: 300 - Advanced, Level, Wednesday, Day, Caesars Forum, Venue, Security, Compliance, & Identity, Topic, Cloud Security Specialist, Role, Cross Industry, Industry, Amazon GuardDuty, Services, AWS Security Hub, Services, Amazon Inspector Classic, Services, Solution/Systems Architect, Role, Threat Detection & Incident Response, Area of Interest

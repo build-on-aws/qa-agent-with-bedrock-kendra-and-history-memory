@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Wednesday, Day, Venetian, Venue, Cloud Operations, Topic, Enterprise & Migration, Topic, Management & Governance, Area of Interest, Migration & Transfer, Area of Interest, 300 - Advanced, Level, IT Administrator, Role, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, AWS Support, Services, , speakers :firstName_0: Atul, lastName_0: Anand, , thirdpartyid :SUP313, sessionuid :61A1DCC9-77E1-4794-96AC-FF58FB86DEBC, title :Using AWS solutions to accelerate customer-led migration journeys, description :<p>In this follow-up demo to SUP202, see a detailed demo featuring Ana, a customer, as she guides her company through the AWS journey. This demo emphasizes Ana’s effective utilization of an extensive array of AWS offerings and solutions throughout the assessment, mobilization, migration, and modernization phases. The ultimate goals achieved are the successful shutdown of a data center and the modernization of a product under competitive constraints. This demo offers valuable insights into how you can expedite your entire migration journey using the latest AWS offerings and solutions.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 21:50:00 -0500, 
+enddatetimeutc: November, 29 2023 21:50:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>In this follow-up demo to SUP202, see a detailed demo featuring Ana, a customer, as she guides her company through the AWS journey. This demo emphasizes Ana’s effective utilization of an extensive array of AWS offerings and solutions throughout the assessment, mobilization, migration, and modernization phases. The ultimate goals achieved are the successful shutdown of a data center and the modernization of a product under competitive constraints. This demo offers valuable insights into how you can expedite your entire migration journey using the latest AWS offerings and solutions.</p>
+title: Using AWS solutions to accelerate customer-led migration journeys
+sessionuid: 61A1DCC9-77E1-4794-96AC-FF58FB86DEBC
+thirdpartyid: SUP313
+speakers: firstName_0: Atul, lastName_0: Anand
+tag_name: Wednesday, Day, Venetian, Venue, Cloud Operations, Topic, Enterprise & Migration, Topic, Management & Governance, Area of Interest, Migration & Transfer, Area of Interest, 300 - Advanced, Level, IT Administrator, Role, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, AWS Support, Services

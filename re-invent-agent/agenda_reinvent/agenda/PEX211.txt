@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Reef F
+summary: tag_name :Thursday, Day, Mandalay Bay, Venue, Partner Enablement, Topic, AWS Marketplace, Area of Interest, Independent Software Vendor (ISV), Area of Interest, 200 - Intermediate, Level, AWS Marketplace, Services, , speakers :firstName_0: Adelaide, lastName_0: Onyameamah, firstName_1: Prerit, lastName_1: Panwar, firstName_2: Bhargav, lastName_2: Kodali, company_2: Snowflake, , thirdpartyid :PEX211, sessionuid :FF26331C-0CBF-4A9B-8D63-F2A86B75E0DE, title :Accelerate wins with co-sell in AWS Partner Central, description :<p>Learn how to accelerate your co-sell deals using the new simplified and automated co-sell experience in AWS Partner Central. Learn about self-guided co-sell journeys, co-selling through AWS Marketplace private offers, and how to manage deals with high quality at scale based on your co-sell needs and deal types. Learn how other AWS Partners have used the enhanced AWS Partner CRM Connector to boost the productivity of their sales teams by managing co-sell right from within their own CRMs.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Reef F, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Reef F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Learn how to accelerate your co-sell deals using the new simplified and automated co-sell experience in AWS Partner Central. Learn about self-guided co-sell journeys, co-selling through AWS Marketplace private offers, and how to manage deals with high quality at scale based on your co-sell needs and deal types. Learn how other AWS Partners have used the enhanced AWS Partner CRM Connector to boost the productivity of their sales teams by managing co-sell right from within their own CRMs.</p>
+title: Accelerate wins with co-sell in AWS Partner Central
+sessionuid: FF26331C-0CBF-4A9B-8D63-F2A86B75E0DE
+thirdpartyid: PEX211
+speakers: firstName_0: Adelaide, lastName_0: Onyameamah, firstName_1: Prerit, lastName_1: Panwar, firstName_2: Bhargav, lastName_2: Kodali, company_2: Snowflake
+tag_name: Thursday, Day, Mandalay Bay, Venue, Partner Enablement, Topic, AWS Marketplace, Area of Interest, Independent Software Vendor (ISV), Area of Interest, 200 - Intermediate, Level, AWS Marketplace, Services

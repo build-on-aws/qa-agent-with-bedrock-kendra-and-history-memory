@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Islander I
+summary: tag_name :400 - Expert, Level, Solution/Systems Architect, Role, DevOps Engineer, Role, DevOps and Developer Productivity, Topic, Thursday, Day, Mandalay Bay, Venue, SaaS, Area of Interest, Architecture, Topic, Developer/Engineer, Role, , speakers :firstName_0: Dave, lastName_0: Roberts, firstName_1: Zp, lastName_1: Bappi, , thirdpartyid :SAS403, sessionuid :61FB08AE-2F29-44F5-81BA-F242B574B8E1, title :SaaS survivor: Building a rich multi-tenant operations experience, description :Building a multi-tenant SaaS offering is just part of the job. Once your environment is loaded up with tenants, you still need rich, proactive tooling and mechanisms to analyze, troubleshoot, and evaluate the state of your system. This workshop takes you through a series of simulated operational events (such as noisy neighbor, isolation violations, and so on), guiding you through creating the tools you need to track and analyze the activity of individual tenants and tiers. Learn about the operational challenges that can surface in multi-tenant environments and explore approaches to creating the tenant-aware operational mechanisms that can support this experience. You must bring your laptop to participate., sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Islander I, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Islander I
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: Building a multi-tenant SaaS offering is just part of the job. Once your environment is loaded up with tenants, you still need rich, proactive tooling and mechanisms to analyze, troubleshoot, and evaluate the state of your system. This workshop takes you through a series of simulated operational events (such as noisy neighbor, isolation violations, and so on), guiding you through creating the tools you need to track and analyze the activity of individual tenants and tiers. Learn about the operational challenges that can surface in multi-tenant environments and explore approaches to creating the tenant-aware operational mechanisms that can support this experience. You must bring your laptop to participate
+title: SaaS survivor: Building a rich multi-tenant operations experience
+sessionuid: 61FB08AE-2F29-44F5-81BA-F242B574B8E1
+thirdpartyid: SAS403
+speakers: firstName_0: Dave, lastName_0: Roberts, firstName_1: Zp, lastName_1: Bappi
+tag_name: 400 - Expert, Level, Solution/Systems Architect, Role, DevOps Engineer, Role, DevOps and Developer Productivity, Topic, Thursday, Day, Mandalay Bay, Venue, SaaS, Area of Interest, Architecture, Topic, Developer/Engineer, Role

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 305
+summary: tag_name :AI/ML, Topic, DevOps and Developer Productivity, Topic, Application Integration, Area of Interest, BuildOn.AWS, Area of Interest, Generative AI, Area of Interest, 200 - Intermediate, Level, Amazon CodeCatalyst, Services, Amazon CodeWhisperer, Services, AWS Lambda, Services, Thursday, Day, Caesars Forum, Venue, , speakers :firstName_0: Ana, lastName_0: Cunha, firstName_1: Jose, lastName_1: Yapur, , thirdpartyid :BOA214, sessionuid :9BA14455-871A-4AC7-8256-9081F299DF01, title :Streamlined deployment: Simplifying application automation for all, description :<p>In today’s rapidly evolving technology landscape, developers often face the challenge of efficiently deploying applications while maintaining high levels of automation. This chalk talk introduces a solution to streamline the deployment process and simplify application automation for developers of all levels. Learn how to use Amazon CodeWhisperer and Amazon CodeCatalyst to create and deploy applications seamlessly. Discover how to not only save time and effort but also achieve a consistent and reliable deployment across different environments.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 305, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Alliance 305
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In today’s rapidly evolving technology landscape, developers often face the challenge of efficiently deploying applications while maintaining high levels of automation. This chalk talk introduces a solution to streamline the deployment process and simplify application automation for developers of all levels. Learn how to use Amazon CodeWhisperer and Amazon CodeCatalyst to create and deploy applications seamlessly. Discover how to not only save time and effort but also achieve a consistent and reliable deployment across different environments.</p>
+title: Streamlined deployment: Simplifying application automation for all
+sessionuid: 9BA14455-871A-4AC7-8256-9081F299DF01
+thirdpartyid: BOA214
+speakers: firstName_0: Ana, lastName_0: Cunha, firstName_1: Jose, lastName_1: Yapur
+tag_name: AI/ML, Topic, DevOps and Developer Productivity, Topic, Application Integration, Area of Interest, BuildOn.AWS, Area of Interest, Generative AI, Area of Interest, 200 - Intermediate, Level, Amazon CodeCatalyst, Services, Amazon CodeWhisperer, Services, AWS Lambda, Services, Thursday, Day, Caesars Forum, Venue

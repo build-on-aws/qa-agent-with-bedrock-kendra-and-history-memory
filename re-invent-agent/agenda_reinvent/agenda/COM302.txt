@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :Solution/Systems Architect, Role, 300 - Advanced, Level, Developer/Engineer, Role, DevOps and Developer Productivity, Topic, Tuesday, Day, Caesars Forum, Venue, DevOps Engineer, Role, Innovation on AWS, Area of Interest, AWS Community, Area of Interest, AWS Cloud Development Kit (CDK), Services, , speakers :firstName_0: Matthew, lastName_0: Bonig, company_0: Defiance Digital, , thirdpartyid :COM302, sessionuid :0275552F-64B3-4C8C-8AAA-4880C4DDF05E, title :Advanced AWS CDK: Lessons learned from 4 years of use, description :Released in July 2019, AWS CDK has become a powerful infrastructure-as-code tool to help companies build complex systems on AWS. Its greatest strength, using general purpose languages to define your infrastructure, can also be its greatest weakness. This is because there are many different ways to write your code. Should you use a single stack or multiple? How can you use external data to define your infrastructure? How do you test your code? In this session, learn best practices, patterns, and workflows developed over the last 4 years of using AWS CDK., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: Released in July 2019, AWS CDK has become a powerful infrastructure-as-code tool to help companies build complex systems on AWS. Its greatest strength, using general purpose languages to define your infrastructure, can also be its greatest weakness. This is because there are many different ways to write your code. Should you use a single stack or multiple? How can you use external data to define your infrastructure? How do you test your code? In this session, learn best practices, patterns, and workflows developed over the last 4 years of using AWS CDK
+title: Advanced AWS CDK: Lessons learned from 4 years of use
+sessionuid: 0275552F-64B3-4C8C-8AAA-4880C4DDF05E
+thirdpartyid: COM302
+speakers: firstName_0: Matthew, lastName_0: Bonig, company_0: Defiance Digital
+tag_name: Solution/Systems Architect, Role, 300 - Advanced, Level, Developer/Engineer, Role, DevOps and Developer Productivity, Topic, Tuesday, Day, Caesars Forum, Venue, DevOps Engineer, Role, Innovation on AWS, Area of Interest, AWS Community, Area of Interest, AWS Cloud Development Kit (CDK), Services

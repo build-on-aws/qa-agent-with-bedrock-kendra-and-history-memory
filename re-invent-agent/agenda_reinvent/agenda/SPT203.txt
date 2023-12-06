@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas F
+summary: tag_name :AI/ML, Topic, Customer Enablement, Topic, Customer Stories, Area of Interest, Generative AI, Area of Interest, Media & Entertainment, Industry, Sports, Industry, 200 - Intermediate, Level, Business Executive, Role, Data Scientist, Role, Developer/Engineer, Role, Monday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Bastian, lastName_0: Zuber, company_0: DFL Digital Sports, firstName_1: Tobias, lastName_1: Matern, firstName_2: Elif, lastName_2: Dogan, , thirdpartyid :SPT203, sessionuid :261CD897-E9BD-4AC9-A2BC-74D3B4230F19, title :How the Bundesliga adopts an agile and cross-functional data strategy, description :<p>A data strategy is an essential element for a data-driven company. Many companies face the challenge of creating a data strategy that is aligned with strategic business objectives, focuses on value creation, and is actionable. In this session, DFL Digital Sports uncovers how they created an agile data strategy powered by AWS by using the Cloud Adoption Framework for Artificial Intelligence, Machine Learning, and Generative AI while being on their journey to become the most fan-centric football league.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas F, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: South Seas F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>A data strategy is an essential element for a data-driven company. Many companies face the challenge of creating a data strategy that is aligned with strategic business objectives, focuses on value creation, and is actionable. In this session, DFL Digital Sports uncovers how they created an agile data strategy powered by AWS by using the Cloud Adoption Framework for Artificial Intelligence, Machine Learning, and Generative AI while being on their journey to become the most fan-centric football league.</p>
+title: How the Bundesliga adopts an agile and cross-functional data strategy
+sessionuid: 261CD897-E9BD-4AC9-A2BC-74D3B4230F19
+thirdpartyid: SPT203
+speakers: firstName_0: Bastian, lastName_0: Zuber, company_0: DFL Digital Sports, firstName_1: Tobias, lastName_1: Matern, firstName_2: Elif, lastName_2: Dogan
+tag_name: AI/ML, Topic, Customer Enablement, Topic, Customer Stories, Area of Interest, Generative AI, Area of Interest, Media & Entertainment, Industry, Sports, Industry, 200 - Intermediate, Level, Business Executive, Role, Data Scientist, Role, Developer/Engineer, Role, Monday, Day, Mandalay Bay, Venue

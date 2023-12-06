@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific F
+summary: tag_name :Financial Services, Industry, Storage, Topic, Amazon Simple Storage Service (S3), Services, Amazon Elastic File System (EFS), Services, 300 - Advanced, Level, Digital Native Business (DNB), Area of Interest, Solution/Systems Architect, Role, Developer/Engineer, Role, Media & Entertainment, Industry, IT Professional/Technical Manager, Role, Monday, Day, Mandalay Bay, Venue, Cross Industry, Industry, Serverless Compute, Topic, AWS Lambda, Services, Application Integration, Area of Interest, , speakers :firstName_0: Promise, lastName_0: Owolabi, firstName_1: Prachi, lastName_1: Gupta, , thirdpartyid :STG301-R, sessionuid :76DB7402-EA9A-4D68-A212-8A9E3900ECC5, title :Integrate serverless applications with AWS storage services [REPEAT], description :AWS Lambda is a serverless compute service that lets you run code without provisioning or managing servers. In this workshop, learn how you can integrate your compute stack running in Lambda with persistent data in Amazon S3 and Amazon EFS. You must bring your laptop to participate., sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific F, startdatetimeutc :November, 27 2023 19:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 19:00:00 -0500
+locationname: South Pacific F
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: AWS Lambda is a serverless compute service that lets you run code without provisioning or managing servers. In this workshop, learn how you can integrate your compute stack running in Lambda with persistent data in Amazon S3 and Amazon EFS. You must bring your laptop to participate
+title: Integrate serverless applications with AWS storage services [REPEAT]
+sessionuid: 76DB7402-EA9A-4D68-A212-8A9E3900ECC5
+thirdpartyid: STG301-R
+speakers: firstName_0: Promise, lastName_0: Owolabi, firstName_1: Prachi, lastName_1: Gupta
+tag_name: Financial Services, Industry, Storage, Topic, Amazon Simple Storage Service (S3), Services, Amazon Elastic File System (EFS), Services, 300 - Advanced, Level, Digital Native Business (DNB), Area of Interest, Solution/Systems Architect, Role, Developer/Engineer, Role, Media & Entertainment, Industry, IT Professional/Technical Manager, Role, Monday, Day, Mandalay Bay, Venue, Cross Industry, Industry, Serverless Compute, Topic, AWS Lambda, Services, Application Integration, Area of Interest

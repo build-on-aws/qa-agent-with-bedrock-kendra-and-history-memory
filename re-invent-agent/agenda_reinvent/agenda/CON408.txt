@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :Serverless Compute, Topic, System Administrator, Role, Developer/Engineer, Role, Amazon Elastic Container Service (ECS), Services, Wednesday, Day, Wynn, Venue, Cost Optimization, Area of Interest, AWS Fargate, Services, Cross Industry, Industry, Compute, Topic, 400 - Expert, Level, , speakers :firstName_0: Roland, lastName_0: Barcia, firstName_1: Steven, lastName_1: Follis, , thirdpartyid :CON408-R, sessionuid :7B8B6E75-9ED0-431E-8DF3-85E919A2B42E, title :Optimize workloads for speed and cost using Amazon ECS and AWS Fargate [REPEAT], description :AWS Fargate is trusted to run mission-critical workloads around the globe and provides an array of features to help optimize and tune its serverless container workloads. Join this chalk talk to hear how to use new capabilities such as lazy loading of images with SOCI, right-sizing containers through AWS Compute Optimizer, using the alternative compression mechanism ZSTD, and more., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 01:30:00 -0500, 
+enddatetimeutc: November, 30 2023 01:30:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: AWS Fargate is trusted to run mission-critical workloads around the globe and provides an array of features to help optimize and tune its serverless container workloads. Join this chalk talk to hear how to use new capabilities such as lazy loading of images with SOCI, right-sizing containers through AWS Compute Optimizer, using the alternative compression mechanism ZSTD, and more
+title: Optimize workloads for speed and cost using Amazon ECS and AWS Fargate [REPEAT]
+sessionuid: 7B8B6E75-9ED0-431E-8DF3-85E919A2B42E
+thirdpartyid: CON408-R
+speakers: firstName_0: Roland, lastName_0: Barcia, firstName_1: Steven, lastName_1: Follis
+tag_name: Serverless Compute, Topic, System Administrator, Role, Developer/Engineer, Role, Amazon Elastic Container Service (ECS), Services, Wednesday, Day, Wynn, Venue, Cost Optimization, Area of Interest, AWS Fargate, Services, Cross Industry, Industry, Compute, Topic, 400 - Expert, Level

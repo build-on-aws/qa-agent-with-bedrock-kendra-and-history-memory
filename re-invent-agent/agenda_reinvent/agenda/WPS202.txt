@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 123
+summary: tag_name :Security, Compliance, & Identity, Topic, Application Security, Area of Interest, Data Protection, Area of Interest, Threat Detection & Incident Response, Area of Interest, Government, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Tuesday, Day, MGM Grand, Venue, , speakers :firstName_0: Hector, lastName_0: Rodriguez, firstName_1: Donny, lastName_1: Wilson, , thirdpartyid :WPS202, sessionuid :E30FC517-7270-47A4-B4D3-973AB662A13E, title :Cyber event simulation: Incident response tabletop exercises, description :<p>Learn how to improve your organization’s ability to detect, respond to, and recover from a simulated phishing and ransomware event in this workshop. Determine the desired capabilities to address each phase of the NIST incident response process and identify cloud services available to meet their requirements. Incident response is a key component of an organization’s business continuity plan, and this workshop helps you define recovery strategies, enhance procedures, and identify the resources and data required to help your business and service teams better respond to business disruptions. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 123, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 21:00:00 -0500, 
+enddatetimeutc: November, 28 2023 21:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Grand 123
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Learn how to improve your organization’s ability to detect, respond to, and recover from a simulated phishing and ransomware event in this workshop. Determine the desired capabilities to address each phase of the NIST incident response process and identify cloud services available to meet their requirements. Incident response is a key component of an organization’s business continuity plan, and this workshop helps you define recovery strategies, enhance procedures, and identify the resources and data required to help your business and service teams better respond to business disruptions. You must bring your laptop to participate.</p>
+title: Cyber event simulation: Incident response tabletop exercises
+sessionuid: E30FC517-7270-47A4-B4D3-973AB662A13E
+thirdpartyid: WPS202
+speakers: firstName_0: Hector, lastName_0: Rodriguez, firstName_1: Donny, lastName_1: Wilson
+tag_name: Security, Compliance, & Identity, Topic, Application Security, Area of Interest, Data Protection, Area of Interest, Threat Detection & Incident Response, Area of Interest, Government, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Tuesday, Day, MGM Grand, Venue

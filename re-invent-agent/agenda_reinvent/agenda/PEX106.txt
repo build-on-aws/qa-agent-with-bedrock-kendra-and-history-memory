@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Summit Showroom
+summary: tag_name :AWS Marketplace, Services, AWS Marketplace, Area of Interest, Partner Enablement, Topic, Wednesday, Day, Venetian, Venue, 100 - Foundational, Level, , speakers :firstName_0: Chhavi, lastName_0: Bhasin, firstName_1: Rachel, lastName_1: Radziszewski, firstName_2: Mike, lastName_2: Viola, company_2: Nasdaq, , thirdpartyid :PEX106, sessionuid :D6CE8684-F475-41C8-B79E-B78E3C2DA02E, title :Scale your business and simplify operations with AWS Marketplace, description :AWS Partners are achieving higher win rates and faster sales cycles with AWS Marketplace, giving organizations fast access to the software, data, and services they need to drive innovation. In this session, learn how partners are building new routes to market and reaching more organizations with AWS Marketplace, and how independent software vendors and Channel Partners are collaborating to drive customer success. Learn about strategies used by successful partners to scale and discover AWS Marketplace features that can help you grow efficiently., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Summit Showroom, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Summit Showroom
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: AWS Partners are achieving higher win rates and faster sales cycles with AWS Marketplace, giving organizations fast access to the software, data, and services they need to drive innovation. In this session, learn how partners are building new routes to market and reaching more organizations with AWS Marketplace, and how independent software vendors and Channel Partners are collaborating to drive customer success. Learn about strategies used by successful partners to scale and discover AWS Marketplace features that can help you grow efficiently
+title: Scale your business and simplify operations with AWS Marketplace
+sessionuid: D6CE8684-F475-41C8-B79E-B78E3C2DA02E
+thirdpartyid: PEX106
+speakers: firstName_0: Chhavi, lastName_0: Bhasin, firstName_1: Rachel, lastName_1: Radziszewski, firstName_2: Mike, lastName_2: Viola, company_2: Nasdaq
+tag_name: AWS Marketplace, Services, AWS Marketplace, Area of Interest, Partner Enablement, Topic, Wednesday, Day, Venetian, Venue, 100 - Foundational, Level

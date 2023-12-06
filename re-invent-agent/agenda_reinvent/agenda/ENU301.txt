@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Mouton 2
+summary: tag_name :Monday, Day, AI/ML, Topic, Generative AI, Area of Interest, Energy, Industry, 300 - Advanced, Level, Data Scientist, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon CodeWhisperer, Services, Amazon SageMaker, Services, Wynn, Venue, , speakers :firstName_0: Antoine, lastName_0: Hom, firstName_1: Jelena, lastName_1: Uzunovic, , thirdpartyid :ENU301-R, sessionuid :26D6113A-D6F0-43CC-91B3-9990FC75440B, title :Using generative AI on AWS to accelerate energy solution development [REPEAT], description :<p>In the rapidly evolving energy sector, the ability to swiftly develop solutions that harness data-driven insights is critical for optimizing operational efficiency and ensuring the safety and reliability of industrial systems. Join this workshop to gain hands-on experience with AWS services and generative AI techniques to create a critical application that uses a data stream from a wind farm. Learn how to craft queries to utilize a large language model (LLM) to design a solution architecture, use the assistance of Amazon CodeWhisperer to write code for data acquisition and transformation, and use an LLM to write anomaly detection code deployed through Amazon SageMaker. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Mouton 2, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 18:30:00 -0500, 
+enddatetimeutc: November, 27 2023 18:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: Mouton 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>In the rapidly evolving energy sector, the ability to swiftly develop solutions that harness data-driven insights is critical for optimizing operational efficiency and ensuring the safety and reliability of industrial systems. Join this workshop to gain hands-on experience with AWS services and generative AI techniques to create a critical application that uses a data stream from a wind farm. Learn how to craft queries to utilize a large language model (LLM) to design a solution architecture, use the assistance of Amazon CodeWhisperer to write code for data acquisition and transformation, and use an LLM to write anomaly detection code deployed through Amazon SageMaker. You must bring your laptop to participate.</p>
+title: Using generative AI on AWS to accelerate energy solution development [REPEAT]
+sessionuid: 26D6113A-D6F0-43CC-91B3-9990FC75440B
+thirdpartyid: ENU301-R
+speakers: firstName_0: Antoine, lastName_0: Hom, firstName_1: Jelena, lastName_1: Uzunovic
+tag_name: Monday, Day, AI/ML, Topic, Generative AI, Area of Interest, Energy, Industry, 300 - Advanced, Level, Data Scientist, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon CodeWhisperer, Services, Amazon SageMaker, Services, Wynn, Venue

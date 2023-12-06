@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 113
+summary: tag_name :DevOps Engineer, Role, Amazon Managed Grafana, Services, Monitoring & Observability, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Amazon Managed Service for Prometheus, Services, 300 - Advanced, Level, System Administrator, Role, Amazon OpenSearch Service, Services, Solution/Systems Architect, Role, Cloud Operations, Topic, , speakers :firstName_0: Gustavo, lastName_0: Franco, company_0: VTEX, firstName_1: Imaya, lastName_1: Kumar Jagannathan, firstName_2: Marc, lastName_2: Chene, , thirdpartyid :COP332, sessionuid :E0EE02E2-1C74-42FE-B038-5D7AE0CBF713, title :Operating with AWS open source observability, description :Open standards are becoming a popular mechanism for implementing observability for organizations that adopt the OpenTelemetry CNCF project. In this session, learn how to build an observability solution with a fully managed open source platform with AWS Distro for OpenTelemetry at its foundation. Learn how to incorporate Amazon Managed Grafana, Amazon Managed Service for Prometheus, and Amazon OpenSearch Service for storage and analysis of the three core dimensions of observability: metrics, logs, and traces., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 113, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 17:30:00 -0500, 
+enddatetimeutc: November, 29 2023 17:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: Forum 113
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: Open standards are becoming a popular mechanism for implementing observability for organizations that adopt the OpenTelemetry CNCF project. In this session, learn how to build an observability solution with a fully managed open source platform with AWS Distro for OpenTelemetry at its foundation. Learn how to incorporate Amazon Managed Grafana, Amazon Managed Service for Prometheus, and Amazon OpenSearch Service for storage and analysis of the three core dimensions of observability: metrics, logs, and traces
+title: Operating with AWS open source observability
+sessionuid: E0EE02E2-1C74-42FE-B038-5D7AE0CBF713
+thirdpartyid: COP332
+speakers: firstName_0: Gustavo, lastName_0: Franco, company_0: VTEX, firstName_1: Imaya, lastName_1: Kumar Jagannathan, firstName_2: Marc, lastName_2: Chene
+tag_name: DevOps Engineer, Role, Amazon Managed Grafana, Services, Monitoring & Observability, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Amazon Managed Service for Prometheus, Services, 300 - Advanced, Level, System Administrator, Role, Amazon OpenSearch Service, Services, Solution/Systems Architect, Role, Cloud Operations, Topic

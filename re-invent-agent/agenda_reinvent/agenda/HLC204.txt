@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 121
+summary: tag_name :AI/ML, Topic, Generative AI, Area of Interest, Healthcare, Industry, 200 - Intermediate, Level, Data Scientist, Role, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Amazon Kendra, Services, Amazon Bedrock, Services, Amazon SageMaker, Services, Tuesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Rod, lastName_0: Tarrago, firstName_1: Chris, lastName_1: Longhurst, company_1: UC San Diego Health, firstName_2: John, lastName_2: Apiz, , thirdpartyid :HLC204, sessionuid :22891A22-877F-4CA9-A021-CD8768733413, title :Improving patient outcomes using generative AI in healthcare, description :<p>The use of generative AI in healthcare has the potential to dramatically improve both the time to and quality of care and diagnoses. Learn how clinicians at the University of California San Diego Health use generative AI to inspect hundreds of thousands of interventions and more quickly identify those that have a positive effect on patients. Leveraging traditional ML prediction models with Amazon SageMaker and generative AI using large language models on Amazon Bedrock, clinicians are able to align comorbidities with other patient demographics to help improve outcomes.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 121, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: Forum 121
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>The use of generative AI in healthcare has the potential to dramatically improve both the time to and quality of care and diagnoses. Learn how clinicians at the University of California San Diego Health use generative AI to inspect hundreds of thousands of interventions and more quickly identify those that have a positive effect on patients. Leveraging traditional ML prediction models with Amazon SageMaker and generative AI using large language models on Amazon Bedrock, clinicians are able to align comorbidities with other patient demographics to help improve outcomes.</p>
+title: Improving patient outcomes using generative AI in healthcare
+sessionuid: 22891A22-877F-4CA9-A021-CD8768733413
+thirdpartyid: HLC204
+speakers: firstName_0: Rod, lastName_0: Tarrago, firstName_1: Chris, lastName_1: Longhurst, company_1: UC San Diego Health, firstName_2: John, lastName_2: Apiz
+tag_name: AI/ML, Topic, Generative AI, Area of Interest, Healthcare, Industry, 200 - Intermediate, Level, Data Scientist, Role, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Amazon Kendra, Services, Amazon Bedrock, Services, Amazon SageMaker, Services, Tuesday, Day, Caesars Forum, Venue

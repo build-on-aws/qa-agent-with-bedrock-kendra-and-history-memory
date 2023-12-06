@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 312
+summary: tag_name :MGM Grand, Venue, Monday, Day, Generative AI, Area of Interest, AI/ML, Topic, Developer/Engineer, Role, Amazon SageMaker, Services, Cross Industry, Industry, Innovation on AWS, Area of Interest, IT Professional/Technical Manager, Role, 400 - Expert, Level, Solution/Systems Architect, Role, , speakers :firstName_0: Farooq, lastName_0: Sabir, firstName_1: Kristine, lastName_1: Pearce, , thirdpartyid :AIM402-R, sessionuid :C3AC7B0D-1635-4ED0-BD0B-91A04FC55F95, title :Using publicly available FMs on Amazon SageMaker JumpStart [REPEAT], description :<p>Amazon SageMaker JumpStart is a machine learning hub that offers models, algorithms, and solutions. In this workshop, learn how you can access publicly available foundation models (FMs) and customize them so you can develop cutting-edge generative AI applications. Discover how to get started and use SageMaker JumpStart to work with these models. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 312, startdatetimeutc :November, 27 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 22:00:00 -0500
+locationname: Premier 312
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>Amazon SageMaker JumpStart is a machine learning hub that offers models, algorithms, and solutions. In this workshop, learn how you can access publicly available foundation models (FMs) and customize them so you can develop cutting-edge generative AI applications. Discover how to get started and use SageMaker JumpStart to work with these models. You must bring your laptop to participate.</p>
+title: Using publicly available FMs on Amazon SageMaker JumpStart [REPEAT]
+sessionuid: C3AC7B0D-1635-4ED0-BD0B-91A04FC55F95
+thirdpartyid: AIM402-R
+speakers: firstName_0: Farooq, lastName_0: Sabir, firstName_1: Kristine, lastName_1: Pearce
+tag_name: MGM Grand, Venue, Monday, Day, Generative AI, Area of Interest, AI/ML, Topic, Developer/Engineer, Role, Amazon SageMaker, Services, Cross Industry, Industry, Innovation on AWS, Area of Interest, IT Professional/Technical Manager, Role, 400 - Expert, Level, Solution/Systems Architect, Role

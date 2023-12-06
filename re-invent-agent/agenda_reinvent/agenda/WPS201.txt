@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 311
+summary: tag_name :Security, Compliance, & Identity, Topic, Business Intelligence, Area of Interest, Data Protection, Area of Interest, Network & Infrastructure Security, Area of Interest, Government, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Brad, lastName_0: Dispensa, firstName_1: Ted, lastName_1: Steffan, , thirdpartyid :WPS201, sessionuid :8A88D15D-4C34-40C6-B331-E2453E99E6BE, title :Accelerate your FedRAMP authorization, description :<p>The Federal Risk and Authorization Management Program (FedRAMP) provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services. This workshop helps you understand how the Authority to Operate (ATO) process works, outlines considerations for getting FedRAMP certification, and shows you how to use AWS services to meet your assessment requirements. This workshop can help you determine if FedRAMP is right for your organization and teaches you what the different levels mean, how to operate in the AWS GovCloud (US) Regions, and how to utilize AWS resources to expedite the process. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 311, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Premier 311
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>The Federal Risk and Authorization Management Program (FedRAMP) provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services. This workshop helps you understand how the Authority to Operate (ATO) process works, outlines considerations for getting FedRAMP certification, and shows you how to use AWS services to meet your assessment requirements. This workshop can help you determine if FedRAMP is right for your organization and teaches you what the different levels mean, how to operate in the AWS GovCloud (US) Regions, and how to utilize AWS resources to expedite the process. You must bring your laptop to participate.</p>
+title: Accelerate your FedRAMP authorization
+sessionuid: 8A88D15D-4C34-40C6-B331-E2453E99E6BE
+thirdpartyid: WPS201
+speakers: firstName_0: Brad, lastName_0: Dispensa, firstName_1: Ted, lastName_1: Steffan
+tag_name: Security, Compliance, & Identity, Topic, Business Intelligence, Area of Interest, Data Protection, Area of Interest, Network & Infrastructure Security, Area of Interest, Government, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Wednesday, Day, MGM Grand, Venue

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 122
+summary: tag_name :Quantum Technologies, Area of Interest, 200 - Intermediate, Level, Financial Services, Industry, Academic/Researcher, Role, Tuesday, Day, MGM Grand, Venue, Amazon Braket, Services, Hybrid Cloud, Topic, , speakers :firstName_0: Richard, lastName_0: Moulds, firstName_1: Sergio, lastName_1: Gago Huerta, company_1: Moody's Analytics, , thirdpartyid :QTC202, sessionuid :2E97318D-B005-4E36-8555-87E82D0A9D79, title :Innovating with quantum computing to reduce risk in financial services, description :Quantum computing may one day demonstrate an exponential advantage over classical computing for some problems. Hybrid approaches, combining quantum with conventional computing, will provide novel solutions to areas such as simulations of physical systems, optimization, and machine learning. In this session, learn how to get started with Amazon Braket, a fully managed quantum computing service with access to quantum hardware and classical simulators and explore how companies are building services around quantum computing as a differentiator in their industries., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 122, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 20:30:00 -0500, 
+enddatetimeutc: November, 28 2023 20:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Grand 122
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Quantum computing may one day demonstrate an exponential advantage over classical computing for some problems. Hybrid approaches, combining quantum with conventional computing, will provide novel solutions to areas such as simulations of physical systems, optimization, and machine learning. In this session, learn how to get started with Amazon Braket, a fully managed quantum computing service with access to quantum hardware and classical simulators and explore how companies are building services around quantum computing as a differentiator in their industries
+title: Innovating with quantum computing to reduce risk in financial services
+sessionuid: 2E97318D-B005-4E36-8555-87E82D0A9D79
+thirdpartyid: QTC202
+speakers: firstName_0: Richard, lastName_0: Moulds, firstName_1: Sergio, lastName_1: Gago Huerta, company_1: Moody's Analytics
+tag_name: Quantum Technologies, Area of Interest, 200 - Intermediate, Level, Financial Services, Industry, Academic/Researcher, Role, Tuesday, Day, MGM Grand, Venue, Amazon Braket, Services, Hybrid Cloud, Topic

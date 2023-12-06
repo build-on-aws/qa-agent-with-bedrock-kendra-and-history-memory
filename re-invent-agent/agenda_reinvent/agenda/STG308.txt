@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 118
+summary: tag_name :Developer/Engineer, Role, Solution/Systems Architect, Role, Storage, Topic, Financial Services, Industry, Hybrid Cloud, Topic, 300 - Advanced, Level, Tuesday, Day, Caesars Forum, Venue, System Administrator, Role, Life Sciences, Industry, Migration & Transfer, Area of Interest, AWS Storage Gateway, Services, Amazon Simple Storage Service (S3), Services, , speakers :firstName_0: Cy, lastName_0: Hopkins, firstName_1: Allyn, lastName_1: Henderson, , thirdpartyid :STG308, sessionuid :D86CD0CD-88CB-48E0-8DA6-FBC0FCACC49C, title :Building hybrid data pipelines to Amazon S3 with S3 File Gateway, description :Learn about a great way to take advantage of AWS AI/ML and compute technologies when your data is created on premises. In this workshop, build a data pipeline to write your data to Amazon S3 File Gateway on premises through SMB or NFS, upload it to Amazon S3 in the cloud, and process it using AWS compute resources. All the data is stored in the cloud, and on-premises systems can access it using Amazon S3 File Gateway. You must bring your laptop to participate., sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 118, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 21:30:00 -0500, 
+enddatetimeutc: November, 29 2023 21:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Forum 118
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: Learn about a great way to take advantage of AWS AI/ML and compute technologies when your data is created on premises. In this workshop, build a data pipeline to write your data to Amazon S3 File Gateway on premises through SMB or NFS, upload it to Amazon S3 in the cloud, and process it using AWS compute resources. All the data is stored in the cloud, and on-premises systems can access it using Amazon S3 File Gateway. You must bring your laptop to participate
+title: Building hybrid data pipelines to Amazon S3 with S3 File Gateway
+sessionuid: D86CD0CD-88CB-48E0-8DA6-FBC0FCACC49C
+thirdpartyid: STG308
+speakers: firstName_0: Cy, lastName_0: Hopkins, firstName_1: Allyn, lastName_1: Henderson
+tag_name: Developer/Engineer, Role, Solution/Systems Architect, Role, Storage, Topic, Financial Services, Industry, Hybrid Cloud, Topic, 300 - Advanced, Level, Tuesday, Day, Caesars Forum, Venue, System Administrator, Role, Life Sciences, Industry, Migration & Transfer, Area of Interest, AWS Storage Gateway, Services, Amazon Simple Storage Service (S3), Services

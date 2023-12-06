@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 7
+summary: tag_name :New to AWS, Topic, 200 - Intermediate, Level, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Tech Explorer, Role, Amazon AppFlow, Services, Amazon Simple Storage Service (S3), Services, AWS Glue, Services, Monday, Day, Wynn, Venue, , speakers :firstName_0: Oren, lastName_0: Waldman, firstName_1: Cheng-Lun, lastName_1: Chen, firstName_2: Dimple, lastName_2: Dhar, firstName_3: Ed, lastName_3: Depaz, firstName_4: Jack, lastName_4: Bradham, , thirdpartyid :NTA206-R, sessionuid :B440F0A2-D295-4BA3-BAFD-255C13C16606, title :No-code data lake fast start [REPEAT], description :<p>In today’s data-driven world, businesses are constantly seeking ways to harness the power of data to gain insights, make informed decisions, and stay ahead of the competition. However, setting up a data lake traditionally requires technical expertise and extensive coding knowledge. Enter the era of no-code data lakes, offering a fast start for SMBs to tap into the potential of their data without the need for complex coding. In this session, explore a sample architecture that shows how AWS lowers the barrier to entry for creating and using a data lake solution. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Latour 7, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Latour 7
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>In today’s data-driven world, businesses are constantly seeking ways to harness the power of data to gain insights, make informed decisions, and stay ahead of the competition. However, setting up a data lake traditionally requires technical expertise and extensive coding knowledge. Enter the era of no-code data lakes, offering a fast start for SMBs to tap into the potential of their data without the need for complex coding. In this session, explore a sample architecture that shows how AWS lowers the barrier to entry for creating and using a data lake solution. You must bring your laptop to participate.</p>
+title: No-code data lake fast start [REPEAT]
+sessionuid: B440F0A2-D295-4BA3-BAFD-255C13C16606
+thirdpartyid: NTA206-R
+speakers: firstName_0: Oren, lastName_0: Waldman, firstName_1: Cheng-Lun, lastName_1: Chen, firstName_2: Dimple, lastName_2: Dhar, firstName_3: Ed, lastName_3: Depaz, firstName_4: Jack, lastName_4: Bradham
+tag_name: New to AWS, Topic, 200 - Intermediate, Level, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Tech Explorer, Role, Amazon AppFlow, Services, Amazon Simple Storage Service (S3), Services, AWS Glue, Services, Monday, Day, Wynn, Venue

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 221
+summary: tag_name :Analytics, Topic, Solution/Systems Architect, Role, Life Sciences, Industry, Data Engineer, Role, Security, Compliance, & Identity, Topic, IT Professional/Technical Manager, Role, Thursday, Day, Caesars Forum, Venue, 300 - Advanced, Level, AWS Clean Rooms, Services, AWS Data Exchange, Services, Amazon DataZone, Services, Healthcare, Industry, , speakers :firstName_0: Navneet, lastName_0: Srivastava, firstName_1: Somdeb, lastName_1: Bhattacharjee, , thirdpartyid :HLC302, sessionuid :3E4B9768-BA4F-4CB9-AA03-C2435AB22738, title :Healthcare and life sciences data access, sharing, and collaboration, description :Data sharing and collaboration among healthcare and life sciences organizations can help derive better insights, accelerate innovation, and make data-driven clinical decisions. This chalk talk explores how to manage discoverability, accessibility, and security challenges using AWS services like Amazon DataZone, AWS Data Exchange, and AWS Clean Rooms. Learn how to securely collaborate while protecting data and adhering to regulatory compliance policies., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 221, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Summit 221
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Data sharing and collaboration among healthcare and life sciences organizations can help derive better insights, accelerate innovation, and make data-driven clinical decisions. This chalk talk explores how to manage discoverability, accessibility, and security challenges using AWS services like Amazon DataZone, AWS Data Exchange, and AWS Clean Rooms. Learn how to securely collaborate while protecting data and adhering to regulatory compliance policies
+title: Healthcare and life sciences data access, sharing, and collaboration
+sessionuid: 3E4B9768-BA4F-4CB9-AA03-C2435AB22738
+thirdpartyid: HLC302
+speakers: firstName_0: Navneet, lastName_0: Srivastava, firstName_1: Somdeb, lastName_1: Bhattacharjee
+tag_name: Analytics, Topic, Solution/Systems Architect, Role, Life Sciences, Industry, Data Engineer, Role, Security, Compliance, & Identity, Topic, IT Professional/Technical Manager, Role, Thursday, Day, Caesars Forum, Venue, 300 - Advanced, Level, AWS Clean Rooms, Services, AWS Data Exchange, Services, Amazon DataZone, Services, Healthcare, Industry

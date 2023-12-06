@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :Cross Industry, Industry, IT Executive, Role, AWS Shield, Services, Network & Infrastructure Security, Area of Interest, Advisor/Consultant, Role, Security, Compliance, & Identity, Topic, Wynn, Venue, Monday, Day, Solution/Systems Architect, Role, AWS Network Firewall, Services, 200 - Intermediate, Level, AWS WAF, Services, Networking & Content Delivery, Topic, , speakers :firstName_0: Damindra, lastName_0: Bandara, firstName_1: Etienne, lastName_1: Munnich, , thirdpartyid :SEC222-R, sessionuid :0E80CA73-3DA0-42F9-AD47-1077BDC55763, title :Designing a secure perimeter with cost in mind [REPEAT], description :<p>In this chalk talk, learn how to optimize your monthly AWS spend using Amazon security services (Amazon CloudFront, AWS Shield, AWS WAF, and AWS Global Accelerator) to design a secure perimeter. This talk outlines in detail optimization techniques including: optimizing data egress costs using savings bundles, DDoS cost prevention, cost-optimized configurations, WAF cost optimization, and visibility options such as usage trends and AWS Cost Explorer. Get an opportunity to ask questions for your use cases and understand how to save on your perimeter security cost.</p>, sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: <p>In this chalk talk, learn how to optimize your monthly AWS spend using Amazon security services (Amazon CloudFront, AWS Shield, AWS WAF, and AWS Global Accelerator) to design a secure perimeter. This talk outlines in detail optimization techniques including: optimizing data egress costs using savings bundles, DDoS cost prevention, cost-optimized configurations, WAF cost optimization, and visibility options such as usage trends and AWS Cost Explorer. Get an opportunity to ask questions for your use cases and understand how to save on your perimeter security cost.</p>
+title: Designing a secure perimeter with cost in mind [REPEAT]
+sessionuid: 0E80CA73-3DA0-42F9-AD47-1077BDC55763
+thirdpartyid: SEC222-R
+speakers: firstName_0: Damindra, lastName_0: Bandara, firstName_1: Etienne, lastName_1: Munnich
+tag_name: Cross Industry, Industry, IT Executive, Role, AWS Shield, Services, Network & Infrastructure Security, Area of Interest, Advisor/Consultant, Role, Security, Compliance, & Identity, Topic, Wynn, Venue, Monday, Day, Solution/Systems Architect, Role, AWS Network Firewall, Services, 200 - Intermediate, Level, AWS WAF, Services, Networking & Content Delivery, Topic

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 413
+summary: tag_name :Partner Enablement, Topic, 400 - Expert, Level, Tuesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Elamaran, lastName_0: Shanmugam, firstName_1: Mikhail, lastName_1: Shapirov, firstName_2: Adi, lastName_2: Simon, firstName_3: Carmen, lastName_3: Puccio, firstName_4: Chris, lastName_4: Zheng, , thirdpartyid :PEX402, sessionuid :3F77342C-EDAB-4C76-AB74-45C21E8C4D89, title :Secure & observe .NET containerized workloads on Amazon ECS on Fargate, description :<p>In this builders’ session, explore how to both secure and observe your .NET containerized workloads running on Amazon ECS on AWS Fargate. Using the AWS CDK, learn how to protect .NET APIs against common web exploits that may affect availability, compromise security, or consume excessive resources using AWS WAF. Also learn how to set up and configure AWS X-Ray using AWS Distro for OpenTelemetry to collect and send metrics and traces to AWS X-Ray to gain visibility into the web traffic for your application. You must bring your laptop to participate. This builders’ session is intended for AWS Partners.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 413, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Academy 413
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In this builders’ session, explore how to both secure and observe your .NET containerized workloads running on Amazon ECS on AWS Fargate. Using the AWS CDK, learn how to protect .NET APIs against common web exploits that may affect availability, compromise security, or consume excessive resources using AWS WAF. Also learn how to set up and configure AWS X-Ray using AWS Distro for OpenTelemetry to collect and send metrics and traces to AWS X-Ray to gain visibility into the web traffic for your application. You must bring your laptop to participate. This builders’ session is intended for AWS Partners.</p>
+title: Secure & observe .NET containerized workloads on Amazon ECS on Fargate
+sessionuid: 3F77342C-EDAB-4C76-AB74-45C21E8C4D89
+thirdpartyid: PEX402
+speakers: firstName_0: Elamaran, lastName_0: Shanmugam, firstName_1: Mikhail, lastName_1: Shapirov, firstName_2: Adi, lastName_2: Simon, firstName_3: Carmen, lastName_3: Puccio, firstName_4: Chris, lastName_4: Zheng
+tag_name: Partner Enablement, Topic, 400 - Expert, Level, Tuesday, Day, Caesars Forum, Venue

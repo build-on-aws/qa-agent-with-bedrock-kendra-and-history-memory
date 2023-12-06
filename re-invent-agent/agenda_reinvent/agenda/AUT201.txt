@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 411
+summary: tag_name :Data Engineer, Role, Solution/Systems Architect, Role, Automotive, Industry, 200 - Intermediate, Level, Caesars Forum, Venue, Thursday, Day, Developer/Engineer, Role, Analytics, Topic, AI/ML, Topic, , speakers :firstName_0: Amit, lastName_0: Kumar, firstName_1: Karthik, lastName_1: Manjunatha, , thirdpartyid :AUT201, sessionuid :F6E406FE-14D8-4A17-99A1-DA39BE8DB15B, title :Unlock the power of battery digital twins, description :<p>A battery digital twin is a virtual representation or model of a physical battery system. This chalk talk explores how automakers combine real-time vehicle battery data with machine learning algorithms and data analytics to analyze the behavior of batteries under different conditions in order to optimize battery performance, extend battery life, detect faults, and improve safety. Learn how the digital twin continuously receives vehicle battery data, such as voltage, current, temperature, and other relevant parameters, and uses that information to update its virtual model.</p>, sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 411, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 23:30:00 -0500, 
+enddatetimeutc: November, 30 2023 23:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Academy 411
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: <p>A battery digital twin is a virtual representation or model of a physical battery system. This chalk talk explores how automakers combine real-time vehicle battery data with machine learning algorithms and data analytics to analyze the behavior of batteries under different conditions in order to optimize battery performance, extend battery life, detect faults, and improve safety. Learn how the digital twin continuously receives vehicle battery data, such as voltage, current, temperature, and other relevant parameters, and uses that information to update its virtual model.</p>
+title: Unlock the power of battery digital twins
+sessionuid: F6E406FE-14D8-4A17-99A1-DA39BE8DB15B
+thirdpartyid: AUT201
+speakers: firstName_0: Amit, lastName_0: Kumar, firstName_1: Karthik, lastName_1: Manjunatha
+tag_name: Data Engineer, Role, Solution/Systems Architect, Role, Automotive, Industry, 200 - Intermediate, Level, Caesars Forum, Venue, Thursday, Day, Developer/Engineer, Role, Analytics, Topic, AI/ML, Topic

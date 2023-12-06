@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 320
+summary: tag_name :Analytics, Topic, Sustainability, Area of Interest, AWS IoT TwinMaker, Services, Monitoring & Observability, Area of Interest, Solution/Systems Architect, Role, Thursday, Day, MGM Grand, Venue, Data Scientist, Role, Business Intelligence, Area of Interest, 300 - Advanced, Level, Travel & Hospitality, Industry, Data Engineer, Role, Internet of Things, Topic, , speakers :firstName_0: Jaime Antolin, lastName_0: Merino, firstName_1: Robin, lastName_1: Kanthareuben, , thirdpartyid :TRV302, sessionuid :F43AA40D-74D5-4F0C-9240-4BB5CBF8FED7, title :Optimize travel and hospitality operations with digital twins, description :Digital twins help travel and hospitality companies enhance decision-making to optimize operations, but they can be complicated and time-consuming to build. In this chalk talk, learn how to efficiently build a digital twin, capturing operational data at the edge and combining it with historical data to visualize end-to-end operations in real time and improve decision-making. Also, learn how to combine AWS IoT TwinMaker with modular options for data collection, storage, and visualization., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 320, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Premier 320
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Digital twins help travel and hospitality companies enhance decision-making to optimize operations, but they can be complicated and time-consuming to build. In this chalk talk, learn how to efficiently build a digital twin, capturing operational data at the edge and combining it with historical data to visualize end-to-end operations in real time and improve decision-making. Also, learn how to combine AWS IoT TwinMaker with modular options for data collection, storage, and visualization
+title: Optimize travel and hospitality operations with digital twins
+sessionuid: F43AA40D-74D5-4F0C-9240-4BB5CBF8FED7
+thirdpartyid: TRV302
+speakers: firstName_0: Jaime Antolin, lastName_0: Merino, firstName_1: Robin, lastName_1: Kanthareuben
+tag_name: Analytics, Topic, Sustainability, Area of Interest, AWS IoT TwinMaker, Services, Monitoring & Observability, Area of Interest, Solution/Systems Architect, Role, Thursday, Day, MGM Grand, Venue, Data Scientist, Role, Business Intelligence, Area of Interest, 300 - Advanced, Level, Travel & Hospitality, Industry, Data Engineer, Role, Internet of Things, Topic

@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Convention Center, Bayside B, Table Tennis Tournament
+summary: tag_name :Monday, Day, Mandalay Bay, Venue, Community Activities, Additional Services, , speakers :, thirdpartyid :ACT018, sessionuid :54441126-785C-4C4D-BA2F-9A9A3F087CB6, title :AWS Table Tennis Tournament, description :<p>Table tennis is back! Compete in the AWS Table Tennis Tournament. Make it to the championship round, played on Thursday night at re:Play, for a chance to take home a pass to AWS re:Invent 2024. Visit the table tennis check-in desk in the re:Invent Rec Center for full details and to participate. Tournament participation and play time assignments are available on a first-come, first-served basis. Tournament play times start every hour on the hour, from 10:00 AM to 5:00 PM. All players must be available to play as far as they advance. Terms and conditions apply.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Convention Center, Bayside B, Table Tennis Tournament, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 28 2023 02:00:00 -0500, 
+enddatetimeutc: November, 28 2023 02:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: South Convention Center, Bayside B, Table Tennis Tournament
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Table tennis is back! Compete in the AWS Table Tennis Tournament. Make it to the championship round, played on Thursday night at re:Play, for a chance to take home a pass to AWS re:Invent 2024. Visit the table tennis check-in desk in the re:Invent Rec Center for full details and to participate. Tournament participation and play time assignments are available on a first-come, first-served basis. Tournament play times start every hour on the hour, from 10:00 AM to 5:00 PM. All players must be available to play as far as they advance. Terms and conditions apply.</p>
+title: AWS Table Tennis Tournament
+sessionuid: 54441126-785C-4C4D-BA2F-9A9A3F087CB6
+thirdpartyid: ACT018
+speakers: 
+tag_name: Monday, Day, Mandalay Bay, Venue, Community Activities, Additional Services

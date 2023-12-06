@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 350
+summary: tag_name :AI/ML, Topic, Architecture, Topic, Application Integration, Area of Interest, Generative AI, Area of Interest, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Amazon Bedrock, Services, Amazon SageMaker, Services, 300 - Advanced, Level, Monday, Day, MGM Grand, Venue, , speakers :firstName_0: James, lastName_0: Nixon, firstName_1: Johny, lastName_1: Duval, firstName_2: Nihit, lastName_2: Kasabwala, firstName_3: Reet, lastName_3: Takkar, firstName_4: Tarek, lastName_4: Abdunabi, , thirdpartyid :ARC318-R, sessionuid :4A22115D-B344-4624-A996-464F6959346C, title :Speed deployment of generative AI applications using AWS solutions [REPEAT], description :<p>Development of production-quality, generative AI applications is a time-consuming process with multiple architectural components and third-party integrations that can take months to deploy due to the complexity and breadth of technology challenges. In this builders’ session, learn how to quickly experiment, compare outputs, and deploy enterprise-grade LLM-powered applications using your company-specific data. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :350, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: 350
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Development of production-quality, generative AI applications is a time-consuming process with multiple architectural components and third-party integrations that can take months to deploy due to the complexity and breadth of technology challenges. In this builders’ session, learn how to quickly experiment, compare outputs, and deploy enterprise-grade LLM-powered applications using your company-specific data. You must bring your laptop to participate.</p>
+title: Speed deployment of generative AI applications using AWS solutions [REPEAT]
+sessionuid: 4A22115D-B344-4624-A996-464F6959346C
+thirdpartyid: ARC318-R
+speakers: firstName_0: James, lastName_0: Nixon, firstName_1: Johny, lastName_1: Duval, firstName_2: Nihit, lastName_2: Kasabwala, firstName_3: Reet, lastName_3: Takkar, firstName_4: Tarek, lastName_4: Abdunabi
+tag_name: AI/ML, Topic, Architecture, Topic, Application Integration, Area of Interest, Generative AI, Area of Interest, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Amazon Bedrock, Services, Amazon SageMaker, Services, 300 - Advanced, Level, Monday, Day, MGM Grand, Venue

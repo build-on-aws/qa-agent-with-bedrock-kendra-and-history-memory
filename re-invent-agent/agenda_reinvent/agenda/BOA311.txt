@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 122
+summary: tag_name :Wednesday, Day, MGM Grand, Venue, Serverless Compute, Topic, Application Integration, Area of Interest, BuildOn.AWS, Area of Interest, 300 - Advanced, Level, Amazon CodeWhisperer, Services, AWS Lambda, Services, , speakers :firstName_0: Betty, lastName_0: Zheng, firstName_1: Harold, lastName_1: Sun, , thirdpartyid :BOA311, sessionuid :7A7D76F8-3000-48D7-99AD-15AF4A047AE5, title :Unlocking serverless web applications with AWS Lambda Web Adapter, description :<p>AWS Lambda Web Adapter seamlessly integrates familiar frameworks and tools, empowering developers to migrate existing web applications to a serverless architecture and create new serverless web applications. Join this session to explore the cutting-edge design behind AWS Lambda Web Adapter, and discover how to use its powerful features such as debugging, integrating with AWS X-Ray and OpenTelemetry for advanced tracing capabilities, leveraging streaming responses, and harnessing the potential of SnapStart. Learn how to unlock the full potential of serverless web application development, and gain invaluable insights from industry experts.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 122, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 21:00:00 -0500, 
+enddatetimeutc: November, 29 2023 21:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Grand 122
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>AWS Lambda Web Adapter seamlessly integrates familiar frameworks and tools, empowering developers to migrate existing web applications to a serverless architecture and create new serverless web applications. Join this session to explore the cutting-edge design behind AWS Lambda Web Adapter, and discover how to use its powerful features such as debugging, integrating with AWS X-Ray and OpenTelemetry for advanced tracing capabilities, leveraging streaming responses, and harnessing the potential of SnapStart. Learn how to unlock the full potential of serverless web application development, and gain invaluable insights from industry experts.</p>
+title: Unlocking serverless web applications with AWS Lambda Web Adapter
+sessionuid: 7A7D76F8-3000-48D7-99AD-15AF4A047AE5
+thirdpartyid: BOA311
+speakers: firstName_0: Betty, lastName_0: Zheng, firstName_1: Harold, lastName_1: Sun
+tag_name: Wednesday, Day, MGM Grand, Venue, Serverless Compute, Topic, Application Integration, Area of Interest, BuildOn.AWS, Area of Interest, 300 - Advanced, Level, Amazon CodeWhisperer, Services, AWS Lambda, Services

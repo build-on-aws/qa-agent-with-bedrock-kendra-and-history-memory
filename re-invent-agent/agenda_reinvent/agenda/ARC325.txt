@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 126
+summary: tag_name :Architecture, Topic, AWS Health, Services, 300 - Advanced, Level, Resilience, Area of Interest, DevOps Engineer, Role, Amazon CloudWatch, Services, Solution/Systems Architect, Role, Amazon CloudWatch Logs, Services, Wednesday, Day, Caesars Forum, Venue, Cross Industry, Industry, IT Professional/Technical Manager, Role, , speakers :firstName_0: Islam, lastName_0: Ghanim, firstName_1: Will, lastName_1: Laws, , thirdpartyid :ARC325, sessionuid :72AAE685-3D81-4708-BDDE-31EA642F7717, title :Operational excellence: Best practices for resilient systems, description :In this chalk talk, learn how operational practices such as logging, health checks, and safe deployment affect the resilience of well-architected applications. Explore use cases demonstrating potential implications of poor operational practices on system availability and analyze these use cases in line with well-architected principles. Learn about improvement strategies and best practices to enhance the resilience of your AWS architecture., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 126, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 01:30:00 -0500, 
+enddatetimeutc: November, 30 2023 01:30:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: Forum 126
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: In this chalk talk, learn how operational practices such as logging, health checks, and safe deployment affect the resilience of well-architected applications. Explore use cases demonstrating potential implications of poor operational practices on system availability and analyze these use cases in line with well-architected principles. Learn about improvement strategies and best practices to enhance the resilience of your AWS architecture
+title: Operational excellence: Best practices for resilient systems
+sessionuid: 72AAE685-3D81-4708-BDDE-31EA642F7717
+thirdpartyid: ARC325
+speakers: firstName_0: Islam, lastName_0: Ghanim, firstName_1: Will, lastName_1: Laws
+tag_name: Architecture, Topic, AWS Health, Services, 300 - Advanced, Level, Resilience, Area of Interest, DevOps Engineer, Role, Amazon CloudWatch, Services, Solution/Systems Architect, Role, Amazon CloudWatch Logs, Services, Wednesday, Day, Caesars Forum, Venue, Cross Industry, Industry, IT Professional/Technical Manager, Role

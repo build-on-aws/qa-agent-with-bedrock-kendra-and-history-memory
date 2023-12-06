@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 221
+summary: tag_name :Amazon Simple Storage Service (S3), Services, Data Engineer, Role, Analytics, Topic, AWS Glue, Services, Storage, Topic, Solution/Systems Architect, Role, Cross Industry, Industry, Wednesday, Day, Caesars Forum, Venue, IT Professional/Technical Manager, Role, Amazon Athena, Services, 300 - Advanced, Level, , speakers :firstName_0: Jorge A, lastName_0: Lopez, firstName_1: Harsha, lastName_1: Battapady, , thirdpartyid :STG328, sessionuid :EBEDE18D-45DD-4F35-8611-FD15471E1F22, title :Powering your data lakes and analytics with Amazon S3, description :Learn how to use Amazon S3 to get more out of your data lake and analytic workloads. Understanding how to use these features optimally can benefit analytics workloads by making them more scalable, resilient, and cost optimized. Hear real-world use cases of how customers use analytics on data lakes and how you can use storage features in those workloads. In addition, explore example use cases to see how Amazon Athena, Amazon Redshift, OpenSearch, and AWS Glue can benefit work in tandem with these storage features., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 221, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Summit 221
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Learn how to use Amazon S3 to get more out of your data lake and analytic workloads. Understanding how to use these features optimally can benefit analytics workloads by making them more scalable, resilient, and cost optimized. Hear real-world use cases of how customers use analytics on data lakes and how you can use storage features in those workloads. In addition, explore example use cases to see how Amazon Athena, Amazon Redshift, OpenSearch, and AWS Glue can benefit work in tandem with these storage features
+title: Powering your data lakes and analytics with Amazon S3
+sessionuid: EBEDE18D-45DD-4F35-8611-FD15471E1F22
+thirdpartyid: STG328
+speakers: firstName_0: Jorge A, lastName_0: Lopez, firstName_1: Harsha, lastName_1: Battapady
+tag_name: Amazon Simple Storage Service (S3), Services, Data Engineer, Role, Analytics, Topic, AWS Glue, Services, Storage, Topic, Solution/Systems Architect, Role, Cross Industry, Industry, Wednesday, Day, Caesars Forum, Venue, IT Professional/Technical Manager, Role, Amazon Athena, Services, 300 - Advanced, Level

@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Bollinger
+summary: tag_name :Developer/Engineer, Role, Amazon CodeWhisperer, Services, DevOps and Developer Productivity, Topic, Solution/Systems Architect, Role, AWS Toolkit for JetBrains, Services, Tuesday, Day, Wynn, Venue, AWS Toolkit for Visual Studio, Services, 300 - Advanced, Level, AI/ML, Topic, , speakers :firstName_0: François, lastName_0: Bouteruche, firstName_1: Christopher, lastName_1: Christou, , thirdpartyid :XNT304, sessionuid :EDF7A843-CD6D-415E-A211-4DCD018086F4, title :Boost your productivity with AWS Toolkits and Amazon CodeWhisperer, description :<p>Learn how AWS can help you be a more productive .NET developer. Software developers are always asked to do more with less. You need to remove impediments that slow down your flow and reduce context switches that hurt your productivity. AWS Toolkits can help you stay focused in your favorite IDE. In this session, learn how you can access AWS services and deploy to AWS to test your project in minutes, without having deep knowledge of infrastructure as code. Also learn how the AWS Toolkits now bring you even more with Amazon CodeWhisperer. Explore how this new AI coding companion can help you get more done faster.</p>, sessiontype :Breakout Session, venuename :Wynn, floorplanname :Upper Level, locationname :Bollinger, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: Bollinger
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Breakout Session
+description: <p>Learn how AWS can help you be a more productive .NET developer. Software developers are always asked to do more with less. You need to remove impediments that slow down your flow and reduce context switches that hurt your productivity. AWS Toolkits can help you stay focused in your favorite IDE. In this session, learn how you can access AWS services and deploy to AWS to test your project in minutes, without having deep knowledge of infrastructure as code. Also learn how the AWS Toolkits now bring you even more with Amazon CodeWhisperer. Explore how this new AI coding companion can help you get more done faster.</p>
+title: Boost your productivity with AWS Toolkits and Amazon CodeWhisperer
+sessionuid: EDF7A843-CD6D-415E-A211-4DCD018086F4
+thirdpartyid: XNT304
+speakers: firstName_0: François, lastName_0: Bouteruche, firstName_1: Christopher, lastName_1: Christou
+tag_name: Developer/Engineer, Role, Amazon CodeWhisperer, Services, DevOps and Developer Productivity, Topic, Solution/Systems Architect, Role, AWS Toolkit for JetBrains, Services, Tuesday, Day, Wynn, Venue, AWS Toolkit for Visual Studio, Services, 300 - Advanced, Level, AI/ML, Topic

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 1
+summary: tag_name :Amazon SageMaker, Services, Solution/Systems Architect, Role, Developer/Engineer, Role, Innovation on AWS, Area of Interest, Cross Industry, Industry, IT Professional/Technical Manager, Role, Generative AI, Area of Interest, AI/ML, Topic, Wednesday, Day, Wynn, Venue, 300 - Advanced, Level, Well-Architected Framework, Area of Interest, , speakers :firstName_0: Simon, lastName_0: Zamarin, firstName_1: Rupinder, lastName_1: Grewal, , thirdpartyid :AIM345, sessionuid :7E9DBAC7-8D95-4A25-B5D4-5959CB3B211E, title :Hosting FMs on Amazon SageMaker for scale and performance, description :<p>In this chalk talk, discover how to host foundation models to build generative AI applications at scale and dive deep into the challenges of hosting large models that span across GPUs. Explore various model optimization techniques such as quantization, compilation, tensor parallelism, and continuous batching. Also learn about various serving frameworks that are available within Amazon SageMaker, and explore recommended deployment practices to optimize for cost and performance. This chalk talk is designed for machine learning engineers and data scientists looking to launch generative AI applications into production.</p>, sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 1, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 02:30:00 -0500, 
+enddatetimeutc: November, 30 2023 02:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Lafite 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: <p>In this chalk talk, discover how to host foundation models to build generative AI applications at scale and dive deep into the challenges of hosting large models that span across GPUs. Explore various model optimization techniques such as quantization, compilation, tensor parallelism, and continuous batching. Also learn about various serving frameworks that are available within Amazon SageMaker, and explore recommended deployment practices to optimize for cost and performance. This chalk talk is designed for machine learning engineers and data scientists looking to launch generative AI applications into production.</p>
+title: Hosting FMs on Amazon SageMaker for scale and performance
+sessionuid: 7E9DBAC7-8D95-4A25-B5D4-5959CB3B211E
+thirdpartyid: AIM345
+speakers: firstName_0: Simon, lastName_0: Zamarin, firstName_1: Rupinder, lastName_1: Grewal
+tag_name: Amazon SageMaker, Services, Solution/Systems Architect, Role, Developer/Engineer, Role, Innovation on AWS, Area of Interest, Cross Industry, Industry, IT Professional/Technical Manager, Role, Generative AI, Area of Interest, AI/ML, Topic, Wednesday, Day, Wynn, Venue, 300 - Advanced, Level, Well-Architected Framework, Area of Interest

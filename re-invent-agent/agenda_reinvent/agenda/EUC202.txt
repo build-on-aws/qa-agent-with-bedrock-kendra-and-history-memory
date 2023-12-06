@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 228
+summary: tag_name :Cost Optimization, Area of Interest, IT Administrator, Role, Migration & Transfer, Area of Interest, End-User Computing, Topic, IT Professional/Technical Manager, Role, Resilience, Area of Interest, Amazon AppStream 2.0, Services, Amazon WorkSpaces Web, Services, Monitoring & Observability, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Amazon WorkSpaces, Services, Solution/Systems Architect, Role, 200 - Intermediate, Level, , speakers :firstName_0: Aamir, lastName_0: Khan, firstName_1: Dave, lastName_1: Jaskie, , thirdpartyid :EUC202-R, sessionuid :754F8A49-6DA7-4C12-89EB-906576A49E77, title :Monitor Amazon WorkSpaces user access patterns with Amazon CloudWatch [REPEAT], description :<p>Optimizing resource availability and security for a large remote or hybrid workforce is challenging without actionable data. Detailed access pattern data helps you plan maintenance windows, forecast network capacity requirements, and set priorities for Amazon WorkSpaces client updates. In this workshop, get hands-on experience using Amazon CloudWatch to validate time and duration of employee access to WorkSpaces instances. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 228, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 18:30:00 -0500, 
+enddatetimeutc: November, 29 2023 18:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: Summit 228
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: <p>Optimizing resource availability and security for a large remote or hybrid workforce is challenging without actionable data. Detailed access pattern data helps you plan maintenance windows, forecast network capacity requirements, and set priorities for Amazon WorkSpaces client updates. In this workshop, get hands-on experience using Amazon CloudWatch to validate time and duration of employee access to WorkSpaces instances. You must bring your laptop to participate.</p>
+title: Monitor Amazon WorkSpaces user access patterns with Amazon CloudWatch [REPEAT]
+sessionuid: 754F8A49-6DA7-4C12-89EB-906576A49E77
+thirdpartyid: EUC202-R
+speakers: firstName_0: Aamir, lastName_0: Khan, firstName_1: Dave, lastName_1: Jaskie
+tag_name: Cost Optimization, Area of Interest, IT Administrator, Role, Migration & Transfer, Area of Interest, End-User Computing, Topic, IT Professional/Technical Manager, Role, Resilience, Area of Interest, Amazon AppStream 2.0, Services, Amazon WorkSpaces Web, Services, Monitoring & Observability, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Amazon WorkSpaces, Services, Solution/Systems Architect, Role, 200 - Intermediate, Level

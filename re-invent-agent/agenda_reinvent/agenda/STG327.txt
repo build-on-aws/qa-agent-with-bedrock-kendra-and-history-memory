@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 221
+summary: tag_name :Solution/Systems Architect, Role, Amazon Simple Storage Service (S3), Services, Developer/Engineer, Role, Application Integration, Area of Interest, 300 - Advanced, Level, Well-Architected Framework, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Cross Industry, Industry, Storage, Topic, IT Professional/Technical Manager, Role, , speakers :firstName_0: Aditya, lastName_0: Kalyanakrishnan, firstName_1: George, lastName_1: Lewis, , thirdpartyid :STG327, sessionuid :4EE6DBBC-E6D2-423F-B258-774FB5E2EC84, title :Deliver performance at scale with Amazon S3, description :In this chalk talk, explore how Amazon S3 delivers predictable, high-throughput, and low-latency object storage for your most demanding workloads. With Amazon S3, your applications can scale to millions of transactions per second (TPS) and achieve terabits per second of throughput. Learn about Amazon S3 performance characteristics so you can tailor your storage performance to the needs of your applications., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 221, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Summit 221
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: In this chalk talk, explore how Amazon S3 delivers predictable, high-throughput, and low-latency object storage for your most demanding workloads. With Amazon S3, your applications can scale to millions of transactions per second (TPS) and achieve terabits per second of throughput. Learn about Amazon S3 performance characteristics so you can tailor your storage performance to the needs of your applications
+title: Deliver performance at scale with Amazon S3
+sessionuid: 4EE6DBBC-E6D2-423F-B258-774FB5E2EC84
+thirdpartyid: STG327
+speakers: firstName_0: Aditya, lastName_0: Kalyanakrishnan, firstName_1: George, lastName_1: Lewis
+tag_name: Solution/Systems Architect, Role, Amazon Simple Storage Service (S3), Services, Developer/Engineer, Role, Application Integration, Area of Interest, 300 - Advanced, Level, Well-Architected Framework, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Cross Industry, Industry, Storage, Topic, IT Professional/Technical Manager, Role

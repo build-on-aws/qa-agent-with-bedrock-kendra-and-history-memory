@@ -1,0 +1,3 @@
+pip install chromadb -t .
+pip install langchain -t .
+pip install jp -t .

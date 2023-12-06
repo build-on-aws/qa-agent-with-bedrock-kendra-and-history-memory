@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :300 - Advanced, Level, Analytics, Topic, Developer/Engineer, Role, AWS Glue, Services, Cost Optimization, Area of Interest, Tuesday, Day, Mandalay Bay, Venue, DevOps Engineer, Role, Data Engineer, Role, Enterprise & Migration, Topic, , speakers :firstName_0: Jason, lastName_0: Dao, company_0: Bank of Montreal, firstName_1: Noritaka, lastName_1: Sekiyama, firstName_2: Vivek, lastName_2: Shrivastava, , thirdpartyid :ANT338-R, sessionuid :40A4E2F0-F2AC-49BA-B808-F507E3C0BFBB, title :Migrate legacy ETL to AWS Glue [REPEAT], description :Traditional data integration and transformation tools are expensive and piecemeal, pushing organizations toward a multi-tool approach to deliver on functions such as ETL, discovery, movement, cleansing, transformation, and cataloging. This chalk talk shows how to migrate from legacy ETL solutions to AWS Glue using real-world examples. See how adoption of AWS Glue leads to a modern, serverless, and optimized architecture while reducing operational cost., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: Traditional data integration and transformation tools are expensive and piecemeal, pushing organizations toward a multi-tool approach to deliver on functions such as ETL, discovery, movement, cleansing, transformation, and cataloging. This chalk talk shows how to migrate from legacy ETL solutions to AWS Glue using real-world examples. See how adoption of AWS Glue leads to a modern, serverless, and optimized architecture while reducing operational cost
+title: Migrate legacy ETL to AWS Glue [REPEAT]
+sessionuid: 40A4E2F0-F2AC-49BA-B808-F507E3C0BFBB
+thirdpartyid: ANT338-R
+speakers: firstName_0: Jason, lastName_0: Dao, company_0: Bank of Montreal, firstName_1: Noritaka, lastName_1: Sekiyama, firstName_2: Vivek, lastName_2: Shrivastava
+tag_name: 300 - Advanced, Level, Analytics, Topic, Developer/Engineer, Role, AWS Glue, Services, Cost Optimization, Area of Interest, Tuesday, Day, Mandalay Bay, Venue, DevOps Engineer, Role, Data Engineer, Role, Enterprise & Migration, Topic

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 126
+summary: tag_name :Amazon Machine Learning (ML), Services, AWS Security Hub, Services, Life Sciences, Industry, Amazon SageMaker, Services, IT Professional/Technical Manager, Role, Security, Compliance, & Identity, Topic, Tuesday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, AI/ML, Topic, Developer/Engineer, Role, 300 - Advanced, Level, Generative AI, Area of Interest, , speakers :firstName_0: Cherry, lastName_0: Cabading, company_0: AstraZeneca, firstName_1: Ian, lastName_1: Sutcliffe, , thirdpartyid :LFS301-R, sessionuid :788A6282-9096-4951-AA27-5DE7997BEA16, title :AI and GxP: Regulatory compliance in the new wave of AI [REPEAT], description :Innovation and regulatory compliance don’t need to be opposing forces. In this chalk talk, learn how life sciences leaders are using AI and ML to accelerate innovations while raising the bar on their security and compliance. Discover the latest regulatory guidance and how to use AWS services to balance innovation with compliance and support your entire machine learning operations lifecycle., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 126, startdatetimeutc :November, 28 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 22:00:00 -0500, 
+enddatetimeutc: November, 28 2023 22:00:00 -0500
+startdatetimeutc: November, 28 2023 21:00:00 -0500
+locationname: Forum 126
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Innovation and regulatory compliance don’t need to be opposing forces. In this chalk talk, learn how life sciences leaders are using AI and ML to accelerate innovations while raising the bar on their security and compliance. Discover the latest regulatory guidance and how to use AWS services to balance innovation with compliance and support your entire machine learning operations lifecycle
+title: AI and GxP: Regulatory compliance in the new wave of AI [REPEAT]
+sessionuid: 788A6282-9096-4951-AA27-5DE7997BEA16
+thirdpartyid: LFS301-R
+speakers: firstName_0: Cherry, lastName_0: Cabading, company_0: AstraZeneca, firstName_1: Ian, lastName_1: Sutcliffe
+tag_name: Amazon Machine Learning (ML), Services, AWS Security Hub, Services, Life Sciences, Industry, Amazon SageMaker, Services, IT Professional/Technical Manager, Role, Security, Compliance, & Identity, Topic, Tuesday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, AI/ML, Topic, Developer/Engineer, Role, 300 - Advanced, Level, Generative AI, Area of Interest

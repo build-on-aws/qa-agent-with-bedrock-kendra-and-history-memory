@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 411
+summary: tag_name :Wednesday, Day, Security, Compliance, & Identity, Topic, Caesars Forum, Venue, 300 - Advanced, Level, Threat Detection & Incident Response, Area of Interest, AWS Security Hub, Services, Cross Industry, Industry, , speakers :firstName_0: Marshall, lastName_0: Jones, firstName_1: Himanshu, lastName_1: Verma, , thirdpartyid :SEC309, sessionuid :109114F8-6A1A-4B3E-8ED0-3A487C272EEF, title :How to automate incident response with AWS security services & AI/ML, description :In this chalk talk, explore how generative AI and machine learning can be used alongside key AWS security services to enrich security analytics and automate incident response for security teams, helping to reduce the time to respond to security incidents and improve the developer experience., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 411, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Academy 411
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: In this chalk talk, explore how generative AI and machine learning can be used alongside key AWS security services to enrich security analytics and automate incident response for security teams, helping to reduce the time to respond to security incidents and improve the developer experience
+title: How to automate incident response with AWS security services & AI/ML
+sessionuid: 109114F8-6A1A-4B3E-8ED0-3A487C272EEF
+thirdpartyid: SEC309
+speakers: firstName_0: Marshall, lastName_0: Jones, firstName_1: Himanshu, lastName_1: Verma
+tag_name: Wednesday, Day, Security, Compliance, & Identity, Topic, Caesars Forum, Venue, 300 - Advanced, Level, Threat Detection & Incident Response, Area of Interest, AWS Security Hub, Services, Cross Industry, Industry

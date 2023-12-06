@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine H
+summary: tag_name :Entrepreneur (Founder/Co-Founder), Role, AWS Local Zones, Services, IT Executive, Role, Architecture, Topic, 200 - Intermediate, Level, Amazon Simple Storage Service (S3), Services, Amazon Elastic Compute Cloud (EC2), Services, Business Applications, Topic, Wednesday, Day, Mandalay Bay, Venue, Business Executive, Role, Media & Entertainment, Industry, Customer Stories, Area of Interest, , speakers :firstName_0: Jonathon, lastName_0: Lee, company_0: Amazon, firstName_1: Kenny, lastName_1: Rajan, , thirdpartyid :AMZ203, sessionuid :7E23F6C7-33ED-4207-AF92-6B6B52A4167A, title :Amazon Studios: Building a next-generation studio, description :<p>Amazon Studios has defined the state of the art in cloud production from the cameras on Southern California’s largest virtual production stage, to using the Edit in the Cloud on AWS solution in its new 8K-capable facility for movies and series. In this session, learn how Amazon Studios uses AWS and AWS Partner Solutions to empower its visual storytellers.</p>, sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine H, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Jasmine H
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: <p>Amazon Studios has defined the state of the art in cloud production from the cameras on Southern California’s largest virtual production stage, to using the Edit in the Cloud on AWS solution in its new 8K-capable facility for movies and series. In this session, learn how Amazon Studios uses AWS and AWS Partner Solutions to empower its visual storytellers.</p>
+title: Amazon Studios: Building a next-generation studio
+sessionuid: 7E23F6C7-33ED-4207-AF92-6B6B52A4167A
+thirdpartyid: AMZ203
+speakers: firstName_0: Jonathon, lastName_0: Lee, company_0: Amazon, firstName_1: Kenny, lastName_1: Rajan
+tag_name: Entrepreneur (Founder/Co-Founder), Role, AWS Local Zones, Services, IT Executive, Role, Architecture, Topic, 200 - Intermediate, Level, Amazon Simple Storage Service (S3), Services, Amazon Elastic Compute Cloud (EC2), Services, Business Applications, Topic, Wednesday, Day, Mandalay Bay, Venue, Business Executive, Role, Media & Entertainment, Industry, Customer Stories, Area of Interest

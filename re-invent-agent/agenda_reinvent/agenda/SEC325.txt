@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 101
+summary: tag_name :300 - Advanced, Level, Security, Compliance, & Identity, Topic, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Peter, lastName_0: O'Donnell, firstName_1: Don, lastName_1: Edwards, , thirdpartyid :SEC325, sessionuid :3FA48E84-CD27-4C92-A487-3B26F013DBF0, title :Protect your data using AWS services for defense in depth, description :This chalk talk covers the range of data protection capabilities on the AWS Cloud, from access controls and encryption to content detection and filtration and everything in between. Explore advanced IAM controls, how encryption fits into the data protection picture, and new capabilities that provide not just protection but also assurance that your data is identified, protected, and secured., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :101, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: 101
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: This chalk talk covers the range of data protection capabilities on the AWS Cloud, from access controls and encryption to content detection and filtration and everything in between. Explore advanced IAM controls, how encryption fits into the data protection picture, and new capabilities that provide not just protection but also assurance that your data is identified, protected, and secured
+title: Protect your data using AWS services for defense in depth
+sessionuid: 3FA48E84-CD27-4C92-A487-3B26F013DBF0
+thirdpartyid: SEC325
+speakers: firstName_0: Peter, lastName_0: O'Donnell, firstName_1: Don, lastName_1: Edwards
+tag_name: 300 - Advanced, Level, Security, Compliance, & Identity, Topic, Wednesday, Day, MGM Grand, Venue

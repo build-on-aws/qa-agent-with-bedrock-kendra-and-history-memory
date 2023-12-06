@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :Solution/Systems Architect, Role, Amazon Aurora, Services, Cross Industry, Industry, AI/ML, Topic, Data Engineer, Role, Open Source, Area of Interest, Databases, Topic, Wednesday, Day, Mandalay Bay, Venue, Amazon Relational Database Service (RDS), Services, 300 - Advanced, Level, Developer/Engineer, Role, Generative AI, Area of Interest, , speakers :firstName_0: Jonathan, lastName_0: Katz, firstName_1: Shayon, lastName_1: Sanyal, , thirdpartyid :DAT323-R, sessionuid :54A7C0B0-71E3-43E1-ABD6-10E0B49D010A, title :Discovering the vector database power of Amazon Aurora & Amazon RDS [REPEAT], description :In this chalk talk, learn about the vector database capabilities of the pgvector extension in Amazon Aurora PostgreSQL-Compatible Edition and Amazon RDS for PostgreSQL. With pgvector, you can perform efficient similarity searches and store billions of vector embeddings in your fully managed Aurora and Amazon RDS databases. Find out about the powerful indexing and querying capabilities of these vectors. Also discover how vector similarity search can revolutionize similarity matching for use cases such as recommendation systems, content similarity analysis, image recognition, or generative AI., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 01:30:00 -0500, 
+enddatetimeutc: November, 30 2023 01:30:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: In this chalk talk, learn about the vector database capabilities of the pgvector extension in Amazon Aurora PostgreSQL-Compatible Edition and Amazon RDS for PostgreSQL. With pgvector, you can perform efficient similarity searches and store billions of vector embeddings in your fully managed Aurora and Amazon RDS databases. Find out about the powerful indexing and querying capabilities of these vectors. Also discover how vector similarity search can revolutionize similarity matching for use cases such as recommendation systems, content similarity analysis, image recognition, or generative AI
+title: Discovering the vector database power of Amazon Aurora & Amazon RDS [REPEAT]
+sessionuid: 54A7C0B0-71E3-43E1-ABD6-10E0B49D010A
+thirdpartyid: DAT323-R
+speakers: firstName_0: Jonathan, lastName_0: Katz, firstName_1: Shayon, lastName_1: Sanyal
+tag_name: Solution/Systems Architect, Role, Amazon Aurora, Services, Cross Industry, Industry, AI/ML, Topic, Data Engineer, Role, Open Source, Area of Interest, Databases, Topic, Wednesday, Day, Mandalay Bay, Venue, Amazon Relational Database Service (RDS), Services, 300 - Advanced, Level, Developer/Engineer, Role, Generative AI, Area of Interest

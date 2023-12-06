@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 115
+summary: tag_name :Aerospace & Satellite, Industry, Hybrid Cloud, Topic, Telecommunications, Industry, AWS Outposts, Services, Compute, Topic, IT Professional/Technical Manager, Role, Government, Industry, 300 - Advanced, Level, Tuesday, Day, MGM Grand, Venue, AWS Local Zones, Services, AWS Snow Family, Services, Business Executive, Role, IT Executive, Role, , speakers :firstName_0: Ramesh, lastName_0: Kumar, firstName_1: Siddhartha, lastName_1: Roy, , thirdpartyid :HYB306, sessionuid :16276DB3-D9F4-4025-9E98-338EFF58D294, title :Bringing AWS to remote edge locations, description :AWS experts dive deep on several use cases that demonstrate the ability to provide AWS wherever you need it—from the cloud to on-premises locations to the edge. These use cases include operating on factory floors, on oil and gas rigs, at mining sites, in hospitals, on moving vehicles, and more. In this session, learn about the AWS services that extend AWS, including AWS Snowball Edge, AWS Outposts, and AWS Local Zones, to support virtually any workload, almost anywhere in the world, including remote and edge locations., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 115, startdatetimeutc :November, 29 2023 00:00:00 -0500, enddatetimeutc :November, 29 2023 01:00:00 -0500, 
+enddatetimeutc: November, 29 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 00:00:00 -0500
+locationname: Grand 115
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: AWS experts dive deep on several use cases that demonstrate the ability to provide AWS wherever you need it—from the cloud to on-premises locations to the edge. These use cases include operating on factory floors, on oil and gas rigs, at mining sites, in hospitals, on moving vehicles, and more. In this session, learn about the AWS services that extend AWS, including AWS Snowball Edge, AWS Outposts, and AWS Local Zones, to support virtually any workload, almost anywhere in the world, including remote and edge locations
+title: Bringing AWS to remote edge locations
+sessionuid: 16276DB3-D9F4-4025-9E98-338EFF58D294
+thirdpartyid: HYB306
+speakers: firstName_0: Ramesh, lastName_0: Kumar, firstName_1: Siddhartha, lastName_1: Roy
+tag_name: Aerospace & Satellite, Industry, Hybrid Cloud, Topic, Telecommunications, Industry, AWS Outposts, Services, Compute, Topic, IT Professional/Technical Manager, Role, Government, Industry, 300 - Advanced, Level, Tuesday, Day, MGM Grand, Venue, AWS Local Zones, Services, AWS Snow Family, Services, Business Executive, Role, IT Executive, Role

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 228
+summary: tag_name :Internet of Things, Topic, Energy, Industry, Data Scientist, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, AWS Amplify, Services, AWS IoT SiteWise, Services, AWS IoT TwinMaker, Services, 300 - Advanced, Level, Front-End Web & Mobile, Area of Interest, Tuesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Cyril, lastName_0: Lagrange, firstName_1: Harun, lastName_1: Hasdal, , thirdpartyid :ENU303, sessionuid :2FCB1754-B8EE-41F2-AAD2-7F0BC83DAB1B, title :Bring AWS IoT SiteWise visualizations into web applications, description :<p>AWS IoT SiteWise Monitor allows you to build portals and dashboards for visualizing asset measurements on AWS IoT SiteWise. AWS IoT Application Kit is a development library for building industrial IoT web-based applications that helps retrieve data from AWS IoT SiteWise and AWS IoT TwinMaker and provides frontend components and utilities. In this workshop, build a React web application using AWS Amplify and use AWS IoT Application Kit components to connect to AWS IoT SiteWise to incorporate live visualizations of telemetry data into the application. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 228, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 03:00:00 -0500, 
+enddatetimeutc: November, 29 2023 03:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: Summit 228
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>AWS IoT SiteWise Monitor allows you to build portals and dashboards for visualizing asset measurements on AWS IoT SiteWise. AWS IoT Application Kit is a development library for building industrial IoT web-based applications that helps retrieve data from AWS IoT SiteWise and AWS IoT TwinMaker and provides frontend components and utilities. In this workshop, build a React web application using AWS Amplify and use AWS IoT Application Kit components to connect to AWS IoT SiteWise to incorporate live visualizations of telemetry data into the application. You must bring your laptop to participate.</p>
+title: Bring AWS IoT SiteWise visualizations into web applications
+sessionuid: 2FCB1754-B8EE-41F2-AAD2-7F0BC83DAB1B
+thirdpartyid: ENU303
+speakers: firstName_0: Cyril, lastName_0: Lagrange, firstName_1: Harun, lastName_1: Hasdal
+tag_name: Internet of Things, Topic, Energy, Industry, Data Scientist, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, AWS Amplify, Services, AWS IoT SiteWise, Services, AWS IoT TwinMaker, Services, 300 - Advanced, Level, Front-End Web & Mobile, Area of Interest, Tuesday, Day, Caesars Forum, Venue

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 304
+summary: tag_name :Storage, Topic, Amazon Elastic File System (EFS), Services, Games, Industry, Data Engineer, Role, Energy, Industry, Modernization, Area of Interest, 200 - Intermediate, Level, Thursday, Day, MGM Grand, Venue, Data Scientist, Role, SaaS, Area of Interest, Independent Software Vendor (ISV), Area of Interest, Developer/Engineer, Role, Cross Industry, Industry, , speakers :firstName_0: Louise, lastName_0: Ping, firstName_1: Delwin, lastName_1: Olivan, , thirdpartyid :STG223, sessionuid :F1C390E7-0258-48FE-BD1E-3CF804A7DAF5, title :Lower your TCO of storing data for large file datasets, description :When is the right time to optimize your performance profile, provision capacity, or manage data tiering? Are you concerned about achieving data availability, durability, and protection without adding management complexities? Join this chalk talk to explore how to unlock and maximize the value of your data on a massive scale with virtually bottomless file storage that’s readily available when you need it. Learn how Amazon EFS scales elastically and is highly scalable both in performance and storage capacity. Discover how to unlock and maximize the value of your data on a massive scale and keep your total cost of ownership low., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :304, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: 304
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: When is the right time to optimize your performance profile, provision capacity, or manage data tiering? Are you concerned about achieving data availability, durability, and protection without adding management complexities? Join this chalk talk to explore how to unlock and maximize the value of your data on a massive scale with virtually bottomless file storage that’s readily available when you need it. Learn how Amazon EFS scales elastically and is highly scalable both in performance and storage capacity. Discover how to unlock and maximize the value of your data on a massive scale and keep your total cost of ownership low
+title: Lower your TCO of storing data for large file datasets
+sessionuid: F1C390E7-0258-48FE-BD1E-3CF804A7DAF5
+thirdpartyid: STG223
+speakers: firstName_0: Louise, lastName_0: Ping, firstName_1: Delwin, lastName_1: Olivan
+tag_name: Storage, Topic, Amazon Elastic File System (EFS), Services, Games, Industry, Data Engineer, Role, Energy, Industry, Modernization, Area of Interest, 200 - Intermediate, Level, Thursday, Day, MGM Grand, Venue, Data Scientist, Role, SaaS, Area of Interest, Independent Software Vendor (ISV), Area of Interest, Developer/Engineer, Role, Cross Industry, Industry

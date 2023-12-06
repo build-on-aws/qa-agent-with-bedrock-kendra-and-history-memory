@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :400 - Expert, Level, Solution/Systems Architect, Role, AWS Identity and Access Management (IAM), Services, Wednesday, Day, Wynn, Venue, Architecture, Topic, Developer/Engineer, Role, SaaS, Area of Interest, , speakers :firstName_0: Toby, lastName_0: Buckley, firstName_1: Dhammika, lastName_1: Sriyananda, , thirdpartyid :SAS405-R, sessionuid :EE7DC603-6633-4C2A-86B4-94D4A1BDBBCF, title :Federating identity in multi-tenant SaaS environments [REPEAT], description :SaaS providers often need to support multiple authentication and authorization models, allowing tenants to access their system through internal and external identity sources. In this chalk talk, explore how you can build a federated multi-tenant identity experience that can be built in different combinations with Amazon Cognito, Auth0, Ping, Okta, and more. Dive deep into the implementation and architecture details, considering how the nuances of these different identity providers shape the onboarding, tenant context injection, and tenant user management lifecycle for your SaaS environment., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: SaaS providers often need to support multiple authentication and authorization models, allowing tenants to access their system through internal and external identity sources. In this chalk talk, explore how you can build a federated multi-tenant identity experience that can be built in different combinations with Amazon Cognito, Auth0, Ping, Okta, and more. Dive deep into the implementation and architecture details, considering how the nuances of these different identity providers shape the onboarding, tenant context injection, and tenant user management lifecycle for your SaaS environment
+title: Federating identity in multi-tenant SaaS environments [REPEAT]
+sessionuid: EE7DC603-6633-4C2A-86B4-94D4A1BDBBCF
+thirdpartyid: SAS405-R
+speakers: firstName_0: Toby, lastName_0: Buckley, firstName_1: Dhammika, lastName_1: Sriyananda
+tag_name: 400 - Expert, Level, Solution/Systems Architect, Role, AWS Identity and Access Management (IAM), Services, Wednesday, Day, Wynn, Venue, Architecture, Topic, Developer/Engineer, Role, SaaS, Area of Interest

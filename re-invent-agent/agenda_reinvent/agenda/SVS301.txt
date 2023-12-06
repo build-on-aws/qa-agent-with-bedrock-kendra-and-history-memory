@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 115
+summary: tag_name :300 - Advanced, Level, Amazon API Gateway, Services, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Tuesday, Day, MGM Grand, Venue, Serverless Compute, Topic, AWS Lambda, Services, Developer/Engineer, Role, , speakers :firstName_0: Josh, lastName_0: Kahn, firstName_1: Arthi, lastName_1: Jaganathan, , thirdpartyid :SVS301, sessionuid :EDDEE519-7A54-43B1-9DDB-416CC1D68355, title :Building APIs: Choosing the best API solution & strategy for workloads, description :Developers are building large-scale distributed applications that communicate between each other and clients via REST, GraphQL, WebSockets, and other means. Building effective APIs includes both a strategy and a means to communicate developer-level API details. In this session, learn about access patterns and how to evaluate the best API technology for your applications. The session considers the features and benefits of Amazon API Gateway, AWS AppSync, Amazon VPC Lattice, and other options. Also find out more about API design and management strategies that can be applied to the API ecosystem., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 115, startdatetimeutc :November, 28 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 22:00:00 -0500, 
+enddatetimeutc: November, 28 2023 22:00:00 -0500
+startdatetimeutc: November, 28 2023 21:00:00 -0500
+locationname: Grand 115
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Developers are building large-scale distributed applications that communicate between each other and clients via REST, GraphQL, WebSockets, and other means. Building effective APIs includes both a strategy and a means to communicate developer-level API details. In this session, learn about access patterns and how to evaluate the best API technology for your applications. The session considers the features and benefits of Amazon API Gateway, AWS AppSync, Amazon VPC Lattice, and other options. Also find out more about API design and management strategies that can be applied to the API ecosystem
+title: Building APIs: Choosing the best API solution & strategy for workloads
+sessionuid: EDDEE519-7A54-43B1-9DDB-416CC1D68355
+thirdpartyid: SVS301
+speakers: firstName_0: Josh, lastName_0: Kahn, firstName_1: Arthi, lastName_1: Jaganathan
+tag_name: 300 - Advanced, Level, Amazon API Gateway, Services, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Tuesday, Day, MGM Grand, Venue, Serverless Compute, Topic, AWS Lambda, Services, Developer/Engineer, Role

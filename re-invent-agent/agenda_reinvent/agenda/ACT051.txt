@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1280
+summary: tag_name :Wednesday, Day, Venetian, Venue, PeerTalks, Additional Services, Inclusion & Diversity, Area of Interest, , speakers :, thirdpartyid :ACT051, sessionuid :D4378AC8-8D9A-4DA2-92A1-137FE9E0181D, title :Military community fireside chat and meetup, description :Career growth within the military community (veterans, transitioning service members, and military spouses) presents a unique set of challenges and opportunities. Join leaders from Warriors at Amazon, AWS Military Hiring, and the AWS Military Spouse Solutions Architect Apprenticeship program to explore the experiences, strategies, and resources available to amplify the professional development of the military community in tech. Following this fireside chat, network and find community with fellow re:Invent attendees during our military community meetup., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1280, startdatetimeutc :November, 29 2023 19:00:00 -0500, enddatetimeutc :November, 29 2023 20:00:00 -0500, 
+enddatetimeutc: November, 29 2023 20:00:00 -0500
+startdatetimeutc: November, 29 2023 19:00:00 -0500
+locationname: Hall B, Expo, Booth #1280
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Career growth within the military community (veterans, transitioning service members, and military spouses) presents a unique set of challenges and opportunities. Join leaders from Warriors at Amazon, AWS Military Hiring, and the AWS Military Spouse Solutions Architect Apprenticeship program to explore the experiences, strategies, and resources available to amplify the professional development of the military community in tech. Following this fireside chat, network and find community with fellow re:Invent attendees during our military community meetup
+title: Military community fireside chat and meetup
+sessionuid: D4378AC8-8D9A-4DA2-92A1-137FE9E0181D
+thirdpartyid: ACT051
+speakers: 
+tag_name: Wednesday, Day, Venetian, Venue, PeerTalks, Additional Services, Inclusion & Diversity, Area of Interest

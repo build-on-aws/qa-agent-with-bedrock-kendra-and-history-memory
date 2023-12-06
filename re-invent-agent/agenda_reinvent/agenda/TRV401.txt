@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 306
+summary: tag_name :Data Scientist, Role, Amazon Bedrock, Services, Solution/Systems Architect, Role, Generative AI, Area of Interest, Travel & Hospitality, Industry, Business Applications, Topic, Amazon SageMaker, Services, 400 - Expert, Level, Developer/Engineer, Role, Tuesday, Day, MGM Grand, Venue, AI/ML, Topic, Business Intelligence, Area of Interest, , speakers :firstName_0: Ronan, lastName_0: Prenty, firstName_1: Paul, lastName_1: Armstrong, , thirdpartyid :TRV401-R, sessionuid :E8659DFF-A94A-4690-B69D-785651050A06, title :Increase search-to-booking conversions with generative AI [REPEAT], description :<p>Travelers and guests increasingly expect experiences that are personalized and interactive across the travel journey—from planning to booking and experiencing. In this chalk talk, learn how to use generative AI through AWS hosted foundation models to generate high-quality, brand-specific content to increase direct site traffic and reduce dependencies on third parties. Also, find out how to increase conversions by streamlining content creation and improving quality with Amazon SageMaker JumpStart and Amazon Bedrock.</p>, sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :306, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 23:00:00 -0500, 
+enddatetimeutc: November, 28 2023 23:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: 306
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: <p>Travelers and guests increasingly expect experiences that are personalized and interactive across the travel journey—from planning to booking and experiencing. In this chalk talk, learn how to use generative AI through AWS hosted foundation models to generate high-quality, brand-specific content to increase direct site traffic and reduce dependencies on third parties. Also, find out how to increase conversions by streamlining content creation and improving quality with Amazon SageMaker JumpStart and Amazon Bedrock.</p>
+title: Increase search-to-booking conversions with generative AI [REPEAT]
+sessionuid: E8659DFF-A94A-4690-B69D-785651050A06
+thirdpartyid: TRV401-R
+speakers: firstName_0: Ronan, lastName_0: Prenty, firstName_1: Paul, lastName_1: Armstrong
+tag_name: Data Scientist, Role, Amazon Bedrock, Services, Solution/Systems Architect, Role, Generative AI, Area of Interest, Travel & Hospitality, Industry, Business Applications, Topic, Amazon SageMaker, Services, 400 - Expert, Level, Developer/Engineer, Role, Tuesday, Day, MGM Grand, Venue, AI/ML, Topic, Business Intelligence, Area of Interest

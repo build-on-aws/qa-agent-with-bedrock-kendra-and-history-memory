@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 108
+summary: tag_name :DevOps Engineer, Role, System Administrator, Role, Management & Governance, Area of Interest, 200 - Intermediate, Level, Amazon Managed Grafana, Services, Amazon CloudWatch, Services, Monday, Day, Caesars Forum, Venue, Monitoring & Observability, Area of Interest, Cloud Operations, Topic, Solution/Systems Architect, Role, Amazon Managed Service for Prometheus, Services, , speakers :firstName_0: Garrett, lastName_0: Johnson, firstName_1: Kiran, lastName_1: Prakash, , thirdpartyid :COP208, sessionuid :41C29659-4DED-4A30-B117-FD1904F23486, title :Maturing the observability of your organization, description :<p>An observability maturity model serves as a roadmap for organizations to assess their current state and seek ways to improve their ability to understand, analyze, and respond to the behavior of workloads and infrastructure. This chalk talk outlines the key capabilities and practices that organizations need to develop in order to progress their observability maturity, ultimately reaching a state where they can fully leverage the benefits of proactive observability.</p>, sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 108, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 01:30:00 -0500, 
+enddatetimeutc: November, 28 2023 01:30:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: Forum 108
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: <p>An observability maturity model serves as a roadmap for organizations to assess their current state and seek ways to improve their ability to understand, analyze, and respond to the behavior of workloads and infrastructure. This chalk talk outlines the key capabilities and practices that organizations need to develop in order to progress their observability maturity, ultimately reaching a state where they can fully leverage the benefits of proactive observability.</p>
+title: Maturing the observability of your organization
+sessionuid: 41C29659-4DED-4A30-B117-FD1904F23486
+thirdpartyid: COP208
+speakers: firstName_0: Garrett, lastName_0: Johnson, firstName_1: Kiran, lastName_1: Prakash
+tag_name: DevOps Engineer, Role, System Administrator, Role, Management & Governance, Area of Interest, 200 - Intermediate, Level, Amazon Managed Grafana, Services, Amazon CloudWatch, Services, Monday, Day, Caesars Forum, Venue, Monitoring & Observability, Area of Interest, Cloud Operations, Topic, Solution/Systems Architect, Role, Amazon Managed Service for Prometheus, Services

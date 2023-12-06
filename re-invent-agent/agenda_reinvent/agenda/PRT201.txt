@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :200 - Intermediate, Level, Innovation on AWS, Area of Interest, Venetian, Venue, Tuesday, Day, Cost Optimization, Area of Interest, Solution/Systems Architect, Role, DevOps Engineer, Role, IT Professional/Technical Manager, Role, , speakers :firstName_0: David, lastName_0: Wharton, company_0: CDW, , thirdpartyid :PRT201-S, sessionuid :1285FD86-6E8E-4A71-A742-0C6A948DC86D, title :FinOps on AWS: Accelerated outcomes to maximize ROI (sponsored by CDW), description :This lightning talk focuses on ways you can drive transparency, optimize workloads, and promote cost awareness for your stakeholders. This presentation is brought to you by CDW, an AWS Partner., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: This lightning talk focuses on ways you can drive transparency, optimize workloads, and promote cost awareness for your stakeholders. This presentation is brought to you by CDW, an AWS Partner
+title: FinOps on AWS: Accelerated outcomes to maximize ROI (sponsored by CDW)
+sessionuid: 1285FD86-6E8E-4A71-A742-0C6A948DC86D
+thirdpartyid: PRT201-S
+speakers: firstName_0: David, lastName_0: Wharton, company_0: CDW
+tag_name: 200 - Intermediate, Level, Innovation on AWS, Area of Interest, Venetian, Venue, Tuesday, Day, Cost Optimization, Area of Interest, Solution/Systems Architect, Role, DevOps Engineer, Role, IT Professional/Technical Manager, Role

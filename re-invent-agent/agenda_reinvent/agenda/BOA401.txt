@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :Analytics, Topic, BuildOn.AWS, Area of Interest, 400 - Expert, Level, AI/ML, Topic, Generative AI, Area of Interest, Wednesday, Day, Wynn, Venue, , speakers :firstName_0: Subham, lastName_0: Rakshit, firstName_1: Deepthi, lastName_1: Mohan, , thirdpartyid :BOA401-R, sessionuid :18F355B5-DAC0-4BBD-9186-AB9D8D4F1773, title :Speed up data predictions with real-time inference at scale [REPEAT], description :In the race to digitally transform, companies face the challenge of garnering value from an enormous volume of generated data. It is crucial to analyze, learn, and make predictions from your data in a timely manner because the value of data diminishes over time. In this chalk talk, dive into event-driven architecture and see how you can use machine learning inference with streaming data to detect patterns and anomalies to realize a faster path to decisions from your data., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: In the race to digitally transform, companies face the challenge of garnering value from an enormous volume of generated data. It is crucial to analyze, learn, and make predictions from your data in a timely manner because the value of data diminishes over time. In this chalk talk, dive into event-driven architecture and see how you can use machine learning inference with streaming data to detect patterns and anomalies to realize a faster path to decisions from your data
+title: Speed up data predictions with real-time inference at scale [REPEAT]
+sessionuid: 18F355B5-DAC0-4BBD-9186-AB9D8D4F1773
+thirdpartyid: BOA401-R
+speakers: firstName_0: Subham, lastName_0: Rakshit, firstName_1: Deepthi, lastName_1: Mohan
+tag_name: Analytics, Topic, BuildOn.AWS, Area of Interest, 400 - Expert, Level, AI/ML, Topic, Generative AI, Area of Interest, Wednesday, Day, Wynn, Venue

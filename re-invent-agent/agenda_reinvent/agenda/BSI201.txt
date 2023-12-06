@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Oceanside A
+summary: tag_name :Developer/Engineer, Role, Student, Role, Cross Industry, Industry, Amazon QuickSight, Services, IT Professional/Technical Manager, Role, Monday, Day, Mandalay Bay, Venue, Analytics, Topic, 200 - Intermediate, Level, Business Intelligence, Area of Interest, , speakers :firstName_0: Ashok, lastName_0: Dasineni, firstName_1: Karthik, lastName_1: Tharmarajan, , thirdpartyid :BSI201-R, sessionuid :4247FFB8-8B88-4389-84E7-C40239B9FB0A, title :Build dashboards, reports & explore generative BI in Amazon QuickSight [REPEAT], description :<p>Discover how Amazon QuickSight can help you visualize data insights faster. In this workshop, learn how to build beautiful dashboards and paginated reports using the latest authoring capabilities in QuickSight including generative BI. Discover how you can distribute insights in various formats to your users across the organization. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Oceanside A, startdatetimeutc :November, 27 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 22:00:00 -0500
+locationname: Oceanside A
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: <p>Discover how Amazon QuickSight can help you visualize data insights faster. In this workshop, learn how to build beautiful dashboards and paginated reports using the latest authoring capabilities in QuickSight including generative BI. Discover how you can distribute insights in various formats to your users across the organization. You must bring your laptop to participate.</p>
+title: Build dashboards, reports & explore generative BI in Amazon QuickSight [REPEAT]
+sessionuid: 4247FFB8-8B88-4389-84E7-C40239B9FB0A
+thirdpartyid: BSI201-R
+speakers: firstName_0: Ashok, lastName_0: Dasineni, firstName_1: Karthik, lastName_1: Tharmarajan
+tag_name: Developer/Engineer, Role, Student, Role, Cross Industry, Industry, Amazon QuickSight, Services, IT Professional/Technical Manager, Role, Monday, Day, Mandalay Bay, Venue, Analytics, Topic, 200 - Intermediate, Level, Business Intelligence, Area of Interest

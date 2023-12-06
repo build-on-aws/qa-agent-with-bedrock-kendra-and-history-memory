@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 407
+summary: tag_name :200 - Intermediate, Level, Cross Industry, Industry, Generative AI, Area of Interest, Government, Industry, AI/ML, Topic, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Aaron, lastName_0: Sengstacken, firstName_1: John, lastName_1: Trollinger, , thirdpartyid :WPS206, sessionuid :F1CD30F9-5962-47ED-99DC-0F158BF7768A, title :A new era: The path to generative AI in public sector, description :The advancement of generative AI is making all of us think: What's possible? Within seconds, you can generate new images, text, or audio. The role of generative AI is rapidly evolving in the public sector, reshaping our vision of the society of the future. In this session, dig into what's possible and what generative AI means for the public sector, and debunk some myths and misconceptions. Explore real-world AWS use cases to help you take the next step on a practical path forward in this new era of technology., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 407, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 21:00:00 -0500, 
+enddatetimeutc: November, 29 2023 21:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Academy 407
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: The advancement of generative AI is making all of us think: What's possible? Within seconds, you can generate new images, text, or audio. The role of generative AI is rapidly evolving in the public sector, reshaping our vision of the society of the future. In this session, dig into what's possible and what generative AI means for the public sector, and debunk some myths and misconceptions. Explore real-world AWS use cases to help you take the next step on a practical path forward in this new era of technology
+title: A new era: The path to generative AI in public sector
+sessionuid: F1CD30F9-5962-47ED-99DC-0F158BF7768A
+thirdpartyid: WPS206
+speakers: firstName_0: Aaron, lastName_0: Sengstacken, firstName_1: John, lastName_1: Trollinger
+tag_name: 200 - Intermediate, Level, Cross Industry, Industry, Generative AI, Area of Interest, Government, Industry, AI/ML, Topic, Wednesday, Day, Caesars Forum, Venue

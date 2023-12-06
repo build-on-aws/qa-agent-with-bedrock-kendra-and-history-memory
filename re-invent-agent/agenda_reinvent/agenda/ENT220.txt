@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 364
+summary: tag_name :AWS Migration Hub, Services, 200 - Intermediate, Level, Enterprise & Migration, Topic, IT Professional/Technical Manager, Role, Cross Industry, Industry, IT Executive, Role, Tuesday, Day, MGM Grand, Venue, Business Executive, Role, Migration Evaluator, Services, Migration & Transfer, Area of Interest, AWS Application Migration Service, Services, , speakers :firstName_0: Faraz, lastName_0: Shafiq, firstName_1: Sanjeev, lastName_1: Lakshmanan, company_1: Salesforce, , thirdpartyid :ENT220, sessionuid :52711A90-50ED-4760-AB56-24430C2734A1, title :AWS MAP: A proven methodology for cloud migration and modernization, description :AWS has helped hundreds of thousands of businesses, big and small, migrate and modernize their digital operations through the flagship AWS Migration Acceleration Program (MAP). In this session, Faraz Shafiq, AWS Global Head of Product Management for Enterprise Modernization, shares what makes MAP so successful—specifically, how it’s designed to support businesses not only as they migrate to AWS but beyond, as they embrace new technologies, modernize digital operations, and look toward the future., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 364, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Chairmans 364
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: AWS has helped hundreds of thousands of businesses, big and small, migrate and modernize their digital operations through the flagship AWS Migration Acceleration Program (MAP). In this session, Faraz Shafiq, AWS Global Head of Product Management for Enterprise Modernization, shares what makes MAP so successful—specifically, how it’s designed to support businesses not only as they migrate to AWS but beyond, as they embrace new technologies, modernize digital operations, and look toward the future
+title: AWS MAP: A proven methodology for cloud migration and modernization
+sessionuid: 52711A90-50ED-4760-AB56-24430C2734A1
+thirdpartyid: ENT220
+speakers: firstName_0: Faraz, lastName_0: Shafiq, firstName_1: Sanjeev, lastName_1: Lakshmanan, company_1: Salesforce
+tag_name: AWS Migration Hub, Services, 200 - Intermediate, Level, Enterprise & Migration, Topic, IT Professional/Technical Manager, Role, Cross Industry, Industry, IT Executive, Role, Tuesday, Day, MGM Grand, Venue, Business Executive, Role, Migration Evaluator, Services, Migration & Transfer, Area of Interest, AWS Application Migration Service, Services

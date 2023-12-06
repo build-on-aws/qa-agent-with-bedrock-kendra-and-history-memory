@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 108
+summary: tag_name :AI/ML, Topic, Automotive, Industry, 300 - Advanced, Level, Data Engineer, Role, Data Scientist, Role, Amazon Bedrock, Services, Caesars Forum, Venue, Tuesday, Day, , speakers :firstName_0: Kumar, lastName_0: Chellapilla, firstName_1: Milena, lastName_1: Boytchef, , thirdpartyid :AUT302-R, sessionuid :2CA6129C-42A6-4194-834A-ABD612956A70, title :Gen AI and NLP-based scene search in automated driving development [REPEAT], description :<p>One of the biggest challenges in automated driving feature development is searching through petabytes of data to identify the relevant scenes for training and testing. In this chalk talk, learn how generative AI can help accelerate scene selection, identifying the rare events and semantically similar scenes that can be used in downstream tasks, such as ML training, testing, and validation.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 108, startdatetimeutc :November, 29 2023 00:00:00 -0500, enddatetimeutc :November, 29 2023 01:00:00 -0500, 
+enddatetimeutc: November, 29 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 00:00:00 -0500
+locationname: Forum 108
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>One of the biggest challenges in automated driving feature development is searching through petabytes of data to identify the relevant scenes for training and testing. In this chalk talk, learn how generative AI can help accelerate scene selection, identifying the rare events and semantically similar scenes that can be used in downstream tasks, such as ML training, testing, and validation.</p>
+title: Gen AI and NLP-based scene search in automated driving development [REPEAT]
+sessionuid: 2CA6129C-42A6-4194-834A-ABD612956A70
+thirdpartyid: AUT302-R
+speakers: firstName_0: Kumar, lastName_0: Chellapilla, firstName_1: Milena, lastName_1: Boytchef
+tag_name: AI/ML, Topic, Automotive, Industry, 300 - Advanced, Level, Data Engineer, Role, Data Scientist, Role, Amazon Bedrock, Services, Caesars Forum, Venue, Tuesday, Day

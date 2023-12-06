@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :AWS Lambda, Services, Amazon Simple Storage Service (S3), Services, Developer/Engineer, Role, Cost Optimization, Area of Interest, Solution/Systems Architect, Role, Serverless Compute, Topic, Social Impact, Area of Interest, Thursday, Day, Venetian, Venue, 200 - Intermediate, Level, Cross Industry, Industry, Amazon API Gateway, Services, IT Professional/Technical Manager, Role, , speakers :firstName_0: Ivo, lastName_0: Janssen, , thirdpartyid :IMP212, sessionuid :242139DC-4669-4BFC-B12E-2D4B4043AE83, title :Optimize costs by going serverless, description :Nonprofit organizations often default to using Amazon EC2 instances to implement event-triggered workloads. In this session, learn about common patterns where it makes sense to move your Amazon EC2 workload to serverless solutions such as Amazon S3 and AWS Lambda. Discover how a serverless solution can be built and how changing to a per-event billing model can help lower costs. Learn when serverless models make sense, how a different billing model can be cost-effective, and about resources to get you started on optimizing your workload., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 19:20:00 -0500, 
+enddatetimeutc: November, 30 2023 19:20:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Nonprofit organizations often default to using Amazon EC2 instances to implement event-triggered workloads. In this session, learn about common patterns where it makes sense to move your Amazon EC2 workload to serverless solutions such as Amazon S3 and AWS Lambda. Discover how a serverless solution can be built and how changing to a per-event billing model can help lower costs. Learn when serverless models make sense, how a different billing model can be cost-effective, and about resources to get you started on optimizing your workload
+title: Optimize costs by going serverless
+sessionuid: 242139DC-4669-4BFC-B12E-2D4B4043AE83
+thirdpartyid: IMP212
+speakers: firstName_0: Ivo, lastName_0: Janssen
+tag_name: AWS Lambda, Services, Amazon Simple Storage Service (S3), Services, Developer/Engineer, Role, Cost Optimization, Area of Interest, Solution/Systems Architect, Role, Serverless Compute, Topic, Social Impact, Area of Interest, Thursday, Day, Venetian, Venue, 200 - Intermediate, Level, Cross Industry, Industry, Amazon API Gateway, Services, IT Professional/Technical Manager, Role

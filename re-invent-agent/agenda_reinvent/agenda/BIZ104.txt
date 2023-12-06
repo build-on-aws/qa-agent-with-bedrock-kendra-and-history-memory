@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas F
+summary: tag_name :Advisor/Consultant, Role, Business Applications, Topic, Solution/Systems Architect, Role, Consumer Packaged Goods, Industry, Strategy & Transformation, Area of Interest, Manufacturing & Industrial, Industry, Customer Stories, Area of Interest, AWS Supply Chain, Services, Business Executive, Role, 100 - Foundational, Level, Monday, Day, Mandalay Bay, Venue, Cost Optimization, Area of Interest, Cross Industry, Industry, , speakers :firstName_0: Tariq, lastName_0: Choudry, firstName_1: Robert, lastName_1: Barrios, company_1: EJ Gallo, , thirdpartyid :BIZ104, sessionuid :990FECAA-DD64-458C-80A5-E984EA23D67B, title :AWS Supply Chain reduces demand planning latency to increase accuracy, description :<p>AWS Supply Chain Demand Planning uses machine learning to analyze historical and real-time sales and purchase order data to create adaptive forecast models. These models are continuously learning and adjust forecasts according to market conditions and changing demand patterns. In this session, discover how this automation can help you minimize manual efforts, accelerate the planning process, eliminate inaccuracies, and improve forecast accuracy.</p>, sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas F, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 01:00:00 -0500, 
+enddatetimeutc: November, 28 2023 01:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: South Seas F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: <p>AWS Supply Chain Demand Planning uses machine learning to analyze historical and real-time sales and purchase order data to create adaptive forecast models. These models are continuously learning and adjust forecasts according to market conditions and changing demand patterns. In this session, discover how this automation can help you minimize manual efforts, accelerate the planning process, eliminate inaccuracies, and improve forecast accuracy.</p>
+title: AWS Supply Chain reduces demand planning latency to increase accuracy
+sessionuid: 990FECAA-DD64-458C-80A5-E984EA23D67B
+thirdpartyid: BIZ104
+speakers: firstName_0: Tariq, lastName_0: Choudry, firstName_1: Robert, lastName_1: Barrios, company_1: EJ Gallo
+tag_name: Advisor/Consultant, Role, Business Applications, Topic, Solution/Systems Architect, Role, Consumer Packaged Goods, Industry, Strategy & Transformation, Area of Interest, Manufacturing & Industrial, Industry, Customer Stories, Area of Interest, AWS Supply Chain, Services, Business Executive, Role, 100 - Foundational, Level, Monday, Day, Mandalay Bay, Venue, Cost Optimization, Area of Interest, Cross Industry, Industry

@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :200 - Intermediate, Level, DevOps and Developer Productivity, Topic, Cross Industry, Industry, DevOps Engineer, Role, Compute, Topic, Solution/Systems Architect, Role, Venetian, Venue, Wednesday, Day, Innovation on AWS, Area of Interest, IT Professional/Technical Manager, Role, Data Engineer, Role, System Administrator, Role, IT Administrator, Role, Developer/Engineer, Role, , speakers :, thirdpartyid :DOP216-S, sessionuid :208156CA-F622-4F06-B893-FC252A5DD5A1, title :High availability with CloudBees CI on AWS Graviton3 and Amazon EKS (sponsored by CloudBees), description :This lightning talk provides an overview of the new high availability and horizontal scaling capabilities of a CloudBees CI environment running in an Amazon EKS cluster. These new capabilities enable a single controller to distribute its workload across multiple replicas, reducing the performance constraint on the system through full horizontal scalability. Furthermore, this talk demonstrates how you can achieve better compute performance at scale for CI/CD workloads running on CloudBees CI using Arm-based AWS Graviton3 processors as a foundation. This presentation is brought to you by CloudBees, an AWS Partner., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: This lightning talk provides an overview of the new high availability and horizontal scaling capabilities of a CloudBees CI environment running in an Amazon EKS cluster. These new capabilities enable a single controller to distribute its workload across multiple replicas, reducing the performance constraint on the system through full horizontal scalability. Furthermore, this talk demonstrates how you can achieve better compute performance at scale for CI/CD workloads running on CloudBees CI using Arm-based AWS Graviton3 processors as a foundation. This presentation is brought to you by CloudBees, an AWS Partner
+title: High availability with CloudBees CI on AWS Graviton3 and Amazon EKS (sponsored by CloudBees)
+sessionuid: 208156CA-F622-4F06-B893-FC252A5DD5A1
+thirdpartyid: DOP216-S
+speakers: 
+tag_name: 200 - Intermediate, Level, DevOps and Developer Productivity, Topic, Cross Industry, Industry, DevOps Engineer, Role, Compute, Topic, Solution/Systems Architect, Role, Venetian, Venue, Wednesday, Day, Innovation on AWS, Area of Interest, IT Professional/Technical Manager, Role, Data Engineer, Role, System Administrator, Role, IT Administrator, Role, Developer/Engineer, Role

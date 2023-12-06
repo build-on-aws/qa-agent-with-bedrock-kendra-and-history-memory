@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Surf D
+summary: tag_name :Solution/Systems Architect, Role, Amazon SageMaker, Services, Education, Industry, 200 - Intermediate, Level, AI/ML, Topic, Innovation on AWS, Area of Interest, Financial Services, Industry, Workforce Development, Area of Interest, Monday, Day, Mandalay Bay, Venue, AWS Community, Area of Interest, Developer/Engineer, Role, IT Professional/Technical Manager, Role, , speakers :firstName_0: Mia, lastName_0: Chang, firstName_1: Michele, lastName_1: Monclova, firstName_2: Roman, lastName_2: Tejada, firstName_3: Ram, lastName_3: Vegiraju, firstName_4: Ioan, lastName_4: CATANA, , thirdpartyid :AIM219-R, sessionuid :E089CD23-B1AB-4FFC-A095-6229C0C92AFD, title :Learn and experiment with LLMs in Amazon SageMaker Studio Lab [REPEAT], description :<p>Machine learning can sound complicated, but Amazon SageMaker Studio Lab makes it easier for anyone to get started at no cost. In this hands-on builders’ session, be guided through the basics of experimenting with large language models (LLMs) in Amazon SageMaker Studio Lab. No prior machine learning experience is required. You must bring your laptop to participate.</p>, sessiontype :Builders' Session, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Surf D, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 01:00:00 -0500, 
+enddatetimeutc: November, 28 2023 01:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: Surf D
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Builders' Session
+description: <p>Machine learning can sound complicated, but Amazon SageMaker Studio Lab makes it easier for anyone to get started at no cost. In this hands-on builders’ session, be guided through the basics of experimenting with large language models (LLMs) in Amazon SageMaker Studio Lab. No prior machine learning experience is required. You must bring your laptop to participate.</p>
+title: Learn and experiment with LLMs in Amazon SageMaker Studio Lab [REPEAT]
+sessionuid: E089CD23-B1AB-4FFC-A095-6229C0C92AFD
+thirdpartyid: AIM219-R
+speakers: firstName_0: Mia, lastName_0: Chang, firstName_1: Michele, lastName_1: Monclova, firstName_2: Roman, lastName_2: Tejada, firstName_3: Ram, lastName_3: Vegiraju, firstName_4: Ioan, lastName_4: CATANA
+tag_name: Solution/Systems Architect, Role, Amazon SageMaker, Services, Education, Industry, 200 - Intermediate, Level, AI/ML, Topic, Innovation on AWS, Area of Interest, Financial Services, Industry, Workforce Development, Area of Interest, Monday, Day, Mandalay Bay, Venue, AWS Community, Area of Interest, Developer/Engineer, Role, IT Professional/Technical Manager, Role

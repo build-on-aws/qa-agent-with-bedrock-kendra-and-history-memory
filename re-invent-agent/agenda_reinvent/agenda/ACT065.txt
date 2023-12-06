@@ -1,0 +1,14 @@
+location: Wynn, Lower Convention Promenade, Registration Desk 4
+summary: tag_name :Wynn, Venue, Wednesday, Day, Meals & Conference Services, Additional Services, , speakers :, thirdpartyid :ACT065, sessionuid :363F704F-63E7-4512-B986-4469AA9E0962, title :Lactation room, description :<p>The lactation room provides parents with a private, secure space to express breastmilk for their nursing child. The room is equipped with lockers, a refrigerator, a microwave, disposable cold packs and wipes, and a comfortable space to pump. Reservations for the duration of the conference can be made at the check-in desk outside the room.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Lower Convention Promenade, locationname :Registration Desk 4, startdatetimeutc :November, 29 2023 16:00:00 -0500, enddatetimeutc :November, 30 2023 04:30:00 -0500, 
+enddatetimeutc: November, 30 2023 04:30:00 -0500
+startdatetimeutc: November, 29 2023 16:00:00 -0500
+locationname: Registration Desk 4
+floorplanname: Lower Convention Promenade
+venuename: Wynn
+sessiontype: standard
+description: <p>The lactation room provides parents with a private, secure space to express breastmilk for their nursing child. The room is equipped with lockers, a refrigerator, a microwave, disposable cold packs and wipes, and a comfortable space to pump. Reservations for the duration of the conference can be made at the check-in desk outside the room.</p>
+title: Lactation room
+sessionuid: 363F704F-63E7-4512-B986-4469AA9E0962
+thirdpartyid: ACT065
+speakers: 
+tag_name: Wynn, Venue, Wednesday, Day, Meals & Conference Services, Additional Services

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 216
+summary: tag_name :AWS CloudFormation, Services, Developer/Engineer, Role, Monday, Day, Caesars Forum, Venue, DevOps and Developer Productivity, Topic, 300 - Advanced, Level, , speakers :firstName_0: Dan, lastName_0: Blanco, firstName_1: Matteo, lastName_1: Rinaudo, , thirdpartyid :DOP305, sessionuid :C67F4690-CD72-4C49-9063-0EF2EE23E2C1, title :Develop AWS CloudFormation templates to manage your infrastructure, description :In this workshop, learn how to develop and test AWS CloudFormation templates. Create CloudFormation templates to deploy and manage resources and learn about CloudFormation language features that allow you to reuse and extend templates for many scenarios. Explore testing tools that can help you validate your CloudFormation templates, including cfn-lint and CloudFormation Guard. You must bring your laptop to participate., sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 216, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 21:30:00 -0500, 
+enddatetimeutc: November, 27 2023 21:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Summit 216
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: In this workshop, learn how to develop and test AWS CloudFormation templates. Create CloudFormation templates to deploy and manage resources and learn about CloudFormation language features that allow you to reuse and extend templates for many scenarios. Explore testing tools that can help you validate your CloudFormation templates, including cfn-lint and CloudFormation Guard. You must bring your laptop to participate
+title: Develop AWS CloudFormation templates to manage your infrastructure
+sessionuid: C67F4690-CD72-4C49-9063-0EF2EE23E2C1
+thirdpartyid: DOP305
+speakers: firstName_0: Dan, lastName_0: Blanco, firstName_1: Matteo, lastName_1: Rinaudo
+tag_name: AWS CloudFormation, Services, Developer/Engineer, Role, Monday, Day, Caesars Forum, Venue, DevOps and Developer Productivity, Topic, 300 - Advanced, Level

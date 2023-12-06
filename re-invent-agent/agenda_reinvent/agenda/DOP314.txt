@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :DevOps and Developer Productivity, Topic, Well-Architected Framework, Area of Interest, DevOps Engineer, Role, 300 - Advanced, Level, Wednesday, Day, Mandalay Bay, Venue, AWS Cloud Development Kit (CDK), Services, Developer/Engineer, Role, , speakers :firstName_0: Andy, lastName_0: Taylor, firstName_1: Will, lastName_1: Matos, , thirdpartyid :DOP314, sessionuid :3B5BE8DE-1E3D-4BCE-89C7-43E9015BA995, title :Simplifying cloud infrastructure creation with the AWS CDK, description :The AWS Cloud Development Kit (AWS CDK) is an open source software development framework for defining cloud infrastructure in code and provisioning it through AWS CloudFormation. In this chalk talk, get an introduction to the AWS CDK and see a demo of how it can simplify infrastructure creation. Through code examples and diagrams, see how the AWS CDK lets you use familiar programming languages for declarative infrastructure definition. Also learn how it provides higher-level abstractions and constructs over native CloudFormation., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: The AWS Cloud Development Kit (AWS CDK) is an open source software development framework for defining cloud infrastructure in code and provisioning it through AWS CloudFormation. In this chalk talk, get an introduction to the AWS CDK and see a demo of how it can simplify infrastructure creation. Through code examples and diagrams, see how the AWS CDK lets you use familiar programming languages for declarative infrastructure definition. Also learn how it provides higher-level abstractions and constructs over native CloudFormation
+title: Simplifying cloud infrastructure creation with the AWS CDK
+sessionuid: 3B5BE8DE-1E3D-4BCE-89C7-43E9015BA995
+thirdpartyid: DOP314
+speakers: firstName_0: Andy, lastName_0: Taylor, firstName_1: Will, lastName_1: Matos
+tag_name: DevOps and Developer Productivity, Topic, Well-Architected Framework, Area of Interest, DevOps Engineer, Role, 300 - Advanced, Level, Wednesday, Day, Mandalay Bay, Venue, AWS Cloud Development Kit (CDK), Services, Developer/Engineer, Role

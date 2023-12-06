@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Sports, Industry, 200 - Intermediate, Level, Press/Media Analyst, Role, Front-End Web & Mobile, Area of Interest, Business Executive, Role, Customer Stories, Area of Interest, Customer Enablement, Topic, Tuesday, Day, Venetian, Venue, Strategy & Transformation, Area of Interest, Sales/Marketing, Role, Media & Entertainment, Industry, Networking & Content Delivery, Topic, , speakers :firstName_0: Jason, lastName_0: Dvorkin, , thirdpartyid :SPT206, sessionuid :338F1841-FEF7-4D5D-8B89-1BF9F5D8DF68, title :How the PGA Tour works with AWS to enhance fan engagement, description :Join this lightning talk for a fireside chat with Scott Gutterman, SVP of Digital Operations for the PGA Tour, as we discuss the PGA Tour’s use of AWS technologies to revolutionize the fan experience., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Join this lightning talk for a fireside chat with Scott Gutterman, SVP of Digital Operations for the PGA Tour, as we discuss the PGA Tour’s use of AWS technologies to revolutionize the fan experience
+title: How the PGA Tour works with AWS to enhance fan engagement
+sessionuid: 338F1841-FEF7-4D5D-8B89-1BF9F5D8DF68
+thirdpartyid: SPT206
+speakers: firstName_0: Jason, lastName_0: Dvorkin
+tag_name: Sports, Industry, 200 - Intermediate, Level, Press/Media Analyst, Role, Front-End Web & Mobile, Area of Interest, Business Executive, Role, Customer Stories, Area of Interest, Customer Enablement, Topic, Tuesday, Day, Venetian, Venue, Strategy & Transformation, Area of Interest, Sales/Marketing, Role, Media & Entertainment, Industry, Networking & Content Delivery, Topic

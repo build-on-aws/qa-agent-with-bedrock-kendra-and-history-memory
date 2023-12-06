@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :DevOps and Developer Productivity, Topic, Amazon CodeWhisperer, Services, DevOps Engineer, Role, Responsible AI, Area of Interest, 300 - Advanced, Level, Thursday, Day, Wynn, Venue, Generative AI, Area of Interest, Developer/Engineer, Role, , speakers :firstName_0: David, lastName_0: Ernst, firstName_1: Murty, lastName_1: Chappidi, , thirdpartyid :DOP321-R, sessionuid :C06001A6-046D-46CC-971E-FD812F032137, title :Code faster with Amazon CodeWhisperer [REPEAT], description :Traditionally, building applications requires developers to spend a lot of time manually writing code and trying to learn and keep up with new frameworks, SDKs, and libraries. In the last three years, AI models have grown exponentially in complexity and sophistication, enabling the creation of tools like Amazon CodeWhisperer that can generate code suggestions in real time based on a natural language description of the task. In this session, learn how CodeWhisperer can accelerate and enhance your software development with code generation, reference tracking, security scans, and more., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Traditionally, building applications requires developers to spend a lot of time manually writing code and trying to learn and keep up with new frameworks, SDKs, and libraries. In the last three years, AI models have grown exponentially in complexity and sophistication, enabling the creation of tools like Amazon CodeWhisperer that can generate code suggestions in real time based on a natural language description of the task. In this session, learn how CodeWhisperer can accelerate and enhance your software development with code generation, reference tracking, security scans, and more
+title: Code faster with Amazon CodeWhisperer [REPEAT]
+sessionuid: C06001A6-046D-46CC-971E-FD812F032137
+thirdpartyid: DOP321-R
+speakers: firstName_0: David, lastName_0: Ernst, firstName_1: Murty, lastName_1: Chappidi
+tag_name: DevOps and Developer Productivity, Topic, Amazon CodeWhisperer, Services, DevOps Engineer, Role, Responsible AI, Area of Interest, 300 - Advanced, Level, Thursday, Day, Wynn, Venue, Generative AI, Area of Interest, Developer/Engineer, Role

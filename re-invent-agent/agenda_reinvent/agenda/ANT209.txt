@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 113
+summary: tag_name :200 - Intermediate, Level, Analytics, Topic, Cost Optimization, Area of Interest, Data Engineer, Role, Developer/Engineer, Role, IT Executive, Role, AWS Glue, Services, Amazon Elastic MapReduce (EMR), Services, Amazon RedShift, Services, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Adam, lastName_0: Driver, firstName_1: Kevin, lastName_1: Lewis, , thirdpartyid :ANT209, sessionuid :1CE8C697-F91C-4F7A-8672-DBEEEF8A859A, title :Optimizing TCO for business-critical analytics, description :<p>In challenging economic environments, leaders are tasked with getting even more out of their analytics. In this session, learn how AWS has invested across the analytics stack to help customers optimize the performance and outcomes of analytics applications while balancing costs. Hear about how AWS innovations in infrastructure, silicon, software, and autonomics run your applications smarter and more cost-effectively. Learn about flexible pricing models and cost optimization programs available across AWS services to help manage budgets. And see how AWS innovations in storage and price performance can help you get better value.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 113, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Forum 113
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In challenging economic environments, leaders are tasked with getting even more out of their analytics. In this session, learn how AWS has invested across the analytics stack to help customers optimize the performance and outcomes of analytics applications while balancing costs. Hear about how AWS innovations in infrastructure, silicon, software, and autonomics run your applications smarter and more cost-effectively. Learn about flexible pricing models and cost optimization programs available across AWS services to help manage budgets. And see how AWS innovations in storage and price performance can help you get better value.</p>
+title: Optimizing TCO for business-critical analytics
+sessionuid: 1CE8C697-F91C-4F7A-8672-DBEEEF8A859A
+thirdpartyid: ANT209
+speakers: firstName_0: Adam, lastName_0: Driver, firstName_1: Kevin, lastName_1: Lewis
+tag_name: 200 - Intermediate, Level, Analytics, Topic, Cost Optimization, Area of Interest, Data Engineer, Role, Developer/Engineer, Role, IT Executive, Role, AWS Glue, Services, Amazon Elastic MapReduce (EMR), Services, Amazon RedShift, Services, Wednesday, Day, Caesars Forum, Venue

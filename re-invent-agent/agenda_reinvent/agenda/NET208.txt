@@ -1,0 +1,14 @@
+location: Venetian, Level 5, Palazzo Ballroom B
+summary: tag_name :Global Infrastructure, Area of Interest, Amazon CloudWatch, Services, AWS Cloud WAN, Services, IT Executive, Role, Amazon Virtual Private Cloud (VPC), Services, Monday, Day, Venetian, Venue, 200 - Intermediate, Level, Solution/Systems Architect, Role, Networking & Content Delivery, Topic, System Administrator, Role, , speakers :firstName_0: David, lastName_0: Brown, , thirdpartyid :NET208-INT, sessionuid :6F109024-FABA-47EA-A702-594C66ED3F94, title :The power of cloud network innovation, description :From the very beginning, the AWS network has been the foundation for how AWS delivers on the promise of cloud computing. In this talk, join Dave Brown, VP of Amazon EC2 Networking and Compute Services, as he looks at the history of AWS networking and how its growth and innovation continues to this day—helping unleash your creativity and make leaps forward in what’s possible. With a combination of real-world examples and looks behind the scenes, Dave dives into the latest innovations in AWS core networking infrastructure, VPC networking, data center networking for AI/ML, security, and global connectivity., sessiontype :Innovation Talk, venuename :Venetian, floorplanname :Level 5, locationname :Palazzo Ballroom B, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Palazzo Ballroom B
+floorplanname: Level 5
+venuename: Venetian
+sessiontype: Innovation Talk
+description: From the very beginning, the AWS network has been the foundation for how AWS delivers on the promise of cloud computing. In this talk, join Dave Brown, VP of Amazon EC2 Networking and Compute Services, as he looks at the history of AWS networking and how its growth and innovation continues to this day—helping unleash your creativity and make leaps forward in what’s possible. With a combination of real-world examples and looks behind the scenes, Dave dives into the latest innovations in AWS core networking infrastructure, VPC networking, data center networking for AI/ML, security, and global connectivity
+title: The power of cloud network innovation
+sessionuid: 6F109024-FABA-47EA-A702-594C66ED3F94
+thirdpartyid: NET208-INT
+speakers: firstName_0: David, lastName_0: Brown
+tag_name: Global Infrastructure, Area of Interest, Amazon CloudWatch, Services, AWS Cloud WAN, Services, IT Executive, Role, Amazon Virtual Private Cloud (VPC), Services, Monday, Day, Venetian, Venue, 200 - Intermediate, Level, Solution/Systems Architect, Role, Networking & Content Delivery, Topic, System Administrator, Role

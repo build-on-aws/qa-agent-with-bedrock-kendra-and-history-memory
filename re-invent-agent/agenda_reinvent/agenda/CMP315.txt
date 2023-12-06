@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafleur 2
+summary: tag_name :Customer Stories, Area of Interest, 300 - Advanced, Level, Cross Industry, Industry, Amazon Elastic Compute Cloud (EC2), Services, IT Professional/Technical Manager, Role, Enterprise & Migration, Topic, Cost Optimization, Area of Interest, Migration & Transfer, Area of Interest, Thursday, Day, Wynn, Venue, IT Executive, Role, Developer/Engineer, Role, Compute, Topic, , speakers :firstName_0: Frank, lastName_0: Renkes, company_0: SAP, firstName_1: Steven, lastName_1: Jones, firstName_2: Stefan, lastName_2: Baeuerle, company_2: SAP, , thirdpartyid :CMP315, sessionuid :CF69E43E-35FF-4565-AFE4-C06E7B0E78FA, title :Migrating critical business applications to AWS Graviton with ease, description :<p>As IT leaders consider the infrastructure for mission-critical business applications such as ERP, CRM, and supply chain systems, they’re often highly conservative, opting for traditional technologies. However, newer options such as AWS Graviton offer the potential for greater performance, flexibility, and cost savings. In this session, discover how easy it is to port demanding mission-critical business applications to Amazon EC2 instances powered by AWS Graviton and the benefits of doing so.</p>, sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafleur 2, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: Lafleur 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: <p>As IT leaders consider the infrastructure for mission-critical business applications such as ERP, CRM, and supply chain systems, they’re often highly conservative, opting for traditional technologies. However, newer options such as AWS Graviton offer the potential for greater performance, flexibility, and cost savings. In this session, discover how easy it is to port demanding mission-critical business applications to Amazon EC2 instances powered by AWS Graviton and the benefits of doing so.</p>
+title: Migrating critical business applications to AWS Graviton with ease
+sessionuid: CF69E43E-35FF-4565-AFE4-C06E7B0E78FA
+thirdpartyid: CMP315
+speakers: firstName_0: Frank, lastName_0: Renkes, company_0: SAP, firstName_1: Steven, lastName_1: Jones, firstName_2: Stefan, lastName_2: Baeuerle, company_2: SAP
+tag_name: Customer Stories, Area of Interest, 300 - Advanced, Level, Cross Industry, Industry, Amazon Elastic Compute Cloud (EC2), Services, IT Professional/Technical Manager, Role, Enterprise & Migration, Topic, Cost Optimization, Area of Interest, Migration & Transfer, Area of Interest, Thursday, Day, Wynn, Venue, IT Executive, Role, Developer/Engineer, Role, Compute, Topic

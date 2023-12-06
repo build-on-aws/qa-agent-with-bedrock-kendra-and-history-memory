@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 110
+summary: tag_name :New to AWS, Topic, 200 - Intermediate, Level, Solution/Systems Architect, Role, Tech Explorer, Role, IT Professional/Technical Manager, Role, Thursday, Day, Caesars Forum, Venue, , speakers :firstName_0: Abhishek, lastName_0: Pandey, firstName_1: Dzung, lastName_1: Pham, , thirdpartyid :NTA215, sessionuid :37278CB2-B045-4743-A611-830941C3D239, title :How to set up a video editing workflow in the cloud, description :<p>In this chalk talk, learn how to set up a cloud environment for a video production workflow. Explore the process of uploading, editing, and publishing high-resolution content that is cost-effective. Learn how to use your favorite editing tools while receiving the benefits of global scale collaboration and resilience of AWS. Learn about automated and intelligent backups for business continuity and how to use AWS AI/ML services for transcoding and recognition.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 110, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Forum 110
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In this chalk talk, learn how to set up a cloud environment for a video production workflow. Explore the process of uploading, editing, and publishing high-resolution content that is cost-effective. Learn how to use your favorite editing tools while receiving the benefits of global scale collaboration and resilience of AWS. Learn about automated and intelligent backups for business continuity and how to use AWS AI/ML services for transcoding and recognition.</p>
+title: How to set up a video editing workflow in the cloud
+sessionuid: 37278CB2-B045-4743-A611-830941C3D239
+thirdpartyid: NTA215
+speakers: firstName_0: Abhishek, lastName_0: Pandey, firstName_1: Dzung, lastName_1: Pham
+tag_name: New to AWS, Topic, 200 - Intermediate, Level, Solution/Systems Architect, Role, Tech Explorer, Role, IT Professional/Technical Manager, Role, Thursday, Day, Caesars Forum, Venue

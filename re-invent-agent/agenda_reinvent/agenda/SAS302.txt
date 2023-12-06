@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :Solution/Systems Architect, Role, 300 - Advanced, Level, Architecture, Topic, Tuesday, Day, Wynn, Venue, Developer/Engineer, Role, SaaS, Area of Interest, , speakers :firstName_0: Alex, lastName_0: Pulver, firstName_1: Peter, lastName_1: Yang, , thirdpartyid :SAS302-R, sessionuid :2A86BE44-6AD3-42F0-954E-9428D82F7004, title :A look inside SaaS networking, routing, and integration patterns [REPEAT], description :<p>SaaS architectures often include deployment models that have tenant-specific resources, distributed infrastructure, and other considerations that require unique networking and connectivity solutions. A common challenge is figuring out how and where tenancy can be used across these networking constructs to implement tenant isolation, cross-account access, tenant-aware observability, and more. In this chalk talk, dig into the various AWS networking and traffic management constructs that can be used to address these multi-tenant use cases. Explore service mesh, Amazon VPC Lattice, AWS PrivateLink, and other services and tools that you can use to target a range of SaaS integration, deployment, and isolation use cases.</p>, sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 28 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 22:00:00 -0500, 
+enddatetimeutc: November, 28 2023 22:00:00 -0500
+startdatetimeutc: November, 28 2023 21:00:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: <p>SaaS architectures often include deployment models that have tenant-specific resources, distributed infrastructure, and other considerations that require unique networking and connectivity solutions. A common challenge is figuring out how and where tenancy can be used across these networking constructs to implement tenant isolation, cross-account access, tenant-aware observability, and more. In this chalk talk, dig into the various AWS networking and traffic management constructs that can be used to address these multi-tenant use cases. Explore service mesh, Amazon VPC Lattice, AWS PrivateLink, and other services and tools that you can use to target a range of SaaS integration, deployment, and isolation use cases.</p>
+title: A look inside SaaS networking, routing, and integration patterns [REPEAT]
+sessionuid: 2A86BE44-6AD3-42F0-954E-9428D82F7004
+thirdpartyid: SAS302-R
+speakers: firstName_0: Alex, lastName_0: Pulver, firstName_1: Peter, lastName_1: Yang
+tag_name: Solution/Systems Architect, Role, 300 - Advanced, Level, Architecture, Topic, Tuesday, Day, Wynn, Venue, Developer/Engineer, Role, SaaS, Area of Interest

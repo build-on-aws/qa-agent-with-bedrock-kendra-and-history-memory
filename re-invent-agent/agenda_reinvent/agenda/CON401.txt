@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Islander G
+summary: tag_name :Well-Architected Framework, Area of Interest, Serverless Compute, Topic, Amazon Elastic Container Service (ECS), Services, 400 - Expert, Level, Network & Infrastructure Security, Area of Interest, System Administrator, Role, Resilience, Area of Interest, Wednesday, Day, Mandalay Bay, Venue, Developer/Engineer, Role, Cross Industry, Industry, IT Administrator, Role, , speakers :firstName_0: Maish, lastName_0: Saidel-Keesing, firstName_1: Malcolm, lastName_1: Featonby, , thirdpartyid :CON401, sessionuid :467B48C2-1995-4DB9-8E8D-B135027EAA50, title :Deep dive into Amazon ECS resilience and availability, description :Every application architecture relies on underlying infrastructure, and many choose Amazon ECS as the foundation to build upon. Do you know how Amazon ECS is built? What design considerations were taken while building the service? How Amazon ECS can help you minimize an outage? In this session, learn how Amazon ECS can help you address your requirements for running resilient and reliable applications in the cloud. Dive deep into how Amazon ECS service architecture, design, and operational practices provide a secure and resilient foundation for your applications., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Islander G, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Islander G
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Every application architecture relies on underlying infrastructure, and many choose Amazon ECS as the foundation to build upon. Do you know how Amazon ECS is built? What design considerations were taken while building the service? How Amazon ECS can help you minimize an outage? In this session, learn how Amazon ECS can help you address your requirements for running resilient and reliable applications in the cloud. Dive deep into how Amazon ECS service architecture, design, and operational practices provide a secure and resilient foundation for your applications
+title: Deep dive into Amazon ECS resilience and availability
+sessionuid: 467B48C2-1995-4DB9-8E8D-B135027EAA50
+thirdpartyid: CON401
+speakers: firstName_0: Maish, lastName_0: Saidel-Keesing, firstName_1: Malcolm, lastName_1: Featonby
+tag_name: Well-Architected Framework, Area of Interest, Serverless Compute, Topic, Amazon Elastic Container Service (ECS), Services, 400 - Expert, Level, Network & Infrastructure Security, Area of Interest, System Administrator, Role, Resilience, Area of Interest, Wednesday, Day, Mandalay Bay, Venue, Developer/Engineer, Role, Cross Industry, Industry, IT Administrator, Role

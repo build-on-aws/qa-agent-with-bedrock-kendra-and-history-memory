@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 228
+summary: tag_name :Caesars Forum, Venue, Tuesday, Day, Financial Services, Industry, 300 - Advanced, Level, AWS DeepRacer, Services, Student, Role, Automotive, Industry, Generative AI, Area of Interest, Developer/Engineer, Role, Amazon Bedrock, Services, Cross Industry, Industry, AI/ML, Topic, IT Professional/Technical Manager, Role, Amazon SageMaker, Services, DeepRacer, Area of Interest, , speakers :firstName_0: Pratul, lastName_0: Mathur, , thirdpartyid :DPR302-R, sessionuid :FBFF8C9C-3720-4FF5-BD46-85C241D250F6, title :Apply AWS DeepRacer concepts to generative AI with RLHF [REPEAT], description :AWS DeepRacer gives you an interesting and fun way to get started with reinforcement learning (RL). Taking it a step further, RL paired with generative AI has revolutionized how humans interact with machines—using reinforcement learning with human feedback (RLHF). RLHF focuses on how AI agents can learn from human feedback. In this workshop, explore AWS generative AI offerings, RLHF, and its use cases. You also have the opportunity to fine-tune a foundation model on a custom dataset using RLHF. You must bring your laptop to participate., sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 228, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 21:00:00 -0500, 
+enddatetimeutc: November, 28 2023 21:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Summit 228
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: AWS DeepRacer gives you an interesting and fun way to get started with reinforcement learning (RL). Taking it a step further, RL paired with generative AI has revolutionized how humans interact with machines—using reinforcement learning with human feedback (RLHF). RLHF focuses on how AI agents can learn from human feedback. In this workshop, explore AWS generative AI offerings, RLHF, and its use cases. You also have the opportunity to fine-tune a foundation model on a custom dataset using RLHF. You must bring your laptop to participate
+title: Apply AWS DeepRacer concepts to generative AI with RLHF [REPEAT]
+sessionuid: FBFF8C9C-3720-4FF5-BD46-85C241D250F6
+thirdpartyid: DPR302-R
+speakers: firstName_0: Pratul, lastName_0: Mathur
+tag_name: Caesars Forum, Venue, Tuesday, Day, Financial Services, Industry, 300 - Advanced, Level, AWS DeepRacer, Services, Student, Role, Automotive, Industry, Generative AI, Area of Interest, Developer/Engineer, Role, Amazon Bedrock, Services, Cross Industry, Industry, AI/ML, Topic, IT Professional/Technical Manager, Role, Amazon SageMaker, Services, DeepRacer, Area of Interest

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 104
+summary: tag_name :DevOps Engineer, Role, Open Source, Area of Interest, System Administrator, Role, Thursday, Day, MGM Grand, Venue, 300 - Advanced, Level, Amazon Elastic Container Registry (ECR), Services, Compute, Topic, , speakers :firstName_0: Adam, lastName_0: Long, firstName_1: Matt, lastName_1: Kang, , thirdpartyid :OPN312, sessionuid :F0AAE94A-DCEC-44D6-80D6-A5C1D9DEAE0E, title :How Amazon ECR speaks open source: OCI and the V2 proxy, description :The Open Containers Initiative (OCI) was created to help standardize containers and container images. In this chalk talk, review a brief history of the OCI and then dive into the details of how container images and registries work, how Amazon ECR operationalizes an OCI distribution proxy to “speak OCI,” and how various tools such as Docker, skopeo, Notation, and ORAS use that proxy to interact with Amazon ECR and other registries. Explore the open source specifications, learn how to correlate the endpoints to Amazon ECR APIs, and discover how tools make use of common open source libraries to interact with registries., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :104, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: 104
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: The Open Containers Initiative (OCI) was created to help standardize containers and container images. In this chalk talk, review a brief history of the OCI and then dive into the details of how container images and registries work, how Amazon ECR operationalizes an OCI distribution proxy to “speak OCI,” and how various tools such as Docker, skopeo, Notation, and ORAS use that proxy to interact with Amazon ECR and other registries. Explore the open source specifications, learn how to correlate the endpoints to Amazon ECR APIs, and discover how tools make use of common open source libraries to interact with registries
+title: How Amazon ECR speaks open source: OCI and the V2 proxy
+sessionuid: F0AAE94A-DCEC-44D6-80D6-A5C1D9DEAE0E
+thirdpartyid: OPN312
+speakers: firstName_0: Adam, lastName_0: Long, firstName_1: Matt, lastName_1: Kang
+tag_name: DevOps Engineer, Role, Open Source, Area of Interest, System Administrator, Role, Thursday, Day, MGM Grand, Venue, 300 - Advanced, Level, Amazon Elastic Container Registry (ECR), Services, Compute, Topic

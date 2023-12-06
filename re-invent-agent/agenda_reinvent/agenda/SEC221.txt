@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 306
+summary: tag_name :Wednesday, Day, MGM Grand, Venue, Security, Compliance, & Identity, Topic, Application Integration, Area of Interest, Data Protection, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, DevOps Engineer, Role, IT Executive, Role, AWS Key Management Service (KMS), Services, , speakers :firstName_0: Zach, lastName_0: Miller, firstName_1: Ritesh, lastName_1: Desai, , thirdpartyid :SEC221, sessionuid :5B825F45-705F-459C-9222-B8D563E9F9C1, title :Centrally manage application secrets with AWS Secrets Manager, description :<p>Join this chalk talk to learn how you can centrally manage application secrets across your enterprise using AWS Secrets Manager. Find out how to securely retrieve and manage secrets like database credentials or API tokens for workloads on AWS, on premises, or in multicloud environments. Learn recommended practices for protecting secrets in Secrets Manager with AWS KMS keys and how to evaluate Secrets Manager and AWS Systems Manager Parameter Store to determine which is best suited for your use case. Discover how to reduce your operational overhead by letting Secrets Manager manage and rotate database credentials using a native integration with Amazon RDS.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :306, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: 306
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Join this chalk talk to learn how you can centrally manage application secrets across your enterprise using AWS Secrets Manager. Find out how to securely retrieve and manage secrets like database credentials or API tokens for workloads on AWS, on premises, or in multicloud environments. Learn recommended practices for protecting secrets in Secrets Manager with AWS KMS keys and how to evaluate Secrets Manager and AWS Systems Manager Parameter Store to determine which is best suited for your use case. Discover how to reduce your operational overhead by letting Secrets Manager manage and rotate database credentials using a native integration with Amazon RDS.</p>
+title: Centrally manage application secrets with AWS Secrets Manager
+sessionuid: 5B825F45-705F-459C-9222-B8D563E9F9C1
+thirdpartyid: SEC221
+speakers: firstName_0: Zach, lastName_0: Miller, firstName_1: Ritesh, lastName_1: Desai
+tag_name: Wednesday, Day, MGM Grand, Venue, Security, Compliance, & Identity, Topic, Application Integration, Area of Interest, Data Protection, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, DevOps Engineer, Role, IT Executive, Role, AWS Key Management Service (KMS), Services

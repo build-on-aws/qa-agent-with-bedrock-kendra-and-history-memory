@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine H
+summary: tag_name :Storage, Topic, Amazon FSx for Lustre, Services, Amazon Simple Storage Service (S3), Services, Retail, Industry, Solution/Systems Architect, Role, Data Engineer, Role, 200 - Intermediate, Level, Generative AI, Area of Interest, Amazon Bedrock, Services, Wednesday, Day, Mandalay Bay, Venue, AI/ML, Topic, IT Administrator, Role, Financial Services, Industry, Advertising & Marketing, Industry, , speakers :firstName_0: Jordan, lastName_0: Dolman, firstName_1: Peter, lastName_1: Imming, , thirdpartyid :STG212, sessionuid :029408B1-95D0-41A6-A54B-6D55A12EC63C, title :Accelerate generative AI and ML workloads with AWS storage, description :Recent advances in AI and machine learning along with a market-driven shift to use AI across industries are presenting a new set of storage opportunities for many IT organizations. In this session, learn how AWS storage delivers the building blocks for your machine learning workloads with high-performance, scalable storage that integrates with a wide range of AI/ML services to help you innovate faster., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine H, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Jasmine H
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Recent advances in AI and machine learning along with a market-driven shift to use AI across industries are presenting a new set of storage opportunities for many IT organizations. In this session, learn how AWS storage delivers the building blocks for your machine learning workloads with high-performance, scalable storage that integrates with a wide range of AI/ML services to help you innovate faster
+title: Accelerate generative AI and ML workloads with AWS storage
+sessionuid: 029408B1-95D0-41A6-A54B-6D55A12EC63C
+thirdpartyid: STG212
+speakers: firstName_0: Jordan, lastName_0: Dolman, firstName_1: Peter, lastName_1: Imming
+tag_name: Storage, Topic, Amazon FSx for Lustre, Services, Amazon Simple Storage Service (S3), Services, Retail, Industry, Solution/Systems Architect, Role, Data Engineer, Role, 200 - Intermediate, Level, Generative AI, Area of Interest, Amazon Bedrock, Services, Wednesday, Day, Mandalay Bay, Venue, AI/ML, Topic, IT Administrator, Role, Financial Services, Industry, Advertising & Marketing, Industry

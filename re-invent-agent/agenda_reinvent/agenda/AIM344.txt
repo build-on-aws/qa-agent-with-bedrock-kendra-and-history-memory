@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 123
+summary: tag_name :Friday, Day, Amazon SageMaker, Services, 300 - Advanced, Level, Responsible AI, Area of Interest, Cross Industry, Industry, IT Professional/Technical Manager, Role, Caesars Forum, Venue, Generative AI, Area of Interest, Developer/Engineer, Role, Innovation on AWS, Area of Interest, AI/ML, Topic, Solution/Systems Architect, Role, , speakers :firstName_0: Ram, lastName_0: Vittal, firstName_1: Ozan, lastName_1: Eken, , thirdpartyid :AIM344, sessionuid :EB03E81C-68BC-4D65-AC7B-D2169942117C, title :Scaling AI/ML governance, description :<p>Customers of every size and industry are innovating on AWS by infusing AI/ML into their products and services. Recent developments in generative AI have accelerated the need for AI adoption. However, implementing security, data privacy, and governance controls are still challenges when implementing ML workloads at scale. Join this chalk talk to learn about the challenges and framework for scaling AI/ML governance using new Amazon SageMaker features, AWS Control Tower, and other services. If you need to scale your ML platform across your organization and achieve scalable, reliable, secure, and governed ML environments for ML teams, this talk is for you.</p>, sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 123, startdatetimeutc :December, 01 2023 18:00:00 -0500, enddatetimeutc :December, 01 2023 19:00:00 -0500, 
+enddatetimeutc: December, 01 2023 19:00:00 -0500
+startdatetimeutc: December, 01 2023 18:00:00 -0500
+locationname: Forum 123
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: <p>Customers of every size and industry are innovating on AWS by infusing AI/ML into their products and services. Recent developments in generative AI have accelerated the need for AI adoption. However, implementing security, data privacy, and governance controls are still challenges when implementing ML workloads at scale. Join this chalk talk to learn about the challenges and framework for scaling AI/ML governance using new Amazon SageMaker features, AWS Control Tower, and other services. If you need to scale your ML platform across your organization and achieve scalable, reliable, secure, and governed ML environments for ML teams, this talk is for you.</p>
+title: Scaling AI/ML governance
+sessionuid: EB03E81C-68BC-4D65-AC7B-D2169942117C
+thirdpartyid: AIM344
+speakers: firstName_0: Ram, lastName_0: Vittal, firstName_1: Ozan, lastName_1: Eken
+tag_name: Friday, Day, Amazon SageMaker, Services, 300 - Advanced, Level, Responsible AI, Area of Interest, Cross Industry, Industry, IT Professional/Technical Manager, Role, Caesars Forum, Venue, Generative AI, Area of Interest, Developer/Engineer, Role, Innovation on AWS, Area of Interest, AI/ML, Topic, Solution/Systems Architect, Role

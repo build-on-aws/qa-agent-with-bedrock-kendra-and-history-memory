@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Mandalay Bay Ballroom F
+summary: tag_name :Developer/Engineer, Role, Training & Certification, Topic, Cloud Security Specialist, Role, 200 - Intermediate, Level, Mandalay Bay, Venue, Monday, Day, AI/ML, Topic, Generative AI, Area of Interest, Solution/Systems Architect, Role, Cross Industry, Industry, , speakers :, thirdpartyid :GHJ204, sessionuid :688EF713-4406-4E26-8B5E-0AB20BA6D81A, title :AWS Jam: Generative AI, description :Are you curious about the cutting-edge world of generative AI? Learn about the power of generative AI through AWS Jam challenges designed to spark fresh ideas through real-world scenarios. Gain hands-on experience with AWS services and offerings from AWS partners and get a chance to win prizes. Activities are structured to cater to users of all skill levels and AWS experts are available to help enhance your generative AI knowledge. Come with a team, or if you don't have a team, we will help you join one. All you need to bring is your desire to learn and a laptop., sessiontype :Gamified Learning, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Mandalay Bay Ballroom F, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Mandalay Bay Ballroom F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Gamified Learning
+description: Are you curious about the cutting-edge world of generative AI? Learn about the power of generative AI through AWS Jam challenges designed to spark fresh ideas through real-world scenarios. Gain hands-on experience with AWS services and offerings from AWS partners and get a chance to win prizes. Activities are structured to cater to users of all skill levels and AWS experts are available to help enhance your generative AI knowledge. Come with a team, or if you don't have a team, we will help you join one. All you need to bring is your desire to learn and a laptop
+title: AWS Jam: Generative AI
+sessionuid: 688EF713-4406-4E26-8B5E-0AB20BA6D81A
+thirdpartyid: GHJ204
+speakers: 
+tag_name: Developer/Engineer, Role, Training & Certification, Topic, Cloud Security Specialist, Role, 200 - Intermediate, Level, Mandalay Bay, Venue, Monday, Day, AI/ML, Topic, Generative AI, Area of Interest, Solution/Systems Architect, Role, Cross Industry, Industry

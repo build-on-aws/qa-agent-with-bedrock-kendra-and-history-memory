@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas F
+summary: tag_name :BuildOn.AWS, Area of Interest, AI/ML, Topic, Amazon CodeCatalyst, Services, Amazon CodeWhisperer, Services, Generative AI, Area of Interest, Wednesday, Day, Mandalay Bay, Venue, 200 - Intermediate, Level, , speakers :firstName_0: Ben, lastName_0: Cashman, firstName_1: Brooke, lastName_1: Jamieson, firstName_2: Fred, lastName_2: Graichen, , thirdpartyid :BOA208, sessionuid :2BAEA633-B501-4B1F-B7C3-EEE0F35D249E, title :Use generative AI to name your pet after your favorite song, description :Many developers haven’t been able to catch up with new jargon or best practices for generative AI. Whether you’re already getting started with AI/ML or you’re feeling like you’re behind the curve, this session is for you. Join the hosts of the ”Quick Start on AWS: Machine Learning” show, which trained over 7,000 people, to learn how to use foundation models in Amazon Bedrock to name your pet after your favorite song. This session is a builder-focused entry point to the world of generative AI and explores key topics through functional examples to bring the concepts from theory to practice., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas F, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: South Seas F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Many developers haven’t been able to catch up with new jargon or best practices for generative AI. Whether you’re already getting started with AI/ML or you’re feeling like you’re behind the curve, this session is for you. Join the hosts of the ”Quick Start on AWS: Machine Learning” show, which trained over 7,000 people, to learn how to use foundation models in Amazon Bedrock to name your pet after your favorite song. This session is a builder-focused entry point to the world of generative AI and explores key topics through functional examples to bring the concepts from theory to practice
+title: Use generative AI to name your pet after your favorite song
+sessionuid: 2BAEA633-B501-4B1F-B7C3-EEE0F35D249E
+thirdpartyid: BOA208
+speakers: firstName_0: Ben, lastName_0: Cashman, firstName_1: Brooke, lastName_1: Jamieson, firstName_2: Fred, lastName_2: Graichen
+tag_name: BuildOn.AWS, Area of Interest, AI/ML, Topic, Amazon CodeCatalyst, Services, Amazon CodeWhisperer, Services, Generative AI, Area of Interest, Wednesday, Day, Mandalay Bay, Venue, 200 - Intermediate, Level

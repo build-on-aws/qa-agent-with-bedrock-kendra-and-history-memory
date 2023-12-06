@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 9
+summary: tag_name :Well-Architected Framework, Area of Interest, DevOps Engineer, Role, 200 - Intermediate, Level, Wednesday, Day, Wynn, Venue, DevOps and Developer Productivity, Topic, Developer/Engineer, Role, , speakers :firstName_0: Hunter, lastName_0: Mellema, firstName_1: Ian, lastName_1: Smith Botsford, , thirdpartyid :DOP220, sessionuid :936DDD5C-0312-4918-A07E-0B4416AF16AD, title :Simplify building applications with AWS SDKs, description :AWS SDKs play a vital role in using AWS services in your organization’s applications and services. In this session, learn about the current state and the future of AWS SDKs. Explore how they can simplify your developer experience and unlock new capabilities. Discover how SDKs are evolving, providing a consistent experience in multiple languages and empowering you to do more with high-level abstractions to make it easier to build on AWS. Learn how AWS SDKs are built using open source tools like Smithy, and how you can use these tools to build your own SDKs to serve your customers’ needs., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 9, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Lafite 9
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: AWS SDKs play a vital role in using AWS services in your organization’s applications and services. In this session, learn about the current state and the future of AWS SDKs. Explore how they can simplify your developer experience and unlock new capabilities. Discover how SDKs are evolving, providing a consistent experience in multiple languages and empowering you to do more with high-level abstractions to make it easier to build on AWS. Learn how AWS SDKs are built using open source tools like Smithy, and how you can use these tools to build your own SDKs to serve your customers’ needs
+title: Simplify building applications with AWS SDKs
+sessionuid: 936DDD5C-0312-4918-A07E-0B4416AF16AD
+thirdpartyid: DOP220
+speakers: firstName_0: Hunter, lastName_0: Mellema, firstName_1: Ian, lastName_1: Smith Botsford
+tag_name: Well-Architected Framework, Area of Interest, DevOps Engineer, Role, 200 - Intermediate, Level, Wednesday, Day, Wynn, Venue, DevOps and Developer Productivity, Topic, Developer/Engineer, Role

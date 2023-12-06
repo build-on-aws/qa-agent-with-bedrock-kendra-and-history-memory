@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 350
+summary: tag_name :End-User Computing, Topic, Application Security, Area of Interest, Cost Optimization, Area of Interest, Monitoring & Observability, Area of Interest, 200 - Intermediate, Level, IT Administrator, Role, IT Executive, Role, Solution/Systems Architect, Role, Amazon AppStream 2.0, Services, Amazon WorkSpaces, Services, Amazon WorkSpaces Web, Services, Monday, Day, MGM Grand, Venue, , speakers :firstName_0: Elcio, lastName_0: Mello, firstName_1: Eric, lastName_1: Benz, firstName_2: Haneesh, lastName_2: Kotha, firstName_3: Robert, lastName_3: Fountain, firstName_4: Tushar, lastName_4: Dhanani, , thirdpartyid :EUC210-R, sessionuid :8FB57CF7-C380-46E0-B26E-ED574BC6B20E, title :Automate management of Amazon WorkSpaces and Amazon AppStream 2.0 [REPEAT], description :<p>Automating key processes is essential to managing Amazon WorkSpaces and Amazon AppStream 2.0 at scale. Proper use of automation leads to efficiency and productivity improvements. Attend this hands-on builders’ session to learn how to use scripts and other workflows to manage WorkSpaces and Amazon AppStream 2.0 at scale, overcome common challenges often associated with automation.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :350, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: 350
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Automating key processes is essential to managing Amazon WorkSpaces and Amazon AppStream 2.0 at scale. Proper use of automation leads to efficiency and productivity improvements. Attend this hands-on builders’ session to learn how to use scripts and other workflows to manage WorkSpaces and Amazon AppStream 2.0 at scale, overcome common challenges often associated with automation.</p>
+title: Automate management of Amazon WorkSpaces and Amazon AppStream 2.0 [REPEAT]
+sessionuid: 8FB57CF7-C380-46E0-B26E-ED574BC6B20E
+thirdpartyid: EUC210-R
+speakers: firstName_0: Elcio, lastName_0: Mello, firstName_1: Eric, lastName_1: Benz, firstName_2: Haneesh, lastName_2: Kotha, firstName_3: Robert, lastName_3: Fountain, firstName_4: Tushar, lastName_4: Dhanani
+tag_name: End-User Computing, Topic, Application Security, Area of Interest, Cost Optimization, Area of Interest, Monitoring & Observability, Area of Interest, 200 - Intermediate, Level, IT Administrator, Role, IT Executive, Role, Solution/Systems Architect, Role, Amazon AppStream 2.0, Services, Amazon WorkSpaces, Services, Amazon WorkSpaces Web, Services, Monday, Day, MGM Grand, Venue

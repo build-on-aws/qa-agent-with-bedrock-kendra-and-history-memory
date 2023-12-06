@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 318
+summary: tag_name :200 - Intermediate, Level, Front-End Web & Mobile, Area of Interest, DevOps and Developer Productivity, Topic, AWS Amplify, Services, Developer/Engineer, Role, Monday, Day, MGM Grand, Venue, DevOps Engineer, Role, Strategy & Transformation, Area of Interest, , speakers :firstName_0: Abdallah, lastName_0: Shaban, firstName_1: Mohit, lastName_1: Srivastava, , thirdpartyid :FWM205, sessionuid :84E5E2D3-6470-45C6-91F8-4015814B29F6, title :AWS Amplify: Scale your web and mobile app development and delivery, description :<p>Whether you have established patterns and resources or are new to the cloud, AWS Amplify provides frontend web and mobile developers with intuitive tools to build scalable, maintainable full-stack applications on AWS. This session offers an in-depth exploration of Amplify’s capabilities, how to integrate them with existing deployment tools and databases, and how to fully customize the resulting AWS backend using CDK. Walk through real-world scenarios and get an introduction to new enterprise-focused capabilities that make it easier than ever to build, deploy, and host secure, scalable cloud-connected applications with AWS.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 318, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 17:30:00 -0500, 
+enddatetimeutc: November, 27 2023 17:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: Premier 318
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>Whether you have established patterns and resources or are new to the cloud, AWS Amplify provides frontend web and mobile developers with intuitive tools to build scalable, maintainable full-stack applications on AWS. This session offers an in-depth exploration of Amplify’s capabilities, how to integrate them with existing deployment tools and databases, and how to fully customize the resulting AWS backend using CDK. Walk through real-world scenarios and get an introduction to new enterprise-focused capabilities that make it easier than ever to build, deploy, and host secure, scalable cloud-connected applications with AWS.</p>
+title: AWS Amplify: Scale your web and mobile app development and delivery
+sessionuid: 84E5E2D3-6470-45C6-91F8-4015814B29F6
+thirdpartyid: FWM205
+speakers: firstName_0: Abdallah, lastName_0: Shaban, firstName_1: Mohit, lastName_1: Srivastava
+tag_name: 200 - Intermediate, Level, Front-End Web & Mobile, Area of Interest, DevOps and Developer Productivity, Topic, AWS Amplify, Services, Developer/Engineer, Role, Monday, Day, MGM Grand, Venue, DevOps Engineer, Role, Strategy & Transformation, Area of Interest

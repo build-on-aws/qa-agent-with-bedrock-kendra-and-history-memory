@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :300 - Advanced, Level, Developer/Engineer, Role, Serverless Compute, Topic, Cross Industry, Industry, Media & Entertainment, Industry, Amazon DynamoDB, Services, Financial Services, Industry, IT Professional/Technical Manager, Role, Databases, Topic, Monday, Day, Wynn, Venue, Solution/Systems Architect, Role, Innovation on AWS, Area of Interest, , speakers :firstName_0: Jason, lastName_0: Hunter, firstName_1: Robert, lastName_1: McCauley, , thirdpartyid :DAT316-R, sessionuid :8C81563A-CA72-41AA-BBA2-B2DADE9C833F, title :Dive deep into Amazon DynamoDB using design puzzles [REPEAT], description :In this chalk talk, dive deep into how Amazon DynamoDB works at scale by collaboratively solving a few design puzzles that may seem simple but are actually complex. By understanding how DynamoDB operates, learn how you can look beyond the obvious solution to find a more effective and scalable one., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: In this chalk talk, dive deep into how Amazon DynamoDB works at scale by collaboratively solving a few design puzzles that may seem simple but are actually complex. By understanding how DynamoDB operates, learn how you can look beyond the obvious solution to find a more effective and scalable one
+title: Dive deep into Amazon DynamoDB using design puzzles [REPEAT]
+sessionuid: 8C81563A-CA72-41AA-BBA2-B2DADE9C833F
+thirdpartyid: DAT316-R
+speakers: firstName_0: Jason, lastName_0: Hunter, firstName_1: Robert, lastName_1: McCauley
+tag_name: 300 - Advanced, Level, Developer/Engineer, Role, Serverless Compute, Topic, Cross Industry, Industry, Media & Entertainment, Industry, Amazon DynamoDB, Services, Financial Services, Industry, IT Professional/Technical Manager, Role, Databases, Topic, Monday, Day, Wynn, Venue, Solution/Systems Architect, Role, Innovation on AWS, Area of Interest

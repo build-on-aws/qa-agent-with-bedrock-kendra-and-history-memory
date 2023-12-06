@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 368
+summary: tag_name :IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Resilience, Area of Interest, Cross Industry, Industry, AWS Elastic Disaster Recovery, Services, Wednesday, Day, MGM Grand, Venue, 200 - Intermediate, Level, Architecture, Topic, DevOps Engineer, Role, CloudEndure Disaster Recovery, Services, , speakers :firstName_0: Ron, lastName_0: Kimchi, firstName_1: Sigal, lastName_1: Weiner, , thirdpartyid :ARC208, sessionuid :E92ECCC4-29C6-462E-B1F2-6D2F3ABE8518, title :Backup and disaster recovery strategies for increased resilience, description :In this session, learn about different strategies for using AWS services to protect your on-premises and cloud-based applications against downtime and data loss. Discover how cloud technology can simplify your disaster recovery implementation while lowering total cost of ownership (TCO). In addition, take a deeper dive into AWS Elastic Disaster Recovery, and learn how this service can help organizations achieve recovery point objectives (RPOs) of seconds and recovery time objectives (RTOs) of minutes, as well as protect against, respond to, and recover from ransomware events., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 368, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Chairmans 368
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: In this session, learn about different strategies for using AWS services to protect your on-premises and cloud-based applications against downtime and data loss. Discover how cloud technology can simplify your disaster recovery implementation while lowering total cost of ownership (TCO). In addition, take a deeper dive into AWS Elastic Disaster Recovery, and learn how this service can help organizations achieve recovery point objectives (RPOs) of seconds and recovery time objectives (RTOs) of minutes, as well as protect against, respond to, and recover from ransomware events
+title: Backup and disaster recovery strategies for increased resilience
+sessionuid: E92ECCC4-29C6-462E-B1F2-6D2F3ABE8518
+thirdpartyid: ARC208
+speakers: firstName_0: Ron, lastName_0: Kimchi, firstName_1: Sigal, lastName_1: Weiner
+tag_name: IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Resilience, Area of Interest, Cross Industry, Industry, AWS Elastic Disaster Recovery, Services, Wednesday, Day, MGM Grand, Venue, 200 - Intermediate, Level, Architecture, Topic, DevOps Engineer, Role, CloudEndure Disaster Recovery, Services

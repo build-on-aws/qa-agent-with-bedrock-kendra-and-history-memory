@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Partner Enablement, Topic, SaaS, Area of Interest, Tuesday, Day, Venetian, Venue, IT Administrator, Role, 100 - Foundational, Level, Solution/Systems Architect, Role, , speakers :firstName_0: Oded, lastName_0: Rosenmann, , thirdpartyid :PEX118, sessionuid :1A113762-D2A5-4749-8FBF-F243E6A43F06, title :Hack your SaaS growth with AWS SaaS Factory, description :The move to software as a service (SaaS) often forces organizations to rethink their build, launch, and scale approaches, to better reap the benefits of the cloud. In this lightning talk, AWS SaaS Factory experts share the growth hacks that have helped thousands of organizations, such as GE HealthCare, Exasol, and Rocketlane, successfully build and go to market with SaaS on AWS. Also hear about the latest resources for accelerating any stage of your journey and solutions that can simplify your team’s adoption of best practices for building best-in-class SaaS on AWS. This lightning talk is intended for AWS Partners., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 19:50:00 -0500, 
+enddatetimeutc: November, 28 2023 19:50:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: The move to software as a service (SaaS) often forces organizations to rethink their build, launch, and scale approaches, to better reap the benefits of the cloud. In this lightning talk, AWS SaaS Factory experts share the growth hacks that have helped thousands of organizations, such as GE HealthCare, Exasol, and Rocketlane, successfully build and go to market with SaaS on AWS. Also hear about the latest resources for accelerating any stage of your journey and solutions that can simplify your team’s adoption of best practices for building best-in-class SaaS on AWS. This lightning talk is intended for AWS Partners
+title: Hack your SaaS growth with AWS SaaS Factory
+sessionuid: 1A113762-D2A5-4749-8FBF-F243E6A43F06
+thirdpartyid: PEX118
+speakers: firstName_0: Oded, lastName_0: Rosenmann
+tag_name: Partner Enablement, Topic, SaaS, Area of Interest, Tuesday, Day, Venetian, Venue, IT Administrator, Role, 100 - Foundational, Level, Solution/Systems Architect, Role

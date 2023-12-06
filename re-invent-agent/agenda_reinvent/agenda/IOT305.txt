@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 118
+summary: tag_name :Internet of Things, Topic, Automotive, Industry, Sustainability, Area of Interest, 300 - Advanced, Level, AWS IoT Core, Services, Developer/Engineer, Role, Business Applications, Topic, Application Integration, Area of Interest, Open Source, Area of Interest, Amazon Simple Storage Service (S3), Services, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, AWS IoT FleetWise, Services, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Aditi, lastName_0: Gupta, firstName_1: Andrew, lastName_1: Givens, , thirdpartyid :IOT305, sessionuid :7B99B8E7-92E4-48E7-9A3D-0E9526993A6A, title :Detecting EV battery anomalies across a fleet using AWS IoT, description :As vehicle fleets electrify, the ability to detect electric vehicle (EV) battery anomalies early becomes critical. In this workshop, get hands-on experience using AWS IoT Core to manage the provisioning certification for a fleet of vehicles. Work through vehicle modeling, campaign creation, and data ingestion using AWS IoT FleetWise, and then set up a dashboard to view insights. You must bring your laptop to participate., sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 118, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Forum 118
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: As vehicle fleets electrify, the ability to detect electric vehicle (EV) battery anomalies early becomes critical. In this workshop, get hands-on experience using AWS IoT Core to manage the provisioning certification for a fleet of vehicles. Work through vehicle modeling, campaign creation, and data ingestion using AWS IoT FleetWise, and then set up a dashboard to view insights. You must bring your laptop to participate
+title: Detecting EV battery anomalies across a fleet using AWS IoT
+sessionuid: 7B99B8E7-92E4-48E7-9A3D-0E9526993A6A
+thirdpartyid: IOT305
+speakers: firstName_0: Aditi, lastName_0: Gupta, firstName_1: Andrew, lastName_1: Givens
+tag_name: Internet of Things, Topic, Automotive, Industry, Sustainability, Area of Interest, 300 - Advanced, Level, AWS IoT Core, Services, Developer/Engineer, Role, Business Applications, Topic, Application Integration, Area of Interest, Open Source, Area of Interest, Amazon Simple Storage Service (S3), Services, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, AWS IoT FleetWise, Services, Wednesday, Day, Caesars Forum, Venue

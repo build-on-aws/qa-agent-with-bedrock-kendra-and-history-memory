@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :Solution/Systems Architect, Role, 400 - Expert, Level, Architecture, Topic, Tuesday, Day, Wynn, Venue, Developer/Engineer, Role, SaaS, Area of Interest, , speakers :firstName_0: William, lastName_0: Tarr, firstName_1: Anubhav, lastName_1: Sharma, , thirdpartyid :SAS404, sessionuid :7F1A4A2D-310C-4C31-9115-202352E9C0CE, title :Designing and implementing a SaaS cost-per-tenant strategy, description :When you’re building a SaaS architecture, you’re making every attempt to maximize cost efficiency. However, in multi-tenant environments, tenants are often consuming resources in unpredictable, frequently changing patterns. They can also be consuming parts of a resource, which makes it especially challenging to attribute consumption. In this chalk talk, explore the entire process of cost-per-tenant implementation. Learn about instrumenting your services, publishing tenant consumption, consumption aggregation, and bill correlation. The goal of this talk is to outline a practical approach to making cost-per-tenant analytics a reality for your SaaS business., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: When you’re building a SaaS architecture, you’re making every attempt to maximize cost efficiency. However, in multi-tenant environments, tenants are often consuming resources in unpredictable, frequently changing patterns. They can also be consuming parts of a resource, which makes it especially challenging to attribute consumption. In this chalk talk, explore the entire process of cost-per-tenant implementation. Learn about instrumenting your services, publishing tenant consumption, consumption aggregation, and bill correlation. The goal of this talk is to outline a practical approach to making cost-per-tenant analytics a reality for your SaaS business
+title: Designing and implementing a SaaS cost-per-tenant strategy
+sessionuid: 7F1A4A2D-310C-4C31-9115-202352E9C0CE
+thirdpartyid: SAS404
+speakers: firstName_0: William, lastName_0: Tarr, firstName_1: Anubhav, lastName_1: Sharma
+tag_name: Solution/Systems Architect, Role, 400 - Expert, Level, Architecture, Topic, Tuesday, Day, Wynn, Venue, Developer/Engineer, Role, SaaS, Area of Interest

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 355
+summary: tag_name :Cloud Security Specialist, Role, Resilience, Area of Interest, Business Executive, Role, Threat Detection & Incident Response, Area of Interest, 200 - Intermediate, Level, Tuesday, Day, MGM Grand, Venue, IT Executive, Role, Strategy & Transformation, Area of Interest, , speakers :firstName_0: Clarke, lastName_0: Rodgers, , thirdpartyid :SEG203, sessionuid :329F5627-B723-4CB7-8E3E-A6C219F10BFF, title :Shipping securely: How strong security can be your strategic advantage, description :Organizations turn to digital transformation initiatives and use the AWS Cloud to increase agility, drive innovation, and improve efficiencies. However, they often overlook a strong security program’s strategic business advantage. Designed for line of business, information technology, and security leaders, this session covers how high-performing organizations including AWS develop the culture, mechanisms, and organizational constructs that allow for increased velocity and implementation while maintaining a high bar for security and compliance., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 355, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: Chairmans 355
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Organizations turn to digital transformation initiatives and use the AWS Cloud to increase agility, drive innovation, and improve efficiencies. However, they often overlook a strong security program’s strategic business advantage. Designed for line of business, information technology, and security leaders, this session covers how high-performing organizations including AWS develop the culture, mechanisms, and organizational constructs that allow for increased velocity and implementation while maintaining a high bar for security and compliance
+title: Shipping securely: How strong security can be your strategic advantage
+sessionuid: 329F5627-B723-4CB7-8E3E-A6C219F10BFF
+thirdpartyid: SEG203
+speakers: firstName_0: Clarke, lastName_0: Rodgers
+tag_name: Cloud Security Specialist, Role, Resilience, Area of Interest, Business Executive, Role, Threat Detection & Incident Response, Area of Interest, 200 - Intermediate, Level, Tuesday, Day, MGM Grand, Venue, IT Executive, Role, Strategy & Transformation, Area of Interest

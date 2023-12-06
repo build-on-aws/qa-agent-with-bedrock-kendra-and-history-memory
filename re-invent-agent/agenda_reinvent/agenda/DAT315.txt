@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 306
+summary: tag_name :Migration & Transfer, Area of Interest, Amazon Relational Database Service (RDS), Services, Financial Services, Industry, System Administrator, Role, Strategy & Transformation, Area of Interest, Enterprise & Migration, Topic, Databases, Topic, Wednesday, Day, MGM Grand, Venue, Developer/Engineer, Role, Solution/Systems Architect, Role, Government, Industry, Oracle, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, , speakers :firstName_0: Chayan, lastName_0: Biswas, firstName_1: Nick, lastName_1: Wagner, , thirdpartyid :DAT315, sessionuid :88D044E2-400E-4097-95E2-C7C3582FE14E, title :Deep dive into the latest Amazon RDS for Oracle innovations, description :In this chalk talk, learn about the latest Amazon RDS for Oracle innovations. Dive deep into new features, learn how to get started, discuss operational and support procedures, and ask all your questions., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :306, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: 306
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: In this chalk talk, learn about the latest Amazon RDS for Oracle innovations. Dive deep into new features, learn how to get started, discuss operational and support procedures, and ask all your questions
+title: Deep dive into the latest Amazon RDS for Oracle innovations
+sessionuid: 88D044E2-400E-4097-95E2-C7C3582FE14E
+thirdpartyid: DAT315
+speakers: firstName_0: Chayan, lastName_0: Biswas, firstName_1: Nick, lastName_1: Wagner
+tag_name: Migration & Transfer, Area of Interest, Amazon Relational Database Service (RDS), Services, Financial Services, Industry, System Administrator, Role, Strategy & Transformation, Area of Interest, Enterprise & Migration, Topic, Databases, Topic, Wednesday, Day, MGM Grand, Venue, Developer/Engineer, Role, Solution/Systems Architect, Role, Government, Industry, Oracle, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level

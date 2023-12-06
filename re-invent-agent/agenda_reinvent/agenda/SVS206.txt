@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 7
+summary: tag_name :IT Professional/Technical Manager, Role, AWS Lambda, Services, AWS Serverless Application Model (SAM), Services, Amazon DynamoDB, Services, Serverless Compute, Topic, Front-End Web & Mobile, Area of Interest, DevOps and Developer Productivity, Topic, Tuesday, Day, Wynn, Venue, Amazon API Gateway, Services, 200 - Intermediate, Level, Solution/Systems Architect, Role, Developer/Engineer, Role, , speakers :firstName_0: Rafael, lastName_0: Barbosa, firstName_1: Matt, lastName_1: Kahn, firstName_2: Elizabeth, lastName_2: Davis, firstName_3: Bianca, lastName_3: Mota, firstName_4: Ash, lastName_4: Naik, , thirdpartyid :SVS206-R, sessionuid :6BE91087-2268-4A56-A6E5-B48C9D4F513B, title :Building your first serverless application with AWS SAM [REPEAT], description :In this builders’ session, create your first serverless web application using AWS services like Amazon API Gateway, AWS Lambda, and Amazon DynamoDB. Learn modern development techniques to build, secure, deploy, and monitor a serverless application, and take away serverless best practices that you can apply to your projects. Come see how quickly you can turn your ideas into working products with serverless application development. You must bring your laptop to participate., sessiontype :Builders' Session, venuename :Wynn, floorplanname :Level 1, locationname :Latour 7, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Latour 7
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Builders' Session
+description: In this builders’ session, create your first serverless web application using AWS services like Amazon API Gateway, AWS Lambda, and Amazon DynamoDB. Learn modern development techniques to build, secure, deploy, and monitor a serverless application, and take away serverless best practices that you can apply to your projects. Come see how quickly you can turn your ideas into working products with serverless application development. You must bring your laptop to participate
+title: Building your first serverless application with AWS SAM [REPEAT]
+sessionuid: 6BE91087-2268-4A56-A6E5-B48C9D4F513B
+thirdpartyid: SVS206-R
+speakers: firstName_0: Rafael, lastName_0: Barbosa, firstName_1: Matt, lastName_1: Kahn, firstName_2: Elizabeth, lastName_2: Davis, firstName_3: Bianca, lastName_3: Mota, firstName_4: Ash, lastName_4: Naik
+tag_name: IT Professional/Technical Manager, Role, AWS Lambda, Services, AWS Serverless Application Model (SAM), Services, Amazon DynamoDB, Services, Serverless Compute, Topic, Front-End Web & Mobile, Area of Interest, DevOps and Developer Productivity, Topic, Tuesday, Day, Wynn, Venue, Amazon API Gateway, Services, 200 - Intermediate, Level, Solution/Systems Architect, Role, Developer/Engineer, Role

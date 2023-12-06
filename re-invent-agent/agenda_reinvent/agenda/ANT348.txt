@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Architecture, Topic, Migration & Transfer, Area of Interest, Amazon Aurora, Services, 300 - Advanced, Level, Tuesday, Day, Venetian, Venue, Data Engineer, Role, Data Scientist, Role, Amazon RedShift, Services, Developer/Engineer, Role, Analytics, Topic, , speakers :firstName_0: Rob, lastName_0: Koch, company_0: Slalom, , thirdpartyid :ANT348-S, sessionuid :7B083422-4274-442C-8A7C-B96F0F83A782, title :Breaking the data pipeline bottleneck with zero-ETL (sponsored by Slalom), description :Traditional processes for data integration are faced with a new process in the cloud data world: zero-ETL (extract, transform, load). Zero-ETL integration is a way to automate every piece of the data pipeline, helping builders overcome common challenges with data integration and pipelines to realize near real-time analytics. In this lightning talk, Slalom explores the AWS zero-ETL vision and related AWS services and technologies, including Amazon Aurora zero-ETL integration with Amazon Redshift. This presentation is brought to you by Slalom, an AWS Partner., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 19:50:00 -0500, 
+enddatetimeutc: November, 28 2023 19:50:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Traditional processes for data integration are faced with a new process in the cloud data world: zero-ETL (extract, transform, load). Zero-ETL integration is a way to automate every piece of the data pipeline, helping builders overcome common challenges with data integration and pipelines to realize near real-time analytics. In this lightning talk, Slalom explores the AWS zero-ETL vision and related AWS services and technologies, including Amazon Aurora zero-ETL integration with Amazon Redshift. This presentation is brought to you by Slalom, an AWS Partner
+title: Breaking the data pipeline bottleneck with zero-ETL (sponsored by Slalom)
+sessionuid: 7B083422-4274-442C-8A7C-B96F0F83A782
+thirdpartyid: ANT348-S
+speakers: firstName_0: Rob, lastName_0: Koch, company_0: Slalom
+tag_name: Architecture, Topic, Migration & Transfer, Area of Interest, Amazon Aurora, Services, 300 - Advanced, Level, Tuesday, Day, Venetian, Venue, Data Engineer, Role, Data Scientist, Role, Amazon RedShift, Services, Developer/Engineer, Role, Analytics, Topic

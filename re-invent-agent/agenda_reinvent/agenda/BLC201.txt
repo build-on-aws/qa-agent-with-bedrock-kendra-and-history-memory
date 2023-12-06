@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 320
+summary: tag_name :Advisor/Consultant, Role, Cross Industry, Industry, Compute, Topic, Amazon Elastic Block Store (EBS), Services, Amazon Managed Blockchain, Services, Blockchain, Area of Interest, Developer/Engineer, Role, Monday, Day, MGM Grand, Venue, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, 200 - Intermediate, Level, , speakers :firstName_0: Everton, lastName_0: Fraga, firstName_1: Nikolay, lastName_1: Vlasov, , thirdpartyid :BLC201, sessionuid :CE4C95B7-1A3A-45B8-8DDA-FF8E2C795EB1, title :Optimizing your public blockchain node operations on AWS, description :When building applications that interact with public blockchains, a core requirement is to have access to nodes that enable you to connect to the blockchain networks. In this chalk talk, AWS blockchain experts share their experience running self-managed nodes on AWS, testing their performance on various configurations, and recommended configurations that optimize for cost and performance. Additionally, learn about how Amazon Managed Blockchain Access enables blockchain developers to build on public blockchains without managing underlying blockchain nodes themselves., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 320, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 19:30:00 -0500, 
+enddatetimeutc: November, 27 2023 19:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: Premier 320
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: When building applications that interact with public blockchains, a core requirement is to have access to nodes that enable you to connect to the blockchain networks. In this chalk talk, AWS blockchain experts share their experience running self-managed nodes on AWS, testing their performance on various configurations, and recommended configurations that optimize for cost and performance. Additionally, learn about how Amazon Managed Blockchain Access enables blockchain developers to build on public blockchains without managing underlying blockchain nodes themselves
+title: Optimizing your public blockchain node operations on AWS
+sessionuid: CE4C95B7-1A3A-45B8-8DDA-FF8E2C795EB1
+thirdpartyid: BLC201
+speakers: firstName_0: Everton, lastName_0: Fraga, firstName_1: Nikolay, lastName_1: Vlasov
+tag_name: Advisor/Consultant, Role, Cross Industry, Industry, Compute, Topic, Amazon Elastic Block Store (EBS), Services, Amazon Managed Blockchain, Services, Blockchain, Area of Interest, Developer/Engineer, Role, Monday, Day, MGM Grand, Venue, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, 200 - Intermediate, Level

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 104
+summary: tag_name :Solution/Systems Architect, Role, Management & Governance, Area of Interest, Cloud Operations, Topic, 300 - Advanced, Level, Wednesday, Day, MGM Grand, Venue, Cloud Security Specialist, Role, AWS CloudTrail, Services, DevOps Engineer, Role, AWS Config, Services, , speakers :firstName_0: David, lastName_0: Hu, firstName_1: Gokul, lastName_1: Nair, , thirdpartyid :COP323, sessionuid :50C0481A-E4F1-4A3A-87C0-E6E407D6EF23, title :Centralize compliance and audit data across multiple environments, description :In order to have accurate visibility and perform meaningful audits, you need to understand who is doing what in your environment. In this chalk talk, explore how to activate AWS CloudTrail Lake, import historical CloudTrail logs, and aggregate your audit logs from AWS Partner integrations, custom solutions, and multiple resources. Also learn how to query this data for investigative analysis and security purposes., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :104, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: 104
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: In order to have accurate visibility and perform meaningful audits, you need to understand who is doing what in your environment. In this chalk talk, explore how to activate AWS CloudTrail Lake, import historical CloudTrail logs, and aggregate your audit logs from AWS Partner integrations, custom solutions, and multiple resources. Also learn how to query this data for investigative analysis and security purposes
+title: Centralize compliance and audit data across multiple environments
+sessionuid: 50C0481A-E4F1-4A3A-87C0-E6E407D6EF23
+thirdpartyid: COP323
+speakers: firstName_0: David, lastName_0: Hu, firstName_1: Gokul, lastName_1: Nair
+tag_name: Solution/Systems Architect, Role, Management & Governance, Area of Interest, Cloud Operations, Topic, 300 - Advanced, Level, Wednesday, Day, MGM Grand, Venue, Cloud Security Specialist, Role, AWS CloudTrail, Services, DevOps Engineer, Role, AWS Config, Services

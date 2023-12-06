@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :IT Executive, Role, Strategy & Transformation, Area of Interest, Thursday, Day, Venetian, Venue, Business Executive, Role, Partner Enablement, Topic, Sales/Marketing, Role, 100 - Foundational, Level, , speakers :firstName_0: Erick, lastName_0: Levitre, firstName_1: Kaushik, lastName_1: Srinivasan, , thirdpartyid :PEX122, sessionuid :23C8BBA7-3EA3-4FA2-AD60-0A88D44328F8, title :Learn how to grow your AWS business through AWS Partner Funding, description :AWS Partner Funding Portal is a transparent, secure, self-service tool for partners to manage their funding benefits. In this lightning talk, learn how to grow your AWS business by accessing supported funding programs and hear about upcoming improvements to AWS Partner Funding Portal to provide a consistent, simpler funding journey. This lightning talk is intended for AWS Partners., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :November, 30 2023 23:50:00 -0500, 
+enddatetimeutc: November, 30 2023 23:50:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: AWS Partner Funding Portal is a transparent, secure, self-service tool for partners to manage their funding benefits. In this lightning talk, learn how to grow your AWS business by accessing supported funding programs and hear about upcoming improvements to AWS Partner Funding Portal to provide a consistent, simpler funding journey. This lightning talk is intended for AWS Partners
+title: Learn how to grow your AWS business through AWS Partner Funding
+sessionuid: 23C8BBA7-3EA3-4FA2-AD60-0A88D44328F8
+thirdpartyid: PEX122
+speakers: firstName_0: Erick, lastName_0: Levitre, firstName_1: Kaushik, lastName_1: Srinivasan
+tag_name: IT Executive, Role, Strategy & Transformation, Area of Interest, Thursday, Day, Venetian, Venue, Business Executive, Role, Partner Enablement, Topic, Sales/Marketing, Role, 100 - Foundational, Level

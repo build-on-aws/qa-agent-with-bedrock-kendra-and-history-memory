@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 364
+summary: tag_name :Strategy & Transformation, Area of Interest, Network & Infrastructure Security, Area of Interest, Amazon Simple Storage Service (S3), Services, Cost Optimization, Area of Interest, Solution/Systems Architect, Role, Financial Services, Industry, Media & Entertainment, Industry, IT Professional/Technical Manager, Role, 300 - Advanced, Level, Wednesday, Day, MGM Grand, Venue, Developer/Engineer, Role, Storage, Topic, , speakers :firstName_0: Amy, lastName_0: Therrien, firstName_1: Seth, lastName_1: Markle, , thirdpartyid :STG314, sessionuid :2AF2D17E-01FA-4E63-BB61-25F91AF28F2A, title :Dive deep on Amazon S3, description :Amazon S3 provides developers and IT teams with cloud object storage that delivers industry-leading scalability, durability, security, and performance. In this session, dive deep into the underlying architecture of S3 to see how it delivers virtually unlimited scale and elasticity. Learn about the culture and system of data durability and how it delivers consistent performance, and discover how these fundamentals combine to make S3 different from any other cloud storage. Also learn about the S3 storage classes and key features across security, access management, storage management, and more., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 364, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 01:30:00 -0500, 
+enddatetimeutc: November, 30 2023 01:30:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: Chairmans 364
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Amazon S3 provides developers and IT teams with cloud object storage that delivers industry-leading scalability, durability, security, and performance. In this session, dive deep into the underlying architecture of S3 to see how it delivers virtually unlimited scale and elasticity. Learn about the culture and system of data durability and how it delivers consistent performance, and discover how these fundamentals combine to make S3 different from any other cloud storage. Also learn about the S3 storage classes and key features across security, access management, storage management, and more
+title: Dive deep on Amazon S3
+sessionuid: 2AF2D17E-01FA-4E63-BB61-25F91AF28F2A
+thirdpartyid: STG314
+speakers: firstName_0: Amy, lastName_0: Therrien, firstName_1: Seth, lastName_1: Markle
+tag_name: Strategy & Transformation, Area of Interest, Network & Infrastructure Security, Area of Interest, Amazon Simple Storage Service (S3), Services, Cost Optimization, Area of Interest, Solution/Systems Architect, Role, Financial Services, Industry, Media & Entertainment, Industry, IT Professional/Technical Manager, Role, 300 - Advanced, Level, Wednesday, Day, MGM Grand, Venue, Developer/Engineer, Role, Storage, Topic

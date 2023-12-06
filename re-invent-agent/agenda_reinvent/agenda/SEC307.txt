@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 311
+summary: tag_name :Developer/Engineer, Role, Automotive, Industry, 300 - Advanced, Level, Cloud Security Specialist, Role, Advisor/Consultant, Role, Financial Services, Industry, Security, Compliance, & Identity, Topic, Thursday, Day, MGM Grand, Venue, Network & Infrastructure Security, Area of Interest, Games, Industry, Networking & Content Delivery, Topic, , speakers :firstName_0: Ranjith, lastName_0: Rayaprolu, firstName_1: Michael, lastName_1: Leighty, , thirdpartyid :SEC307, sessionuid :5C8D4F24-12CD-4CFA-B2A9-8E91E2633E94, title :Mitigate zero-day event and ransomware risks with VPC egress controls, description :In this workshop, learn how to implement AWS security best practices for egress controls with AWS Network Firewall, Amazon Route 53 Resolver DNS Firewall, and AWS Firewall Manager to mitigate risks from software supply chain and zero-day events, cryptocurrency mining, and ransomware. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 311, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Premier 311
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: In this workshop, learn how to implement AWS security best practices for egress controls with AWS Network Firewall, Amazon Route 53 Resolver DNS Firewall, and AWS Firewall Manager to mitigate risks from software supply chain and zero-day events, cryptocurrency mining, and ransomware. You must bring your laptop to participate
+title: Mitigate zero-day event and ransomware risks with VPC egress controls
+sessionuid: 5C8D4F24-12CD-4CFA-B2A9-8E91E2633E94
+thirdpartyid: SEC307
+speakers: firstName_0: Ranjith, lastName_0: Rayaprolu, firstName_1: Michael, lastName_1: Leighty
+tag_name: Developer/Engineer, Role, Automotive, Industry, 300 - Advanced, Level, Cloud Security Specialist, Role, Advisor/Consultant, Role, Financial Services, Industry, Security, Compliance, & Identity, Topic, Thursday, Day, MGM Grand, Venue, Network & Infrastructure Security, Area of Interest, Games, Industry, Networking & Content Delivery, Topic

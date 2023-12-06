@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 370
+summary: tag_name :Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, IT Executive, Role, Customer Stories, Area of Interest, Migration & Transfer, Area of Interest, Amazon Elastic Block Store (EBS), Services, Wednesday, Day, MGM Grand, Venue, SAP, Area of Interest, Enterprise & Migration, Topic, Cross Industry, Industry, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, , speakers :firstName_0: Nahia, lastName_0: Orduna, firstName_1: Wouter, lastName_1: van Hertum, , thirdpartyid :ENT225, sessionuid :2685CDE0-C1B0-4AD9-B41A-D78F8D068114, title :Why industry leaders choose AWS for RISE with SAP, description :<p>As SAP customers look to transition their mission-critical systems to the cloud, many are considering RISE with SAP. In this session, hear the stories of three industry leaders who have chosen AWS to accelerate their move to RISE with SAP, and learn about the impact it’s had on their business. Then, take an in-depth look at AWS for RISE with SAP, walking through the unique security, reliability, and innovation advantages that AWS can provide RISE with SAP customers.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 370, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Chairmans 370
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>As SAP customers look to transition their mission-critical systems to the cloud, many are considering RISE with SAP. In this session, hear the stories of three industry leaders who have chosen AWS to accelerate their move to RISE with SAP, and learn about the impact it’s had on their business. Then, take an in-depth look at AWS for RISE with SAP, walking through the unique security, reliability, and innovation advantages that AWS can provide RISE with SAP customers.</p>
+title: Why industry leaders choose AWS for RISE with SAP
+sessionuid: 2685CDE0-C1B0-4AD9-B41A-D78F8D068114
+thirdpartyid: ENT225
+speakers: firstName_0: Nahia, lastName_0: Orduna, firstName_1: Wouter, lastName_1: van Hertum
+tag_name: Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, IT Executive, Role, Customer Stories, Area of Interest, Migration & Transfer, Area of Interest, Amazon Elastic Block Store (EBS), Services, Wednesday, Day, MGM Grand, Venue, SAP, Area of Interest, Enterprise & Migration, Topic, Cross Industry, Industry, IT Professional/Technical Manager, Role, 200 - Intermediate, Level

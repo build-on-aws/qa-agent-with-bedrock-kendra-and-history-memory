@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Monday, Day, Venetian, Venue, AI/ML, Topic, Security, Compliance, & Identity, Topic, Network & Infrastructure Security, Area of Interest, 100 - Foundational, Level, IT Administrator, Role, IT Executive, Role, IT Professional/Technical Manager, Role, , speakers :firstName_0: Kien, lastName_0: Tran, company_0: Darktrace, , thirdpartyid :SEC107-S, sessionuid :DD8F5355-3FD0-404A-B5F9-29B0DA864C21, title :Secure your cloud in real time (sponsored by Darktrace), description :<p>As organizations realize the benefits of cloud computing, they must also address a new frontier of cybersecurity challenges. In this lightning talk, learn how Darktrace Cloud Security provides unparalleled architectural visibility into your AWS environment while ensuring preventive protection against internal and external threats. Furthermore, see how Darktrace’s self-learning AI helps deliver real-time detection and response against known and unknown cloud issues while enforcing security policies designed to limit misconfigurations, compliance risks, and entitlement violations. This presentation is brought to you by Darktrace, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 00:50:00 -0500, 
+enddatetimeutc: November, 28 2023 00:50:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>As organizations realize the benefits of cloud computing, they must also address a new frontier of cybersecurity challenges. In this lightning talk, learn how Darktrace Cloud Security provides unparalleled architectural visibility into your AWS environment while ensuring preventive protection against internal and external threats. Furthermore, see how Darktrace’s self-learning AI helps deliver real-time detection and response against known and unknown cloud issues while enforcing security policies designed to limit misconfigurations, compliance risks, and entitlement violations. This presentation is brought to you by Darktrace, an AWS Partner.</p>
+title: Secure your cloud in real time (sponsored by Darktrace)
+sessionuid: DD8F5355-3FD0-404A-B5F9-29B0DA864C21
+thirdpartyid: SEC107-S
+speakers: firstName_0: Kien, lastName_0: Tran, company_0: Darktrace
+tag_name: Monday, Day, Venetian, Venue, AI/ML, Topic, Security, Compliance, & Identity, Topic, Network & Infrastructure Security, Area of Interest, 100 - Foundational, Level, IT Administrator, Role, IT Executive, Role, IT Professional/Technical Manager, Role

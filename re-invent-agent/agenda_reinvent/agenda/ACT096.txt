@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Banyan A
+summary: tag_name :Tuesday, Day, Mandalay Bay, Venue, Meals & Conference Services, Additional Services, , speakers :, thirdpartyid :ACT096, sessionuid :640090EB-D961-42B1-876C-051D4503215A, title :Reflection room, description :The reflection room provides a dark, quiet space for meditation, prayer, or yoga, or to find resources for sensory needs. The room is equipped with semi-private meditation pods, prayer rugs, yoga mats, comfortable seating, puzzles, and coloring supplies. The reflection room also includes sensory bags containing noise cancelling headphones, fidget tools, and other resources for attendees with sensory needs, and a sensory tent that provides a safe and calming environment to help attendees that might be feeling overwhelmed or overstimulated., sessiontype :Conference Services, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Banyan A, startdatetimeutc :November, 28 2023 16:00:00 -0500, enddatetimeutc :November, 29 2023 03:00:00 -0500, 
+enddatetimeutc: November, 29 2023 03:00:00 -0500
+startdatetimeutc: November, 28 2023 16:00:00 -0500
+locationname: Banyan A
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Conference Services
+description: The reflection room provides a dark, quiet space for meditation, prayer, or yoga, or to find resources for sensory needs. The room is equipped with semi-private meditation pods, prayer rugs, yoga mats, comfortable seating, puzzles, and coloring supplies. The reflection room also includes sensory bags containing noise cancelling headphones, fidget tools, and other resources for attendees with sensory needs, and a sensory tent that provides a safe and calming environment to help attendees that might be feeling overwhelmed or overstimulated
+title: Reflection room
+sessionuid: 640090EB-D961-42B1-876C-051D4503215A
+thirdpartyid: ACT096
+speakers: 
+tag_name: Tuesday, Day, Mandalay Bay, Venue, Meals & Conference Services, Additional Services

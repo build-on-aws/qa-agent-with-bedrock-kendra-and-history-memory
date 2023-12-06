@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 221
+summary: tag_name :AWS Lake Formation, Services, Amazon RedShift, Services, Well-Architected Framework, Area of Interest, Solution/Systems Architect, Role, Analytics, Topic, AI/ML, Topic, Thursday, Day, Caesars Forum, Venue, Amazon S3 Glacier, Services, 300 - Advanced, Level, Data Engineer, Role, IT Professional/Technical Manager, Role, , speakers :firstName_0: Anusha, lastName_0: Challa, firstName_1: Yanzhu, lastName_1: Ji, firstName_2: Nicole, lastName_2: Yu, , thirdpartyid :ANT342-R, sessionuid :552D3955-5879-4149-8164-F8EEA92A6E10, title :Scaling analytics with data lakes and data warehouses [REPEAT], description :Relying on a patchwork of tools, pipelines, and data sources to get business insights? Join this chalk talk to learn how AWS makes it easier to scale your data lakes and databases to your data warehouses and data processing engines in a seamless, unified way. Learn how this helps you run powerful analytics and machine learning jobs on your data in virtually any form., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 221, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 23:30:00 -0500, 
+enddatetimeutc: November, 30 2023 23:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Summit 221
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Relying on a patchwork of tools, pipelines, and data sources to get business insights? Join this chalk talk to learn how AWS makes it easier to scale your data lakes and databases to your data warehouses and data processing engines in a seamless, unified way. Learn how this helps you run powerful analytics and machine learning jobs on your data in virtually any form
+title: Scaling analytics with data lakes and data warehouses [REPEAT]
+sessionuid: 552D3955-5879-4149-8164-F8EEA92A6E10
+thirdpartyid: ANT342-R
+speakers: firstName_0: Anusha, lastName_0: Challa, firstName_1: Yanzhu, lastName_1: Ji, firstName_2: Nicole, lastName_2: Yu
+tag_name: AWS Lake Formation, Services, Amazon RedShift, Services, Well-Architected Framework, Area of Interest, Solution/Systems Architect, Role, Analytics, Topic, AI/ML, Topic, Thursday, Day, Caesars Forum, Venue, Amazon S3 Glacier, Services, 300 - Advanced, Level, Data Engineer, Role, IT Professional/Technical Manager, Role

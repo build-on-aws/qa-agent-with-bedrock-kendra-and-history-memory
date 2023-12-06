@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Margaux 1
+summary: tag_name :Storage, Topic, Application Integration, Area of Interest, Innovation on AWS, Area of Interest, Open Source, Area of Interest, Automotive, Industry, Media & Entertainment, Industry, 400 - Expert, Level, Data Engineer, Role, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Amazon Simple Storage Service (S3), Services, Thursday, Day, Wynn, Venue, , speakers :firstName_0: Andreas, lastName_0: Falkenberg, firstName_1: Devabrat, lastName_1: Kumar, firstName_2: Srinivas, lastName_2: Reddy Cheruku, , thirdpartyid :STG404, sessionuid :2ED03E54-BE1A-4215-8824-DF407B226CEA, title :Improving performance at scale with Mountpoint for Amazon S3, description :<p>Mountpoint for Amazon S3 is an open source file client that makes it easy to mount an S3 bucket on your compute instance and access it as a local file system. In this code talk, get hands-on experience with how you can use this feature to improve simulation performance in autonomous driving development—a large scale-out use case on Amazon S3.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Margaux 1, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Margaux 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Mountpoint for Amazon S3 is an open source file client that makes it easy to mount an S3 bucket on your compute instance and access it as a local file system. In this code talk, get hands-on experience with how you can use this feature to improve simulation performance in autonomous driving development—a large scale-out use case on Amazon S3.</p>
+title: Improving performance at scale with Mountpoint for Amazon S3
+sessionuid: 2ED03E54-BE1A-4215-8824-DF407B226CEA
+thirdpartyid: STG404
+speakers: firstName_0: Andreas, lastName_0: Falkenberg, firstName_1: Devabrat, lastName_1: Kumar, firstName_2: Srinivas, lastName_2: Reddy Cheruku
+tag_name: Storage, Topic, Application Integration, Area of Interest, Innovation on AWS, Area of Interest, Open Source, Area of Interest, Automotive, Industry, Media & Entertainment, Industry, 400 - Expert, Level, Data Engineer, Role, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Amazon Simple Storage Service (S3), Services, Thursday, Day, Wynn, Venue

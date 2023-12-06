@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Mouton 2
+summary: tag_name :Tech Explorer, Role, 300 - Advanced, Level, Blockchain, Area of Interest, Solution/Systems Architect, Role, Media & Entertainment, Industry, Amazon Managed Blockchain, Services, Retail, Industry, Wednesday, Day, Wynn, Venue, Developer/Engineer, Role, Games, Industry, Customer Enablement, Topic, AI/ML, Topic, , speakers :firstName_0: David-Paul, lastName_0: Dornseifer, firstName_1: Emile, lastName_1: Baizel, , thirdpartyid :BLC301, sessionuid :59A94717-AF2C-42D6-B707-9227EF92A6BA, title :Mint gen AI NFTs on Ethereum with account abstraction wallets and IPFS, description :<p>In this workshop, build an NFT minting and exploring application. Learn how to create account abstraction wallets using Amazon Managed Blockchain and AWS Key Management Service (AWS KMS) for secure key management and signing; deploy an AWS CodePipeline CI/CD pipeline for an NFT smart contract built with Foundry; use an indexer to query smart contract data with rich queries; generate artwork with a Stable Diffusion foundation model on Amazon SageMaker JumpStart; mint the artwork as an NFT; and deploy a React frontend with AWS Amplify. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Wynn, floorplanname :Level 1, locationname :Mouton 2, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Mouton 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Workshop
+description: <p>In this workshop, build an NFT minting and exploring application. Learn how to create account abstraction wallets using Amazon Managed Blockchain and AWS Key Management Service (AWS KMS) for secure key management and signing; deploy an AWS CodePipeline CI/CD pipeline for an NFT smart contract built with Foundry; use an indexer to query smart contract data with rich queries; generate artwork with a Stable Diffusion foundation model on Amazon SageMaker JumpStart; mint the artwork as an NFT; and deploy a React frontend with AWS Amplify. You must bring your laptop to participate.</p>
+title: Mint gen AI NFTs on Ethereum with account abstraction wallets and IPFS
+sessionuid: 59A94717-AF2C-42D6-B707-9227EF92A6BA
+thirdpartyid: BLC301
+speakers: firstName_0: David-Paul, lastName_0: Dornseifer, firstName_1: Emile, lastName_1: Baizel
+tag_name: Tech Explorer, Role, 300 - Advanced, Level, Blockchain, Area of Interest, Solution/Systems Architect, Role, Media & Entertainment, Industry, Amazon Managed Blockchain, Services, Retail, Industry, Wednesday, Day, Wynn, Venue, Developer/Engineer, Role, Games, Industry, Customer Enablement, Topic, AI/ML, Topic

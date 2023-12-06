@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 301
+summary: tag_name :300 - Advanced, Level, Kubernetes, Topic, Security, Compliance, & Identity, Topic, Global Infrastructure, Area of Interest, Network & Infrastructure Security, Area of Interest, Cloud Security Specialist, Role, Developer/Engineer, Role, DevOps Engineer, Role, Cross Industry, Industry, Amazon Elastic Kubernetes Service (EKS), Services, Application Security, Area of Interest, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Aaron, lastName_0: Miller, firstName_1: Lukonde, lastName_1: Mwila, , thirdpartyid :CON334, sessionuid :AFDC177E-FC06-4198-A769-BC791F9D6F66, title :Strategies and best practices for securing containerized environments, description :<p>As part of designing any modern system on AWS, it is necessary to think about the security implications and practices that can affect your security posture. This chalk talk walks through five key best practices for securing containerized environments on Kubernetes using a sample architecture. Learn about supply chain security, host security, runtime security, network security, and secrets management.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :301, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: 301
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>As part of designing any modern system on AWS, it is necessary to think about the security implications and practices that can affect your security posture. This chalk talk walks through five key best practices for securing containerized environments on Kubernetes using a sample architecture. Learn about supply chain security, host security, runtime security, network security, and secrets management.</p>
+title: Strategies and best practices for securing containerized environments
+sessionuid: AFDC177E-FC06-4198-A769-BC791F9D6F66
+thirdpartyid: CON334
+speakers: firstName_0: Aaron, lastName_0: Miller, firstName_1: Lukonde, lastName_1: Mwila
+tag_name: 300 - Advanced, Level, Kubernetes, Topic, Security, Compliance, & Identity, Topic, Global Infrastructure, Area of Interest, Network & Infrastructure Security, Area of Interest, Cloud Security Specialist, Role, Developer/Engineer, Role, DevOps Engineer, Role, Cross Industry, Industry, Amazon Elastic Kubernetes Service (EKS), Services, Application Security, Area of Interest, Wednesday, Day, MGM Grand, Venue

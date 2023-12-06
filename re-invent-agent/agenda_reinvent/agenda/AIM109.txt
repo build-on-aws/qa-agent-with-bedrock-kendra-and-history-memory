@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3002
+summary: tag_name :Wednesday, Day, Venetian, Venue, AI/ML, Topic, Customer Stories, Area of Interest, Generative AI, Area of Interest, Strategy & Transformation, Area of Interest, Healthcare, Industry, Life Sciences, Industry, 100 - Foundational, Level, Business Executive, Role, Amazon Bedrock, Services, Amazon SageMaker, Services, Amazon Security Lake, Services, , speakers :, thirdpartyid :AIM109-S, sessionuid :1CF1DE68-8D40-4800-AB31-5D62DB23061A, title :Generative AI in medicine: Improving patient & provider experiences (sponsored by PwC), description :<p>Generative AI is rapidly gaining traction across all industries and modern cloud-based ecosystems, including pharmaceutical life sciences. However, there are a number of unique benefits and risks, especially given the highly regulated environment and potential for long-standing impact to millions of lives. In this session, explore how using generative AI and machine learning as core components of your business has the potential to drive the next generation of drug development and usher in a new wave of exciting outcomes for patients and providers alike. This presentation is brought to you by PwC, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3002, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 01:30:00 -0500, 
+enddatetimeutc: November, 30 2023 01:30:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: Lido 3002
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: standard
+description: <p>Generative AI is rapidly gaining traction across all industries and modern cloud-based ecosystems, including pharmaceutical life sciences. However, there are a number of unique benefits and risks, especially given the highly regulated environment and potential for long-standing impact to millions of lives. In this session, explore how using generative AI and machine learning as core components of your business has the potential to drive the next generation of drug development and usher in a new wave of exciting outcomes for patients and providers alike. This presentation is brought to you by PwC, an AWS Partner.</p>
+title: Generative AI in medicine: Improving patient & provider experiences (sponsored by PwC)
+sessionuid: 1CF1DE68-8D40-4800-AB31-5D62DB23061A
+thirdpartyid: AIM109-S
+speakers: 
+tag_name: Wednesday, Day, Venetian, Venue, AI/ML, Topic, Customer Stories, Area of Interest, Generative AI, Area of Interest, Strategy & Transformation, Area of Interest, Healthcare, Industry, Life Sciences, Industry, 100 - Foundational, Level, Business Executive, Role, Amazon Bedrock, Services, Amazon SageMaker, Services, Amazon Security Lake, Services

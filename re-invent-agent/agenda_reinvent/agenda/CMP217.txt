@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :Compute, Topic, Cost Optimization, Area of Interest, Cross Industry, Industry, Developer/Engineer, Role, Thursday, Day, Wynn, Venue, IT Professional/Technical Manager, Role, Amazon Elastic Compute Cloud (EC2), Services, Solution/Systems Architect, Role, 200 - Intermediate, Level, Innovation on AWS, Area of Interest, , speakers :firstName_0: Sinem, lastName_0: Gulbay, firstName_1: Vinay, lastName_1: Arora, , thirdpartyid :CMP217, sessionuid :96BCD2DA-C75C-4A0A-90EE-42AA01836BAE, title :Select and launch the right instance for your workload and budget, description :<p>AWS is continuously innovating to meet customer needs and now offers more than 700 instance types for various use cases—including instances best for common workloads, like web application workloads, and those more appropriate for workloads with specific requirements, like SAP workloads. How do you know which instance to use? This chalk talk covers the latest compute innovations such as Amazon EC2 flex instances and the new generation of Amazon EC2 instances powered by custom Intel Xeon Scalable processors (Sapphire Rapids), AMD EPYC processors (Genoa), and AWS Graviton3, then dives into how you can determine which instance is best for your specific use case and budget.</p>, sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 20:30:00 -0500, 
+enddatetimeutc: November, 30 2023 20:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: <p>AWS is continuously innovating to meet customer needs and now offers more than 700 instance types for various use cases—including instances best for common workloads, like web application workloads, and those more appropriate for workloads with specific requirements, like SAP workloads. How do you know which instance to use? This chalk talk covers the latest compute innovations such as Amazon EC2 flex instances and the new generation of Amazon EC2 instances powered by custom Intel Xeon Scalable processors (Sapphire Rapids), AMD EPYC processors (Genoa), and AWS Graviton3, then dives into how you can determine which instance is best for your specific use case and budget.</p>
+title: Select and launch the right instance for your workload and budget
+sessionuid: 96BCD2DA-C75C-4A0A-90EE-42AA01836BAE
+thirdpartyid: CMP217
+speakers: firstName_0: Sinem, lastName_0: Gulbay, firstName_1: Vinay, lastName_1: Arora
+tag_name: Compute, Topic, Cost Optimization, Area of Interest, Cross Industry, Industry, Developer/Engineer, Role, Thursday, Day, Wynn, Venue, IT Professional/Technical Manager, Role, Amazon Elastic Compute Cloud (EC2), Services, Solution/Systems Architect, Role, 200 - Intermediate, Level, Innovation on AWS, Area of Interest

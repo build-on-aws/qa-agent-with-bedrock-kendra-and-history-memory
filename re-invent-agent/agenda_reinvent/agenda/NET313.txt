@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :Networking & Content Delivery, Topic, Migration & Transfer, Area of Interest, Network & Infrastructure Security, Area of Interest, Well-Architected Framework, Area of Interest, 300 - Advanced, Level, Developer/Engineer, Role, DevOps Engineer, Role, System Administrator, Role, Thursday, Day, Wynn, Venue, , speakers :firstName_0: Federica, lastName_0: Ciuffo, firstName_1: Ikenna, lastName_1: Izugbokwe, , thirdpartyid :NET313-R, sessionuid :8A7D7DD8-3FD2-4615-B03E-9EFB43A438E5, title :Networking strategies for Kubernetes on AWS [REPEAT], description :<p>Deploying Kubernetes clusters requires collaboration between cluster operators, network operators, and security operators. This chalk talk, intended for developers, system admins, and DevOps engineers, explores strategies and considerations for cluster operators as they begin their journey into Kubernetes. Topics include pod networking, service discovery, cluster policies, load balancing, and service meshes. Join us to learn more about Kubernetes networking on AWS.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Deploying Kubernetes clusters requires collaboration between cluster operators, network operators, and security operators. This chalk talk, intended for developers, system admins, and DevOps engineers, explores strategies and considerations for cluster operators as they begin their journey into Kubernetes. Topics include pod networking, service discovery, cluster policies, load balancing, and service meshes. Join us to learn more about Kubernetes networking on AWS.</p>
+title: Networking strategies for Kubernetes on AWS [REPEAT]
+sessionuid: 8A7D7DD8-3FD2-4615-B03E-9EFB43A438E5
+thirdpartyid: NET313-R
+speakers: firstName_0: Federica, lastName_0: Ciuffo, firstName_1: Ikenna, lastName_1: Izugbokwe
+tag_name: Networking & Content Delivery, Topic, Migration & Transfer, Area of Interest, Network & Infrastructure Security, Area of Interest, Well-Architected Framework, Area of Interest, 300 - Advanced, Level, Developer/Engineer, Role, DevOps Engineer, Role, System Administrator, Role, Thursday, Day, Wynn, Venue

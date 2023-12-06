@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Murano 3306
+summary: tag_name :300 - Advanced, Level, Partner Enablement, Topic, Friday, Day, Venetian, Venue, , speakers :firstName_0: Giovanni, lastName_0: Gravesande, firstName_1: Pragnesh, lastName_1: Shah, , thirdpartyid :PEX305, sessionuid :28DD012A-FFCA-4993-94B3-EDD1C17B47E8, title :Evolution from migration to modernization using modernization pathways, description :As organizations migrate and modernize in the cloud, a clear strategy is needed to differentiate the avenues that lead to digital transformation. This session covers the modernization pathways with their associated AWS services and tooling optimized to expedite the process. This session is intended for AWS Partners., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 3, locationname :Murano 3306, startdatetimeutc :December, 01 2023 16:30:00 -0500, enddatetimeutc :December, 01 2023 17:30:00 -0500, 
+enddatetimeutc: December, 01 2023 17:30:00 -0500
+startdatetimeutc: December, 01 2023 16:30:00 -0500
+locationname: Murano 3306
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Breakout Session
+description: As organizations migrate and modernize in the cloud, a clear strategy is needed to differentiate the avenues that lead to digital transformation. This session covers the modernization pathways with their associated AWS services and tooling optimized to expedite the process. This session is intended for AWS Partners
+title: Evolution from migration to modernization using modernization pathways
+sessionuid: 28DD012A-FFCA-4993-94B3-EDD1C17B47E8
+thirdpartyid: PEX305
+speakers: firstName_0: Giovanni, lastName_0: Gravesande, firstName_1: Pragnesh, lastName_1: Shah
+tag_name: 300 - Advanced, Level, Partner Enablement, Topic, Friday, Day, Venetian, Venue

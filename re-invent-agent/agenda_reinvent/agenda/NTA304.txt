@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 3
+summary: tag_name :300 - Advanced, Level, Amazon Athena, Services, AWS Billing and Cost Management, Services, Cost Optimization, Area of Interest, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Wednesday, Day, Wynn, Venue, Amazon QuickSight, Services, New to AWS, Topic, IT Administrator, Role, , speakers :firstName_0: Michael, lastName_0: Wright, firstName_1: Sourabh, lastName_1: Agnihotri, , thirdpartyid :NTA304-R, sessionuid :ACABC052-F03C-40A0-BB82-F8404E0BC0A4, title :AWS cost optimization: Monitor, analyze, and act on your AWS spend [REPEAT], description :Are you new to AWS and struggling to understand where your AWS spend is originating? This workshop gives you baseline strategies to organize, monitor, analyze, and take control of your resources. Get hands-on with resource tagging, cost and usage reports, analytics tools like Amazon Athena and AWS Glue, and dashboards on Amazon QuickSight to provide insights into your over- and underutilized resources. Also, learn how you can take action on idle resources by using AWS Instance Scheduler and improve price-performance by migrating over-provisioned resources to AWS Graviton2-based Amazon EC2 instances. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 3, startdatetimeutc :November, 30 2023 02:00:00 -0500, enddatetimeutc :November, 30 2023 04:00:00 -0500, 
+enddatetimeutc: November, 30 2023 04:00:00 -0500
+startdatetimeutc: November, 30 2023 02:00:00 -0500
+locationname: Cristal 3
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: Are you new to AWS and struggling to understand where your AWS spend is originating? This workshop gives you baseline strategies to organize, monitor, analyze, and take control of your resources. Get hands-on with resource tagging, cost and usage reports, analytics tools like Amazon Athena and AWS Glue, and dashboards on Amazon QuickSight to provide insights into your over- and underutilized resources. Also, learn how you can take action on idle resources by using AWS Instance Scheduler and improve price-performance by migrating over-provisioned resources to AWS Graviton2-based Amazon EC2 instances. You must bring your laptop to participate
+title: AWS cost optimization: Monitor, analyze, and act on your AWS spend [REPEAT]
+sessionuid: ACABC052-F03C-40A0-BB82-F8404E0BC0A4
+thirdpartyid: NTA304-R
+speakers: firstName_0: Michael, lastName_0: Wright, firstName_1: Sourabh, lastName_1: Agnihotri
+tag_name: 300 - Advanced, Level, Amazon Athena, Services, AWS Billing and Cost Management, Services, Cost Optimization, Area of Interest, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Wednesday, Day, Wynn, Venue, Amazon QuickSight, Services, New to AWS, Topic, IT Administrator, Role

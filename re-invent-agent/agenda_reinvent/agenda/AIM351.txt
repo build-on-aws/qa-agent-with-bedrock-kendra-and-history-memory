@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 117
+summary: tag_name :Innovation on AWS, Area of Interest, Monday, Day, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Generative AI, Area of Interest, Cost Optimization, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, MGM Grand, Venue, Amazon SageMaker, Services, Solution/Systems Architect, Role, AI/ML, Topic, , speakers :firstName_0: Vikram, lastName_0: Elango, firstName_1: James, lastName_1: Park, , thirdpartyid :AIM351, sessionuid :5763275F-22D9-49DC-ABC5-4002F71360D9, title :Optimize foundation model deployment on Amazon SageMaker, description :Hosting foundation models (FMs) can be challenging. Larger models are often more accurate because they include billions of parameters, but their size can also result in slower inference latency or worse throughput. Hosting an FM can require more GPU memory and optimized kernels to achieve acceptable performance. In this workshop, learn how to choose the right container and instance types, optimize container parameters, set up the right auto scaling policies, and use APIs to get recommendations with Amazon SageMaker. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 117, startdatetimeutc :November, 27 2023 19:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 19:00:00 -0500
+locationname: Grand 117
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: Hosting foundation models (FMs) can be challenging. Larger models are often more accurate because they include billions of parameters, but their size can also result in slower inference latency or worse throughput. Hosting an FM can require more GPU memory and optimized kernels to achieve acceptable performance. In this workshop, learn how to choose the right container and instance types, optimize container parameters, set up the right auto scaling policies, and use APIs to get recommendations with Amazon SageMaker. You must bring your laptop to participate
+title: Optimize foundation model deployment on Amazon SageMaker
+sessionuid: 5763275F-22D9-49DC-ABC5-4002F71360D9
+thirdpartyid: AIM351
+speakers: firstName_0: Vikram, lastName_0: Elango, firstName_1: James, lastName_1: Park
+tag_name: Innovation on AWS, Area of Interest, Monday, Day, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Generative AI, Area of Interest, Cost Optimization, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, MGM Grand, Venue, Amazon SageMaker, Services, Solution/Systems Architect, Role, AI/ML, Topic

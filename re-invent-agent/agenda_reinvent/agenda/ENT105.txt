@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Global Infrastructure, Area of Interest, Enterprise & Migration, Topic, Developer/Engineer, Role, 100 - Foundational, Level, Monday, Day, Venetian, Venue, IT Administrator, Role, Cross Industry, Industry, Management & Governance, Area of Interest, IT Professional/Technical Manager, Role, AWS Marketplace, Area of Interest, , speakers :firstName_0: Eric, lastName_0: Hendricks, company_0: Red Hat, , thirdpartyid :ENT105-S, sessionuid :76649EBB-3651-483C-BDD2-13505F115E8B, title :The shortest path to Red Hat Enterprise Linux on AWS (sponsored by Red Hat), description :The time has come to bid farewell to CentOS Linux, but do users need to start over on AWS? No! This lightning talk provides an overview of options for migrating from CentOS Linux to Red Hat Enterprise Linux and a look at a special offering to help make migrating easier and more affordable. This presentation is brought to you by Red Hat, an AWS Partner., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: The time has come to bid farewell to CentOS Linux, but do users need to start over on AWS? No! This lightning talk provides an overview of options for migrating from CentOS Linux to Red Hat Enterprise Linux and a look at a special offering to help make migrating easier and more affordable. This presentation is brought to you by Red Hat, an AWS Partner
+title: The shortest path to Red Hat Enterprise Linux on AWS (sponsored by Red Hat)
+sessionuid: 76649EBB-3651-483C-BDD2-13505F115E8B
+thirdpartyid: ENT105-S
+speakers: firstName_0: Eric, lastName_0: Hendricks, company_0: Red Hat
+tag_name: Global Infrastructure, Area of Interest, Enterprise & Migration, Topic, Developer/Engineer, Role, 100 - Foundational, Level, Monday, Day, Venetian, Venue, IT Administrator, Role, Cross Industry, Industry, Management & Governance, Area of Interest, IT Professional/Technical Manager, Role, AWS Marketplace, Area of Interest

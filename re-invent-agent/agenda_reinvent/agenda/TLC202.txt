@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine F
+summary: tag_name :AI/ML, Topic, Enterprise & Migration, Topic, Customer Stories, Area of Interest, AWS Community, Area of Interest, Cost Optimization, Area of Interest, Telecommunications, Industry, 200 - Intermediate, Level, Business Executive, Role, Press/Media Analyst, Role, Amazon Bedrock, Services, Amazon Rekognition, Services, Amazon SageMaker, Services, Tuesday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Sameer, lastName_0: Vuyyuru, firstName_1: Tammy, lastName_1: Whyman, , thirdpartyid :TLC202, sessionuid :0E549453-07C9-4E0B-960F-E31D3EF76DEF, title :Accelerate innovation with AWS and AWS Partner solutions for telcos, description :<p>In today’s rapidly evolving digital landscape, the intersection of cloud computing and 5G technology presents an unprecedented opportunity for telecommunications companies to transform their operations and unlock new possibilities. In this session, explore real-world customer and partner use cases to learn how AWS for Telecom is building custom-made and partner-led solutions that help organizations reduce churn, enhance personalization, gain real-time insights, and cut operational costs.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine F, startdatetimeutc :November, 28 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 22:00:00 -0500, 
+enddatetimeutc: November, 28 2023 22:00:00 -0500
+startdatetimeutc: November, 28 2023 21:00:00 -0500
+locationname: Jasmine F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>In today’s rapidly evolving digital landscape, the intersection of cloud computing and 5G technology presents an unprecedented opportunity for telecommunications companies to transform their operations and unlock new possibilities. In this session, explore real-world customer and partner use cases to learn how AWS for Telecom is building custom-made and partner-led solutions that help organizations reduce churn, enhance personalization, gain real-time insights, and cut operational costs.</p>
+title: Accelerate innovation with AWS and AWS Partner solutions for telcos
+sessionuid: 0E549453-07C9-4E0B-960F-E31D3EF76DEF
+thirdpartyid: TLC202
+speakers: firstName_0: Sameer, lastName_0: Vuyyuru, firstName_1: Tammy, lastName_1: Whyman
+tag_name: AI/ML, Topic, Enterprise & Migration, Topic, Customer Stories, Area of Interest, AWS Community, Area of Interest, Cost Optimization, Area of Interest, Telecommunications, Industry, 200 - Intermediate, Level, Business Executive, Role, Press/Media Analyst, Role, Amazon Bedrock, Services, Amazon Rekognition, Services, Amazon SageMaker, Services, Tuesday, Day, Mandalay Bay, Venue

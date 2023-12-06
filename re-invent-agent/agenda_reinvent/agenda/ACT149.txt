@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Convention Center, Bayside B, Table Tennis Free Play
+summary: tag_name :Thursday, Day, Mandalay Bay, Venue, Community Activities, Additional Services, , speakers :, thirdpartyid :ACT149, sessionuid :016FB4CA-B209-4560-80D5-8A1407C42D35, title :AWS table tennis free play, description :<p>Table tennis is back! Play for fun or get warmed up to participate in the AWS Table Tennis Tournament. We have dedicated tables just for free play during all Rec Center hours.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Convention Center, Bayside B, Table Tennis Free Play, startdatetimeutc :November, 30 2023 18:00:00 -0500, enddatetimeutc :December, 01 2023 02:00:00 -0500, 
+enddatetimeutc: December, 01 2023 02:00:00 -0500
+startdatetimeutc: November, 30 2023 18:00:00 -0500
+locationname: South Convention Center, Bayside B, Table Tennis Free Play
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Table tennis is back! Play for fun or get warmed up to participate in the AWS Table Tennis Tournament. We have dedicated tables just for free play during all Rec Center hours.</p>
+title: AWS table tennis free play
+sessionuid: 016FB4CA-B209-4560-80D5-8A1407C42D35
+thirdpartyid: ACT149
+speakers: 
+tag_name: Thursday, Day, Mandalay Bay, Venue, Community Activities, Additional Services

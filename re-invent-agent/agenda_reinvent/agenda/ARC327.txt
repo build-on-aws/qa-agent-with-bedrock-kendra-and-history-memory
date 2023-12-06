@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :300 - Advanced, Level, Architecture, Topic, Cloud Operations, Topic, Global Infrastructure, Area of Interest, Resilience, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Tuesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Alec, lastName_0: Peterson, firstName_1: Mike, lastName_1: Furr, firstName_2: Becky, lastName_2: Weiss, , thirdpartyid :ARC327, sessionuid :3D5853F6-A8FE-4FA3-AB63-01ED0980A46C, title :5 things you should know about resilience at scale, description :<p>Seventeen years of operating on AWS has taught us a thing or two (or five) on how to build in mitigations for the kinds of things that can go wrong with services, particularly at scale. Join this session to go beyond the 9s to the even more important, and less broadly understood, topic of shortening time to mitigation when the unexpected happens. Hear from AWS operational leaders who have extensive experience with this topic, in many cases having learned about it the hard way.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Seventeen years of operating on AWS has taught us a thing or two (or five) on how to build in mitigations for the kinds of things that can go wrong with services, particularly at scale. Join this session to go beyond the 9s to the even more important, and less broadly understood, topic of shortening time to mitigation when the unexpected happens. Hear from AWS operational leaders who have extensive experience with this topic, in many cases having learned about it the hard way.</p>
+title: 5 things you should know about resilience at scale
+sessionuid: 3D5853F6-A8FE-4FA3-AB63-01ED0980A46C
+thirdpartyid: ARC327
+speakers: firstName_0: Alec, lastName_0: Peterson, firstName_1: Mike, lastName_1: Furr, firstName_2: Becky, lastName_2: Weiss
+tag_name: 300 - Advanced, Level, Architecture, Topic, Cloud Operations, Topic, Global Infrastructure, Area of Interest, Resilience, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Tuesday, Day, Caesars Forum, Venue

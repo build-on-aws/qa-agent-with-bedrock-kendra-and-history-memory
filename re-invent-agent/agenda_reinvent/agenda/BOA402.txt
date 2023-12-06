@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 123
+summary: tag_name :Amazon SageMaker, Services, AI/ML, Topic, 400 - Expert, Level, Open Source, Area of Interest, BuildOn.AWS, Area of Interest, Thursday, Day, Caesars Forum, Venue, Generative AI, Area of Interest, , speakers :firstName_0: Haowen, lastName_0: Huang, firstName_1: Yubo, lastName_1: Wang, , thirdpartyid :BOA402, sessionuid :E49D6CBB-AFED-408C-8337-50D09EBDA59E, title :Open source LLM optimization with Amazon SageMaker, description :This chalk talk offers insights into optimizing and deploying large language models (LLMs) on Amazon SageMaker at scale. Explore large model hosting, optimization techniques, model compilation, and model parallelism and sharding with Hugging Face. See how to deploy models like Falcon-7B, Falcon-40B, FLAN-T5 XXL, and GPT-NeoXT-20B on single-GPU and multi-GPU instances in SageMaker., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 123, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Forum 123
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: This chalk talk offers insights into optimizing and deploying large language models (LLMs) on Amazon SageMaker at scale. Explore large model hosting, optimization techniques, model compilation, and model parallelism and sharding with Hugging Face. See how to deploy models like Falcon-7B, Falcon-40B, FLAN-T5 XXL, and GPT-NeoXT-20B on single-GPU and multi-GPU instances in SageMaker
+title: Open source LLM optimization with Amazon SageMaker
+sessionuid: E49D6CBB-AFED-408C-8337-50D09EBDA59E
+thirdpartyid: BOA402
+speakers: firstName_0: Haowen, lastName_0: Huang, firstName_1: Yubo, lastName_1: Wang
+tag_name: Amazon SageMaker, Services, AI/ML, Topic, 400 - Expert, Level, Open Source, Area of Interest, BuildOn.AWS, Area of Interest, Thursday, Day, Caesars Forum, Venue, Generative AI, Area of Interest

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafleur 2
+summary: tag_name :Cloud Operations, Topic, Amazon CloudWatch, Services, DevOps Engineer, Role, System Administrator, Role, 300 - Advanced, Level, AWS X-Ray, Services, Monday, Day, Wynn, Venue, Monitoring & Observability, Area of Interest, Solution/Systems Architect, Role, , speakers :firstName_0: Ania, lastName_0: Develter, firstName_1: Helen, lastName_1: Ashton, firstName_2: Toshal, lastName_2: Dudhwala, , thirdpartyid :COP325, sessionuid :8DC87889-28FA-4542-83AB-81A0E1AAE41C, title :Building an effective observability strategy, description :<p>Building a strategy is key to improving your observability maturity to ensure that you delight your customers. In this session, explore why observability is important, what and how you should observe, and which observability metrics can best support your business outcomes. Dive deep into different techniques and practices using services like Amazon CloudWatch and AWS X-Ray.</p>, sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafleur 2, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Lafleur 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: <p>Building a strategy is key to improving your observability maturity to ensure that you delight your customers. In this session, explore why observability is important, what and how you should observe, and which observability metrics can best support your business outcomes. Dive deep into different techniques and practices using services like Amazon CloudWatch and AWS X-Ray.</p>
+title: Building an effective observability strategy
+sessionuid: 8DC87889-28FA-4542-83AB-81A0E1AAE41C
+thirdpartyid: COP325
+speakers: firstName_0: Ania, lastName_0: Develter, firstName_1: Helen, lastName_1: Ashton, firstName_2: Toshal, lastName_2: Dudhwala
+tag_name: Cloud Operations, Topic, Amazon CloudWatch, Services, DevOps Engineer, Role, System Administrator, Role, 300 - Advanced, Level, AWS X-Ray, Services, Monday, Day, Wynn, Venue, Monitoring & Observability, Area of Interest, Solution/Systems Architect, Role

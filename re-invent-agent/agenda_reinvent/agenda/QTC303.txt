@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 301
+summary: tag_name :Hybrid Cloud, Topic, Government, Industry, Quantum Technologies, Area of Interest, 300 - Advanced, Level, Solution/Systems Architect, Role, Academic/Researcher, Role, Tuesday, Day, MGM Grand, Venue, Amazon Braket, Services, , speakers :firstName_0: Daniela, lastName_0: Becker, firstName_1: Matthew, lastName_1: Keesan, company_1: IonQ, , thirdpartyid :QTC303, sessionuid :A02EF32A-E530-47E3-9E85-834209DB34A5, title :Utilizing error mitigation with trapped-ion devices on Amazon Braket, description :<p>Amazon Braket offers access to diverse quantum hardware. In this chalk talk, explore two trapped-ion devices available on Braket from IonQ: Aria and Harmony. Learn about their unique characteristics and how to take advantage of built-in error mitigation techniques on Aria in order to improve algorithm performance. Discover how one customer used error mitigation on an IonQ device, helping them unlock a level of accuracy that previously seemed out of reach.</p>, sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :301, startdatetimeutc :November, 28 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 22:00:00 -0500, 
+enddatetimeutc: November, 28 2023 22:00:00 -0500
+startdatetimeutc: November, 28 2023 21:00:00 -0500
+locationname: 301
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: <p>Amazon Braket offers access to diverse quantum hardware. In this chalk talk, explore two trapped-ion devices available on Braket from IonQ: Aria and Harmony. Learn about their unique characteristics and how to take advantage of built-in error mitigation techniques on Aria in order to improve algorithm performance. Discover how one customer used error mitigation on an IonQ device, helping them unlock a level of accuracy that previously seemed out of reach.</p>
+title: Utilizing error mitigation with trapped-ion devices on Amazon Braket
+sessionuid: A02EF32A-E530-47E3-9E85-834209DB34A5
+thirdpartyid: QTC303
+speakers: firstName_0: Daniela, lastName_0: Becker, firstName_1: Matthew, lastName_1: Keesan, company_1: IonQ
+tag_name: Hybrid Cloud, Topic, Government, Industry, Quantum Technologies, Area of Interest, 300 - Advanced, Level, Solution/Systems Architect, Role, Academic/Researcher, Role, Tuesday, Day, MGM Grand, Venue, Amazon Braket, Services

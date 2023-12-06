@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :Management & Governance, Area of Interest, AWS Config, Services, Amazon DevOps Guru, Services, DevOps Engineer, Role, Cloud Operations, Topic, Solution/Systems Architect, Role, AI/ML, Topic, Tuesday, Day, Mandalay Bay, Venue, Amazon CloudWatch, Services, 300 - Advanced, Level, System Administrator, Role, Monitoring & Observability, Area of Interest, , speakers :firstName_0: Jonathan, lastName_0: Vogel, firstName_1: Wei, lastName_1: Tao, , thirdpartyid :COP330, sessionuid :D8C64B20-41B5-4DBD-9996-99EA048E633B, title :Accelerate your operations with AIOps, description :<p>Would you like to spend more time innovating and less time operating your applications? In this chalk talk, learn how AIOps (artificial intelligence for IT operations) can simplify and automate your operational workflows and help make sense of the chaos when it matters most. Also learn about AIOps best practices on AWS with Amazon CloudWatch and Amazon DevOps Guru, and discover how you can use them to save time.</p>, sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: <p>Would you like to spend more time innovating and less time operating your applications? In this chalk talk, learn how AIOps (artificial intelligence for IT operations) can simplify and automate your operational workflows and help make sense of the chaos when it matters most. Also learn about AIOps best practices on AWS with Amazon CloudWatch and Amazon DevOps Guru, and discover how you can use them to save time.</p>
+title: Accelerate your operations with AIOps
+sessionuid: D8C64B20-41B5-4DBD-9996-99EA048E633B
+thirdpartyid: COP330
+speakers: firstName_0: Jonathan, lastName_0: Vogel, firstName_1: Wei, lastName_1: Tao
+tag_name: Management & Governance, Area of Interest, AWS Config, Services, Amazon DevOps Guru, Services, DevOps Engineer, Role, Cloud Operations, Topic, Solution/Systems Architect, Role, AI/ML, Topic, Tuesday, Day, Mandalay Bay, Venue, Amazon CloudWatch, Services, 300 - Advanced, Level, System Administrator, Role, Monitoring & Observability, Area of Interest

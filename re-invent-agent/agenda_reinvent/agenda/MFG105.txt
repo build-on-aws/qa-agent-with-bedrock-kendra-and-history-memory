@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Compute, Topic, Storage, Topic, Customer Stories, Area of Interest, Innovation on AWS, Area of Interest, Manufacturing & Industrial, Industry, 100 - Foundational, Level, Business Executive, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, Amazon FSx, Services, Venetian, Venue, Monday, Day, , speakers :firstName_0: Henk, lastName_0: Coenen, company_0: NXP Semiconductors, firstName_1: Ravi, lastName_1: Poddar, , thirdpartyid :MFG105, sessionuid :0E56E2D4-1352-4ED3-8290-5A6857527F30, title :Accelerating innovation with high performance computing on AWS, description :<p>Discover the transformative potential of high performance computing (HPC) in the cloud and its impact on accelerating innovation. This lightning talk explains how cloud-based HPC resources can expedite complex computational tasks. By removing traditional hardware limitations, organizations can scale resources on demand, enabling faster experimentation and iteration. Hear real examples of how HPC on AWS accelerates innovation and drives organizational change.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Discover the transformative potential of high performance computing (HPC) in the cloud and its impact on accelerating innovation. This lightning talk explains how cloud-based HPC resources can expedite complex computational tasks. By removing traditional hardware limitations, organizations can scale resources on demand, enabling faster experimentation and iteration. Hear real examples of how HPC on AWS accelerates innovation and drives organizational change.</p>
+title: Accelerating innovation with high performance computing on AWS
+sessionuid: 0E56E2D4-1352-4ED3-8290-5A6857527F30
+thirdpartyid: MFG105
+speakers: firstName_0: Henk, lastName_0: Coenen, company_0: NXP Semiconductors, firstName_1: Ravi, lastName_1: Poddar
+tag_name: Compute, Topic, Storage, Topic, Customer Stories, Area of Interest, Innovation on AWS, Area of Interest, Manufacturing & Industrial, Industry, 100 - Foundational, Level, Business Executive, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, Amazon FSx, Services, Venetian, Venue, Monday, Day

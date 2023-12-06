@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 304
+summary: tag_name :Networking & Content Delivery, Topic, Migration & Transfer, Area of Interest, Well-Architected Framework, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, System Administrator, Role, IT Professional/Technical Manager, Role, Amazon Elastic Load Balancing (ELB), Services, AWS Cloud WAN, Services, AWS Network Firewall, Services, Thursday, Day, MGM Grand, Venue, , speakers :firstName_0: Brett, lastName_0: Looney, firstName_1: Pratik, lastName_1: Mankad, , thirdpartyid :NET324, sessionuid :6ECE5B5B-9505-4311-BD9D-F59F163032E6, title :Traffic inspection with AWS Cloud WAN, description :<p>AWS Cloud WAN connects your branch offices, data centers, and Amazon Virtual Private Clouds (Amazon VPCs), helping you build a global network with a few clicks. In this chalk talk, explore architecture models for inspecting ingress, egress, and east-west traffic when using AWS Cloud WAN.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :304, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: 304
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>AWS Cloud WAN connects your branch offices, data centers, and Amazon Virtual Private Clouds (Amazon VPCs), helping you build a global network with a few clicks. In this chalk talk, explore architecture models for inspecting ingress, egress, and east-west traffic when using AWS Cloud WAN.</p>
+title: Traffic inspection with AWS Cloud WAN
+sessionuid: 6ECE5B5B-9505-4311-BD9D-F59F163032E6
+thirdpartyid: NET324
+speakers: firstName_0: Brett, lastName_0: Looney, firstName_1: Pratik, lastName_1: Mankad
+tag_name: Networking & Content Delivery, Topic, Migration & Transfer, Area of Interest, Well-Architected Framework, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, System Administrator, Role, IT Professional/Technical Manager, Role, Amazon Elastic Load Balancing (ELB), Services, AWS Cloud WAN, Services, AWS Network Firewall, Services, Thursday, Day, MGM Grand, Venue

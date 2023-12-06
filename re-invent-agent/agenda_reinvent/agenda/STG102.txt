@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Monitoring & Observability, Area of Interest, Storage, Topic, AWS Marketplace, Area of Interest, Data Engineer, Role, Monday, Day, Venetian, Venue, Analytics, Topic, 100 - Foundational, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, Cost Optimization, Area of Interest, , speakers :firstName_0: Paul, lastName_0: Dix, company_0: InfluxData, , thirdpartyid :STG102-S, sessionuid :91990F10-08C9-4DBA-971E-0C1DC11F52CB, title :Enable better performance and reduce storage cost with InfluxDB 3.0 (sponsored by InfluxData), description :Can you build real-time analytics applications with queries that return in under a second? Can you retain data forever but still reduce your storage bills? Can you squeeze more performance from your infrastructure? How about all of the above? InfluxDB 3.0 is a time-series data platform that can make all of this possible. Join this lightning talk to learn how the powerful combination of Rust, Apache Arrow, and Apache Parquet within the InfluxDB 3.0 columnar architecture enables virtually unlimited data cardinality and faster ingest and queries while keeping storage costs low by using a low-cost object store. This presentation is brought to you by InfluxData, an AWS Partner., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Can you build real-time analytics applications with queries that return in under a second? Can you retain data forever but still reduce your storage bills? Can you squeeze more performance from your infrastructure? How about all of the above? InfluxDB 3.0 is a time-series data platform that can make all of this possible. Join this lightning talk to learn how the powerful combination of Rust, Apache Arrow, and Apache Parquet within the InfluxDB 3.0 columnar architecture enables virtually unlimited data cardinality and faster ingest and queries while keeping storage costs low by using a low-cost object store. This presentation is brought to you by InfluxData, an AWS Partner
+title: Enable better performance and reduce storage cost with InfluxDB 3.0 (sponsored by InfluxData)
+sessionuid: 91990F10-08C9-4DBA-971E-0C1DC11F52CB
+thirdpartyid: STG102-S
+speakers: firstName_0: Paul, lastName_0: Dix, company_0: InfluxData
+tag_name: Monitoring & Observability, Area of Interest, Storage, Topic, AWS Marketplace, Area of Interest, Data Engineer, Role, Monday, Day, Venetian, Venue, Analytics, Topic, 100 - Foundational, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, Cost Optimization, Area of Interest

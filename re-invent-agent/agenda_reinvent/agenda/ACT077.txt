@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Across from Summit 209
+summary: tag_name :Tuesday, Day, Caesars Forum, Venue, Meals & Conference Services, Additional Services, , speakers :, thirdpartyid :ACT077, sessionuid :A57C04DF-B886-474D-9AB3-BB9DCD806D63, title :Lactation room, description :<p>The lactation room provides parents with a private, secure space to express breastmilk for their nursing child. The room is equipped with lockers, a refrigerator, a microwave, disposable cold packs and wipes, and a comfortable space to pump. Reservations for the duration of the conference can be made at the check-in desk outside the room.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Across from Summit 209, startdatetimeutc :November, 28 2023 16:00:00 -0500, enddatetimeutc :November, 29 2023 03:00:00 -0500, 
+enddatetimeutc: November, 29 2023 03:00:00 -0500
+startdatetimeutc: November, 28 2023 16:00:00 -0500
+locationname: Across from Summit 209
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>The lactation room provides parents with a private, secure space to express breastmilk for their nursing child. The room is equipped with lockers, a refrigerator, a microwave, disposable cold packs and wipes, and a comfortable space to pump. Reservations for the duration of the conference can be made at the check-in desk outside the room.</p>
+title: Lactation room
+sessionuid: A57C04DF-B886-474D-9AB3-BB9DCD806D63
+thirdpartyid: ACT077
+speakers: 
+tag_name: Tuesday, Day, Caesars Forum, Venue, Meals & Conference Services, Additional Services

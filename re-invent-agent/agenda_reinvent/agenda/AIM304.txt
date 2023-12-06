@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 1
+summary: tag_name :300 - Advanced, Level, Wednesday, Day, AI/ML, Topic, Generative AI, Area of Interest, Innovation on AWS, Area of Interest, Cross Industry, Industry, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Amazon Bedrock, Services, Wynn, Venue, , speakers :firstName_0: Mani, lastName_0: Khanuja, firstName_1: Alex, lastName_1: Thewsey, , thirdpartyid :AIM304, sessionuid :D6A06F11-0F9C-426C-9238-E230A6737EB8, title :How to generate text responsibly using foundation models on AWS, description :<p>Foundation models such as Claude are commonly used to create new pieces of original content, such as short stories, essays, social media posts, and webpage copy, and also to summarize text from articles, blog posts, books, and more. In this workshop, learn how you can generate text in minutes using foundation models available through Amazon Bedrock in a responsible way. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 1, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 03:30:00 -0500, 
+enddatetimeutc: November, 30 2023 03:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Cristal 1
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: standard
+description: <p>Foundation models such as Claude are commonly used to create new pieces of original content, such as short stories, essays, social media posts, and webpage copy, and also to summarize text from articles, blog posts, books, and more. In this workshop, learn how you can generate text in minutes using foundation models available through Amazon Bedrock in a responsible way. You must bring your laptop to participate.</p>
+title: How to generate text responsibly using foundation models on AWS
+sessionuid: D6A06F11-0F9C-426C-9238-E230A6737EB8
+thirdpartyid: AIM304
+speakers: firstName_0: Mani, lastName_0: Khanuja, firstName_1: Alex, lastName_1: Thewsey
+tag_name: 300 - Advanced, Level, Wednesday, Day, AI/ML, Topic, Generative AI, Area of Interest, Innovation on AWS, Area of Interest, Cross Industry, Industry, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Amazon Bedrock, Services, Wynn, Venue

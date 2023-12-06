@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Margaux 1
+summary: tag_name :AWS Config, Services, DevOps Engineer, Role, Cloud Security Specialist, Role, AWS Systems Manager, Services, 400 - Expert, Level, Cloud Operations, Topic, Management & Governance, Area of Interest, Monday, Day, Wynn, Venue, Developer/Engineer, Role, , speakers :firstName_0: Anjani, lastName_0: Reddy, firstName_1: Karan, lastName_1: Edikala, , thirdpartyid :COP402, sessionuid :E44B6002-8166-4A11-957D-D102971FD2B7, title :Coding for compliance at scale, description :In this code talk, learn how to develop custom controls using the Rules Development Kit for AWS Config and custom remediations using AWS Systems Manager Automation runbooks. Explore how to manage configuration compliance of your AWS resources at scale., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Margaux 1, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 27 2023 22:00:00 -0500, 
+enddatetimeutc: November, 27 2023 22:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: Margaux 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: In this code talk, learn how to develop custom controls using the Rules Development Kit for AWS Config and custom remediations using AWS Systems Manager Automation runbooks. Explore how to manage configuration compliance of your AWS resources at scale
+title: Coding for compliance at scale
+sessionuid: E44B6002-8166-4A11-957D-D102971FD2B7
+thirdpartyid: COP402
+speakers: firstName_0: Anjani, lastName_0: Reddy, firstName_1: Karan, lastName_1: Edikala
+tag_name: AWS Config, Services, DevOps Engineer, Role, Cloud Security Specialist, Role, AWS Systems Manager, Services, 400 - Expert, Level, Cloud Operations, Topic, Management & Governance, Area of Interest, Monday, Day, Wynn, Venue, Developer/Engineer, Role

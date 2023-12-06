@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine F
+summary: tag_name :Analytics, Topic, Training & Certification, Topic, Amazon SageMaker, Services, Business Intelligence, Area of Interest, Developer/Engineer, Role, Amazon Kinesis, Services, Monday, Day, Mandalay Bay, Venue, Data Engineer, Role, 200 - Intermediate, Level, Cross Industry, Industry, Amazon RedShift, Services, , speakers :firstName_0: Michalynn, lastName_0: Koziol, , thirdpartyid :TNC219, sessionuid :D5C69609-8693-4C38-9761-A079450EE1D4, title :Understand your customers better with a modern data strategy, description :<p>Companies are producing more data than ever, including real-time data streaming from a variety of sources, such as social media platforms and sensors embedded in devices. That data comes in different forms, including structured, like a customer order record, or unstructured, like a piece of text, an image, or a video. In this session, learn about AWS services that can help build a data solution that can store, access, transform, analyze, and predict. This solution can put your data to work to help make more informed decisions, respond faster to the unexpected, and uncover new opportunities.</p>, sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine F, startdatetimeutc :November, 27 2023 20:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 20:00:00 -0500
+locationname: Jasmine F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: <p>Companies are producing more data than ever, including real-time data streaming from a variety of sources, such as social media platforms and sensors embedded in devices. That data comes in different forms, including structured, like a customer order record, or unstructured, like a piece of text, an image, or a video. In this session, learn about AWS services that can help build a data solution that can store, access, transform, analyze, and predict. This solution can put your data to work to help make more informed decisions, respond faster to the unexpected, and uncover new opportunities.</p>
+title: Understand your customers better with a modern data strategy
+sessionuid: D5C69609-8693-4C38-9761-A079450EE1D4
+thirdpartyid: TNC219
+speakers: firstName_0: Michalynn, lastName_0: Koziol
+tag_name: Analytics, Topic, Training & Certification, Topic, Amazon SageMaker, Services, Business Intelligence, Area of Interest, Developer/Engineer, Role, Amazon Kinesis, Services, Monday, Day, Mandalay Bay, Venue, Data Engineer, Role, 200 - Intermediate, Level, Cross Industry, Industry, Amazon RedShift, Services

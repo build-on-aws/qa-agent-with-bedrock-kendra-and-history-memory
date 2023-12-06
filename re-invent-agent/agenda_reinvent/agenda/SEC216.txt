@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 355
+summary: tag_name :Thursday, Day, Security, Compliance, & Identity, Topic, MGM Grand, Venue, 200 - Intermediate, Level, , speakers :firstName_0: Addy, lastName_0: Upreti, firstName_1: Luis, lastName_1: Wang, , thirdpartyid :SEC216, sessionuid :476B39AC-72ED-4663-B053-DFB70733868D, title :The AWS Digital Sovereignty Pledge: Control without compromise, description :Digital sovereignty and data protection requirements are evolving around the world. Join this session to learn how AWS helps users address these requirements and discover the technical, legal, and operational controls AWS provides for data residency, access restriction, encryption, and resilience. Explore how the AWS Cloud has been designed for digital sovereignty from day one and learn about the latest capabilities and assurances AWS is releasing to meet and exceed AWS users’ evolving digital sovereignty needs., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 355, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Chairmans 355
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Digital sovereignty and data protection requirements are evolving around the world. Join this session to learn how AWS helps users address these requirements and discover the technical, legal, and operational controls AWS provides for data residency, access restriction, encryption, and resilience. Explore how the AWS Cloud has been designed for digital sovereignty from day one and learn about the latest capabilities and assurances AWS is releasing to meet and exceed AWS users’ evolving digital sovereignty needs
+title: The AWS Digital Sovereignty Pledge: Control without compromise
+sessionuid: 476B39AC-72ED-4663-B053-DFB70733868D
+thirdpartyid: SEC216
+speakers: firstName_0: Addy, lastName_0: Upreti, firstName_1: Luis, lastName_1: Wang
+tag_name: Thursday, Day, Security, Compliance, & Identity, Topic, MGM Grand, Venue, 200 - Intermediate, Level

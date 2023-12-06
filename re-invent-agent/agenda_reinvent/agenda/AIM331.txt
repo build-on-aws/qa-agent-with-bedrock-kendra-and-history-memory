@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine H
+summary: tag_name :Innovation on AWS, Area of Interest, 300 - Advanced, Level, Cross Industry, Industry, Developer/Engineer, Role, Financial Services, Industry, AI/ML, Topic, Application Integration, Area of Interest, Generative AI, Area of Interest, Thursday, Day, Mandalay Bay, Venue, Solution/Systems Architect, Role, Healthcare, Industry, IT Professional/Technical Manager, Role, Amazon Bedrock, Services, , speakers :firstName_0: Ben, lastName_0: Snively, firstName_1: Brant, lastName_1: Swidler, firstName_2: Sachin, lastName_2: Kotekal, company_2: Electronic Arts, , thirdpartyid :AIM331, sessionuid :B7DE43CD-A0A3-489B-BF8B-2C9D48A45D94, title :Explore Amazon Titan for language tasks, description :Amazon Titan foundation models (FMs) are pretrained on large datasets, making them powerful, general-purpose models. You can use them as is or privately customize them with your own data. Join this session to learn how to use Amazon Titan Text for creating copy for blog posts and web pages, classifying articles into categories, open-ended Q&A, and information extraction., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine H, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Jasmine H
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Amazon Titan foundation models (FMs) are pretrained on large datasets, making them powerful, general-purpose models. You can use them as is or privately customize them with your own data. Join this session to learn how to use Amazon Titan Text for creating copy for blog posts and web pages, classifying articles into categories, open-ended Q&A, and information extraction
+title: Explore Amazon Titan for language tasks
+sessionuid: B7DE43CD-A0A3-489B-BF8B-2C9D48A45D94
+thirdpartyid: AIM331
+speakers: firstName_0: Ben, lastName_0: Snively, firstName_1: Brant, lastName_1: Swidler, firstName_2: Sachin, lastName_2: Kotekal, company_2: Electronic Arts
+tag_name: Innovation on AWS, Area of Interest, 300 - Advanced, Level, Cross Industry, Industry, Developer/Engineer, Role, Financial Services, Industry, AI/ML, Topic, Application Integration, Area of Interest, Generative AI, Area of Interest, Thursday, Day, Mandalay Bay, Venue, Solution/Systems Architect, Role, Healthcare, Industry, IT Professional/Technical Manager, Role, Amazon Bedrock, Services

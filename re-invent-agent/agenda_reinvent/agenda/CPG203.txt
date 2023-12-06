@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Consumer Packaged Goods, Industry, Generative AI, Area of Interest, AI/ML, Topic, Amazon Bedrock, Services, Amazon CodeWhisperer, Services, Business Executive, Role, Thursday, Day, Venetian, Venue, 200 - Intermediate, Level, IT Executive, Role, , speakers :, thirdpartyid :CPG203, sessionuid :E49952DA-0875-4D30-A947-30E36C3FEAE6, title :Transforming the consumer packaged goods industry with generative AI, description :Generative AI is poised to revolutionize the business landscape, transforming the way companies operate, innovate, and engage with customers. It has the possibility to open doors to unparalleled creativity and efficiency—but how do you unlock those doors within your own organization? Join this lightning talk to learn how to navigate generative AI in the consumer packaged goods industry. This talk addresses use cases, practical applications, and key factors for successful integration., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 20:50:00 -0500, 
+enddatetimeutc: November, 30 2023 20:50:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Generative AI is poised to revolutionize the business landscape, transforming the way companies operate, innovate, and engage with customers. It has the possibility to open doors to unparalleled creativity and efficiency—but how do you unlock those doors within your own organization? Join this lightning talk to learn how to navigate generative AI in the consumer packaged goods industry. This talk addresses use cases, practical applications, and key factors for successful integration
+title: Transforming the consumer packaged goods industry with generative AI
+sessionuid: E49952DA-0875-4D30-A947-30E36C3FEAE6
+thirdpartyid: CPG203
+speakers: 
+tag_name: Consumer Packaged Goods, Industry, Generative AI, Area of Interest, AI/ML, Topic, Amazon Bedrock, Services, Amazon CodeWhisperer, Services, Business Executive, Role, Thursday, Day, Venetian, Venue, 200 - Intermediate, Level, IT Executive, Role

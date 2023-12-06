@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 1
+summary: tag_name :Amazon SageMaker, Services, Amazon Forecast, Services, Cross Industry, Industry, 300 - Advanced, Level, Data Scientist, Role, Business Intelligence, Area of Interest, Monday, Day, Wynn, Venue, New to AWS, Topic, Data Engineer, Role, IT Executive, Role, , speakers :firstName_0: Pallavi, lastName_0: Nargund, firstName_1: Dan, lastName_1: Sinnreich, , thirdpartyid :NTA303, sessionuid :1502022F-0910-4CD0-B1B0-1EBFCFB8F6C1, title :Time series forecasting with AWS services, description :Time series forecasting is applicable across any industry. Use cases include demand forecasting, inventory planning, workflow scheduling, and financial planning, to name a few. In this workshop, learn about a few different ways of forecasting, using AWS services such as Amazon Forecast, Amazon Canvas, and Amazon SageMaker. The workshop provides prescriptive guidance for choosing the right AWS service for your use case. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 1, startdatetimeutc :November, 28 2023 01:00:00 -0500, enddatetimeutc :November, 28 2023 03:00:00 -0500, 
+enddatetimeutc: November, 28 2023 03:00:00 -0500
+startdatetimeutc: November, 28 2023 01:00:00 -0500
+locationname: Cristal 1
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: Time series forecasting is applicable across any industry. Use cases include demand forecasting, inventory planning, workflow scheduling, and financial planning, to name a few. In this workshop, learn about a few different ways of forecasting, using AWS services such as Amazon Forecast, Amazon Canvas, and Amazon SageMaker. The workshop provides prescriptive guidance for choosing the right AWS service for your use case. You must bring your laptop to participate
+title: Time series forecasting with AWS services
+sessionuid: 1502022F-0910-4CD0-B1B0-1EBFCFB8F6C1
+thirdpartyid: NTA303
+speakers: firstName_0: Pallavi, lastName_0: Nargund, firstName_1: Dan, lastName_1: Sinnreich
+tag_name: Amazon SageMaker, Services, Amazon Forecast, Services, Cross Industry, Industry, 300 - Advanced, Level, Data Scientist, Role, Business Intelligence, Area of Interest, Monday, Day, Wynn, Venue, New to AWS, Topic, Data Engineer, Role, IT Executive, Role

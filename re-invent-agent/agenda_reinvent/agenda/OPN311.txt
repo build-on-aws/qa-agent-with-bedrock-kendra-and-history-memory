@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :Analytics, Topic, Monday, Day, Wynn, Venue, DevOps Engineer, Role, Open Source, Area of Interest, Developer/Engineer, Role, 300 - Advanced, Level, , speakers :firstName_0: Stephen, lastName_0: Crawford, firstName_1: Daniel, lastName_1: Doubrovkine, , thirdpartyid :OPN311, sessionuid :ED064197-BA44-40DF-B2C7-D84C4CA35B38, title :Extending OpenSearch, description :<p>In this chalk talk, explore the methods of extending OpenSearch functionality. Plugins, extensions, and search pipelines will be discussed and their differences compared. Leave this talk feeling prepared to create custom extensions of OpenSearch.</p>, sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: <p>In this chalk talk, explore the methods of extending OpenSearch functionality. Plugins, extensions, and search pipelines will be discussed and their differences compared. Leave this talk feeling prepared to create custom extensions of OpenSearch.</p>
+title: Extending OpenSearch
+sessionuid: ED064197-BA44-40DF-B2C7-D84C4CA35B38
+thirdpartyid: OPN311
+speakers: firstName_0: Stephen, lastName_0: Crawford, firstName_1: Daniel, lastName_1: Doubrovkine
+tag_name: Analytics, Topic, Monday, Day, Wynn, Venue, DevOps Engineer, Role, Open Source, Area of Interest, Developer/Engineer, Role, 300 - Advanced, Level

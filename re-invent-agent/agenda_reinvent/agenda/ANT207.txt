@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 9
+summary: tag_name :Data Engineer, Role, Customer Stories, Area of Interest, IT Professional/Technical Manager, Role, AWS Lake Formation, Services, Management & Governance, Area of Interest, Analytics, Topic, Application Integration, Area of Interest, Monday, Day, Wynn, Venue, AWS Glue, Services, Databases, Topic, Amazon DataZone, Services, 200 - Intermediate, Level, Developer/Engineer, Role, , speakers :firstName_0: Moises, lastName_0: Nascimento, company_0: Itau, firstName_1: Priya, lastName_1: Tiruthani, firstName_2: Leonardo, lastName_2: Gomez, , thirdpartyid :ANT207, sessionuid :2005F21B-FD95-4BC1-9818-3A1FBF615846, title :Understand your data with business context, description :Understanding your data in context means that all users can discover and comprehend the meaning of their data so they can use it confidently to drive business value. With a centralized data catalog, data can be found easily, access can be requested, permissions are provisioned, and data can be used to make business decisions. In this session, learn how Amazon DataZone, AWS Glue Data Catalog, and AWS Lake Formation help you build a catalog for your business., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 9, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 01:30:00 -0500, 
+enddatetimeutc: November, 28 2023 01:30:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: Lafite 9
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: Understanding your data in context means that all users can discover and comprehend the meaning of their data so they can use it confidently to drive business value. With a centralized data catalog, data can be found easily, access can be requested, permissions are provisioned, and data can be used to make business decisions. In this session, learn how Amazon DataZone, AWS Glue Data Catalog, and AWS Lake Formation help you build a catalog for your business
+title: Understand your data with business context
+sessionuid: 2005F21B-FD95-4BC1-9818-3A1FBF615846
+thirdpartyid: ANT207
+speakers: firstName_0: Moises, lastName_0: Nascimento, company_0: Itau, firstName_1: Priya, lastName_1: Tiruthani, firstName_2: Leonardo, lastName_2: Gomez
+tag_name: Data Engineer, Role, Customer Stories, Area of Interest, IT Professional/Technical Manager, Role, AWS Lake Formation, Services, Management & Governance, Area of Interest, Analytics, Topic, Application Integration, Area of Interest, Monday, Day, Wynn, Venue, AWS Glue, Services, Databases, Topic, Amazon DataZone, Services, 200 - Intermediate, Level, Developer/Engineer, Role

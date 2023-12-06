@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Venetian Ballroom J
+summary: tag_name :Architecture, Topic, 300 - Advanced, Level, Solution/Systems Architect, Role, Cross Industry, Industry, Monday, Day, Venetian, Venue, Lounges, Additional Services, Training & Certification, Topic, , speakers :firstName_0: Tyler, lastName_0: Applebaum, , thirdpartyid :TNC308, sessionuid :05181C7F-6643-4DFF-8805-21D88968D14C, title :Exam prep: AWS Certified Solutions Architect – Professional, description :Prepare for the AWS Certified Solutions Architect – Professional exam with this one-hour study session. Review 10 questions from the AWS Certified Solutions Architect – Professional Official Practice Question Set, and get your questions answered by the subject matter expert leading the study session. Continue preparing for your exam with AWS Skill Builder, which offers flexible exam prep for all learners. Prerequisite: You must hold AWS Certification to attend this session in the AWS Certification Lounge. If you do not hold AWS Certification, search TNC302 for an alternative session., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Venetian Ballroom J, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Venetian Ballroom J
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Prepare for the AWS Certified Solutions Architect – Professional exam with this one-hour study session. Review 10 questions from the AWS Certified Solutions Architect – Professional Official Practice Question Set, and get your questions answered by the subject matter expert leading the study session. Continue preparing for your exam with AWS Skill Builder, which offers flexible exam prep for all learners. Prerequisite: You must hold AWS Certification to attend this session in the AWS Certification Lounge. If you do not hold AWS Certification, search TNC302 for an alternative session
+title: Exam prep: AWS Certified Solutions Architect – Professional
+sessionuid: 05181C7F-6643-4DFF-8805-21D88968D14C
+thirdpartyid: TNC308
+speakers: firstName_0: Tyler, lastName_0: Applebaum
+tag_name: Architecture, Topic, 300 - Advanced, Level, Solution/Systems Architect, Role, Cross Industry, Industry, Monday, Day, Venetian, Venue, Lounges, Additional Services, Training & Certification, Topic

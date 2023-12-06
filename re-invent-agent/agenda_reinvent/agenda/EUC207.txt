@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 9
+summary: tag_name :End-User Computing, Topic, Global Infrastructure, Area of Interest, Migration & Transfer, Area of Interest, Cost Optimization, Area of Interest, 200 - Intermediate, Level, IT Executive, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon AppStream 2.0, Services, Amazon WorkSpaces, Services, Amazon WorkSpaces Web, Services, Monday, Day, Wynn, Venue, , speakers :firstName_0: Gigi, lastName_0: Boehringer, firstName_1: Anandha, lastName_1: Krishnan, company_1: Lucid Motors, firstName_2: Kevin, lastName_2: Goodman, , thirdpartyid :EUC207, sessionuid :5FB8A4C4-A55A-4D84-8B7F-A138205DE69F, title :Streamlining migration of virtual desktop infrastructure to AWS, description :<p>The flexibility of the cloud provides major advantages over on-premises virtual desktop infrastructure, but many organizations’ VDI migration projects get stalled due to technical differences, architectural complexities, software licensing challenges, cross-team bureaucracy, and more. In this session, explore a number of VDI migration use cases and hear recommendations for using AWS End User Computing services to accelerate and simplify your migration to the AWS Cloud.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 9, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 19:30:00 -0500, 
+enddatetimeutc: November, 27 2023 19:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: Lafite 9
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>The flexibility of the cloud provides major advantages over on-premises virtual desktop infrastructure, but many organizations’ VDI migration projects get stalled due to technical differences, architectural complexities, software licensing challenges, cross-team bureaucracy, and more. In this session, explore a number of VDI migration use cases and hear recommendations for using AWS End User Computing services to accelerate and simplify your migration to the AWS Cloud.</p>
+title: Streamlining migration of virtual desktop infrastructure to AWS
+sessionuid: 5FB8A4C4-A55A-4D84-8B7F-A138205DE69F
+thirdpartyid: EUC207
+speakers: firstName_0: Gigi, lastName_0: Boehringer, firstName_1: Anandha, lastName_1: Krishnan, company_1: Lucid Motors, firstName_2: Kevin, lastName_2: Goodman
+tag_name: End-User Computing, Topic, Global Infrastructure, Area of Interest, Migration & Transfer, Area of Interest, Cost Optimization, Area of Interest, 200 - Intermediate, Level, IT Executive, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon AppStream 2.0, Services, Amazon WorkSpaces, Services, Amazon WorkSpaces Web, Services, Monday, Day, Wynn, Venue

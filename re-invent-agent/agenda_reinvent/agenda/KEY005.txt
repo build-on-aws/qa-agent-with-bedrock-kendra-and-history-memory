@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Venetian Ballroom F
+summary: tag_name :Thursday, Day, Venetian, Venue, , speakers :, thirdpartyid :KEY005, sessionuid :7BC21B4F-B3C4-4AB4-9988-B7D850323016, title :Dr. Werner Vogels Keynote, description :<p>Join Dr. Werner Vogels, Amazon.com's VP and CTO, for his twelfth re:Invent appearance. In his keynote, he covers best practices for designing resilient and cost-aware architectures. He also discusses why artificial intelligence is something every builder must consider when developing systems and the impact this will have in our world.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Venetian Ballroom F, startdatetimeutc :November, 30 2023 16:30:00 -0500, enddatetimeutc :November, 30 2023 18:30:00 -0500, 
+enddatetimeutc: November, 30 2023 18:30:00 -0500
+startdatetimeutc: November, 30 2023 16:30:00 -0500
+locationname: Venetian Ballroom F
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Join Dr. Werner Vogels, Amazon.com's VP and CTO, for his twelfth re:Invent appearance. In his keynote, he covers best practices for designing resilient and cost-aware architectures. He also discusses why artificial intelligence is something every builder must consider when developing systems and the impact this will have in our world.</p>
+title: Dr. Werner Vogels Keynote
+sessionuid: 7BC21B4F-B3C4-4AB4-9988-B7D850323016
+thirdpartyid: KEY005
+speakers: 
+tag_name: Thursday, Day, Venetian, Venue

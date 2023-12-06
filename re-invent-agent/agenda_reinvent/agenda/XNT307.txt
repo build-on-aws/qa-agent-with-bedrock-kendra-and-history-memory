@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 355
+summary: tag_name :Kubernetes, Topic, Amazon Elastic Kubernetes Service (EKS), Services, Wednesday, Day, MGM Grand, Venue, 300 - Advanced, Level, Developer/Engineer, Role, Architecture, Topic, Solution/Systems Architect, Role, , speakers :firstName_0: Manikandan, lastName_0: Srinivasan, firstName_1: David, lastName_1: Musicant, company_1: DraftKings, firstName_2: Chris, lastName_2: Evilsizer, , thirdpartyid :XNT307, sessionuid :B8AE6920-E2E8-4AE8-BFA4-83AD245991B7, title :Modernize .NET apps at scale: DraftKings principles for success, description :<p>In this session, discover how DraftKings safely made major changes in infrastructure and software in their fast-paced, growing organization, moving from .NET Framework on Windows to .NET Core on Linux and Kubernetes. Then, dive deep into how they utilized .NET Core’s “async all the way” combined with HPA on Kubernetes to make huge improvements in throughput at game day load. Learn about some of the key best practices DraftKings has implemented and how these technologies have helped simplify and standardize their CI/CD and developer experience for on-premises and Amazon EKS workloads.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 355, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 17:30:00 -0500, 
+enddatetimeutc: November, 29 2023 17:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: Chairmans 355
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>In this session, discover how DraftKings safely made major changes in infrastructure and software in their fast-paced, growing organization, moving from .NET Framework on Windows to .NET Core on Linux and Kubernetes. Then, dive deep into how they utilized .NET Core’s “async all the way” combined with HPA on Kubernetes to make huge improvements in throughput at game day load. Learn about some of the key best practices DraftKings has implemented and how these technologies have helped simplify and standardize their CI/CD and developer experience for on-premises and Amazon EKS workloads.</p>
+title: Modernize .NET apps at scale: DraftKings principles for success
+sessionuid: B8AE6920-E2E8-4AE8-BFA4-83AD245991B7
+thirdpartyid: XNT307
+speakers: firstName_0: Manikandan, lastName_0: Srinivasan, firstName_1: David, lastName_1: Musicant, company_1: DraftKings, firstName_2: Chris, lastName_2: Evilsizer
+tag_name: Kubernetes, Topic, Amazon Elastic Kubernetes Service (EKS), Services, Wednesday, Day, MGM Grand, Venue, 300 - Advanced, Level, Developer/Engineer, Role, Architecture, Topic, Solution/Systems Architect, Role

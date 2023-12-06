@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Summit Showroom
+summary: tag_name :Partner Enablement, Topic, 100 - Foundational, Level, Thursday, Day, Venetian, Venue, , speakers :firstName_0: Julia, lastName_0: Chen, firstName_1: Matt, lastName_1: Yanchyshyn, , thirdpartyid :PEX104, sessionuid :419719DA-46EA-4A1E-BB01-43F7E9C7F4ED, title :AWS Partner experience transformation, description :<p>Join this session to learn about the effort to enhance the AWS Partner experience and increase your profitability. Explore the changes you can expect to see in the partner journey, partner programs, and co-sell processes. Also, get an overview of the enhancements and capabilities to AWS Partner tools. This breakout session is intended for AWS Partners.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Summit Showroom, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Summit Showroom
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Join this session to learn about the effort to enhance the AWS Partner experience and increase your profitability. Explore the changes you can expect to see in the partner journey, partner programs, and co-sell processes. Also, get an overview of the enhancements and capabilities to AWS Partner tools. This breakout session is intended for AWS Partners.</p>
+title: AWS Partner experience transformation
+sessionuid: 419719DA-46EA-4A1E-BB01-43F7E9C7F4ED
+thirdpartyid: PEX104
+speakers: firstName_0: Julia, lastName_0: Chen, firstName_1: Matt, lastName_1: Yanchyshyn
+tag_name: Partner Enablement, Topic, 100 - Foundational, Level, Thursday, Day, Venetian, Venue

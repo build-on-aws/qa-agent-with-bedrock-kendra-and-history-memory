@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 301
+summary: tag_name :IT Professional/Technical Manager, Role, 300 - Advanced, Level, Serverless Compute, Topic, Developer/Engineer, Role, AWS Lambda, Services, Amazon API Gateway, Services, Architecture, Topic, Wednesday, Day, MGM Grand, Venue, Solution/Systems Architect, Role, Amazon DynamoDB, Services, , speakers :firstName_0: Justin, lastName_0: Pirtle, firstName_1: Franklin, lastName_1: Aguinaldo, , thirdpartyid :SVS321, sessionuid :9DE097E4-7238-422E-A3D1-9CAE44AE4105, title :Designing your serverless API workloads for massive scale, description :Learn to architect your serverless API workloads on AWS to scale to meet virtually any demand while also reducing your operational overhead. This chalk talk discusses key design principles for Amazon API Gateway, AWS Lambda, and Amazon DynamoDB to achieve massive scale. See a demo of how asynchronous processing, caching, rate limiting, and performance optimization can help you architect workloads to withstand large bursts of traffic. We apply these principles to evolve a real-world architecture while holding an in-depth Q&A., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :301, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 21:00:00 -0500, 
+enddatetimeutc: November, 29 2023 21:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: 301
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Learn to architect your serverless API workloads on AWS to scale to meet virtually any demand while also reducing your operational overhead. This chalk talk discusses key design principles for Amazon API Gateway, AWS Lambda, and Amazon DynamoDB to achieve massive scale. See a demo of how asynchronous processing, caching, rate limiting, and performance optimization can help you architect workloads to withstand large bursts of traffic. We apply these principles to evolve a real-world architecture while holding an in-depth Q&A
+title: Designing your serverless API workloads for massive scale
+sessionuid: 9DE097E4-7238-422E-A3D1-9CAE44AE4105
+thirdpartyid: SVS321
+speakers: firstName_0: Justin, lastName_0: Pirtle, firstName_1: Franklin, lastName_1: Aguinaldo
+tag_name: IT Professional/Technical Manager, Role, 300 - Advanced, Level, Serverless Compute, Topic, Developer/Engineer, Role, AWS Lambda, Services, Amazon API Gateway, Services, Architecture, Topic, Wednesday, Day, MGM Grand, Venue, Solution/Systems Architect, Role, Amazon DynamoDB, Services

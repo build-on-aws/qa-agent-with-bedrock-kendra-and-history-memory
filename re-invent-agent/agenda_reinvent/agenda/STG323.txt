@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 123
+summary: tag_name :Developer/Engineer, Role, AWS DataSync, Services, Storage, Topic, 300 - Advanced, Level, Cross Industry, Industry, Amazon Simple Storage Service (S3), Services, Migration & Transfer, Area of Interest, IT Professional/Technical Manager, Role, Tuesday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, Amazon EMR Serverless, Services, Financial Services, Industry, , speakers :firstName_0: Promise, lastName_0: Owolabi, firstName_1: Ameen, lastName_1: Khan S, , thirdpartyid :STG323, sessionuid :0C088217-FDA8-42E0-8DCB-72A45E19FAEF, title :Migrate on-premises Hadoop data lakes to Amazon S3 with AWS DataSync, description :You want to utilize the AWS Cloud to increase cost efficiency, decouple big data storage from compute, and use data analytics and machine learning. But how do you move your Hadoop cluster? In this chalk talk, learn how to accelerate this transition by using AWS DataSync to quickly and securely migrate files and folders from HDFS on your Hadoop cluster to Amazon S3. With your data in Amazon S3, you can use Apache Spark on Amazon EMR or AWS Glue jobs to read data and perform data transformations., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 123, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: Forum 123
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: You want to utilize the AWS Cloud to increase cost efficiency, decouple big data storage from compute, and use data analytics and machine learning. But how do you move your Hadoop cluster? In this chalk talk, learn how to accelerate this transition by using AWS DataSync to quickly and securely migrate files and folders from HDFS on your Hadoop cluster to Amazon S3. With your data in Amazon S3, you can use Apache Spark on Amazon EMR or AWS Glue jobs to read data and perform data transformations
+title: Migrate on-premises Hadoop data lakes to Amazon S3 with AWS DataSync
+sessionuid: 0C088217-FDA8-42E0-8DCB-72A45E19FAEF
+thirdpartyid: STG323
+speakers: firstName_0: Promise, lastName_0: Owolabi, firstName_1: Ameen, lastName_1: Khan S
+tag_name: Developer/Engineer, Role, AWS DataSync, Services, Storage, Topic, 300 - Advanced, Level, Cross Industry, Industry, Amazon Simple Storage Service (S3), Services, Migration & Transfer, Area of Interest, IT Professional/Technical Manager, Role, Tuesday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, Amazon EMR Serverless, Services, Financial Services, Industry

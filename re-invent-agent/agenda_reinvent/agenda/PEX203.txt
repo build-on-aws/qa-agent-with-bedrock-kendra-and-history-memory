@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3002
+summary: tag_name :200 - Intermediate, Level, Partner Enablement, Topic, Monday, Day, Venetian, Venue, , speakers :firstName_0: Antony Prasad, lastName_0: Thevaraj, firstName_1: Sudhir, lastName_1: Gupta, , thirdpartyid :PEX203, sessionuid :1A40BBFA-2499-469A-A39B-C029A3A9C3C5, title :Simplifying modern data pipelines with zero-ETL architectures on AWS, description :The advent of zero ETL on AWS is driving a paradigm shift in the composition of modern AWS analytics stacks. Join this session to learn how you can analyze and query a variety of data sources including streaming, transactional, operational, and historical data stores in real time with the zero-ETL capabilities of AWS analytics services such as Amazon Aurora, Amazon Redshift, and Amazon Athena. Also learn about the use cases, key considerations, and best practices of designing modern data platforms without worrying about data movement or the complexities of traditional ETL pipelines. This session is intended for AWS Partners., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3002, startdatetimeutc :November, 27 2023 20:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 20:00:00 -0500
+locationname: Lido 3002
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Breakout Session
+description: The advent of zero ETL on AWS is driving a paradigm shift in the composition of modern AWS analytics stacks. Join this session to learn how you can analyze and query a variety of data sources including streaming, transactional, operational, and historical data stores in real time with the zero-ETL capabilities of AWS analytics services such as Amazon Aurora, Amazon Redshift, and Amazon Athena. Also learn about the use cases, key considerations, and best practices of designing modern data platforms without worrying about data movement or the complexities of traditional ETL pipelines. This session is intended for AWS Partners
+title: Simplifying modern data pipelines with zero-ETL architectures on AWS
+sessionuid: 1A40BBFA-2499-469A-A39B-C029A3A9C3C5
+thirdpartyid: PEX203
+speakers: firstName_0: Antony Prasad, lastName_0: Thevaraj, firstName_1: Sudhir, lastName_1: Gupta
+tag_name: 200 - Intermediate, Level, Partner Enablement, Topic, Monday, Day, Venetian, Venue

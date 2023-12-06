@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 123
+summary: tag_name :Cross Industry, Industry, Amazon Elastic Container Service (ECS), Services, 400 - Expert, Level, Management & Governance, Area of Interest, AWS Fargate, Services, IT Professional/Technical Manager, Role, Tuesday, Day, MGM Grand, Venue, System Administrator, Role, Business Intelligence, Area of Interest, Developer/Engineer, Role, Serverless Compute, Topic, , speakers :firstName_0: Sharanya, lastName_0: Devaraj, firstName_1: Olly, lastName_1: Pomeroy, , thirdpartyid :CON403, sessionuid :124790F3-E33F-4BE3-89CF-66F46F35F296, title :Seekable OCI (SOCI) for lazy loading container images with Amazon ECS, description :Seekable OCI (SOCI) is a technology open-sourced by AWS that enables containers to launch faster by lazily loading the container image. In this workshop, get hands-on with SOCI. Learn how to create SOCI indexes for existing container images and how index generation can be automated in the cloud. Then, practice deploying workloads to Amazon ECS with AWS Fargate, considering how launch times are reduced by lazily loading container images. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 123, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 29 2023 00:00:00 -0500, 
+enddatetimeutc: November, 29 2023 00:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Grand 123
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: Seekable OCI (SOCI) is a technology open-sourced by AWS that enables containers to launch faster by lazily loading the container image. In this workshop, get hands-on with SOCI. Learn how to create SOCI indexes for existing container images and how index generation can be automated in the cloud. Then, practice deploying workloads to Amazon ECS with AWS Fargate, considering how launch times are reduced by lazily loading container images. You must bring your laptop to participate
+title: Seekable OCI (SOCI) for lazy loading container images with Amazon ECS
+sessionuid: 124790F3-E33F-4BE3-89CF-66F46F35F296
+thirdpartyid: CON403
+speakers: firstName_0: Sharanya, lastName_0: Devaraj, firstName_1: Olly, lastName_1: Pomeroy
+tag_name: Cross Industry, Industry, Amazon Elastic Container Service (ECS), Services, 400 - Expert, Level, Management & Governance, Area of Interest, AWS Fargate, Services, IT Professional/Technical Manager, Role, Tuesday, Day, MGM Grand, Venue, System Administrator, Role, Business Intelligence, Area of Interest, Developer/Engineer, Role, Serverless Compute, Topic

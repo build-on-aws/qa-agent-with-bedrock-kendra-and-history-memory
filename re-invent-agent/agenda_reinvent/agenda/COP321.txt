@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 201
+summary: tag_name :AWS Control Tower, Services, IT Executive, Role, AWS Systems Manager, Services, IT Professional/Technical Manager, Role, DevOps Engineer, Role, Wednesday, Day, Caesars Forum, Venue, 300 - Advanced, Level, Cloud Operations, Topic, Management & Governance, Area of Interest, , speakers :firstName_0: Steve, lastName_0: Rice, firstName_1: Guilherme, lastName_1: Greco, firstName_2: Thiago, lastName_2: Oliveira Vieira Morais, company_2: Itaú Unibanco, , thirdpartyid :COP321, sessionuid :11C63CB0-DA06-4231-9DC0-06365D0B41D2, title :Best practices for operating on AWS, description :<p>Operating in the cloud allows IT teams to focus on business outcomes and accelerate innovation. In this session, learn how to build, manage, and operate your mission-critical applications in a secure, automated, reliable, and cost-effective way. Discover best practices for establishing a multi-account environment, automating operations, and managing your applications. Additionally, learn how to overcome operational challenges, achieve efficient management, and enhance resilience for workloads.</p>, sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 201, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Summit 201
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: <p>Operating in the cloud allows IT teams to focus on business outcomes and accelerate innovation. In this session, learn how to build, manage, and operate your mission-critical applications in a secure, automated, reliable, and cost-effective way. Discover best practices for establishing a multi-account environment, automating operations, and managing your applications. Additionally, learn how to overcome operational challenges, achieve efficient management, and enhance resilience for workloads.</p>
+title: Best practices for operating on AWS
+sessionuid: 11C63CB0-DA06-4231-9DC0-06365D0B41D2
+thirdpartyid: COP321
+speakers: firstName_0: Steve, lastName_0: Rice, firstName_1: Guilherme, lastName_1: Greco, firstName_2: Thiago, lastName_2: Oliveira Vieira Morais, company_2: Itaú Unibanco
+tag_name: AWS Control Tower, Services, IT Executive, Role, AWS Systems Manager, Services, IT Professional/Technical Manager, Role, DevOps Engineer, Role, Wednesday, Day, Caesars Forum, Venue, 300 - Advanced, Level, Cloud Operations, Topic, Management & Governance, Area of Interest

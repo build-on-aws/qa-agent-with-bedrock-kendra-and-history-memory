@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 7
+summary: tag_name :Generative AI, Area of Interest, 200 - Intermediate, Level, Monday, Day, Security, Compliance, & Identity, Topic, Wynn, Venue, Cross Industry, Industry, , speakers :firstName_0: Kareem, lastName_0: Abdol-Hamid, firstName_1: Ana, lastName_1: Malhotra, firstName_2: Danny, lastName_2: Cortegaca, , thirdpartyid :SEC214, sessionuid :5C83919C-5868-4B77-AD8C-74A9F0AE3D34, title :Threat modeling your generative AI workload to evaluate security risk, description :<p>As the capabilities and possibilities of machine learning continue to expand with the advances in generative AI, understanding the security risks introduced by these advances is essential for protecting your valuable AWS workloads. This session guides you through a practical threat modeling approach, empowering you to create a threat model for your own generative AI applications. Additionally, see a demo of how to implement effective mitigations to secure your generative AI workloads with Amazon Bedrock. Come gain confidence to securely build your next generative AI workload on AWS with the help of threat modeling, and leave with actionable steps you can take to get started.</p>, sessiontype :Breakout Session, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 7, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 19:30:00 -0500, 
+enddatetimeutc: November, 27 2023 19:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: Cristal 7
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Breakout Session
+description: <p>As the capabilities and possibilities of machine learning continue to expand with the advances in generative AI, understanding the security risks introduced by these advances is essential for protecting your valuable AWS workloads. This session guides you through a practical threat modeling approach, empowering you to create a threat model for your own generative AI applications. Additionally, see a demo of how to implement effective mitigations to secure your generative AI workloads with Amazon Bedrock. Come gain confidence to securely build your next generative AI workload on AWS with the help of threat modeling, and leave with actionable steps you can take to get started.</p>
+title: Threat modeling your generative AI workload to evaluate security risk
+sessionuid: 5C83919C-5868-4B77-AD8C-74A9F0AE3D34
+thirdpartyid: SEC214
+speakers: firstName_0: Kareem, lastName_0: Abdol-Hamid, firstName_1: Ana, lastName_1: Malhotra, firstName_2: Danny, lastName_2: Cortegaca
+tag_name: Generative AI, Area of Interest, 200 - Intermediate, Level, Monday, Day, Security, Compliance, & Identity, Topic, Wynn, Venue, Cross Industry, Industry

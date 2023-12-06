@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 104
+summary: tag_name :Cross Industry, Industry, Financial Services, Industry, Serverless Compute, Topic, Global Infrastructure, Area of Interest, Solution/Systems Architect, Role, Media & Entertainment, Industry, Databases, Topic, IT Professional/Technical Manager, Role, Tuesday, Day, Caesars Forum, Venue, Developer/Engineer, Role, Resilience, Area of Interest, 300 - Advanced, Level, Amazon Aurora, Services, Disaster Response & Recovery, Area of Interest, , speakers :firstName_0: Tim, lastName_0: Gustafson, firstName_1: Tim, lastName_1: Stoakes, , thirdpartyid :DAT319-R, sessionuid :F0FBB051-4FF5-4E60-A5F2-1627E4584689, title :Making your Amazon Aurora cluster more resilient [REPEAT], description :Amazon Aurora is a cloud-native relational database with unparalleled high performance and availability at global scale. Hundreds of thousands of customers trust Aurora for their workloads today. In this chalk talk, learn about features such as Aurora Global Database and Amazon RDS Proxy and best practices to achieve high availability for your Aurora clusters. The talk includes whiteboarding on high availability and disaster recovery solutions to maximize your application’s resilience., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 104, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: Forum 104
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Amazon Aurora is a cloud-native relational database with unparalleled high performance and availability at global scale. Hundreds of thousands of customers trust Aurora for their workloads today. In this chalk talk, learn about features such as Aurora Global Database and Amazon RDS Proxy and best practices to achieve high availability for your Aurora clusters. The talk includes whiteboarding on high availability and disaster recovery solutions to maximize your application’s resilience
+title: Making your Amazon Aurora cluster more resilient [REPEAT]
+sessionuid: F0FBB051-4FF5-4E60-A5F2-1627E4584689
+thirdpartyid: DAT319-R
+speakers: firstName_0: Tim, lastName_0: Gustafson, firstName_1: Tim, lastName_1: Stoakes
+tag_name: Cross Industry, Industry, Financial Services, Industry, Serverless Compute, Topic, Global Infrastructure, Area of Interest, Solution/Systems Architect, Role, Media & Entertainment, Industry, Databases, Topic, IT Professional/Technical Manager, Role, Tuesday, Day, Caesars Forum, Venue, Developer/Engineer, Role, Resilience, Area of Interest, 300 - Advanced, Level, Amazon Aurora, Services, Disaster Response & Recovery, Area of Interest

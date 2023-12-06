@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 216
+summary: tag_name :Hybrid Cloud, Topic, 400 - Expert, Level, Developer/Engineer, Role, Quantum Technologies, Area of Interest, Solution/Systems Architect, Role, Amazon Braket, Services, Academic/Researcher, Role, Wednesday, Day, Caesars Forum, Venue, Life Sciences, Industry, Government, Industry, , speakers :firstName_0: Katharine, lastName_0: Hyatt, firstName_1: Stefan, lastName_1: Natu, , thirdpartyid :QTC401, sessionuid :B4B689EF-3F3F-431D-9AD5-7DA6F69D2218, title :Exploring quantum chemistry with hybrid algorithms on Amazon Braket, description :Many quantum algorithms with applications in quantum chemistry and optimization are hybrids, combining quantum and classical processors to arrive at a solution. This workshop teaches you how to use Amazon Braket Hybrid Jobs to implement the Variational Quantum Eigensolver algorithm to compute the potential energy surface for the hydrogen molecule. In this hands-on workshop, set up your Braket notebooks and run Hybrid Jobs on real quantum hardware. You will leave with code examples that you can use as a foundation for your own projects. You must bring your laptop to participate., sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 216, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Summit 216
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: Many quantum algorithms with applications in quantum chemistry and optimization are hybrids, combining quantum and classical processors to arrive at a solution. This workshop teaches you how to use Amazon Braket Hybrid Jobs to implement the Variational Quantum Eigensolver algorithm to compute the potential energy surface for the hydrogen molecule. In this hands-on workshop, set up your Braket notebooks and run Hybrid Jobs on real quantum hardware. You will leave with code examples that you can use as a foundation for your own projects. You must bring your laptop to participate
+title: Exploring quantum chemistry with hybrid algorithms on Amazon Braket
+sessionuid: B4B689EF-3F3F-431D-9AD5-7DA6F69D2218
+thirdpartyid: QTC401
+speakers: firstName_0: Katharine, lastName_0: Hyatt, firstName_1: Stefan, lastName_1: Natu
+tag_name: Hybrid Cloud, Topic, 400 - Expert, Level, Developer/Engineer, Role, Quantum Technologies, Area of Interest, Solution/Systems Architect, Role, Amazon Braket, Services, Academic/Researcher, Role, Wednesday, Day, Caesars Forum, Venue, Life Sciences, Industry, Government, Industry

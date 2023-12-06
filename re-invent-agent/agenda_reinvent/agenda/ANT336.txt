@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 1
+summary: tag_name :Amazon DataZone, Services, Solution/Systems Architect, Role, Management & Governance, Area of Interest, DevOps and Developer Productivity, Topic, Innovation on AWS, Area of Interest, Developer/Engineer, Role, Analytics, Topic, 300 - Advanced, Level, Data Engineer, Role, Data Protection, Area of Interest, AWS Identity and Access Management (IAM), Services, Tuesday, Day, Wynn, Venue, AWS Lake Formation, Services, , speakers :firstName_0: Christopher, lastName_0: Sharkey, firstName_1: Varsha, lastName_1: Velagapudi, , thirdpartyid :ANT336-R, sessionuid :D7BD6B70-1668-40B3-9F53-D2CCD6E4DF79, title :Governed data sharing with Amazon DataZone and AWS Lake Formation [REPEAT], description :Learn how Amazon DataZone and AWS Lake Formation can help you make data sharing seamless across your organization. Discover how identity federation works in Amazon DataZone. In this chalk talk, learn about the innovations introduced to handle identity federation and remove operational tasks from your teams., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 1, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Lafite 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Learn how Amazon DataZone and AWS Lake Formation can help you make data sharing seamless across your organization. Discover how identity federation works in Amazon DataZone. In this chalk talk, learn about the innovations introduced to handle identity federation and remove operational tasks from your teams
+title: Governed data sharing with Amazon DataZone and AWS Lake Formation [REPEAT]
+sessionuid: D7BD6B70-1668-40B3-9F53-D2CCD6E4DF79
+thirdpartyid: ANT336-R
+speakers: firstName_0: Christopher, lastName_0: Sharkey, firstName_1: Varsha, lastName_1: Velagapudi
+tag_name: Amazon DataZone, Services, Solution/Systems Architect, Role, Management & Governance, Area of Interest, DevOps and Developer Productivity, Topic, Innovation on AWS, Area of Interest, Developer/Engineer, Role, Analytics, Topic, 300 - Advanced, Level, Data Engineer, Role, Data Protection, Area of Interest, AWS Identity and Access Management (IAM), Services, Tuesday, Day, Wynn, Venue, AWS Lake Formation, Services

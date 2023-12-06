@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3002
+summary: tag_name :New to AWS, Topic, AI/ML, Topic, Innovation on AWS, Area of Interest, Generative AI, Area of Interest, Strategy & Transformation, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, Sales/Marketing, Role, Amazon Bedrock, Services, Amazon CodeWhisperer, Services, Monday, Day, Venetian, Venue, , speakers :firstName_0: Tom, lastName_0: Godden, , thirdpartyid :SEG204, sessionuid :78FAED96-3257-4DAB-BA22-482B13D82B07, title :A leader’s guide to generative AI: Using history to shape the future, description :<p>Generative AI is increasingly a point of focus globally. Scalability of the cloud, a massive proliferation of data, and the rapid advancement of ML technologies have positioned AI for wide-scale adoption. History, however, has taught us that realizing the value of transformational technologies isn’t always a linear process. It requires leadership, cultural shift, operating model changes, and investments in new skills. In this session, AWS enterprise strategists, a team of former CXOs, share lessons learned from past major technological shifts, how leaders can apply them to generative AI, and the differentiated approach that AWS is taking to democratize generative AI.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3002, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Lido 3002
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: standard
+description: <p>Generative AI is increasingly a point of focus globally. Scalability of the cloud, a massive proliferation of data, and the rapid advancement of ML technologies have positioned AI for wide-scale adoption. History, however, has taught us that realizing the value of transformational technologies isn’t always a linear process. It requires leadership, cultural shift, operating model changes, and investments in new skills. In this session, AWS enterprise strategists, a team of former CXOs, share lessons learned from past major technological shifts, how leaders can apply them to generative AI, and the differentiated approach that AWS is taking to democratize generative AI.</p>
+title: A leader’s guide to generative AI: Using history to shape the future
+sessionuid: 78FAED96-3257-4DAB-BA22-482B13D82B07
+thirdpartyid: SEG204
+speakers: firstName_0: Tom, lastName_0: Godden
+tag_name: New to AWS, Topic, AI/ML, Topic, Innovation on AWS, Area of Interest, Generative AI, Area of Interest, Strategy & Transformation, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, Sales/Marketing, Role, Amazon Bedrock, Services, Amazon CodeWhisperer, Services, Monday, Day, Venetian, Venue

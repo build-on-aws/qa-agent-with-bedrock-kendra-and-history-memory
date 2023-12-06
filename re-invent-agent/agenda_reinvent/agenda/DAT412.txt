@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Margaux 1
+summary: tag_name :Amazon DynamoDB, Services, Developer/Engineer, Role, Databases, Topic, Innovation on AWS, Area of Interest, Serverless Compute, Topic, Wednesday, Day, Wynn, Venue, Solution/Systems Architect, Role, Cross Industry, Industry, 400 - Expert, Level, IT Professional/Technical Manager, Role, , speakers :firstName_0: Robert, lastName_0: McCauley, , thirdpartyid :DAT412, sessionuid :F164D2B9-0897-4E45-B2DC-1F56A406D860, title :How to add Amazon DynamoDB to your web application, description :Amazon DynamoDB provides developers with a fast, flexible, serverless database service that can be integrated into an existing web application. In this code talk, learn about the React web application that reads and writes to MySQL, and then get an introduction to using JavaScript functions to access DynamoDB instead. Also, explore advanced design patterns such as aggregations and parallel queries., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Margaux 1, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Margaux 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: Amazon DynamoDB provides developers with a fast, flexible, serverless database service that can be integrated into an existing web application. In this code talk, learn about the React web application that reads and writes to MySQL, and then get an introduction to using JavaScript functions to access DynamoDB instead. Also, explore advanced design patterns such as aggregations and parallel queries
+title: How to add Amazon DynamoDB to your web application
+sessionuid: F164D2B9-0897-4E45-B2DC-1F56A406D860
+thirdpartyid: DAT412
+speakers: firstName_0: Robert, lastName_0: McCauley
+tag_name: Amazon DynamoDB, Services, Developer/Engineer, Role, Databases, Topic, Innovation on AWS, Area of Interest, Serverless Compute, Topic, Wednesday, Day, Wynn, Venue, Solution/Systems Architect, Role, Cross Industry, Industry, 400 - Expert, Level, IT Professional/Technical Manager, Role

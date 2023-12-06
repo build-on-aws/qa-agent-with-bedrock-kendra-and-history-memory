@@ -1,0 +1,14 @@
+location: MGM Grand, Level 2, Cedar Ballroom 205
+summary: tag_name :Tuesday, Day, MGM Grand, Venue, Meals & Conference Services, Additional Services, , speakers :, thirdpartyid :ACT110, sessionuid :B6997C4E-759E-4FA9-BCA7-EDDC121321E4, title :Quiet space, description :The quiet space is a calm, quiet environment designed for meals, catching up on work, or taking a break from the crowd. If you are looking for a dark, quiet space for meditation, prayer, or yoga, or to find resources for sensory needs, please search for the reflection room., sessiontype :Conference Services, venuename :MGM Grand, floorplanname :Level 2, locationname :Cedar Ballroom 205, startdatetimeutc :November, 28 2023 16:00:00 -0500, enddatetimeutc :November, 29 2023 03:00:00 -0500, 
+enddatetimeutc: November, 29 2023 03:00:00 -0500
+startdatetimeutc: November, 28 2023 16:00:00 -0500
+locationname: Cedar Ballroom 205
+floorplanname: Level 2
+venuename: MGM Grand
+sessiontype: Conference Services
+description: The quiet space is a calm, quiet environment designed for meals, catching up on work, or taking a break from the crowd. If you are looking for a dark, quiet space for meditation, prayer, or yoga, or to find resources for sensory needs, please search for the reflection room
+title: Quiet space
+sessionuid: B6997C4E-759E-4FA9-BCA7-EDDC121321E4
+thirdpartyid: ACT110
+speakers: 
+tag_name: Tuesday, Day, MGM Grand, Venue, Meals & Conference Services, Additional Services

@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :Analytics, Topic, Enterprise & Migration, Topic, Media & Entertainment, Industry, DevOps Engineer, Role, Data Engineer, Role, Open Source, Area of Interest, 300 - Advanced, Level, Amazon Managed Service for Apache Flink, Services, Amazon Kinesis, Services, Thursday, Day, Mandalay Bay, Venue, Cost Optimization, Area of Interest, Migration & Transfer, Area of Interest, Financial Services, Industry, Solution/Systems Architect, Role, , speakers :firstName_0: Jeremy, lastName_0: Ber, firstName_1: Amar, lastName_1: Surjit, , thirdpartyid :ANT314, sessionuid :9386BB82-A3C6-4B49-9265-CD6D8E3AB073, title :Migrating self-managed Apache Flink to fully managed on AWS, description :In this chalk talk, review key details to keep in mind when migrating self-managed Apache Flink applications to Amazon Managed Service for Apache Flink. Explore how using cloud-based services with the right patterns can reduce operational overhead. Hear about best practices that can help with migration while still maintaining costs, scale, and performance., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: In this chalk talk, review key details to keep in mind when migrating self-managed Apache Flink applications to Amazon Managed Service for Apache Flink. Explore how using cloud-based services with the right patterns can reduce operational overhead. Hear about best practices that can help with migration while still maintaining costs, scale, and performance
+title: Migrating self-managed Apache Flink to fully managed on AWS
+sessionuid: 9386BB82-A3C6-4B49-9265-CD6D8E3AB073
+thirdpartyid: ANT314
+speakers: firstName_0: Jeremy, lastName_0: Ber, firstName_1: Amar, lastName_1: Surjit
+tag_name: Analytics, Topic, Enterprise & Migration, Topic, Media & Entertainment, Industry, DevOps Engineer, Role, Data Engineer, Role, Open Source, Area of Interest, 300 - Advanced, Level, Amazon Managed Service for Apache Flink, Services, Amazon Kinesis, Services, Thursday, Day, Mandalay Bay, Venue, Cost Optimization, Area of Interest, Migration & Transfer, Area of Interest, Financial Services, Industry, Solution/Systems Architect, Role

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 416
+summary: tag_name :Management & Governance, Area of Interest, 300 - Advanced, Level, AWS Chatbot, Services, Cloud Operations, Topic, DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Monday, Day, Caesars Forum, Venue, , speakers :firstName_0: Abhijit, lastName_0: Barde, firstName_1: Nitin, lastName_1: Verma, firstName_2: Rodney, lastName_2: Bozo, firstName_3: Shashi, lastName_3: Pemmasani, firstName_4: Terri, lastName_4: Johnson, , thirdpartyid :COP313-R, sessionuid :58C3559B-745A-4145-BFD0-0C9A508D8485, title :Automate incident management of modern workloads using ChatOps [REPEAT], description :<p>It’s critical to act quickly and efficiently to address issues, minimize outages, and improve incident response. In this builders’ session, learn how to implement ChatOps using AWS services, including AWS Chatbot and AWS Systems Manager, and popular communication and collaboration platforms, such as Microsoft Teams and Slack. Explore how you can implement chat-driven operational workflows to assist in diagnosing and remediating operational issues of modern workloads. You must bring your laptop to participate.</p>, sessiontype :Builders' Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 416, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 01:30:00 -0500, 
+enddatetimeutc: November, 28 2023 01:30:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: Academy 416
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Builders' Session
+description: <p>It’s critical to act quickly and efficiently to address issues, minimize outages, and improve incident response. In this builders’ session, learn how to implement ChatOps using AWS services, including AWS Chatbot and AWS Systems Manager, and popular communication and collaboration platforms, such as Microsoft Teams and Slack. Explore how you can implement chat-driven operational workflows to assist in diagnosing and remediating operational issues of modern workloads. You must bring your laptop to participate.</p>
+title: Automate incident management of modern workloads using ChatOps [REPEAT]
+sessionuid: 58C3559B-745A-4145-BFD0-0C9A508D8485
+thirdpartyid: COP313-R
+speakers: firstName_0: Abhijit, lastName_0: Barde, firstName_1: Nitin, lastName_1: Verma, firstName_2: Rodney, lastName_2: Bozo, firstName_3: Shashi, lastName_3: Pemmasani, firstName_4: Terri, lastName_4: Johnson
+tag_name: Management & Governance, Area of Interest, 300 - Advanced, Level, AWS Chatbot, Services, Cloud Operations, Topic, DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Monday, Day, Caesars Forum, Venue

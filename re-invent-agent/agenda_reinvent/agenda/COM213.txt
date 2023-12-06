@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Cloud Operations, Topic, DevOps and Developer Productivity, Topic, Customer Stories, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, AWS Cloud Development Kit (CDK), Services, AWS CloudFormation, Services, AWS Identity and Access Management (IAM), Services, 200 - Intermediate, Level, Tuesday, Day, Venetian, Venue, , speakers :firstName_0: Nora, lastName_0: Schöener, company_0: superluminar, , thirdpartyid :COM213, sessionuid :8991C65F-C704-4727-AE70-119DFA4AC389, title :Infrastructure as code showdown: AWS CDK and declarative tools, description :<p>When building in the cloud, it’s crucial to use infrastructure as code (IaC). Using declarative tools is useful, especially if you are working on the Ops side, but it can get pretty challenging to deal with increasing complexity or special demand to your setup. AWS CDK solves a lot of these challenges and makes IaC more accessible to developers. In this dev chat, explore how to overcome challenges like deploying your AWS Lambda functions or choosing the right AWS Identity and Access Management (IAM) permission policy. Learn how efficient AWS CDK can be in contrast to other IaC tools.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :November, 29 2023 00:00:00 -0500, enddatetimeutc :November, 29 2023 00:20:00 -0500, 
+enddatetimeutc: November, 29 2023 00:20:00 -0500
+startdatetimeutc: November, 29 2023 00:00:00 -0500
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>When building in the cloud, it’s crucial to use infrastructure as code (IaC). Using declarative tools is useful, especially if you are working on the Ops side, but it can get pretty challenging to deal with increasing complexity or special demand to your setup. AWS CDK solves a lot of these challenges and makes IaC more accessible to developers. In this dev chat, explore how to overcome challenges like deploying your AWS Lambda functions or choosing the right AWS Identity and Access Management (IAM) permission policy. Learn how efficient AWS CDK can be in contrast to other IaC tools.</p>
+title: Infrastructure as code showdown: AWS CDK and declarative tools
+sessionuid: 8991C65F-C704-4727-AE70-119DFA4AC389
+thirdpartyid: COM213
+speakers: firstName_0: Nora, lastName_0: Schöener, company_0: superluminar
+tag_name: Cloud Operations, Topic, DevOps and Developer Productivity, Topic, Customer Stories, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, AWS Cloud Development Kit (CDK), Services, AWS CloudFormation, Services, AWS Identity and Access Management (IAM), Services, 200 - Intermediate, Level, Tuesday, Day, Venetian, Venue

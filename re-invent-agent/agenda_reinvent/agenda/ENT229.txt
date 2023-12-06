@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 115
+summary: tag_name :Enterprise & Migration, Topic, IT Executive, Role, IT Professional/Technical Manager, Role, Modernization, Area of Interest, 200 - Intermediate, Level, Thursday, Day, Caesars Forum, Venue, SAP, Area of Interest, Amazon Elastic Block Store (EBS), Services, Amazon Elastic Compute Cloud (EC2), Services, Innovation on AWS, Area of Interest, Solution/Systems Architect, Role, Cross Industry, Industry, , speakers :firstName_0: Arne, lastName_0: Knoeller, firstName_1: Sunny, lastName_1: Patwari, , thirdpartyid :ENT229-R, sessionuid :2A184122-B8C6-4C6D-BF9E-52A1C089AD04, title :Use AWS services, RISE with SAP, and SAP BTP to innovate faster [REPEAT], description :Learn best practices for innovating with AWS services, RISE with SAP, and the SAP Business Technology Platform (BTP). This chalk talk starts with a review of the AWS and SAP joint reference architecture to help you understand its three layers: platform foundation, data to value, and integration and application development. It then includes a demonstration of how to solve for common business process use cases while embracing the SAP Clean Core methodology and AWS design principles., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 115, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 20:30:00 -0500, 
+enddatetimeutc: November, 30 2023 20:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Forum 115
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Learn best practices for innovating with AWS services, RISE with SAP, and the SAP Business Technology Platform (BTP). This chalk talk starts with a review of the AWS and SAP joint reference architecture to help you understand its three layers: platform foundation, data to value, and integration and application development. It then includes a demonstration of how to solve for common business process use cases while embracing the SAP Clean Core methodology and AWS design principles
+title: Use AWS services, RISE with SAP, and SAP BTP to innovate faster [REPEAT]
+sessionuid: 2A184122-B8C6-4C6D-BF9E-52A1C089AD04
+thirdpartyid: ENT229-R
+speakers: firstName_0: Arne, lastName_0: Knoeller, firstName_1: Sunny, lastName_1: Patwari
+tag_name: Enterprise & Migration, Topic, IT Executive, Role, IT Professional/Technical Manager, Role, Modernization, Area of Interest, 200 - Intermediate, Level, Thursday, Day, Caesars Forum, Venue, SAP, Area of Interest, Amazon Elastic Block Store (EBS), Services, Amazon Elastic Compute Cloud (EC2), Services, Innovation on AWS, Area of Interest, Solution/Systems Architect, Role, Cross Industry, Industry

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 368
+summary: tag_name :Amazon SageMaker, Services, Solution/Systems Architect, Role, Business Intelligence, Area of Interest, Business Executive, Role, Analytics, Topic, Innovation on AWS, Area of Interest, AI/ML, Topic, Wednesday, Day, MGM Grand, Venue, Energy, Industry, IT Professional/Technical Manager, Role, 300 - Advanced, Level, , speakers :firstName_0: Joseph, lastName_0: Santamaria, firstName_1: Carmen, lastName_1: de Pablo, company_1: Cepsa, , thirdpartyid :ENU309, sessionuid :88A124CC-A8BA-4662-8A45-A8D1DE79626F, title :From hydrocarbons to green molecules: Cepsa’s transformation using AWS, description :Cepsa is an integrated leading international energy company committed to energy transition and sustainable mobility. They began their AWS journey in 2014, commencing with migration and modernization of their data warehouse, moving their entire SAP footprint to AWS, and implementing advanced AI/ML use cases using Amazon SageMaker. In this session, learn about Cepsa’s decarbonization journey which helped them transition from being a leader in hydrocarbons to a leader across energy transition and sustainability, pioneering H2 and its derivative products in the EU., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 368, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 21:00:00 -0500, 
+enddatetimeutc: November, 29 2023 21:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Chairmans 368
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Cepsa is an integrated leading international energy company committed to energy transition and sustainable mobility. They began their AWS journey in 2014, commencing with migration and modernization of their data warehouse, moving their entire SAP footprint to AWS, and implementing advanced AI/ML use cases using Amazon SageMaker. In this session, learn about Cepsa’s decarbonization journey which helped them transition from being a leader in hydrocarbons to a leader across energy transition and sustainability, pioneering H2 and its derivative products in the EU
+title: From hydrocarbons to green molecules: Cepsa’s transformation using AWS
+sessionuid: 88A124CC-A8BA-4662-8A45-A8D1DE79626F
+thirdpartyid: ENU309
+speakers: firstName_0: Joseph, lastName_0: Santamaria, firstName_1: Carmen, lastName_1: de Pablo, company_1: Cepsa
+tag_name: Amazon SageMaker, Services, Solution/Systems Architect, Role, Business Intelligence, Area of Interest, Business Executive, Role, Analytics, Topic, Innovation on AWS, Area of Interest, AI/ML, Topic, Wednesday, Day, MGM Grand, Venue, Energy, Industry, IT Professional/Technical Manager, Role, 300 - Advanced, Level

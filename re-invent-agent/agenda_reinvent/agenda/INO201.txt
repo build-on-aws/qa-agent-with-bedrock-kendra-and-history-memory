@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 370
+summary: tag_name :Business Executive, Role, Strategy & Transformation, Area of Interest, Resilience, Area of Interest, Innovation on AWS, Area of Interest, IT Executive, Role, Monday, Day, MGM Grand, Venue, New to AWS, Topic, 200 - Intermediate, Level, , speakers :firstName_0: Ceileidh, lastName_0: Siegel, firstName_1: Daniel, lastName_1: Slater, , thirdpartyid :INO201, sessionuid :6686C843-9D70-4AA1-9369-7E4507A9308C, title :Sustained business growth with high-velocity decision-making, description :Speed matters in business. But how do you make both high-velocity and high-quality decisions? The effective use of data and analytics to empower teams to move quickly and stay close to their customers’ ever-changing needs is at the forefront of every executive’s mind. In this session, discover Amazon’s approach to operating and innovating with speed. Learn how leaders can make high-velocity decisions by assembling the right team, become more agile and responsive to their customers’ current and changing needs, and prioritize customers’ needs to fuel winning innovation and business growth strategies., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 370, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 27 2023 22:00:00 -0500, 
+enddatetimeutc: November, 27 2023 22:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: Chairmans 370
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Speed matters in business. But how do you make both high-velocity and high-quality decisions? The effective use of data and analytics to empower teams to move quickly and stay close to their customers’ ever-changing needs is at the forefront of every executive’s mind. In this session, discover Amazon’s approach to operating and innovating with speed. Learn how leaders can make high-velocity decisions by assembling the right team, become more agile and responsive to their customers’ current and changing needs, and prioritize customers’ needs to fuel winning innovation and business growth strategies
+title: Sustained business growth with high-velocity decision-making
+sessionuid: 6686C843-9D70-4AA1-9369-7E4507A9308C
+thirdpartyid: INO201
+speakers: firstName_0: Ceileidh, lastName_0: Siegel, firstName_1: Daniel, lastName_1: Slater
+tag_name: Business Executive, Role, Strategy & Transformation, Area of Interest, Resilience, Area of Interest, Innovation on AWS, Area of Interest, IT Executive, Role, Monday, Day, MGM Grand, Venue, New to AWS, Topic, 200 - Intermediate, Level

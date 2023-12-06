@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 304
+summary: tag_name :Innovation on AWS, Area of Interest, Developer/Engineer, Role, 300 - Advanced, Level, Amazon Neptune, Services, IT Professional/Technical Manager, Role, Databases, Topic, Monday, Day, MGM Grand, Venue, Cross Industry, Industry, Solution/Systems Architect, Role, , speakers :firstName_0: Kelvin, lastName_0: Lawrence, firstName_1: Taylor, lastName_1: Riggan, , thirdpartyid :DAT317, sessionuid :D93A9970-8D1F-4318-BB5F-58595CA79AE4, title :Graph modeling best practices with Amazon Neptune, description :Use cases such as real-time recommendation engines demand high performance. When performance is your top priority, model optimizations can be very important to achieving your goals. This chalk talk offers a deep dive into Amazon Neptune’s data model, including tips and tricks to designing your own model to achieve top performance., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :304, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 23:00:00 -0500, 
+enddatetimeutc: November, 28 2023 23:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: 304
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Use cases such as real-time recommendation engines demand high performance. When performance is your top priority, model optimizations can be very important to achieving your goals. This chalk talk offers a deep dive into Amazon Neptune’s data model, including tips and tricks to designing your own model to achieve top performance
+title: Graph modeling best practices with Amazon Neptune
+sessionuid: D93A9970-8D1F-4318-BB5F-58595CA79AE4
+thirdpartyid: DAT317
+speakers: firstName_0: Kelvin, lastName_0: Lawrence, firstName_1: Taylor, lastName_1: Riggan
+tag_name: Innovation on AWS, Area of Interest, Developer/Engineer, Role, 300 - Advanced, Level, Amazon Neptune, Services, IT Professional/Technical Manager, Role, Databases, Topic, Monday, Day, MGM Grand, Venue, Cross Industry, Industry, Solution/Systems Architect, Role

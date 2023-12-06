@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 318
+summary: tag_name :AWS IoT Greengrass, Services, Developer/Engineer, Role, Edge Computing, Area of Interest, Aerospace & Satellite, Industry, 200 - Intermediate, Level, Databases, Topic, Serverless Compute, Topic, MGM Grand, Venue, Wednesday, Day, AWS Serverless Application Model (SAM), Services, Solution/Systems Architect, Role, Innovation on AWS, Area of Interest, Customer Stories, Area of Interest, Cross Industry, Industry, Data Scientist, Role, , speakers :firstName_0: Alexander, lastName_0: De Souza, company_0: SkyWatch, firstName_1: Brian, lastName_1: Plesnarski, firstName_2: Joel, lastName_2: Cumming, company_2: SkyWatch, firstName_3: Quentin, lastName_3: Morris, , thirdpartyid :AES204, sessionuid :D3245665-0B88-4439-A71C-E4D855F81DA1, title :Delivering EO data at scale with AWS serverless & edge compute, description :<p>In this session, learn how to build an efficient and scalable processing system for satellite data using AWS compute at the rugged space edge to process satellite images faster and reduce build times by up to 50%. Discover how you can use AWS compute at the space edge to process your large, multiband submeter resolution satellite imagery products quickly and cost-effectively.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 318, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 02:30:00 -0500, 
+enddatetimeutc: November, 30 2023 02:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Premier 318
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>In this session, learn how to build an efficient and scalable processing system for satellite data using AWS compute at the rugged space edge to process satellite images faster and reduce build times by up to 50%. Discover how you can use AWS compute at the space edge to process your large, multiband submeter resolution satellite imagery products quickly and cost-effectively.</p>
+title: Delivering EO data at scale with AWS serverless & edge compute
+sessionuid: D3245665-0B88-4439-A71C-E4D855F81DA1
+thirdpartyid: AES204
+speakers: firstName_0: Alexander, lastName_0: De Souza, company_0: SkyWatch, firstName_1: Brian, lastName_1: Plesnarski, firstName_2: Joel, lastName_2: Cumming, company_2: SkyWatch, firstName_3: Quentin, lastName_3: Morris
+tag_name: AWS IoT Greengrass, Services, Developer/Engineer, Role, Edge Computing, Area of Interest, Aerospace & Satellite, Industry, 200 - Intermediate, Level, Databases, Topic, Serverless Compute, Topic, MGM Grand, Venue, Wednesday, Day, AWS Serverless Application Model (SAM), Services, Solution/Systems Architect, Role, Innovation on AWS, Area of Interest, Customer Stories, Area of Interest, Cross Industry, Industry, Data Scientist, Role

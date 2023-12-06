@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas F
+summary: tag_name :Front-End Web & Mobile, Area of Interest, AWS Amplify, Services, 300 - Advanced, Level, Developer/Engineer, Role, Wednesday, Day, Mandalay Bay, Venue, DevOps and Developer Productivity, Topic, , speakers :firstName_0: Ali, lastName_0: Spittel, , thirdpartyid :FWM306, sessionuid :5C74F516-9E12-44A1-BE48-298B5E1D363A, title :What’s new for web & mobile app developers with AWS Amplify, description :<p>AWS Amplify makes it easy for frontend web and mobile developers to build full-stack applications in hours with minimal cloud expertise. In this session, walk through Amplify capabilities, including how you can easily configure a backend with authentication, data, and storage; how you can create a frontend UI from a Figma design or using new custom components; and how you can host static and server-side rendered web applications with Next.js. Learn about exciting new features that make it even easier for developers and teams to accelerate the pace of their innovation, leverage data to build differentiated application experiences, and give even individual SDEs the power of a virtual team.</p>, sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas F, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: South Seas F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: <p>AWS Amplify makes it easy for frontend web and mobile developers to build full-stack applications in hours with minimal cloud expertise. In this session, walk through Amplify capabilities, including how you can easily configure a backend with authentication, data, and storage; how you can create a frontend UI from a Figma design or using new custom components; and how you can host static and server-side rendered web applications with Next.js. Learn about exciting new features that make it even easier for developers and teams to accelerate the pace of their innovation, leverage data to build differentiated application experiences, and give even individual SDEs the power of a virtual team.</p>
+title: What’s new for web & mobile app developers with AWS Amplify
+sessionuid: 5C74F516-9E12-44A1-BE48-298B5E1D363A
+thirdpartyid: FWM306
+speakers: firstName_0: Ali, lastName_0: Spittel
+tag_name: Front-End Web & Mobile, Area of Interest, AWS Amplify, Services, 300 - Advanced, Level, Developer/Engineer, Role, Wednesday, Day, Mandalay Bay, Venue, DevOps and Developer Productivity, Topic

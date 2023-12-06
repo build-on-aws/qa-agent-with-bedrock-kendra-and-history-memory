@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 7
+summary: tag_name :Tuesday, Day, Wynn, Venue, Cross Industry, Industry, 100 - Foundational, Level, Partner Enablement, Topic, , speakers :firstName_0: Derek, lastName_0: Seymour, firstName_1: Ryan, lastName_1: Thomas, , thirdpartyid :PEX105, sessionuid :CB744F2B-2AD9-4B3F-B7F6-F259C499E854, title :Partnering to transform industries: Addressing customers’ top needs, description :AWS is taking an industry-focused approach to help organizations, meeting them where they are on their technology journey and working backwards from their specific challenges, opportunities, and needs. Customers report that they work with AWS and AWS Partners because of our demonstrated understanding of their business and their industry. In this session, learn how partners have been successful in delivering industry outcomes for customers and where we can build together in 2024 and beyond. This session is intended for AWS Partners., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 7, startdatetimeutc :November, 29 2023 01:30:00 -0500, enddatetimeutc :November, 29 2023 02:30:00 -0500, 
+enddatetimeutc: November, 29 2023 02:30:00 -0500
+startdatetimeutc: November, 29 2023 01:30:00 -0500
+locationname: Cristal 7
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Breakout Session
+description: AWS is taking an industry-focused approach to help organizations, meeting them where they are on their technology journey and working backwards from their specific challenges, opportunities, and needs. Customers report that they work with AWS and AWS Partners because of our demonstrated understanding of their business and their industry. In this session, learn how partners have been successful in delivering industry outcomes for customers and where we can build together in 2024 and beyond. This session is intended for AWS Partners
+title: Partnering to transform industries: Addressing customers’ top needs
+sessionuid: CB744F2B-2AD9-4B3F-B7F6-F259C499E854
+thirdpartyid: PEX105
+speakers: firstName_0: Derek, lastName_0: Seymour, firstName_1: Ryan, lastName_1: Thomas
+tag_name: Tuesday, Day, Wynn, Venue, Cross Industry, Industry, 100 - Foundational, Level, Partner Enablement, Topic

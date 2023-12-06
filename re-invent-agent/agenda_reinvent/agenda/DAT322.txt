@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 1
+summary: tag_name :Migration & Transfer, Area of Interest, Amazon DocumentDB (with MongoDB compatibility), Services, Solution/Systems Architect, Role, Well-Architected Framework, Area of Interest, 300 - Advanced, Level, Enterprise & Migration, Topic, Games, Industry, IT Professional/Technical Manager, Role, Databases, Topic, Tuesday, Day, Wynn, Venue, Financial Services, Industry, Developer/Engineer, Role, AWS Database Migration Service (DMS), Services, , speakers :firstName_0: Cody, lastName_0: Allen, firstName_1: Douglas, lastName_1: Bonser, , thirdpartyid :DAT322, sessionuid :95C8FECB-DB62-4CD2-862B-29613F40FC87, title :Perform live migrations to Amazon DocumentDB, description :<p>Migrating mission-critical applications with minimal downtime can be complex and challenging. In this chalk talk, learn how you can plan and implement a live migration of your document database workloads to Amazon DocumentDB (with MongoDB compatibility) with minimal to no disruption to your operations. The talk covers proven strategies and best practices that can help you seamlessly transition your applications while maintaining high availability. Discover the key steps, considerations, and techniques for a successful live migration to Amazon DocumentDB.</p>, sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 1, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Lafite 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: <p>Migrating mission-critical applications with minimal downtime can be complex and challenging. In this chalk talk, learn how you can plan and implement a live migration of your document database workloads to Amazon DocumentDB (with MongoDB compatibility) with minimal to no disruption to your operations. The talk covers proven strategies and best practices that can help you seamlessly transition your applications while maintaining high availability. Discover the key steps, considerations, and techniques for a successful live migration to Amazon DocumentDB.</p>
+title: Perform live migrations to Amazon DocumentDB
+sessionuid: 95C8FECB-DB62-4CD2-862B-29613F40FC87
+thirdpartyid: DAT322
+speakers: firstName_0: Cody, lastName_0: Allen, firstName_1: Douglas, lastName_1: Bonser
+tag_name: Migration & Transfer, Area of Interest, Amazon DocumentDB (with MongoDB compatibility), Services, Solution/Systems Architect, Role, Well-Architected Framework, Area of Interest, 300 - Advanced, Level, Enterprise & Migration, Topic, Games, Industry, IT Professional/Technical Manager, Role, Databases, Topic, Tuesday, Day, Wynn, Venue, Financial Services, Industry, Developer/Engineer, Role, AWS Database Migration Service (DMS), Services

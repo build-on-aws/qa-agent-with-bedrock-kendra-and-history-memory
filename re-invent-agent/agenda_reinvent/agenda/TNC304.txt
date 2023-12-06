@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas C
+summary: tag_name :AI/ML, Topic, Healthcare, Industry, Amazon SageMaker, Services, Partner Enablement, Topic, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Wednesday, Day, Mandalay Bay, Venue, BuildOn.AWS, Area of Interest, Data Scientist, Role, IT Executive, Role, , speakers :firstName_0: Amey, lastName_0: Birje, firstName_1: Virginia, lastName_1: Gonzalez, , thirdpartyid :TNC304, sessionuid :945924A2-A93C-4F2F-8B99-E5FEAD56F2C8, title :AWS Partner training: AI/ML in healthcare & life sciences, description :This bootcamp is for AWS Partners only. This training offers healthcare and life science–specific AI/ML labs and empowers AWS Partners to use Amazon SageMaker and other AI/ML services, accelerating R&D and business processes, thereby enhancing customer opportunities. It covers diverse aspects such as model design, training scenarios, algorithms, and inference mechanisms. It also focuses on developing impactful solutions for the healthcare and life science industry, encompassing model development, training, evaluation, feedback, and qualification. You must bring your laptop to participate., sessiontype :Bootcamp, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas C, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: South Seas C
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Bootcamp
+description: This bootcamp is for AWS Partners only. This training offers healthcare and life science–specific AI/ML labs and empowers AWS Partners to use Amazon SageMaker and other AI/ML services, accelerating R&D and business processes, thereby enhancing customer opportunities. It covers diverse aspects such as model design, training scenarios, algorithms, and inference mechanisms. It also focuses on developing impactful solutions for the healthcare and life science industry, encompassing model development, training, evaluation, feedback, and qualification. You must bring your laptop to participate
+title: AWS Partner training: AI/ML in healthcare & life sciences
+sessionuid: 945924A2-A93C-4F2F-8B99-E5FEAD56F2C8
+thirdpartyid: TNC304
+speakers: firstName_0: Amey, lastName_0: Birje, firstName_1: Virginia, lastName_1: Gonzalez
+tag_name: AI/ML, Topic, Healthcare, Industry, Amazon SageMaker, Services, Partner Enablement, Topic, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Wednesday, Day, Mandalay Bay, Venue, BuildOn.AWS, Area of Interest, Data Scientist, Role, IT Executive, Role

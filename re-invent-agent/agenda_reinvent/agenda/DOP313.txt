@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :AWS CodePipeline, Services, 300 - Advanced, Level, AWS CodeDeploy, Services, Developer/Engineer, Role, DevOps Engineer, Role, Strategy & Transformation, Area of Interest, Amazon CodeCatalyst, Services, Monday, Day, Mandalay Bay, Venue, Well-Architected Framework, Area of Interest, DevOps and Developer Productivity, Topic, , speakers :firstName_0: Welly, lastName_0: Siauw, firstName_1: James, lastName_1: Bland, , thirdpartyid :DOP313-R, sessionuid :290A73C7-2FF8-4F53-80FF-3D1782FFD4F9, title :Multi-account and multi-Region deployments at scale [REPEAT], description :Many AWS customers are implementing multi-account strategies to more easily manage their cloud infrastructure and improve their security and compliance postures. In this chalk talk, learn about various options for deploying resources into multiple accounts and AWS Regions using AWS developer tools, including AWS CodePipeline, AWS CodeDeploy, and Amazon CodeCatalyst., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: Many AWS customers are implementing multi-account strategies to more easily manage their cloud infrastructure and improve their security and compliance postures. In this chalk talk, learn about various options for deploying resources into multiple accounts and AWS Regions using AWS developer tools, including AWS CodePipeline, AWS CodeDeploy, and Amazon CodeCatalyst
+title: Multi-account and multi-Region deployments at scale [REPEAT]
+sessionuid: 290A73C7-2FF8-4F53-80FF-3D1782FFD4F9
+thirdpartyid: DOP313-R
+speakers: firstName_0: Welly, lastName_0: Siauw, firstName_1: James, lastName_1: Bland
+tag_name: AWS CodePipeline, Services, 300 - Advanced, Level, AWS CodeDeploy, Services, Developer/Engineer, Role, DevOps Engineer, Role, Strategy & Transformation, Area of Interest, Amazon CodeCatalyst, Services, Monday, Day, Mandalay Bay, Venue, Well-Architected Framework, Area of Interest, DevOps and Developer Productivity, Topic

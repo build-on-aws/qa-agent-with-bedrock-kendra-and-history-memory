@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Mandalay Bay Ballroom F
+summary: tag_name :Training & Certification, Topic, Cloud Security Specialist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Wednesday, Day, Mandalay Bay, Venue, 200 - Intermediate, Level, , speakers :, thirdpartyid :GHJ206, sessionuid :F6872325-6B2B-449A-92C8-BDDE43627705, title :Cloud tournament: AWS Jam and escape room, description :<p>Do you want to test your cloud skills in a tournament that combines two of our innovative, game-based learning products, AWS Cloud Quest and AWS Jams? After completing an AWS Jam competition with real-world scenarios, become immersed in an escape room experience powered by AWS Cloud Quest. This event will be livestreamed on Twitch and will feature interactive interviews and live leaderboards. You have the option to form your own team or join one arranged during the event. All you need to bring is your desire to learn and a laptop.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Mandalay Bay Ballroom F, startdatetimeutc :November, 29 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 22:00:00 -0500
+locationname: Mandalay Bay Ballroom F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Do you want to test your cloud skills in a tournament that combines two of our innovative, game-based learning products, AWS Cloud Quest and AWS Jams? After completing an AWS Jam competition with real-world scenarios, become immersed in an escape room experience powered by AWS Cloud Quest. This event will be livestreamed on Twitch and will feature interactive interviews and live leaderboards. You have the option to form your own team or join one arranged during the event. All you need to bring is your desire to learn and a laptop.</p>
+title: Cloud tournament: AWS Jam and escape room
+sessionuid: F6872325-6B2B-449A-92C8-BDDE43627705
+thirdpartyid: GHJ206
+speakers: 
+tag_name: Training & Certification, Topic, Cloud Security Specialist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Wednesday, Day, Mandalay Bay, Venue, 200 - Intermediate, Level

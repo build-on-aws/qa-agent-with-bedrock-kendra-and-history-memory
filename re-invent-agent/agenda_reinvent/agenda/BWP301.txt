@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 318
+summary: tag_name :Solution/Systems Architect, Role, SaaS, Area of Interest, Amazon DynamoDB, Services, Retail, Industry, Application Security, Area of Interest, Security, Compliance, & Identity, Topic, 300 - Advanced, Level, Wednesday, Day, MGM Grand, Venue, AWS Identity and Access Management (IAM), Services, Architecture, Topic, Data Protection, Area of Interest, AWS Lambda, Services, , speakers :firstName_0: Jimin, lastName_0: Kim, firstName_1: Jiwon, lastName_1: Yeom, firstName_2: David, lastName_2: Ramos, company_2: Amazon, , thirdpartyid :BWP301, sessionuid :426FAEF5-8C33-4D49-9321-BB7328A6AD0A, title :SaaS operations in action: Buy with Prime, description :<p>This session provides real-world examples of how Amazon achieves operational excellence for its multi-tenant software as a service (SaaS) offering, Buy with Prime. Explore how Buy with Prime automates tenant isolation validation within deployment pipelines and maximizes efficiency by improving observability across provisioned microservices and tenants. Get a practical look into the functionality of modern SaaS management.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 318, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Premier 318
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>This session provides real-world examples of how Amazon achieves operational excellence for its multi-tenant software as a service (SaaS) offering, Buy with Prime. Explore how Buy with Prime automates tenant isolation validation within deployment pipelines and maximizes efficiency by improving observability across provisioned microservices and tenants. Get a practical look into the functionality of modern SaaS management.</p>
+title: SaaS operations in action: Buy with Prime
+sessionuid: 426FAEF5-8C33-4D49-9321-BB7328A6AD0A
+thirdpartyid: BWP301
+speakers: firstName_0: Jimin, lastName_0: Kim, firstName_1: Jiwon, lastName_1: Yeom, firstName_2: David, lastName_2: Ramos, company_2: Amazon
+tag_name: Solution/Systems Architect, Role, SaaS, Area of Interest, Amazon DynamoDB, Services, Retail, Industry, Application Security, Area of Interest, Security, Compliance, & Identity, Topic, 300 - Advanced, Level, Wednesday, Day, MGM Grand, Venue, AWS Identity and Access Management (IAM), Services, Architecture, Topic, Data Protection, Area of Interest, AWS Lambda, Services

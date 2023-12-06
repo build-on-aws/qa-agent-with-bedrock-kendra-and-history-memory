@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific E
+summary: tag_name :Thursday, Day, Mandalay Bay, Venue, AI/ML, Topic, Customer Stories, Area of Interest, Digital Native Business (DNB), Area of Interest, Innovation on AWS, Area of Interest, Advertising & Marketing, Industry, Retail, Industry, 300 - Advanced, Level, Business Executive, Role, Data Engineer, Role, Data Scientist, Role, Amazon SageMaker, Services, , speakers :firstName_0: Sam, lastName_0: Corzine, company_0: Fetch, firstName_1: Tony, lastName_1: Cerqueira, , thirdpartyid :SEG301, sessionuid :22766420-4573-477A-9A38-0BFCB7A6138C, title :How Fetch built world-class ML models to power their business, description :<p>Fetch, a leading shopping loyalty app, moved from buying ML models to building their own. In 18 months, they built eight models that scan, process, eliminate fraud, personalize, and forecast. In this session, learn how Fetch built their team, implemented Amazon SageMaker as the ML platform, and trains and deploys critical models. Since adopting SageMaker for ML work, Fetch has improved the accuracy of its document-understanding model from 30% to 90% and has reduced latency for its users by 50%.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific E, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: South Pacific E
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Fetch, a leading shopping loyalty app, moved from buying ML models to building their own. In 18 months, they built eight models that scan, process, eliminate fraud, personalize, and forecast. In this session, learn how Fetch built their team, implemented Amazon SageMaker as the ML platform, and trains and deploys critical models. Since adopting SageMaker for ML work, Fetch has improved the accuracy of its document-understanding model from 30% to 90% and has reduced latency for its users by 50%.</p>
+title: How Fetch built world-class ML models to power their business
+sessionuid: 22766420-4573-477A-9A38-0BFCB7A6138C
+thirdpartyid: SEG301
+speakers: firstName_0: Sam, lastName_0: Corzine, company_0: Fetch, firstName_1: Tony, lastName_1: Cerqueira
+tag_name: Thursday, Day, Mandalay Bay, Venue, AI/ML, Topic, Customer Stories, Area of Interest, Digital Native Business (DNB), Area of Interest, Innovation on AWS, Area of Interest, Advertising & Marketing, Industry, Retail, Industry, 300 - Advanced, Level, Business Executive, Role, Data Engineer, Role, Data Scientist, Role, Amazon SageMaker, Services

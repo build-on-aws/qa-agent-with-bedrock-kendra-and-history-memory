@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :Cross Industry, Industry, Developer/Engineer, Role, Innovation on AWS, Area of Interest, Customer Stories, Area of Interest, Monday, Day, Mandalay Bay, Venue, AI/ML, Topic, Solution/Systems Architect, Role, Compute, Topic, 300 - Advanced, Level, Cost Optimization, Area of Interest, Data Scientist, Role, , speakers :firstName_0: Ana, lastName_0: Simoes, firstName_1: Vijay, lastName_1: Pappu, company_1: Peloton, , thirdpartyid :CMP320, sessionuid :D827B756-1C7A-4BBC-992C-E1FEFC9D0D92, title :Powering Peloton’s journey to personalization with AWS, description :Peloton’s unique combination of hardware platforms and software features, as well as its rich content catalog, presents an interesting set of challenges and opportunities for personalizing its members’ experiences. For this effort, Peloton is using AWS and PyTorch to implement a recommendation system for its pre- and post-workout sessions that takes into account the individual likes and abilities of each user. In this chalk talk, learn how Peloton’s solution architecture and technology stack uses Amazon EC2, Amazon S3, and Amazon EKS to build and serve individualized class recommendations in real time with low latency for a great user experience., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 27 2023 21:30:00 -0500, enddatetimeutc :November, 27 2023 22:30:00 -0500, 
+enddatetimeutc: November, 27 2023 22:30:00 -0500
+startdatetimeutc: November, 27 2023 21:30:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: Peloton’s unique combination of hardware platforms and software features, as well as its rich content catalog, presents an interesting set of challenges and opportunities for personalizing its members’ experiences. For this effort, Peloton is using AWS and PyTorch to implement a recommendation system for its pre- and post-workout sessions that takes into account the individual likes and abilities of each user. In this chalk talk, learn how Peloton’s solution architecture and technology stack uses Amazon EC2, Amazon S3, and Amazon EKS to build and serve individualized class recommendations in real time with low latency for a great user experience
+title: Powering Peloton’s journey to personalization with AWS
+sessionuid: D827B756-1C7A-4BBC-992C-E1FEFC9D0D92
+thirdpartyid: CMP320
+speakers: firstName_0: Ana, lastName_0: Simoes, firstName_1: Vijay, lastName_1: Pappu, company_1: Peloton
+tag_name: Cross Industry, Industry, Developer/Engineer, Role, Innovation on AWS, Area of Interest, Customer Stories, Area of Interest, Monday, Day, Mandalay Bay, Venue, AI/ML, Topic, Solution/Systems Architect, Role, Compute, Topic, 300 - Advanced, Level, Cost Optimization, Area of Interest, Data Scientist, Role

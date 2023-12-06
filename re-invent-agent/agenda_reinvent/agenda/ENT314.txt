@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 101
+summary: tag_name :Cross Industry, Industry, Amazon Elastic Compute Cloud (EC2), Services, Microsoft, Area of Interest, Data Engineer, Role, Databases, Topic, Amazon Relational Database Service (RDS), Services, Data Scientist, Role, Enterprise & Migration, Topic, 300 - Advanced, Level, Wednesday, Day, MGM Grand, Venue, Solution/Systems Architect, Role, , speakers :firstName_0: Andy, lastName_0: Ward, firstName_1: Baris, lastName_1: Furtinalar, , thirdpartyid :ENT314, sessionuid :7D0D9367-B0CD-4ADF-B9C3-FEC87A443999, title :AWS fundamentals for the SQL Server accidental DBA, description :With over 200 fully featured services, it can be challenging for any database administrator (DBA) trying to ramp up on AWS. In this chalk talk, learn how to map basic DBA tasks to the role of a cloud architect. Learn about networking and security, and how to implement high availability and disaster recovery for your SQL Server workloads. Finally, learn how to choose the right SQL Server-related services for your deployment, how to secure them, and cost-optimization techniques., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :101, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 17:30:00 -0500, 
+enddatetimeutc: November, 29 2023 17:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: 101
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: With over 200 fully featured services, it can be challenging for any database administrator (DBA) trying to ramp up on AWS. In this chalk talk, learn how to map basic DBA tasks to the role of a cloud architect. Learn about networking and security, and how to implement high availability and disaster recovery for your SQL Server workloads. Finally, learn how to choose the right SQL Server-related services for your deployment, how to secure them, and cost-optimization techniques
+title: AWS fundamentals for the SQL Server accidental DBA
+sessionuid: 7D0D9367-B0CD-4ADF-B9C3-FEC87A443999
+thirdpartyid: ENT314
+speakers: firstName_0: Andy, lastName_0: Ward, firstName_1: Baris, lastName_1: Furtinalar
+tag_name: Cross Industry, Industry, Amazon Elastic Compute Cloud (EC2), Services, Microsoft, Area of Interest, Data Engineer, Role, Databases, Topic, Amazon Relational Database Service (RDS), Services, Data Scientist, Role, Enterprise & Migration, Topic, 300 - Advanced, Level, Wednesday, Day, MGM Grand, Venue, Solution/Systems Architect, Role

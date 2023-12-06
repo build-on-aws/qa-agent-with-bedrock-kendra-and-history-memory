@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine H
+summary: tag_name :AI/ML, Topic, 200 - Intermediate, Level, Business Executive, Role, Training & Certification, Topic, IT Executive, Role, Amazon Bedrock, Services, IT Professional/Technical Manager, Role, IT Professional/Technical Manager, Role, Monday, Day, Mandalay Bay, Venue, Generative AI, Area of Interest, Cross Industry, Industry, , speakers :firstName_0: Mark, lastName_0: Trinquero, , thirdpartyid :TNC214, sessionuid :C26C9D5B-0783-4D26-A22B-F274943858AD, title :Generative AI for decision-makers, description :Generative AI is commanding a lot of attention this year. This session introduces generative AI, the use cases that can benefit from the application of generative AI, and the benefits and risks of this emerging technology. Explore AWS services that you can use to build generative AI applications., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine H, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 17:30:00 -0500, 
+enddatetimeutc: November, 27 2023 17:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: Jasmine H
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Generative AI is commanding a lot of attention this year. This session introduces generative AI, the use cases that can benefit from the application of generative AI, and the benefits and risks of this emerging technology. Explore AWS services that you can use to build generative AI applications
+title: Generative AI for decision-makers
+sessionuid: C26C9D5B-0783-4D26-A22B-F274943858AD
+thirdpartyid: TNC214
+speakers: firstName_0: Mark, lastName_0: Trinquero
+tag_name: AI/ML, Topic, 200 - Intermediate, Level, Business Executive, Role, Training & Certification, Topic, IT Executive, Role, Amazon Bedrock, Services, IT Professional/Technical Manager, Role, IT Professional/Technical Manager, Role, Monday, Day, Mandalay Bay, Venue, Generative AI, Area of Interest, Cross Industry, Industry

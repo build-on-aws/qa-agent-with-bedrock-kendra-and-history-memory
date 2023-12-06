@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 121
+summary: tag_name :AI/ML, Topic, BuildOn.AWS, Area of Interest, Generative AI, Area of Interest, 300 - Advanced, Level, Amazon Bedrock, Services, Thursday, Day, Caesars Forum, Venue, , speakers :firstName_0: Memo, lastName_0: Doring, firstName_1: Mike, lastName_1: Chambers, , thirdpartyid :BOA307, sessionuid :C85EE7D5-6FB2-439B-9783-003EEFCD6FCB, title :Building applications with generative AI and live data, description :<p>Are you building a generative AI application for your customers? In this session, learn how AWS built an interactive solution that generates prompts for an LLM through the physical world and combines them with a live data feed. Explore the technical decisions (and the lessons learned along the way) when building the interactive storyteller. You can test this solution at re:Invent.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 121, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Forum 121
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Are you building a generative AI application for your customers? In this session, learn how AWS built an interactive solution that generates prompts for an LLM through the physical world and combines them with a live data feed. Explore the technical decisions (and the lessons learned along the way) when building the interactive storyteller. You can test this solution at re:Invent.</p>
+title: Building applications with generative AI and live data
+sessionuid: C85EE7D5-6FB2-439B-9783-003EEFCD6FCB
+thirdpartyid: BOA307
+speakers: firstName_0: Memo, lastName_0: Doring, firstName_1: Mike, lastName_1: Chambers
+tag_name: AI/ML, Topic, BuildOn.AWS, Area of Interest, Generative AI, Area of Interest, 300 - Advanced, Level, Amazon Bedrock, Services, Thursday, Day, Caesars Forum, Venue

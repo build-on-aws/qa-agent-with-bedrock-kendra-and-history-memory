@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 320
+summary: tag_name :AWS Lambda, Services, AWS Fargate, Services, Solution/Systems Architect, Role, Serverless Compute, Topic, IT Professional/Technical Manager, Role, SaaS, Area of Interest, Wednesday, Day, MGM Grand, Venue, Developer/Engineer, Role, 300 - Advanced, Level, , speakers :firstName_0: Anton, lastName_0: Aleksandrov, firstName_1: Tod, lastName_1: Golding, , thirdpartyid :SVS320, sessionuid :16DB4863-8046-44D1-9D08-2B4C76AF2DAF, title :Building multi-tenant applications with AWS Lambda and AWS Fargate, description :In this chalk talk, discuss customer stories, best practices, and architectures for building SaaS solutions with serverless functions and container technologies. Dive deep into common challenges and how to sidestep them with a serverless-first mindset. This chalk talk is an open discussion about considerations associated with building multi-tenant solutions on top of serverless compute models, so come ready to ask questions., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 320, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 01:30:00 -0500, 
+enddatetimeutc: November, 30 2023 01:30:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: Premier 320
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: In this chalk talk, discuss customer stories, best practices, and architectures for building SaaS solutions with serverless functions and container technologies. Dive deep into common challenges and how to sidestep them with a serverless-first mindset. This chalk talk is an open discussion about considerations associated with building multi-tenant solutions on top of serverless compute models, so come ready to ask questions
+title: Building multi-tenant applications with AWS Lambda and AWS Fargate
+sessionuid: 16DB4863-8046-44D1-9D08-2B4C76AF2DAF
+thirdpartyid: SVS320
+speakers: firstName_0: Anton, lastName_0: Aleksandrov, firstName_1: Tod, lastName_1: Golding
+tag_name: AWS Lambda, Services, AWS Fargate, Services, Solution/Systems Architect, Role, Serverless Compute, Topic, IT Professional/Technical Manager, Role, SaaS, Area of Interest, Wednesday, Day, MGM Grand, Venue, Developer/Engineer, Role, 300 - Advanced, Level

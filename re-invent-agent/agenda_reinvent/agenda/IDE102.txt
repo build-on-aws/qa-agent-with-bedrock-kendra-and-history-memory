@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 318
+summary: tag_name :IT Executive, Role, 100 - Foundational, Level, Inclusion & Diversity, Area of Interest, Social Impact, Area of Interest, Workforce Development, Area of Interest, Tuesday, Day, MGM Grand, Venue, Customer Enablement, Topic, Business Executive, Role, Business Applications, Topic, Advisor/Consultant, Role, , speakers :firstName_0: Anita, lastName_0: Adoba, firstName_1: De'Rell, lastName_1: Bonner, firstName_2: Ken, lastName_2: Surritte, company_2: WATERisLIFE, firstName_3: Shyla, lastName_3: Martinez, , thirdpartyid :IDE102, sessionuid :BEA9E3CE-F0CC-478E-98F0-2D7837F13BB6, title :Driving community impact with employee-led micro-grants, description :In this session, learn about one of the many ways that AWS is driving sustainable impact across communities globally through an employee-led micro-grant initiative. The AWS Innovation Fund empowers AWS employees and communities to come together to address social inequities. Learn how AWS is reimagining the concept of micro-grants for community impact and engaging employees globally. Hear from AWS Inclusion, Diversity & Equity (ID&E) leaders and nonprofit partners as they share their journey in developing and driving community impact through the AWS Innovation Fund., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 318, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: Premier 318
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: In this session, learn about one of the many ways that AWS is driving sustainable impact across communities globally through an employee-led micro-grant initiative. The AWS Innovation Fund empowers AWS employees and communities to come together to address social inequities. Learn how AWS is reimagining the concept of micro-grants for community impact and engaging employees globally. Hear from AWS Inclusion, Diversity & Equity (ID&E) leaders and nonprofit partners as they share their journey in developing and driving community impact through the AWS Innovation Fund
+title: Driving community impact with employee-led micro-grants
+sessionuid: BEA9E3CE-F0CC-478E-98F0-2D7837F13BB6
+thirdpartyid: IDE102
+speakers: firstName_0: Anita, lastName_0: Adoba, firstName_1: De'Rell, lastName_1: Bonner, firstName_2: Ken, lastName_2: Surritte, company_2: WATERisLIFE, firstName_3: Shyla, lastName_3: Martinez
+tag_name: IT Executive, Role, 100 - Foundational, Level, Inclusion & Diversity, Area of Interest, Social Impact, Area of Interest, Workforce Development, Area of Interest, Tuesday, Day, MGM Grand, Venue, Customer Enablement, Topic, Business Executive, Role, Business Applications, Topic, Advisor/Consultant, Role

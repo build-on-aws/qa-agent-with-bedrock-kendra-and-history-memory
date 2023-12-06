@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 123
+summary: tag_name :Developer/Engineer, Role, Open Source, Area of Interest, Analytics, Topic, Serverless Compute, Topic, Amazon Kinesis Data Streams, Services, Amazon RedShift, Services, Wednesday, Day, Caesars Forum, Venue, 300 - Advanced, Level, Data Engineer, Role, Amazon Managed Streaming for Apache Kafka (MSK), Services, Solution/Systems Architect, Role, , speakers :firstName_0: Chinmayi, lastName_0: Narasimhadevara, firstName_1: Pratik, lastName_1: Patel, , thirdpartyid :ANT316, sessionuid :C187326B-D16F-49E7-A252-6B69AC3250A4, title :Fast-track streaming ETL with AWS streaming data services, description :Organizations across industries are building streaming extract, transform, and load (ETL) applications to gain meaningful insights from their datasets. Stream-processing frameworks are evolving with a surge in demand for building streaming pipelines using serverless technologies. This chalk talk covers how you can use AWS streaming data services to build streaming data pipelines across data lakes and data warehouses. Learn best practices for performance, scale, and cost control in Amazon Kinesis Data Streams, Amazon MSK, Amazon Redshift streaming ingestion, and AWS Glue streaming., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 123, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Forum 123
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Organizations across industries are building streaming extract, transform, and load (ETL) applications to gain meaningful insights from their datasets. Stream-processing frameworks are evolving with a surge in demand for building streaming pipelines using serverless technologies. This chalk talk covers how you can use AWS streaming data services to build streaming data pipelines across data lakes and data warehouses. Learn best practices for performance, scale, and cost control in Amazon Kinesis Data Streams, Amazon MSK, Amazon Redshift streaming ingestion, and AWS Glue streaming
+title: Fast-track streaming ETL with AWS streaming data services
+sessionuid: C187326B-D16F-49E7-A252-6B69AC3250A4
+thirdpartyid: ANT316
+speakers: firstName_0: Chinmayi, lastName_0: Narasimhadevara, firstName_1: Pratik, lastName_1: Patel
+tag_name: Developer/Engineer, Role, Open Source, Area of Interest, Analytics, Topic, Serverless Compute, Topic, Amazon Kinesis Data Streams, Services, Amazon RedShift, Services, Wednesday, Day, Caesars Forum, Venue, 300 - Advanced, Level, Data Engineer, Role, Amazon Managed Streaming for Apache Kafka (MSK), Services, Solution/Systems Architect, Role

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 110
+summary: tag_name :AI/ML, Topic, Business Applications, Topic, Business Intelligence, Area of Interest, Cost Optimization, Area of Interest, Monitoring & Observability, Area of Interest, Advertising & Marketing, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Thursday, Day, Caesars Forum, Venue, System Administrator, Role, Amazon Simple Email Service (SES), Services, , speakers :firstName_0: Matt, lastName_0: Strzelecki, firstName_1: Samuel, lastName_1: Koppes, , thirdpartyid :BIZ214-R, sessionuid :2B45D31B-D685-411E-9309-E3CA15610B71, title :Enhance email deliverability using Amazon SES [REPEAT], description :<p>Virtual Deliverability Manager for Amazon SES helps organizations improve email deliverability by providing insights and recommendations for reaching recipients’ inboxes. In this chalk talk, learn best practices for email deliverability and how Virtual Deliverability Manager can help troubleshoot email deliverability issues. Mailbox providers are adjusting their requirements for sending in 2024, so join this talk to learn how Amazon SES can help you meet rising expectations for email authentication and low complaint rates.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 110, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Forum 110
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Virtual Deliverability Manager for Amazon SES helps organizations improve email deliverability by providing insights and recommendations for reaching recipients’ inboxes. In this chalk talk, learn best practices for email deliverability and how Virtual Deliverability Manager can help troubleshoot email deliverability issues. Mailbox providers are adjusting their requirements for sending in 2024, so join this talk to learn how Amazon SES can help you meet rising expectations for email authentication and low complaint rates.</p>
+title: Enhance email deliverability using Amazon SES [REPEAT]
+sessionuid: 2B45D31B-D685-411E-9309-E3CA15610B71
+thirdpartyid: BIZ214-R
+speakers: firstName_0: Matt, lastName_0: Strzelecki, firstName_1: Samuel, lastName_1: Koppes
+tag_name: AI/ML, Topic, Business Applications, Topic, Business Intelligence, Area of Interest, Cost Optimization, Area of Interest, Monitoring & Observability, Area of Interest, Advertising & Marketing, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Thursday, Day, Caesars Forum, Venue, System Administrator, Role, Amazon Simple Email Service (SES), Services

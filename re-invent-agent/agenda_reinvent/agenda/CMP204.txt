@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 1
+summary: tag_name :Cross Industry, Industry, Cost Optimization, Area of Interest, Innovation on AWS, Area of Interest, IT Professional/Technical Manager, Role, Developer/Engineer, Role, Application Integration, Area of Interest, Compute, Topic, 200 - Intermediate, Level, Wednesday, Day, Wynn, Venue, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, , speakers :firstName_0: Alex, lastName_0: Bestavros, firstName_1: Saurabh, lastName_1: Modh, , thirdpartyid :CMP204-R, sessionuid :74AB0326-4AC7-4879-AEDE-1F3C8403E6F4, title :Amazon EC2 flex instances: Next-generation performance at lower costs [REPEAT], description :Amazon EC2 flex instances provide an easier way to save costs and achieve better price performance for a majority of your workloads. In this chalk talk, dive deep into the new flex instances and how they help you realize cost savings while getting the latest generation performance benefits., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 1, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Lafite 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Amazon EC2 flex instances provide an easier way to save costs and achieve better price performance for a majority of your workloads. In this chalk talk, dive deep into the new flex instances and how they help you realize cost savings while getting the latest generation performance benefits
+title: Amazon EC2 flex instances: Next-generation performance at lower costs [REPEAT]
+sessionuid: 74AB0326-4AC7-4879-AEDE-1F3C8403E6F4
+thirdpartyid: CMP204-R
+speakers: firstName_0: Alex, lastName_0: Bestavros, firstName_1: Saurabh, lastName_1: Modh
+tag_name: Cross Industry, Industry, Cost Optimization, Area of Interest, Innovation on AWS, Area of Interest, IT Professional/Technical Manager, Role, Developer/Engineer, Role, Application Integration, Area of Interest, Compute, Topic, 200 - Intermediate, Level, Wednesday, Day, Wynn, Venue, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services

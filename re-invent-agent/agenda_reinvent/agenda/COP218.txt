@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Murano 3306
+summary: tag_name :Cost Optimization, Area of Interest, IT Executive, Role, 200 - Intermediate, Level, Developer/Engineer, Role, Business Executive, Role, Cloud Operations, Topic, Wednesday, Day, Venetian, Venue, , speakers :firstName_0: Rahul, lastName_0: Subramaniam, company_0: CloudFix, , thirdpartyid :COP218-S, sessionuid :BA9B075B-9BD6-4CE2-B707-D5017A153BFE, title :Saving on AWS? If not, what are you waiting for? (sponsored by CloudFix), description :If you could save millions of dollars on AWS every year just by following AWS’s own recommendations, why wouldn’t you? It’s no-brainer savings, but not everyone is taking action. Join CloudFix CEO Rahul Subramaniam in this session to discover what holds companies back, and learn how to conquer the top obstacles to achieving AWS recommended cost savings. Rahul—whose company has managed more than $1 billion in AWS spend—shares the four best places to find drastic underutilization (and major overspend) across your AWS instances. Leave with a plan for nonstop savings and automation that keeps you in control and lets you start saving now. This presentation is brought to you by CloudFix, an AWS Partner., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 3, locationname :Murano 3306, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Murano 3306
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Breakout Session
+description: If you could save millions of dollars on AWS every year just by following AWS’s own recommendations, why wouldn’t you? It’s no-brainer savings, but not everyone is taking action. Join CloudFix CEO Rahul Subramaniam in this session to discover what holds companies back, and learn how to conquer the top obstacles to achieving AWS recommended cost savings. Rahul—whose company has managed more than $1 billion in AWS spend—shares the four best places to find drastic underutilization (and major overspend) across your AWS instances. Leave with a plan for nonstop savings and automation that keeps you in control and lets you start saving now. This presentation is brought to you by CloudFix, an AWS Partner
+title: Saving on AWS? If not, what are you waiting for? (sponsored by CloudFix)
+sessionuid: BA9B075B-9BD6-4CE2-B707-D5017A153BFE
+thirdpartyid: COP218-S
+speakers: firstName_0: Rahul, lastName_0: Subramaniam, company_0: CloudFix
+tag_name: Cost Optimization, Area of Interest, IT Executive, Role, 200 - Intermediate, Level, Developer/Engineer, Role, Business Executive, Role, Cloud Operations, Topic, Wednesday, Day, Venetian, Venue

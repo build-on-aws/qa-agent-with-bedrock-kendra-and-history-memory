@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 201
+summary: tag_name :Workforce Development, Area of Interest, New to AWS, Topic, IT Executive, Role, IT Professional/Technical Manager, Role, Monday, Day, Caesars Forum, Venue, Strategy & Transformation, Area of Interest, 100 - Foundational, Level, Business Executive, Role, Innovation on AWS, Area of Interest, , speakers :firstName_0: Phil, lastName_0: Le-Brun, , thirdpartyid :SEG101, sessionuid :0AF1716C-5AE7-469D-831C-718099F47C5E, title :Reskilling at the speed of cloud: Turning employees into entrepreneurs, description :The cloud can unleash your organization’s talent to innovate at speed, but many face a common challenge. With people at the heart of agile organizations, how do you successfully release this potential by establishing the skills you need throughout your company, from leadership down? In this session, find out why learning agility is at the heart of digital transformation and why it can be a powerful measure of your organization’s future success. Learn about patterns and approaches that can help you create the time and momentum to reskill your entire organization so that you can capitalize on the potential of the cloud., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 201, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 19:30:00 -0500, 
+enddatetimeutc: November, 27 2023 19:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: Summit 201
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: The cloud can unleash your organization’s talent to innovate at speed, but many face a common challenge. With people at the heart of agile organizations, how do you successfully release this potential by establishing the skills you need throughout your company, from leadership down? In this session, find out why learning agility is at the heart of digital transformation and why it can be a powerful measure of your organization’s future success. Learn about patterns and approaches that can help you create the time and momentum to reskill your entire organization so that you can capitalize on the potential of the cloud
+title: Reskilling at the speed of cloud: Turning employees into entrepreneurs
+sessionuid: 0AF1716C-5AE7-469D-831C-718099F47C5E
+thirdpartyid: SEG101
+speakers: firstName_0: Phil, lastName_0: Le-Brun
+tag_name: Workforce Development, Area of Interest, New to AWS, Topic, IT Executive, Role, IT Professional/Technical Manager, Role, Monday, Day, Caesars Forum, Venue, Strategy & Transformation, Area of Interest, 100 - Foundational, Level, Business Executive, Role, Innovation on AWS, Area of Interest

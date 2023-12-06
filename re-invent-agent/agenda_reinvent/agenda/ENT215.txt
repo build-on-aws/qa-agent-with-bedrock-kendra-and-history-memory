@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Summit Showroom
+summary: tag_name :IT Executive, Role, Customer Stories, Area of Interest, IT Professional/Technical Manager, Role, Enterprise & Migration, Topic, Business Executive, Role, Cross Industry, Industry, Monday, Day, Venetian, Venue, 200 - Intermediate, Level, Strategy & Transformation, Area of Interest, Migration & Transfer, Area of Interest, , speakers :firstName_0: Jonathan, lastName_0: Allen, firstName_1: Oscar, lastName_1: Rodriguez, , thirdpartyid :ENT215, sessionuid :FCF68DB3-6482-416D-85F9-61EF4038464C, title :Completing a large-scale migration and modernization with AWS, description :This session focuses on valuable lessons learned from the thousands of enterprises who have migrated and modernized their on-premises workloads with AWS. Dive deep on technical lessons learned, mental models used, how to set up teams to modernize as they migrate, and how to engage with AWS Professional Services and AWS Partners for success. Finally, get an update on what’s new in AWS migration and modernization tooling., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Summit Showroom, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 20:30:00 -0500, 
+enddatetimeutc: November, 27 2023 20:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Summit Showroom
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: This session focuses on valuable lessons learned from the thousands of enterprises who have migrated and modernized their on-premises workloads with AWS. Dive deep on technical lessons learned, mental models used, how to set up teams to modernize as they migrate, and how to engage with AWS Professional Services and AWS Partners for success. Finally, get an update on what’s new in AWS migration and modernization tooling
+title: Completing a large-scale migration and modernization with AWS
+sessionuid: FCF68DB3-6482-416D-85F9-61EF4038464C
+thirdpartyid: ENT215
+speakers: firstName_0: Jonathan, lastName_0: Allen, firstName_1: Oscar, lastName_1: Rodriguez
+tag_name: IT Executive, Role, Customer Stories, Area of Interest, IT Professional/Technical Manager, Role, Enterprise & Migration, Topic, Business Executive, Role, Cross Industry, Industry, Monday, Day, Venetian, Venue, 200 - Intermediate, Level, Strategy & Transformation, Area of Interest, Migration & Transfer, Area of Interest

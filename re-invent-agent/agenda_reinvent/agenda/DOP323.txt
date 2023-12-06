@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :Cloud Operations, Topic, DevOps and Developer Productivity, Topic, SaaS, Area of Interest, Strategy & Transformation, Area of Interest, 300 - Advanced, Level, Business Executive, Role, DevOps Engineer, Role, IT Executive, Role, Thursday, Day, Caesars Forum, Venue, , speakers :firstName_0: Alan, lastName_0: Hohn, company_0: Lockheed Martin, firstName_1: Francis, lastName_1: Ofungwu, company_1: GitLab, , thirdpartyid :DOP323-S, sessionuid :1A43CA94-31CE-4F0F-BACB-519DAB755C3E, title :How Lockheed Martin builds software faster, powered by DevSecOps (sponsored by GitLab), description :<p>Lockheed Martin’s customers depend on them to overcome their complex challenges and stay ahead of emerging threats by providing the technologically advanced solutions. Their engineering teams require efficiency, flexibility, and standardized security practices to meet the specific mission needs of each customer. Join us to hear how Lockheed Martin’s software engineering team streamlined their toolchain, reduced complexity, and cut costs to deliver software faster. This presentation is brought to you by GitLab, an AWS Partner.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Lockheed Martin’s customers depend on them to overcome their complex challenges and stay ahead of emerging threats by providing the technologically advanced solutions. Their engineering teams require efficiency, flexibility, and standardized security practices to meet the specific mission needs of each customer. Join us to hear how Lockheed Martin’s software engineering team streamlined their toolchain, reduced complexity, and cut costs to deliver software faster. This presentation is brought to you by GitLab, an AWS Partner.</p>
+title: How Lockheed Martin builds software faster, powered by DevSecOps (sponsored by GitLab)
+sessionuid: 1A43CA94-31CE-4F0F-BACB-519DAB755C3E
+thirdpartyid: DOP323-S
+speakers: firstName_0: Alan, lastName_0: Hohn, company_0: Lockheed Martin, firstName_1: Francis, lastName_1: Ofungwu, company_1: GitLab
+tag_name: Cloud Operations, Topic, DevOps and Developer Productivity, Topic, SaaS, Area of Interest, Strategy & Transformation, Area of Interest, 300 - Advanced, Level, Business Executive, Role, DevOps Engineer, Role, IT Executive, Role, Thursday, Day, Caesars Forum, Venue

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 201
+summary: tag_name :Innovation on AWS, Area of Interest, Resilience, Area of Interest, Strategy & Transformation, Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, Business Executive, Role, IT Executive, Role, Sales/Marketing, Role, Thursday, Day, Caesars Forum, Venue, , speakers :firstName_0: Miriam, lastName_0: McLemore, , thirdpartyid :SEG102, sessionuid :11A3EE0D-0787-44D4-A1E0-200D87692E44, title :Succeeding in economies of speed: Rethinking your levers, description :<p>When leaders look to change their organizations, they often begin with restructuring, defining new processes and guidelines, or granting exceptions to innovation units. However, transformation isn’t about doing existing things better; it’s foremost about doing different things and doing them differently. This session highlights why transformation is different from any other project and challenges you to rethink your levers for change.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 201, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 20:30:00 -0500, 
+enddatetimeutc: November, 30 2023 20:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Summit 201
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>When leaders look to change their organizations, they often begin with restructuring, defining new processes and guidelines, or granting exceptions to innovation units. However, transformation isn’t about doing existing things better; it’s foremost about doing different things and doing them differently. This session highlights why transformation is different from any other project and challenges you to rethink your levers for change.</p>
+title: Succeeding in economies of speed: Rethinking your levers
+sessionuid: 11A3EE0D-0787-44D4-A1E0-200D87692E44
+thirdpartyid: SEG102
+speakers: firstName_0: Miriam, lastName_0: McLemore
+tag_name: Innovation on AWS, Area of Interest, Resilience, Area of Interest, Strategy & Transformation, Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, Business Executive, Role, IT Executive, Role, Sales/Marketing, Role, Thursday, Day, Caesars Forum, Venue

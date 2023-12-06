@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas C
+summary: tag_name :BuildOn.AWS, Area of Interest, Partner Enablement, Topic, Amazon SageMaker, Services, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Cross Industry, Industry, AI/ML, Topic, Wednesday, Day, Mandalay Bay, Venue, Data Scientist, Role, IT Executive, Role, , speakers :firstName_0: Amey, lastName_0: Birje, firstName_1: Virginia, lastName_1: Gonzalez, , thirdpartyid :TNC305, sessionuid :033BBF61-F974-475D-B2BD-D723A813937F, title :AWS Partner training: Amazon SageMaker, description :This bootcamp is for AWS Partners only. This training helps you gain a comprehensive understanding of how to build ML use cases, from feature engineering to deployment of models in production. It covers various built-in algorithms, training, tuning, and deployment processes. It also explores bringing custom models and migrating on-premises ML workloads to Amazon SageMaker. Advanced concepts like model debugging, monitoring, AutoML, and ML workload evaluation using the AWS Well-Architected ML Lens are demonstrated. Gain practical insights and guidance for optimizing ML workflows on AWS. You must bring your laptop to participate., sessiontype :Bootcamp, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas C, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: South Seas C
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Bootcamp
+description: This bootcamp is for AWS Partners only. This training helps you gain a comprehensive understanding of how to build ML use cases, from feature engineering to deployment of models in production. It covers various built-in algorithms, training, tuning, and deployment processes. It also explores bringing custom models and migrating on-premises ML workloads to Amazon SageMaker. Advanced concepts like model debugging, monitoring, AutoML, and ML workload evaluation using the AWS Well-Architected ML Lens are demonstrated. Gain practical insights and guidance for optimizing ML workflows on AWS. You must bring your laptop to participate
+title: AWS Partner training: Amazon SageMaker
+sessionuid: 033BBF61-F974-475D-B2BD-D723A813937F
+thirdpartyid: TNC305
+speakers: firstName_0: Amey, lastName_0: Birje, firstName_1: Virginia, lastName_1: Gonzalez
+tag_name: BuildOn.AWS, Area of Interest, Partner Enablement, Topic, Amazon SageMaker, Services, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Cross Industry, Industry, AI/ML, Topic, Wednesday, Day, Mandalay Bay, Venue, Data Scientist, Role, IT Executive, Role

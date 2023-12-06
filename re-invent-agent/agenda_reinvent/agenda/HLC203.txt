@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 126
+summary: tag_name :Business Applications, Topic, Innovation on AWS, Area of Interest, Healthcare, Industry, 200 - Intermediate, Level, Advisor/Consultant, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Amazon Aurora, Services, Amazon Connect, Services, AWS Wavelength, Services, Thursday, Day, Caesars Forum, Venue, , speakers :firstName_0: Juli, lastName_0: Hysenbelli, firstName_1: Mo, lastName_1: Zoualfaghari, , thirdpartyid :HLC203, sessionuid :9718AA8B-DCE8-4B13-A835-711C77AA7F53, title :Building connected healthcare collaborations with telcos, description :<p>Telcos and cloud providers are essential for patient-centered healthcare because they enable remote care at home, remote surgeries, and advanced data management for personalized medicine. Discover how AWS is working with telcos to simplify technology adoption for hospitals with private and direct connectivity, security and mission-critical application migration into the cloud, 5G, and edge solutions.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 126, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 23:30:00 -0500, 
+enddatetimeutc: November, 30 2023 23:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Forum 126
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Telcos and cloud providers are essential for patient-centered healthcare because they enable remote care at home, remote surgeries, and advanced data management for personalized medicine. Discover how AWS is working with telcos to simplify technology adoption for hospitals with private and direct connectivity, security and mission-critical application migration into the cloud, 5G, and edge solutions.</p>
+title: Building connected healthcare collaborations with telcos
+sessionuid: 9718AA8B-DCE8-4B13-A835-711C77AA7F53
+thirdpartyid: HLC203
+speakers: firstName_0: Juli, lastName_0: Hysenbelli, firstName_1: Mo, lastName_1: Zoualfaghari
+tag_name: Business Applications, Topic, Innovation on AWS, Area of Interest, Healthcare, Industry, 200 - Intermediate, Level, Advisor/Consultant, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Amazon Aurora, Services, Amazon Connect, Services, AWS Wavelength, Services, Thursday, Day, Caesars Forum, Venue

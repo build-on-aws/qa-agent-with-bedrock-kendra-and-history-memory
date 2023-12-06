@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Venetian Ballroom J
+summary: tag_name :Analytics, Topic, Cross Industry, Industry, Tuesday, Day, Venetian, Venue, Lounges, Additional Services, 200 - Intermediate, Level, Data Engineer, Role, Training & Certification, Topic, Data Scientist, Role, , speakers :firstName_0: Andre, lastName_0: Zoutte, , thirdpartyid :TNC221, sessionuid :7C49F307-B9ED-4713-BA3E-C340407BA483, title :Exam prep: AWS Certified Data Engineer – Associate, description :Prepare for the AWS Certified Data Engineer – Associate exam in this one-hour study session. Review 10 questions from the AWS Data Engineer – Associate Official Practice Question Set. Ask questions of the subject matter expert leading the study session. Continue preparing for your exam with AWS Skill Builder, which offers flexible exam prep for all learners, created by the experts at AWS. Prerequisite: You must hold AWS Certification to attend this session in the AWS Certification Lounge. If you do not hold AWS Certification, search TNC220 for an alternative session., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Venetian Ballroom J, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Venetian Ballroom J
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Prepare for the AWS Certified Data Engineer – Associate exam in this one-hour study session. Review 10 questions from the AWS Data Engineer – Associate Official Practice Question Set. Ask questions of the subject matter expert leading the study session. Continue preparing for your exam with AWS Skill Builder, which offers flexible exam prep for all learners, created by the experts at AWS. Prerequisite: You must hold AWS Certification to attend this session in the AWS Certification Lounge. If you do not hold AWS Certification, search TNC220 for an alternative session
+title: Exam prep: AWS Certified Data Engineer – Associate
+sessionuid: 7C49F307-B9ED-4713-BA3E-C340407BA483
+thirdpartyid: TNC221
+speakers: firstName_0: Andre, lastName_0: Zoutte
+tag_name: Analytics, Topic, Cross Industry, Industry, Tuesday, Day, Venetian, Venue, Lounges, Additional Services, 200 - Intermediate, Level, Data Engineer, Role, Training & Certification, Topic, Data Scientist, Role

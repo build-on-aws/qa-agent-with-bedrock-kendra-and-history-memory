@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :IT Executive, Role, AWS Mainframe Modernization, Services, Enterprise & Migration, Topic, Migration & Transfer, Area of Interest, Wednesday, Day, Venetian, Venue, 200 - Intermediate, Level, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, , speakers :firstName_0: Xavier, lastName_0: Plot, , thirdpartyid :ENT234, sessionuid :93D0FAFA-49F7-43C0-90B2-CB33DBFE3C2D, title :AWS Mainframe Modernization Automated Refactor Transformation Center, description :In this follow-up demonstration to ENT203, learn how you can implement large-scale modernization of mainframe or midrange applications with the AWS Mainframe Modernization service and use a fully managed cloud-native runtime environment with integrated automated refactor toolchain to transform a legacy application written in COBOL into a modern Java application. The transformation preserves functional algorithms and data accesses of the legacy applications while enhancing scalability, agility, and maintainability of the application in line with business needs., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: In this follow-up demonstration to ENT203, learn how you can implement large-scale modernization of mainframe or midrange applications with the AWS Mainframe Modernization service and use a fully managed cloud-native runtime environment with integrated automated refactor toolchain to transform a legacy application written in COBOL into a modern Java application. The transformation preserves functional algorithms and data accesses of the legacy applications while enhancing scalability, agility, and maintainability of the application in line with business needs
+title: AWS Mainframe Modernization Automated Refactor Transformation Center
+sessionuid: 93D0FAFA-49F7-43C0-90B2-CB33DBFE3C2D
+thirdpartyid: ENT234
+speakers: firstName_0: Xavier, lastName_0: Plot
+tag_name: IT Executive, Role, AWS Mainframe Modernization, Services, Enterprise & Migration, Topic, Migration & Transfer, Area of Interest, Wednesday, Day, Venetian, Venue, 200 - Intermediate, Level, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role

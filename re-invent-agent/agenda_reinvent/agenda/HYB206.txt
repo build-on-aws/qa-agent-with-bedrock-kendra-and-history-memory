@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Bellini 2105
+summary: tag_name :IT Administrator, Role, Disaster Response & Recovery, Area of Interest, 200 - Intermediate, Level, VMware, Area of Interest, Solution/Systems Architect, Role, Tuesday, Day, Venetian, Venue, System Administrator, Role, Hybrid Cloud, Topic, Amazon FSx for NetApp ONTAP, Services, Global Infrastructure, Area of Interest, , speakers :firstName_0: Sonali, lastName_0: Desai, company_0: VMware, , thirdpartyid :HYB206-S, sessionuid :8BC83A2D-8FF3-4719-8975-0A8922F458BD, title :5 architectural innovations in VMware Cloud on AWS that you can’t miss (sponsored by VMware), description :<p>Digital transformation, cost optimization, application modernization—where should you start? VMware Cloud on AWS is a one-stop, cost-effective solution. It’s the fastest and safest path for your cloud transformation journey. In this session, get an overview and architectural details of VMware Cloud on AWS and dive deep on networking aspects. Learn how to plan and design workload migrations and what the different migration strategies are. Also learn how to protect your workloads in case of a disaster and how to modernize applications with AWS services. This presentation is brought to you by VMware, an AWS Partner.</p>, sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Bellini 2105, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: Bellini 2105
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: <p>Digital transformation, cost optimization, application modernization—where should you start? VMware Cloud on AWS is a one-stop, cost-effective solution. It’s the fastest and safest path for your cloud transformation journey. In this session, get an overview and architectural details of VMware Cloud on AWS and dive deep on networking aspects. Learn how to plan and design workload migrations and what the different migration strategies are. Also learn how to protect your workloads in case of a disaster and how to modernize applications with AWS services. This presentation is brought to you by VMware, an AWS Partner.</p>
+title: 5 architectural innovations in VMware Cloud on AWS that you can’t miss (sponsored by VMware)
+sessionuid: 8BC83A2D-8FF3-4719-8975-0A8922F458BD
+thirdpartyid: HYB206-S
+speakers: firstName_0: Sonali, lastName_0: Desai, company_0: VMware
+tag_name: IT Administrator, Role, Disaster Response & Recovery, Area of Interest, 200 - Intermediate, Level, VMware, Area of Interest, Solution/Systems Architect, Role, Tuesday, Day, Venetian, Venue, System Administrator, Role, Hybrid Cloud, Topic, Amazon FSx for NetApp ONTAP, Services, Global Infrastructure, Area of Interest

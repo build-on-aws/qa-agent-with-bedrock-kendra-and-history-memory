@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 301
+summary: tag_name :DevOps Engineer, Role, Serverless Compute, Topic, Developer/Engineer, Role, 300 - Advanced, Level, AWS Lambda, Services, Solution/Systems Architect, Role, Architecture, Topic, Tuesday, Day, MGM Grand, Venue, , speakers :firstName_0: Dan, lastName_0: Fox, firstName_1: Brian, lastName_1: Krygsman, , thirdpartyid :SVS310-R, sessionuid :7818EB65-1F9A-4E84-917F-9BC8DBE5628B, title :Automated testing for serverless and event-driven architectures [REPEAT], description :For serverless applications and asynchronous event-driven architectures, you can adapt your existing automated test-writing skills to fit these paradigms. The tests for serverless applications have many similarities with tests you may have written in the past. There are techniques that can make your tests more effective, useful, and easy to understand. Join this chalk talk to learn strategies for writing effective automated tests for serverless and event-driven architectures., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :301, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 20:30:00 -0500, 
+enddatetimeutc: November, 28 2023 20:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: 301
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: For serverless applications and asynchronous event-driven architectures, you can adapt your existing automated test-writing skills to fit these paradigms. The tests for serverless applications have many similarities with tests you may have written in the past. There are techniques that can make your tests more effective, useful, and easy to understand. Join this chalk talk to learn strategies for writing effective automated tests for serverless and event-driven architectures
+title: Automated testing for serverless and event-driven architectures [REPEAT]
+sessionuid: 7818EB65-1F9A-4E84-917F-9BC8DBE5628B
+thirdpartyid: SVS310-R
+speakers: firstName_0: Dan, lastName_0: Fox, firstName_1: Brian, lastName_1: Krygsman
+tag_name: DevOps Engineer, Role, Serverless Compute, Topic, Developer/Engineer, Role, 300 - Advanced, Level, AWS Lambda, Services, Solution/Systems Architect, Role, Architecture, Topic, Tuesday, Day, MGM Grand, Venue

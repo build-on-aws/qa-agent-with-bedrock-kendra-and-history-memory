@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 4
+summary: tag_name :Enterprise & Migration, Topic, Innovation on AWS, Area of Interest, Strategy & Transformation, Area of Interest, Business Executive, Role, 200 - Intermediate, Level, Cross Industry, Industry, Wednesday, Day, Wynn, Venue, Migration & Transfer, Area of Interest, IT Professional/Technical Manager, Role, IT Executive, Role, , speakers :firstName_0: Tom, lastName_0: Godden, , thirdpartyid :ENT217, sessionuid :2BD76006-5A77-46D6-8C73-2E716A186F5B, title :Strategies for navigating multicloud decisions and difficulties, description :As organizations seek to accelerate cloud migration and transformation, some find themselves in situations where they have to manage IT operations in a multicloud environment, or they simply struggle with whether and how to adopt a multicloud strategy in the first place. Leaders must consider how operating multiple cloud environments impacts business outcomes and their ability to innovate. In this session, the AWS Enterprise Strategy team shares unique insights and prescriptive guidance for navigating multicloud decisions and difficulties gleaned from thousands of engagements with leading organizations and extensive research into how multicloud impacts cloud adoption and transformation., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 4, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 17:30:00 -0500, 
+enddatetimeutc: November, 29 2023 17:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: Lafite 4
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: As organizations seek to accelerate cloud migration and transformation, some find themselves in situations where they have to manage IT operations in a multicloud environment, or they simply struggle with whether and how to adopt a multicloud strategy in the first place. Leaders must consider how operating multiple cloud environments impacts business outcomes and their ability to innovate. In this session, the AWS Enterprise Strategy team shares unique insights and prescriptive guidance for navigating multicloud decisions and difficulties gleaned from thousands of engagements with leading organizations and extensive research into how multicloud impacts cloud adoption and transformation
+title: Strategies for navigating multicloud decisions and difficulties
+sessionuid: 2BD76006-5A77-46D6-8C73-2E716A186F5B
+thirdpartyid: ENT217
+speakers: firstName_0: Tom, lastName_0: Godden
+tag_name: Enterprise & Migration, Topic, Innovation on AWS, Area of Interest, Strategy & Transformation, Area of Interest, Business Executive, Role, 200 - Intermediate, Level, Cross Industry, Industry, Wednesday, Day, Wynn, Venue, Migration & Transfer, Area of Interest, IT Professional/Technical Manager, Role, IT Executive, Role

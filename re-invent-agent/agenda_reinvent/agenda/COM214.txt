@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :200 - Intermediate, Level, Tech Explorer, Role, AWS IoT TwinMaker, Services, Innovation on AWS, Area of Interest, Internet of Things, Topic, Thursday, Day, Venetian, Venue, Kubernetes, Topic, Customer Stories, Area of Interest, AWS IoT Core, Services, Student, Role, Amazon Timestream, Services, Developer/Engineer, Role, , speakers :firstName_0: Jean-Remi, lastName_0: Beaudoin, company_0: Theodo, , thirdpartyid :COM214, sessionuid :1AEF36A0-BD3D-4414-B5B0-4EC7801D0C4D, title :Over-engineering your home with digital twins, description :“Digital twin” has become a buzzword in large industrial companies. But what is it? In this dev chat, learn through a concrete, small-scale application how you can—but probably shouldn’t—build digital twins around your home. Discover what you could learn from a digital twin based on an example of a door and how its digital twin can enable predictive maintenance operations. Learn about the tools that could allow you to build a cost-effective, enterprise-grade digital twin at home using solutions like AWS IoT TwinMaker and a Raspberry Pi., sessiontype :Dev Chat, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Dev Chat
+description: “Digital twin” has become a buzzword in large industrial companies. But what is it? In this dev chat, learn through a concrete, small-scale application how you can—but probably shouldn’t—build digital twins around your home. Discover what you could learn from a digital twin based on an example of a door and how its digital twin can enable predictive maintenance operations. Learn about the tools that could allow you to build a cost-effective, enterprise-grade digital twin at home using solutions like AWS IoT TwinMaker and a Raspberry Pi
+title: Over-engineering your home with digital twins
+sessionuid: 1AEF36A0-BD3D-4414-B5B0-4EC7801D0C4D
+thirdpartyid: COM214
+speakers: firstName_0: Jean-Remi, lastName_0: Beaudoin, company_0: Theodo
+tag_name: 200 - Intermediate, Level, Tech Explorer, Role, AWS IoT TwinMaker, Services, Innovation on AWS, Area of Interest, Internet of Things, Topic, Thursday, Day, Venetian, Venue, Kubernetes, Topic, Customer Stories, Area of Interest, AWS IoT Core, Services, Student, Role, Amazon Timestream, Services, Developer/Engineer, Role

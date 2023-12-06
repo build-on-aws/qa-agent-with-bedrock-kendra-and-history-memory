@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 120
+summary: tag_name :Tuesday, Day, Cloud Operations, Topic, Resilience, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, MGM Grand, Venue, , speakers :firstName_0: Archana, lastName_0: Ambavane, firstName_1: Teresa, lastName_1: Steffens, , thirdpartyid :SMB214, sessionuid :1363C563-52C9-4557-A8DB-A8B46B083609, title :Empower your commercial business with data replication and resiliency, description :<p>In today’s digital landscape, where data is a critical asset for businesses, ensuring high availability and rapid recovery in database systems is very important. Data replication plays a vital role in achieving these objectives. This session explores the concepts, strategies, and best practices for implementing data replication and building resilient database systems. Learn about the integration of data replication with disaster recovery and business continuity strategies. Explore techniques for implementing point-in-time recovery, geographically distributed replication, and failover mechanisms to minimize downtime and data loss during critical events.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 120, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 23:00:00 -0500, 
+enddatetimeutc: November, 28 2023 23:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Grand 120
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>In today’s digital landscape, where data is a critical asset for businesses, ensuring high availability and rapid recovery in database systems is very important. Data replication plays a vital role in achieving these objectives. This session explores the concepts, strategies, and best practices for implementing data replication and building resilient database systems. Learn about the integration of data replication with disaster recovery and business continuity strategies. Explore techniques for implementing point-in-time recovery, geographically distributed replication, and failover mechanisms to minimize downtime and data loss during critical events.</p>
+title: Empower your commercial business with data replication and resiliency
+sessionuid: 1363C563-52C9-4557-A8DB-A8B46B083609
+thirdpartyid: SMB214
+speakers: firstName_0: Archana, lastName_0: Ambavane, firstName_1: Teresa, lastName_1: Steffens
+tag_name: Tuesday, Day, Cloud Operations, Topic, Resilience, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, MGM Grand, Venue

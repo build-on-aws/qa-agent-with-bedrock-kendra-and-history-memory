@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Security, Compliance, & Identity, Topic, Threat Detection & Incident Response, Area of Interest, 300 - Advanced, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, DevOps Engineer, Role, Tuesday, Day, Venetian, Venue, , speakers :firstName_0: Lonnie, lastName_0: Best, company_0: Rapid7, , thirdpartyid :SEC315-S, sessionuid :FAFE1E2E-7CB2-4194-867A-23CF353A2EC4, title :Lessons from the SOC: Analyzing and remediating cloud attack paths (sponsored by Rapid7), description :<p>Having the ability to simplify the dozens of factors that go into a potential attack path into a simple graphic that can be consumed by technical and non-technical stakeholders can mean the difference between speedy remediation and a large event. In this lightning talk, learn about common and novel examples of attack paths that experts at Rapid7 have analyzed and explore step-by-step suggestions for protecting your organization’s critical data. This presentation is brought to you by Rapid7, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Having the ability to simplify the dozens of factors that go into a potential attack path into a simple graphic that can be consumed by technical and non-technical stakeholders can mean the difference between speedy remediation and a large event. In this lightning talk, learn about common and novel examples of attack paths that experts at Rapid7 have analyzed and explore step-by-step suggestions for protecting your organization’s critical data. This presentation is brought to you by Rapid7, an AWS Partner.</p>
+title: Lessons from the SOC: Analyzing and remediating cloud attack paths (sponsored by Rapid7)
+sessionuid: FAFE1E2E-7CB2-4194-867A-23CF353A2EC4
+thirdpartyid: SEC315-S
+speakers: firstName_0: Lonnie, lastName_0: Best, company_0: Rapid7
+tag_name: Security, Compliance, & Identity, Topic, Threat Detection & Incident Response, Area of Interest, 300 - Advanced, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, DevOps Engineer, Role, Tuesday, Day, Venetian, Venue

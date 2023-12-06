@@ -1,0 +1,14 @@
+location: Venetian, Level 3, San Polo 3505
+summary: tag_name :Thursday, Day, Venetian, Venue, 100 - Foundational, Level, , speakers :, thirdpartyid :PRS108, sessionuid :641A6E58-778D-428E-B85C-890A4CF0CD9C, title :Press Lounge, description :The Press Lounge is for press attendees only., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 3, locationname :San Polo 3505, startdatetimeutc :November, 30 2023 15:00:00 -0500, enddatetimeutc :December, 01 2023 02:00:00 -0500, 
+enddatetimeutc: December, 01 2023 02:00:00 -0500
+startdatetimeutc: November, 30 2023 15:00:00 -0500
+locationname: San Polo 3505
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Community Activities
+description: The Press Lounge is for press attendees only
+title: Press Lounge
+sessionuid: 641A6E58-778D-428E-B85C-890A4CF0CD9C
+thirdpartyid: PRS108
+speakers: 
+tag_name: Thursday, Day, Venetian, Venue, 100 - Foundational, Level

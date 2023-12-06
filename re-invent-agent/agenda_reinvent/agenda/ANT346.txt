@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 123
+summary: tag_name :300 - Advanced, Level, Analytics, Topic, Amazon RedShift, Services, Application Integration, Area of Interest, Developer/Engineer, Role, Data Engineer, Role, Wednesday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, Databases, Topic, Amazon Athena, Services, AWS Glue, Services, , speakers :firstName_0: Amandeep, lastName_0: Bajwa, firstName_1: Srikanth, lastName_1: Sopirala, , thirdpartyid :ANT346-R, sessionuid :9F9E4DB4-56B9-4315-B234-F43BC2BA7A18, title :Understanding zero-ETL with AWS analytics [REPEAT], description :Unifying your data is a key first step to achieving analytical insights, but it can be difficult to build custom data management pipelines and code to prepare your data for analysis. Join this chalk talk to learn how AWS is making zero-ETL a reality and integrating data services so data flows from one system to another. Find out how you can perform analytics and machine learning without moving or transforming your data. Learn about Amazon Aurora zero-ETL integration with Amazon Redshift, federated queries in Amazon Redshift and Amazon Athena, and the role AWS Glue can play in easier data integration., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 123, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Forum 123
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Unifying your data is a key first step to achieving analytical insights, but it can be difficult to build custom data management pipelines and code to prepare your data for analysis. Join this chalk talk to learn how AWS is making zero-ETL a reality and integrating data services so data flows from one system to another. Find out how you can perform analytics and machine learning without moving or transforming your data. Learn about Amazon Aurora zero-ETL integration with Amazon Redshift, federated queries in Amazon Redshift and Amazon Athena, and the role AWS Glue can play in easier data integration
+title: Understanding zero-ETL with AWS analytics [REPEAT]
+sessionuid: 9F9E4DB4-56B9-4315-B234-F43BC2BA7A18
+thirdpartyid: ANT346-R
+speakers: firstName_0: Amandeep, lastName_0: Bajwa, firstName_1: Srikanth, lastName_1: Sopirala
+tag_name: 300 - Advanced, Level, Analytics, Topic, Amazon RedShift, Services, Application Integration, Area of Interest, Developer/Engineer, Role, Data Engineer, Role, Wednesday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, Databases, Topic, Amazon Athena, Services, AWS Glue, Services

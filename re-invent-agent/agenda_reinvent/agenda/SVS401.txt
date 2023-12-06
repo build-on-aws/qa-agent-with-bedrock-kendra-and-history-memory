@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Summit Showroom
+summary: tag_name :Amazon API Gateway, Services, AWS Step Functions, Services, AWS Lambda, Services, Serverless Compute, Topic, Developer/Engineer, Role, Cost Optimization, Area of Interest, Architecture, Topic, Thursday, Day, Venetian, Venue, 400 - Expert, Level, , speakers :firstName_0: Chris, lastName_0: Munns, firstName_1: Julian, lastName_1: Wood, , thirdpartyid :SVS401, sessionuid :3F2986B7-8FF4-4602-90E4-94A70CC69D22, title :Best practices for serverless developers, description :Do you want to take advantage of the full power of serverless architectures for your production workloads? Are you wondering how events can help your applications scale? Have you been trying to tune your applications for higher performance and lower cost? This session provides architectural best practices, optimizations, and useful shortcuts that experts use to build secure, high-scale, and high-performance serverless applications., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Summit Showroom, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Summit Showroom
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: Do you want to take advantage of the full power of serverless architectures for your production workloads? Are you wondering how events can help your applications scale? Have you been trying to tune your applications for higher performance and lower cost? This session provides architectural best practices, optimizations, and useful shortcuts that experts use to build secure, high-scale, and high-performance serverless applications
+title: Best practices for serverless developers
+sessionuid: 3F2986B7-8FF4-4602-90E4-94A70CC69D22
+thirdpartyid: SVS401
+speakers: firstName_0: Chris, lastName_0: Munns, firstName_1: Julian, lastName_1: Wood
+tag_name: Amazon API Gateway, Services, AWS Step Functions, Services, AWS Lambda, Services, Serverless Compute, Topic, Developer/Engineer, Role, Cost Optimization, Area of Interest, Architecture, Topic, Thursday, Day, Venetian, Venue, 400 - Expert, Level

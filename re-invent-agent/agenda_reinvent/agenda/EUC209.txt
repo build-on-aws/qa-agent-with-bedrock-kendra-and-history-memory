@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 110
+summary: tag_name :End-User Computing, Topic, Application Security, Area of Interest, Independent Software Vendor (ISV), Area of Interest, Cost Optimization, Area of Interest, 200 - Intermediate, Level, Business Executive, Role, IT Administrator, Role, Solution/Systems Architect, Role, Amazon AppStream 2.0, Services, Amazon WorkSpaces, Services, Amazon WorkSpaces Web, Services, Thursday, Day, Caesars Forum, Venue, , speakers :firstName_0: Sergio, lastName_0: Volpi, firstName_1: Thomas, lastName_1: SAGASPE, , thirdpartyid :EUC209-R, sessionuid :9B5529F2-E7F3-4FF2-BEEE-3367EAF96E1E, title :Optimizing costs using Amazon AppStream 2.0 fleet options [REPEAT], description :<p>IT teams responsible for end user computing or application streaming services need more options to reduce costs while increasing performance for their employees. Amazon AppStream 2.0 provides the flexibility and control required to optimize the solution based on specific end user and business requirements. This interactive chalk talk explores various AppStream 2.0 fleet types and covers how to use them to maximize performance and end user experience without overspending.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 110, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Forum 110
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>IT teams responsible for end user computing or application streaming services need more options to reduce costs while increasing performance for their employees. Amazon AppStream 2.0 provides the flexibility and control required to optimize the solution based on specific end user and business requirements. This interactive chalk talk explores various AppStream 2.0 fleet types and covers how to use them to maximize performance and end user experience without overspending.</p>
+title: Optimizing costs using Amazon AppStream 2.0 fleet options [REPEAT]
+sessionuid: 9B5529F2-E7F3-4FF2-BEEE-3367EAF96E1E
+thirdpartyid: EUC209-R
+speakers: firstName_0: Sergio, lastName_0: Volpi, firstName_1: Thomas, lastName_1: SAGASPE
+tag_name: End-User Computing, Topic, Application Security, Area of Interest, Independent Software Vendor (ISV), Area of Interest, Cost Optimization, Area of Interest, 200 - Intermediate, Level, Business Executive, Role, IT Administrator, Role, Solution/Systems Architect, Role, Amazon AppStream 2.0, Services, Amazon WorkSpaces, Services, Amazon WorkSpaces Web, Services, Thursday, Day, Caesars Forum, Venue

@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3002
+summary: tag_name :Internet of Things, Topic, IT Executive, Role, IT Professional/Technical Manager, Role, Business Executive, Role, Manufacturing & Industrial, Industry, Analytics, Topic, 200 - Intermediate, Level, Innovation on AWS, Area of Interest, Thursday, Day, Venetian, Venue, AWS IoT SiteWise, Services, Edge Computing, Area of Interest, Automotive, Industry, Customer Stories, Area of Interest, , speakers :firstName_0: Guillaume, lastName_0: Allain, firstName_1: Jeff, lastName_1: Bramlett, firstName_2: Mario, lastName_2: Pilz, company_2: Siemens Energy, , thirdpartyid :PRO203, sessionuid :607482B6-7822-4648-9F1B-637412B76BB2, title :From factory to cloud: Enhancing operations & sustainability with IoT, description :In this session, dive into Siemens Energy’s journey to using digitalization to shape its next-generation smart factories. In collaboration with AWS ProServe, Siemens Energy integrated IoT edge devices across more than 80 factories into the cloud. Explore the tangible benefits of smart factories, from improved problem-solving to increased machine uptime, which can lead to cost advantages. Learn about concrete examples demonstrating the impact of data connectivity on factory operations and Siemens Energy’s dedication to sustainability., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3002, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: Lido 3002
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Breakout Session
+description: In this session, dive into Siemens Energy’s journey to using digitalization to shape its next-generation smart factories. In collaboration with AWS ProServe, Siemens Energy integrated IoT edge devices across more than 80 factories into the cloud. Explore the tangible benefits of smart factories, from improved problem-solving to increased machine uptime, which can lead to cost advantages. Learn about concrete examples demonstrating the impact of data connectivity on factory operations and Siemens Energy’s dedication to sustainability
+title: From factory to cloud: Enhancing operations & sustainability with IoT
+sessionuid: 607482B6-7822-4648-9F1B-637412B76BB2
+thirdpartyid: PRO203
+speakers: firstName_0: Guillaume, lastName_0: Allain, firstName_1: Jeff, lastName_1: Bramlett, firstName_2: Mario, lastName_2: Pilz, company_2: Siemens Energy
+tag_name: Internet of Things, Topic, IT Executive, Role, IT Professional/Technical Manager, Role, Business Executive, Role, Manufacturing & Industrial, Industry, Analytics, Topic, 200 - Intermediate, Level, Innovation on AWS, Area of Interest, Thursday, Day, Venetian, Venue, AWS IoT SiteWise, Services, Edge Computing, Area of Interest, Automotive, Industry, Customer Stories, Area of Interest

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 123
+summary: tag_name :300 - Advanced, Level, Architecture, Topic, DevOps and Developer Productivity, Topic, Developer/Engineer, Role, Wednesday, Day, MGM Grand, Venue, Solution/Systems Architect, Role, , speakers :firstName_0: Sunanda, lastName_0: Saxena, firstName_1: Ashish, lastName_1: Bhatia, , thirdpartyid :XNT302, sessionuid :B4E2C4DD-6E03-45EA-8C68-1FACAB89E15E, title :Modernize and optimize an ASP.NET app in 2 hours, description :<p>In this workshop, as a developer for a fictitious ecommerce company, learn to enhance their web application to reduce cost, scale dynamically, and improve operational efficiencies. Move a sample .NET framework application to Amazon ECS on AWS Fargate using AWS modernization tools and AI-powered suggestions. Learn to use the assistive tools to port to cross-platform .NET, create microservices, and deploy on Amazon ECS on AWS Fargate in just two hours. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 123, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 21:30:00 -0500, 
+enddatetimeutc: November, 29 2023 21:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Grand 123
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>In this workshop, as a developer for a fictitious ecommerce company, learn to enhance their web application to reduce cost, scale dynamically, and improve operational efficiencies. Move a sample .NET framework application to Amazon ECS on AWS Fargate using AWS modernization tools and AI-powered suggestions. Learn to use the assistive tools to port to cross-platform .NET, create microservices, and deploy on Amazon ECS on AWS Fargate in just two hours. You must bring your laptop to participate.</p>
+title: Modernize and optimize an ASP.NET app in 2 hours
+sessionuid: B4E2C4DD-6E03-45EA-8C68-1FACAB89E15E
+thirdpartyid: XNT302
+speakers: firstName_0: Sunanda, lastName_0: Saxena, firstName_1: Ashish, lastName_1: Bhatia
+tag_name: 300 - Advanced, Level, Architecture, Topic, DevOps and Developer Productivity, Topic, Developer/Engineer, Role, Wednesday, Day, MGM Grand, Venue, Solution/Systems Architect, Role

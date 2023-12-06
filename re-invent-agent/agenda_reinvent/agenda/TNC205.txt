@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Lagoon L
+summary: tag_name :Application Integration, Area of Interest, Developer/Engineer, Role, AWS Lambda, Services, BuildOn.AWS, Area of Interest, Cross Industry, Industry, Architecture, Topic, Amazon Simple Queue Service (SQS), Services, Training & Certification, Topic, Wednesday, Day, Mandalay Bay, Venue, 200 - Intermediate, Level, System Administrator, Role, Amazon Simple Notification Service (SNS), Services, Solution/Systems Architect, Role, , speakers :firstName_0: David, lastName_0: Lantz, , thirdpartyid :TNC205, sessionuid :B80B2FB3-EE38-4B50-9481-F76DF7CE2521, title :Build a serverless architecture with Amazon SNS, SQS, and AWS Lambda, description :In this lab, learn how to create and interact with Amazon SQS queues, and discover how to invoke an AWS Lambda function using Amazon SQS. This scenario is designed to help you understand how you can architect your application to respond to Amazon S3 bucket events using serverless services such as Amazon SNS, AWS Lambda, and Amazon SQS., sessiontype :Lab, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Lagoon L, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Lagoon L
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Lab
+description: In this lab, learn how to create and interact with Amazon SQS queues, and discover how to invoke an AWS Lambda function using Amazon SQS. This scenario is designed to help you understand how you can architect your application to respond to Amazon S3 bucket events using serverless services such as Amazon SNS, AWS Lambda, and Amazon SQS
+title: Build a serverless architecture with Amazon SNS, SQS, and AWS Lambda
+sessionuid: B80B2FB3-EE38-4B50-9481-F76DF7CE2521
+thirdpartyid: TNC205
+speakers: firstName_0: David, lastName_0: Lantz
+tag_name: Application Integration, Area of Interest, Developer/Engineer, Role, AWS Lambda, Services, BuildOn.AWS, Area of Interest, Cross Industry, Industry, Architecture, Topic, Amazon Simple Queue Service (SQS), Services, Training & Certification, Topic, Wednesday, Day, Mandalay Bay, Venue, 200 - Intermediate, Level, System Administrator, Role, Amazon Simple Notification Service (SNS), Services, Solution/Systems Architect, Role

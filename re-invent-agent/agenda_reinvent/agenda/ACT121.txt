@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Bayside B
+summary: tag_name :Thursday, Day, Mandalay Bay, Venue, Community Activities, Additional Services, , speakers :, thirdpartyid :ACT121, sessionuid :44F36BDD-D600-4C77-B935-A861106F6CD8, title :re:Invent Rec Center: Sports, description :Don’t miss the chance to watch, play, and experience AWS sports collaborations like never before., sessiontype :Community Activities, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Bayside B, startdatetimeutc :November, 30 2023 18:00:00 -0500, enddatetimeutc :December, 01 2023 02:00:00 -0500, 
+enddatetimeutc: December, 01 2023 02:00:00 -0500
+startdatetimeutc: November, 30 2023 18:00:00 -0500
+locationname: Bayside B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Community Activities
+description: Don’t miss the chance to watch, play, and experience AWS sports collaborations like never before
+title: re:Invent Rec Center: Sports
+sessionuid: 44F36BDD-D600-4C77-B935-A861106F6CD8
+thirdpartyid: ACT121
+speakers: 
+tag_name: Thursday, Day, Mandalay Bay, Venue, Community Activities, Additional Services

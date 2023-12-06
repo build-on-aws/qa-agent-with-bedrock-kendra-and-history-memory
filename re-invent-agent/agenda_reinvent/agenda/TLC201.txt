@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 201
+summary: tag_name :Enterprise & Migration, Topic, Cost Optimization, Area of Interest, Telecommunications, Industry, 200 - Intermediate, Level, Business Executive, Role, Amazon SageMaker, Services, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Johan, lastName_0: Sporre Lennberg, company_0: Ericsson, firstName_1: Fabio, lastName_1: Cerone, firstName_2: Vikram, lastName_2: Khandpur, company_2: Vonage (an Ericsson company), firstName_3: Mats, lastName_3: Hultin, company_3: Ericsson, , thirdpartyid :TLC201, sessionuid :87538F4B-CA51-47DB-A4B5-444C1EF20E9D, title :Ericsson into the cloud, description :<p>This session is about how Ericsson, one of the most established telecom companies, broke records and achieved super savings in a fast move of major IT operations to the AWS Cloud, all while benefiting developers and businesses by transforming the advanced network capabilities and helping communication service providers monetize their investments in the network.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 201, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Summit 201
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>This session is about how Ericsson, one of the most established telecom companies, broke records and achieved super savings in a fast move of major IT operations to the AWS Cloud, all while benefiting developers and businesses by transforming the advanced network capabilities and helping communication service providers monetize their investments in the network.</p>
+title: Ericsson into the cloud
+sessionuid: 87538F4B-CA51-47DB-A4B5-444C1EF20E9D
+thirdpartyid: TLC201
+speakers: firstName_0: Johan, lastName_0: Sporre Lennberg, company_0: Ericsson, firstName_1: Fabio, lastName_1: Cerone, firstName_2: Vikram, lastName_2: Khandpur, company_2: Vonage (an Ericsson company), firstName_3: Mats, lastName_3: Hultin, company_3: Ericsson
+tag_name: Enterprise & Migration, Topic, Cost Optimization, Area of Interest, Telecommunications, Industry, 200 - Intermediate, Level, Business Executive, Role, Amazon SageMaker, Services, Wednesday, Day, Caesars Forum, Venue

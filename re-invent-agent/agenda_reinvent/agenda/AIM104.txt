@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :AI/ML, Topic, Business Applications, Topic, Digital Native Business (DNB), Area of Interest, Open Source, Area of Interest, Generative AI, Area of Interest, 100 - Foundational, Level, Business Executive, Role, Data Scientist, Role, Developer/Engineer, Role, Tuesday, Day, Venetian, Venue, , speakers :firstName_0: Mike, lastName_0: Hulme, company_0: DataStax, Inc., , thirdpartyid :AIM104-S, sessionuid :DCCD21B7-8FA6-4E78-9BAB-BB35A07F5EEE, title :Generative AI for enterprise: Secure, scalable, compliant & 5x cheaper (sponsored by DataStax), description :<p>Join this talk to learn how generative AI, large language models (LLMs), AI assistants, and intelligent agents are all powering next-generation customer experiences to transform every business. Learn about the key building blocks that can help deliver a successful, scalable, and secure data foundation for your generative AI strategy. This presentation is brought to you by DataStax, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :November, 29 2023 00:30:00 -0500, enddatetimeutc :November, 29 2023 00:50:00 -0500, 
+enddatetimeutc: November, 29 2023 00:50:00 -0500
+startdatetimeutc: November, 29 2023 00:30:00 -0500
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Join this talk to learn how generative AI, large language models (LLMs), AI assistants, and intelligent agents are all powering next-generation customer experiences to transform every business. Learn about the key building blocks that can help deliver a successful, scalable, and secure data foundation for your generative AI strategy. This presentation is brought to you by DataStax, an AWS Partner.</p>
+title: Generative AI for enterprise: Secure, scalable, compliant & 5x cheaper (sponsored by DataStax)
+sessionuid: DCCD21B7-8FA6-4E78-9BAB-BB35A07F5EEE
+thirdpartyid: AIM104-S
+speakers: firstName_0: Mike, lastName_0: Hulme, company_0: DataStax, Inc.
+tag_name: AI/ML, Topic, Business Applications, Topic, Digital Native Business (DNB), Area of Interest, Open Source, Area of Interest, Generative AI, Area of Interest, 100 - Foundational, Level, Business Executive, Role, Data Scientist, Role, Developer/Engineer, Role, Tuesday, Day, Venetian, Venue

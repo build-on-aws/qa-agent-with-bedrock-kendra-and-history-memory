@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 315
+summary: tag_name :Amazon HealthLake, Services, Healthcare, Industry, Architecture, Topic, Developer/Engineer, Role, Data Engineer, Role, 300 - Advanced, Level, Thursday, Day, Caesars Forum, Venue, Life Sciences, Industry, Amazon Omics, Services, Solution/Systems Architect, Role, , speakers :firstName_0: Olivia, lastName_0: Choudhury, firstName_1: Aaron, lastName_1: Friedman, firstName_2: JP, lastName_2: Leger, firstName_3: Lee, lastName_3: Pang, firstName_4: Kruthi, lastName_4: Jayasimha Rao, firstName_5: Prachi, lastName_5: Doshi, , thirdpartyid :HLC303-R, sessionuid :40D749F7-344D-4C1E-9A12-8DFE54A96377, title :Build complete multimodal analyses for health data [REPEAT], description :<p>The integration of multimodal data, including imaging, genomics, and clinical records, can provide greater insights and a more holistic view of individual patients and cohort populations. In this builders’ session, learn how to build complete multimodal analyses that can speed diagnoses and insights using AWS purpose-built health services AWS HealthOmics, AWS HealthImaging, and AWS HealthLake. You must bring your laptop to participate.</p>, sessiontype :Builders' Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 315, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Alliance 315
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Builders' Session
+description: <p>The integration of multimodal data, including imaging, genomics, and clinical records, can provide greater insights and a more holistic view of individual patients and cohort populations. In this builders’ session, learn how to build complete multimodal analyses that can speed diagnoses and insights using AWS purpose-built health services AWS HealthOmics, AWS HealthImaging, and AWS HealthLake. You must bring your laptop to participate.</p>
+title: Build complete multimodal analyses for health data [REPEAT]
+sessionuid: 40D749F7-344D-4C1E-9A12-8DFE54A96377
+thirdpartyid: HLC303-R
+speakers: firstName_0: Olivia, lastName_0: Choudhury, firstName_1: Aaron, lastName_1: Friedman, firstName_2: JP, lastName_2: Leger, firstName_3: Lee, lastName_3: Pang, firstName_4: Kruthi, lastName_4: Jayasimha Rao, firstName_5: Prachi, lastName_5: Doshi
+tag_name: Amazon HealthLake, Services, Healthcare, Industry, Architecture, Topic, Developer/Engineer, Role, Data Engineer, Role, 300 - Advanced, Level, Thursday, Day, Caesars Forum, Venue, Life Sciences, Industry, Amazon Omics, Services, Solution/Systems Architect, Role

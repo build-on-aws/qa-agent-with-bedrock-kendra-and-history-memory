@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 169
+summary: tag_name :AWS AppSync, Services, DevOps and Developer Productivity, Topic, Front-End Web & Mobile, Area of Interest, Thursday, Day, MGM Grand, Venue, Developer/Engineer, Role, DevOps Engineer, Role, 300 - Advanced, Level, , speakers :firstName_0: Michael, lastName_0: Liendo, firstName_1: Eric, lastName_1: Robertson, , thirdpartyid :FWM311, sessionuid :51CAB299-491C-4C9E-A951-8A68F24E7A95, title :Accelerate API application development with AWS AppSync, description :Companies leverage AWS AppSync because developers can use it to securely connect their frontend web and mobile applications to data, creating differentiated real-time and offline app experiences faster. In this chalk talk, learn about exciting new AppSync features that will make it easier for developers to use the benefits of GraphQL for their application development., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 169, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Boulevard 169
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Companies leverage AWS AppSync because developers can use it to securely connect their frontend web and mobile applications to data, creating differentiated real-time and offline app experiences faster. In this chalk talk, learn about exciting new AppSync features that will make it easier for developers to use the benefits of GraphQL for their application development
+title: Accelerate API application development with AWS AppSync
+sessionuid: 51CAB299-491C-4C9E-A951-8A68F24E7A95
+thirdpartyid: FWM311
+speakers: firstName_0: Michael, lastName_0: Liendo, firstName_1: Eric, lastName_1: Robertson
+tag_name: AWS AppSync, Services, DevOps and Developer Productivity, Topic, Front-End Web & Mobile, Area of Interest, Thursday, Day, MGM Grand, Venue, Developer/Engineer, Role, DevOps Engineer, Role, 300 - Advanced, Level

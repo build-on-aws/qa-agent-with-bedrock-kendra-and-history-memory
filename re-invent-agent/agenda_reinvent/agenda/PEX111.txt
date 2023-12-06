@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Business Executive, Role, Sales/Marketing, Role, 100 - Foundational, Level, Strategy & Transformation, Area of Interest, Thursday, Day, Venetian, Venue, Partner Enablement, Topic, IT Executive, Role, , speakers :firstName_0: Oren, lastName_0: Singer, firstName_1: Fernanda, lastName_1: Lehrbach, , thirdpartyid :PEX111, sessionuid :BAC3C01A-966E-4BA9-934C-431356AB663E, title :Accelerate the AWS Partner journey with self-guided experience, description :Accelerate your AWS Partner journey and unlock AWS benefits using the self-guided partner experience on AWS Partner Central for Software Partners. Jump-start your partner journey from registration, onboarding, solution building, and go-to-market support. This lightning talk is intended for AWS Partners., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 30 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 23:20:00 -0500, 
+enddatetimeutc: November, 30 2023 23:20:00 -0500
+startdatetimeutc: November, 30 2023 23:00:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Accelerate your AWS Partner journey and unlock AWS benefits using the self-guided partner experience on AWS Partner Central for Software Partners. Jump-start your partner journey from registration, onboarding, solution building, and go-to-market support. This lightning talk is intended for AWS Partners
+title: Accelerate the AWS Partner journey with self-guided experience
+sessionuid: BAC3C01A-966E-4BA9-934C-431356AB663E
+thirdpartyid: PEX111
+speakers: firstName_0: Oren, lastName_0: Singer, firstName_1: Fernanda, lastName_1: Lehrbach
+tag_name: Business Executive, Role, Sales/Marketing, Role, 100 - Foundational, Level, Strategy & Transformation, Area of Interest, Thursday, Day, Venetian, Venue, Partner Enablement, Topic, IT Executive, Role

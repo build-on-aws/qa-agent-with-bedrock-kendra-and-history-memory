@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Murano 3306
+summary: tag_name :Customer Enablement, Topic, New to AWS, Topic, Management & Governance, Area of Interest, Workforce Development, Area of Interest, 100 - Foundational, Level, Business Executive, Role, IT Executive, Role, Solution/Systems Architect, Role, Monday, Day, Venetian, Venue, , speakers :firstName_0: Jey, lastName_0: Vell, firstName_1: Arjun, lastName_1: Chakraverty, firstName_2: Keith, lastName_2: Bryan, , thirdpartyid :NTA101, sessionuid :C55FC91C-FD1C-47A1-8DBE-C65DF0E7B0BD, title :Your journey with AWS: Executive lens into your organization journey, description :<p>This session is for executives (CXOs, VPs, and directors) who would like to move to the cloud, are in the process of moving to the cloud, or are already in the cloud but need to understand the typical customer journey. This session covers identifying different customer personas and where you fit in, the typical customer journey map and where you are on that journey, and aligning your organizational goals with your AWS journey map. Also learn how to think about two-pizza team culture using Amazon’s pace of innovation mental model, the foundational services for any organization for strategic growth, and resources from AWS.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 3, locationname :Murano 3306, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Murano 3306
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: standard
+description: <p>This session is for executives (CXOs, VPs, and directors) who would like to move to the cloud, are in the process of moving to the cloud, or are already in the cloud but need to understand the typical customer journey. This session covers identifying different customer personas and where you fit in, the typical customer journey map and where you are on that journey, and aligning your organizational goals with your AWS journey map. Also learn how to think about two-pizza team culture using Amazon’s pace of innovation mental model, the foundational services for any organization for strategic growth, and resources from AWS.</p>
+title: Your journey with AWS: Executive lens into your organization journey
+sessionuid: C55FC91C-FD1C-47A1-8DBE-C65DF0E7B0BD
+thirdpartyid: NTA101
+speakers: firstName_0: Jey, lastName_0: Vell, firstName_1: Arjun, lastName_1: Chakraverty, firstName_2: Keith, lastName_2: Bryan
+tag_name: Customer Enablement, Topic, New to AWS, Topic, Management & Governance, Area of Interest, Workforce Development, Area of Interest, 100 - Foundational, Level, Business Executive, Role, IT Executive, Role, Solution/Systems Architect, Role, Monday, Day, Venetian, Venue

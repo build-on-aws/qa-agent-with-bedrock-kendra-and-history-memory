@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 101
+summary: tag_name :Cross Industry, Industry, Amazon DynamoDB, Services, Developer/Engineer, Role, Amazon Simple Storage Service (S3), Services, Global Infrastructure, Area of Interest, Tuesday, Day, Caesars Forum, Venue, Resilience, Area of Interest, Solution/Systems Architect, Role, Amazon Aurora, Services, Architecture, Topic, Well-Architected Framework, Area of Interest, 400 - Expert, Level, , speakers :firstName_0: John, lastName_0: Formento, firstName_1: Tarik, lastName_1: Makota, , thirdpartyid :ARC401-R, sessionuid :D402F46C-293C-433A-9E8F-241185C5AEB8, title :Multi-Region or single-Region? Considerations and architectures [REPEAT], description :With AWS, builders can create highly resilient workloads in the cloud. In this chalk talk, learn about how to reason about single-Region and multi-Region architectures. This talk walks through and whiteboards architectures that take advantage of AWS services that support multi-Region capabilities and explores what a failover scenario would look like in real life. Leave with an understanding of what it takes to run multi-Region on AWS., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 101, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Forum 101
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: With AWS, builders can create highly resilient workloads in the cloud. In this chalk talk, learn about how to reason about single-Region and multi-Region architectures. This talk walks through and whiteboards architectures that take advantage of AWS services that support multi-Region capabilities and explores what a failover scenario would look like in real life. Leave with an understanding of what it takes to run multi-Region on AWS
+title: Multi-Region or single-Region? Considerations and architectures [REPEAT]
+sessionuid: D402F46C-293C-433A-9E8F-241185C5AEB8
+thirdpartyid: ARC401-R
+speakers: firstName_0: John, lastName_0: Formento, firstName_1: Tarik, lastName_1: Makota
+tag_name: Cross Industry, Industry, Amazon DynamoDB, Services, Developer/Engineer, Role, Amazon Simple Storage Service (S3), Services, Global Infrastructure, Area of Interest, Tuesday, Day, Caesars Forum, Venue, Resilience, Area of Interest, Solution/Systems Architect, Role, Amazon Aurora, Services, Architecture, Topic, Well-Architected Framework, Area of Interest, 400 - Expert, Level

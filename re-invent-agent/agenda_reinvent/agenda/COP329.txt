@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 320
+summary: tag_name :Solution/Systems Architect, Role, Management & Governance, Area of Interest, 300 - Advanced, Level, Amazon Managed Service for Prometheus, Services, DevOps Engineer, Role, System Administrator, Role, Cloud Operations, Topic, Monitoring & Observability, Area of Interest, Wednesday, Day, MGM Grand, Venue, Amazon CloudWatch, Services, Amazon Managed Grafana, Services, , speakers :firstName_0: Munish, lastName_0: Dabra, firstName_1: Rob, lastName_1: Sable, , thirdpartyid :COP329, sessionuid :67EAEAE2-47DE-4387-B56B-ED05ECCE6DC9, title :Hybrid and multicloud observability with AWS, description :<p>Achieving comprehensive observability across hybrid and multicloud environments may be a complex endeavor, but it doesn’t have to be. In this chalk talk, learn how you can address the potential issues that organizations may face in hybrid and multicloud observability and build a unified observability experience. Delve into how you can collect, store, visualize, and alert on telemetry data from diverse hybrid and multicloud environments using managed open source services including AWS Managed Service for Prometheus, AWS Distro for OpenTelemetry, and Amazon Managed Grafana, along with Amazon CloudWatch.</p>, sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 320, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Premier 320
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: <p>Achieving comprehensive observability across hybrid and multicloud environments may be a complex endeavor, but it doesn’t have to be. In this chalk talk, learn how you can address the potential issues that organizations may face in hybrid and multicloud observability and build a unified observability experience. Delve into how you can collect, store, visualize, and alert on telemetry data from diverse hybrid and multicloud environments using managed open source services including AWS Managed Service for Prometheus, AWS Distro for OpenTelemetry, and Amazon Managed Grafana, along with Amazon CloudWatch.</p>
+title: Hybrid and multicloud observability with AWS
+sessionuid: 67EAEAE2-47DE-4387-B56B-ED05ECCE6DC9
+thirdpartyid: COP329
+speakers: firstName_0: Munish, lastName_0: Dabra, firstName_1: Rob, lastName_1: Sable
+tag_name: Solution/Systems Architect, Role, Management & Governance, Area of Interest, 300 - Advanced, Level, Amazon Managed Service for Prometheus, Services, DevOps Engineer, Role, System Administrator, Role, Cloud Operations, Topic, Monitoring & Observability, Area of Interest, Wednesday, Day, MGM Grand, Venue, Amazon CloudWatch, Services, Amazon Managed Grafana, Services

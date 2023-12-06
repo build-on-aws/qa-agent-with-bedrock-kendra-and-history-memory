@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 5
+summary: tag_name :Developer/Engineer, Role, Cross Industry, Industry, IT Professional/Technical Manager, Role, Automotive, Industry, Network & Infrastructure Security, Area of Interest, Threat Detection & Incident Response, Area of Interest, 300 - Advanced, Level, Security, Compliance, & Identity, Topic, Monday, Day, Wynn, Venue, Monitoring & Observability, Area of Interest, Cloud Operations, Topic, Cloud Security Specialist, Role, Financial Services, Industry, , speakers :firstName_0: Nicholas, lastName_0: Jaeger, firstName_1: Shahna, lastName_1: Campbell, , thirdpartyid :SEC301, sessionuid :AFD3C080-995C-4B22-8B2D-2ECDCAD79E1E, title :Threat detection and response on AWS, description :Join AWS experts for a hands-on threat detection and response workshop using Amazon GuardDuty, AWS Security Hub, Amazon Inspector, and Amazon Detective. This workshop simulates security events for different types of resources and behaviors and illustrates both manual and automated responses with AWS Lambda. Dive in and learn how to improve your security posture by operationalizing threat detection and response on AWS. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 5, startdatetimeutc :November, 27 2023 19:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 19:00:00 -0500
+locationname: Cristal 5
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: Join AWS experts for a hands-on threat detection and response workshop using Amazon GuardDuty, AWS Security Hub, Amazon Inspector, and Amazon Detective. This workshop simulates security events for different types of resources and behaviors and illustrates both manual and automated responses with AWS Lambda. Dive in and learn how to improve your security posture by operationalizing threat detection and response on AWS. You must bring your laptop to participate
+title: Threat detection and response on AWS
+sessionuid: AFD3C080-995C-4B22-8B2D-2ECDCAD79E1E
+thirdpartyid: SEC301
+speakers: firstName_0: Nicholas, lastName_0: Jaeger, firstName_1: Shahna, lastName_1: Campbell
+tag_name: Developer/Engineer, Role, Cross Industry, Industry, IT Professional/Technical Manager, Role, Automotive, Industry, Network & Infrastructure Security, Area of Interest, Threat Detection & Incident Response, Area of Interest, 300 - Advanced, Level, Security, Compliance, & Identity, Topic, Monday, Day, Wynn, Venue, Monitoring & Observability, Area of Interest, Cloud Operations, Topic, Cloud Security Specialist, Role, Financial Services, Industry

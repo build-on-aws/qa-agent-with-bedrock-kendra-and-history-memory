@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafleur 2
+summary: tag_name :300 - Advanced, Level, Serverless Compute, Topic, Management & Governance, Area of Interest, Data Engineer, Role, Developer/Engineer, Role, DevOps Engineer, Role, Cross Industry, Industry, Amazon Elastic Container Service (ECS), Services, AWS Fargate, Services, Thursday, Day, Wynn, Venue, , speakers :firstName_0: Yumeng, lastName_0: Xie, firstName_1: Spiros, lastName_1: Tsitsonis, , thirdpartyid :CON325, sessionuid :5763E533-D37F-42FA-ADB2-1577018B623C, title :Securing containerized workloads on Amazon ECS and AWS Fargate, description :<p>This session provides an overview of using Amazon ECS integrations with the AWS Cloud, using AWS security services, and the benefits of AWS Fargate’s single-tenancy architecture, to help you securely run containerized workloads. Dive deep into AWS Fargate’s security considerations and discover ways to improve your security posture against potential threats and events using AWS Fargate’s latest features.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Lafleur 2, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 20:30:00 -0500, 
+enddatetimeutc: November, 30 2023 20:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Lafleur 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>This session provides an overview of using Amazon ECS integrations with the AWS Cloud, using AWS security services, and the benefits of AWS Fargate’s single-tenancy architecture, to help you securely run containerized workloads. Dive deep into AWS Fargate’s security considerations and discover ways to improve your security posture against potential threats and events using AWS Fargate’s latest features.</p>
+title: Securing containerized workloads on Amazon ECS and AWS Fargate
+sessionuid: 5763E533-D37F-42FA-ADB2-1577018B623C
+thirdpartyid: CON325
+speakers: firstName_0: Yumeng, lastName_0: Xie, firstName_1: Spiros, lastName_1: Tsitsonis
+tag_name: 300 - Advanced, Level, Serverless Compute, Topic, Management & Governance, Area of Interest, Data Engineer, Role, Developer/Engineer, Role, DevOps Engineer, Role, Cross Industry, Industry, Amazon Elastic Container Service (ECS), Services, AWS Fargate, Services, Thursday, Day, Wynn, Venue

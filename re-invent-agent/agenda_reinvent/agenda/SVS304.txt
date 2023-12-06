@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 316
+summary: tag_name :Serverless Compute, Topic, 300 - Advanced, Level, Tuesday, Day, MGM Grand, Venue, AWS Lambda, Services, Solution/Systems Architect, Role, , speakers :firstName_0: Maximilian, lastName_0: Schellhorn, firstName_1: Dennis, lastName_1: Kieselhorst, photo_1: dennis_kieselhorst_quadratisch_min_20231508035726.jpg, , thirdpartyid :SVS304, sessionuid :13C3919D-1ABE-411C-8B32-5C4B756A0179, title :From serverful to serverless Java, description :In this workshop, learn how to bring your traditional Java Spring application to AWS Lambda with minimal effort and iteratively apply optimizations to get the best out of your serverless Java experience. The workshop includes an overview of best practices such as GraalVM native images and SnapStart, performance trade-offs, and design considerations for each step to help you make well-informed decisions when bringing enterprise Java applications to Lambda. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 316, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Premier 316
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: In this workshop, learn how to bring your traditional Java Spring application to AWS Lambda with minimal effort and iteratively apply optimizations to get the best out of your serverless Java experience. The workshop includes an overview of best practices such as GraalVM native images and SnapStart, performance trade-offs, and design considerations for each step to help you make well-informed decisions when bringing enterprise Java applications to Lambda. You must bring your laptop to participate
+title: From serverful to serverless Java
+sessionuid: 13C3919D-1ABE-411C-8B32-5C4B756A0179
+thirdpartyid: SVS304
+speakers: firstName_0: Maximilian, lastName_0: Schellhorn, firstName_1: Dennis, lastName_1: Kieselhorst, photo_1: dennis_kieselhorst_quadratisch_min_20231508035726.jpg
+tag_name: Serverless Compute, Topic, 300 - Advanced, Level, Tuesday, Day, MGM Grand, Venue, AWS Lambda, Services, Solution/Systems Architect, Role

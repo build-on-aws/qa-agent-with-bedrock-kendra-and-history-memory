@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 312
+summary: tag_name :Tuesday, Day, Generative AI, Area of Interest, Cross Industry, Industry, Amazon Elastic Kubernetes Service (EKS), Services, Developer/Engineer, Role, Data Engineer, Role, MGM Grand, Venue, AI/ML, Topic, 400 - Expert, Level, Amazon Elastic Compute Cloud (EC2), Services, Data Scientist, Role, Amazon Elastic Inference, Services, Kubernetes, Topic, , speakers :firstName_0: Rama Prasanna, lastName_0: Ponnuswami, firstName_1: Apoorva, lastName_1: Kulkarni, , thirdpartyid :CON404, sessionuid :7D48EF15-8D43-44F8-B792-561575CF38A2, title :Generative AI with data on Amazon EKS, description :Some of the most innovative AWS customers are using Amazon EKS to train and run inference for cutting-edge generative AI workloads. In this workshop, learn how to get started with LLM training and serving on EKS. Discover how to deploy the JARK (Jupyter Notebooks, Argo Workflows, Ray, and Karpenter) stack into an EKS cluster, and see how to use these tools to train an open source LLM from Hugging Face. Also learn about leveraging the AWS suite of accelerated instances (NVIDIA, AWS Trainium, and AWS Inferentia) within an EKS cluster. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 312, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 03:00:00 -0500, 
+enddatetimeutc: November, 29 2023 03:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: Premier 312
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: Some of the most innovative AWS customers are using Amazon EKS to train and run inference for cutting-edge generative AI workloads. In this workshop, learn how to get started with LLM training and serving on EKS. Discover how to deploy the JARK (Jupyter Notebooks, Argo Workflows, Ray, and Karpenter) stack into an EKS cluster, and see how to use these tools to train an open source LLM from Hugging Face. Also learn about leveraging the AWS suite of accelerated instances (NVIDIA, AWS Trainium, and AWS Inferentia) within an EKS cluster. You must bring your laptop to participate
+title: Generative AI with data on Amazon EKS
+sessionuid: 7D48EF15-8D43-44F8-B792-561575CF38A2
+thirdpartyid: CON404
+speakers: firstName_0: Rama Prasanna, lastName_0: Ponnuswami, firstName_1: Apoorva, lastName_1: Kulkarni
+tag_name: Tuesday, Day, Generative AI, Area of Interest, Cross Industry, Industry, Amazon Elastic Kubernetes Service (EKS), Services, Developer/Engineer, Role, Data Engineer, Role, MGM Grand, Venue, AI/ML, Topic, 400 - Expert, Level, Amazon Elastic Compute Cloud (EC2), Services, Data Scientist, Role, Amazon Elastic Inference, Services, Kubernetes, Topic

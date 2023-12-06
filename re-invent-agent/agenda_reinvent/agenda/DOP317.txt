@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :Workforce Development, Area of Interest, Developer/Engineer, Role, Strategy & Transformation, Area of Interest, Tuesday, Day, Wynn, Venue, DevOps and Developer Productivity, Topic, DevOps Engineer, Role, 300 - Advanced, Level, , speakers :firstName_0: Steve, lastName_0: Rice, firstName_1: Leo, lastName_1: Zhadanovsky, , thirdpartyid :DOP317, sessionuid :BD0586DD-121F-4DA3-AC8A-846D58E65FAC, title :Applying Amazon’s DevOps culture to your team, description :In this chalk talk, learn how Amazon helps its developers rapidly release and iterate software while maintaining industry-leading standards on security, reliability, and performance. Learn about the culture of two-pizza teams and how to maintain a culture of DevOps in a large enterprise. Also, discover how you can help build such a culture at your own organization., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 20:30:00 -0500, 
+enddatetimeutc: November, 28 2023 20:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: In this chalk talk, learn how Amazon helps its developers rapidly release and iterate software while maintaining industry-leading standards on security, reliability, and performance. Learn about the culture of two-pizza teams and how to maintain a culture of DevOps in a large enterprise. Also, discover how you can help build such a culture at your own organization
+title: Applying Amazon’s DevOps culture to your team
+sessionuid: BD0586DD-121F-4DA3-AC8A-846D58E65FAC
+thirdpartyid: DOP317
+speakers: firstName_0: Steve, lastName_0: Rice, firstName_1: Leo, lastName_1: Zhadanovsky
+tag_name: Workforce Development, Area of Interest, Developer/Engineer, Role, Strategy & Transformation, Area of Interest, Tuesday, Day, Wynn, Venue, DevOps and Developer Productivity, Topic, DevOps Engineer, Role, 300 - Advanced, Level

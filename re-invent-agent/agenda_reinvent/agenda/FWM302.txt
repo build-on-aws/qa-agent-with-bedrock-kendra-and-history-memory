@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 320
+summary: tag_name :Front-End Web & Mobile, Area of Interest, AWS Device Farm, Services, DevOps and Developer Productivity, Topic, Wednesday, Day, MGM Grand, Venue, 300 - Advanced, Level, Developer/Engineer, Role, , speakers :firstName_0: Nikhil, lastName_0: Dabhade, firstName_1: Jon, lastName_1: Sims, , thirdpartyid :FWM302, sessionuid :46EA9C61-9975-4ADF-AEA3-06E8F741ED72, title :Continuous testing of mobile and web applications with AWS Device Farm, description :This chalk talk dives deep into how you can use AWS Device Farm to build a scalable continuous testing solution that can proactively identify functional and performance bottlenecks on every code check-in. The talk covers performance testing techniques that you can implement using real mobile devices and focuses on key parameters that need to be configured and monitored when setting up this type of solution., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 320, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Premier 320
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: This chalk talk dives deep into how you can use AWS Device Farm to build a scalable continuous testing solution that can proactively identify functional and performance bottlenecks on every code check-in. The talk covers performance testing techniques that you can implement using real mobile devices and focuses on key parameters that need to be configured and monitored when setting up this type of solution
+title: Continuous testing of mobile and web applications with AWS Device Farm
+sessionuid: 46EA9C61-9975-4ADF-AEA3-06E8F741ED72
+thirdpartyid: FWM302
+speakers: firstName_0: Nikhil, lastName_0: Dabhade, firstName_1: Jon, lastName_1: Sims
+tag_name: Front-End Web & Mobile, Area of Interest, AWS Device Farm, Services, DevOps and Developer Productivity, Topic, Wednesday, Day, MGM Grand, Venue, 300 - Advanced, Level, Developer/Engineer, Role

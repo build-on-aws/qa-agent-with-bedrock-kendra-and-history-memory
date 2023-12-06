@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 117
+summary: tag_name :Tech Explorer, Role, 400 - Expert, Level, Solution/Systems Architect, Role, Amazon Managed Blockchain, Services, Monday, Day, MGM Grand, Venue, Developer/Engineer, Role, Customer Enablement, Topic, Blockchain, Area of Interest, Cross Industry, Industry, Architecture, Topic, , speakers :firstName_0: Steven, lastName_0: Bacci, firstName_1: Simon, lastName_1: Goldberg, , thirdpartyid :BLC401-R, sessionuid :29FCE52F-D549-4935-9A33-414D72A29981, title :Build a digital asset custody solution with Amazon Managed Blockchain [REPEAT], description :<p>In this workshop, learn how to build the core components of a full-stack digital asset custody solution. The solution demonstrates functionality for the purchase and sale of Bitcoin (BTC), ether (ETH), and NFTs using the ERC20 token USDC. An integral part of the solution focuses on implementing custody wallets, where private key security and signing are facilitated using AWS services. Additionally, this workshop showcases how to use Amazon Managed Blockchain query to generate reports and insights from blockchain data. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 117, startdatetimeutc :November, 27 2023 16:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 16:00:00 -0500
+locationname: Grand 117
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>In this workshop, learn how to build the core components of a full-stack digital asset custody solution. The solution demonstrates functionality for the purchase and sale of Bitcoin (BTC), ether (ETH), and NFTs using the ERC20 token USDC. An integral part of the solution focuses on implementing custody wallets, where private key security and signing are facilitated using AWS services. Additionally, this workshop showcases how to use Amazon Managed Blockchain query to generate reports and insights from blockchain data. You must bring your laptop to participate.</p>
+title: Build a digital asset custody solution with Amazon Managed Blockchain [REPEAT]
+sessionuid: 29FCE52F-D549-4935-9A33-414D72A29981
+thirdpartyid: BLC401-R
+speakers: firstName_0: Steven, lastName_0: Bacci, firstName_1: Simon, lastName_1: Goldberg
+tag_name: Tech Explorer, Role, 400 - Expert, Level, Solution/Systems Architect, Role, Amazon Managed Blockchain, Services, Monday, Day, MGM Grand, Venue, Developer/Engineer, Role, Customer Enablement, Topic, Blockchain, Area of Interest, Cross Industry, Industry, Architecture, Topic

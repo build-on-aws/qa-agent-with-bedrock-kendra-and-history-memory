@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Bollinger
+summary: tag_name :Networking & Content Delivery, Topic, Edge Computing, Area of Interest, Global Infrastructure, Area of Interest, Network & Infrastructure Security, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Solution/Systems Architect, Role, System Administrator, Role, IT Professional/Technical Manager, Role, AWS Cloud WAN, Services, AWS Direct Connect, Services, AWS Site-to-Site VPN, Services, Monday, Day, Wynn, Venue, , speakers :firstName_0: Corina, lastName_0: Motoi, firstName_1: Ernesto, lastName_1: Salas, firstName_2: Nick, lastName_2: Mullenix, company_2: Fortive Corporation, , thirdpartyid :NET319, sessionuid :6EA4DE56-C876-40E2-978D-F1BE1DE21087, title :Add a little AWS (backbone) to your network, description :<p>In this session, learn how to use AWS services to build a wide area network backbone by routing traffic over the AWS global network. First, examine the role AWS services and the AWS global network play when connecting through an edge device or building a transit network between locations. Then, discover how AWS global infrastructure, AWS Local Zones, network peering, AWS Cloud WAN, AWS Direct Connect SiteLink, AWS Site-to-Site VPN, and SD-WAN integrations work together to bring the AWS backbone to your network.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Upper Level, locationname :Bollinger, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 01:00:00 -0500, 
+enddatetimeutc: November, 28 2023 01:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: Bollinger
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: standard
+description: <p>In this session, learn how to use AWS services to build a wide area network backbone by routing traffic over the AWS global network. First, examine the role AWS services and the AWS global network play when connecting through an edge device or building a transit network between locations. Then, discover how AWS global infrastructure, AWS Local Zones, network peering, AWS Cloud WAN, AWS Direct Connect SiteLink, AWS Site-to-Site VPN, and SD-WAN integrations work together to bring the AWS backbone to your network.</p>
+title: Add a little AWS (backbone) to your network
+sessionuid: 6EA4DE56-C876-40E2-978D-F1BE1DE21087
+thirdpartyid: NET319
+speakers: firstName_0: Corina, lastName_0: Motoi, firstName_1: Ernesto, lastName_1: Salas, firstName_2: Nick, lastName_2: Mullenix, company_2: Fortive Corporation
+tag_name: Networking & Content Delivery, Topic, Edge Computing, Area of Interest, Global Infrastructure, Area of Interest, Network & Infrastructure Security, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Solution/Systems Architect, Role, System Administrator, Role, IT Professional/Technical Manager, Role, AWS Cloud WAN, Services, AWS Direct Connect, Services, AWS Site-to-Site VPN, Services, Monday, Day, Wynn, Venue

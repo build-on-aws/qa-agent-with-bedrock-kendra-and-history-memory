@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1280
+summary: tag_name :Monday, Day, Venetian, Venue, Inclusion & Diversity, Area of Interest, Expo, Additional Services, , speakers :, thirdpartyid :ACT039, sessionuid :923DF37F-DFB4-40E7-956D-374494F5FC4F, title :All Builders Welcome Lounge education and talent development takeover, description :<p>Join the AWS Inclusion, Diversity, and Equity Recruiting; AWS Training and Certification; AWS Developer Relations; AWS She Builds; and AWS Tech Alliance teams to learn more about AWS initiatives moving the bar on upskilling, reskilling, and hiring underrepresented technologists. Take a deep look at emerging talent, military hiring, and skills to jobs while getting a behind-the-scenes look at impactful AWS programs like AWS Educate, AWS Skills Centers, AWS Cloud Clubs, and AWS She Builds Tech Skills.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1280, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 03:00:00 -0500, 
+enddatetimeutc: November, 28 2023 03:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: Hall B, Expo, Booth #1280
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Join the AWS Inclusion, Diversity, and Equity Recruiting; AWS Training and Certification; AWS Developer Relations; AWS She Builds; and AWS Tech Alliance teams to learn more about AWS initiatives moving the bar on upskilling, reskilling, and hiring underrepresented technologists. Take a deep look at emerging talent, military hiring, and skills to jobs while getting a behind-the-scenes look at impactful AWS programs like AWS Educate, AWS Skills Centers, AWS Cloud Clubs, and AWS She Builds Tech Skills.</p>
+title: All Builders Welcome Lounge education and talent development takeover
+sessionuid: 923DF37F-DFB4-40E7-956D-374494F5FC4F
+thirdpartyid: ACT039
+speakers: 
+tag_name: Monday, Day, Venetian, Venue, Inclusion & Diversity, Area of Interest, Expo, Additional Services

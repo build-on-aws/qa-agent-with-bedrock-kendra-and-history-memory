@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Venetian Ballroom E, Content Hub
+summary: tag_name :Sunday, Day, Venetian, Venue, Happy Hour/Reception, Additional Services, , speakers :, thirdpartyid :ACT033, sessionuid :6C289068-4D28-46D9-954D-AC40323C1E28, title :Sunday Sports Showcase, description :New in 2023. Join fellow re:Invent attendees at the Sunday Sports Showcase for a full day of live streaming sporting events. Meet fellow sporting enthusiasts and show support for your favorite teams., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Venetian Ballroom E, Content Hub, startdatetimeutc :November, 26 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 02:00:00 -0500, 
+enddatetimeutc: November, 27 2023 02:00:00 -0500
+startdatetimeutc: November, 26 2023 18:00:00 -0500
+locationname: Venetian Ballroom E, Content Hub
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: New in 2023. Join fellow re:Invent attendees at the Sunday Sports Showcase for a full day of live streaming sporting events. Meet fellow sporting enthusiasts and show support for your favorite teams
+title: Sunday Sports Showcase
+sessionuid: 6C289068-4D28-46D9-954D-AC40323C1E28
+thirdpartyid: ACT033
+speakers: 
+tag_name: Sunday, Day, Venetian, Venue, Happy Hour/Reception, Additional Services

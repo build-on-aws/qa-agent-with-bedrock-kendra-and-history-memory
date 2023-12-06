@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 318
+summary: tag_name :Threat Detection & Incident Response, Area of Interest, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Network & Infrastructure Security, Area of Interest, Advisor/Consultant, Role, Business Executive, Role, Thursday, Day, Security, Compliance, & Identity, Topic, MGM Grand, Venue, AWS WAF, Services, Amazon GuardDuty, Services, AWS Shield, Services, Cross Industry, Industry, , speakers :firstName_0: Paul, lastName_0: Bodmer, , thirdpartyid :SEC236, sessionuid :69FFAC36-386A-43B7-A683-6C9AFA276A92, title :The AWS data-driven perspective on threat landscape trends, description :Come explore the threat landscape through stories of what AWS is seeing from protecting AWS customers and accounts using AWS security services such as Amazon GuardDuty, AWS Shield, and AWS WAF. This session reveals data-driven insights on key trends and provides specific real-world examples, offering a unique perspective on what risks to anticipate. Learn about the threat intelligence AWS is creating and how it is used to protect AWS infrastructure, design security features, and help ensure the safety and availability of your applications on AWS., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 318, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Premier 318
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Come explore the threat landscape through stories of what AWS is seeing from protecting AWS customers and accounts using AWS security services such as Amazon GuardDuty, AWS Shield, and AWS WAF. This session reveals data-driven insights on key trends and provides specific real-world examples, offering a unique perspective on what risks to anticipate. Learn about the threat intelligence AWS is creating and how it is used to protect AWS infrastructure, design security features, and help ensure the safety and availability of your applications on AWS
+title: The AWS data-driven perspective on threat landscape trends
+sessionuid: 69FFAC36-386A-43B7-A683-6C9AFA276A92
+thirdpartyid: SEC236
+speakers: firstName_0: Paul, lastName_0: Bodmer
+tag_name: Threat Detection & Incident Response, Area of Interest, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Network & Infrastructure Security, Area of Interest, Advisor/Consultant, Role, Business Executive, Role, Thursday, Day, Security, Compliance, & Identity, Topic, MGM Grand, Venue, AWS WAF, Services, Amazon GuardDuty, Services, AWS Shield, Services, Cross Industry, Industry

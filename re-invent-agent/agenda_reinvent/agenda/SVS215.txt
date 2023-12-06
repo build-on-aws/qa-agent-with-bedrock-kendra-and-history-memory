@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 350
+summary: tag_name :Monday, Day, MGM Grand, Venue, Serverless Compute, Topic, Application Integration, Area of Interest, 200 - Intermediate, Level, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Amazon EventBridge, Services, AWS Lambda, Services, AWS Step Functions, Services, , speakers :, thirdpartyid :SVS215-R, sessionuid :BA338F3C-A248-46E2-BF43-BE1BA065DB84, title :Write less code: Building applications with a serverless mindset [REPEAT], description :<p>Building with a serverless mindset helps you focus on business value. You can derive more value by using built-in integrations between AWS offerings set up through configuration than by writing glue code. This builders’ session explores patterns for using direct service integrations using Amazon API Gateway, AWS Step Functions, and Amazon EventBridge. Discover the efficiency of utilizing configuration to streamline development tasks and push the heavy lifting to AWS. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :350, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 19:30:00 -0500, 
+enddatetimeutc: November, 27 2023 19:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: 350
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Building with a serverless mindset helps you focus on business value. You can derive more value by using built-in integrations between AWS offerings set up through configuration than by writing glue code. This builders’ session explores patterns for using direct service integrations using Amazon API Gateway, AWS Step Functions, and Amazon EventBridge. Discover the efficiency of utilizing configuration to streamline development tasks and push the heavy lifting to AWS. You must bring your laptop to participate.</p>
+title: Write less code: Building applications with a serverless mindset [REPEAT]
+sessionuid: BA338F3C-A248-46E2-BF43-BE1BA065DB84
+thirdpartyid: SVS215-R
+speakers: 
+tag_name: Monday, Day, MGM Grand, Venue, Serverless Compute, Topic, Application Integration, Area of Interest, 200 - Intermediate, Level, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Amazon EventBridge, Services, AWS Lambda, Services, AWS Step Functions, Services

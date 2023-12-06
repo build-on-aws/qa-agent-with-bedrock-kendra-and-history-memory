@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :Solution/Systems Architect, Role, Amazon Simple Queue Service (SQS), Services, IT Professional/Technical Manager, Role, Wednesday, Day, Wynn, Venue, Application Integration, Area of Interest, Developer/Engineer, Role, Serverless Compute, Topic, 300 - Advanced, Level, , speakers :firstName_0: Luay, lastName_0: Kawasme, firstName_1: Vikas, lastName_1: Panghal, , thirdpartyid :API305, sessionuid :14982F0D-C028-40FA-A804-4AA49951D9D4, title :Building resilience in decoupled applications with dead-letter queues, description :In this chalk talk, explore the power of dead-letter queues (DLQs) for managing unconsumed messages in decoupled applications. DLQs provide a mechanism for handling messages that cannot be processed successfully. Learn about the DLQ lifecycle and how DLQs can help capture and redirect failed messages, preventing them from being lost or causing processing bottlenecks. Discover best practices and learn how to configure DLQ redrive policies to facilitate seamless retries and recovery of failed messages., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: In this chalk talk, explore the power of dead-letter queues (DLQs) for managing unconsumed messages in decoupled applications. DLQs provide a mechanism for handling messages that cannot be processed successfully. Learn about the DLQ lifecycle and how DLQs can help capture and redirect failed messages, preventing them from being lost or causing processing bottlenecks. Discover best practices and learn how to configure DLQ redrive policies to facilitate seamless retries and recovery of failed messages
+title: Building resilience in decoupled applications with dead-letter queues
+sessionuid: 14982F0D-C028-40FA-A804-4AA49951D9D4
+thirdpartyid: API305
+speakers: firstName_0: Luay, lastName_0: Kawasme, firstName_1: Vikas, lastName_1: Panghal
+tag_name: Solution/Systems Architect, Role, Amazon Simple Queue Service (SQS), Services, IT Professional/Technical Manager, Role, Wednesday, Day, Wynn, Venue, Application Integration, Area of Interest, Developer/Engineer, Role, Serverless Compute, Topic, 300 - Advanced, Level

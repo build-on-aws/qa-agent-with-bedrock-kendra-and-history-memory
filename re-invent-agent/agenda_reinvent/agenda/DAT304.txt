@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3006
+summary: tag_name :Games, Industry, Financial Services, Industry, Developer/Engineer, Role, Amazon DocumentDB (with MongoDB compatibility), Services, Customer Enablement, Topic, 300 - Advanced, Level, Well-Architected Framework, Area of Interest, IT Professional/Technical Manager, Role, Databases, Topic, Thursday, Day, Venetian, Venue, Solution/Systems Architect, Role, Innovation on AWS, Area of Interest, , speakers :firstName_0: Cody, lastName_0: Allen, firstName_1: Douglas, lastName_1: Bonser, , thirdpartyid :DAT304, sessionuid :4193E3A4-4F7E-4EA8-8A1E-906E9FE4BB51, title :Data modeling in Amazon DocumentDB (with MongoDB compatibility), description :In this workshop, learn data modeling concepts, best practices, and how to use Performance Insights to fine-tune your applications running on Amazon DocumentDB. Work backwards from the requirements of the application in order to design a schema for your globally distributed ecommerce website and learn the impact of core data modeling strategies on Amazon DocumentDB. The workshop covers the patterns and anti-patterns of schema designs for Amazon DocumentDB and how to design a fast, high-performing application while using Performance Insights to tune your applications. You must bring your laptop to participate., sessiontype :Workshop, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3006, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Lido 3006
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Workshop
+description: In this workshop, learn data modeling concepts, best practices, and how to use Performance Insights to fine-tune your applications running on Amazon DocumentDB. Work backwards from the requirements of the application in order to design a schema for your globally distributed ecommerce website and learn the impact of core data modeling strategies on Amazon DocumentDB. The workshop covers the patterns and anti-patterns of schema designs for Amazon DocumentDB and how to design a fast, high-performing application while using Performance Insights to tune your applications. You must bring your laptop to participate
+title: Data modeling in Amazon DocumentDB (with MongoDB compatibility)
+sessionuid: 4193E3A4-4F7E-4EA8-8A1E-906E9FE4BB51
+thirdpartyid: DAT304
+speakers: firstName_0: Cody, lastName_0: Allen, firstName_1: Douglas, lastName_1: Bonser
+tag_name: Games, Industry, Financial Services, Industry, Developer/Engineer, Role, Amazon DocumentDB (with MongoDB compatibility), Services, Customer Enablement, Topic, 300 - Advanced, Level, Well-Architected Framework, Area of Interest, IT Professional/Technical Manager, Role, Databases, Topic, Thursday, Day, Venetian, Venue, Solution/Systems Architect, Role, Innovation on AWS, Area of Interest

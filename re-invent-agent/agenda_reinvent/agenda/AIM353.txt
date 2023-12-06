@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Reef F
+summary: tag_name :Solution/Systems Architect, Role, Financial Services, Industry, Healthcare, Industry, Generative AI, Area of Interest, Amazon Bedrock, Services, AI/ML, Topic, Thursday, Day, Mandalay Bay, Venue, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, 300 - Advanced, Level, Application Integration, Area of Interest, Innovation on AWS, Area of Interest, , speakers :firstName_0: Mark, lastName_0: Roy, , thirdpartyid :AIM353, sessionuid :D5DE0AD1-BC1B-4B06-BECF-4EEF31F637FE, title :Build generative AI apps that can perform tasks with Amazon Bedrock, description :With a robust understanding of natural language and the ability to be further customized to domain-specific tasks, foundation models (FMs) are incredibly powerful. However, FMs are limited on their own because they cannot complete tasks that require them to interact with external systems and they don’t have up-to-date knowledge sources. In this session, learn how agents for Amazon Bedrock make it easier for developers to create generative AI applications that can run tasks for a wide range of use cases and deliver up-to-date answers based on company knowledge sources., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Reef F, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Reef F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: With a robust understanding of natural language and the ability to be further customized to domain-specific tasks, foundation models (FMs) are incredibly powerful. However, FMs are limited on their own because they cannot complete tasks that require them to interact with external systems and they don’t have up-to-date knowledge sources. In this session, learn how agents for Amazon Bedrock make it easier for developers to create generative AI applications that can run tasks for a wide range of use cases and deliver up-to-date answers based on company knowledge sources
+title: Build generative AI apps that can perform tasks with Amazon Bedrock
+sessionuid: D5DE0AD1-BC1B-4B06-BECF-4EEF31F637FE
+thirdpartyid: AIM353
+speakers: firstName_0: Mark, lastName_0: Roy
+tag_name: Solution/Systems Architect, Role, Financial Services, Industry, Healthcare, Industry, Generative AI, Area of Interest, Amazon Bedrock, Services, AI/ML, Topic, Thursday, Day, Mandalay Bay, Venue, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, 300 - Advanced, Level, Application Integration, Area of Interest, Innovation on AWS, Area of Interest

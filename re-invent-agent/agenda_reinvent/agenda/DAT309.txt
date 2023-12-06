@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 101
+summary: tag_name :Amazon DynamoDB Streams, Services, Solution/Systems Architect, Role, 300 - Advanced, Level, Cross Industry, Industry, Well-Architected Framework, Area of Interest, Developer/Engineer, Role, Amazon DynamoDB, Services, Financial Services, Industry, IT Professional/Technical Manager, Role, Databases, Topic, Thursday, Day, Caesars Forum, Venue, Innovation on AWS, Area of Interest, Media & Entertainment, Industry, Amazon ElastiCache, Services, , speakers :firstName_0: Damon, lastName_0: LaCaille, firstName_1: Karthik, lastName_1: Konaparthi, , thirdpartyid :DAT309-R, sessionuid :5B3A6887-BB59-4B35-A9AA-B6CD84CA369B, title :Advanced caching design patterns with Amazon ElastiCache for Redis [REPEAT], description :Many Redis users appreciate the fully managed service Amazon ElastiCache for Redis for the unique features that it provides. In this chalk talk, dive deep into caching strategies in ElastiCache. Also, learn how you can implement cache invalidations on complex relational tables, how to use ElastiCache with Amazon DynamoDB Streams to materialize cached views of DynamoDB tables, and how to properly measure the performance of your caching solution. The talk includes whiteboarding the data access models and data paths., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 101, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 23:30:00 -0500, 
+enddatetimeutc: November, 30 2023 23:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Forum 101
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Many Redis users appreciate the fully managed service Amazon ElastiCache for Redis for the unique features that it provides. In this chalk talk, dive deep into caching strategies in ElastiCache. Also, learn how you can implement cache invalidations on complex relational tables, how to use ElastiCache with Amazon DynamoDB Streams to materialize cached views of DynamoDB tables, and how to properly measure the performance of your caching solution. The talk includes whiteboarding the data access models and data paths
+title: Advanced caching design patterns with Amazon ElastiCache for Redis [REPEAT]
+sessionuid: 5B3A6887-BB59-4B35-A9AA-B6CD84CA369B
+thirdpartyid: DAT309-R
+speakers: firstName_0: Damon, lastName_0: LaCaille, firstName_1: Karthik, lastName_1: Konaparthi
+tag_name: Amazon DynamoDB Streams, Services, Solution/Systems Architect, Role, 300 - Advanced, Level, Cross Industry, Industry, Well-Architected Framework, Area of Interest, Developer/Engineer, Role, Amazon DynamoDB, Services, Financial Services, Industry, IT Professional/Technical Manager, Role, Databases, Topic, Thursday, Day, Caesars Forum, Venue, Innovation on AWS, Area of Interest, Media & Entertainment, Industry, Amazon ElastiCache, Services

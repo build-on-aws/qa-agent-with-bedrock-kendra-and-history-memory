@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Lagoon L
+summary: tag_name :Developer/Engineer, Role, DevOps Engineer, Role, Generative AI, Area of Interest, BuildOn.AWS, Area of Interest, Data Scientist, Role, AI/ML, Topic, Training & Certification, Topic, Wednesday, Day, Mandalay Bay, Venue, Amazon CodeWhisperer, Services, 100 - Foundational, Level, Cross Industry, Industry, , speakers :firstName_0: Jan, lastName_0: Nevedel, , thirdpartyid :TNC104, sessionuid :F738AD1E-5953-489A-A27C-5DB064C9B59C, title :Becoming a 10x developer using Amazon CodeWhisperer, description :Amazon CodeWhisperer accelerates application development with automatic code recommendations based on your code and comments within your integrated development environment (IDE). CodeWhisperer helps developers generate logical code blocks and even entire functions without searching the web for example snippets. Learn about the tool’s capabilities, how to install it, and how to start using CodeWhisperer to assist coding in Java, Python, JavaScript and TypeScript, C#, and many more. In this lab, you use CodeWhisperer to implement application logic that uploads an image to Amazon S3 and inserts images to an Amazon DynamoDB table, and then you inspect the functionality of this application., sessiontype :Lab, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Lagoon L, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: Lagoon L
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Lab
+description: Amazon CodeWhisperer accelerates application development with automatic code recommendations based on your code and comments within your integrated development environment (IDE). CodeWhisperer helps developers generate logical code blocks and even entire functions without searching the web for example snippets. Learn about the tool’s capabilities, how to install it, and how to start using CodeWhisperer to assist coding in Java, Python, JavaScript and TypeScript, C#, and many more. In this lab, you use CodeWhisperer to implement application logic that uploads an image to Amazon S3 and inserts images to an Amazon DynamoDB table, and then you inspect the functionality of this application
+title: Becoming a 10x developer using Amazon CodeWhisperer
+sessionuid: F738AD1E-5953-489A-A27C-5DB064C9B59C
+thirdpartyid: TNC104
+speakers: firstName_0: Jan, lastName_0: Nevedel
+tag_name: Developer/Engineer, Role, DevOps Engineer, Role, Generative AI, Area of Interest, BuildOn.AWS, Area of Interest, Data Scientist, Role, AI/ML, Topic, Training & Certification, Topic, Wednesday, Day, Mandalay Bay, Venue, Amazon CodeWhisperer, Services, 100 - Foundational, Level, Cross Industry, Industry

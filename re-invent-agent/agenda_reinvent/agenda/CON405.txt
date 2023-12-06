@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Reef F
+summary: tag_name :IT Professional/Technical Manager, Role, Kubernetes, Topic, Cross Industry, Industry, Amazon Elastic Container Registry (ECR), Services, Thursday, Day, Mandalay Bay, Venue, Global Infrastructure, Area of Interest, 400 - Expert, Level, DevOps Engineer, Role, Open Source, Area of Interest, Developer/Engineer, Role, , speakers :firstName_0: Mike, lastName_0: Alfree, firstName_1: Rafa, lastName_1: Alvarez, , thirdpartyid :CON405, sessionuid :D44F8C6E-8128-414D-93CB-ECA6C7CFD643, title :Dive deep into Amazon ECR, description :Amazon ECR is a secure, fully managed, and highly available container registry that serves more than 15 billion image pulls weekly and offers integrated lifecycle management, replication, image scanning, and caching features. Through its support of Open Container Initiative (OCI) standards, Amazon ECR works with the open source tools that customers use every day to publish images and deploy container workloads. Join this session for a deep dive and see how Amazon ECR is designed, follow the lifecycle of an image through the service, and discover how Amazon ECR operates at scale., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Reef F, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Reef F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Amazon ECR is a secure, fully managed, and highly available container registry that serves more than 15 billion image pulls weekly and offers integrated lifecycle management, replication, image scanning, and caching features. Through its support of Open Container Initiative (OCI) standards, Amazon ECR works with the open source tools that customers use every day to publish images and deploy container workloads. Join this session for a deep dive and see how Amazon ECR is designed, follow the lifecycle of an image through the service, and discover how Amazon ECR operates at scale
+title: Dive deep into Amazon ECR
+sessionuid: D44F8C6E-8128-414D-93CB-ECA6C7CFD643
+thirdpartyid: CON405
+speakers: firstName_0: Mike, lastName_0: Alfree, firstName_1: Rafa, lastName_1: Alvarez
+tag_name: IT Professional/Technical Manager, Role, Kubernetes, Topic, Cross Industry, Industry, Amazon Elastic Container Registry (ECR), Services, Thursday, Day, Mandalay Bay, Venue, Global Infrastructure, Area of Interest, 400 - Expert, Level, DevOps Engineer, Role, Open Source, Area of Interest, Developer/Engineer, Role

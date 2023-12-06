@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :300 - Advanced, Level, Advisor/Consultant, Role, IT Professional/Technical Manager, Role, Migration & Transfer, Area of Interest, AWS Application Discovery Service, Services, IT Administrator, Role, Enterprise & Migration, Topic, Migration Evaluator, Services, Wednesday, Day, Mandalay Bay, Venue, Cross Industry, Industry, , speakers :firstName_0: Erico, lastName_0: Penna, firstName_1: Jonathan, lastName_1: Shapiro-Ward, , thirdpartyid :ENT326, sessionuid :8898A1A7-FCF0-4212-8C2E-0A20E94965A5, title :Making data-driven migration decisions: What to know before you go, description :When it comes to AWS migrations, knowledge is power. To design and run a successful migration, you need a detailed understanding of your on-premises environment. In this chalk talk, explore how to get the data you need to plan your migration and how to analyze that data to build a data-driven migration plan. Discover how organizations have navigated compelling events to successfully migrate to AWS and discuss your migration. Learn about the concepts and technologies that can help you plan your migration including AWS Application Discovery Service, AWS Migration Hub, Migration Evaluator, and more., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: When it comes to AWS migrations, knowledge is power. To design and run a successful migration, you need a detailed understanding of your on-premises environment. In this chalk talk, explore how to get the data you need to plan your migration and how to analyze that data to build a data-driven migration plan. Discover how organizations have navigated compelling events to successfully migrate to AWS and discuss your migration. Learn about the concepts and technologies that can help you plan your migration including AWS Application Discovery Service, AWS Migration Hub, Migration Evaluator, and more
+title: Making data-driven migration decisions: What to know before you go
+sessionuid: 8898A1A7-FCF0-4212-8C2E-0A20E94965A5
+thirdpartyid: ENT326
+speakers: firstName_0: Erico, lastName_0: Penna, firstName_1: Jonathan, lastName_1: Shapiro-Ward
+tag_name: 300 - Advanced, Level, Advisor/Consultant, Role, IT Professional/Technical Manager, Role, Migration & Transfer, Area of Interest, AWS Application Discovery Service, Services, IT Administrator, Role, Enterprise & Migration, Topic, Migration Evaluator, Services, Wednesday, Day, Mandalay Bay, Venue, Cross Industry, Industry

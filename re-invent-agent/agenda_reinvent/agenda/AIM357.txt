@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 221
+summary: tag_name :AI/ML, Topic, Financial Services, Industry, Amazon Lex, Services, Generative AI, Area of Interest, IT Professional/Technical Manager, Role, Travel & Hospitality, Industry, Business Applications, Topic, Tuesday, Day, Caesars Forum, Venue, Cross Industry, Industry, Solution/Systems Architect, Role, Amazon Bedrock, Services, 300 - Advanced, Level, Business Intelligence, Area of Interest, Independent Software Vendor (ISV), Area of Interest, Data Engineer, Role, , speakers :firstName_0: Sandeep, lastName_0: Srinivasan, , thirdpartyid :AIM357, sessionuid :777D3065-93DB-49AB-9F07-9AA3257AC312, title :Deliver high-grade responses using Amazon Lex with generative AI, description :Delighting their customers with quick and easy responses remains central to the customer experience strategy for support organizations. In this chalk talk, learn how generative AI can help you efficiently use curated content to respond appropriately to FAQs. Learn how Amazon Lex’s productivity suite simplifies the developer experience—making it easier to build, iterate, and manage numerous customer experiences that increase customer satisfaction scores., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 221, startdatetimeutc :November, 29 2023 00:00:00 -0500, enddatetimeutc :November, 29 2023 01:00:00 -0500, 
+enddatetimeutc: November, 29 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 00:00:00 -0500
+locationname: Summit 221
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Delighting their customers with quick and easy responses remains central to the customer experience strategy for support organizations. In this chalk talk, learn how generative AI can help you efficiently use curated content to respond appropriately to FAQs. Learn how Amazon Lex’s productivity suite simplifies the developer experience—making it easier to build, iterate, and manage numerous customer experiences that increase customer satisfaction scores
+title: Deliver high-grade responses using Amazon Lex with generative AI
+sessionuid: 777D3065-93DB-49AB-9F07-9AA3257AC312
+thirdpartyid: AIM357
+speakers: firstName_0: Sandeep, lastName_0: Srinivasan
+tag_name: AI/ML, Topic, Financial Services, Industry, Amazon Lex, Services, Generative AI, Area of Interest, IT Professional/Technical Manager, Role, Travel & Hospitality, Industry, Business Applications, Topic, Tuesday, Day, Caesars Forum, Venue, Cross Industry, Industry, Solution/Systems Architect, Role, Amazon Bedrock, Services, 300 - Advanced, Level, Business Intelligence, Area of Interest, Independent Software Vendor (ISV), Area of Interest, Data Engineer, Role

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 123
+summary: tag_name :DevOps and Developer Productivity, Topic, Developer/Engineer, Role, 300 - Advanced, Level, Front-End Web & Mobile, Area of Interest, Thursday, Day, MGM Grand, Venue, AWS Amplify, Services, , speakers :firstName_0: Mo, lastName_0: Malaka, firstName_1: Muhammed, lastName_1: Salih Guler, , thirdpartyid :FWM303, sessionuid :CCDF1CCC-0749-441D-BD7E-BE11574ACF3F, title :Create a cross-platform Flutter application with AWS Amplify, description :In this workshop, learn how to build performant applications for multiple platforms such as Android, iOS, and web without the stress of maintaining different code bases. Use AWS Amplify and Flutter libraries to build feature-rich, cloud-powered applications without deep cloud expertise. Find out how you can create a complete cross-platform application and add features such as authentication, API and data interactions, and media/file storage. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 123, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :December, 01 2023 00:00:00 -0500, 
+enddatetimeutc: December, 01 2023 00:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Grand 123
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: In this workshop, learn how to build performant applications for multiple platforms such as Android, iOS, and web without the stress of maintaining different code bases. Use AWS Amplify and Flutter libraries to build feature-rich, cloud-powered applications without deep cloud expertise. Find out how you can create a complete cross-platform application and add features such as authentication, API and data interactions, and media/file storage. You must bring your laptop to participate
+title: Create a cross-platform Flutter application with AWS Amplify
+sessionuid: CCDF1CCC-0749-441D-BD7E-BE11574ACF3F
+thirdpartyid: FWM303
+speakers: firstName_0: Mo, lastName_0: Malaka, firstName_1: Muhammed, lastName_1: Salih Guler
+tag_name: DevOps and Developer Productivity, Topic, Developer/Engineer, Role, 300 - Advanced, Level, Front-End Web & Mobile, Area of Interest, Thursday, Day, MGM Grand, Venue, AWS Amplify, Services

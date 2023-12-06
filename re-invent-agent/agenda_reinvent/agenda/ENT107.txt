@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Wednesday, Day, Venetian, Venue, Cost Optimization, Area of Interest, Strategy & Transformation, Area of Interest, Modernization, Area of Interest, Cloud Operations, Topic, Enterprise & Migration, Topic, Cross Industry, Industry, 100 - Foundational, Level, Business Executive, Role, IT Executive, Role, Solution/Systems Architect, Role, , speakers :, thirdpartyid :ENT107-S, sessionuid :77923901-320F-4D89-A9D8-ED74EC4DF418, title :Strategies for automated scaling, remediation, and smart self-healing (sponsored by NTT DATA), description :<p>This lightning talk covers how to modernize your cloud architecture to achieve business objectives while reducing costs and increasing efficiency. Topics include automated scaling, remediation, and smart self-healing. Additionally, get guidance on how to build or enhance a cloud center of excellence (CCOE) and modernize enterprise applications, such as SAP. Learn how to maximize your cloud investments to increase delivery excellence. This presentation is brought to you by NTT DATA, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 22:50:00 -0500, 
+enddatetimeutc: November, 29 2023 22:50:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>This lightning talk covers how to modernize your cloud architecture to achieve business objectives while reducing costs and increasing efficiency. Topics include automated scaling, remediation, and smart self-healing. Additionally, get guidance on how to build or enhance a cloud center of excellence (CCOE) and modernize enterprise applications, such as SAP. Learn how to maximize your cloud investments to increase delivery excellence. This presentation is brought to you by NTT DATA, an AWS Partner.</p>
+title: Strategies for automated scaling, remediation, and smart self-healing (sponsored by NTT DATA)
+sessionuid: 77923901-320F-4D89-A9D8-ED74EC4DF418
+thirdpartyid: ENT107-S
+speakers: 
+tag_name: Wednesday, Day, Venetian, Venue, Cost Optimization, Area of Interest, Strategy & Transformation, Area of Interest, Modernization, Area of Interest, Cloud Operations, Topic, Enterprise & Migration, Topic, Cross Industry, Industry, 100 - Foundational, Level, Business Executive, Role, IT Executive, Role, Solution/Systems Architect, Role

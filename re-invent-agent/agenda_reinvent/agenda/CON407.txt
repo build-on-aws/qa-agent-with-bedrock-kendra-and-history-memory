@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 411
+summary: tag_name :Management & Governance, Area of Interest, Developer/Engineer, Role, Cross Industry, Industry, Amazon Elastic Container Service (ECS), Services, Compute, Topic, AWS Fargate, Services, Amazon Elastic Compute Cloud (EC2), Services, Tuesday, Day, Caesars Forum, Venue, 400 - Expert, Level, Serverless Compute, Topic, Solution/Systems Architect, Role, , speakers :firstName_0: Jessica, lastName_0: Deen, firstName_1: Sergey, lastName_1: Generalov, , thirdpartyid :CON407, sessionuid :3A97F708-63DB-477B-9CD3-0273506386DC, title :Deployment best practices for Amazon ECS services, description :Organizations increasingly run their applications as containerized microservices using Amazon ECS services. This chalk talk focuses on sharing best practices for how you can safely and quickly roll out new application versions with Amazon ECS. The discussion includes the various tools you can use for Amazon ECS deployments (for example, AWS CloudFormation, AWS CDK, Terraform, AWS CLI, AWS Management Console) and best practices for safeguards you can use depending on the application type (load balanced or event driven) and infrastructure provider (Amazon EC2 or AWS Fargate)., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 411, startdatetimeutc :November, 28 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 22:00:00 -0500, 
+enddatetimeutc: November, 28 2023 22:00:00 -0500
+startdatetimeutc: November, 28 2023 21:00:00 -0500
+locationname: Academy 411
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Organizations increasingly run their applications as containerized microservices using Amazon ECS services. This chalk talk focuses on sharing best practices for how you can safely and quickly roll out new application versions with Amazon ECS. The discussion includes the various tools you can use for Amazon ECS deployments (for example, AWS CloudFormation, AWS CDK, Terraform, AWS CLI, AWS Management Console) and best practices for safeguards you can use depending on the application type (load balanced or event driven) and infrastructure provider (Amazon EC2 or AWS Fargate)
+title: Deployment best practices for Amazon ECS services
+sessionuid: 3A97F708-63DB-477B-9CD3-0273506386DC
+thirdpartyid: CON407
+speakers: firstName_0: Jessica, lastName_0: Deen, firstName_1: Sergey, lastName_1: Generalov
+tag_name: Management & Governance, Area of Interest, Developer/Engineer, Role, Cross Industry, Industry, Amazon Elastic Container Service (ECS), Services, Compute, Topic, AWS Fargate, Services, Amazon Elastic Compute Cloud (EC2), Services, Tuesday, Day, Caesars Forum, Venue, 400 - Expert, Level, Serverless Compute, Topic, Solution/Systems Architect, Role

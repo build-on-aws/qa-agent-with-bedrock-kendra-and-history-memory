@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 320
+summary: tag_name :Amazon Lex, Services, Financial Services, Industry, Amazon Bedrock, Services, Developer/Engineer, Role, Generative AI, Area of Interest, Travel & Hospitality, Industry, Cross Industry, Industry, Monday, Day, MGM Grand, Venue, Cost Optimization, Area of Interest, 300 - Advanced, Level, Strategy & Transformation, Area of Interest, Business Applications, Topic, Solution/Systems Architect, Role, Data Scientist, Role, Amazon Connect, Services, AI/ML, Topic, , speakers :firstName_0: John, lastName_0: Baker, firstName_1: Anuradha, lastName_1: Durfee, firstName_2: Ruhaab, lastName_2: Markas, , thirdpartyid :AIM320, sessionuid :38D3D446-09E6-4ABF-A3B2-12DDFD532D5D, title :Elevate the self-service contact center powered by generative AI, description :Amazon Lex comprises a host of features to quickly build and deploy conversational experiences across numerous customer touchpoints, driving builder efficiency. Join this chalk talk to learn how you can use Amazon Lex augmented with generative AI to simplify the developer experience for building AI-driven contact center experiences. Hear about the latest Amazon Lex launches such as generative FAQ, how to build bots using natural language prompts, and new LLM-powered slots for improved accuracy., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 320, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 01:30:00 -0500, 
+enddatetimeutc: November, 28 2023 01:30:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: Premier 320
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Amazon Lex comprises a host of features to quickly build and deploy conversational experiences across numerous customer touchpoints, driving builder efficiency. Join this chalk talk to learn how you can use Amazon Lex augmented with generative AI to simplify the developer experience for building AI-driven contact center experiences. Hear about the latest Amazon Lex launches such as generative FAQ, how to build bots using natural language prompts, and new LLM-powered slots for improved accuracy
+title: Elevate the self-service contact center powered by generative AI
+sessionuid: 38D3D446-09E6-4ABF-A3B2-12DDFD532D5D
+thirdpartyid: AIM320
+speakers: firstName_0: John, lastName_0: Baker, firstName_1: Anuradha, lastName_1: Durfee, firstName_2: Ruhaab, lastName_2: Markas
+tag_name: Amazon Lex, Services, Financial Services, Industry, Amazon Bedrock, Services, Developer/Engineer, Role, Generative AI, Area of Interest, Travel & Hospitality, Industry, Cross Industry, Industry, Monday, Day, MGM Grand, Venue, Cost Optimization, Area of Interest, 300 - Advanced, Level, Strategy & Transformation, Area of Interest, Business Applications, Topic, Solution/Systems Architect, Role, Data Scientist, Role, Amazon Connect, Services, AI/ML, Topic

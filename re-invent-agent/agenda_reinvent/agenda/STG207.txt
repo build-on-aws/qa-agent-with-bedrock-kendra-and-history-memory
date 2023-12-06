@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :Media & Entertainment, Industry, IT Professional/Technical Manager, Role, Microsoft, Area of Interest, Enterprise & Migration, Topic, Amazon Elastic Block Store (EBS), Services, Solution/Systems Architect, Role, Data Engineer, Role, Amazon Elastic Compute Cloud (EC2), Services, Cross Industry, Industry, Monday, Day, Wynn, Venue, Storage, Topic, 200 - Intermediate, Level, Financial Services, Industry, Migration & Transfer, Area of Interest, , speakers :firstName_0: Andrew, lastName_0: Boyer, firstName_1: Leslie, lastName_1: Sanchez, , thirdpartyid :STG207, sessionuid :48E3D37D-B388-4DA3-906B-EB0E3AE1FD35, title :Best practices for moving on-premises applications to Amazon EBS, description :Are you thinking about moving your on-premises application to AWS? Attend this session to learn about availability and durability in the cloud and how Amazon EBS can help you achieve high performance at lower costs. In addition, explore a new Amazon EBS feature for migrating Windows-based and Linux-based clustered applications, learn Amazon EBS volume recommendations for your workloads, discover data protection best practices with EBS snapshots, and hear strategies for a successful migration., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 01:00:00 -0500, 
+enddatetimeutc: November, 28 2023 01:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Are you thinking about moving your on-premises application to AWS? Attend this session to learn about availability and durability in the cloud and how Amazon EBS can help you achieve high performance at lower costs. In addition, explore a new Amazon EBS feature for migrating Windows-based and Linux-based clustered applications, learn Amazon EBS volume recommendations for your workloads, discover data protection best practices with EBS snapshots, and hear strategies for a successful migration
+title: Best practices for moving on-premises applications to Amazon EBS
+sessionuid: 48E3D37D-B388-4DA3-906B-EB0E3AE1FD35
+thirdpartyid: STG207
+speakers: firstName_0: Andrew, lastName_0: Boyer, firstName_1: Leslie, lastName_1: Sanchez
+tag_name: Media & Entertainment, Industry, IT Professional/Technical Manager, Role, Microsoft, Area of Interest, Enterprise & Migration, Topic, Amazon Elastic Block Store (EBS), Services, Solution/Systems Architect, Role, Data Engineer, Role, Amazon Elastic Compute Cloud (EC2), Services, Cross Industry, Industry, Monday, Day, Wynn, Venue, Storage, Topic, 200 - Intermediate, Level, Financial Services, Industry, Migration & Transfer, Area of Interest

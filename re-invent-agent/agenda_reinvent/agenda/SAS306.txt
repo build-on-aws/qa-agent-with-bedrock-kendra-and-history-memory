@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas E
+summary: tag_name :Solution/Systems Architect, Role, 300 - Advanced, Level, Thursday, Day, Mandalay Bay, Venue, Amazon SageMaker, Services, Amazon Bedrock, Services, AI/ML, Topic, Developer/Engineer, Role, SaaS, Area of Interest, , speakers :firstName_0: Tod, lastName_0: Golding, firstName_1: James, lastName_1: Jory, , thirdpartyid :SAS306, sessionuid :77734B90-1175-42C1-BBFD-192550DA4239, title :SaaS meets AI/ML & generative AI: Multi-tenant patterns & strategies, description :<p>Supporting AI/ML and generative AI in a SaaS environment requires teams to take on a range of multi-tenant challenges. Providers need to consider how tenants are mapped to models, how inferencing is scaled for tenants, how solutions are integrated with other AI/ML services, and how LLMs are tuned to meet tenant-specific needs. In this session, dig into these intersections between multi-tenancy and AI/ML, including the common design, performance, isolation, and experience challenges that come with making AI/ML part of your SaaS offering. Learn to identify the patterns and strategies to consider when applying AI/ML and generative AI in a SaaS environment.</p>, sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas E, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: South Seas E
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: <p>Supporting AI/ML and generative AI in a SaaS environment requires teams to take on a range of multi-tenant challenges. Providers need to consider how tenants are mapped to models, how inferencing is scaled for tenants, how solutions are integrated with other AI/ML services, and how LLMs are tuned to meet tenant-specific needs. In this session, dig into these intersections between multi-tenancy and AI/ML, including the common design, performance, isolation, and experience challenges that come with making AI/ML part of your SaaS offering. Learn to identify the patterns and strategies to consider when applying AI/ML and generative AI in a SaaS environment.</p>
+title: SaaS meets AI/ML & generative AI: Multi-tenant patterns & strategies
+sessionuid: 77734B90-1175-42C1-BBFD-192550DA4239
+thirdpartyid: SAS306
+speakers: firstName_0: Tod, lastName_0: Golding, firstName_1: James, lastName_1: Jory
+tag_name: Solution/Systems Architect, Role, 300 - Advanced, Level, Thursday, Day, Mandalay Bay, Venue, Amazon SageMaker, Services, Amazon Bedrock, Services, AI/ML, Topic, Developer/Engineer, Role, SaaS, Area of Interest

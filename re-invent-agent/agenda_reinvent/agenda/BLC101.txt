@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 115
+summary: tag_name :Consumer Packaged Goods, Industry, Tech Explorer, Role, AWS CloudHSM, Services, Business Executive, Role, Blockchain, Area of Interest, Monday, Day, MGM Grand, Venue, 100 - Foundational, Level, Amazon Elastic Compute Cloud (EC2), Services, Compute, Topic, IT Executive, Role, Retail, Industry, , speakers :firstName_0: Yaniv, lastName_0: Donenfeld, firstName_1: Jason, lastName_1: Tadros, company_1: Mattel, Inc., , thirdpartyid :BLC101, sessionuid :17E24B1D-E179-42B6-844D-66DE2665D515, title :Building an NFT drops platform and marketplace on AWS, description :<p>In this session, Yaniv Donenfeld, Global Head of Web3 GTM at AWS, and Jason Tadros, Senior Director of Mixed Play and Emerging Technologies at Mattel, highlight how Web3 can help attract new customers and deliver unique digital experiences for brands. Hear an overview of current market and adoption trends for Web3, and explore the challenges of onboarding the average consumer. Learn how, with a Web3 platform and wallet solution using the AWS Nitro System and AWS CloudHSM, Mattel produced 10 NFT drops and launched a collectibles marketplace. Discover how the use of Web3 technology enables a simple experience for retail customers and brand value.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 115, startdatetimeutc :November, 27 2023 20:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 20:00:00 -0500
+locationname: Grand 115
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>In this session, Yaniv Donenfeld, Global Head of Web3 GTM at AWS, and Jason Tadros, Senior Director of Mixed Play and Emerging Technologies at Mattel, highlight how Web3 can help attract new customers and deliver unique digital experiences for brands. Hear an overview of current market and adoption trends for Web3, and explore the challenges of onboarding the average consumer. Learn how, with a Web3 platform and wallet solution using the AWS Nitro System and AWS CloudHSM, Mattel produced 10 NFT drops and launched a collectibles marketplace. Discover how the use of Web3 technology enables a simple experience for retail customers and brand value.</p>
+title: Building an NFT drops platform and marketplace on AWS
+sessionuid: 17E24B1D-E179-42B6-844D-66DE2665D515
+thirdpartyid: BLC101
+speakers: firstName_0: Yaniv, lastName_0: Donenfeld, firstName_1: Jason, lastName_1: Tadros, company_1: Mattel, Inc.
+tag_name: Consumer Packaged Goods, Industry, Tech Explorer, Role, AWS CloudHSM, Services, Business Executive, Role, Blockchain, Area of Interest, Monday, Day, MGM Grand, Venue, 100 - Foundational, Level, Amazon Elastic Compute Cloud (EC2), Services, Compute, Topic, IT Executive, Role, Retail, Industry

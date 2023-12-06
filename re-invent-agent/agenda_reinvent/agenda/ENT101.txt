@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 120
+summary: tag_name :Solution/Systems Architect, Role, IT Executive, Role, Migration & Transfer, Area of Interest, Business Executive, Role, Enterprise & Migration, Topic, Tuesday, Day, MGM Grand, Venue, 100 - Foundational, Level, VMware, Area of Interest, , speakers :firstName_0: David, lastName_0: Piet, firstName_1: Nate, lastName_1: Lenoir, company_1: Honeywell, , thirdpartyid :ENT101, sessionuid :CA89CD99-84BE-4018-9DB6-F9273A430925, title :An enterprise cloud journey: Speed and scale with VMware Cloud on AWS, description :<p>Speed and scale are critical success factors in an organization’s digital transformation. Maximizing existing resources while adopting the benefits of the cloud is possible with VMware Cloud on AWS. Join this session to explore an enterprise’s successful journey toward digital transformation, where a streamlined approach solved pre-migration challenges. Discover how you can use existing hardware, migrate without rewriting applications, and maximize existing skills using VMware Cloud on AWS. Gain insights into efficient strategies for managing large-scale migrations within tight timelines, drawing from the experiences of AWS and a prominent industry leader.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 120, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: Grand 120
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>Speed and scale are critical success factors in an organization’s digital transformation. Maximizing existing resources while adopting the benefits of the cloud is possible with VMware Cloud on AWS. Join this session to explore an enterprise’s successful journey toward digital transformation, where a streamlined approach solved pre-migration challenges. Discover how you can use existing hardware, migrate without rewriting applications, and maximize existing skills using VMware Cloud on AWS. Gain insights into efficient strategies for managing large-scale migrations within tight timelines, drawing from the experiences of AWS and a prominent industry leader.</p>
+title: An enterprise cloud journey: Speed and scale with VMware Cloud on AWS
+sessionuid: CA89CD99-84BE-4018-9DB6-F9273A430925
+thirdpartyid: ENT101
+speakers: firstName_0: David, lastName_0: Piet, firstName_1: Nate, lastName_1: Lenoir, company_1: Honeywell
+tag_name: Solution/Systems Architect, Role, IT Executive, Role, Migration & Transfer, Area of Interest, Business Executive, Role, Enterprise & Migration, Topic, Tuesday, Day, MGM Grand, Venue, 100 - Foundational, Level, VMware, Area of Interest

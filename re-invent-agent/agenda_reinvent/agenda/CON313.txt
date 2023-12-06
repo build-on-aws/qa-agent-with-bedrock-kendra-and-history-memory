@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 121
+summary: tag_name :300 - Advanced, Level, Solution/Systems Architect, Role, Amazon Elastic Container Service (ECS), Services, Serverless Compute, Topic, Monday, Day, Caesars Forum, Venue, Developer/Engineer, Role, AWS Fargate, Services, Cross Industry, Industry, Monitoring & Observability, Area of Interest, Application Integration, Area of Interest, , speakers :firstName_0: Nathan, lastName_0: Peck, firstName_1: Jessica, lastName_1: Deen, , thirdpartyid :CON313, sessionuid :4930768A-CE8D-4411-BCBB-A78808177C67, title :Deploying multi-tenant SaaS applications on Amazon ECS and AWS Fargate, description :There is a growing trend to build SaaS solutions on Amazon ECS. Developing multi-tenant SaaS applications requires addressing multiple concerns including tenant isolation, tenant onboarding, tenant-specific metering, monitoring, and other SaaS aspects. In this session, explore how to manage multi-tenancy aspects when deploying solutions on AWS Fargate., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 121, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 01:00:00 -0500, 
+enddatetimeutc: November, 28 2023 01:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: Forum 121
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: There is a growing trend to build SaaS solutions on Amazon ECS. Developing multi-tenant SaaS applications requires addressing multiple concerns including tenant isolation, tenant onboarding, tenant-specific metering, monitoring, and other SaaS aspects. In this session, explore how to manage multi-tenancy aspects when deploying solutions on AWS Fargate
+title: Deploying multi-tenant SaaS applications on Amazon ECS and AWS Fargate
+sessionuid: 4930768A-CE8D-4411-BCBB-A78808177C67
+thirdpartyid: CON313
+speakers: firstName_0: Nathan, lastName_0: Peck, firstName_1: Jessica, lastName_1: Deen
+tag_name: 300 - Advanced, Level, Solution/Systems Architect, Role, Amazon Elastic Container Service (ECS), Services, Serverless Compute, Topic, Monday, Day, Caesars Forum, Venue, Developer/Engineer, Role, AWS Fargate, Services, Cross Industry, Industry, Monitoring & Observability, Area of Interest, Application Integration, Area of Interest

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 315
+summary: tag_name :AWS Application Migration Service, Services, System Administrator, Role, Migration & Transfer, Area of Interest, Microsoft, Area of Interest, IT Professional/Technical Manager, Role, Thursday, Day, MGM Grand, Venue, IT Administrator, Role, Enterprise & Migration, Topic, 300 - Advanced, Level, , speakers :firstName_0: Ahuva, lastName_0: Hazan-Fuchs, firstName_1: Vaidy, lastName_1: A., , thirdpartyid :ENT303, sessionuid :4DCA3873-C1E8-4B02-A6B7-3DE8546DBECC, title :Move and improve at scale using AWS Application Migration Service, description :Are you looking to migrate and optimize your workloads? AWS announced new features for AWS Application Migration Service to help organizations migrate and modernize at scale. Join this workshop to learn how to address common challenges like upgrading operating systems, optimizing infrastructure, and moving to managed databases after completing your migration. Don’t just move your applications, discover how Application Migration Service can help you improve them in the cloud with key post-migration actions to accelerate your modernization. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 315, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 21:00:00 -0500, 
+enddatetimeutc: November, 30 2023 21:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Premier 315
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: Are you looking to migrate and optimize your workloads? AWS announced new features for AWS Application Migration Service to help organizations migrate and modernize at scale. Join this workshop to learn how to address common challenges like upgrading operating systems, optimizing infrastructure, and moving to managed databases after completing your migration. Don’t just move your applications, discover how Application Migration Service can help you improve them in the cloud with key post-migration actions to accelerate your modernization. You must bring your laptop to participate
+title: Move and improve at scale using AWS Application Migration Service
+sessionuid: 4DCA3873-C1E8-4B02-A6B7-3DE8546DBECC
+thirdpartyid: ENT303
+speakers: firstName_0: Ahuva, lastName_0: Hazan-Fuchs, firstName_1: Vaidy, lastName_1: A.
+tag_name: AWS Application Migration Service, Services, System Administrator, Role, Migration & Transfer, Area of Interest, Microsoft, Area of Interest, IT Professional/Technical Manager, Role, Thursday, Day, MGM Grand, Venue, IT Administrator, Role, Enterprise & Migration, Topic, 300 - Advanced, Level

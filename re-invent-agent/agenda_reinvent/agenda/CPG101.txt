@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 115
+summary: tag_name :AI/ML, Topic, Cloud Operations, Topic, Data Protection, Area of Interest, Open Source, Area of Interest, SAP, Area of Interest, Consumer Packaged Goods, Industry, 100 - Foundational, Level, IT Executive, Role, Amazon DynamoDB, Services, Amazon SageMaker, Services, AWS Lambda, Services, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Markus, lastName_0: Rautert, company_0: Adidas, firstName_1: Paul, lastName_1: Fryer, , thirdpartyid :CPG101, sessionuid :C835D207-3306-42F5-B259-0CFF463B9201, title :How adidas revolutionizes digital systems to fuel a thriving business, description :<p>In this session, learn how adidas harnessed the power of cutting-edge technologies to revolutionize vital aspects of their business. Explore the evolution of product creation, commerce strategies, data analytics, and the backbone of their operations, the ERP system, to gain insights into the process of modernizing a business landscape with real-life examples from one of the world’s most iconic brands.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 115, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Grand 115
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>In this session, learn how adidas harnessed the power of cutting-edge technologies to revolutionize vital aspects of their business. Explore the evolution of product creation, commerce strategies, data analytics, and the backbone of their operations, the ERP system, to gain insights into the process of modernizing a business landscape with real-life examples from one of the world’s most iconic brands.</p>
+title: How adidas revolutionizes digital systems to fuel a thriving business
+sessionuid: C835D207-3306-42F5-B259-0CFF463B9201
+thirdpartyid: CPG101
+speakers: firstName_0: Markus, lastName_0: Rautert, company_0: Adidas, firstName_1: Paul, lastName_1: Fryer
+tag_name: AI/ML, Topic, Cloud Operations, Topic, Data Protection, Area of Interest, Open Source, Area of Interest, SAP, Area of Interest, Consumer Packaged Goods, Industry, 100 - Foundational, Level, IT Executive, Role, Amazon DynamoDB, Services, Amazon SageMaker, Services, AWS Lambda, Services, Wednesday, Day, MGM Grand, Venue

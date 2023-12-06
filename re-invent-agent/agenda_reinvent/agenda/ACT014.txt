@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall C, Expo
+summary: tag_name :Monday, Day, Venetian, Venue, Happy Hour/Reception, Additional Services, , speakers :, thirdpartyid :ACT014, sessionuid :0FBB133B-5F2B-4FCC-B1CD-09E7E36DEA1D, title :Welcome Reception, description :Come kick off AWS re:Invent 2023 with Monday evening’s welcome reception. Walk the Expo floor to meet and interact with AWS experts and AWS Partners. Light refreshments and beverage service are provided throughout the hall and in select sponsor booths. The Welcome Reception is brought to you by HashiCorp, an AWS Partner., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall C, Expo, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 03:00:00 -0500, 
+enddatetimeutc: November, 28 2023 03:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: Hall C, Expo
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Come kick off AWS re:Invent 2023 with Monday evening’s welcome reception. Walk the Expo floor to meet and interact with AWS experts and AWS Partners. Light refreshments and beverage service are provided throughout the hall and in select sponsor booths. The Welcome Reception is brought to you by HashiCorp, an AWS Partner
+title: Welcome Reception
+sessionuid: 0FBB133B-5F2B-4FCC-B1CD-09E7E36DEA1D
+thirdpartyid: ACT014
+speakers: 
+tag_name: Monday, Day, Venetian, Venue, Happy Hour/Reception, Additional Services

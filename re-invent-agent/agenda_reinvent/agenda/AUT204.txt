@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 108
+summary: tag_name :AI/ML, Topic, Generative AI, Area of Interest, Automotive, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Bedrock, Services, Amazon CodeWhisperer, Services, Caesars Forum, Venue, Thursday, Day, , speakers :firstName_0: Rebecca, lastName_0: Gonzales, firstName_1: Sujitha, lastName_1: Martin, , thirdpartyid :AUT204-R, sessionuid :51171CB8-132F-40F6-926A-5A61C16DE3BE, title :Driving into the future with generative AI [REPEAT], description :<p>Automakers and ecosystem partners spanning the industry are piloting generative AI use cases across a wide variety of applications, including product design, vehicle software development, automated driving feature development, and personalized customer experiences. In this chalk talk, experts from the AWS Generative AI Innovation Center introduce you to how Amazon Bedrock and Amazon CodeWhisperer are being adopted to enhance the digital experience throughout the customer journey, from pre-sales to post-sales.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 108, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: Forum 108
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Automakers and ecosystem partners spanning the industry are piloting generative AI use cases across a wide variety of applications, including product design, vehicle software development, automated driving feature development, and personalized customer experiences. In this chalk talk, experts from the AWS Generative AI Innovation Center introduce you to how Amazon Bedrock and Amazon CodeWhisperer are being adopted to enhance the digital experience throughout the customer journey, from pre-sales to post-sales.</p>
+title: Driving into the future with generative AI [REPEAT]
+sessionuid: 51171CB8-132F-40F6-926A-5A61C16DE3BE
+thirdpartyid: AUT204-R
+speakers: firstName_0: Rebecca, lastName_0: Gonzales, firstName_1: Sujitha, lastName_1: Martin
+tag_name: AI/ML, Topic, Generative AI, Area of Interest, Automotive, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Bedrock, Services, Amazon CodeWhisperer, Services, Caesars Forum, Venue, Thursday, Day

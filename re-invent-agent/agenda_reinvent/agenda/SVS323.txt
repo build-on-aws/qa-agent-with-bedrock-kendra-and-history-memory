@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Islander G
+summary: tag_name :Solution/Systems Architect, Role, Resilience, Area of Interest, Architecture, Topic, Thursday, Day, Mandalay Bay, Venue, 300 - Advanced, Level, Amazon API Gateway, Services, Application Security, Area of Interest, DevOps Engineer, Role, Developer/Engineer, Role, Serverless Compute, Topic, AWS Lambda, Services, , speakers :firstName_0: Eric, lastName_0: Johnson, , thirdpartyid :SVS323, sessionuid :1801E1D0-BDA2-4FC6-B766-64619B6446EB, title :I didn’t know Amazon API Gateway did that, description :This session provides an introduction to Amazon API Gateway and the problems it solves. Learn about the moving parts of API Gateway and how it works, including common and not-so-common use cases. Discover why you should use API Gateway and what it can do., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Islander G, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: Islander G
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: This session provides an introduction to Amazon API Gateway and the problems it solves. Learn about the moving parts of API Gateway and how it works, including common and not-so-common use cases. Discover why you should use API Gateway and what it can do
+title: I didn’t know Amazon API Gateway did that
+sessionuid: 1801E1D0-BDA2-4FC6-B766-64619B6446EB
+thirdpartyid: SVS323
+speakers: firstName_0: Eric, lastName_0: Johnson
+tag_name: Solution/Systems Architect, Role, Resilience, Area of Interest, Architecture, Topic, Thursday, Day, Mandalay Bay, Venue, 300 - Advanced, Level, Amazon API Gateway, Services, Application Security, Area of Interest, DevOps Engineer, Role, Developer/Engineer, Role, Serverless Compute, Topic, AWS Lambda, Services

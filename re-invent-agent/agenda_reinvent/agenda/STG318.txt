@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 118
+summary: tag_name :Business Applications, Topic, Storage, Topic, Application Integration, Area of Interest, Global Infrastructure, Area of Interest, Financial Services, Industry, Media & Entertainment, Industry, Telecommunications, Industry, 300 - Advanced, Level, IT Administrator, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon S3 Glacier, Services, Amazon Simple Storage Service (S3), Services, Resilience, Area of Interest, Monday, Day, Caesars Forum, Venue, , speakers :firstName_0: Krishna, lastName_0: Pramod, firstName_1: Lee, lastName_1: Kear, , thirdpartyid :STG318, sessionuid :061D49E4-DE6C-4D1A-9FDC-2B290A9B6B80, title :Deploying Amazon S3 in multiple Regions to support global applications, description :<p>Amazon S3 Multi-Region Access Points provide a single global endpoint to access datasets that span multiple Amazon S3 buckets in different AWS Regions. This allows you to build multi-Region applications with the same simple architecture used in a single Region and to then run those applications anywhere in the world. In this workshop, learn how you can scale your existing Amazon S3 data stack to multiple AWS Regions and clients across the globe. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 118, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 18:30:00 -0500, 
+enddatetimeutc: November, 27 2023 18:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: Forum 118
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Amazon S3 Multi-Region Access Points provide a single global endpoint to access datasets that span multiple Amazon S3 buckets in different AWS Regions. This allows you to build multi-Region applications with the same simple architecture used in a single Region and to then run those applications anywhere in the world. In this workshop, learn how you can scale your existing Amazon S3 data stack to multiple AWS Regions and clients across the globe. You must bring your laptop to participate.</p>
+title: Deploying Amazon S3 in multiple Regions to support global applications
+sessionuid: 061D49E4-DE6C-4D1A-9FDC-2B290A9B6B80
+thirdpartyid: STG318
+speakers: firstName_0: Krishna, lastName_0: Pramod, firstName_1: Lee, lastName_1: Kear
+tag_name: Business Applications, Topic, Storage, Topic, Application Integration, Area of Interest, Global Infrastructure, Area of Interest, Financial Services, Industry, Media & Entertainment, Industry, Telecommunications, Industry, 300 - Advanced, Level, IT Administrator, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon S3 Glacier, Services, Amazon Simple Storage Service (S3), Services, Resilience, Area of Interest, Monday, Day, Caesars Forum, Venue

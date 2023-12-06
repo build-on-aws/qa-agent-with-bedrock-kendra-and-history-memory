@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :AI/ML, Topic, Solution/Systems Architect, Role, Developer/Engineer, Role, 200 - Intermediate, Level, Cross Industry, Industry, Social Impact, Area of Interest, Tuesday, Day, Venetian, Venue, IT Professional/Technical Manager, Role, Amazon SageMaker, Services, DevOps and Developer Productivity, Topic, Amazon Bedrock, Services, BuildOn.AWS, Area of Interest, , speakers :firstName_0: Mrudhula, lastName_0: Balasubramanyan, , thirdpartyid :IMP209, sessionuid :9E9DCBBE-FB2B-4822-9CD5-47502E143945, title :Accelerate mission outcomes with no-code and low-code machine learning, description :Organizations can transform their business with predictive analytics, but may lack the IT resources and budgets for machine learning projects. In this session, geared toward business leaders and technologists, learn about best-in-class no-code and low-code AI/ML and generative AI technologies available to architect outcome-driven solutions. Explore use cases, watch a demo, and learn about prescriptive guidance for designing these solutions. Discover key insights into designing secure, cost-effective, and responsible AI/ML applications that help accelerate nonprofit and business outcomes., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 19:20:00 -0500, 
+enddatetimeutc: November, 28 2023 19:20:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Organizations can transform their business with predictive analytics, but may lack the IT resources and budgets for machine learning projects. In this session, geared toward business leaders and technologists, learn about best-in-class no-code and low-code AI/ML and generative AI technologies available to architect outcome-driven solutions. Explore use cases, watch a demo, and learn about prescriptive guidance for designing these solutions. Discover key insights into designing secure, cost-effective, and responsible AI/ML applications that help accelerate nonprofit and business outcomes
+title: Accelerate mission outcomes with no-code and low-code machine learning
+sessionuid: 9E9DCBBE-FB2B-4822-9CD5-47502E143945
+thirdpartyid: IMP209
+speakers: firstName_0: Mrudhula, lastName_0: Balasubramanyan
+tag_name: AI/ML, Topic, Solution/Systems Architect, Role, Developer/Engineer, Role, 200 - Intermediate, Level, Cross Industry, Industry, Social Impact, Area of Interest, Tuesday, Day, Venetian, Venue, IT Professional/Technical Manager, Role, Amazon SageMaker, Services, DevOps and Developer Productivity, Topic, Amazon Bedrock, Services, BuildOn.AWS, Area of Interest

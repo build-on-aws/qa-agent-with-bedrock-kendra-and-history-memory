@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1280
+summary: tag_name :Inclusion & Diversity, Area of Interest, Wednesday, Day, Venetian, Venue, PeerTalks, Additional Services, , speakers :, thirdpartyid :ACT040, sessionuid :BC36A1E4-074C-469D-8731-453616543652, title :Asians in Tech fireside chat and meetup, description :Asians at Amazon is composed of 23,000 members, representing 33 countries worldwide. Despite this broad presence, many Asian employees are affected by the “model minority” myth and generalized stereotypes. The group aims to minimize misconceptions to promote professional development for Asians in tech and cultivate an inclusive culture, supporting mental health and encouraging personal growth. Join leaders from Asians at Amazon to learn how this affinity group partnered with Amazon leadership to overcome roadblocks and achieve collective growth. Following this fireside chat, network and find community with fellow re:Invent attendees during our Asians in Tech meetup., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1280, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Hall B, Expo, Booth #1280
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Asians at Amazon is composed of 23,000 members, representing 33 countries worldwide. Despite this broad presence, many Asian employees are affected by the “model minority” myth and generalized stereotypes. The group aims to minimize misconceptions to promote professional development for Asians in tech and cultivate an inclusive culture, supporting mental health and encouraging personal growth. Join leaders from Asians at Amazon to learn how this affinity group partnered with Amazon leadership to overcome roadblocks and achieve collective growth. Following this fireside chat, network and find community with fellow re:Invent attendees during our Asians in Tech meetup
+title: Asians in Tech fireside chat and meetup
+sessionuid: BC36A1E4-074C-469D-8731-453616543652
+thirdpartyid: ACT040
+speakers: 
+tag_name: Inclusion & Diversity, Area of Interest, Wednesday, Day, Venetian, Venue, PeerTalks, Additional Services

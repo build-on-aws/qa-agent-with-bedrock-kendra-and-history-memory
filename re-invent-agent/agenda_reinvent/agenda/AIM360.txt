@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Tuesday, Day, Venetian, Venue, AI/ML, Topic, Generative AI, Area of Interest, 300 - Advanced, Level, DevOps Engineer, Role, IT Executive, Role, Solution/Systems Architect, Role, , speakers :firstName_0: Matt, lastName_0: McLarty, company_0: Boomi, , thirdpartyid :AIM360-S, sessionuid :D24749F2-F854-43D5-B0CC-7649ED4D829C, title :The secret path to practical generative AI in the enterprise (sponsored by Boomi), description :<p>Want to learn how to use generative AI for your business, but unsure of how to make it happen or where to start? In this lightning talk, learn how your organization’s data can be effectively harnessed to generate practical generative AI insights, including the use of Retrieval Augmented Generation (RAG) in the enterprise. Plus, find out what capabilities are required to maximize business value from generative AI and how to implement an architecture that helps high velocity change keep pace with generative AI innovation. This presentation is brought to you by Boomi, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :November, 28 2023 21:30:00 -0500, enddatetimeutc :November, 28 2023 21:50:00 -0500, 
+enddatetimeutc: November, 28 2023 21:50:00 -0500
+startdatetimeutc: November, 28 2023 21:30:00 -0500
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Want to learn how to use generative AI for your business, but unsure of how to make it happen or where to start? In this lightning talk, learn how your organization’s data can be effectively harnessed to generate practical generative AI insights, including the use of Retrieval Augmented Generation (RAG) in the enterprise. Plus, find out what capabilities are required to maximize business value from generative AI and how to implement an architecture that helps high velocity change keep pace with generative AI innovation. This presentation is brought to you by Boomi, an AWS Partner.</p>
+title: The secret path to practical generative AI in the enterprise (sponsored by Boomi)
+sessionuid: D24749F2-F854-43D5-B0CC-7649ED4D829C
+thirdpartyid: AIM360-S
+speakers: firstName_0: Matt, lastName_0: McLarty, company_0: Boomi
+tag_name: Tuesday, Day, Venetian, Venue, AI/ML, Topic, Generative AI, Area of Interest, 300 - Advanced, Level, DevOps Engineer, Role, IT Executive, Role, Solution/Systems Architect, Role

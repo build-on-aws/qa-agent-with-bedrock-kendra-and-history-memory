@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Islander G
+summary: tag_name :Cloud Operations, Topic, 300 - Advanced, Level, Cost Optimization, Area of Interest, DevOps Engineer, Role, IT Professional/Technical Manager, Role, Tuesday, Day, Mandalay Bay, Venue, Management & Governance, Area of Interest, AWS Compute Optimizer, Services, AWS Control Tower, Services, AWS Organizations, Services, Solution/Systems Architect, Role, , speakers :firstName_0: Andrew, lastName_0: Blackham, firstName_1: Nivas, lastName_1: Durairaj, , thirdpartyid :COP333, sessionuid :70D1B6A9-2FDA-47DC-AB74-63A51657E4A4, title :Optimize costs in your multi-account environments, description :<p>Customers migrating to the cloud or scaling in the cloud want to optimize costs and reduce spend while maximizing their business impact. In this session, discover the best practices and recommendations for you to optimize costs efficiently and at scale in a multi-account AWS environment (AWS Control Tower, AWS Organizations). No matter where you are in your cloud journey, learn how you can implement controls and apply cost-reduction strategies, such as tagging and using tools like AWS Compute Optimizer, for your workloads and resources.</p>, sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Islander G, startdatetimeutc :November, 29 2023 01:30:00 -0500, enddatetimeutc :November, 29 2023 02:30:00 -0500, 
+enddatetimeutc: November, 29 2023 02:30:00 -0500
+startdatetimeutc: November, 29 2023 01:30:00 -0500
+locationname: Islander G
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: <p>Customers migrating to the cloud or scaling in the cloud want to optimize costs and reduce spend while maximizing their business impact. In this session, discover the best practices and recommendations for you to optimize costs efficiently and at scale in a multi-account AWS environment (AWS Control Tower, AWS Organizations). No matter where you are in your cloud journey, learn how you can implement controls and apply cost-reduction strategies, such as tagging and using tools like AWS Compute Optimizer, for your workloads and resources.</p>
+title: Optimize costs in your multi-account environments
+sessionuid: 70D1B6A9-2FDA-47DC-AB74-63A51657E4A4
+thirdpartyid: COP333
+speakers: firstName_0: Andrew, lastName_0: Blackham, firstName_1: Nivas, lastName_1: Durairaj
+tag_name: Cloud Operations, Topic, 300 - Advanced, Level, Cost Optimization, Area of Interest, DevOps Engineer, Role, IT Professional/Technical Manager, Role, Tuesday, Day, Mandalay Bay, Venue, Management & Governance, Area of Interest, AWS Compute Optimizer, Services, AWS Control Tower, Services, AWS Organizations, Services, Solution/Systems Architect, Role

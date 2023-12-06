@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Business Executive, Role, Inclusion & Diversity, Area of Interest, Customer Enablement, Topic, 100 - Foundational, Level, Tuesday, Day, Venetian, Venue, Developer/Engineer, Role, Business Applications, Topic, Customer Stories, Area of Interest, Nonprofit, Industry, Social Impact, Area of Interest, Advisor/Consultant, Role, , speakers :firstName_0: Scott, lastName_0: Graham, company_0: FINCA International, , thirdpartyid :IDE107, sessionuid :7E25E49B-59CD-481D-AA08-A18C9AC7CF74, title :Serving marginalized populations through research and data science, description :FINCA’s mission is to alleviate poverty through lasting solutions that provide people with the capital and life-changing products and services they need to build a brighter future. Come hear speakers from FINCA discuss how they are using the power of technology and AWS tools and services to create and share knowledge on how to best serve the approximately 1.7 billion people who subsist on roughly less than $3 per day. The work FINCA does and the data they collect indicates whether and how they are improving lives, and it helps them be more responsive to customer needs as they grow and scale., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :November, 28 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 21:20:00 -0500, 
+enddatetimeutc: November, 28 2023 21:20:00 -0500
+startdatetimeutc: November, 28 2023 21:00:00 -0500
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: FINCA’s mission is to alleviate poverty through lasting solutions that provide people with the capital and life-changing products and services they need to build a brighter future. Come hear speakers from FINCA discuss how they are using the power of technology and AWS tools and services to create and share knowledge on how to best serve the approximately 1.7 billion people who subsist on roughly less than $3 per day. The work FINCA does and the data they collect indicates whether and how they are improving lives, and it helps them be more responsive to customer needs as they grow and scale
+title: Serving marginalized populations through research and data science
+sessionuid: 7E25E49B-59CD-481D-AA08-A18C9AC7CF74
+thirdpartyid: IDE107
+speakers: firstName_0: Scott, lastName_0: Graham, company_0: FINCA International
+tag_name: Business Executive, Role, Inclusion & Diversity, Area of Interest, Customer Enablement, Topic, 100 - Foundational, Level, Tuesday, Day, Venetian, Venue, Developer/Engineer, Role, Business Applications, Topic, Customer Stories, Area of Interest, Nonprofit, Industry, Social Impact, Area of Interest, Advisor/Consultant, Role

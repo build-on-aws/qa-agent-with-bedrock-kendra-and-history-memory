@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Bellini 2105
+summary: tag_name :Cloud Operations, Topic, DevOps and Developer Productivity, Topic, Global Infrastructure, Area of Interest, Management & Governance, Area of Interest, Network & Infrastructure Security, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, DevOps Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Wednesday, Day, Venetian, Venue, , speakers :firstName_0: Welly, lastName_0: Siauw, firstName_1: Dan, lastName_1: Barr, company_1: HashiCorp, , thirdpartyid :DOP315-S, sessionuid :9F527467-1BB4-496F-BE2A-3A69B722228B, title :Self-service infrastructure is no longer a dream (sponsored by HashiCorp), description :<p>In this session, learn how platform teams can use Terraform Cloud, HCP Waypoint, and the AWS Service Catalog to create simplified Terraform-based workflows for developers. Modern Terraform modules can incorporate unit testing, built-in security, policy enforcement, and reliable version updates. See how you can use these tools to establish standardized workflows to deploy applications and deliver a smooth and seamless developer experience. This presentation is brought to you by HashiCorp, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Bellini 2105, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Bellini 2105
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>In this session, learn how platform teams can use Terraform Cloud, HCP Waypoint, and the AWS Service Catalog to create simplified Terraform-based workflows for developers. Modern Terraform modules can incorporate unit testing, built-in security, policy enforcement, and reliable version updates. See how you can use these tools to establish standardized workflows to deploy applications and deliver a smooth and seamless developer experience. This presentation is brought to you by HashiCorp, an AWS Partner.</p>
+title: Self-service infrastructure is no longer a dream (sponsored by HashiCorp)
+sessionuid: 9F527467-1BB4-496F-BE2A-3A69B722228B
+thirdpartyid: DOP315-S
+speakers: firstName_0: Welly, lastName_0: Siauw, firstName_1: Dan, lastName_1: Barr, company_1: HashiCorp
+tag_name: Cloud Operations, Topic, DevOps and Developer Productivity, Topic, Global Infrastructure, Area of Interest, Management & Governance, Area of Interest, Network & Infrastructure Security, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, DevOps Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Wednesday, Day, Venetian, Venue

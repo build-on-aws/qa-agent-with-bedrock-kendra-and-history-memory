@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 117
+summary: tag_name :300 - Advanced, Level, DevOps and Developer Productivity, Topic, AWS Amplify, Services, Developer/Engineer, Role, Thursday, Day, MGM Grand, Venue, Front-End Web & Mobile, Area of Interest, , speakers :firstName_0: Arundeep, lastName_0: Nagaraj, firstName_1: Erik, lastName_1: Hanchett, , thirdpartyid :FWM305, sessionuid :3B62FE9D-3DE6-4896-B522-8B9DAEF8DA2C, title :Build server-side rendering (SSR) for apps with AWS Amplify, description :Next.js continues to gain momentum as a preferred server-side rendering (SSR) framework for frontend developers. In this workshop, use AWS Amplify to build a Next.js application to realize benefits like faster page loads and improved search engine optimization (SEO). You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 117, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 21:00:00 -0500, 
+enddatetimeutc: November, 30 2023 21:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Grand 117
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: Next.js continues to gain momentum as a preferred server-side rendering (SSR) framework for frontend developers. In this workshop, use AWS Amplify to build a Next.js application to realize benefits like faster page loads and improved search engine optimization (SEO). You must bring your laptop to participate
+title: Build server-side rendering (SSR) for apps with AWS Amplify
+sessionuid: 3B62FE9D-3DE6-4896-B522-8B9DAEF8DA2C
+thirdpartyid: FWM305
+speakers: firstName_0: Arundeep, lastName_0: Nagaraj, firstName_1: Erik, lastName_1: Hanchett
+tag_name: 300 - Advanced, Level, DevOps and Developer Productivity, Topic, AWS Amplify, Services, Developer/Engineer, Role, Thursday, Day, MGM Grand, Venue, Front-End Web & Mobile, Area of Interest

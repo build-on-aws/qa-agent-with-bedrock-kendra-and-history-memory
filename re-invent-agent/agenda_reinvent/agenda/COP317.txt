@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 101
+summary: tag_name :IT Administrator, Role, Tuesday, Day, MGM Grand, Venue, Cloud Operations, Topic, Cost Optimization, Area of Interest, IT Professional/Technical Manager, Role, Business Executive, Role, 300 - Advanced, Level, Management & Governance, Area of Interest, AWS Compute Optimizer, Services, AWS Trusted Advisor, Services, AWS Resilience Hub, Services, , speakers :, thirdpartyid :COP317-R1, sessionuid :2EF0D4B5-D7B4-458D-8ED9-93750D07C22B, title :Balance cost optimization and resiliency [REPEAT], description :Operating a cost-efficient architecture without compromising resiliency is critical for your business. Join this chalk talk to learn how you can improve observability and identify cost-saving opportunities while maintaining availability for your workloads., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :101, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: 101
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Operating a cost-efficient architecture without compromising resiliency is critical for your business. Join this chalk talk to learn how you can improve observability and identify cost-saving opportunities while maintaining availability for your workloads
+title: Balance cost optimization and resiliency [REPEAT]
+sessionuid: 2EF0D4B5-D7B4-458D-8ED9-93750D07C22B
+thirdpartyid: COP317-R1
+speakers: 
+tag_name: IT Administrator, Role, Tuesday, Day, MGM Grand, Venue, Cloud Operations, Topic, Cost Optimization, Area of Interest, IT Professional/Technical Manager, Role, Business Executive, Role, 300 - Advanced, Level, Management & Governance, Area of Interest, AWS Compute Optimizer, Services, AWS Trusted Advisor, Services, AWS Resilience Hub, Services

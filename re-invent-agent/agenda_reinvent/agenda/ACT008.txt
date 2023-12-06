@@ -1,0 +1,14 @@
+location: , , 
+summary: tag_name :Friday, Day, Caesars Forum, Venue, Venetian, Venue, Meals & Conference Services, Additional Services, , speakers :, thirdpartyid :ACT008, sessionuid :5BCE0C49-B405-4C4E-A269-8027D96A7824, title :Friday breakfast, description :Breakfast for attendees is served in Caesars Forum, Forum 130; Mandalay Bay, Level 2, Shoreline Hall; MGM Grand, Level 1, Marquee Ballroom; The Venetian, Level 1, Hall G; and Wynn, Cristal Ballroom 2., sessiontype :Community Activities, venuename :, floorplanname :, locationname :, startdatetimeutc :December, 01 2023 15:00:00 -0500, enddatetimeutc :December, 01 2023 17:00:00 -0500, 
+enddatetimeutc: December, 01 2023 17:00:00 -0500
+startdatetimeutc: December, 01 2023 15:00:00 -0500
+locationname: 
+floorplanname: 
+venuename: 
+sessiontype: Community Activities
+description: Breakfast for attendees is served in Caesars Forum, Forum 130; Mandalay Bay, Level 2, Shoreline Hall; MGM Grand, Level 1, Marquee Ballroom; The Venetian, Level 1, Hall G; and Wynn, Cristal Ballroom 2
+title: Friday breakfast
+sessionuid: 5BCE0C49-B405-4C4E-A269-8027D96A7824
+thirdpartyid: ACT008
+speakers: 
+tag_name: Friday, Day, Caesars Forum, Venue, Venetian, Venue, Meals & Conference Services, Additional Services

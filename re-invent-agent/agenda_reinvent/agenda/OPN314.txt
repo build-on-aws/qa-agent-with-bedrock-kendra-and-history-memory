@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 111
+summary: tag_name :Storage, Topic, 300 - Advanced, Level, Application Integration, Area of Interest, Open Source, Area of Interest, Data Engineer, Role, Developer/Engineer, Role, DevOps Engineer, Role, Amazon Simple Storage Service (S3), Services, Thursday, Day, MGM Grand, Venue, , speakers :firstName_0: Ehsan, lastName_0: Shokrgozar, firstName_1: DJ, lastName_1: Rahming, , thirdpartyid :OPN314, sessionuid :90654A4B-C8F7-4D7D-8F8C-0EE80BF82D16, title :Using Mountpoint for Amazon S3 for content production, description :<p>Many organizations with content production workloads use Amazon S3 to process large volumes of data over many compute instances in their render farm. With Mountpoint for Amazon S3, an open source file client, common rendering applications can access the elastic storage and throughput of Amazon S3 using a file system interface. In this workshop, learn how to integrate Mountpoint for Amazon S3 with a content production workflow to take advantage of Amazon S3’s elasticity and low cost. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 111, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Grand 111
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Many organizations with content production workloads use Amazon S3 to process large volumes of data over many compute instances in their render farm. With Mountpoint for Amazon S3, an open source file client, common rendering applications can access the elastic storage and throughput of Amazon S3 using a file system interface. In this workshop, learn how to integrate Mountpoint for Amazon S3 with a content production workflow to take advantage of Amazon S3’s elasticity and low cost. You must bring your laptop to participate.</p>
+title: Using Mountpoint for Amazon S3 for content production
+sessionuid: 90654A4B-C8F7-4D7D-8F8C-0EE80BF82D16
+thirdpartyid: OPN314
+speakers: firstName_0: Ehsan, lastName_0: Shokrgozar, firstName_1: DJ, lastName_1: Rahming
+tag_name: Storage, Topic, 300 - Advanced, Level, Application Integration, Area of Interest, Open Source, Area of Interest, Data Engineer, Role, Developer/Engineer, Role, DevOps Engineer, Role, Amazon Simple Storage Service (S3), Services, Thursday, Day, MGM Grand, Venue

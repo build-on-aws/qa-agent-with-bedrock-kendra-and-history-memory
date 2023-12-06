@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :AWS Security Hub, Services, 300 - Advanced, Level, Threat Detection & Incident Response, Area of Interest, Monitoring & Observability, Area of Interest, AWS Config, Services, Security, Compliance, & Identity, Topic, Monday, Day, Wynn, Venue, , speakers :firstName_0: Shachar, lastName_0: Hirshberg, firstName_1: Rich, lastName_1: Vorwaller, firstName_2: Priyank, lastName_2: Ghedia, , thirdpartyid :SEC327-R, sessionuid :D43A4B43-339C-4A79-8FA7-701FBD078E2C, title :Speed up your cloud security investigation, remediation, and response [REPEAT], description :Identifying, triaging, and correlating security findings are critical activities to successfully achieve your security goals on AWS. In this chalk talk, explore how AWS Security Hub and Amazon Detective work together to help you automate the initial triage and prioritize security findings. Learn how to get started with Security Hub to automatically aggregate and fine-tune findings from multiple AWS security services and then analyze those findings with Detective. Then, see how Detective can help you reduce your investigation time by examining multiple findings that relate to a single security event using finding groups and graph visualization., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 01:30:00 -0500, 
+enddatetimeutc: November, 28 2023 01:30:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Identifying, triaging, and correlating security findings are critical activities to successfully achieve your security goals on AWS. In this chalk talk, explore how AWS Security Hub and Amazon Detective work together to help you automate the initial triage and prioritize security findings. Learn how to get started with Security Hub to automatically aggregate and fine-tune findings from multiple AWS security services and then analyze those findings with Detective. Then, see how Detective can help you reduce your investigation time by examining multiple findings that relate to a single security event using finding groups and graph visualization
+title: Speed up your cloud security investigation, remediation, and response [REPEAT]
+sessionuid: D43A4B43-339C-4A79-8FA7-701FBD078E2C
+thirdpartyid: SEC327-R
+speakers: firstName_0: Shachar, lastName_0: Hirshberg, firstName_1: Rich, lastName_1: Vorwaller, firstName_2: Priyank, lastName_2: Ghedia
+tag_name: AWS Security Hub, Services, 300 - Advanced, Level, Threat Detection & Incident Response, Area of Interest, Monitoring & Observability, Area of Interest, AWS Config, Services, Security, Compliance, & Identity, Topic, Monday, Day, Wynn, Venue

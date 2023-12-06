@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 221
+summary: tag_name :Architecture, Topic, Security, Compliance, & Identity, Topic, Data Protection, Area of Interest, Global Infrastructure, Area of Interest, Network & Infrastructure Security, Area of Interest, Government, Industry, Cross Industry, Industry, 300 - Advanced, Level, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Adam, lastName_0: Hesch, firstName_1: David, lastName_1: Schatzman, , thirdpartyid :WPS304, sessionuid :4053916B-BCAF-40BC-8B49-086D570428EE, title :Using Zero Trust to reduce security risk for the public sector, description :<p>Zero Trust is more than a security buzzword or product you can buy—it’s a security strategy that focuses on working backwards from your mission workloads and use cases. In this chalk talk, learn how you can reduce your organization’s security risk while also achieving exceptional mission and business outcomes with the help of Zero Trust architectures on AWS GovCloud (US). Explore common Zero Trust use cases (user, device, and system authentication and authorization) and technologies (software-defined networks, micro-segmentation, policy enforcement points, visibility, and orchestration) to rapidly bring Zero Trust into your existing and future environments.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 221, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 01:30:00 -0500, 
+enddatetimeutc: November, 30 2023 01:30:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: Summit 221
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Zero Trust is more than a security buzzword or product you can buy—it’s a security strategy that focuses on working backwards from your mission workloads and use cases. In this chalk talk, learn how you can reduce your organization’s security risk while also achieving exceptional mission and business outcomes with the help of Zero Trust architectures on AWS GovCloud (US). Explore common Zero Trust use cases (user, device, and system authentication and authorization) and technologies (software-defined networks, micro-segmentation, policy enforcement points, visibility, and orchestration) to rapidly bring Zero Trust into your existing and future environments.</p>
+title: Using Zero Trust to reduce security risk for the public sector
+sessionuid: 4053916B-BCAF-40BC-8B49-086D570428EE
+thirdpartyid: WPS304
+speakers: firstName_0: Adam, lastName_0: Hesch, firstName_1: David, lastName_1: Schatzman
+tag_name: Architecture, Topic, Security, Compliance, & Identity, Topic, Data Protection, Area of Interest, Global Infrastructure, Area of Interest, Network & Infrastructure Security, Area of Interest, Government, Industry, Cross Industry, Industry, 300 - Advanced, Level, Wednesday, Day, Caesars Forum, Venue

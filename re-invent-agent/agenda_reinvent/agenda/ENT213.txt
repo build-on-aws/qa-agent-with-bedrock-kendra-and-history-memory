@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 305
+summary: tag_name :IT Administrator, Role, Oracle, Area of Interest, System Administrator, Role, Cross Industry, Industry, 200 - Intermediate, Level, Wednesday, Day, Caesars Forum, Venue, Amazon DevOps Guru, Services, Enterprise & Migration, Topic, IT Professional/Technical Manager, Role, Cost Optimization, Area of Interest, , speakers :firstName_0: Simon, lastName_0: Cunningham, firstName_1: Sridhar, lastName_1: Mahadevan, , thirdpartyid :ENT213, sessionuid :9035EED5-3129-4B27-91E0-A028B3797D8F, title :Enhance the value of and fully automate Oracle app operations on AWS, description :What deployment patterns are available for your Oracle ERP application? In this chalk talk, first learn more about various deployment patterns and how you can enhance the value of your Oracle ERP by selecting the right deployment option within your entitlements. Then, learn how the ERP administration toolbox from AWS can automate common administrative tasks such as DR switchover, environment cloning, and more with deployable serverless solutions and code bases., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 305, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Alliance 305
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: What deployment patterns are available for your Oracle ERP application? In this chalk talk, first learn more about various deployment patterns and how you can enhance the value of your Oracle ERP by selecting the right deployment option within your entitlements. Then, learn how the ERP administration toolbox from AWS can automate common administrative tasks such as DR switchover, environment cloning, and more with deployable serverless solutions and code bases
+title: Enhance the value of and fully automate Oracle app operations on AWS
+sessionuid: 9035EED5-3129-4B27-91E0-A028B3797D8F
+thirdpartyid: ENT213
+speakers: firstName_0: Simon, lastName_0: Cunningham, firstName_1: Sridhar, lastName_1: Mahadevan
+tag_name: IT Administrator, Role, Oracle, Area of Interest, System Administrator, Role, Cross Industry, Industry, 200 - Intermediate, Level, Wednesday, Day, Caesars Forum, Venue, Amazon DevOps Guru, Services, Enterprise & Migration, Topic, IT Professional/Technical Manager, Role, Cost Optimization, Area of Interest

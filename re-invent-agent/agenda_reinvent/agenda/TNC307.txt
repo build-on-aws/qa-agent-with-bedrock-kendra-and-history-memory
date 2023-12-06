@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Venetian Ballroom J
+summary: tag_name :Developer/Engineer, Role, Cross Industry, Industry, 300 - Advanced, Level, DevOps Engineer, Role, Thursday, Day, Venetian, Venue, Lounges, Additional Services, Training & Certification, Topic, DevOps and Developer Productivity, Topic, , speakers :firstName_0: CJ, lastName_0: Taylor, , thirdpartyid :TNC307, sessionuid :668E390D-2CCA-4AFF-8DC0-2CBD00F0F230, title :Exam prep: AWS Certified DevOps Engineer – Professional, description :Prepare for the AWS Certified DevOps Engineer – Professional exam with this one-hour study session. Review 10 questions from the AWS Certified DevOps Engineer – Professional Official Practice Question Set, and get your questions answered by the subject matter expert leading the study session. Continue preparing for your exam with AWS Skill Builder, which offers flexible exam prep for all learners. Prerequisite: You must hold AWS Certification to attend this session in the AWS Certification Lounge. If you do not hold AWS Certification, search TNC301 for an alternative session., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Venetian Ballroom J, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Venetian Ballroom J
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Prepare for the AWS Certified DevOps Engineer – Professional exam with this one-hour study session. Review 10 questions from the AWS Certified DevOps Engineer – Professional Official Practice Question Set, and get your questions answered by the subject matter expert leading the study session. Continue preparing for your exam with AWS Skill Builder, which offers flexible exam prep for all learners. Prerequisite: You must hold AWS Certification to attend this session in the AWS Certification Lounge. If you do not hold AWS Certification, search TNC301 for an alternative session
+title: Exam prep: AWS Certified DevOps Engineer – Professional
+sessionuid: 668E390D-2CCA-4AFF-8DC0-2CBD00F0F230
+thirdpartyid: TNC307
+speakers: firstName_0: CJ, lastName_0: Taylor
+tag_name: Developer/Engineer, Role, Cross Industry, Industry, 300 - Advanced, Level, DevOps Engineer, Role, Thursday, Day, Venetian, Venue, Lounges, Additional Services, Training & Certification, Topic, DevOps and Developer Productivity, Topic

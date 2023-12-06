@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 121
+summary: tag_name :SaaS, Area of Interest, Cloud Operations, Topic, Cloud Security Specialist, Role, IT Executive, Role, Enterprise & Migration, Topic, IT Professional/Technical Manager, Role, Cross Industry, Industry, AWS Marketplace, Services, Thursday, Day, Caesars Forum, Venue, AWS Marketplace, Area of Interest, 100 - Foundational, Level, , speakers :firstName_0: Ankur, lastName_0: Srivastava, firstName_1: Louise, lastName_1: Strandoo, firstName_2: Edward, lastName_2: Keenan, company_2: Brookfield, , thirdpartyid :MKT101, sessionuid :A7F60502-C209-43EF-B00D-B0E4B59717A8, title :Evolving SaaS procurement and configuration in AWS Marketplace, description :SaaS is the preferred consumption model for many enterprises because it optimizes costs while improving speed and deployment agility. However, some organizations may struggle with SaaS configuration and vendor compliance assessments. In this session, learn how to reduce the time and resources required to find, validate, configure, and launch SaaS applications from leading vendors in the AWS Marketplace., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 121, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Forum 121
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: SaaS is the preferred consumption model for many enterprises because it optimizes costs while improving speed and deployment agility. However, some organizations may struggle with SaaS configuration and vendor compliance assessments. In this session, learn how to reduce the time and resources required to find, validate, configure, and launch SaaS applications from leading vendors in the AWS Marketplace
+title: Evolving SaaS procurement and configuration in AWS Marketplace
+sessionuid: A7F60502-C209-43EF-B00D-B0E4B59717A8
+thirdpartyid: MKT101
+speakers: firstName_0: Ankur, lastName_0: Srivastava, firstName_1: Louise, lastName_1: Strandoo, firstName_2: Edward, lastName_2: Keenan, company_2: Brookfield
+tag_name: SaaS, Area of Interest, Cloud Operations, Topic, Cloud Security Specialist, Role, IT Executive, Role, Enterprise & Migration, Topic, IT Professional/Technical Manager, Role, Cross Industry, Industry, AWS Marketplace, Services, Thursday, Day, Caesars Forum, Venue, AWS Marketplace, Area of Interest, 100 - Foundational, Level

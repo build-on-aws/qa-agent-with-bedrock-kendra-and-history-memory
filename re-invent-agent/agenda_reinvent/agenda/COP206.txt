@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :Cost Optimization, Area of Interest, 200 - Intermediate, Level, Management & Governance, Area of Interest, Thursday, Day, Wynn, Venue, Business Executive, Role, IT Administrator, Role, Cloud Operations, Topic, IT Professional/Technical Manager, Role, , speakers :firstName_0: Jorge, lastName_0: Lobo, firstName_1: Shankar, lastName_1: Ramachandran, , thirdpartyid :COP206-R, sessionuid :81207A28-8A93-4B49-BF6C-3BDF80C06031, title :Building your own FinOps KPIs [REPEAT], description :Creating cloud success metrics that align with your business is key to drive user accountability and cost optimization initiatives. Join this chalk talk to learn how you can identify and create your own KPI reports that can measure the efficiency of your cloud resource usage and provide actionable insights for your organization., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 23:30:00 -0500, 
+enddatetimeutc: November, 30 2023 23:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Creating cloud success metrics that align with your business is key to drive user accountability and cost optimization initiatives. Join this chalk talk to learn how you can identify and create your own KPI reports that can measure the efficiency of your cloud resource usage and provide actionable insights for your organization
+title: Building your own FinOps KPIs [REPEAT]
+sessionuid: 81207A28-8A93-4B49-BF6C-3BDF80C06031
+thirdpartyid: COP206-R
+speakers: firstName_0: Jorge, lastName_0: Lobo, firstName_1: Shankar, lastName_1: Ramachandran
+tag_name: Cost Optimization, Area of Interest, 200 - Intermediate, Level, Management & Governance, Area of Interest, Thursday, Day, Wynn, Venue, Business Executive, Role, IT Administrator, Role, Cloud Operations, Topic, IT Professional/Technical Manager, Role

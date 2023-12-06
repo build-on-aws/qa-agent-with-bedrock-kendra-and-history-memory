@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Venetian Ballroom J
+summary: tag_name :Training & Certification, Topic, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Tuesday, Day, Venetian, Venue, Lounges, Additional Services, , speakers :firstName_0: Andre, lastName_0: Zoutte, , thirdpartyid :TNC004, sessionuid :5833B9B2-A8C8-4B9E-A02B-5E5F6D50F3C0, title :How to choose a pathway for taking AWS Certification exams, description :<p>Interested in earning another AWS Certification? In this session, a certification technical architect shares advice on how to choose or continue an AWS Certification journey that aligns with your career goals. Learn how to navigate the AWS Certification paths and prepare for your next certification.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Venetian Ballroom J, startdatetimeutc :November, 28 2023 21:30:00 -0500, enddatetimeutc :November, 28 2023 22:30:00 -0500, 
+enddatetimeutc: November, 28 2023 22:30:00 -0500
+startdatetimeutc: November, 28 2023 21:30:00 -0500
+locationname: Venetian Ballroom J
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Interested in earning another AWS Certification? In this session, a certification technical architect shares advice on how to choose or continue an AWS Certification journey that aligns with your career goals. Learn how to navigate the AWS Certification paths and prepare for your next certification.</p>
+title: How to choose a pathway for taking AWS Certification exams
+sessionuid: 5833B9B2-A8C8-4B9E-A02B-5E5F6D50F3C0
+thirdpartyid: TNC004
+speakers: firstName_0: Andre, lastName_0: Zoutte
+tag_name: Training & Certification, Topic, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Tuesday, Day, Venetian, Venue, Lounges, Additional Services

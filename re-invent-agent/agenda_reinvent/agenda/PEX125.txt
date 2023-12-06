@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Thursday, Day, Venetian, Venue, Partner Enablement, Topic, AWS Community, Area of Interest, Strategy & Transformation, Area of Interest, 100 - Foundational, Level, Business Executive, Role, IT Executive, Role, Sales/Marketing, Role, , speakers :firstName_0: Mike, lastName_0: Barber, , thirdpartyid :PEX125, sessionuid :3EE6AF71-3210-4EB6-9133-257E97EFBBB9, title :Scale faster with AWS Specialization Partners, description :<p>Whether you are a small, medium, or large enterprise, there’s an AWS Partner with the right specialized expertise and demonstrated customer experience to help grow your business. But with so many partners to choose from, where do you start? Join this lightning talk to learn how AWS Specialization Partners (AWS Competency, Managed Service Providers, AWS Service Delivery, AWS Service Ready) can help you drive innovation and greater business value. Learn where to search and how to select the right AWS Specialization Partner to help you achieve your unique business objectives faster. This lightning talk is intended for AWS customers looking to work with AWS Partners.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 22:20:00 -0500, 
+enddatetimeutc: November, 30 2023 22:20:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Whether you are a small, medium, or large enterprise, there’s an AWS Partner with the right specialized expertise and demonstrated customer experience to help grow your business. But with so many partners to choose from, where do you start? Join this lightning talk to learn how AWS Specialization Partners (AWS Competency, Managed Service Providers, AWS Service Delivery, AWS Service Ready) can help you drive innovation and greater business value. Learn where to search and how to select the right AWS Specialization Partner to help you achieve your unique business objectives faster. This lightning talk is intended for AWS customers looking to work with AWS Partners.</p>
+title: Scale faster with AWS Specialization Partners
+sessionuid: 3EE6AF71-3210-4EB6-9133-257E97EFBBB9
+thirdpartyid: PEX125
+speakers: firstName_0: Mike, lastName_0: Barber
+tag_name: Thursday, Day, Venetian, Venue, Partner Enablement, Topic, AWS Community, Area of Interest, Strategy & Transformation, Area of Interest, 100 - Foundational, Level, Business Executive, Role, IT Executive, Role, Sales/Marketing, Role

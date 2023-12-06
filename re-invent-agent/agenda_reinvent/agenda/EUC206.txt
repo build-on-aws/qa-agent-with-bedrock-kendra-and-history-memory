@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 201
+summary: tag_name :SaaS, Area of Interest, Independent Software Vendor (ISV), Area of Interest, Amazon AppStream 2.0, Services, 200 - Intermediate, Level, Application Security, Area of Interest, IT Professional/Technical Manager, Role, Amazon WorkSpaces, Services, Amazon WorkSpaces Web, Services, Wednesday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, IT Executive, Role, End-User Computing, Topic, , speakers :firstName_0: Hassan, lastName_0: TA, firstName_1: Sreenivas, lastName_1: Thirunagaru, company_1: Moody's, firstName_2: Will, lastName_2: Lang, , thirdpartyid :EUC206, sessionuid :6BDAE3A4-0A25-481D-94EE-E692E55E00C8, title :Convert desktop apps to web-based delivery or SaaS without refactoring, description :<p>Most application owners want to create web-based or SaaS services out of their applications, but migration to cloud services can be a major undertaking. In this session, learn how to use Amazon AppStream 2.0 to accelerate conversion of desktop applications to web-based or SaaS delivery in minutes or hours, without refactoring or rewriting code. The session also includes guidance on how to identify and overcome organizational and operational challenges that could impede the shift to SaaS.</p>, sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 201, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Summit 201
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: <p>Most application owners want to create web-based or SaaS services out of their applications, but migration to cloud services can be a major undertaking. In this session, learn how to use Amazon AppStream 2.0 to accelerate conversion of desktop applications to web-based or SaaS delivery in minutes or hours, without refactoring or rewriting code. The session also includes guidance on how to identify and overcome organizational and operational challenges that could impede the shift to SaaS.</p>
+title: Convert desktop apps to web-based delivery or SaaS without refactoring
+sessionuid: 6BDAE3A4-0A25-481D-94EE-E692E55E00C8
+thirdpartyid: EUC206
+speakers: firstName_0: Hassan, lastName_0: TA, firstName_1: Sreenivas, lastName_1: Thirunagaru, company_1: Moody's, firstName_2: Will, lastName_2: Lang
+tag_name: SaaS, Area of Interest, Independent Software Vendor (ISV), Area of Interest, Amazon AppStream 2.0, Services, 200 - Intermediate, Level, Application Security, Area of Interest, IT Professional/Technical Manager, Role, Amazon WorkSpaces, Services, Amazon WorkSpaces Web, Services, Wednesday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, IT Executive, Role, End-User Computing, Topic

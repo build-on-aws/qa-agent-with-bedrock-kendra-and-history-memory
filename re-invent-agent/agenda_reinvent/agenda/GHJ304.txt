@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Mandalay Bay Ballroom F
+summary: tag_name :Thursday, Day, 300 - Advanced, Level, Amazon Simple Storage Service (S3), Services, Solution/Systems Architect, Role, Developer/Engineer, Role, Cross Industry, Industry, Mandalay Bay, Venue, Data Scientist, Role, AI/ML, Topic, Generative AI, Area of Interest, Amazon Bedrock, Services, AWS Lambda, Services, , speakers :firstName_0: Banjo, lastName_0: Obayomi, , thirdpartyid :GHJ304, sessionuid :057A98AD-12F8-4661-86C8-3934EC852B57, title :AWS GameDay Championship: Building with gen AI and Amazon Bedrock, description :Journey into the vast expanse of Amazon Bedrock, the easiest way to build and scale generative AI applications with foundation models. This immersive GameDay offers a dynamic sandbox to harness Amazon Bedrock’s potential by building applications using various foundation models. As you navigate a tapestry of challenges and narratives, witness firsthand the transformative power of large language models. Join this GameDay to explore, experiment, and push the boundaries of what’s possible with Amazon Bedrock. You must bring your laptop to participate., sessiontype :Gamified Learning, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Mandalay Bay Ballroom F, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Mandalay Bay Ballroom F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Gamified Learning
+description: Journey into the vast expanse of Amazon Bedrock, the easiest way to build and scale generative AI applications with foundation models. This immersive GameDay offers a dynamic sandbox to harness Amazon Bedrock’s potential by building applications using various foundation models. As you navigate a tapestry of challenges and narratives, witness firsthand the transformative power of large language models. Join this GameDay to explore, experiment, and push the boundaries of what’s possible with Amazon Bedrock. You must bring your laptop to participate
+title: AWS GameDay Championship: Building with gen AI and Amazon Bedrock
+sessionuid: 057A98AD-12F8-4661-86C8-3934EC852B57
+thirdpartyid: GHJ304
+speakers: firstName_0: Banjo, lastName_0: Obayomi
+tag_name: Thursday, Day, 300 - Advanced, Level, Amazon Simple Storage Service (S3), Services, Solution/Systems Architect, Role, Developer/Engineer, Role, Cross Industry, Industry, Mandalay Bay, Venue, Data Scientist, Role, AI/ML, Topic, Generative AI, Area of Interest, Amazon Bedrock, Services, AWS Lambda, Services

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 104
+summary: tag_name :Solution/Systems Architect, Role, Cross Industry, Industry, 300 - Advanced, Level, Amazon Elastic Container Service (ECS), Services, Serverless Compute, Topic, AWS Fargate, Services, Monday, Day, Caesars Forum, Venue, Amazon Elastic Compute Cloud (EC2), Services, Developer/Engineer, Role, Well-Architected Framework, Area of Interest, Compute, Topic, , speakers :firstName_0: Sushanth, lastName_0: Mangalore, firstName_1: Ratnopam, lastName_1: Chakrabarti, , thirdpartyid :CON316-R, sessionuid :E73460EA-79B7-4367-9F0F-84DFEF43789A, title :Amazon ECS auto scaling deep dive [REPEAT], description :Auto scaling is a powerful function of Amazon ECS that provides the ability to increase or decrease the desired count of tasks in your Amazon ECS service automatically. In this chalk talk, learn about auto scaling mechanisms of Amazon ECS like capacity providers and Amazon ECS Service Auto Scaling, including target tracking and step scaling, for Amazon EC2 and AWS Fargate. Hear about actual use cases that highlight Amazon ECS auto scaling options with various metrics specific to different workloads., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 104, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Forum 104
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Auto scaling is a powerful function of Amazon ECS that provides the ability to increase or decrease the desired count of tasks in your Amazon ECS service automatically. In this chalk talk, learn about auto scaling mechanisms of Amazon ECS like capacity providers and Amazon ECS Service Auto Scaling, including target tracking and step scaling, for Amazon EC2 and AWS Fargate. Hear about actual use cases that highlight Amazon ECS auto scaling options with various metrics specific to different workloads
+title: Amazon ECS auto scaling deep dive [REPEAT]
+sessionuid: E73460EA-79B7-4367-9F0F-84DFEF43789A
+thirdpartyid: CON316-R
+speakers: firstName_0: Sushanth, lastName_0: Mangalore, firstName_1: Ratnopam, lastName_1: Chakrabarti
+tag_name: Solution/Systems Architect, Role, Cross Industry, Industry, 300 - Advanced, Level, Amazon Elastic Container Service (ECS), Services, Serverless Compute, Topic, AWS Fargate, Services, Monday, Day, Caesars Forum, Venue, Amazon Elastic Compute Cloud (EC2), Services, Developer/Engineer, Role, Well-Architected Framework, Area of Interest, Compute, Topic

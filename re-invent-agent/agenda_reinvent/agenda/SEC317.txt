@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 304
+summary: tag_name :Solution/Systems Architect, Role, Cross Industry, Industry, Amazon Bedrock, Services, Cloud Security Specialist, Role, Generative AI, Area of Interest, Amazon OpenSearch Service, Services, Amazon SageMaker, Services, Application Security, Area of Interest, AI/ML, Topic, Security, Compliance, & Identity, Topic, MGM Grand, Venue, Monday, Day, Developer/Engineer, Role, 300 - Advanced, Level, , speakers :firstName_0: Raghavarao, lastName_0: Sodabathina, firstName_1: Brian, lastName_1: Soper, , thirdpartyid :SEC317-R, sessionuid :64670A89-6762-48DC-8663-F0815E151845, title :Building secure generative AI applications on AWS [REPEAT], description :Generative AI is one of the most disruptive technologies of our generation and has the potential to revolutionize many industries. In this chalk talk, explore how to build secure generative AI applications on AWS with Amazon SageMaker and Amazon Bedrock using various AWS services and tools spread across infrastructure and network isolation, data protection, authentication and authorization, and detective controls. Also, learn generative AI reference architectures and best practices to improve the security of your ML pipeline., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :304, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: 304
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Generative AI is one of the most disruptive technologies of our generation and has the potential to revolutionize many industries. In this chalk talk, explore how to build secure generative AI applications on AWS with Amazon SageMaker and Amazon Bedrock using various AWS services and tools spread across infrastructure and network isolation, data protection, authentication and authorization, and detective controls. Also, learn generative AI reference architectures and best practices to improve the security of your ML pipeline
+title: Building secure generative AI applications on AWS [REPEAT]
+sessionuid: 64670A89-6762-48DC-8663-F0815E151845
+thirdpartyid: SEC317-R
+speakers: firstName_0: Raghavarao, lastName_0: Sodabathina, firstName_1: Brian, lastName_1: Soper
+tag_name: Solution/Systems Architect, Role, Cross Industry, Industry, Amazon Bedrock, Services, Cloud Security Specialist, Role, Generative AI, Area of Interest, Amazon OpenSearch Service, Services, Amazon SageMaker, Services, Application Security, Area of Interest, AI/ML, Topic, Security, Compliance, & Identity, Topic, MGM Grand, Venue, Monday, Day, Developer/Engineer, Role, 300 - Advanced, Level

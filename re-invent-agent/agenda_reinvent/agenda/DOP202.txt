@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 7
+summary: tag_name :Front-End Web & Mobile, Area of Interest, 200 - Intermediate, Level, Developer/Engineer, Role, Thursday, Day, Wynn, Venue, DevOps and Developer Productivity, Topic, Amazon CodeWhisperer, Services, Generative AI, Area of Interest, , speakers :firstName_0: Ankur, lastName_0: Desai, firstName_1: Doug, lastName_1: Seven, , thirdpartyid :DOP202, sessionuid :74B9BD67-6EF4-4B67-95C5-0085265BF91D, title :Realizing the developer productivity benefits of Amazon CodeWhisperer, description :Developers spend a significant amount of their time writing undifferentiated code. Amazon CodeWhisperer, a generative AI–powered coding companion, radically improves developer productivity by generating code suggestions in real time to alleviate this burden. In this session, learn how CodeWhisperer can “write” much of this undifferentiated code, allowing developers to focus on business logic and accelerate the pace of their innovation., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 7, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: Cristal 7
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Breakout Session
+description: Developers spend a significant amount of their time writing undifferentiated code. Amazon CodeWhisperer, a generative AI–powered coding companion, radically improves developer productivity by generating code suggestions in real time to alleviate this burden. In this session, learn how CodeWhisperer can “write” much of this undifferentiated code, allowing developers to focus on business logic and accelerate the pace of their innovation
+title: Realizing the developer productivity benefits of Amazon CodeWhisperer
+sessionuid: 74B9BD67-6EF4-4B67-95C5-0085265BF91D
+thirdpartyid: DOP202
+speakers: firstName_0: Ankur, lastName_0: Desai, firstName_1: Doug, lastName_1: Seven
+tag_name: Front-End Web & Mobile, Area of Interest, 200 - Intermediate, Level, Developer/Engineer, Role, Thursday, Day, Wynn, Venue, DevOps and Developer Productivity, Topic, Amazon CodeWhisperer, Services, Generative AI, Area of Interest

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :AWS Step Functions, Services, Amazon Simple Notification Service (SNS), Services, Developer/Engineer, Role, Amazon EventBridge, Services, Amazon Simple Queue Service (SQS), Services, Resilience, Area of Interest, Monday, Day, Wynn, Venue, Serverless Compute, Topic, 300 - Advanced, Level, Solution/Systems Architect, Role, AWS Lambda, Services, DevOps Engineer, Role, , speakers :firstName_0: Vamsi, lastName_0: Vikash Ankam, firstName_1: Matt, lastName_1: Henry, , thirdpartyid :SVS315, sessionuid :3A35795C-02AB-429A-AB68-9C74564ED861, title :Automating resilience with regional awareness for your applications, description :It’s 10:00 PM, do you know where your mission-critical application is running? Join this chalk talk to discover a serverless framework built around AWS Lambda, AWS Step Functions, Amazon EventBridge, Amazon SQS, Amazon SNS, and other services to watchdog your workloads across AWS Regions and manage your business continuity strategy., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: It’s 10:00 PM, do you know where your mission-critical application is running? Join this chalk talk to discover a serverless framework built around AWS Lambda, AWS Step Functions, Amazon EventBridge, Amazon SQS, Amazon SNS, and other services to watchdog your workloads across AWS Regions and manage your business continuity strategy
+title: Automating resilience with regional awareness for your applications
+sessionuid: 3A35795C-02AB-429A-AB68-9C74564ED861
+thirdpartyid: SVS315
+speakers: firstName_0: Vamsi, lastName_0: Vikash Ankam, firstName_1: Matt, lastName_1: Henry
+tag_name: AWS Step Functions, Services, Amazon Simple Notification Service (SNS), Services, Developer/Engineer, Role, Amazon EventBridge, Services, Amazon Simple Queue Service (SQS), Services, Resilience, Area of Interest, Monday, Day, Wynn, Venue, Serverless Compute, Topic, 300 - Advanced, Level, Solution/Systems Architect, Role, AWS Lambda, Services, DevOps Engineer, Role

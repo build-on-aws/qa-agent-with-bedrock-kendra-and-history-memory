@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Surf A
+summary: tag_name :AI/ML, Topic, AWS Glue, Services, Retail, Industry, 300 - Advanced, Level, Amazon DataZone, Services, Amazon RedShift, Services, Monday, Day, Mandalay Bay, Venue, Analytics, Topic, Data Engineer, Role, , speakers :firstName_0: Avijit, lastName_0: Goswami, firstName_1: Florian, lastName_1: Mair, firstName_2: JJ, lastName_2: Johnston, firstName_3: Srividya, lastName_3: Parthasarathy, firstName_4: Varun, lastName_4: Rao Bhamidimarri, , thirdpartyid :ANT313-R, sessionuid :96664133-CC13-4F75-9BEC-AF745447A5CC, title :Use data catalogs to improve self-service analytics [REPEAT], description :In this builders’ session, learn how to discover and understand data assets by using data catalogs. Technical data catalogs from AWS Glue, business data catalogs from Amazon DataZone, and data profiling capabilities from AWS Glue come together to build a fuller picture of these data assets. Also learn how to use data from AWS services (such as Amazon Redshift and Amazon Athena), third-party sources, and SaaS sources (such as Salesforce). You must bring your own laptop to participate., sessiontype :Builders' Session, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Surf A, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Surf A
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Builders' Session
+description: In this builders’ session, learn how to discover and understand data assets by using data catalogs. Technical data catalogs from AWS Glue, business data catalogs from Amazon DataZone, and data profiling capabilities from AWS Glue come together to build a fuller picture of these data assets. Also learn how to use data from AWS services (such as Amazon Redshift and Amazon Athena), third-party sources, and SaaS sources (such as Salesforce). You must bring your own laptop to participate
+title: Use data catalogs to improve self-service analytics [REPEAT]
+sessionuid: 96664133-CC13-4F75-9BEC-AF745447A5CC
+thirdpartyid: ANT313-R
+speakers: firstName_0: Avijit, lastName_0: Goswami, firstName_1: Florian, lastName_1: Mair, firstName_2: JJ, lastName_2: Johnston, firstName_3: Srividya, lastName_3: Parthasarathy, firstName_4: Varun, lastName_4: Rao Bhamidimarri
+tag_name: AI/ML, Topic, AWS Glue, Services, Retail, Industry, 300 - Advanced, Level, Amazon DataZone, Services, Amazon RedShift, Services, Monday, Day, Mandalay Bay, Venue, Analytics, Topic, Data Engineer, Role

@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Advisor/Consultant, Role, Amazon Machine Learning (ML), Services, Strategy & Transformation, Area of Interest, Cross Industry, Industry, Amazon Bedrock, Services, Amazon QuickSight, Services, AI/ML, Topic, Analytics, Topic, Wednesday, Day, Venetian, Venue, Business Intelligence, Area of Interest, IT Executive, Role, 100 - Foundational, Level, Business Executive, Role, Generative AI, Area of Interest, , speakers :, thirdpartyid :BSI103, sessionuid :1A60E1EF-8453-4BB2-8CFC-68A5192F8AE7, title :Generative BI in Amazon QuickSight, description :In this follow-up demo to BSI101, go in-depth on how you can infuse generative AI into data analytics and decision-making processes. See how the new generative BI capabilities in Amazon QuickSight allow business analysts to author dashboards using natural language and how business users can easily dive deep into analyzing their data by simply asking questions. Discover how business users can also use generative BI capabilities to quickly create compelling stories to drive decision-making., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :November, 29 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 23:50:00 -0500, 
+enddatetimeutc: November, 29 2023 23:50:00 -0500
+startdatetimeutc: November, 29 2023 23:30:00 -0500
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: In this follow-up demo to BSI101, go in-depth on how you can infuse generative AI into data analytics and decision-making processes. See how the new generative BI capabilities in Amazon QuickSight allow business analysts to author dashboards using natural language and how business users can easily dive deep into analyzing their data by simply asking questions. Discover how business users can also use generative BI capabilities to quickly create compelling stories to drive decision-making
+title: Generative BI in Amazon QuickSight
+sessionuid: 1A60E1EF-8453-4BB2-8CFC-68A5192F8AE7
+thirdpartyid: BSI103
+speakers: 
+tag_name: Advisor/Consultant, Role, Amazon Machine Learning (ML), Services, Strategy & Transformation, Area of Interest, Cross Industry, Industry, Amazon Bedrock, Services, Amazon QuickSight, Services, AI/ML, Topic, Analytics, Topic, Wednesday, Day, Venetian, Venue, Business Intelligence, Area of Interest, IT Executive, Role, 100 - Foundational, Level, Business Executive, Role, Generative AI, Area of Interest

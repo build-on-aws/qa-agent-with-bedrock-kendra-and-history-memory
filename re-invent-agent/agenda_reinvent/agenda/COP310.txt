@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 167
+summary: tag_name :Amazon Managed Service for Prometheus, Services, Management & Governance, Area of Interest, Amazon CloudWatch, Services, Monitoring & Observability, Area of Interest, Cloud Operations, Topic, DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Monday, Day, MGM Grand, Venue, Amazon Elastic Kubernetes Service (EKS), Services, 300 - Advanced, Level, , speakers :firstName_0: Jean, lastName_0: Schwerer, firstName_1: Saurabh, lastName_1: Garg, , thirdpartyid :COP310-R, sessionuid :6AC72C91-1BF5-486C-A686-D439AC576228, title :Best practices to optimize Amazon CloudWatch spend [REPEAT], description :<p>In this chalk talk, gain insights into how CloudWatch costs work, learn how to analyze CloudWatch costs, and dive into various CloudWatch feature usages and their costs. Get guidance on defining your strategy to optimize your spend; learn best practices on batching, scaling, and more; and hear about new capabilities to help you manage your CloudWatch costs.</p>, sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 167, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Boulevard 167
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: <p>In this chalk talk, gain insights into how CloudWatch costs work, learn how to analyze CloudWatch costs, and dive into various CloudWatch feature usages and their costs. Get guidance on defining your strategy to optimize your spend; learn best practices on batching, scaling, and more; and hear about new capabilities to help you manage your CloudWatch costs.</p>
+title: Best practices to optimize Amazon CloudWatch spend [REPEAT]
+sessionuid: 6AC72C91-1BF5-486C-A686-D439AC576228
+thirdpartyid: COP310-R
+speakers: firstName_0: Jean, lastName_0: Schwerer, firstName_1: Saurabh, lastName_1: Garg
+tag_name: Amazon Managed Service for Prometheus, Services, Management & Governance, Area of Interest, Amazon CloudWatch, Services, Monitoring & Observability, Area of Interest, Cloud Operations, Topic, DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Monday, Day, MGM Grand, Venue, Amazon Elastic Kubernetes Service (EKS), Services, 300 - Advanced, Level

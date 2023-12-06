@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas E
+summary: tag_name :200 - Intermediate, Level, Developer/Engineer, Role, Application Security, Area of Interest, Well-Architected Framework, Area of Interest, DevOps Engineer, Role, AWS Cloud Development Kit (CDK), Services, AWS CloudFormation, Services, DevOps and Developer Productivity, Topic, Wednesday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Damian, lastName_0: Silbergleith Cunniff, company_0: GoDaddy, firstName_1: Eric, lastName_1: Beard, firstName_2: Kevin, lastName_2: DeJong, , thirdpartyid :DOP209, sessionuid :4DF998FB-A5CD-4D5D-BF51-8602EED42BE5, title :Governance and security with infrastructure as code, description :In this session, learn how to use AWS CloudFormation and the AWS CDK to deploy cloud applications in regulated environments while enforcing security controls. Find out how to catch issues early with cdk-nag, validate your pipelines with cfn-guard, and protect your accounts from unintended changes with CloudFormation hooks., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas E, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 21:00:00 -0500, 
+enddatetimeutc: November, 29 2023 21:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: South Seas E
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: In this session, learn how to use AWS CloudFormation and the AWS CDK to deploy cloud applications in regulated environments while enforcing security controls. Find out how to catch issues early with cdk-nag, validate your pipelines with cfn-guard, and protect your accounts from unintended changes with CloudFormation hooks
+title: Governance and security with infrastructure as code
+sessionuid: 4DF998FB-A5CD-4D5D-BF51-8602EED42BE5
+thirdpartyid: DOP209
+speakers: firstName_0: Damian, lastName_0: Silbergleith Cunniff, company_0: GoDaddy, firstName_1: Eric, lastName_1: Beard, firstName_2: Kevin, lastName_2: DeJong
+tag_name: 200 - Intermediate, Level, Developer/Engineer, Role, Application Security, Area of Interest, Well-Architected Framework, Area of Interest, DevOps Engineer, Role, AWS Cloud Development Kit (CDK), Services, AWS CloudFormation, Services, DevOps and Developer Productivity, Topic, Wednesday, Day, Mandalay Bay, Venue

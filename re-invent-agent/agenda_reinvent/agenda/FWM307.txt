@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 123
+summary: tag_name :DevOps and Developer Productivity, Topic, AWS Device Farm, Services, 300 - Advanced, Level, DevOps Engineer, Role, Monday, Day, MGM Grand, Venue, Front-End Web & Mobile, Area of Interest, Developer/Engineer, Role, , speakers :firstName_0: Jon, lastName_0: Sims, firstName_1: Nishant, lastName_1: Dhiman, , thirdpartyid :FWM307, sessionuid :4DF5EB2F-119D-46C4-A490-C478A6DA1929, title :Test your mobile applications with AWS Device Farm, description :<p>AWS Device Farm is an application testing service that helps you improve the quality of your mobile applications by testing them across an extensive range of real mobile devices without having to provision and manage any testing infrastructure. This workshop provides hands-on guidance for software engineers, quality assurance engineers, software testers, performance engineers, and architects on how to get started using Device Farm. In this workshop, compile and run a sample automation test suite across a broad selection of Device Farm devices. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 123, startdatetimeutc :November, 27 2023 16:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 16:00:00 -0500
+locationname: Grand 123
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>AWS Device Farm is an application testing service that helps you improve the quality of your mobile applications by testing them across an extensive range of real mobile devices without having to provision and manage any testing infrastructure. This workshop provides hands-on guidance for software engineers, quality assurance engineers, software testers, performance engineers, and architects on how to get started using Device Farm. In this workshop, compile and run a sample automation test suite across a broad selection of Device Farm devices. You must bring your laptop to participate.</p>
+title: Test your mobile applications with AWS Device Farm
+sessionuid: 4DF5EB2F-119D-46C4-A490-C478A6DA1929
+thirdpartyid: FWM307
+speakers: firstName_0: Jon, lastName_0: Sims, firstName_1: Nishant, lastName_1: Dhiman
+tag_name: DevOps and Developer Productivity, Topic, AWS Device Farm, Services, 300 - Advanced, Level, DevOps Engineer, Role, Monday, Day, MGM Grand, Venue, Front-End Web & Mobile, Area of Interest, Developer/Engineer, Role

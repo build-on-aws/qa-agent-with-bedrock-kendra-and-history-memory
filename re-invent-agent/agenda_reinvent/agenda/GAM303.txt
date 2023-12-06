@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 115
+summary: tag_name :Amazon GameLift, Services, Architecture, Topic, Games, Industry, 300 - Advanced, Level, Wednesday, Day, Caesars Forum, Venue, Well-Architected Framework, Area of Interest, Serverless Compute, Topic, , speakers :firstName_0: Juho, lastName_0: Jantunen, firstName_1: Toni, lastName_1: Syvanen, , thirdpartyid :GAM303-R, sessionuid :D3D676D8-6AAE-4FA7-B1FD-02655D15916A, title :Deploy multiplayer games with compute, containers, and Amazon GameLift [REPEAT], description :Launching a global game that meets player expectations can be challenging. In this chalk talk, learn how to create a multiplayer game infrastructure that supports your game around the globe. Explore different architectures that can optimize your game server solution, backend design, and network performance. Learn how to utilize a serverless architecture to host a backend and how to choose the right game server hosting solution to meet your needs, including fully managed solutions such as Amazon GameLift, container-based solutions on Amazon EKS or Amazon ECS, or hosting on virtual machines with Amazon EC2., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 115, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Forum 115
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Launching a global game that meets player expectations can be challenging. In this chalk talk, learn how to create a multiplayer game infrastructure that supports your game around the globe. Explore different architectures that can optimize your game server solution, backend design, and network performance. Learn how to utilize a serverless architecture to host a backend and how to choose the right game server hosting solution to meet your needs, including fully managed solutions such as Amazon GameLift, container-based solutions on Amazon EKS or Amazon ECS, or hosting on virtual machines with Amazon EC2
+title: Deploy multiplayer games with compute, containers, and Amazon GameLift [REPEAT]
+sessionuid: D3D676D8-6AAE-4FA7-B1FD-02655D15916A
+thirdpartyid: GAM303-R
+speakers: firstName_0: Juho, lastName_0: Jantunen, firstName_1: Toni, lastName_1: Syvanen
+tag_name: Amazon GameLift, Services, Architecture, Topic, Games, Industry, 300 - Advanced, Level, Wednesday, Day, Caesars Forum, Venue, Well-Architected Framework, Area of Interest, Serverless Compute, Topic

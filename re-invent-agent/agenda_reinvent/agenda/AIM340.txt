@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :Generative AI, Area of Interest, Solution/Systems Architect, Role, Life Sciences, Industry, Financial Services, Industry, Cross Industry, Industry, 300 - Advanced, Level, Wednesday, Day, Wynn, Venue, Developer/Engineer, Role, Innovation on AWS, Area of Interest, Application Integration, Area of Interest, AI/ML, Topic, Amazon Bedrock, Services, IT Professional/Technical Manager, Role, , speakers :firstName_0: Tarun, lastName_0: Sairam, firstName_1: Antonio, lastName_1: Rodriguez, , thirdpartyid :AIM340-R, sessionuid :F20CF8BA-49BD-44CC-A5FC-AD33FB6D201F, title :Customize your FMs securely to deliver differentiated experiences [REPEAT], description :Foundation model (FM) customizations help you build differentiated generative AI applications using your own data. It’s easy to securely customize models in Amazon Bedrock. You can point Amazon Bedrock at a few labeled examples in Amazon S3, and the service can fine-tune the FM for a particular task without having to annotate large volumes of data; none of your data is used to train the original base FMs. Join this chalk talk for a deep dive on FM customizations through an interactive demo., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 30 2023 02:00:00 -0500, enddatetimeutc :November, 30 2023 03:00:00 -0500, 
+enddatetimeutc: November, 30 2023 03:00:00 -0500
+startdatetimeutc: November, 30 2023 02:00:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Foundation model (FM) customizations help you build differentiated generative AI applications using your own data. It’s easy to securely customize models in Amazon Bedrock. You can point Amazon Bedrock at a few labeled examples in Amazon S3, and the service can fine-tune the FM for a particular task without having to annotate large volumes of data; none of your data is used to train the original base FMs. Join this chalk talk for a deep dive on FM customizations through an interactive demo
+title: Customize your FMs securely to deliver differentiated experiences [REPEAT]
+sessionuid: F20CF8BA-49BD-44CC-A5FC-AD33FB6D201F
+thirdpartyid: AIM340-R
+speakers: firstName_0: Tarun, lastName_0: Sairam, firstName_1: Antonio, lastName_1: Rodriguez
+tag_name: Generative AI, Area of Interest, Solution/Systems Architect, Role, Life Sciences, Industry, Financial Services, Industry, Cross Industry, Industry, 300 - Advanced, Level, Wednesday, Day, Wynn, Venue, Developer/Engineer, Role, Innovation on AWS, Area of Interest, Application Integration, Area of Interest, AI/ML, Topic, Amazon Bedrock, Services, IT Professional/Technical Manager, Role

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 101
+summary: tag_name :Storage, Topic, Financial Services, Industry, 300 - Advanced, Level, Amazon Simple Storage Service (S3), Services, Wednesday, Day, MGM Grand, Venue, Developer/Engineer, Role, Retail, Industry, Cost Optimization, Area of Interest, AWS DataSync, Services, Healthcare, Industry, System Administrator, Role, Migration & Transfer, Area of Interest, Solution/Systems Architect, Role, , speakers :firstName_0: Darryl, lastName_0: Diosomito, firstName_1: Tugba, lastName_1: Goksel, , thirdpartyid :STG347, sessionuid :978C221A-3D35-4D02-BFB5-EDE494FD236B, title :Multicloud data movement best practices with AWS DataSync, description :Join this chalk talk to learn how to efficiently move data to and from other cloud providers and AWS. Discover how to configure AWS DataSync to begin multicloud data transfers and connect through specific endpoints, and receive an overview of the differences for each supported cloud. Learn how, with DataSync, you can move your object data at scale between other clouds and AWS storage services such as Amazon S3., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :101, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: 101
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Join this chalk talk to learn how to efficiently move data to and from other cloud providers and AWS. Discover how to configure AWS DataSync to begin multicloud data transfers and connect through specific endpoints, and receive an overview of the differences for each supported cloud. Learn how, with DataSync, you can move your object data at scale between other clouds and AWS storage services such as Amazon S3
+title: Multicloud data movement best practices with AWS DataSync
+sessionuid: 978C221A-3D35-4D02-BFB5-EDE494FD236B
+thirdpartyid: STG347
+speakers: firstName_0: Darryl, lastName_0: Diosomito, firstName_1: Tugba, lastName_1: Goksel
+tag_name: Storage, Topic, Financial Services, Industry, 300 - Advanced, Level, Amazon Simple Storage Service (S3), Services, Wednesday, Day, MGM Grand, Venue, Developer/Engineer, Role, Retail, Industry, Cost Optimization, Area of Interest, AWS DataSync, Services, Healthcare, Industry, System Administrator, Role, Migration & Transfer, Area of Interest, Solution/Systems Architect, Role

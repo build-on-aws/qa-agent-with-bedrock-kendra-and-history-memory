@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 9
+summary: tag_name :200 - Intermediate, Level, Monday, Day, Security, Compliance, & Identity, Topic, Wynn, Venue, , speakers :firstName_0: Hart, lastName_0: Rossman, firstName_1: Sarah, lastName_1: Currey, , thirdpartyid :SEC211, sessionuid :6626776C-5307-42F1-8C40-0F1A68564699, title :Sustainable security culture: Empower builders for success, description :While machines can be a predictable element of your security strategy, influencing human behavior remains the ultimate challenge in building a sustainable security culture. Fostering a proactive, resilient security mindset to enable effective risk mitigation, event response, and collaboration can be challenging. Thoughtful investment in principles of inclusivity and psychological safety help organizations move quickly and stay secure. Learn practical strategies to build an escalation-friendly culture to empower your teams to champion security at scale. With an actionable roadmap as a guide, you leave this session equipped to reinforce your security culture through inclusive leadership and empathy in stressful situations., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 9, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Lafite 9
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: While machines can be a predictable element of your security strategy, influencing human behavior remains the ultimate challenge in building a sustainable security culture. Fostering a proactive, resilient security mindset to enable effective risk mitigation, event response, and collaboration can be challenging. Thoughtful investment in principles of inclusivity and psychological safety help organizations move quickly and stay secure. Learn practical strategies to build an escalation-friendly culture to empower your teams to champion security at scale. With an actionable roadmap as a guide, you leave this session equipped to reinforce your security culture through inclusive leadership and empathy in stressful situations
+title: Sustainable security culture: Empower builders for success
+sessionuid: 6626776C-5307-42F1-8C40-0F1A68564699
+thirdpartyid: SEC211
+speakers: firstName_0: Hart, lastName_0: Rossman, firstName_1: Sarah, lastName_1: Currey
+tag_name: 200 - Intermediate, Level, Monday, Day, Security, Compliance, & Identity, Topic, Wynn, Venue

@@ -1,0 +1,14 @@
+location: , , 
+summary: tag_name :Tuesday, Day, Caesars Forum, Venue, Mandalay Bay, Venue, MGM Grand, Venue, Venetian, Venue, Wynn, Venue, Meals & Conference Services, Additional Services, , speakers :, thirdpartyid :ACT010, sessionuid :19F049AD-9C2F-44EB-99AA-896176650B07, title :Tuesday lunch, description :Lunch for attendees is served in Caesars Forum, Forum 130; Mandalay Bay, Level 2, Shoreline Hall; MGM Grand, Level 1, Marquee Ballroom; The Venetian, Level 1, Hall G; and Wynn, Cristal Ballroom 2., sessiontype :Community Activities, venuename :, floorplanname :, locationname :, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: 
+floorplanname: 
+venuename: 
+sessiontype: Community Activities
+description: Lunch for attendees is served in Caesars Forum, Forum 130; Mandalay Bay, Level 2, Shoreline Hall; MGM Grand, Level 1, Marquee Ballroom; The Venetian, Level 1, Hall G; and Wynn, Cristal Ballroom 2
+title: Tuesday lunch
+sessionuid: 19F049AD-9C2F-44EB-99AA-896176650B07
+thirdpartyid: ACT010
+speakers: 
+tag_name: Tuesday, Day, Caesars Forum, Venue, Mandalay Bay, Venue, MGM Grand, Venue, Venetian, Venue, Wynn, Venue, Meals & Conference Services, Additional Services

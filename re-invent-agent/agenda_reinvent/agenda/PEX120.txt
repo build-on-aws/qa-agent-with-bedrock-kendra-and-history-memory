@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Business Executive, Role, 100 - Foundational, Level, Strategy & Transformation, Area of Interest, AWS Community, Area of Interest, Thursday, Day, Venetian, Venue, IT Executive, Role, Sales/Marketing, Role, Partner Enablement, Topic, , speakers :firstName_0: Jen, lastName_0: Letourneau, firstName_1: Shilpi, lastName_1: Mitra Bardoloi, , thirdpartyid :PEX120, sessionuid :72910525-2868-4DF9-B405-DD0020125337, title :Launch and progress your AWS offering: 5 tips from APN Sales, description :Join the AWS Partner journey team to learn what an offering means to AWS and how we focus on progressing offerings through the AWS Partner Network (APN) journey to support your go-to-market (GTM) needs. In this lightning talk, review the considerations for translating your technical capabilities into GTM offerings and dive deep into how to market these offerings to AWS customers and sellers. Get five tips and tricks that have been field tested with our partner sales manager communities and get a checklist and additional resources for you to progress your offering when you return home. This lightning talk is intended for AWS Partners., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 30 2023 21:30:00 -0500, enddatetimeutc :November, 30 2023 21:50:00 -0500, 
+enddatetimeutc: November, 30 2023 21:50:00 -0500
+startdatetimeutc: November, 30 2023 21:30:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Join the AWS Partner journey team to learn what an offering means to AWS and how we focus on progressing offerings through the AWS Partner Network (APN) journey to support your go-to-market (GTM) needs. In this lightning talk, review the considerations for translating your technical capabilities into GTM offerings and dive deep into how to market these offerings to AWS customers and sellers. Get five tips and tricks that have been field tested with our partner sales manager communities and get a checklist and additional resources for you to progress your offering when you return home. This lightning talk is intended for AWS Partners
+title: Launch and progress your AWS offering: 5 tips from APN Sales
+sessionuid: 72910525-2868-4DF9-B405-DD0020125337
+thirdpartyid: PEX120
+speakers: firstName_0: Jen, lastName_0: Letourneau, firstName_1: Shilpi, lastName_1: Mitra Bardoloi
+tag_name: Business Executive, Role, 100 - Foundational, Level, Strategy & Transformation, Area of Interest, AWS Community, Area of Interest, Thursday, Day, Venetian, Venue, IT Executive, Role, Sales/Marketing, Role, Partner Enablement, Topic

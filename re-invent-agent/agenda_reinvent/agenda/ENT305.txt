@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 312
+summary: tag_name :System Administrator, Role, Amazon Elastic Compute Cloud (EC2), Services, Data Engineer, Role, Amazon Relational Database Service (RDS), Services, Enterprise & Migration, Topic, Cross Industry, Industry, Microsoft, Area of Interest, Wednesday, Day, MGM Grand, Venue, 300 - Advanced, Level, Solution/Systems Architect, Role, , speakers :firstName_0: Gene, lastName_0: Mays, firstName_1: Zen, lastName_1: Zhang, , thirdpartyid :ENT305, sessionuid :E5FCEB3B-FA4B-49C6-A74A-9F3A158E34BA, title :How to optimize SQL Server on AWS to speed up performance, description :<p>To optimize SQL Server performance on AWS, the order of optimization is server level, instance level, database level, and then statement level. In this workshop, learn server- and instance-level performance-tuning techniques using native T-SQL with Amazon RDS for SQL Server and Amazon EC2 for SQL Server. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 312, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 21:30:00 -0500, 
+enddatetimeutc: November, 29 2023 21:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Premier 312
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>To optimize SQL Server performance on AWS, the order of optimization is server level, instance level, database level, and then statement level. In this workshop, learn server- and instance-level performance-tuning techniques using native T-SQL with Amazon RDS for SQL Server and Amazon EC2 for SQL Server. You must bring your laptop to participate.</p>
+title: How to optimize SQL Server on AWS to speed up performance
+sessionuid: E5FCEB3B-FA4B-49C6-A74A-9F3A158E34BA
+thirdpartyid: ENT305
+speakers: firstName_0: Gene, lastName_0: Mays, firstName_1: Zen, lastName_1: Zhang
+tag_name: System Administrator, Role, Amazon Elastic Compute Cloud (EC2), Services, Data Engineer, Role, Amazon Relational Database Service (RDS), Services, Enterprise & Migration, Topic, Cross Industry, Industry, Microsoft, Area of Interest, Wednesday, Day, MGM Grand, Venue, 300 - Advanced, Level, Solution/Systems Architect, Role

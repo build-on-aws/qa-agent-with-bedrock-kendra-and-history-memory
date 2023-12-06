@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 1
+summary: tag_name :Enterprise & Migration, Topic, BuildOn.AWS, Area of Interest, Cross Industry, Industry, Amazon Elastic Compute Cloud (EC2), Services, Solution/Systems Architect, Role, Developer/Engineer, Role, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Wednesday, Day, Wynn, Venue, Microsoft, Area of Interest, Migration & Transfer, Area of Interest, , speakers :firstName_0: Juan Pablo, lastName_0: Melgarejo Zamora, firstName_1: Mo, lastName_1: Mohoboob, , thirdpartyid :ENT306-R, sessionuid :3841C9BB-C3B5-4D9C-A677-EE4FCC509D42, title :Migrate, optimize, and modernize a Microsoft application in 2 hours [REPEAT], description :<p>A fictitious charity organization is looking to make life better for all and is ready to modernize its Microsoft-based web application. They want to eliminate licensing costs, reduce the burden on their builders, and reach out to more people in need. In this workshop, you are a builder for this charity organization. Learn how to migrate from traditional servers to modern cloud-based technologies and optimize to increase availability while reducing monthly spend. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 1, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 00:30:00 -0500, 
+enddatetimeutc: November, 30 2023 00:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Cristal 1
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: <p>A fictitious charity organization is looking to make life better for all and is ready to modernize its Microsoft-based web application. They want to eliminate licensing costs, reduce the burden on their builders, and reach out to more people in need. In this workshop, you are a builder for this charity organization. Learn how to migrate from traditional servers to modern cloud-based technologies and optimize to increase availability while reducing monthly spend. You must bring your laptop to participate.</p>
+title: Migrate, optimize, and modernize a Microsoft application in 2 hours [REPEAT]
+sessionuid: 3841C9BB-C3B5-4D9C-A677-EE4FCC509D42
+thirdpartyid: ENT306-R
+speakers: firstName_0: Juan Pablo, lastName_0: Melgarejo Zamora, firstName_1: Mo, lastName_1: Mohoboob
+tag_name: Enterprise & Migration, Topic, BuildOn.AWS, Area of Interest, Cross Industry, Industry, Amazon Elastic Compute Cloud (EC2), Services, Solution/Systems Architect, Role, Developer/Engineer, Role, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Wednesday, Day, Wynn, Venue, Microsoft, Area of Interest, Migration & Transfer, Area of Interest

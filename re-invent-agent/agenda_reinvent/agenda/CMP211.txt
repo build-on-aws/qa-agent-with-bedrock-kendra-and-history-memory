@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :Monitoring & Observability, Area of Interest, Developer/Engineer, Role, Amazon Elastic Compute Cloud (EC2), Services, Cost Optimization, Area of Interest, 200 - Intermediate, Level, AWS Billing and Cost Management, Services, IT Professional/Technical Manager, Role, Tuesday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, AWS Compute Optimizer, Services, Cross Industry, Industry, Compute, Topic, , speakers :firstName_0: Boyd, lastName_0: McGeachie, , thirdpartyid :CMP211, sessionuid :202BCA7F-6C9C-4233-AE56-1B13C99681C7, title :Smart savings: Amazon EC2 cost-optimization strategies, description :Discover untapped Amazon EC2 savings through AWS services, tools, and optimization strategies. In this session, learn best practices to reduce your compute costs on AWS. Explore both technical and non-technical approaches, from the basics of AWS Savings Plans and Amazon EC2 Auto Scaling to more advanced strategies like Amazon EC2 Spot Instances, AWS Graviton, automation, and more. Let this session be your guide to building cost-effective, sustainable infrastructure on AWS., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: Discover untapped Amazon EC2 savings through AWS services, tools, and optimization strategies. In this session, learn best practices to reduce your compute costs on AWS. Explore both technical and non-technical approaches, from the basics of AWS Savings Plans and Amazon EC2 Auto Scaling to more advanced strategies like Amazon EC2 Spot Instances, AWS Graviton, automation, and more. Let this session be your guide to building cost-effective, sustainable infrastructure on AWS
+title: Smart savings: Amazon EC2 cost-optimization strategies
+sessionuid: 202BCA7F-6C9C-4233-AE56-1B13C99681C7
+thirdpartyid: CMP211
+speakers: firstName_0: Boyd, lastName_0: McGeachie
+tag_name: Monitoring & Observability, Area of Interest, Developer/Engineer, Role, Amazon Elastic Compute Cloud (EC2), Services, Cost Optimization, Area of Interest, 200 - Intermediate, Level, AWS Billing and Cost Management, Services, IT Professional/Technical Manager, Role, Tuesday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, AWS Compute Optimizer, Services, Cross Industry, Industry, Compute, Topic

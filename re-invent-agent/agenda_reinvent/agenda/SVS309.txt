@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 9
+summary: tag_name :DevOps Engineer, Role, Serverless Compute, Topic, AWS Serverless Application Model (SAM), Services, 300 - Advanced, Level, Customer Stories, Area of Interest, Security, Compliance, & Identity, Topic, Tuesday, Day, Wynn, Venue, Solution/Systems Architect, Role, Developer/Engineer, Role, AWS Lambda, Services, , speakers :firstName_0: Heeki, lastName_0: Park, firstName_1: Sam, lastName_1: Dengler, company_1: Capital One, , thirdpartyid :SVS309, sessionuid :BD8998F7-BD38-474F-A5F9-44CDF5502BF4, title :Improve productivity by shifting more responsibility to developers, description :<p>Enterprise-based serverless developers are often subject to constraints and compliance checks that can slow deployment and feedback loops. Shift-left practices can empower developers with tools that help test and validate code compliance prior to committing to repositories. In this session, learn about approaches to accelerate serverless development with faster feedback cycles. Explore best practices and tools. Watch a live demo featuring an improved developer experience for building serverless applications while complying with enterprise governance requirements.</p>, sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 9, startdatetimeutc :November, 29 2023 00:00:00 -0500, enddatetimeutc :November, 29 2023 01:00:00 -0500, 
+enddatetimeutc: November, 29 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 00:00:00 -0500
+locationname: Lafite 9
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: <p>Enterprise-based serverless developers are often subject to constraints and compliance checks that can slow deployment and feedback loops. Shift-left practices can empower developers with tools that help test and validate code compliance prior to committing to repositories. In this session, learn about approaches to accelerate serverless development with faster feedback cycles. Explore best practices and tools. Watch a live demo featuring an improved developer experience for building serverless applications while complying with enterprise governance requirements.</p>
+title: Improve productivity by shifting more responsibility to developers
+sessionuid: BD8998F7-BD38-474F-A5F9-44CDF5502BF4
+thirdpartyid: SVS309
+speakers: firstName_0: Heeki, lastName_0: Park, firstName_1: Sam, lastName_1: Dengler, company_1: Capital One
+tag_name: DevOps Engineer, Role, Serverless Compute, Topic, AWS Serverless Application Model (SAM), Services, 300 - Advanced, Level, Customer Stories, Area of Interest, Security, Compliance, & Identity, Topic, Tuesday, Day, Wynn, Venue, Solution/Systems Architect, Role, Developer/Engineer, Role, AWS Lambda, Services

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 368
+summary: tag_name :IT Administrator, Role, Storage, Topic, Amazon S3 Glacier, Services, Amazon Simple Storage Service (S3), Services, System Administrator, Role, Cost Optimization, Area of Interest, Network & Infrastructure Security, Area of Interest, Business Applications, Topic, Innovation on AWS, Area of Interest, 200 - Intermediate, Level, Wednesday, Day, MGM Grand, Venue, Cross Industry, Industry, Media & Entertainment, Industry, Financial Services, Industry, Solution/Systems Architect, Role, , speakers :firstName_0: Bijeta, lastName_0: Chakraborty, firstName_1: Paul, lastName_1: Meighan, , thirdpartyid :STG204, sessionuid :ED0A1D82-03CD-4F6C-A010-6D4825398B23, title :What’s new with Amazon S3, description :Amazon S3 continues to deliver new innovations to help you securely store your data for virtually unlimited use cases. From new security defaults and dual-layer encryption to a high-performance open source file client and more, Amazon S3 continues to innovate and differentiate from other cloud storage offerings. Join this session to learn about new features in Amazon S3 and practical tips for how those features can help you secure, manage, and optimize your data., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 368, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Chairmans 368
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Amazon S3 continues to deliver new innovations to help you securely store your data for virtually unlimited use cases. From new security defaults and dual-layer encryption to a high-performance open source file client and more, Amazon S3 continues to innovate and differentiate from other cloud storage offerings. Join this session to learn about new features in Amazon S3 and practical tips for how those features can help you secure, manage, and optimize your data
+title: What’s new with Amazon S3
+sessionuid: ED0A1D82-03CD-4F6C-A010-6D4825398B23
+thirdpartyid: STG204
+speakers: firstName_0: Bijeta, lastName_0: Chakraborty, firstName_1: Paul, lastName_1: Meighan
+tag_name: IT Administrator, Role, Storage, Topic, Amazon S3 Glacier, Services, Amazon Simple Storage Service (S3), Services, System Administrator, Role, Cost Optimization, Area of Interest, Network & Infrastructure Security, Area of Interest, Business Applications, Topic, Innovation on AWS, Area of Interest, 200 - Intermediate, Level, Wednesday, Day, MGM Grand, Venue, Cross Industry, Industry, Media & Entertainment, Industry, Financial Services, Industry, Solution/Systems Architect, Role

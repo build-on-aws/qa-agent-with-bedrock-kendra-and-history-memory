@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 318
+summary: tag_name :Advisor/Consultant, Role, Amazon Athena, Services, Customer Stories, Area of Interest, Telecommunications, Industry, Amazon SageMaker, Services, Compute, Topic, Aerospace & Satellite, Industry, BuildOn.AWS, Area of Interest, Manufacturing & Industrial, Industry, 300 - Advanced, Level, MGM Grand, Venue, Monday, Day, Innovation on AWS, Area of Interest, Amazon Relational Database Service (RDS), Services, Developer/Engineer, Role, Solution/Systems Architect, Role, , speakers :firstName_0: Matthew, lastName_0: Lydon, firstName_1: Nathan, lastName_1: McGuirt, firstName_2: Yudhajeet, lastName_2: Dasgupta, , thirdpartyid :AES304, sessionuid :66F3D849-FC4A-491A-8FDB-D8D182A40C15, title :Rocket science: Process, store, and analyze engine test data on AWS, description :<p>AWS supports a variety of users building and testing propulsion systems. In this session, discover how you can use AWS to collect, process, store, and analyze engine hot-fire testing data. Explore example architectures and walk through the various design tradeoffs and then discuss how the approaches could be applicable to a variety of other physical testing use cases.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 318, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 20:30:00 -0500, 
+enddatetimeutc: November, 27 2023 20:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Premier 318
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>AWS supports a variety of users building and testing propulsion systems. In this session, discover how you can use AWS to collect, process, store, and analyze engine hot-fire testing data. Explore example architectures and walk through the various design tradeoffs and then discuss how the approaches could be applicable to a variety of other physical testing use cases.</p>
+title: Rocket science: Process, store, and analyze engine test data on AWS
+sessionuid: 66F3D849-FC4A-491A-8FDB-D8D182A40C15
+thirdpartyid: AES304
+speakers: firstName_0: Matthew, lastName_0: Lydon, firstName_1: Nathan, lastName_1: McGuirt, firstName_2: Yudhajeet, lastName_2: Dasgupta
+tag_name: Advisor/Consultant, Role, Amazon Athena, Services, Customer Stories, Area of Interest, Telecommunications, Industry, Amazon SageMaker, Services, Compute, Topic, Aerospace & Satellite, Industry, BuildOn.AWS, Area of Interest, Manufacturing & Industrial, Industry, 300 - Advanced, Level, MGM Grand, Venue, Monday, Day, Innovation on AWS, Area of Interest, Amazon Relational Database Service (RDS), Services, Developer/Engineer, Role, Solution/Systems Architect, Role

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :300 - Advanced, Level, AI/ML, Topic, Cross Industry, Industry, Business Applications, Topic, IT Professional/Technical Manager, Role, Generative AI, Area of Interest, Solution/Systems Architect, Role, Wednesday, Day, Wynn, Venue, Cost Optimization, Area of Interest, Amazon Bedrock, Services, Developer/Engineer, Role, Amazon Connect, Services, , speakers :firstName_0: Ayesha, lastName_0: Borker, firstName_1: Rahul, lastName_1: Kulkarni, , thirdpartyid :BIZ308, sessionuid :E453E3F1-E3B8-4117-A94A-1321AD95C210, title :Empower your contact center agents with Amazon Connect & generative AI, description :Empowering agents to better serve customer needs and improving agent productivity are crucial to the success of every contact center. In this chalk talk, walk through real-world contact center scenarios and see live demonstrations on how AI-powered agent capabilities in Amazon Connect like Voice ID, Wisdom, Customer Profiles, Cases, Tasks, and step-by-step guides come together to create a seamless and productive experience for your agents and customers. Also, discover how generative AI can help further enhance agent effectiveness., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Empowering agents to better serve customer needs and improving agent productivity are crucial to the success of every contact center. In this chalk talk, walk through real-world contact center scenarios and see live demonstrations on how AI-powered agent capabilities in Amazon Connect like Voice ID, Wisdom, Customer Profiles, Cases, Tasks, and step-by-step guides come together to create a seamless and productive experience for your agents and customers. Also, discover how generative AI can help further enhance agent effectiveness
+title: Empower your contact center agents with Amazon Connect & generative AI
+sessionuid: E453E3F1-E3B8-4117-A94A-1321AD95C210
+thirdpartyid: BIZ308
+speakers: firstName_0: Ayesha, lastName_0: Borker, firstName_1: Rahul, lastName_1: Kulkarni
+tag_name: 300 - Advanced, Level, AI/ML, Topic, Cross Industry, Industry, Business Applications, Topic, IT Professional/Technical Manager, Role, Generative AI, Area of Interest, Solution/Systems Architect, Role, Wednesday, Day, Wynn, Venue, Cost Optimization, Area of Interest, Amazon Bedrock, Services, Developer/Engineer, Role, Amazon Connect, Services

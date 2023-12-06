@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Networking & Content Delivery, Topic, Monitoring & Observability, Area of Interest, Strategy & Transformation, Area of Interest, Modernization, Area of Interest, 100 - Foundational, Level, Developer/Engineer, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Tuesday, Day, Venetian, Venue, , speakers :firstName_0: Mike, lastName_0: Hicks, company_0: ThousandEyes, , thirdpartyid :NET102-S, sessionuid :7D8568B3-CA9A-4411-B91C-87BF3B3BDB50, title :Extending ThousandEyes visibility to the AWS network (sponsored by ThousandEyes part of Cisco), description :<p>Gaining coverage across the internet and viewing the end-to-end path of the largest cloud networks can be a challenge for many organizations. Lack of visibility can waste valuable time and lead to unnecessary support cases for cloud vendors who have to investigate issues that may not be within their network. Cisco ThousandEyes provides deep internet intelligence and visibility into networks. In this session, learn how network operators can view their on-premises, internet, and cloud networks in ThousandEyes. This presentation is brought to you by ThousandEyes part of Cisco, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Gaining coverage across the internet and viewing the end-to-end path of the largest cloud networks can be a challenge for many organizations. Lack of visibility can waste valuable time and lead to unnecessary support cases for cloud vendors who have to investigate issues that may not be within their network. Cisco ThousandEyes provides deep internet intelligence and visibility into networks. In this session, learn how network operators can view their on-premises, internet, and cloud networks in ThousandEyes. This presentation is brought to you by ThousandEyes part of Cisco, an AWS Partner.</p>
+title: Extending ThousandEyes visibility to the AWS network (sponsored by ThousandEyes part of Cisco)
+sessionuid: 7D8568B3-CA9A-4411-B91C-87BF3B3BDB50
+thirdpartyid: NET102-S
+speakers: firstName_0: Mike, lastName_0: Hicks, company_0: ThousandEyes
+tag_name: Networking & Content Delivery, Topic, Monitoring & Observability, Area of Interest, Strategy & Transformation, Area of Interest, Modernization, Area of Interest, 100 - Foundational, Level, Developer/Engineer, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Tuesday, Day, Venetian, Venue

@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 7
+summary: tag_name :Amazon Bedrock, Services, 300 - Advanced, Level, Amazon SageMaker, Services, Monday, Day, Wynn, Venue, Generative AI, Area of Interest, BuildOn.AWS, Area of Interest, AI/ML, Topic, Amazon Aurora, Services, , speakers :firstName_0: Suman, lastName_0: Debnath, , thirdpartyid :BOA312, sessionuid :B4BC0015-DCF2-4C09-8EC4-0EFE066B9723, title :Utilizing machine learning & vector databases for advanced AI search, description :As AI continues to transform industries, the applications of generative AI and LLMs are becoming increasingly significant. This session delves into the utility of these models across a variety of sectors, from fashion to entertainment and from cheminformatics to bioinformatics. It demonstrates how you can build a similar solution by developing a product catalog similarity search solution, integrating machine learning technologies and vector databases for PostgreSQL. Gain an understanding of how to use ML and vector databases for PostgreSQL to create search solutions for enhanced user experiences and improved outcomes across various sectors on AWS., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 7, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 01:30:00 -0500, 
+enddatetimeutc: November, 28 2023 01:30:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: Cristal 7
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Breakout Session
+description: As AI continues to transform industries, the applications of generative AI and LLMs are becoming increasingly significant. This session delves into the utility of these models across a variety of sectors, from fashion to entertainment and from cheminformatics to bioinformatics. It demonstrates how you can build a similar solution by developing a product catalog similarity search solution, integrating machine learning technologies and vector databases for PostgreSQL. Gain an understanding of how to use ML and vector databases for PostgreSQL to create search solutions for enhanced user experiences and improved outcomes across various sectors on AWS
+title: Utilizing machine learning & vector databases for advanced AI search
+sessionuid: B4BC0015-DCF2-4C09-8EC4-0EFE066B9723
+thirdpartyid: BOA312
+speakers: firstName_0: Suman, lastName_0: Debnath
+tag_name: Amazon Bedrock, Services, 300 - Advanced, Level, Amazon SageMaker, Services, Monday, Day, Wynn, Venue, Generative AI, Area of Interest, BuildOn.AWS, Area of Interest, AI/ML, Topic, Amazon Aurora, Services

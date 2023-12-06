@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 120
+summary: tag_name :IT Professional/Technical Manager, Role, Innovation on AWS, Area of Interest, Solution/Systems Architect, Role, Generative AI, Area of Interest, Amazon Relational Database Service (RDS), Services, Developer/Engineer, Role, Thursday, Day, MGM Grand, Venue, Management & Governance, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Databases, Topic, , speakers :firstName_0: Sirish, lastName_0: Chandrasekaran, , thirdpartyid :DAT326, sessionuid :9554EB37-E46A-4A17-A1DC-120A3CCBEAE0, title :What’s new with Amazon RDS?, description :<p>Amazon RDS is a fully managed database service that can help you launch an optimally configured, secure, and highly available database with just a few clicks. It manages database administration tasks, so you can focus on your applications. In this session, learn about the latest 2023 launches across Amazon RDS open source and commercial engines. This includes innovations such as vector database capabilities to support your generative AI applications, “bring your own media” with Amazon RDS Custom for SQL Server, enhancements to Multi-AZ with two readable standbys, such as support for inbound replication, PL/Rust support for Amazon RDS for PostgreSQL, and more.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 120, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Grand 120
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>Amazon RDS is a fully managed database service that can help you launch an optimally configured, secure, and highly available database with just a few clicks. It manages database administration tasks, so you can focus on your applications. In this session, learn about the latest 2023 launches across Amazon RDS open source and commercial engines. This includes innovations such as vector database capabilities to support your generative AI applications, “bring your own media” with Amazon RDS Custom for SQL Server, enhancements to Multi-AZ with two readable standbys, such as support for inbound replication, PL/Rust support for Amazon RDS for PostgreSQL, and more.</p>
+title: What’s new with Amazon RDS?
+sessionuid: 9554EB37-E46A-4A17-A1DC-120A3CCBEAE0
+thirdpartyid: DAT326
+speakers: firstName_0: Sirish, lastName_0: Chandrasekaran
+tag_name: IT Professional/Technical Manager, Role, Innovation on AWS, Area of Interest, Solution/Systems Architect, Role, Generative AI, Area of Interest, Amazon Relational Database Service (RDS), Services, Developer/Engineer, Role, Thursday, Day, MGM Grand, Venue, Management & Governance, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Databases, Topic

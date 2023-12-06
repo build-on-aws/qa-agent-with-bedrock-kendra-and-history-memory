@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 315
+summary: tag_name :AI/ML, Topic, Customer Enablement, Topic, Social Impact, Area of Interest, Responsible AI, Area of Interest, Education, Industry, Cross Industry, Industry, 300 - Advanced, Level, Thursday, Day, Caesars Forum, Venue, , speakers :firstName_0: James, lastName_0: Kuhlke, firstName_1: Galen, lastName_1: Dunkleberger, firstName_2: Kathy, lastName_2: Huffstetler, firstName_3: Pranusha, lastName_3: Manchala, firstName_4: Rylie, lastName_4: Knox, , thirdpartyid :WPS302-R, sessionuid :5318FEC4-0CE1-4E59-BDF1-32CC74F96E04, title :Improve student well-being by building intelligent edtech applications [REPEAT], description :<p>In this builders’ session, learn how to create inclusive digital spaces and develop virtual proctoring solutions to prioritize student well-being using AWS AI/ML technologies. Learn how to streamline manual content moderation and reclaim time spent reviewing online toxicity by using Amazon Rekognition, Amazon Transcribe, Amazon Comprehend, Amazon Translate, and Amazon A2I. Dive deep into how to use Amazon Rekognition for virtual proctoring solutions, and get an overview of how AI is being utilized to build interactive applications in the edtech industry. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 315, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Alliance 315
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In this builders’ session, learn how to create inclusive digital spaces and develop virtual proctoring solutions to prioritize student well-being using AWS AI/ML technologies. Learn how to streamline manual content moderation and reclaim time spent reviewing online toxicity by using Amazon Rekognition, Amazon Transcribe, Amazon Comprehend, Amazon Translate, and Amazon A2I. Dive deep into how to use Amazon Rekognition for virtual proctoring solutions, and get an overview of how AI is being utilized to build interactive applications in the edtech industry. You must bring your laptop to participate.</p>
+title: Improve student well-being by building intelligent edtech applications [REPEAT]
+sessionuid: 5318FEC4-0CE1-4E59-BDF1-32CC74F96E04
+thirdpartyid: WPS302-R
+speakers: firstName_0: James, lastName_0: Kuhlke, firstName_1: Galen, lastName_1: Dunkleberger, firstName_2: Kathy, lastName_2: Huffstetler, firstName_3: Pranusha, lastName_3: Manchala, firstName_4: Rylie, lastName_4: Knox
+tag_name: AI/ML, Topic, Customer Enablement, Topic, Social Impact, Area of Interest, Responsible AI, Area of Interest, Education, Industry, Cross Industry, Industry, 300 - Advanced, Level, Thursday, Day, Caesars Forum, Venue

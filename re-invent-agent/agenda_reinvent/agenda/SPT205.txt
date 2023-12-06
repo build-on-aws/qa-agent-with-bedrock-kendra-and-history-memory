@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 306
+summary: tag_name :Tuesday, Day, MGM Grand, Venue, Customer Stories, Area of Interest, Front-End Web & Mobile, Area of Interest, Strategy & Transformation, Area of Interest, Media & Entertainment, Industry, Sports, Industry, 200 - Intermediate, Level, Business Executive, Role, Developer/Engineer, Role, Sales/Marketing, Role, Amazon Interactive Video Service (IVS), Services, AWS Elemental MediaConnect, Services, AWS Fargate, Services, , speakers :firstName_0: Andrew, lastName_0: Reich, firstName_1: Chris, lastName_1: Wolford, company_1: NASCAR, , thirdpartyid :SPT205, sessionuid :9AF6421C-A5FE-40B1-A865-68FF63598646, title :NASCAR adds 60 video feed angles to fan app for in-venue viewing, description :<p>In this chalk talk, learn how NASCAR used AWS services to transform the in-person fan experience by providing fans with live video feeds during the Chicago Street Race. Using NASCAR’s Tracks app, users in attendance had free access to 60 different video feed angles throughout the 12-turn, 2.2-mile street course in downtown Chicago. NASCAR’s unique digital experience is redefining the boundaries of live event participation and setting a new standard for fan interaction.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :306, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: 306
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>In this chalk talk, learn how NASCAR used AWS services to transform the in-person fan experience by providing fans with live video feeds during the Chicago Street Race. Using NASCAR’s Tracks app, users in attendance had free access to 60 different video feed angles throughout the 12-turn, 2.2-mile street course in downtown Chicago. NASCAR’s unique digital experience is redefining the boundaries of live event participation and setting a new standard for fan interaction.</p>
+title: NASCAR adds 60 video feed angles to fan app for in-venue viewing
+sessionuid: 9AF6421C-A5FE-40B1-A865-68FF63598646
+thirdpartyid: SPT205
+speakers: firstName_0: Andrew, lastName_0: Reich, firstName_1: Chris, lastName_1: Wolford, company_1: NASCAR
+tag_name: Tuesday, Day, MGM Grand, Venue, Customer Stories, Area of Interest, Front-End Web & Mobile, Area of Interest, Strategy & Transformation, Area of Interest, Media & Entertainment, Industry, Sports, Industry, 200 - Intermediate, Level, Business Executive, Role, Developer/Engineer, Role, Sales/Marketing, Role, Amazon Interactive Video Service (IVS), Services, AWS Elemental MediaConnect, Services, AWS Fargate, Services

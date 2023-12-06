@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 1
+summary: tag_name :Management & Governance, Area of Interest, Amazon Managed Service for Prometheus, Services, Amazon Managed Grafana, Services, Solution/Systems Architect, Role, 300 - Advanced, Level, Thursday, Day, Wynn, Venue, Monitoring & Observability, Area of Interest, System Administrator, Role, DevOps Engineer, Role, Cloud Operations, Topic, , speakers :firstName_0: Ganesh, lastName_0: Sambandan, firstName_1: Puneeth, lastName_1: Ranjan Komaragiri, , thirdpartyid :COP345, sessionuid :8E1F8EC6-B6E3-4331-BE8D-C2BB4384D069, title :Hands-on experience with AWS managed open source observability, description :As observability data grows in volume and complexity, monitoring and analyzing observability signals such as metrics, logs, and traces can be challenging. In this workshop, get experience with AWS managed open source observability solutions such as AWS Distro for OpenTelemetry, Amazon Managed Service for Prometheus, and Amazon Managed Grafana. Learn how to query, correlate, and visualize signals from various data sources to improve troubleshooting and achieve increased reliability, resiliency, and performance. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 1, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :December, 01 2023 00:00:00 -0500, 
+enddatetimeutc: December, 01 2023 00:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Cristal 1
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: As observability data grows in volume and complexity, monitoring and analyzing observability signals such as metrics, logs, and traces can be challenging. In this workshop, get experience with AWS managed open source observability solutions such as AWS Distro for OpenTelemetry, Amazon Managed Service for Prometheus, and Amazon Managed Grafana. Learn how to query, correlate, and visualize signals from various data sources to improve troubleshooting and achieve increased reliability, resiliency, and performance. You must bring your laptop to participate
+title: Hands-on experience with AWS managed open source observability
+sessionuid: 8E1F8EC6-B6E3-4331-BE8D-C2BB4384D069
+thirdpartyid: COP345
+speakers: firstName_0: Ganesh, lastName_0: Sambandan, firstName_1: Puneeth, lastName_1: Ranjan Komaragiri
+tag_name: Management & Governance, Area of Interest, Amazon Managed Service for Prometheus, Services, Amazon Managed Grafana, Services, Solution/Systems Architect, Role, 300 - Advanced, Level, Thursday, Day, Wynn, Venue, Monitoring & Observability, Area of Interest, System Administrator, Role, DevOps Engineer, Role, Cloud Operations, Topic

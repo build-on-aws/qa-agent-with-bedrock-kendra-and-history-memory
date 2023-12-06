@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine F
+summary: tag_name :Wednesday, Day, Mandalay Bay, Venue, Compute, Topic, Customer Stories, Area of Interest, Global Infrastructure, Area of Interest, Modernization, Area of Interest, Games, Industry, 300 - Advanced, Level, Developer/Engineer, Role, IT Administrator, Role, Amazon Elastic Compute Cloud (EC2), Services, Amazon GameLift, Services, , speakers :firstName_0: Lionel, lastName_0: Gattegno, firstName_1: Steven, lastName_1: Flenory, company_1: Warner Bros. Games, , thirdpartyid :GAM307, sessionuid :8AF0265C-2F8C-4253-A657-44BE360FDEC6, title :Scaling a multiplayer game into the millions with Mortal Kombat 1, description :<p>Discover how Warner Bros. Games connects millions of online players with a centralized gaming services platform using Amazon EC2 and Amazon GameLift. In this session, explore the backend architecture and how it enriches the gaming experience with features like social media integration, multiplayer options, in-game economies while managing billions of API request daily and supporting over a million concurrent players across game releases. Come learn about the backend that powers the highly anticipated reboot from NetherRealm Studios, Mortal Kombat 1.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine F, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Jasmine F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Discover how Warner Bros. Games connects millions of online players with a centralized gaming services platform using Amazon EC2 and Amazon GameLift. In this session, explore the backend architecture and how it enriches the gaming experience with features like social media integration, multiplayer options, in-game economies while managing billions of API request daily and supporting over a million concurrent players across game releases. Come learn about the backend that powers the highly anticipated reboot from NetherRealm Studios, Mortal Kombat 1.</p>
+title: Scaling a multiplayer game into the millions with Mortal Kombat 1
+sessionuid: 8AF0265C-2F8C-4253-A657-44BE360FDEC6
+thirdpartyid: GAM307
+speakers: firstName_0: Lionel, lastName_0: Gattegno, firstName_1: Steven, lastName_1: Flenory, company_1: Warner Bros. Games
+tag_name: Wednesday, Day, Mandalay Bay, Venue, Compute, Topic, Customer Stories, Area of Interest, Global Infrastructure, Area of Interest, Modernization, Area of Interest, Games, Industry, 300 - Advanced, Level, Developer/Engineer, Role, IT Administrator, Role, Amazon Elastic Compute Cloud (EC2), Services, Amazon GameLift, Services

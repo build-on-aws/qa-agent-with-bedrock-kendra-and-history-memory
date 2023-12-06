@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 9
+summary: tag_name :IT Executive, Role, Advisor/Consultant, Role, Amazon SageMaker, Services, Social Impact, Area of Interest, 100 - Foundational, Level, Responsible AI, Area of Interest, Monday, Day, Wynn, Venue, AI/ML, Topic, Cross Industry, Industry, Business Executive, Role, Amazon Bedrock, Services, , speakers :firstName_0: Segolene, lastName_0: Dessertine-Panhard, firstName_1: Anthony, lastName_1: Medeiros, company_1: Schneider Electric, , thirdpartyid :IMP103, sessionuid :FC4FECF1-E513-4EDB-8DFC-8456AA56CE36, title :How to build a responsible and sustainable generative AI chatbot, description :<p>Generative AI–powered chatbots are increasingly being applied across multiple industries. However, their effectiveness relies on a crucial factor: trustworthiness. In this session, learn how Schneider Electric builds a trustworthy chatbot with domain-specific data by utilizing AWS generative AI capabilities and the AWS Generative AI Innovation Center. Hear how the chatbot follows principles from the AWS Responsible AI Policy while also adhering to Schneider Electric’s own high standards and risk management practices for generative AI use.</p>, sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 9, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Lafite 9
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: <p>Generative AI–powered chatbots are increasingly being applied across multiple industries. However, their effectiveness relies on a crucial factor: trustworthiness. In this session, learn how Schneider Electric builds a trustworthy chatbot with domain-specific data by utilizing AWS generative AI capabilities and the AWS Generative AI Innovation Center. Hear how the chatbot follows principles from the AWS Responsible AI Policy while also adhering to Schneider Electric’s own high standards and risk management practices for generative AI use.</p>
+title: How to build a responsible and sustainable generative AI chatbot
+sessionuid: FC4FECF1-E513-4EDB-8DFC-8456AA56CE36
+thirdpartyid: IMP103
+speakers: firstName_0: Segolene, lastName_0: Dessertine-Panhard, firstName_1: Anthony, lastName_1: Medeiros, company_1: Schneider Electric
+tag_name: IT Executive, Role, Advisor/Consultant, Role, Amazon SageMaker, Services, Social Impact, Area of Interest, 100 - Foundational, Level, Responsible AI, Area of Interest, Monday, Day, Wynn, Venue, AI/ML, Topic, Cross Industry, Industry, Business Executive, Role, Amazon Bedrock, Services

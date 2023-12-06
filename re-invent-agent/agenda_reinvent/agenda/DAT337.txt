@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 122
+summary: tag_name :Games, Industry, Customer Stories, Area of Interest, Databases, Topic, 300 - Advanced, Level, Travel & Hospitality, Industry, Generative AI, Area of Interest, Customer Enablement, Topic, Innovation on AWS, Area of Interest, Developer/Engineer, Role, Financial Services, Industry, Monday, Day, MGM Grand, Venue, Amazon DocumentDB (with MongoDB compatibility), Services, IT Professional/Technical Manager, Role, IT Executive, Role, , speakers :firstName_0: Rashim, lastName_0: Gupta, firstName_1: Paul, lastName_1: McLean, company_1: United Airlines, , thirdpartyid :DAT337, sessionuid :71B9472D-46A9-4890-AD76-41969FCC5009, title :How United Airlines accelerates innovation with Amazon DocumentDB, description :In this session, learn about the latest Amazon DocumentDB (with MongoDB compatibility) innovations and features that will help you get the most out of Amazon DocumentDB. Hear about topics such as mission-critical performance and security, and explore emerging areas such as generative AI. This session features demos as well as a customer segment from United Airlines on how the latest features accelerate their business to the leading edge., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 122, startdatetimeutc :November, 27 2023 20:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 20:00:00 -0500
+locationname: Grand 122
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: In this session, learn about the latest Amazon DocumentDB (with MongoDB compatibility) innovations and features that will help you get the most out of Amazon DocumentDB. Hear about topics such as mission-critical performance and security, and explore emerging areas such as generative AI. This session features demos as well as a customer segment from United Airlines on how the latest features accelerate their business to the leading edge
+title: How United Airlines accelerates innovation with Amazon DocumentDB
+sessionuid: 71B9472D-46A9-4890-AD76-41969FCC5009
+thirdpartyid: DAT337
+speakers: firstName_0: Rashim, lastName_0: Gupta, firstName_1: Paul, lastName_1: McLean, company_1: United Airlines
+tag_name: Games, Industry, Customer Stories, Area of Interest, Databases, Topic, 300 - Advanced, Level, Travel & Hospitality, Industry, Generative AI, Area of Interest, Customer Enablement, Topic, Innovation on AWS, Area of Interest, Developer/Engineer, Role, Financial Services, Industry, Monday, Day, MGM Grand, Venue, Amazon DocumentDB (with MongoDB compatibility), Services, IT Professional/Technical Manager, Role, IT Executive, Role

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Mouton 2
+summary: tag_name :AWS Lambda, Services, 200 - Intermediate, Level, Amazon EventBridge, Services, Serverless Compute, Topic, Amazon API Gateway, Services, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Front-End Web & Mobile, Area of Interest, Wednesday, Day, Wynn, Venue, , speakers :firstName_0: Pawan, lastName_0: Puthran, firstName_1: Fernanda, lastName_1: Machado, , thirdpartyid :SVS201-R, sessionuid :D21F2D85-11A8-4EBA-89A0-9D9D547A26D9, title :Building a serverless web application for a theme park [REPEAT], description :In this workshop, learn how to build a complete serverless web application for a popular theme park called Innovator Island. The theme park is rolling out a mobile app that provides thousands of visitors with wait times, photo opportunities, notification alerts, and language translation. Get hands-on experience building a scalable serverless application with a single-page application frontend that delivers a feature-rich user experience. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Level 1, locationname :Mouton 2, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Mouton 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Workshop
+description: In this workshop, learn how to build a complete serverless web application for a popular theme park called Innovator Island. The theme park is rolling out a mobile app that provides thousands of visitors with wait times, photo opportunities, notification alerts, and language translation. Get hands-on experience building a scalable serverless application with a single-page application frontend that delivers a feature-rich user experience. You must bring your laptop to participate
+title: Building a serverless web application for a theme park [REPEAT]
+sessionuid: D21F2D85-11A8-4EBA-89A0-9D9D547A26D9
+thirdpartyid: SVS201-R
+speakers: firstName_0: Pawan, lastName_0: Puthran, firstName_1: Fernanda, lastName_1: Machado
+tag_name: AWS Lambda, Services, 200 - Intermediate, Level, Amazon EventBridge, Services, Serverless Compute, Topic, Amazon API Gateway, Services, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Front-End Web & Mobile, Area of Interest, Wednesday, Day, Wynn, Venue

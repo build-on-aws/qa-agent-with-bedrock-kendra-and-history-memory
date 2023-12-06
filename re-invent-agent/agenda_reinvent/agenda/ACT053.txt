@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1280
+summary: tag_name :Inclusion & Diversity, Area of Interest, Wednesday, Day, Venetian, Venue, PeerTalks, Additional Services, , speakers :, thirdpartyid :ACT053, sessionuid :3256337C-C6E4-44E8-96DC-D14283DC5D47, title :Women in Tech fireside chat and meetup, description :Join Women at AWS in the All Builders Welcome Lounge to connect with global leaders and members, learn more about key Women at AWS initiatives, and network with fellow re:Invent attendees., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1280, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Hall B, Expo, Booth #1280
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Join Women at AWS in the All Builders Welcome Lounge to connect with global leaders and members, learn more about key Women at AWS initiatives, and network with fellow re:Invent attendees
+title: Women in Tech fireside chat and meetup
+sessionuid: 3256337C-C6E4-44E8-96DC-D14283DC5D47
+thirdpartyid: ACT053
+speakers: 
+tag_name: Inclusion & Diversity, Area of Interest, Wednesday, Day, Venetian, Venue, PeerTalks, Additional Services

@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Islander G
+summary: tag_name :300 - Advanced, Level, Wednesday, Day, Mandalay Bay, Venue, Architecture, Topic, , speakers :firstName_0: Mike, lastName_0: Haken, firstName_1: John, lastName_1: Formento, firstName_2: Mike, lastName_2: Golovnykh, , thirdpartyid :ARC313, sessionuid :F97EBE7E-6D59-4E2C-A365-16769B62F64C, title :A consistent approach to resilience analysis for critical workloads, description :In this session, learn about a resilience analysis framework and how you can apply it to have a consistent and repeatable process for analyzing your workloads. Learn how to discover failure modes and how they could impact your workloads. Using this approach in the design process and in production can help you think about potential failure modes and design for them with preventative and corrective mitigations. Additionally, in this session hear from the Amazon Route 53 Application Recovery Controller team about how they approach resilience analysis for their services., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Islander G, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Islander G
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: In this session, learn about a resilience analysis framework and how you can apply it to have a consistent and repeatable process for analyzing your workloads. Learn how to discover failure modes and how they could impact your workloads. Using this approach in the design process and in production can help you think about potential failure modes and design for them with preventative and corrective mitigations. Additionally, in this session hear from the Amazon Route 53 Application Recovery Controller team about how they approach resilience analysis for their services
+title: A consistent approach to resilience analysis for critical workloads
+sessionuid: F97EBE7E-6D59-4E2C-A365-16769B62F64C
+thirdpartyid: ARC313
+speakers: firstName_0: Mike, lastName_0: Haken, firstName_1: John, lastName_1: Formento, firstName_2: Mike, lastName_2: Golovnykh
+tag_name: 300 - Advanced, Level, Wednesday, Day, Mandalay Bay, Venue, Architecture, Topic

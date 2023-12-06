@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 355
+summary: tag_name :Business Executive, Role, Customer Stories, Area of Interest, Media & Entertainment, Industry, Advertising & Marketing, Industry, Data Engineer, Role, Data Scientist, Role, AI/ML, Topic, Data Protection, Area of Interest, Business Intelligence, Area of Interest, 200 - Intermediate, Level, MGM Grand, Venue, Monday, Day, Analytics, Topic, AWS Clean Rooms, Services, , speakers :firstName_0: Adam, lastName_0: Solomon, firstName_1: Shaila, lastName_1: Mathias, firstName_2: Justin, lastName_2: DeBrabant, company_2: ActionIQ, , thirdpartyid :ADM201, sessionuid :E4D2B238-CDA8-4F5A-93BE-4914CFE8EC60, title :Building interoperability and data collaboration workloads with AWS, description :<p id="isPasted">In this session intended for developers and data analysts, learn how companies use AWS technology to interoperate and collaborate more effectively across advertising and marketing platforms to enhance activation and measurement use cases.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 355, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 20:30:00 -0500, 
+enddatetimeutc: November, 27 2023 20:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Chairmans 355
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p id="isPasted">In this session intended for developers and data analysts, learn how companies use AWS technology to interoperate and collaborate more effectively across advertising and marketing platforms to enhance activation and measurement use cases.</p>
+title: Building interoperability and data collaboration workloads with AWS
+sessionuid: E4D2B238-CDA8-4F5A-93BE-4914CFE8EC60
+thirdpartyid: ADM201
+speakers: firstName_0: Adam, lastName_0: Solomon, firstName_1: Shaila, lastName_1: Mathias, firstName_2: Justin, lastName_2: DeBrabant, company_2: ActionIQ
+tag_name: Business Executive, Role, Customer Stories, Area of Interest, Media & Entertainment, Industry, Advertising & Marketing, Industry, Data Engineer, Role, Data Scientist, Role, AI/ML, Topic, Data Protection, Area of Interest, Business Intelligence, Area of Interest, 200 - Intermediate, Level, MGM Grand, Venue, Monday, Day, Analytics, Topic, AWS Clean Rooms, Services

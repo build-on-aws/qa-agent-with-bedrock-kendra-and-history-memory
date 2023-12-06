@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Bollinger
+summary: tag_name :Compute, Topic, Storage, Topic, Global Infrastructure, Area of Interest, Innovation on AWS, Area of Interest, Cost Optimization, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Block Store (EBS), Services, Amazon Elastic Compute Cloud (EC2), Services, Wednesday, Day, Wynn, Venue, , speakers :firstName_0: Reena, lastName_0: Gupta, firstName_1: Aaron, lastName_1: Chen, , thirdpartyid :CMP202, sessionuid :2EDBD8C3-2BEF-4120-BAF8-32203744FAE8, title :Choosing the right block storage for your workload, description :<p>Amazon EC2 offers multiple choices for block storage in the cloud. Understanding how to choose the right block storage option for your workloads is key to optimize the cost of your storage solution. In this session, walk through a decision tree of the storage choices and their capabilities to help you choose the ideal option for your workloads. This session covers the I-family instance portfolio with a spotlight on I4i and I4g and provides details on Amazon EC2 data persistence in various scenarios.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Upper Level, locationname :Bollinger, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 17:30:00 -0500, 
+enddatetimeutc: November, 29 2023 17:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: Bollinger
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: standard
+description: <p>Amazon EC2 offers multiple choices for block storage in the cloud. Understanding how to choose the right block storage option for your workloads is key to optimize the cost of your storage solution. In this session, walk through a decision tree of the storage choices and their capabilities to help you choose the ideal option for your workloads. This session covers the I-family instance portfolio with a spotlight on I4i and I4g and provides details on Amazon EC2 data persistence in various scenarios.</p>
+title: Choosing the right block storage for your workload
+sessionuid: 2EDBD8C3-2BEF-4120-BAF8-32203744FAE8
+thirdpartyid: CMP202
+speakers: firstName_0: Reena, lastName_0: Gupta, firstName_1: Aaron, lastName_1: Chen
+tag_name: Compute, Topic, Storage, Topic, Global Infrastructure, Area of Interest, Innovation on AWS, Area of Interest, Cost Optimization, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Block Store (EBS), Services, Amazon Elastic Compute Cloud (EC2), Services, Wednesday, Day, Wynn, Venue

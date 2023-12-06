@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Islander I
+summary: tag_name :Solution/Systems Architect, Role, AWS Fault Injector Service (FIS), Services, Wednesday, Day, Mandalay Bay, Venue, Architecture, Topic, Cross Industry, Industry, Resilience, Area of Interest, 300 - Advanced, Level, Developer/Engineer, Role, DevOps Engineer, Role, , speakers :firstName_0: Laurent, lastName_0: Domb, firstName_1: Sirirat, lastName_1: Kongdee, , thirdpartyid :ARC303, sessionuid :B2EC26B8-6985-4485-BB7C-0FAC6E569CF7, title :Navigate the storm: Unleashing controlled chaos for resilient systems, description :In today’s rapidly evolving technological landscape, the ability to build robust and resilient systems is paramount. Chaos engineering, a discipline focused on intentionally injecting controlled turbulence into systems, offers a proactive approach to identifying weaknesses and bolstering resilience. This immersive workshop is designed to equip you with the necessary tools and knowledge to embrace chaos engineering principles and build a continuous resilience process that allows for safe and controlled chaos experiments that you can incorporate into your day-to-day operations. You must bring your laptop to participate., sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Islander I, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Islander I
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: In today’s rapidly evolving technological landscape, the ability to build robust and resilient systems is paramount. Chaos engineering, a discipline focused on intentionally injecting controlled turbulence into systems, offers a proactive approach to identifying weaknesses and bolstering resilience. This immersive workshop is designed to equip you with the necessary tools and knowledge to embrace chaos engineering principles and build a continuous resilience process that allows for safe and controlled chaos experiments that you can incorporate into your day-to-day operations. You must bring your laptop to participate
+title: Navigate the storm: Unleashing controlled chaos for resilient systems
+sessionuid: B2EC26B8-6985-4485-BB7C-0FAC6E569CF7
+thirdpartyid: ARC303
+speakers: firstName_0: Laurent, lastName_0: Domb, firstName_1: Sirirat, lastName_1: Kongdee
+tag_name: Solution/Systems Architect, Role, AWS Fault Injector Service (FIS), Services, Wednesday, Day, Mandalay Bay, Venue, Architecture, Topic, Cross Industry, Industry, Resilience, Area of Interest, 300 - Advanced, Level, Developer/Engineer, Role, DevOps Engineer, Role

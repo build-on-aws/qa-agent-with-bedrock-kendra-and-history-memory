@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :AWS IoT Core, Services, 300 - Advanced, Level, Solution/Systems Architect, Role, Thursday, Day, Wynn, Venue, Internet of Things, Topic, Analytics, Topic, IT Executive, Role, Developer/Engineer, Role, Energy, Industry, AWS IoT Analytics, Services, Amazon RedShift, Services, , speakers :firstName_0: Rafa, lastName_0: Borges, firstName_1: Shea, lastName_1: Kubischta, , thirdpartyid :ENU305-R, sessionuid :5C5E4769-A3D6-4D77-9FEC-2320E1D86963, title :Reinventing industries on AWS with IT/OT convergence [REPEAT], description :For years, industrials, including energy, have struggled with converging IT infrastructure and operational technology (OT) requirements into a single, unified technology stack. Overcoming technical and cultural differences are often the biggest barriers to move your enterprise into the Industry 4.0 world. In this chalk talk, we’ll whiteboard why the cloud is ideal to converge IT and OT, resulting in a strong security posture and unmatchable scalability for each, while establishing separation boundaries between both., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: For years, industrials, including energy, have struggled with converging IT infrastructure and operational technology (OT) requirements into a single, unified technology stack. Overcoming technical and cultural differences are often the biggest barriers to move your enterprise into the Industry 4.0 world. In this chalk talk, we’ll whiteboard why the cloud is ideal to converge IT and OT, resulting in a strong security posture and unmatchable scalability for each, while establishing separation boundaries between both
+title: Reinventing industries on AWS with IT/OT convergence [REPEAT]
+sessionuid: 5C5E4769-A3D6-4D77-9FEC-2320E1D86963
+thirdpartyid: ENU305-R
+speakers: firstName_0: Rafa, lastName_0: Borges, firstName_1: Shea, lastName_1: Kubischta
+tag_name: AWS IoT Core, Services, 300 - Advanced, Level, Solution/Systems Architect, Role, Thursday, Day, Wynn, Venue, Internet of Things, Topic, Analytics, Topic, IT Executive, Role, Developer/Engineer, Role, Energy, Industry, AWS IoT Analytics, Services, Amazon RedShift, Services

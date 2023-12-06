@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 307
+summary: tag_name :300 - Advanced, Level, Solution/Systems Architect, Role, Amazon Connect, Services, Financial Services, Industry, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Security, Compliance, & Identity, Topic, Thursday, Day, Caesars Forum, Venue, Healthcare, Industry, Business Applications, Topic, , speakers :firstName_0: Magdalena, lastName_0: Nedelcu, firstName_1: Bamba, lastName_1: Diouf, , thirdpartyid :BIZ302, sessionuid :953D5766-191B-4B7F-9EDF-3D345381713A, title :Amazon Connect: Deliver dynamic & personalized routing across channels, description :<p>Harness the power of contact routing to reduce customer effort regardless of the channel you interact with them on. Exceed your business objectives by connecting your customers with the right agent at the right time. In this workshop, work in small groups to explore innovative ways to deliver high-quality customer experiences and improve brand loyalty. Discover best practices for adapting routing criteria to match your business operating model. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 307, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 21:00:00 -0500, 
+enddatetimeutc: November, 30 2023 21:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Alliance 307
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: <p>Harness the power of contact routing to reduce customer effort regardless of the channel you interact with them on. Exceed your business objectives by connecting your customers with the right agent at the right time. In this workshop, work in small groups to explore innovative ways to deliver high-quality customer experiences and improve brand loyalty. Discover best practices for adapting routing criteria to match your business operating model. You must bring your laptop to participate.</p>
+title: Amazon Connect: Deliver dynamic & personalized routing across channels
+sessionuid: 953D5766-191B-4B7F-9EDF-3D345381713A
+thirdpartyid: BIZ302
+speakers: firstName_0: Magdalena, lastName_0: Nedelcu, firstName_1: Bamba, lastName_1: Diouf
+tag_name: 300 - Advanced, Level, Solution/Systems Architect, Role, Amazon Connect, Services, Financial Services, Industry, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Security, Compliance, & Identity, Topic, Thursday, Day, Caesars Forum, Venue, Healthcare, Industry, Business Applications, Topic

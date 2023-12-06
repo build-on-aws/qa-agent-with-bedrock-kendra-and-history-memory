@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3006
+summary: tag_name :AI/ML, Topic, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, 300 - Advanced, Level, Automotive, Industry, DeepRacer, Area of Interest, AWS DeepRacer, Services, Student, Role, Thursday, Day, Venetian, Venue, , speakers :firstName_0: Paul, lastName_0: Corbin, firstName_1: Darren, lastName_1: Broderick, company_1: OpenData Belfast, firstName_2: Jochem, lastName_2: Lugtenburg, company_2: Relive Hiking, Running & Cycling, firstName_3: Lars, lastName_3: Lorentz Ludvigsen, company_3: Accenture, firstName_4: Stephen, lastName_4: Carrad, company_4: JPMorgan Chase, firstName_5: Tomasz, lastName_5: Ptak, company_5: Duco, , thirdpartyid :DPR301, sessionuid :BC1A05EA-AC96-4306-AE25-CAA64CB7609A, title :Boost AI/ML skills: Training & career tips by AWS DeepRacer all stars, description :You’ve seen their names on the leaderboards; now hear their stories. Join some of the top champions from AWS DeepRacer League in this workshop to learn their approaches for training their AWS DeepRacer models and get your questions answered during their open Q&A session. You must bring your laptop to participate., sessiontype :Workshop, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3006, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Lido 3006
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Workshop
+description: You’ve seen their names on the leaderboards; now hear their stories. Join some of the top champions from AWS DeepRacer League in this workshop to learn their approaches for training their AWS DeepRacer models and get your questions answered during their open Q&A session. You must bring your laptop to participate
+title: Boost AI/ML skills: Training & career tips by AWS DeepRacer all stars
+sessionuid: BC1A05EA-AC96-4306-AE25-CAA64CB7609A
+thirdpartyid: DPR301
+speakers: firstName_0: Paul, lastName_0: Corbin, firstName_1: Darren, lastName_1: Broderick, company_1: OpenData Belfast, firstName_2: Jochem, lastName_2: Lugtenburg, company_2: Relive Hiking, Running & Cycling, firstName_3: Lars, lastName_3: Lorentz Ludvigsen, company_3: Accenture, firstName_4: Stephen, lastName_4: Carrad, company_4: JPMorgan Chase, firstName_5: Tomasz, lastName_5: Ptak, company_5: Duco
+tag_name: AI/ML, Topic, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, 300 - Advanced, Level, Automotive, Industry, DeepRacer, Area of Interest, AWS DeepRacer, Services, Student, Role, Thursday, Day, Venetian, Venue

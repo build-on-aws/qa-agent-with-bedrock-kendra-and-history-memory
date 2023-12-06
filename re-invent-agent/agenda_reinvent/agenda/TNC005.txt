@@ -1,0 +1,14 @@
+location: Venetian, Level 1, Casanova Foyer
+summary: tag_name :Training & Certification, Topic, Tuesday, Day, Venetian, Venue, , speakers :, thirdpartyid :TNC005-R, sessionuid :57848243-CA9C-446C-97EF-E4014BC2A09A, title :AWS Training Live [REPEAT], description :Join AWS Training and Certification, streaming live at re:Invent, to get actionable resources for building skills and growing your career, tips on preparing for AWS Certification exams, and the latest in fun and interactive training opportunities. Ask questions and interact with AWS expert hosts and other learners during fun, interactive, highly engaging short-form training sessions. Plus, stick around for an exciting announcement and the opportunity to win prizes and SWAG. Join AWS Training and Certification, streaming from www.twitch.tv/aws on Tuesday–Thursday of re:Invent at the Venetian., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 1, locationname :Casanova Foyer, startdatetimeutc :November, 28 2023 17:00:00 -0500, enddatetimeutc :November, 28 2023 22:00:00 -0500, 
+enddatetimeutc: November, 28 2023 22:00:00 -0500
+startdatetimeutc: November, 28 2023 17:00:00 -0500
+locationname: Casanova Foyer
+floorplanname: Level 1
+venuename: Venetian
+sessiontype: Community Activities
+description: Join AWS Training and Certification, streaming live at re:Invent, to get actionable resources for building skills and growing your career, tips on preparing for AWS Certification exams, and the latest in fun and interactive training opportunities. Ask questions and interact with AWS expert hosts and other learners during fun, interactive, highly engaging short-form training sessions. Plus, stick around for an exciting announcement and the opportunity to win prizes and SWAG. Join AWS Training and Certification, streaming from www.twitch.tv/aws on Tuesday–Thursday of re:Invent at the Venetian
+title: AWS Training Live [REPEAT]
+sessionuid: 57848243-CA9C-446C-97EF-E4014BC2A09A
+thirdpartyid: TNC005-R
+speakers: 
+tag_name: Training & Certification, Topic, Tuesday, Day, Venetian, Venue

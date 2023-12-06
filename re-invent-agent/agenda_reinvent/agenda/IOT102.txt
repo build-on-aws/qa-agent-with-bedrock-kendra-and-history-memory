@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Customer Enablement, Topic, Internet of Things, Topic, AWS Marketplace, Area of Interest, Sustainability, Area of Interest, Strategy & Transformation, Area of Interest, Education, Industry, Energy, Industry, Cross Industry, Industry, 100 - Foundational, Level, Business Executive, Role, IT Executive, Role, Press/Media Analyst, Role, Wednesday, Day, Venetian, Venue, , speakers :firstName_0: Tim, lastName_0: Johnson, company_0: Carrier, , thirdpartyid :IOT102-S, sessionuid :AA6E7ACC-41D8-45B9-BB8F-21CF35F07BEC, title :Carrier case study: Abound, a connected building platform (sponsored by Eviden), description :<p>Undergoing a significant transformation, Carrier has embraced building digital products and climate solutions. The inception of the Abound platform, aimed at centralizing disparate building data and delivering insights to building operators, has paved the way for pioneering new, innovative solutions. In this lightning talk, learn about the collaborative efforts between Eviden and Carrier and how they help the two companies deliver uniquely tailored solutions to meet customer requirements, solidifying the partnership’s value for mutual customers. This presentation is brought to you by Eviden, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Undergoing a significant transformation, Carrier has embraced building digital products and climate solutions. The inception of the Abound platform, aimed at centralizing disparate building data and delivering insights to building operators, has paved the way for pioneering new, innovative solutions. In this lightning talk, learn about the collaborative efforts between Eviden and Carrier and how they help the two companies deliver uniquely tailored solutions to meet customer requirements, solidifying the partnership’s value for mutual customers. This presentation is brought to you by Eviden, an AWS Partner.</p>
+title: Carrier case study: Abound, a connected building platform (sponsored by Eviden)
+sessionuid: AA6E7ACC-41D8-45B9-BB8F-21CF35F07BEC
+thirdpartyid: IOT102-S
+speakers: firstName_0: Tim, lastName_0: Johnson, company_0: Carrier
+tag_name: Customer Enablement, Topic, Internet of Things, Topic, AWS Marketplace, Area of Interest, Sustainability, Area of Interest, Strategy & Transformation, Area of Interest, Education, Industry, Energy, Industry, Cross Industry, Industry, 100 - Foundational, Level, Business Executive, Role, IT Executive, Role, Press/Media Analyst, Role, Wednesday, Day, Venetian, Venue

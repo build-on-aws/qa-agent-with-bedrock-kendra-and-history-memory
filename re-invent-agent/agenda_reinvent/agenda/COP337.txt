@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 167
+summary: tag_name :Amazon CloudWatch, Services, Cloud Operations, Topic, System Administrator, Role, Solution/Systems Architect, Role, Management & Governance, Area of Interest, Monitoring & Observability, Area of Interest, 300 - Advanced, Level, DevOps Engineer, Role, Tuesday, Day, MGM Grand, Venue, , speakers :firstName_0: Helen, lastName_0: Lin, firstName_1: Lucas, lastName_1: Silva, firstName_2: Praneeth reddy, lastName_2: Tekula, , thirdpartyid :COP337, sessionuid :D7E30D69-753C-4D5B-8876-A6901F35BAD6, title :Solving real-world observability challenges with best practices, description :Join this chalk talk to hear common use cases and challenges faced by customers when setting up their observability posture. Explore real-world use cases and deployment choices, and learn how decisions were made to achieve defined goals. Hear specific use cases and best practices on how AWS customers improved their monitoring, visualization, and analytical abilities to gain higher uptime and operational excellence., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 167, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Boulevard 167
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Join this chalk talk to hear common use cases and challenges faced by customers when setting up their observability posture. Explore real-world use cases and deployment choices, and learn how decisions were made to achieve defined goals. Hear specific use cases and best practices on how AWS customers improved their monitoring, visualization, and analytical abilities to gain higher uptime and operational excellence
+title: Solving real-world observability challenges with best practices
+sessionuid: D7E30D69-753C-4D5B-8876-A6901F35BAD6
+thirdpartyid: COP337
+speakers: firstName_0: Helen, lastName_0: Lin, firstName_1: Lucas, lastName_1: Silva, firstName_2: Praneeth reddy, lastName_2: Tekula
+tag_name: Amazon CloudWatch, Services, Cloud Operations, Topic, System Administrator, Role, Solution/Systems Architect, Role, Management & Governance, Area of Interest, Monitoring & Observability, Area of Interest, 300 - Advanced, Level, DevOps Engineer, Role, Tuesday, Day, MGM Grand, Venue

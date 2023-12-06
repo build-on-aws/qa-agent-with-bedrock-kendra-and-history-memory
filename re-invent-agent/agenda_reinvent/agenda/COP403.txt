@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Margaux 1
+summary: tag_name :400 - Expert, Level, AWS Systems Manager, Services, System Administrator, Role, Cloud Operations, Topic, Amazon CodeWhisperer, Services, Management & Governance, Area of Interest, Solution/Systems Architect, Role, Wednesday, Day, Wynn, Venue, IT Professional/Technical Manager, Role, Amazon CloudWatch, Services, Monitoring & Observability, Area of Interest, , speakers :firstName_0: Narayanan, lastName_0: Lakshmanan, firstName_1: Soniya, lastName_1: Parmar, , thirdpartyid :COP403, sessionuid :3C7FBB23-D84B-4071-8C7F-BA43B6396968, title :Efficiency unleashed: Automating incident remediation, description :Performing operations as code, a design principle recommended by the AWS Well-Architected Framework, can help organizations perform operations more efficiently, limit human error, and achieve predictable results. In this code talk, learn how to implement operations as code. Also, find out how to automate remediations for non-compliant resources in AWS Config and Amazon CloudWatch alarms and incidents using Automation, a capability of AWS Systems Manager., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Margaux 1, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Margaux 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: Performing operations as code, a design principle recommended by the AWS Well-Architected Framework, can help organizations perform operations more efficiently, limit human error, and achieve predictable results. In this code talk, learn how to implement operations as code. Also, find out how to automate remediations for non-compliant resources in AWS Config and Amazon CloudWatch alarms and incidents using Automation, a capability of AWS Systems Manager
+title: Efficiency unleashed: Automating incident remediation
+sessionuid: 3C7FBB23-D84B-4071-8C7F-BA43B6396968
+thirdpartyid: COP403
+speakers: firstName_0: Narayanan, lastName_0: Lakshmanan, firstName_1: Soniya, lastName_1: Parmar
+tag_name: 400 - Expert, Level, AWS Systems Manager, Services, System Administrator, Role, Cloud Operations, Topic, Amazon CodeWhisperer, Services, Management & Governance, Area of Interest, Solution/Systems Architect, Role, Wednesday, Day, Wynn, Venue, IT Professional/Technical Manager, Role, Amazon CloudWatch, Services, Monitoring & Observability, Area of Interest

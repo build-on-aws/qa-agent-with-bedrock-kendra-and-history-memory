@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Advisor/Consultant, Role, Customer Enablement, Topic, Business Executive, Role, 100 - Foundational, Level, Nonprofit, Industry, Workforce Development, Area of Interest, Tuesday, Day, Venetian, Venue, Inclusion & Diversity, Area of Interest, IT Executive, Role, Social Impact, Area of Interest, Business Applications, Topic, , speakers :firstName_0: Kenyatta, lastName_0: Leal, company_0: Next Chapter, , thirdpartyid :IDE108, sessionuid :F5EB69EA-FDEF-4D1B-842C-7EBC89AFF66A, title :Unlocking potential: Fair chance hiring for a more just future, description :Join this lightning talk for an enlightening conversation on transforming your workforce through fair chance hiring practices. Learn how embracing individuals with justice-involved backgrounds can enhance diversity, foster innovation, and create a more inclusive technology environment. Come hear about success stories, practical strategies, and resources that can empower you to open doors for a deserving and untapped talent pool., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :November, 28 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 23:20:00 -0500, 
+enddatetimeutc: November, 28 2023 23:20:00 -0500
+startdatetimeutc: November, 28 2023 23:00:00 -0500
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Join this lightning talk for an enlightening conversation on transforming your workforce through fair chance hiring practices. Learn how embracing individuals with justice-involved backgrounds can enhance diversity, foster innovation, and create a more inclusive technology environment. Come hear about success stories, practical strategies, and resources that can empower you to open doors for a deserving and untapped talent pool
+title: Unlocking potential: Fair chance hiring for a more just future
+sessionuid: F5EB69EA-FDEF-4D1B-842C-7EBC89AFF66A
+thirdpartyid: IDE108
+speakers: firstName_0: Kenyatta, lastName_0: Leal, company_0: Next Chapter
+tag_name: Advisor/Consultant, Role, Customer Enablement, Topic, Business Executive, Role, 100 - Foundational, Level, Nonprofit, Industry, Workforce Development, Area of Interest, Tuesday, Day, Venetian, Venue, Inclusion & Diversity, Area of Interest, IT Executive, Role, Social Impact, Area of Interest, Business Applications, Topic

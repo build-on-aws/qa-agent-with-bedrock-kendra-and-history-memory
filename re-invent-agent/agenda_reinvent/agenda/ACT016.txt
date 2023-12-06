@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Convention Center, Bayside B, Pickle Ball Tournament
+summary: tag_name :Community Activities, Additional Services, Monday, Day, Mandalay Bay, Venue, , speakers :, thirdpartyid :ACT016, sessionuid :1433F029-CFE8-4FC7-B076-17FD3FFF42E0, title :AWS Pickleball Tournament, description :<p>New in 2023—don’t miss out on your chance to join the pickleball fun by competing in the AWS Pickleball Tournament. Make it to the championship round, played on Thursday night at re:Play, for a chance to take home a pass to AWS re:Invent 2024. Visit the pickleball check-in desk in the re:Invent Rec Center for full details and to participate. Tournament participation and play time assignments are available on a first-come, first-served basis. Tournament play times start every hour on the hour, from 10:00 AM to 5:00 PM. All players must be available to play as far as they advance. Terms and conditions apply.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Convention Center, Bayside B, Pickle Ball Tournament, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 28 2023 02:00:00 -0500, 
+enddatetimeutc: November, 28 2023 02:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: South Convention Center, Bayside B, Pickle Ball Tournament
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>New in 2023—don’t miss out on your chance to join the pickleball fun by competing in the AWS Pickleball Tournament. Make it to the championship round, played on Thursday night at re:Play, for a chance to take home a pass to AWS re:Invent 2024. Visit the pickleball check-in desk in the re:Invent Rec Center for full details and to participate. Tournament participation and play time assignments are available on a first-come, first-served basis. Tournament play times start every hour on the hour, from 10:00 AM to 5:00 PM. All players must be available to play as far as they advance. Terms and conditions apply.</p>
+title: AWS Pickleball Tournament
+sessionuid: 1433F029-CFE8-4FC7-B076-17FD3FFF42E0
+thirdpartyid: ACT016
+speakers: 
+tag_name: Community Activities, Additional Services, Monday, Day, Mandalay Bay, Venue

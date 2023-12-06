@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :IT Executive, Role, Business Executive, Role, Cross Industry, Industry, Edge Computing, Area of Interest, Wednesday, Day, Venetian, Venue, Solution/Systems Architect, Role, Generative AI, Area of Interest, Internet of Things, Topic, Analytics, Topic, 100 - Foundational, Level, Business Intelligence, Area of Interest, , speakers :, thirdpartyid :IOT104-S, sessionuid :12DDD0B2-4056-4974-81B3-CEB052366EA3, title :Unlock the power of IoT: Intro to NTT’s edge analytics platform (sponsored by NTT DATA), description :This lightning talk provides an introduction to NTT Smart Solutions, an IoT-enabled edge analytics platform that provides people-centric insights in real time. Learn how to address the challenges of the IoT revolution by using this platform to process data from virtually any source and turn it into actionable intelligence and outcomes. Come away from this talk with an understanding of how to better build, deploy and manage smart world solutions. This presentation is brought to you by NTT DATA, an AWS Partner., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 29 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 23:50:00 -0500, 
+enddatetimeutc: November, 29 2023 23:50:00 -0500
+startdatetimeutc: November, 29 2023 23:30:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: This lightning talk provides an introduction to NTT Smart Solutions, an IoT-enabled edge analytics platform that provides people-centric insights in real time. Learn how to address the challenges of the IoT revolution by using this platform to process data from virtually any source and turn it into actionable intelligence and outcomes. Come away from this talk with an understanding of how to better build, deploy and manage smart world solutions. This presentation is brought to you by NTT DATA, an AWS Partner
+title: Unlock the power of IoT: Intro to NTT’s edge analytics platform (sponsored by NTT DATA)
+sessionuid: 12DDD0B2-4056-4974-81B3-CEB052366EA3
+thirdpartyid: IOT104-S
+speakers: 
+tag_name: IT Executive, Role, Business Executive, Role, Cross Industry, Industry, Edge Computing, Area of Interest, Wednesday, Day, Venetian, Venue, Solution/Systems Architect, Role, Generative AI, Area of Interest, Internet of Things, Topic, Analytics, Topic, 100 - Foundational, Level, Business Intelligence, Area of Interest

@@ -1,0 +1,14 @@
+location: Venetian, Level 5, Palazzo Ballroom B
+summary: tag_name :Amazon Bedrock, Services, Innovation on AWS, Area of Interest, 200 - Intermediate, Level, Customer Stories, Area of Interest, Wednesday, Day, Venetian, Venue, Amazon SageMaker, Services, Generative AI, Area of Interest, AI/ML, Topic, , speakers :firstName_0: Shaown, lastName_0: Nandi, firstName_1: Marc, lastName_1: Berson, firstName_2: Fay, lastName_2: Kallel, firstName_3: Seth, lastName_3: Walker, , thirdpartyid :AIM248-INT, sessionuid :A55A1644-04FA-40DF-AB6E-9BBB4FEF7AD5, title :Unlocking the industry potential of generative AI, description :Generative AI has captured the imagination of many industries and is poised to bring in the next wave of technological advancements. In this innovation talk, hear how the largest industries, from healthcare and financial services to automotive and media and entertainment, are using generative AI to drive outcomes for their customers. Join Shaown Nandi, AWS Director of Technology for Industries and Strategic Accounts, and industry leaders to hear how generative AI is accelerating content creation and helping organizations reimagine customer experiences., sessiontype :Innovation Talk, venuename :Venetian, floorplanname :Level 5, locationname :Palazzo Ballroom B, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Palazzo Ballroom B
+floorplanname: Level 5
+venuename: Venetian
+sessiontype: Innovation Talk
+description: Generative AI has captured the imagination of many industries and is poised to bring in the next wave of technological advancements. In this innovation talk, hear how the largest industries, from healthcare and financial services to automotive and media and entertainment, are using generative AI to drive outcomes for their customers. Join Shaown Nandi, AWS Director of Technology for Industries and Strategic Accounts, and industry leaders to hear how generative AI is accelerating content creation and helping organizations reimagine customer experiences
+title: Unlocking the industry potential of generative AI
+sessionuid: A55A1644-04FA-40DF-AB6E-9BBB4FEF7AD5
+thirdpartyid: AIM248-INT
+speakers: firstName_0: Shaown, lastName_0: Nandi, firstName_1: Marc, lastName_1: Berson, firstName_2: Fay, lastName_2: Kallel, firstName_3: Seth, lastName_3: Walker
+tag_name: Amazon Bedrock, Services, Innovation on AWS, Area of Interest, 200 - Intermediate, Level, Customer Stories, Area of Interest, Wednesday, Day, Venetian, Venue, Amazon SageMaker, Services, Generative AI, Area of Interest, AI/ML, Topic

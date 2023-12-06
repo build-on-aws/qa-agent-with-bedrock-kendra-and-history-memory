@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 220
+summary: tag_name :Architecture, Topic, Innovation on AWS, Area of Interest, Advisor/Consultant, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Cross Industry, Industry, 200 - Intermediate, Level, Tuesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Sushanth, lastName_0: Mangalore, firstName_1: Mukund, lastName_1: Rao, , thirdpartyid :ARC210, sessionuid :18C991DB-E4F9-45A4-B502-940643EB2CEA, title :A capability-oriented approach to defining your cloud architecture, description :<p>When you’re architecting your workloads, you have a choice of 200+ services on AWS. However, it doesn't have to be overwhelming to pick the right services for your architecture. By defining your workload in terms of the capabilities required by your system, you can simplify your choices. Your system’s capabilities are a combination of functional and non-functional requirements, and defining these important characteristics allows you to be better equipped to match the right AWS service to your system capabilities. In this chalk talk, learn how to organize your system by capabilities and then discover the design principles in place to help you pick the right services for those capabilities.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 220, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 23:00:00 -0500, 
+enddatetimeutc: November, 28 2023 23:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Summit 220
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>When you’re architecting your workloads, you have a choice of 200+ services on AWS. However, it doesn't have to be overwhelming to pick the right services for your architecture. By defining your workload in terms of the capabilities required by your system, you can simplify your choices. Your system’s capabilities are a combination of functional and non-functional requirements, and defining these important characteristics allows you to be better equipped to match the right AWS service to your system capabilities. In this chalk talk, learn how to organize your system by capabilities and then discover the design principles in place to help you pick the right services for those capabilities.</p>
+title: A capability-oriented approach to defining your cloud architecture
+sessionuid: 18C991DB-E4F9-45A4-B502-940643EB2CEA
+thirdpartyid: ARC210
+speakers: firstName_0: Sushanth, lastName_0: Mangalore, firstName_1: Mukund, lastName_1: Rao
+tag_name: Architecture, Topic, Innovation on AWS, Area of Interest, Advisor/Consultant, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Cross Industry, Industry, 200 - Intermediate, Level, Tuesday, Day, Caesars Forum, Venue

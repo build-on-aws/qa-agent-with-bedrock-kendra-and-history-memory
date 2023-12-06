@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 315
+summary: tag_name :Data Engineer, Role, MGM Grand, Venue, Wednesday, Day, Amazon SageMaker, Services, Healthcare, Industry, AI/ML, Topic, 400 - Expert, Level, Developer/Engineer, Role, Generative AI, Area of Interest, Life Sciences, Industry, Amazon Bedrock, Services, Solution/Systems Architect, Role, Amazon Connect, Services, , speakers :firstName_0: Nihir, lastName_0: Chadderwala, firstName_1: Steve, lastName_1: Fu, , thirdpartyid :HLC401, sessionuid :D76B3235-E6D2-4B8D-A99C-9255868F9E36, title :Transforming digital health with a generative AI conversational QnAbot, description :<p>Intelligent health chatbots, powered by generative AI, can improve the navigation and coordination of care and communication between patients and providers. In this workshop, learn how to use foundation models on AWS to build a multichannel, multilanguage conversational interface (QnAbot) to query and summarize data in AWS HealthLake. Learn how to integrate QnAbot with Amazon Connect to build a smart contact center to better serve patients. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 315, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 00:30:00 -0500, 
+enddatetimeutc: November, 30 2023 00:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Premier 315
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>Intelligent health chatbots, powered by generative AI, can improve the navigation and coordination of care and communication between patients and providers. In this workshop, learn how to use foundation models on AWS to build a multichannel, multilanguage conversational interface (QnAbot) to query and summarize data in AWS HealthLake. Learn how to integrate QnAbot with Amazon Connect to build a smart contact center to better serve patients. You must bring your laptop to participate.</p>
+title: Transforming digital health with a generative AI conversational QnAbot
+sessionuid: D76B3235-E6D2-4B8D-A99C-9255868F9E36
+thirdpartyid: HLC401
+speakers: firstName_0: Nihir, lastName_0: Chadderwala, firstName_1: Steve, lastName_1: Fu
+tag_name: Data Engineer, Role, MGM Grand, Venue, Wednesday, Day, Amazon SageMaker, Services, Healthcare, Industry, AI/ML, Topic, 400 - Expert, Level, Developer/Engineer, Role, Generative AI, Area of Interest, Life Sciences, Industry, Amazon Bedrock, Services, Solution/Systems Architect, Role, Amazon Connect, Services

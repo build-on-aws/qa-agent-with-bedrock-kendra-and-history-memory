@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 121
+summary: tag_name :Serverless Compute, Topic, Independent Software Vendor (ISV), Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon API Gateway, Services, AWS Lambda, Services, Monday, Day, Caesars Forum, Venue, , speakers :firstName_0: Thomas, lastName_0: Moore, , thirdpartyid :SEG206, sessionuid :BCBAD2C0-617D-439F-A9F8-2BB208547947, title :Getting started building serverless SaaS architectures, description :<p>Are you planning to build a new software as a service (SaaS) application using serverless on AWS? Do you want to modernize an existing SaaS application to serverless and want to know more about multi-tenancy? In this session, explore the fundamentals of serverless at AWS. Learn about AWS Lambda, Amazon API Gateway, and event-driven integration services; how to build your first serverless application; and how to tackle multi-tenant architectures for SaaS applications.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 121, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 20:30:00 -0500, 
+enddatetimeutc: November, 27 2023 20:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Forum 121
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Are you planning to build a new software as a service (SaaS) application using serverless on AWS? Do you want to modernize an existing SaaS application to serverless and want to know more about multi-tenancy? In this session, explore the fundamentals of serverless at AWS. Learn about AWS Lambda, Amazon API Gateway, and event-driven integration services; how to build your first serverless application; and how to tackle multi-tenant architectures for SaaS applications.</p>
+title: Getting started building serverless SaaS architectures
+sessionuid: BCBAD2C0-617D-439F-A9F8-2BB208547947
+thirdpartyid: SEG206
+speakers: firstName_0: Thomas, lastName_0: Moore
+tag_name: Serverless Compute, Topic, Independent Software Vendor (ISV), Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon API Gateway, Services, AWS Lambda, Services, Monday, Day, Caesars Forum, Venue

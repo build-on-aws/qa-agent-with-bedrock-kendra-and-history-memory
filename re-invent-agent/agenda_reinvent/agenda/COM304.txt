@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 7
+summary: tag_name :Advisor/Consultant, Role, AWS Community, Area of Interest, Amazon DynamoDB, Services, Architecture, Topic, Automotive, Industry, Solution/Systems Architect, Role, Resilience, Area of Interest, Management & Governance, Area of Interest, Tuesday, Day, Wynn, Venue, Databases, Topic, 300 - Advanced, Level, Developer/Engineer, Role, , speakers :firstName_0: Anurag, lastName_0: Kale, company_0: Polestar Performance AB, , thirdpartyid :COM304, sessionuid :7BC4E4A5-CAA9-40DA-823E-81C8E3BF6E9B, title :Composable architecture using Amazon DynamoDB and domain-driven design, description :Enterprises building software often face multiple setbacks in the software lifecycle due to domain complexity, unclear application boundaries, and a disconnect between business needs and implemented software. Following domain-driven design (DDD) practices can help you navigate complex business domains and avoid common pitfalls. In this session, learn the core DDD concepts of ubiquitous language, aggregates, and bounded context and how the Amazon DynamoDB single-table design process fits into recommendations of aggregates., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 7, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Cristal 7
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Breakout Session
+description: Enterprises building software often face multiple setbacks in the software lifecycle due to domain complexity, unclear application boundaries, and a disconnect between business needs and implemented software. Following domain-driven design (DDD) practices can help you navigate complex business domains and avoid common pitfalls. In this session, learn the core DDD concepts of ubiquitous language, aggregates, and bounded context and how the Amazon DynamoDB single-table design process fits into recommendations of aggregates
+title: Composable architecture using Amazon DynamoDB and domain-driven design
+sessionuid: 7BC4E4A5-CAA9-40DA-823E-81C8E3BF6E9B
+thirdpartyid: COM304
+speakers: firstName_0: Anurag, lastName_0: Kale, company_0: Polestar Performance AB
+tag_name: Advisor/Consultant, Role, AWS Community, Area of Interest, Amazon DynamoDB, Services, Architecture, Topic, Automotive, Industry, Solution/Systems Architect, Role, Resilience, Area of Interest, Management & Governance, Area of Interest, Tuesday, Day, Wynn, Venue, Databases, Topic, 300 - Advanced, Level, Developer/Engineer, Role

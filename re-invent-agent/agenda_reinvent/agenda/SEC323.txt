@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 305
+summary: tag_name :Monitoring & Observability, Area of Interest, Security, Compliance, & Identity, Topic, Caesars Forum, Venue, Wednesday, Day, Cross Industry, Industry, Solution/Systems Architect, Role, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Developer/Engineer, Role, , speakers :firstName_0: Kevin, lastName_0: Shanley, firstName_1: Jeremy, lastName_1: Ware, , thirdpartyid :SEC323, sessionuid :84C30CDE-000B-4238-A508-9C56AD4AFE2A, title :Observability patterns in custom apps with Amazon Verified Permissions, description :This chalk talk presents observability patterns for custom applications using Amazon Verified Permissions, including which events are natively delivered, which applications should generate, and where the data should be collected. This observability empowers security and audit teams for future threat detection and incident response (TDIR) activities and historic auditing/attestation. Come with your questions about observability for Verified Permissions–enabled applications., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 305, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 17:30:00 -0500, 
+enddatetimeutc: November, 29 2023 17:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: Alliance 305
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: This chalk talk presents observability patterns for custom applications using Amazon Verified Permissions, including which events are natively delivered, which applications should generate, and where the data should be collected. This observability empowers security and audit teams for future threat detection and incident response (TDIR) activities and historic auditing/attestation. Come with your questions about observability for Verified Permissions–enabled applications
+title: Observability patterns in custom apps with Amazon Verified Permissions
+sessionuid: 84C30CDE-000B-4238-A508-9C56AD4AFE2A
+thirdpartyid: SEC323
+speakers: firstName_0: Kevin, lastName_0: Shanley, firstName_1: Jeremy, lastName_1: Ware
+tag_name: Monitoring & Observability, Area of Interest, Security, Compliance, & Identity, Topic, Caesars Forum, Venue, Wednesday, Day, Cross Industry, Industry, Solution/Systems Architect, Role, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Developer/Engineer, Role

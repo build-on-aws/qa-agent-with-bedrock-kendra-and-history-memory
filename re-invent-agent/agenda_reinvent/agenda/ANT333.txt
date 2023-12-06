@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :Amazon Athena, Services, Analytics, Topic, AI/ML, Topic, AWS Glue, Services, Developer/Engineer, Role, Generative AI, Area of Interest, Monday, Day, Mandalay Bay, Venue, Amazon Managed Workflows for Apache Airflow (MWAA), Services, 300 - Advanced, Level, , speakers :firstName_0: John, lastName_0: Jackson, firstName_1: Praveen, lastName_1: Kumar, , thirdpartyid :ANT333-R, sessionuid :2572B4A5-8321-4D1B-81F8-12125F5467B7, title :Data integration with AWS Glue and Amazon MWAA [REPEAT], description :Analytics professionals are tasked with integrating data from distributed systems (data lakes, data warehouses, search, NoSQL, machine learning, and more) to create better, secure, and cost-optimized experiences for their customers. They are looking for low-code, serverless tools and solutions to connect, process, and catalog data. Join this chalk talk to learn how to use AWS Glue, Amazon MWAA, Amazon Athena, and other AWS services to build foundations for your data integration strategy and to orchestrate data pipelines., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: Analytics professionals are tasked with integrating data from distributed systems (data lakes, data warehouses, search, NoSQL, machine learning, and more) to create better, secure, and cost-optimized experiences for their customers. They are looking for low-code, serverless tools and solutions to connect, process, and catalog data. Join this chalk talk to learn how to use AWS Glue, Amazon MWAA, Amazon Athena, and other AWS services to build foundations for your data integration strategy and to orchestrate data pipelines
+title: Data integration with AWS Glue and Amazon MWAA [REPEAT]
+sessionuid: 2572B4A5-8321-4D1B-81F8-12125F5467B7
+thirdpartyid: ANT333-R
+speakers: firstName_0: John, lastName_0: Jackson, firstName_1: Praveen, lastName_1: Kumar
+tag_name: Amazon Athena, Services, Analytics, Topic, AI/ML, Topic, AWS Glue, Services, Developer/Engineer, Role, Generative AI, Area of Interest, Monday, Day, Mandalay Bay, Venue, Amazon Managed Workflows for Apache Airflow (MWAA), Services, 300 - Advanced, Level

@@ -1,0 +1,14 @@
+location: Venetian, Level 2, re:Invent Registration Area
+summary: tag_name :Venetian, Venue, Wednesday, Day, , speakers :, thirdpartyid :ACT166, sessionuid :7CABA8E1-36B3-4BD7-991D-05810AD043B4, title :Impact and Give Back, description :<p><span id="isPasted" style='color: rgb(51, 51, 51); font-family: -apple-system, system-ui, "system-ui", "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>Stop by Impact and Give Back in The Venetian foyer to #GiveBack to AWS local nonprofits and Amazon disaster relief efforts.</span></p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :re:Invent Registration Area, startdatetimeutc :November, 29 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 19:00:00 -0500
+locationname: re:Invent Registration Area
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p><span id="isPasted" style='color: rgb(51, 51, 51); font-family: -apple-system, system-ui, "system-ui", "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>Stop by Impact and Give Back in The Venetian foyer to #GiveBack to AWS local nonprofits and Amazon disaster relief efforts.</span></p>
+title: Impact and Give Back
+sessionuid: 7CABA8E1-36B3-4BD7-991D-05810AD043B4
+thirdpartyid: ACT166
+speakers: 
+tag_name: Venetian, Venue, Wednesday, Day

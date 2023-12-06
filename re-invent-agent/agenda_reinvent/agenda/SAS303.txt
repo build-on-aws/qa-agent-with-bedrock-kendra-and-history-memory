@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :DevOps Engineer, Role, SaaS, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, Architecture, Topic, Thursday, Day, Mandalay Bay, Venue, 300 - Advanced, Level, , speakers :firstName_0: Anthony, lastName_0: McClure, firstName_1: Ranjith, lastName_1: Raman, , thirdpartyid :SAS303, sessionuid :B51713CD-1EB4-4C2E-93AC-A5FDD9F64C5A, title :Inside the SaaS control plane, description :Building any SaaS solution begins with the creation of a control plane that provides support for all the cross-cutting multi-tenant constructs that are foundational to building a robust SaaS environment. The control plane is at the core of realizing the agility, operational, and efficiency goals that are foundational to your SaaS business. In this chalk talk, dive deep into the details of the control plane and examine the inner workings of the full range of common control plane services including onboarding, identity, metrics, billing, and more. Leave the talk with foundational insights you can use to construct your own SaaS control plane., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 20:30:00 -0500, 
+enddatetimeutc: November, 30 2023 20:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: Building any SaaS solution begins with the creation of a control plane that provides support for all the cross-cutting multi-tenant constructs that are foundational to building a robust SaaS environment. The control plane is at the core of realizing the agility, operational, and efficiency goals that are foundational to your SaaS business. In this chalk talk, dive deep into the details of the control plane and examine the inner workings of the full range of common control plane services including onboarding, identity, metrics, billing, and more. Leave the talk with foundational insights you can use to construct your own SaaS control plane
+title: Inside the SaaS control plane
+sessionuid: B51713CD-1EB4-4C2E-93AC-A5FDD9F64C5A
+thirdpartyid: SAS303
+speakers: firstName_0: Anthony, lastName_0: McClure, firstName_1: Ranjith, lastName_1: Raman
+tag_name: DevOps Engineer, Role, SaaS, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, Architecture, Topic, Thursday, Day, Mandalay Bay, Venue, 300 - Advanced, Level

@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Summit Showroom
+summary: tag_name :AI/ML, Topic, Generative AI, Area of Interest, Education, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Monday, Day, Venetian, Venue, , speakers :firstName_0: Dr. Ebtesam, lastName_0: Almazrouei, company_0: Technology Innovation Institute, firstName_1: Ben, lastName_1: Snively, firstName_2: Will, lastName_2: Badr, , thirdpartyid :WPS209, sessionuid :B3329F2D-5091-4DBE-9DD3-4A8E753F99F8, title :Building Falcon LLM: A top-ranked open source language model, description :<p>In this session, learn how the Technology Innovation Institute (TII) built the next generation of generative AI technology. Discover how TII expanded the scope of the modern standard language model by applying know-how in large language models (LLMs) to build cross-disciplinary, cutting-edge expertise. Trained on extensive amounts of text data, Falcon LLM generates human-like responses to user prompts quickly and at a low cost.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Summit Showroom, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 17:30:00 -0500, 
+enddatetimeutc: November, 27 2023 17:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: Summit Showroom
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>In this session, learn how the Technology Innovation Institute (TII) built the next generation of generative AI technology. Discover how TII expanded the scope of the modern standard language model by applying know-how in large language models (LLMs) to build cross-disciplinary, cutting-edge expertise. Trained on extensive amounts of text data, Falcon LLM generates human-like responses to user prompts quickly and at a low cost.</p>
+title: Building Falcon LLM: A top-ranked open source language model
+sessionuid: B3329F2D-5091-4DBE-9DD3-4A8E753F99F8
+thirdpartyid: WPS209
+speakers: firstName_0: Dr. Ebtesam, lastName_0: Almazrouei, company_0: Technology Innovation Institute, firstName_1: Ben, lastName_1: Snively, firstName_2: Will, lastName_2: Badr
+tag_name: AI/ML, Topic, Generative AI, Area of Interest, Education, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Monday, Day, Venetian, Venue

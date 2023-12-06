@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Bellini 2105
+summary: tag_name :200 - Intermediate, Level, Solution/Systems Architect, Role, Data Engineer, Role, Business Executive, Role, Cross Industry, Industry, Monday, Day, Venetian, Venue, AI/ML, Topic, Manufacturing & Industrial, Industry, Sustainability, Area of Interest, , speakers :firstName_0: Brian, lastName_0: Rowe, company_0: Rehrig Pacific Company, firstName_1: Aditi, lastName_1: Suresh, , thirdpartyid :SUS204, sessionuid :6160DC20-DD9C-46F8-B9C4-605600D350CB, title :Using AI for ESG reporting and data-driven decision-making, description :<p>Organizations are making commitments to sustainability but face challenges in measuring and analyzing the data required to meet these goals. One of the key challenges organizations face is an ability to extract datasets from different sources. In this session, learn how AWS generative AI services power the FlexZero platform and offer a way to ingest and process carbon data using pre-existing industry standard carbon emission factors and calculations. Rehrig Pacific, a leader in supply chain solutions, shares insights on how they are accurately measuring and reporting on their carbon footprint, in collaboration with AWS and FlexZero.</p>, sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Bellini 2105, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 17:30:00 -0500, 
+enddatetimeutc: November, 27 2023 17:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: Bellini 2105
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: <p>Organizations are making commitments to sustainability but face challenges in measuring and analyzing the data required to meet these goals. One of the key challenges organizations face is an ability to extract datasets from different sources. In this session, learn how AWS generative AI services power the FlexZero platform and offer a way to ingest and process carbon data using pre-existing industry standard carbon emission factors and calculations. Rehrig Pacific, a leader in supply chain solutions, shares insights on how they are accurately measuring and reporting on their carbon footprint, in collaboration with AWS and FlexZero.</p>
+title: Using AI for ESG reporting and data-driven decision-making
+sessionuid: 6160DC20-DD9C-46F8-B9C4-605600D350CB
+thirdpartyid: SUS204
+speakers: firstName_0: Brian, lastName_0: Rowe, company_0: Rehrig Pacific Company, firstName_1: Aditi, lastName_1: Suresh
+tag_name: 200 - Intermediate, Level, Solution/Systems Architect, Role, Data Engineer, Role, Business Executive, Role, Cross Industry, Industry, Monday, Day, Venetian, Venue, AI/ML, Topic, Manufacturing & Industrial, Industry, Sustainability, Area of Interest

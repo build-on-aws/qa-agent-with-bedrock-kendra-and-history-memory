@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 101
+summary: tag_name :Amazon Bedrock, Services, Solution/Systems Architect, Role, AI/ML, Topic, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Amazon Connect, Services, Thursday, Day, Caesars Forum, Venue, Generative AI, Area of Interest, 300 - Advanced, Level, Business Applications, Topic, , speakers :firstName_0: Clarence, lastName_0: Choi, firstName_1: Prashanth, lastName_1: Krishnamurthy, , thirdpartyid :BIZ311, sessionuid :EA9B8905-356F-4539-B5DA-0C14E18F80D9, title :Automate agent evaluations with Amazon Connect and generative AI, description :Join this chalk talk to learn how Amazon Connect Contact Lens and generative AI can help streamline and automate the agent evaluation process, allowing managers to assess more agent-customer interactions while reducing the amount of time they spend identifying performance issues and coaching agents to help them perform their best. Learn how to use tailored contact center data to build a model that identifies areas of improvement for your agents so managers can fine-tune coaching and training programs and ultimately improve customer service results., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 101, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Forum 101
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Join this chalk talk to learn how Amazon Connect Contact Lens and generative AI can help streamline and automate the agent evaluation process, allowing managers to assess more agent-customer interactions while reducing the amount of time they spend identifying performance issues and coaching agents to help them perform their best. Learn how to use tailored contact center data to build a model that identifies areas of improvement for your agents so managers can fine-tune coaching and training programs and ultimately improve customer service results
+title: Automate agent evaluations with Amazon Connect and generative AI
+sessionuid: EA9B8905-356F-4539-B5DA-0C14E18F80D9
+thirdpartyid: BIZ311
+speakers: firstName_0: Clarence, lastName_0: Choi, firstName_1: Prashanth, lastName_1: Krishnamurthy
+tag_name: Amazon Bedrock, Services, Solution/Systems Architect, Role, AI/ML, Topic, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Amazon Connect, Services, Thursday, Day, Caesars Forum, Venue, Generative AI, Area of Interest, 300 - Advanced, Level, Business Applications, Topic

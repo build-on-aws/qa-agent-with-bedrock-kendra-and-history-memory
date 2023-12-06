@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas G
+summary: tag_name :Advisor/Consultant, Role, Sales/Marketing, Role, Business Executive, Role, New to AWS, Topic, 100 - Foundational, Level, Monday, Day, Mandalay Bay, Venue, Cross Industry, Industry, Training & Certification, Topic, , speakers :firstName_0: Satabdi, lastName_0: Das, firstName_1: Julie, lastName_1: Goolsby, , thirdpartyid :TNC108, sessionuid :720FD5B4-710C-495F-A596-BB2CCCBCF283, title :Exam prep: AWS Certified Cloud Practitioner, description :Prepare for the AWS Certified Cloud Practitioner exam with this 1.5-hour interactive study session. Review the AWS Certified Cloud Practitioner Official Practice Question Set, and get your questions answered by the subject matter expert leading the study session., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas G, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 18:30:00 -0500, 
+enddatetimeutc: November, 27 2023 18:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: South Seas G
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Prepare for the AWS Certified Cloud Practitioner exam with this 1.5-hour interactive study session. Review the AWS Certified Cloud Practitioner Official Practice Question Set, and get your questions answered by the subject matter expert leading the study session
+title: Exam prep: AWS Certified Cloud Practitioner
+sessionuid: 720FD5B4-710C-495F-A596-BB2CCCBCF283
+thirdpartyid: TNC108
+speakers: firstName_0: Satabdi, lastName_0: Das, firstName_1: Julie, lastName_1: Goolsby
+tag_name: Advisor/Consultant, Role, Sales/Marketing, Role, Business Executive, Role, New to AWS, Topic, 100 - Foundational, Level, Monday, Day, Mandalay Bay, Venue, Cross Industry, Industry, Training & Certification, Topic

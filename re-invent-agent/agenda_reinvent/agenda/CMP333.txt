@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 113
+summary: tag_name :Architecture, Topic, Compute, Topic, Application Integration, Area of Interest, Innovation on AWS, Area of Interest, Well-Architected Framework, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Block Store (EBS), Services, Amazon Elastic Compute Cloud (EC2), Services, AWS Auto Scaling, Services, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Jon, lastName_0: Schwenn, firstName_1: Markus, lastName_1: Weyerhaeuser, , thirdpartyid :CMP333, sessionuid :91B1636D-115D-4CCF-9991-7E2F643A01F0, title :Accelerate Apple application development with Amazon EC2 Mac instances, description :<p>Amazon EC2 Mac instances allow you to run on-demand macOS workloads for Apple application development in the cloud. Join this workshop to dive deep into best practices to automate the provisioning, configuration, and scaling of your Amazon EC2 Mac instances. By attending this workshop, you also learn how to prepare an Amazon Machine Image (AMI), replace the root volume to speed up your updates, and use Amazon EC2 Auto Scaling to dynamically adjust the size of your fleet. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 113, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 03:30:00 -0500, 
+enddatetimeutc: November, 30 2023 03:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Grand 113
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Amazon EC2 Mac instances allow you to run on-demand macOS workloads for Apple application development in the cloud. Join this workshop to dive deep into best practices to automate the provisioning, configuration, and scaling of your Amazon EC2 Mac instances. By attending this workshop, you also learn how to prepare an Amazon Machine Image (AMI), replace the root volume to speed up your updates, and use Amazon EC2 Auto Scaling to dynamically adjust the size of your fleet. You must bring your laptop to participate.</p>
+title: Accelerate Apple application development with Amazon EC2 Mac instances
+sessionuid: 91B1636D-115D-4CCF-9991-7E2F643A01F0
+thirdpartyid: CMP333
+speakers: firstName_0: Jon, lastName_0: Schwenn, firstName_1: Markus, lastName_1: Weyerhaeuser
+tag_name: Architecture, Topic, Compute, Topic, Application Integration, Area of Interest, Innovation on AWS, Area of Interest, Well-Architected Framework, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Block Store (EBS), Services, Amazon Elastic Compute Cloud (EC2), Services, AWS Auto Scaling, Services, Wednesday, Day, MGM Grand, Venue

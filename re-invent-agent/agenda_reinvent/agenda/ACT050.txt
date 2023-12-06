@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1280
+summary: tag_name :Inclusion & Diversity, Area of Interest, Wednesday, Day, Venetian, Venue, PeerTalks, Additional Services, , speakers :, thirdpartyid :ACT050, sessionuid :53051BF5-2F00-47F7-BDF9-86409F26C5CC, title :LGBTQIA+ in Tech fireside chat and meetup, description :Join Glamazon leaders to discuss what it’s like to be part of the LGBTQIA+ community at Amazon. This fireside chat dives into Glamazon’s mission, vision, and values that serve as the foundation of an inclusive workplace that fosters belonging, respect, and teamwork. Following this fireside chat, network and find community with fellow re:Invent attendees during our LGBTQIA+ in Tech meetup., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1280, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 21:00:00 -0500, 
+enddatetimeutc: November, 29 2023 21:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Hall B, Expo, Booth #1280
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Join Glamazon leaders to discuss what it’s like to be part of the LGBTQIA+ community at Amazon. This fireside chat dives into Glamazon’s mission, vision, and values that serve as the foundation of an inclusive workplace that fosters belonging, respect, and teamwork. Following this fireside chat, network and find community with fellow re:Invent attendees during our LGBTQIA+ in Tech meetup
+title: LGBTQIA+ in Tech fireside chat and meetup
+sessionuid: 53051BF5-2F00-47F7-BDF9-86409F26C5CC
+thirdpartyid: ACT050
+speakers: 
+tag_name: Inclusion & Diversity, Area of Interest, Wednesday, Day, Venetian, Venue, PeerTalks, Additional Services

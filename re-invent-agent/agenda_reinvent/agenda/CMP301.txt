@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Islander I
+summary: tag_name :Generative AI, Area of Interest, 300 - Advanced, Level, Amazon Elastic Compute Cloud (EC2), Services, AI/ML, Topic, Cost Optimization, Area of Interest, Solution/Systems Architect, Role, Amazon SageMaker, Services, Tuesday, Day, Mandalay Bay, Venue, Developer/Engineer, Role, Compute, Topic, Data Scientist, Role, Innovation on AWS, Area of Interest, Cross Industry, Industry, , speakers :firstName_0: Jianying, lastName_0: Lang, firstName_1: Matthew, lastName_1: McClean, , thirdpartyid :CMP301, sessionuid :CBE6FAF9-2ACF-48B8-B52B-41A68630EAB9, title :Deploy LLMs on AWS Inferentia with Amazon SageMaker and Amazon EKS, description :Large language models (LLMs) are applied for use cases such as chatbots, enterprise search, and coding companions. AWS Inferentia2 is ideal for LLM inference, providing high performance at up to 40% lower cost per inference. In this workshop, learn how to deploy LLMs at scale on AWS Inferentia2 using Amazon SageMaker and Amazon EKS. Discover the best practices and model serving options for LLM inference to achieve great performance and lower costs. Finally, learn about libraries that AWS has built to help you achieve these goals. You must bring your laptop to participate., sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Islander I, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Islander I
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: Large language models (LLMs) are applied for use cases such as chatbots, enterprise search, and coding companions. AWS Inferentia2 is ideal for LLM inference, providing high performance at up to 40% lower cost per inference. In this workshop, learn how to deploy LLMs at scale on AWS Inferentia2 using Amazon SageMaker and Amazon EKS. Discover the best practices and model serving options for LLM inference to achieve great performance and lower costs. Finally, learn about libraries that AWS has built to help you achieve these goals. You must bring your laptop to participate
+title: Deploy LLMs on AWS Inferentia with Amazon SageMaker and Amazon EKS
+sessionuid: CBE6FAF9-2ACF-48B8-B52B-41A68630EAB9
+thirdpartyid: CMP301
+speakers: firstName_0: Jianying, lastName_0: Lang, firstName_1: Matthew, lastName_1: McClean
+tag_name: Generative AI, Area of Interest, 300 - Advanced, Level, Amazon Elastic Compute Cloud (EC2), Services, AI/ML, Topic, Cost Optimization, Area of Interest, Solution/Systems Architect, Role, Amazon SageMaker, Services, Tuesday, Day, Mandalay Bay, Venue, Developer/Engineer, Role, Compute, Topic, Data Scientist, Role, Innovation on AWS, Area of Interest, Cross Industry, Industry

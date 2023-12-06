@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :Databases, Topic, 300 - Advanced, Level, Cost Optimization, Area of Interest, DevOps Engineer, Role, Developer/Engineer, Role, Tuesday, Day, Mandalay Bay, Venue, Amazon RedShift, Services, Data Engineer, Role, Analytics, Topic, , speakers :firstName_0: Milind, lastName_0: Oke, firstName_1: Stefan, lastName_1: Gromoll, firstName_2: Guy, lastName_2: Roberts, , thirdpartyid :ANT335, sessionuid :D1270B13-05B7-42B7-8DE4-714EB3CAE322, title :Get the most out of your data warehousing workloads, description :Getting timely value from data requires systems that can deliver high performance at any scale while keeping costs low. Amazon Redshift, a fast and economical cloud data warehouse, empowers tens of thousands of organizations to analyze exabytes of data every day. Join this chalk talk to learn how Amazon Redshift innovates continuously to improve price performance and how you can best take advantage of these features to get the most out of your data., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: Getting timely value from data requires systems that can deliver high performance at any scale while keeping costs low. Amazon Redshift, a fast and economical cloud data warehouse, empowers tens of thousands of organizations to analyze exabytes of data every day. Join this chalk talk to learn how Amazon Redshift innovates continuously to improve price performance and how you can best take advantage of these features to get the most out of your data
+title: Get the most out of your data warehousing workloads
+sessionuid: D1270B13-05B7-42B7-8DE4-714EB3CAE322
+thirdpartyid: ANT335
+speakers: firstName_0: Milind, lastName_0: Oke, firstName_1: Stefan, lastName_1: Gromoll, firstName_2: Guy, lastName_2: Roberts
+tag_name: Databases, Topic, 300 - Advanced, Level, Cost Optimization, Area of Interest, DevOps Engineer, Role, Developer/Engineer, Role, Tuesday, Day, Mandalay Bay, Venue, Amazon RedShift, Services, Data Engineer, Role, Analytics, Topic

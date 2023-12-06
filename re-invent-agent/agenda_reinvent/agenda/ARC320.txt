@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :Amazon Route 53, Services, 300 - Advanced, Level, DevOps Engineer, Role, Cloud Operations, Topic, Global Infrastructure, Area of Interest, IT Executive, Role, Architecture, Topic, Cross Industry, Industry, Amazon CloudWatch, Services, Wednesday, Day, Mandalay Bay, Venue, Solution/Systems Architect, Role, Resilience, Area of Interest, , speakers :firstName_0: Jennifer, lastName_0: Moran, firstName_1: Saurabh, lastName_1: Kumar, , thirdpartyid :ARC320, sessionuid :01299248-8686-48DF-818C-31990368D3AB, title :Using business metrics to make failover decisions, description :Understanding the business impact of downtime and deciding when to failover a workload is a crucial decision that can have financial implications. In this chalk talk, learn how to use layers of observability and system and business metrics to get a composite view into the health of your workloads. This composite view will allow you to quickly make an informed decision on whether or not to failover your workload., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 21:00:00 -0500, 
+enddatetimeutc: November, 29 2023 21:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: Understanding the business impact of downtime and deciding when to failover a workload is a crucial decision that can have financial implications. In this chalk talk, learn how to use layers of observability and system and business metrics to get a composite view into the health of your workloads. This composite view will allow you to quickly make an informed decision on whether or not to failover your workload
+title: Using business metrics to make failover decisions
+sessionuid: 01299248-8686-48DF-818C-31990368D3AB
+thirdpartyid: ARC320
+speakers: firstName_0: Jennifer, lastName_0: Moran, firstName_1: Saurabh, lastName_1: Kumar
+tag_name: Amazon Route 53, Services, 300 - Advanced, Level, DevOps Engineer, Role, Cloud Operations, Topic, Global Infrastructure, Area of Interest, IT Executive, Role, Architecture, Topic, Cross Industry, Industry, Amazon CloudWatch, Services, Wednesday, Day, Mandalay Bay, Venue, Solution/Systems Architect, Role, Resilience, Area of Interest

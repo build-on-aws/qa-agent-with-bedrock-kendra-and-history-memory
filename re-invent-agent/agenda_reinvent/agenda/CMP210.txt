@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :200 - Intermediate, Level, Cross Industry, Industry, Compute, Topic, Amazon Elastic Compute Cloud (EC2), Services, IT Professional/Technical Manager, Role, DevOps Engineer, Role, Wednesday, Day, Mandalay Bay, Venue, Amazon Lightsail, Services, DevOps and Developer Productivity, Topic, Tech Explorer, Role, Application Integration, Area of Interest, , speakers :firstName_0: Murat, lastName_0: Guven, firstName_1: Andy, lastName_1: Yates, , thirdpartyid :CMP210, sessionuid :A9BDB976-C83A-437C-B92B-7BCAFAFF8DEE, title :Creating your dev/test environment with Amazon Lightsail, description :In this chalk talk, learn how to create development sandboxes and testing environments outside of your production environment without risk to your application. Amazon Lightsail provides lightweight virtual servers and other cloud resources at a low, predictable price, which allows you to test solutions in a low-risk way. Learn to easily migrate your development resources in Lightsail to run production environments on Amazon EC2 and other AWS services., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 17:30:00 -0500, 
+enddatetimeutc: November, 29 2023 17:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: In this chalk talk, learn how to create development sandboxes and testing environments outside of your production environment without risk to your application. Amazon Lightsail provides lightweight virtual servers and other cloud resources at a low, predictable price, which allows you to test solutions in a low-risk way. Learn to easily migrate your development resources in Lightsail to run production environments on Amazon EC2 and other AWS services
+title: Creating your dev/test environment with Amazon Lightsail
+sessionuid: A9BDB976-C83A-437C-B92B-7BCAFAFF8DEE
+thirdpartyid: CMP210
+speakers: firstName_0: Murat, lastName_0: Guven, firstName_1: Andy, lastName_1: Yates
+tag_name: 200 - Intermediate, Level, Cross Industry, Industry, Compute, Topic, Amazon Elastic Compute Cloud (EC2), Services, IT Professional/Technical Manager, Role, DevOps Engineer, Role, Wednesday, Day, Mandalay Bay, Venue, Amazon Lightsail, Services, DevOps and Developer Productivity, Topic, Tech Explorer, Role, Application Integration, Area of Interest

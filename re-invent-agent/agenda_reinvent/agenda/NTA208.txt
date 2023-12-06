@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 115
+summary: tag_name :New to AWS, Topic, 200 - Intermediate, Level, DevOps Engineer, Role, System Administrator, Role, IT Professional/Technical Manager, Role, AWS CodeBuild, Services, AWS CodeCommit, Services, AWS CodePipeline, Services, Tuesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Amey, lastName_0: Bhavsar, firstName_1: Sailesh, lastName_1: Kadam, , thirdpartyid :NTA208, sessionuid :29B9935D-695B-4BC9-9345-453696957AC5, title :Building secure multi-account DevOps pipelines for container workloads, description :<p>In this chalk talk, learn about best practices for architecting a CI/CD pipeline for container workloads across one or multiple accounts using AWS services such as AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, AWS CodeArtifact, AWS CodePipeline, and Amazon ECR.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 115, startdatetimeutc :November, 29 2023 00:00:00 -0500, enddatetimeutc :November, 29 2023 01:00:00 -0500, 
+enddatetimeutc: November, 29 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 00:00:00 -0500
+locationname: Forum 115
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In this chalk talk, learn about best practices for architecting a CI/CD pipeline for container workloads across one or multiple accounts using AWS services such as AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, AWS CodeArtifact, AWS CodePipeline, and Amazon ECR.</p>
+title: Building secure multi-account DevOps pipelines for container workloads
+sessionuid: 29B9935D-695B-4BC9-9345-453696957AC5
+thirdpartyid: NTA208
+speakers: firstName_0: Amey, lastName_0: Bhavsar, firstName_1: Sailesh, lastName_1: Kadam
+tag_name: New to AWS, Topic, 200 - Intermediate, Level, DevOps Engineer, Role, System Administrator, Role, IT Professional/Technical Manager, Role, AWS CodeBuild, Services, AWS CodeCommit, Services, AWS CodePipeline, Services, Tuesday, Day, Caesars Forum, Venue

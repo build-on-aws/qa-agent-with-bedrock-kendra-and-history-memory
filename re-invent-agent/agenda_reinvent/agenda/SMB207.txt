@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Business Applications, Topic, 200 - Intermediate, Level, Tuesday, Day, Venetian, Venue, , speakers :firstName_0: Ozioma, lastName_0: Uzoegwu, , thirdpartyid :SMB207, sessionuid :D85F260D-2609-41FF-ACF7-E28A4F0342BB, title :SMB financial services landscape: Top projects for impact, description :<p>In this lightning talk, hear from an experienced principal solutions architect working with SMBs in the financial services industry about industry-specific ambitions and projects yielding the most value for customers.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>In this lightning talk, hear from an experienced principal solutions architect working with SMBs in the financial services industry about industry-specific ambitions and projects yielding the most value for customers.</p>
+title: SMB financial services landscape: Top projects for impact
+sessionuid: D85F260D-2609-41FF-ACF7-E28A4F0342BB
+thirdpartyid: SMB207
+speakers: firstName_0: Ozioma, lastName_0: Uzoegwu
+tag_name: Business Applications, Topic, 200 - Intermediate, Level, Tuesday, Day, Venetian, Venue

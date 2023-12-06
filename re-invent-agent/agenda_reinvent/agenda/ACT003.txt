@@ -1,0 +1,14 @@
+location: Venetian, Level 1, Galileo 901
+summary: tag_name :Sunday, Day, Venetian, Venue, Meals & Conference Services, Additional Services, , speakers :, thirdpartyid :ACT003, sessionuid :170C72B3-50B4-4DEC-8311-4C1205484319, title :Reflection room, description :The reflection room provides a dark, quiet space for meditation, prayer, or yoga, or to find resources for sensory needs. The room is equipped with semi-private meditation pods, prayer rugs, yoga mats, comfortable seating, puzzles, and coloring supplies. The reflection room also includes sensory bags containing noise cancelling headphones, fidget tools, and other resources for attendees with sensory needs, and a sensory tent that provides a safe and calming environment to help attendees that might be feeling overwhelmed or overstimulated., sessiontype :Conference Services, venuename :Venetian, floorplanname :Level 1, locationname :Galileo 901, startdatetimeutc :November, 26 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 03:00:00 -0500, 
+enddatetimeutc: November, 27 2023 03:00:00 -0500
+startdatetimeutc: November, 26 2023 18:00:00 -0500
+locationname: Galileo 901
+floorplanname: Level 1
+venuename: Venetian
+sessiontype: Conference Services
+description: The reflection room provides a dark, quiet space for meditation, prayer, or yoga, or to find resources for sensory needs. The room is equipped with semi-private meditation pods, prayer rugs, yoga mats, comfortable seating, puzzles, and coloring supplies. The reflection room also includes sensory bags containing noise cancelling headphones, fidget tools, and other resources for attendees with sensory needs, and a sensory tent that provides a safe and calming environment to help attendees that might be feeling overwhelmed or overstimulated
+title: Reflection room
+sessionuid: 170C72B3-50B4-4DEC-8311-4C1205484319
+thirdpartyid: ACT003
+speakers: 
+tag_name: Sunday, Day, Venetian, Venue, Meals & Conference Services, Additional Services

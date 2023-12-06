@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Islander G
+summary: tag_name :IT Administrator, Role, IT Executive, Role, Wednesday, Day, Security, Compliance, & Identity, Topic, Mandalay Bay, Venue, Solution/Systems Architect, Role, 200 - Intermediate, Level, , speakers :firstName_0: Christopher, lastName_0: Rae, firstName_1: Colin, lastName_1: Igbokwe, , thirdpartyid :SEC224, sessionuid :DB8C7524-2FDF-41E5-A87C-A29410DA4E1E, title :AWS security services for your multicloud environment, description :In this session, explore how AWS empowers you to simplify and centralize the management of your infrastructure and applications on AWS, on premises, and with multicloud solutions. Learn how to create a defense-in-depth strategy for your multicloud environment using core AWS security services. Discover how you can streamline, manage, and govern your hybrid and multicloud infrastructure and applications with AWS., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Islander G, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Islander G
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: In this session, explore how AWS empowers you to simplify and centralize the management of your infrastructure and applications on AWS, on premises, and with multicloud solutions. Learn how to create a defense-in-depth strategy for your multicloud environment using core AWS security services. Discover how you can streamline, manage, and govern your hybrid and multicloud infrastructure and applications with AWS
+title: AWS security services for your multicloud environment
+sessionuid: DB8C7524-2FDF-41E5-A87C-A29410DA4E1E
+thirdpartyid: SEC224
+speakers: firstName_0: Christopher, lastName_0: Rae, firstName_1: Colin, lastName_1: Igbokwe
+tag_name: IT Administrator, Role, IT Executive, Role, Wednesday, Day, Security, Compliance, & Identity, Topic, Mandalay Bay, Venue, Solution/Systems Architect, Role, 200 - Intermediate, Level

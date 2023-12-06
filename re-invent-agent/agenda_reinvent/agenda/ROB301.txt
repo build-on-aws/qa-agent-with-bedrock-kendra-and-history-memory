@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 228
+summary: tag_name :Internet of Things, Topic, Edge Computing, Area of Interest, Innovation on AWS, Area of Interest, Robotics, Area of Interest, Manufacturing & Industrial, Industry, 300 - Advanced, Level, Amazon Cognito, Services, AWS Amplify, Services, AWS AppSync, Services, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Adam, lastName_0: Purdie, firstName_1: Kevon, lastName_1: Mayers, , thirdpartyid :ROB301, sessionuid :9C4C7538-CBEF-403B-AF7D-FF1B66A6EAA9, title :Connected worker safety with robots and Terraform, description :<p>In this workshop, learn how to build a solution to help improve worker safety using AWS services. Learn how to use AWS Amplify to issue commands to individual robots and an entire fleet of robots. This solution also includes connectivity with an air quality sensor to track simulated toxins in the environment. To streamline deployment and management, learn to deploy this solution using Terraform. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 228, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 03:30:00 -0500, 
+enddatetimeutc: November, 30 2023 03:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Summit 228
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In this workshop, learn how to build a solution to help improve worker safety using AWS services. Learn how to use AWS Amplify to issue commands to individual robots and an entire fleet of robots. This solution also includes connectivity with an air quality sensor to track simulated toxins in the environment. To streamline deployment and management, learn to deploy this solution using Terraform. You must bring your laptop to participate.</p>
+title: Connected worker safety with robots and Terraform
+sessionuid: 9C4C7538-CBEF-403B-AF7D-FF1B66A6EAA9
+thirdpartyid: ROB301
+speakers: firstName_0: Adam, lastName_0: Purdie, firstName_1: Kevon, lastName_1: Mayers
+tag_name: Internet of Things, Topic, Edge Computing, Area of Interest, Innovation on AWS, Area of Interest, Robotics, Area of Interest, Manufacturing & Industrial, Industry, 300 - Advanced, Level, Amazon Cognito, Services, AWS Amplify, Services, AWS AppSync, Services, Wednesday, Day, Caesars Forum, Venue

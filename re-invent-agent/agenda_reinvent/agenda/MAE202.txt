@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 370
+summary: tag_name :Media & Entertainment, Industry, Business Executive, Role, Entrepreneur (Founder/Co-Founder), Role, IT Executive, Role, Networking & Content Delivery, Topic, 200 - Intermediate, Level, Wednesday, Day, MGM Grand, Venue, Edge Computing, Area of Interest, , speakers :firstName_0: Steph, lastName_0: Lone, firstName_1: Vince, lastName_1: Palazzo, firstName_2: Corey, lastName_2: Smith, company_2: CBS Sports Interactive, , thirdpartyid :MAE202, sessionuid :676C15BE-70E5-4E64-BE95-39DB54C1819A, title :CBS Sports Digital: Innovation in the cloud with the Golazo Network, description :As more broadcasters are moving to the cloud, popular workflows have focused on direct-to-consumer streaming distribution. In this session, learn how CBS Sports Digital built and launched the Golazo Network, which is dedicated to domestic and international soccer coverage, where contribution, master control, playout, distribution, and more are all handled in the cloud. Explore CBS Sports’ challenges and navigation strategies, gaining insights into the Golazo Network’s depth beyond a standard cloud FAST channel. Learn about the evolving role of cloud technology in the convergence of linear and digital broadcasting., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 370, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Chairmans 370
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: As more broadcasters are moving to the cloud, popular workflows have focused on direct-to-consumer streaming distribution. In this session, learn how CBS Sports Digital built and launched the Golazo Network, which is dedicated to domestic and international soccer coverage, where contribution, master control, playout, distribution, and more are all handled in the cloud. Explore CBS Sports’ challenges and navigation strategies, gaining insights into the Golazo Network’s depth beyond a standard cloud FAST channel. Learn about the evolving role of cloud technology in the convergence of linear and digital broadcasting
+title: CBS Sports Digital: Innovation in the cloud with the Golazo Network
+sessionuid: 676C15BE-70E5-4E64-BE95-39DB54C1819A
+thirdpartyid: MAE202
+speakers: firstName_0: Steph, lastName_0: Lone, firstName_1: Vince, lastName_1: Palazzo, firstName_2: Corey, lastName_2: Smith, company_2: CBS Sports Interactive
+tag_name: Media & Entertainment, Industry, Business Executive, Role, Entrepreneur (Founder/Co-Founder), Role, IT Executive, Role, Networking & Content Delivery, Topic, 200 - Intermediate, Level, Wednesday, Day, MGM Grand, Venue, Edge Computing, Area of Interest

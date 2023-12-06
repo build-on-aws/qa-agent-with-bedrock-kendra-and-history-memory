@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Bollinger
+summary: tag_name :Data Engineer, Role, Solution/Systems Architect, Role, AWS Lambda, Services, IT Professional/Technical Manager, Role, 300 - Advanced, Level, Front-End Web & Mobile, Area of Interest, Tuesday, Day, Wynn, Venue, Amazon EventBridge, Services, Serverless Compute, Topic, , speakers :firstName_0: Marcia, lastName_0: Villalba, firstName_1: Tim, lastName_1: Bruce, firstName_2: Brenna, lastName_2: Moore, company_2: Second Dinner, , thirdpartyid :SVS308, sessionuid :0C72515D-705A-4346-B91F-3CF92DDCAD15, title :Building low-latency, event-driven applications, description :This session explores building serverless web applications for low-latency and event-driven support. Learn about the core concepts, benefits, and best practices of serverless computing. The session covers the design and implementation of AWS Lambda functions for handling HTTP requests, data processing, and integration with AWS services. It also focuses on event-driven workflows using Amazon EventBridge. The goal is to empower you to create high-performing, scalable, and responsive serverless web applications., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Upper Level, locationname :Bollinger, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 23:30:00 -0500, 
+enddatetimeutc: November, 30 2023 23:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Bollinger
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Breakout Session
+description: This session explores building serverless web applications for low-latency and event-driven support. Learn about the core concepts, benefits, and best practices of serverless computing. The session covers the design and implementation of AWS Lambda functions for handling HTTP requests, data processing, and integration with AWS services. It also focuses on event-driven workflows using Amazon EventBridge. The goal is to empower you to create high-performing, scalable, and responsive serverless web applications
+title: Building low-latency, event-driven applications
+sessionuid: 0C72515D-705A-4346-B91F-3CF92DDCAD15
+thirdpartyid: SVS308
+speakers: firstName_0: Marcia, lastName_0: Villalba, firstName_1: Tim, lastName_1: Bruce, firstName_2: Brenna, lastName_2: Moore, company_2: Second Dinner
+tag_name: Data Engineer, Role, Solution/Systems Architect, Role, AWS Lambda, Services, IT Professional/Technical Manager, Role, 300 - Advanced, Level, Front-End Web & Mobile, Area of Interest, Tuesday, Day, Wynn, Venue, Amazon EventBridge, Services, Serverless Compute, Topic

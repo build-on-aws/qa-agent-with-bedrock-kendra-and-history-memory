@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :AWS Community, Area of Interest, Amazon API Gateway, Services, AWS Lambda, Services, DevOps and Developer Productivity, Topic, Amazon Simple Queue Service (SQS), Services, Serverless Compute, Topic, Developer/Engineer, Role, 300 - Advanced, Level, Wednesday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, DevOps Engineer, Role, Open Source, Area of Interest, Resilience, Area of Interest, , speakers :firstName_0: AJ, lastName_0: Stuyvenberg, company_0: Datadog, , thirdpartyid :COM305, sessionuid :02B9386B-83AF-4CC4-B4CC-86B1CB4011E2, title :Demystifying and mitigating AWS Lambda cold starts, description :Whether you’re new to AWS Lambda or a serverless expert, you’ve probably heard about cold starts. Maybe they’ve even made you think twice about using Lambda in your architecture. This session dissects the Lambda initialization process at a microscopic level. Examine benchmarks comparing common architectural patterns, and then benchmark various RAM configurations and payload sizes. Next, measure and discuss common mistakes that can increase initialization latency, explore and understand proactive initialization, and learn several strategies you can use to thaw your AWS Lambda cold starts., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: Whether you’re new to AWS Lambda or a serverless expert, you’ve probably heard about cold starts. Maybe they’ve even made you think twice about using Lambda in your architecture. This session dissects the Lambda initialization process at a microscopic level. Examine benchmarks comparing common architectural patterns, and then benchmark various RAM configurations and payload sizes. Next, measure and discuss common mistakes that can increase initialization latency, explore and understand proactive initialization, and learn several strategies you can use to thaw your AWS Lambda cold starts
+title: Demystifying and mitigating AWS Lambda cold starts
+sessionuid: 02B9386B-83AF-4CC4-B4CC-86B1CB4011E2
+thirdpartyid: COM305
+speakers: firstName_0: AJ, lastName_0: Stuyvenberg, company_0: Datadog
+tag_name: AWS Community, Area of Interest, Amazon API Gateway, Services, AWS Lambda, Services, DevOps and Developer Productivity, Topic, Amazon Simple Queue Service (SQS), Services, Serverless Compute, Topic, Developer/Engineer, Role, 300 - Advanced, Level, Wednesday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, DevOps Engineer, Role, Open Source, Area of Interest, Resilience, Area of Interest

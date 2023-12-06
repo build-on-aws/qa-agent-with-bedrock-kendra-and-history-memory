@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 117
+summary: tag_name :Solution/Systems Architect, Role, Developer/Engineer, Role, 300 - Advanced, Level, Migration & Transfer, Area of Interest, IT Professional/Technical Manager, Role, Wednesday, Day, MGM Grand, Venue, Enterprise & Migration, Topic, , speakers :firstName_0: Paulo Vitor, lastName_0: Pereira, firstName_1: Warren, lastName_1: Tan, , thirdpartyid :ENT310-R, sessionuid :B1FC3752-FEEE-4AAB-AC4E-55F2D1901520, title :Seamless, automated testing to accelerate AWS Mainframe Modernization [REPEAT], description :In this workshop, use a mainframe application transformed with the AWS Mainframe Modernization Replatform with Micro Focus and validate the functional equivalence between the source application on the mainframe and the transformed application on AWS Cloud using AWS Mainframe Modernization. Learn how the automated application testing dramatically reduces your application testing efforts during modernization and even after modernization as the new application is recursively updated on AWS Cloud. Join this hands-on workshop to experience application testing with AWS Mainframe Modernization. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 117, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 18:30:00 -0500, 
+enddatetimeutc: November, 29 2023 18:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: Grand 117
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: In this workshop, use a mainframe application transformed with the AWS Mainframe Modernization Replatform with Micro Focus and validate the functional equivalence between the source application on the mainframe and the transformed application on AWS Cloud using AWS Mainframe Modernization. Learn how the automated application testing dramatically reduces your application testing efforts during modernization and even after modernization as the new application is recursively updated on AWS Cloud. Join this hands-on workshop to experience application testing with AWS Mainframe Modernization. You must bring your laptop to participate
+title: Seamless, automated testing to accelerate AWS Mainframe Modernization [REPEAT]
+sessionuid: B1FC3752-FEEE-4AAB-AC4E-55F2D1901520
+thirdpartyid: ENT310-R
+speakers: firstName_0: Paulo Vitor, lastName_0: Pereira, firstName_1: Warren, lastName_1: Tan
+tag_name: Solution/Systems Architect, Role, Developer/Engineer, Role, 300 - Advanced, Level, Migration & Transfer, Area of Interest, IT Professional/Technical Manager, Role, Wednesday, Day, MGM Grand, Venue, Enterprise & Migration, Topic

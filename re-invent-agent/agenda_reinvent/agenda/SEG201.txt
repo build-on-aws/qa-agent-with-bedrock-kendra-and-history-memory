@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 201
+summary: tag_name :New to AWS, Topic, IT Executive, Role, Innovation on AWS, Area of Interest, 200 - Intermediate, Level, Resilience, Area of Interest, IT Professional/Technical Manager, Role, Monday, Day, Caesars Forum, Venue, Strategy & Transformation, Area of Interest, Business Executive, Role, , speakers :firstName_0: Matthias, lastName_0: Patzak, , thirdpartyid :SEG201, sessionuid :1E28DB88-135F-4E0F-8CA3-F4FC16592B8E, title :How to not sabotage your transformation, description :The importance of transformation remains a key concern for C-level executives in many organizations as they recognize their current operating model is hindering progress. Drawing from numerous engagements with executives from leading global organizations and insights from Amazon's experiences and research, the Enterprise Strategy team at AWS has identified patterns of success and failure in organizational transformation. In this session, consider mental models based on real-world experiences designed to help organizations assess their competitiveness, understand the organizational and staffing implications for achieving their goals, and get insight into how forward-thinking companies effectively manage their workforce to deliver exceptional results., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 201, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Summit 201
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: The importance of transformation remains a key concern for C-level executives in many organizations as they recognize their current operating model is hindering progress. Drawing from numerous engagements with executives from leading global organizations and insights from Amazon's experiences and research, the Enterprise Strategy team at AWS has identified patterns of success and failure in organizational transformation. In this session, consider mental models based on real-world experiences designed to help organizations assess their competitiveness, understand the organizational and staffing implications for achieving their goals, and get insight into how forward-thinking companies effectively manage their workforce to deliver exceptional results
+title: How to not sabotage your transformation
+sessionuid: 1E28DB88-135F-4E0F-8CA3-F4FC16592B8E
+thirdpartyid: SEG201
+speakers: firstName_0: Matthias, lastName_0: Patzak
+tag_name: New to AWS, Topic, IT Executive, Role, Innovation on AWS, Area of Interest, 200 - Intermediate, Level, Resilience, Area of Interest, IT Professional/Technical Manager, Role, Monday, Day, Caesars Forum, Venue, Strategy & Transformation, Area of Interest, Business Executive, Role

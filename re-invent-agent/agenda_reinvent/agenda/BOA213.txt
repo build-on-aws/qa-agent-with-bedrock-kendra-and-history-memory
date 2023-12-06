@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :Networking & Content Delivery, Topic, Security, Compliance, & Identity, Topic, BuildOn.AWS, Area of Interest, Network & Infrastructure Security, Area of Interest, 200 - Intermediate, Level, Amazon CodeWhisperer, Services, Amazon Virtual Private Cloud (VPC), Services, AWS CodeCommit, Services, Monday, Day, Wynn, Venue, , speakers :firstName_0: Du'An, lastName_0: Lightfoot, firstName_1: Brandon, lastName_1: Carroll, , thirdpartyid :BOA213-R, sessionuid :1B7F0786-6BA8-48FB-8BB2-CFE0B98DA7F9, title :Git serious: Implementing network security and compliance with GitOps [REPEAT], description :<p>As modern cloud-native applications evolve, traditional network testing and security compliance in infrastructure deployments often struggle to keep up. In this chalk talk, learn about how using GitOps and generative AI allows you to tap into automated consistent network testing, security compliance enforcement, validation testing, and standardization of infrastructure deployments across your organization.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 17:30:00 -0500, 
+enddatetimeutc: November, 27 2023 17:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>As modern cloud-native applications evolve, traditional network testing and security compliance in infrastructure deployments often struggle to keep up. In this chalk talk, learn about how using GitOps and generative AI allows you to tap into automated consistent network testing, security compliance enforcement, validation testing, and standardization of infrastructure deployments across your organization.</p>
+title: Git serious: Implementing network security and compliance with GitOps [REPEAT]
+sessionuid: 1B7F0786-6BA8-48FB-8BB2-CFE0B98DA7F9
+thirdpartyid: BOA213-R
+speakers: firstName_0: Du'An, lastName_0: Lightfoot, firstName_1: Brandon, lastName_1: Carroll
+tag_name: Networking & Content Delivery, Topic, Security, Compliance, & Identity, Topic, BuildOn.AWS, Area of Interest, Network & Infrastructure Security, Area of Interest, 200 - Intermediate, Level, Amazon CodeWhisperer, Services, Amazon Virtual Private Cloud (VPC), Services, AWS CodeCommit, Services, Monday, Day, Wynn, Venue

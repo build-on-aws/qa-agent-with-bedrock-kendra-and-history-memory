@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 364
+summary: tag_name :Strategy & Transformation, Area of Interest, Enterprise & Migration, Topic, 100 - Foundational, Level, Monday, Day, MGM Grand, Venue, , speakers :firstName_0: Meghan, lastName_0: Dickerson, firstName_1: Nan, lastName_1: Chen, firstName_2: Sai, lastName_2: Dasari, company_2: Bottomline, , thirdpartyid :GDS101, sessionuid :D5804896-6F98-40CA-8AA1-20FC6A3E7675, title :Drive innovation and accelerate business outcomes with benchmarking, description :In today’s rapidly evolving digital landscape, organizations are increasingly recognizing the financial and business advantages of migrating their IT infrastructure to AWS. In this session, learn about business improvements that more than 600 organizations have achieved by migrating workloads to AWS. Additionally, discover how to quantify KPI improvements into business value across your industry or line of business., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 364, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Chairmans 364
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: In today’s rapidly evolving digital landscape, organizations are increasingly recognizing the financial and business advantages of migrating their IT infrastructure to AWS. In this session, learn about business improvements that more than 600 organizations have achieved by migrating workloads to AWS. Additionally, discover how to quantify KPI improvements into business value across your industry or line of business
+title: Drive innovation and accelerate business outcomes with benchmarking
+sessionuid: D5804896-6F98-40CA-8AA1-20FC6A3E7675
+thirdpartyid: GDS101
+speakers: firstName_0: Meghan, lastName_0: Dickerson, firstName_1: Nan, lastName_1: Chen, firstName_2: Sai, lastName_2: Dasari, company_2: Bottomline
+tag_name: Strategy & Transformation, Area of Interest, Enterprise & Migration, Topic, 100 - Foundational, Level, Monday, Day, MGM Grand, Venue

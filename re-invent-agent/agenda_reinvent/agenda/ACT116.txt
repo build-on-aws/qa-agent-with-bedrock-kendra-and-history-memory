@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Palm A
+summary: tag_name :Wednesday, Day, Mandalay Bay, Venue, Meals & Conference Services, Additional Services, , speakers :, thirdpartyid :ACT116, sessionuid :8174782D-F72A-492B-BCF6-B30963835E1D, title :Quiet space, description :The quiet space is a calm, quiet environment designed for meals, catching up on work, or taking a break from the crowd. If you are looking for a dark, quiet space for meditation, prayer, or yoga, or to find resources for sensory needs, please search for the reflection room., sessiontype :Conference Services, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Palm A, startdatetimeutc :November, 29 2023 16:00:00 -0500, enddatetimeutc :November, 30 2023 04:30:00 -0500, 
+enddatetimeutc: November, 30 2023 04:30:00 -0500
+startdatetimeutc: November, 29 2023 16:00:00 -0500
+locationname: Palm A
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Conference Services
+description: The quiet space is a calm, quiet environment designed for meals, catching up on work, or taking a break from the crowd. If you are looking for a dark, quiet space for meditation, prayer, or yoga, or to find resources for sensory needs, please search for the reflection room
+title: Quiet space
+sessionuid: 8174782D-F72A-492B-BCF6-B30963835E1D
+thirdpartyid: ACT116
+speakers: 
+tag_name: Wednesday, Day, Mandalay Bay, Venue, Meals & Conference Services, Additional Services

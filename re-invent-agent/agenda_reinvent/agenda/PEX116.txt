@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Business Applications, Topic, Monitoring & Observability, Area of Interest, Partner Enablement, Topic, Amazon CloudWatch, Services, Amazon DevOps Guru, Services, IT Executive, Role, Developer/Engineer, Role, Resilience, Area of Interest, 100 - Foundational, Level, AWS Resilience Hub, Services, Wednesday, Day, Venetian, Venue, Disaster Response & Recovery, Area of Interest, Business Executive, Role, , speakers :, thirdpartyid :PEX116, sessionuid :190551DE-DDA2-48D0-A94D-72BA7EBDD570, title :Expect the unexpected and build resilience with AWS, description :Join this lightning talk for an overview of the AWS resilience best practices to help customers improve the availability and resilience of critical workloads in the cloud. Learn how AWS resilience partners help customers in achieving their resilience goals. This lightning talk is intended for AWS Partners., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 18:50:00 -0500, 
+enddatetimeutc: November, 29 2023 18:50:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Join this lightning talk for an overview of the AWS resilience best practices to help customers improve the availability and resilience of critical workloads in the cloud. Learn how AWS resilience partners help customers in achieving their resilience goals. This lightning talk is intended for AWS Partners
+title: Expect the unexpected and build resilience with AWS
+sessionuid: 190551DE-DDA2-48D0-A94D-72BA7EBDD570
+thirdpartyid: PEX116
+speakers: 
+tag_name: Business Applications, Topic, Monitoring & Observability, Area of Interest, Partner Enablement, Topic, Amazon CloudWatch, Services, Amazon DevOps Guru, Services, IT Executive, Role, Developer/Engineer, Role, Resilience, Area of Interest, 100 - Foundational, Level, AWS Resilience Hub, Services, Wednesday, Day, Venetian, Venue, Disaster Response & Recovery, Area of Interest, Business Executive, Role

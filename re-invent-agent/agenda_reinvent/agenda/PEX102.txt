@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3002
+summary: tag_name :100 - Foundational, Level, Partner Enablement, Topic, Monday, Day, Venetian, Venue, , speakers :firstName_0: Jeff, lastName_0: Kratz, firstName_1: Chad, lastName_1: Cornelius, company_1: State of Nebraska Judicial Branch, firstName_2: Dr. Bianca, lastName_2: Lochner, company_2: City of Scottsdale, firstName_3: Ryan, lastName_3: Murray, company_3: State of Arizona, , thirdpartyid :PEX102, sessionuid :2F1689E7-D49E-4458-ACFB-6BEEEC99C24F, title :Scale public sector partner business with AI, cybersecurity, and more, description :In this session, hear about how to grow and transform your partner business in the public sector. Consider how you can harness the power of generative AI, cybersecurity, and other cutting-edge technologies to help government, regulated healthcare, nonprofit, and aerospace and satellite customers digitally transform and achieve mission-critical outcomes. Join Jeff Kratz, Vice President of AWS Public Sector Channels and Alliances, for exclusive insights into new launches and AWS Partner program updates designed to boost the growth of AWS Partners in the public sector. This session is intended for AWS Partners., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3002, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Lido 3002
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Breakout Session
+description: In this session, hear about how to grow and transform your partner business in the public sector. Consider how you can harness the power of generative AI, cybersecurity, and other cutting-edge technologies to help government, regulated healthcare, nonprofit, and aerospace and satellite customers digitally transform and achieve mission-critical outcomes. Join Jeff Kratz, Vice President of AWS Public Sector Channels and Alliances, for exclusive insights into new launches and AWS Partner program updates designed to boost the growth of AWS Partners in the public sector. This session is intended for AWS Partners
+title: Scale public sector partner business with AI, cybersecurity, and more
+sessionuid: 2F1689E7-D49E-4458-ACFB-6BEEEC99C24F
+thirdpartyid: PEX102
+speakers: firstName_0: Jeff, lastName_0: Kratz, firstName_1: Chad, lastName_1: Cornelius, company_1: State of Nebraska Judicial Branch, firstName_2: Dr. Bianca, lastName_2: Lochner, company_2: City of Scottsdale, firstName_3: Ryan, lastName_3: Murray, company_3: State of Arizona
+tag_name: 100 - Foundational, Level, Partner Enablement, Topic, Monday, Day, Venetian, Venue

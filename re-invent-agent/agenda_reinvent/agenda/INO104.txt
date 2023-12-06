@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine H
+summary: tag_name :AI/ML, Topic, New to AWS, Topic, Innovation on AWS, Area of Interest, Generative AI, Area of Interest, Business Executive, Role, IT Executive, Role, 100 - Foundational, Level, Thursday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Choong, lastName_0: Lee, firstName_1: Khendr'a, lastName_1: Reid, firstName_2: Ricardo, lastName_2: Alem, , thirdpartyid :INO104, sessionuid :AF175250-87B8-48DF-B657-606F4891A9CD, title :AI/ML: A trigger for innovation at speed and scale, description :<p>Innovating with machine learning (ML) is a common consideration when organizations are determining how to further optimize operations or create new products. The ability to pair ML tools with emerging generative AI applications presents an exciting opportunity. This session outlines the approach Amazon takes to build and scale ML-enabled innovations. Considering specific examples from Amazon’s consumer/retail and other businesses, explore how AI/ML helps raise the bar on customer experience while improving efficiency, increasing speed, and lowering cost. Hear lessons learned across the cultural, process, and technical aspects of building and scaling AI/ML capabilities across Amazon.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine H, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Jasmine H
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Innovating with machine learning (ML) is a common consideration when organizations are determining how to further optimize operations or create new products. The ability to pair ML tools with emerging generative AI applications presents an exciting opportunity. This session outlines the approach Amazon takes to build and scale ML-enabled innovations. Considering specific examples from Amazon’s consumer/retail and other businesses, explore how AI/ML helps raise the bar on customer experience while improving efficiency, increasing speed, and lowering cost. Hear lessons learned across the cultural, process, and technical aspects of building and scaling AI/ML capabilities across Amazon.</p>
+title: AI/ML: A trigger for innovation at speed and scale
+sessionuid: AF175250-87B8-48DF-B657-606F4891A9CD
+thirdpartyid: INO104
+speakers: firstName_0: Choong, lastName_0: Lee, firstName_1: Khendr'a, lastName_1: Reid, firstName_2: Ricardo, lastName_2: Alem
+tag_name: AI/ML, Topic, New to AWS, Topic, Innovation on AWS, Area of Interest, Generative AI, Area of Interest, Business Executive, Role, IT Executive, Role, 100 - Foundational, Level, Thursday, Day, Mandalay Bay, Venue

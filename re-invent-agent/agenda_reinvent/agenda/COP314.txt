@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 411
+summary: tag_name :Cloud Operations, Topic, Management & Governance, Area of Interest, Amazon Athena, Services, 300 - Advanced, Level, AWS Organizations, Services, System Administrator, Role, Wednesday, Day, Caesars Forum, Venue, DevOps Engineer, Role, AWS Systems Manager, Services, Solution/Systems Architect, Role, , speakers :firstName_0: Anthony, lastName_0: Verleysen, firstName_1: Ravindra, lastName_1: Kori, , thirdpartyid :COP314-R, sessionuid :CFBD5BB6-E3D3-4836-BCD3-3AC537690CFE, title :All things patch: Manage patching on AWS, on premises & on other clouds [REPEAT], description :In this chalk talk, discover how you can quickly activate patching operations at scale across your AWS accounts and AWS Regions within your AWS Organization using AWS Systems Manager. Learn how to manage patching operations for Amazon EC2 instances, edge devices, on-premises servers, and virtual machines (VMs) in other cloud environments. Finally, explore how Amazon Athena and Amazon QuickSight can be used to set up patch compliance reporting and to create patch compliance., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 411, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 01:30:00 -0500, 
+enddatetimeutc: November, 30 2023 01:30:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: Academy 411
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: In this chalk talk, discover how you can quickly activate patching operations at scale across your AWS accounts and AWS Regions within your AWS Organization using AWS Systems Manager. Learn how to manage patching operations for Amazon EC2 instances, edge devices, on-premises servers, and virtual machines (VMs) in other cloud environments. Finally, explore how Amazon Athena and Amazon QuickSight can be used to set up patch compliance reporting and to create patch compliance
+title: All things patch: Manage patching on AWS, on premises & on other clouds [REPEAT]
+sessionuid: CFBD5BB6-E3D3-4836-BCD3-3AC537690CFE
+thirdpartyid: COP314-R
+speakers: firstName_0: Anthony, lastName_0: Verleysen, firstName_1: Ravindra, lastName_1: Kori
+tag_name: Cloud Operations, Topic, Management & Governance, Area of Interest, Amazon Athena, Services, 300 - Advanced, Level, AWS Organizations, Services, System Administrator, Role, Wednesday, Day, Caesars Forum, Venue, DevOps Engineer, Role, AWS Systems Manager, Services, Solution/Systems Architect, Role

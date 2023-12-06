@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific E
+summary: tag_name :Thursday, Day, Mandalay Bay, Venue, AI/ML, Topic, Business Applications, Topic, Customer Stories, Area of Interest, Generative AI, Area of Interest, Modernization, Area of Interest, Travel & Hospitality, Industry, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Amazon Connect, Services, Amazon Lex, Services, , speakers :firstName_0: Mike, lastName_0: Nolan, , thirdpartyid :BIZ226, sessionuid :D5E11D37-C534-4665-A79E-5F006DBC9504, title :Transform customer self-service with AI and Amazon Connect, description :<p>With today’s consumers demanding fast and seamless interactions, learn how the latest conversational self-service and generative AI capabilities from Amazon Connect and Amazon Lex can help companies not only meet but exceed these expectations. In this session, explore how businesses are using customer data to craft and orchestrate personalized self-service interactions as well as predict customer needs and automate customer outreach. Hear from AWS and your peers as they share their firsthand experience and best practices, illustrating the real-world impact and benefits of AI-powered customer self-service.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific E, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: South Pacific E
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>With today’s consumers demanding fast and seamless interactions, learn how the latest conversational self-service and generative AI capabilities from Amazon Connect and Amazon Lex can help companies not only meet but exceed these expectations. In this session, explore how businesses are using customer data to craft and orchestrate personalized self-service interactions as well as predict customer needs and automate customer outreach. Hear from AWS and your peers as they share their firsthand experience and best practices, illustrating the real-world impact and benefits of AI-powered customer self-service.</p>
+title: Transform customer self-service with AI and Amazon Connect
+sessionuid: D5E11D37-C534-4665-A79E-5F006DBC9504
+thirdpartyid: BIZ226
+speakers: firstName_0: Mike, lastName_0: Nolan
+tag_name: Thursday, Day, Mandalay Bay, Venue, AI/ML, Topic, Business Applications, Topic, Customer Stories, Area of Interest, Generative AI, Area of Interest, Modernization, Area of Interest, Travel & Hospitality, Industry, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Amazon Connect, Services, Amazon Lex, Services

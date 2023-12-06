@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 120
+summary: tag_name :Amazon Elastic File System (EFS), Services, Cost Optimization, Area of Interest, Data Protection, Area of Interest, IT Professional/Technical Manager, Role, Generative AI, Area of Interest, Data Scientist, Role, Financial Services, Industry, Amazon FSx for Lustre, Services, 200 - Intermediate, Level, Wednesday, Day, MGM Grand, Venue, IT Executive, Role, Amazon FSx, Services, Storage, Topic, , speakers :firstName_0: Edward, lastName_0: Naim, firstName_1: Mark, lastName_1: Roper, , thirdpartyid :STG219, sessionuid :F5EC4F6B-A5E4-4BED-B386-3D25A70DB995, title :What’s new with AWS file storage, description :AWS offers a broad portfolio of fully managed storage. Shared file storage from Amazon EFS and Amazon FSx support virtually every application, allowing you to choose the most suitable service based on your specific use case, performance needs, and compatibility with your applications and workflows. Join this session to hear about the newest advancements in file storage and learn practical tips on how they can help you to migrate, run, and scale feature-rich, performant file storage., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 120, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Grand 120
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: AWS offers a broad portfolio of fully managed storage. Shared file storage from Amazon EFS and Amazon FSx support virtually every application, allowing you to choose the most suitable service based on your specific use case, performance needs, and compatibility with your applications and workflows. Join this session to hear about the newest advancements in file storage and learn practical tips on how they can help you to migrate, run, and scale feature-rich, performant file storage
+title: What’s new with AWS file storage
+sessionuid: F5EC4F6B-A5E4-4BED-B386-3D25A70DB995
+thirdpartyid: STG219
+speakers: firstName_0: Edward, lastName_0: Naim, firstName_1: Mark, lastName_1: Roper
+tag_name: Amazon Elastic File System (EFS), Services, Cost Optimization, Area of Interest, Data Protection, Area of Interest, IT Professional/Technical Manager, Role, Generative AI, Area of Interest, Data Scientist, Role, Financial Services, Industry, Amazon FSx for Lustre, Services, 200 - Intermediate, Level, Wednesday, Day, MGM Grand, Venue, IT Executive, Role, Amazon FSx, Services, Storage, Topic

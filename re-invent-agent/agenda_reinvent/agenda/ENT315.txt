@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :Cross Industry, Industry, Cloud Security Specialist, Role, Microsoft, Area of Interest, Enterprise & Migration, Topic, System Administrator, Role, Security, Compliance, & Identity, Topic, Wednesday, Day, Wynn, Venue, AWS Directory Service for Microsoft Active Directory, Services, Solution/Systems Architect, Role, 300 - Advanced, Level, Network & Infrastructure Security, Area of Interest, , speakers :firstName_0: Jeremy, lastName_0: Girven, firstName_1: Mohamed, lastName_1: Wali, , thirdpartyid :ENT315-R, sessionuid :056B0FB6-479B-4E39-B7FD-E5FF5966A037, title :Choose the right Microsoft directory service on AWS [REPEAT], description :Whether you’re migrating an existing Microsoft Active Directory (AD) or starting from scratch on AWS, this chalk talk will help you choose the right Microsoft directory service for your needs. Learn about AWS Managed Microsoft AD, AD Connector, Simple AD, and AD Domain Services on Amazon EC2. Learn about the features, scalability, security, and cost implications of these services to help you make informed decisions about how to seamlessly integrate and manage your directory services on AWS., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Whether you’re migrating an existing Microsoft Active Directory (AD) or starting from scratch on AWS, this chalk talk will help you choose the right Microsoft directory service for your needs. Learn about AWS Managed Microsoft AD, AD Connector, Simple AD, and AD Domain Services on Amazon EC2. Learn about the features, scalability, security, and cost implications of these services to help you make informed decisions about how to seamlessly integrate and manage your directory services on AWS
+title: Choose the right Microsoft directory service on AWS [REPEAT]
+sessionuid: 056B0FB6-479B-4E39-B7FD-E5FF5966A037
+thirdpartyid: ENT315-R
+speakers: firstName_0: Jeremy, lastName_0: Girven, firstName_1: Mohamed, lastName_1: Wali
+tag_name: Cross Industry, Industry, Cloud Security Specialist, Role, Microsoft, Area of Interest, Enterprise & Migration, Topic, System Administrator, Role, Security, Compliance, & Identity, Topic, Wednesday, Day, Wynn, Venue, AWS Directory Service for Microsoft Active Directory, Services, Solution/Systems Architect, Role, 300 - Advanced, Level, Network & Infrastructure Security, Area of Interest

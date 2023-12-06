@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 355
+summary: tag_name :Analytics, Topic, Innovation on AWS, Area of Interest, AI/ML, Topic, IT Administrator, Role, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, Tuesday, Day, MGM Grand, Venue, Business Intelligence, Area of Interest, Amazon SageMaker, Services, IT Executive, Role, Retail, Industry, , speakers :firstName_0: Steve, lastName_0: Gurney, firstName_1: Steve, lastName_1: Pimblett, company_1: The Very Group, , thirdpartyid :RET201, sessionuid :4F4F4C18-1B9F-442D-ABE6-4BC46E013B00, title :Powerful machine learning data strategies from The Very Group, description :As a pure play digital retailer, The Very Group knows the value of its data. With one of the UK’s oldest, richest, and deepest consumer-focused datasets, they turn data and insights into actions—delighting customers and helping families get more out of life. In this session, learn about the data strategy they use to power more relevant, timely, and personalized experiences. Using Teradata VantageCloud on AWS, Teradata ClearScape Analytics, and Amazon SageMaker machine learning, The Very Group predicts product demand to optimize availability, prevent out-of-stock issues, and achieve a better forecast for improved customer satisfaction and net promoter scores., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 355, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 23:00:00 -0500, 
+enddatetimeutc: November, 28 2023 23:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Chairmans 355
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: As a pure play digital retailer, The Very Group knows the value of its data. With one of the UK’s oldest, richest, and deepest consumer-focused datasets, they turn data and insights into actions—delighting customers and helping families get more out of life. In this session, learn about the data strategy they use to power more relevant, timely, and personalized experiences. Using Teradata VantageCloud on AWS, Teradata ClearScape Analytics, and Amazon SageMaker machine learning, The Very Group predicts product demand to optimize availability, prevent out-of-stock issues, and achieve a better forecast for improved customer satisfaction and net promoter scores
+title: Powerful machine learning data strategies from The Very Group
+sessionuid: 4F4F4C18-1B9F-442D-ABE6-4BC46E013B00
+thirdpartyid: RET201
+speakers: firstName_0: Steve, lastName_0: Gurney, firstName_1: Steve, lastName_1: Pimblett, company_1: The Very Group
+tag_name: Analytics, Topic, Innovation on AWS, Area of Interest, AI/ML, Topic, IT Administrator, Role, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, Tuesday, Day, MGM Grand, Venue, Business Intelligence, Area of Interest, Amazon SageMaker, Services, IT Executive, Role, Retail, Industry

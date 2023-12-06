@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Thursday, Day, Venetian, Venue, Enterprise & Migration, Topic, Migration & Transfer, Area of Interest, Modernization, Area of Interest, Cross Industry, Industry, Government, Industry, 200 - Intermediate, Level, , speakers :firstName_0: David, lastName_0: Schatzman, firstName_1: Ulysses, lastName_1: Cubillos, , thirdpartyid :WPS203, sessionuid :F695619E-3BAF-4E2D-A84D-34D8079ADB46, title :Accelerate business and mission outcomes with AWS Government Regions, description :<p>In this lightning talk, learn how AWS Government Regions—AWS GovCloud (US), AWS Secret Region, and AWS Top Secret Regions—help customers accelerate their desired outcomes and the deployment of modern applications while reducing risk compared to legacy on-premises deployments. The AWS Government Regions are purpose-built, compliance-eligible, secure, and scalable cloud infrastructure designed to address mission needs and critical workload requirements for civilian, healthcare, and financial agencies; the U.S. Intelligence Community; the Department of Defense; the defense industrial base; and technology partners and supporting organizations.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 30 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 23:20:00 -0500, 
+enddatetimeutc: November, 30 2023 23:20:00 -0500
+startdatetimeutc: November, 30 2023 23:00:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>In this lightning talk, learn how AWS Government Regions—AWS GovCloud (US), AWS Secret Region, and AWS Top Secret Regions—help customers accelerate their desired outcomes and the deployment of modern applications while reducing risk compared to legacy on-premises deployments. The AWS Government Regions are purpose-built, compliance-eligible, secure, and scalable cloud infrastructure designed to address mission needs and critical workload requirements for civilian, healthcare, and financial agencies; the U.S. Intelligence Community; the Department of Defense; the defense industrial base; and technology partners and supporting organizations.</p>
+title: Accelerate business and mission outcomes with AWS Government Regions
+sessionuid: F695619E-3BAF-4E2D-A84D-34D8079ADB46
+thirdpartyid: WPS203
+speakers: firstName_0: David, lastName_0: Schatzman, firstName_1: Ulysses, lastName_1: Cubillos
+tag_name: Thursday, Day, Venetian, Venue, Enterprise & Migration, Topic, Migration & Transfer, Area of Interest, Modernization, Area of Interest, Cross Industry, Industry, Government, Industry, 200 - Intermediate, Level

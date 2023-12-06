@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 122
+summary: tag_name :AWS CloudTrail, Services, AWS Control Tower, Services, Solution/Systems Architect, Role, DevOps Engineer, Role, Management & Governance, Area of Interest, Cloud Operations, Topic, 200 - Intermediate, Level, Wednesday, Day, MGM Grand, Venue, AWS Config, Services, Cloud Security Specialist, Role, , speakers :firstName_0: Brad, lastName_0: Gilomen, firstName_1: Suchita, lastName_1: Verma, firstName_2: Todd, lastName_2: Snyder, company_2: Arctic Wolf, , thirdpartyid :COP209, sessionuid :5C0D9D6C-D402-4B81-95A3-438C8D534AFF, title :How to customize AWS compliance and auditing services, description :Security operations, compliance, and auditing can be challenging to set up, especially in a way that makes it easy to visualize, manage, and respond to everything happening. And sometimes using fully managed services can help reduce risk but limit innovation. See how to use AWS Config, through AWS Security Hub, AWS CloudTrail Lake, and AWS Control Tower to set up an environment that sets you up for operational and compliance success., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 122, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Grand 122
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Security operations, compliance, and auditing can be challenging to set up, especially in a way that makes it easy to visualize, manage, and respond to everything happening. And sometimes using fully managed services can help reduce risk but limit innovation. See how to use AWS Config, through AWS Security Hub, AWS CloudTrail Lake, and AWS Control Tower to set up an environment that sets you up for operational and compliance success
+title: How to customize AWS compliance and auditing services
+sessionuid: 5C0D9D6C-D402-4B81-95A3-438C8D534AFF
+thirdpartyid: COP209
+speakers: firstName_0: Brad, lastName_0: Gilomen, firstName_1: Suchita, lastName_1: Verma, firstName_2: Todd, lastName_2: Snyder, company_2: Arctic Wolf
+tag_name: AWS CloudTrail, Services, AWS Control Tower, Services, Solution/Systems Architect, Role, DevOps Engineer, Role, Management & Governance, Area of Interest, Cloud Operations, Topic, 200 - Intermediate, Level, Wednesday, Day, MGM Grand, Venue, AWS Config, Services, Cloud Security Specialist, Role

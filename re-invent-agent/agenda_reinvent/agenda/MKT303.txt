@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :Kubernetes, Topic, AWS Marketplace, Area of Interest, 300 - Advanced, Level, Monitoring & Observability, Area of Interest, Amazon Elastic Kubernetes Service (EKS), Services, Solution/Systems Architect, Role, Customer Enablement, Topic, AWS Marketplace, Services, IT Administrator, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Wednesday, Day, Wynn, Venue, , speakers :firstName_0: Omar, lastName_0: Chehab, firstName_1: Sandeep, lastName_1: Kashyap, , thirdpartyid :MKT303-R, sessionuid :EEB75120-1821-4B33-AC0D-9929D81D5C27, title :Build production-ready Kubernetes clusters in minutes [REPEAT], description :<p>There are more than 330,000 active customers that regularly come to AWS Marketplace to subscribe to third-party solutions they can deploy to their AWS environments. In this chalk talk, learn how you might use container software from AWS Marketplace to create production-ready Amazon EKS clusters through the Amazon EKS console or through infrastructure-as-code tools like AWS CloudFormation or Terraform.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>There are more than 330,000 active customers that regularly come to AWS Marketplace to subscribe to third-party solutions they can deploy to their AWS environments. In this chalk talk, learn how you might use container software from AWS Marketplace to create production-ready Amazon EKS clusters through the Amazon EKS console or through infrastructure-as-code tools like AWS CloudFormation or Terraform.</p>
+title: Build production-ready Kubernetes clusters in minutes [REPEAT]
+sessionuid: EEB75120-1821-4B33-AC0D-9929D81D5C27
+thirdpartyid: MKT303-R
+speakers: firstName_0: Omar, lastName_0: Chehab, firstName_1: Sandeep, lastName_1: Kashyap
+tag_name: Kubernetes, Topic, AWS Marketplace, Area of Interest, 300 - Advanced, Level, Monitoring & Observability, Area of Interest, Amazon Elastic Kubernetes Service (EKS), Services, Solution/Systems Architect, Role, Customer Enablement, Topic, AWS Marketplace, Services, IT Administrator, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Wednesday, Day, Wynn, Venue

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 169
+summary: tag_name :Quantum Technologies, Area of Interest, Government, Industry, Solution/Systems Architect, Role, Telecommunications, Industry, Thursday, Day, MGM Grand, Venue, 300 - Advanced, Level, Customer Enablement, Topic, Academic/Researcher, Role, Cloud Security Specialist, Role, Networking & Content Delivery, Topic, , speakers :firstName_0: Carsten, lastName_0: Robens, , thirdpartyid :QTC301-R, sessionuid :FCA2FB33-1F09-425C-B667-184AC97E3ED0, title :Developing next-generation quantum networks [REPEAT], description :Quantum networking technologies are well on their way to moving out of the lab and into the real world. However, current systems are only starting to scratch the surface of what is possible in the field. In this chalk talk, scientists from the AWS Center for Quantum Networking discuss the architecture and potential of mature quantum networks, and how AWS is innovating to drive the fundamental advancements needed to make these networks a reality. Explore the role played by quantum repeaters and their part in transforming point-to-point quantum networks into the interconnected, modular systems of tomorrow., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 169, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 20:30:00 -0500, 
+enddatetimeutc: November, 30 2023 20:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Boulevard 169
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Quantum networking technologies are well on their way to moving out of the lab and into the real world. However, current systems are only starting to scratch the surface of what is possible in the field. In this chalk talk, scientists from the AWS Center for Quantum Networking discuss the architecture and potential of mature quantum networks, and how AWS is innovating to drive the fundamental advancements needed to make these networks a reality. Explore the role played by quantum repeaters and their part in transforming point-to-point quantum networks into the interconnected, modular systems of tomorrow
+title: Developing next-generation quantum networks [REPEAT]
+sessionuid: FCA2FB33-1F09-425C-B667-184AC97E3ED0
+thirdpartyid: QTC301-R
+speakers: firstName_0: Carsten, lastName_0: Robens
+tag_name: Quantum Technologies, Area of Interest, Government, Industry, Solution/Systems Architect, Role, Telecommunications, Industry, Thursday, Day, MGM Grand, Venue, 300 - Advanced, Level, Customer Enablement, Topic, Academic/Researcher, Role, Cloud Security Specialist, Role, Networking & Content Delivery, Topic

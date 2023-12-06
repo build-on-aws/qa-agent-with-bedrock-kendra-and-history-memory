@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Terrace 151
+summary: tag_name :AWS Amplify, Services, Developer/Engineer, Role, 400 - Expert, Level, DevOps Engineer, Role, DevOps and Developer Productivity, Topic, AWS AppSync, Services, Wednesday, Day, MGM Grand, Venue, Front-End Web & Mobile, Area of Interest, , speakers :firstName_0: Bindhu, lastName_0: Chinnadurai, firstName_1: Clay, lastName_1: Brehm, firstName_2: Drishti, lastName_2: Arora, firstName_3: Julian, lastName_3: Pittas, firstName_4: Matt, lastName_4: Auerbach, , thirdpartyid :FWM401-R, sessionuid :8508636D-DB4C-41F4-8405-B7C43AAC1635, title :Build feature-rich, full-stack apps with AWS Amplify and AWS AppSync [REPEAT], description :AWS Amplify is a set of purpose-built tools and features that lets frontend web and mobile developers quickly and easily build full-stack applications on AWS, with the flexibility to leverage the breadth of AWS services as your use cases evolve. AWS AppSync is a managed API service for developing applications faster with serverless GraphQL and pub/sub APIs. This builders’ session offers hands-on experience building scalable full-stack applications, powered by AWS Amplify and AWS AppSync. You must bring your laptop to participate., sessiontype :Builders' Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Terrace 151, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Terrace 151
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Builders' Session
+description: AWS Amplify is a set of purpose-built tools and features that lets frontend web and mobile developers quickly and easily build full-stack applications on AWS, with the flexibility to leverage the breadth of AWS services as your use cases evolve. AWS AppSync is a managed API service for developing applications faster with serverless GraphQL and pub/sub APIs. This builders’ session offers hands-on experience building scalable full-stack applications, powered by AWS Amplify and AWS AppSync. You must bring your laptop to participate
+title: Build feature-rich, full-stack apps with AWS Amplify and AWS AppSync [REPEAT]
+sessionuid: 8508636D-DB4C-41F4-8405-B7C43AAC1635
+thirdpartyid: FWM401-R
+speakers: firstName_0: Bindhu, lastName_0: Chinnadurai, firstName_1: Clay, lastName_1: Brehm, firstName_2: Drishti, lastName_2: Arora, firstName_3: Julian, lastName_3: Pittas, firstName_4: Matt, lastName_4: Auerbach
+tag_name: AWS Amplify, Services, Developer/Engineer, Role, 400 - Expert, Level, DevOps Engineer, Role, DevOps and Developer Productivity, Topic, AWS AppSync, Services, Wednesday, Day, MGM Grand, Venue, Front-End Web & Mobile, Area of Interest

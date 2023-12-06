@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 115
+summary: tag_name :300 - Advanced, Level, DevOps Engineer, Role, Open Source, Area of Interest, Developer/Engineer, Role, Innovation on AWS, Area of Interest, Solution/Systems Architect, Role, AWS Community, Area of Interest, Monday, Day, MGM Grand, Venue, AWS Lambda, Services, Serverless Compute, Topic, , speakers :firstName_0: Efi, lastName_0: Merdler-Kravitz, company_0: Cloudex, , thirdpartyid :COM306, sessionuid :1A7B309A-0B4E-4762-8941-93191355847F, title :“Rustifying” serverless: Boost AWS Lambda performance with Rust, description :<p>Rust, renowned for its performance and security, brings considerable benefits to AWS Lambda applications. In this session, discover how to deploy Rust functions using AWS SAM and cargo-lambda, facilitating a smooth development process from your local machine. Explore how to integrate Rust into Python Lambda functions effortlessly using tools like PyO3 and maturin, along with the AWS SDK for Rust. Uncover how Rust can optimize Lambda functions, including the development of Lambda extensions, all without requiring a complete rewrite of your existing code base.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 115, startdatetimeutc :November, 27 2023 21:30:00 -0500, enddatetimeutc :November, 27 2023 22:30:00 -0500, 
+enddatetimeutc: November, 27 2023 22:30:00 -0500
+startdatetimeutc: November, 27 2023 21:30:00 -0500
+locationname: Grand 115
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>Rust, renowned for its performance and security, brings considerable benefits to AWS Lambda applications. In this session, discover how to deploy Rust functions using AWS SAM and cargo-lambda, facilitating a smooth development process from your local machine. Explore how to integrate Rust into Python Lambda functions effortlessly using tools like PyO3 and maturin, along with the AWS SDK for Rust. Uncover how Rust can optimize Lambda functions, including the development of Lambda extensions, all without requiring a complete rewrite of your existing code base.</p>
+title: “Rustifying” serverless: Boost AWS Lambda performance with Rust
+sessionuid: 1A7B309A-0B4E-4762-8941-93191355847F
+thirdpartyid: COM306
+speakers: firstName_0: Efi, lastName_0: Merdler-Kravitz, company_0: Cloudex
+tag_name: 300 - Advanced, Level, DevOps Engineer, Role, Open Source, Area of Interest, Developer/Engineer, Role, Innovation on AWS, Area of Interest, Solution/Systems Architect, Role, AWS Community, Area of Interest, Monday, Day, MGM Grand, Venue, AWS Lambda, Services, Serverless Compute, Topic

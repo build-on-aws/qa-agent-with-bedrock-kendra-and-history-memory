@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 311
+summary: tag_name :MGM Grand, Venue, Monday, Day, AI/ML, Topic, Internet of Things, Topic, Innovation on AWS, Area of Interest, Robotics, Area of Interest, Education, Industry, Manufacturing & Industrial, Industry, Amazon SageMaker, Services, AWS IoT Greengrass, Services, AWS IoT SiteWise, Services, 300 - Advanced, Level, , speakers :firstName_0: Aaron, lastName_0: Su, firstName_1: Nigel, lastName_1: Gardiner, , thirdpartyid :ROB306, sessionuid :643B271C-560F-417C-8171-CEC2ECC4C385, title :Build a cloud- and AI-powered dancing robot, description :<p>Discover the exciting world of cloud-connected robots. Join this workshop to embark on a journey to connect a robot puppy to the cloud using AWS IoT Core. Unleash your creativity as you deploy cutting-edge software to these mechanical marvels using AWS IoT Greengrass. Engage in playful banter with your robotic friend and witness its dance moves choreographed by generative AI. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 311, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 21:30:00 -0500, 
+enddatetimeutc: November, 27 2023 21:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Premier 311
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Discover the exciting world of cloud-connected robots. Join this workshop to embark on a journey to connect a robot puppy to the cloud using AWS IoT Core. Unleash your creativity as you deploy cutting-edge software to these mechanical marvels using AWS IoT Greengrass. Engage in playful banter with your robotic friend and witness its dance moves choreographed by generative AI. You must bring your laptop to participate.</p>
+title: Build a cloud- and AI-powered dancing robot
+sessionuid: 643B271C-560F-417C-8171-CEC2ECC4C385
+thirdpartyid: ROB306
+speakers: firstName_0: Aaron, lastName_0: Su, firstName_1: Nigel, lastName_1: Gardiner
+tag_name: MGM Grand, Venue, Monday, Day, AI/ML, Topic, Internet of Things, Topic, Innovation on AWS, Area of Interest, Robotics, Area of Interest, Education, Industry, Manufacturing & Industrial, Industry, Amazon SageMaker, Services, AWS IoT Greengrass, Services, AWS IoT SiteWise, Services, 300 - Advanced, Level

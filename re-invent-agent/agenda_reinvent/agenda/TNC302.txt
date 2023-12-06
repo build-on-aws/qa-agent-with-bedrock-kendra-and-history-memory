@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas G
+summary: tag_name :Solution/Systems Architect, Role, Architecture, Topic, Wednesday, Day, Mandalay Bay, Venue, Cross Industry, Industry, Training & Certification, Topic, 300 - Advanced, Level, , speakers :firstName_0: Ike, lastName_0: Ogbo, , thirdpartyid :TNC302, sessionuid :DE84EB3C-2C90-4325-A4AD-4F8875F84A5E, title :Exam prep: AWS Certified Solutions Architect – Professional, description :Prepare for the AWS Certified Solutions Architect – Professional exam with this 2-hour interactive study session. Review the AWS Certified Solutions Architect – Professional Official Practice Question Set, and get your questions answered by the subject matter expert leading the study session., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas G, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 23:00:00 -0500, 
+enddatetimeutc: November, 29 2023 23:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: South Seas G
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Prepare for the AWS Certified Solutions Architect – Professional exam with this 2-hour interactive study session. Review the AWS Certified Solutions Architect – Professional Official Practice Question Set, and get your questions answered by the subject matter expert leading the study session
+title: Exam prep: AWS Certified Solutions Architect – Professional
+sessionuid: DE84EB3C-2C90-4325-A4AD-4F8875F84A5E
+thirdpartyid: TNC302
+speakers: firstName_0: Ike, lastName_0: Ogbo
+tag_name: Solution/Systems Architect, Role, Architecture, Topic, Wednesday, Day, Mandalay Bay, Venue, Cross Industry, Industry, Training & Certification, Topic, 300 - Advanced, Level

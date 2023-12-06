@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 126
+summary: tag_name :DevOps Engineer, Role, Kubernetes, Topic, Global Infrastructure, Area of Interest, Architecture, Topic, 400 - Expert, Level, Thursday, Day, Caesars Forum, Venue, Cross Industry, Industry, Amazon Elastic Kubernetes Service (EKS), Services, Solution/Systems Architect, Role, Open Source, Area of Interest, Developer/Engineer, Role, , speakers :firstName_0: Roland, lastName_0: Barcia, firstName_1: Rajdeep, lastName_1: Saha, , thirdpartyid :CON406-R, sessionuid :374560F1-FBCC-41A7-B271-B198CA0D8FA8, title :Amazon EKS: Infrastructure as code, GitOps, or CI\CD? [REPEAT], description :In this chalk talk, discover how to adopt various architectures to build and deploy workloads on Amazon EKS. When deploying workloads into a cluster, there are different automation choices from CI/CD pipelines, IaC tools like Terraform and CDK, and GitOps patterns with Argo CD or Flux. Hear how these options differ and fit together from the developer, architect, and operations perspectives, and learn how to choose options depending on team structure and skills. Explore how to adopt, mix, and match DevOps and GitOps based on different design factors, and learn about the design factors for developer, architect, and operations perspectives., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 126, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Forum 126
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: In this chalk talk, discover how to adopt various architectures to build and deploy workloads on Amazon EKS. When deploying workloads into a cluster, there are different automation choices from CI/CD pipelines, IaC tools like Terraform and CDK, and GitOps patterns with Argo CD or Flux. Hear how these options differ and fit together from the developer, architect, and operations perspectives, and learn how to choose options depending on team structure and skills. Explore how to adopt, mix, and match DevOps and GitOps based on different design factors, and learn about the design factors for developer, architect, and operations perspectives
+title: Amazon EKS: Infrastructure as code, GitOps, or CI\CD? [REPEAT]
+sessionuid: 374560F1-FBCC-41A7-B271-B198CA0D8FA8
+thirdpartyid: CON406-R
+speakers: firstName_0: Roland, lastName_0: Barcia, firstName_1: Rajdeep, lastName_1: Saha
+tag_name: DevOps Engineer, Role, Kubernetes, Topic, Global Infrastructure, Area of Interest, Architecture, Topic, 400 - Expert, Level, Thursday, Day, Caesars Forum, Venue, Cross Industry, Industry, Amazon Elastic Kubernetes Service (EKS), Services, Solution/Systems Architect, Role, Open Source, Area of Interest, Developer/Engineer, Role

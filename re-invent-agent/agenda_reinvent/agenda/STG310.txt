@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 301
+summary: tag_name :300 - Advanced, Level, Financial Services, Industry, Cross Industry, Industry, Storage, Topic, Solution/Systems Architect, Role, Healthcare, Industry, Resilience, Area of Interest, Security, Compliance, & Identity, Topic, IT Professional/Technical Manager, Role, Monday, Day, MGM Grand, Venue, System Administrator, Role, AWS Backup, Services, Disaster Response & Recovery, Area of Interest, Data Protection, Area of Interest, , speakers :firstName_0: Kenneth, lastName_0: Hui, firstName_1: Enrique, lastName_1: Ramirez, , thirdpartyid :STG310-R, sessionuid :9E135580-F799-4770-AD50-3E9A57D7DA92, title :Using AWS Backup to protect your cloud resources & hybrid environments [REPEAT], description :This chalk talk dives deep into AWS Backup benefits, features, use cases, and setup. Explore how to integrate AWS Backup with other services like AWS Organizations, Amazon SNS, Amazon CloudWatch, AWS CloudFormation, and AWS KMS. Learn about the AWS Backup structure, including information about backup plans, backup vaults, protected resources, backup jobs, monitoring, and policies., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :301, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 19:30:00 -0500, 
+enddatetimeutc: November, 27 2023 19:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: 301
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: This chalk talk dives deep into AWS Backup benefits, features, use cases, and setup. Explore how to integrate AWS Backup with other services like AWS Organizations, Amazon SNS, Amazon CloudWatch, AWS CloudFormation, and AWS KMS. Learn about the AWS Backup structure, including information about backup plans, backup vaults, protected resources, backup jobs, monitoring, and policies
+title: Using AWS Backup to protect your cloud resources & hybrid environments [REPEAT]
+sessionuid: 9E135580-F799-4770-AD50-3E9A57D7DA92
+thirdpartyid: STG310-R
+speakers: firstName_0: Kenneth, lastName_0: Hui, firstName_1: Enrique, lastName_1: Ramirez
+tag_name: 300 - Advanced, Level, Financial Services, Industry, Cross Industry, Industry, Storage, Topic, Solution/Systems Architect, Role, Healthcare, Industry, Resilience, Area of Interest, Security, Compliance, & Identity, Topic, IT Professional/Technical Manager, Role, Monday, Day, MGM Grand, Venue, System Administrator, Role, AWS Backup, Services, Disaster Response & Recovery, Area of Interest, Data Protection, Area of Interest

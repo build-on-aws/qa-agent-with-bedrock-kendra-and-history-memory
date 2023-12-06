@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Summit Showroom
+summary: tag_name :Training & Certification, Topic, 100 - Foundational, Level, Monday, Day, Venetian, Venue, Partner Enablement, Topic, , speakers :firstName_0: Brian, lastName_0: Henry, firstName_1: Phoebe, lastName_1: Truong, , thirdpartyid :PEX103, sessionuid :A6FA9583-E4E2-4983-B4A6-FA4234E01205, title :Unlock and accelerate growth with AWS Partner Training, description :Discover how to scale skills to build in-demand, cost-effective customer solutions with AWS Partner Training. Certification is an important factor in winning deals; 95% of customers say cloud certifications are important to their decision-making process, and 83% consider them a deciding factor. AWS Partner Training and Certification not only equips your team with the tools to earn industry-recognized credentials that can accelerate growth, it also improves delivery efficiency and helps you achieve better customer outcomes. This session includes real-world stories of partners who have seen results from training, including revenue gains and delivery acceleration of up to 20%. This session is intended for AWS Partners., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Summit Showroom, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Summit Showroom
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: Discover how to scale skills to build in-demand, cost-effective customer solutions with AWS Partner Training. Certification is an important factor in winning deals; 95% of customers say cloud certifications are important to their decision-making process, and 83% consider them a deciding factor. AWS Partner Training and Certification not only equips your team with the tools to earn industry-recognized credentials that can accelerate growth, it also improves delivery efficiency and helps you achieve better customer outcomes. This session includes real-world stories of partners who have seen results from training, including revenue gains and delivery acceleration of up to 20%. This session is intended for AWS Partners
+title: Unlock and accelerate growth with AWS Partner Training
+sessionuid: A6FA9583-E4E2-4983-B4A6-FA4234E01205
+thirdpartyid: PEX103
+speakers: firstName_0: Brian, lastName_0: Henry, firstName_1: Phoebe, lastName_1: Truong
+tag_name: Training & Certification, Topic, 100 - Foundational, Level, Monday, Day, Venetian, Venue, Partner Enablement, Topic

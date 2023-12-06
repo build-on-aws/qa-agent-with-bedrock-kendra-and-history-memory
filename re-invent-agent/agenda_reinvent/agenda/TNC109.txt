@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Lagoon L
+summary: tag_name :Data Scientist, Role, Amazon Comprehend, Services, AI/ML, Topic, BuildOn.AWS, Area of Interest, Data Engineer, Role, Developer/Engineer, Role, Wednesday, Day, Mandalay Bay, Venue, Training & Certification, Topic, 100 - Foundational, Level, Cross Industry, Industry, , speakers :firstName_0: Joel, lastName_0: Medois, , thirdpartyid :TNC109, sessionuid :A25B6B1B-B83A-43BB-A5D8-2F5DFE578B9A, title :Getting started with Amazon Comprehend: Custom entity recognition, description :In this lab, learn how to create and test a custom entity recognition model using Amazon Comprehend., sessiontype :Lab, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Lagoon L, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Lagoon L
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Lab
+description: In this lab, learn how to create and test a custom entity recognition model using Amazon Comprehend
+title: Getting started with Amazon Comprehend: Custom entity recognition
+sessionuid: A25B6B1B-B83A-43BB-A5D8-2F5DFE578B9A
+thirdpartyid: TNC109
+speakers: firstName_0: Joel, lastName_0: Medois
+tag_name: Data Scientist, Role, Amazon Comprehend, Services, AI/ML, Topic, BuildOn.AWS, Area of Interest, Data Engineer, Role, Developer/Engineer, Role, Wednesday, Day, Mandalay Bay, Venue, Training & Certification, Topic, 100 - Foundational, Level, Cross Industry, Industry

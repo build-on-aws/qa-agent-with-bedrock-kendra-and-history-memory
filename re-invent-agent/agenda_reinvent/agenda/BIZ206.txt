@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :Business Applications, Topic, Application Integration, Area of Interest, Data Protection, Area of Interest, Monitoring & Observability, Area of Interest, Advertising & Marketing, Industry, Financial Services, Industry, Healthcare, Industry, 200 - Intermediate, Level, Business Executive, Role, Cloud Security Specialist, Role, Data Scientist, Role, Wednesday, Day, Wynn, Venue, AWS AppFabric, Services, , speakers :firstName_0: Bobby, lastName_0: Williams, firstName_1: Niranjan, lastName_1: Hira, , thirdpartyid :BIZ206, sessionuid :86E77876-B74F-4AD1-B296-362D5C82C820, title :Generate impactful insights across your SaaS apps with AWS AppFabric, description :<p>Businesses moving fast and making quick decisions during times of hyper growth can be at risk of leaving security gaps in their software-as-a-service (SaaS) application technology stack. In order to implement corporate security policies to keep data secure, high impact decisions must be made about the tools to use and govern. In this chalk talk, learn how AWS AppFabric quickly normalizes disparate SaaS application data so that security teams can configure reporting dashboards and run analytics that enhance an organization’s security observability across their technology stack.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Businesses moving fast and making quick decisions during times of hyper growth can be at risk of leaving security gaps in their software-as-a-service (SaaS) application technology stack. In order to implement corporate security policies to keep data secure, high impact decisions must be made about the tools to use and govern. In this chalk talk, learn how AWS AppFabric quickly normalizes disparate SaaS application data so that security teams can configure reporting dashboards and run analytics that enhance an organization’s security observability across their technology stack.</p>
+title: Generate impactful insights across your SaaS apps with AWS AppFabric
+sessionuid: 86E77876-B74F-4AD1-B296-362D5C82C820
+thirdpartyid: BIZ206
+speakers: firstName_0: Bobby, lastName_0: Williams, firstName_1: Niranjan, lastName_1: Hira
+tag_name: Business Applications, Topic, Application Integration, Area of Interest, Data Protection, Area of Interest, Monitoring & Observability, Area of Interest, Advertising & Marketing, Industry, Financial Services, Industry, Healthcare, Industry, 200 - Intermediate, Level, Business Executive, Role, Cloud Security Specialist, Role, Data Scientist, Role, Wednesday, Day, Wynn, Venue, AWS AppFabric, Services

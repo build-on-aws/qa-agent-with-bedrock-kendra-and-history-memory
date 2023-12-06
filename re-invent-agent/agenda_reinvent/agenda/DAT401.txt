@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 7
+summary: tag_name :Innovation on AWS, Area of Interest, Amazon DynamoDB, Services, Solution/Systems Architect, Role, Cross Industry, Industry, 400 - Expert, Level, IT Professional/Technical Manager, Role, Databases, Topic, Wednesday, Day, Wynn, Venue, Developer/Engineer, Role, Serverless Compute, Topic, , speakers :firstName_0: Greg, lastName_0: Krumm, firstName_1: Leonid, lastName_1: Koren, firstName_2: Aman, lastName_2: Dhingra, firstName_3: Michael, lastName_3: Raney, , thirdpartyid :DAT401-R, sessionuid :592144E7-AADC-40AF-8554-327F5F9D7E10, title :Applied data modeling with Amazon DynamoDB [REPEAT], description :In this builders’ session, learn how to turn a new business idea into a fully functional data model in Amazon DynamoDB. Discover hands-on how to translate business requirements into access patterns and access patterns into a fully optimized schema design. You must bring your laptop to participate., sessiontype :Builders' Session, venuename :Wynn, floorplanname :Level 1, locationname :Latour 7, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Latour 7
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Builders' Session
+description: In this builders’ session, learn how to turn a new business idea into a fully functional data model in Amazon DynamoDB. Discover hands-on how to translate business requirements into access patterns and access patterns into a fully optimized schema design. You must bring your laptop to participate
+title: Applied data modeling with Amazon DynamoDB [REPEAT]
+sessionuid: 592144E7-AADC-40AF-8554-327F5F9D7E10
+thirdpartyid: DAT401-R
+speakers: firstName_0: Greg, lastName_0: Krumm, firstName_1: Leonid, lastName_1: Koren, firstName_2: Aman, lastName_2: Dhingra, firstName_3: Michael, lastName_3: Raney
+tag_name: Innovation on AWS, Area of Interest, Amazon DynamoDB, Services, Solution/Systems Architect, Role, Cross Industry, Industry, 400 - Expert, Level, IT Professional/Technical Manager, Role, Databases, Topic, Wednesday, Day, Wynn, Venue, Developer/Engineer, Role, Serverless Compute, Topic

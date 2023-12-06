@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 306
+summary: tag_name :IT Professional/Technical Manager, Role, Cost Optimization, Area of Interest, 300 - Advanced, Level, Serverless Compute, Topic, AWS Lambda, Services, Wednesday, Day, MGM Grand, Venue, Solution/Systems Architect, Role, Developer/Engineer, Role, , speakers :firstName_0: Tomas, lastName_0: Mihalyi, firstName_1: Aneel, lastName_1: Murari, , thirdpartyid :SVS311, sessionuid :BC74F2C3-E0A0-46C1-A15F-2CF689558037, title :Optimizing cost and performance for AWS Lambda-based workloads, description :Organizations are focused on improving the cost and performance efficiency of their cloud applications. When implementing cost optimization, application and platform teams want to know how to reduce compute cost without impacting performance. In this chalk talk, discover the latest strategies and best practices for ensuring your AWS Lambda-based applications remain cost-efficient and highly performant. Explore technical insights and lessons from real-world success stories using the latest optimization and tuning techniques., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :306, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: 306
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Organizations are focused on improving the cost and performance efficiency of their cloud applications. When implementing cost optimization, application and platform teams want to know how to reduce compute cost without impacting performance. In this chalk talk, discover the latest strategies and best practices for ensuring your AWS Lambda-based applications remain cost-efficient and highly performant. Explore technical insights and lessons from real-world success stories using the latest optimization and tuning techniques
+title: Optimizing cost and performance for AWS Lambda-based workloads
+sessionuid: BC74F2C3-E0A0-46C1-A15F-2CF689558037
+thirdpartyid: SVS311
+speakers: firstName_0: Tomas, lastName_0: Mihalyi, firstName_1: Aneel, lastName_1: Murari
+tag_name: IT Professional/Technical Manager, Role, Cost Optimization, Area of Interest, 300 - Advanced, Level, Serverless Compute, Topic, AWS Lambda, Services, Wednesday, Day, MGM Grand, Venue, Solution/Systems Architect, Role, Developer/Engineer, Role

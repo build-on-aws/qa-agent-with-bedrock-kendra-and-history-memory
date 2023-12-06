@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 216
+summary: tag_name :End-User Computing, Topic, Independent Software Vendor (ISV), Area of Interest, SaaS, Area of Interest, Cost Optimization, Area of Interest, 200 - Intermediate, Level, IT Administrator, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon WorkSpaces, Services, Thursday, Day, Caesars Forum, Venue, , speakers :firstName_0: Dan, lastName_0: Garibay, , thirdpartyid :EUC204, sessionuid :62FF5421-AC4E-4B51-A544-270C461C862F, title :Deploying and managing Amazon WorkSpaces applications with Ansible, description :<p>Customers regularly ask how to manage Amazon WorkSpaces at scale, including how to push applications to WorkSpaces from a central location and take inventory of software currently on WorkSpaces. A strong application management solution can help you focus on managing applications rather than maintaining custom images. In this session, learn to use Ansible to manage your Microsoft Windows and Ubuntu WorkSpaces instances. Ansible is free open source software that uses SSH on Linux and PowerShell on Windows to perform agentless management of operating systems. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 216, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Summit 216
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Customers regularly ask how to manage Amazon WorkSpaces at scale, including how to push applications to WorkSpaces from a central location and take inventory of software currently on WorkSpaces. A strong application management solution can help you focus on managing applications rather than maintaining custom images. In this session, learn to use Ansible to manage your Microsoft Windows and Ubuntu WorkSpaces instances. Ansible is free open source software that uses SSH on Linux and PowerShell on Windows to perform agentless management of operating systems. You must bring your laptop to participate.</p>
+title: Deploying and managing Amazon WorkSpaces applications with Ansible
+sessionuid: 62FF5421-AC4E-4B51-A544-270C461C862F
+thirdpartyid: EUC204
+speakers: firstName_0: Dan, lastName_0: Garibay
+tag_name: End-User Computing, Topic, Independent Software Vendor (ISV), Area of Interest, SaaS, Area of Interest, Cost Optimization, Area of Interest, 200 - Intermediate, Level, IT Administrator, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon WorkSpaces, Services, Thursday, Day, Caesars Forum, Venue

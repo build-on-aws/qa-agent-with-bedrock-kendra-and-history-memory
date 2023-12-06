@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :Developer/Engineer, Role, AWS Step Functions, Services, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Serverless Compute, Topic, Application Integration, Area of Interest, Wynn, Venue, Tuesday, Day, Amazon Managed Workflows for Apache Airflow (MWAA), Services, 300 - Advanced, Level, , speakers :firstName_0: Fernando, lastName_0: Gamero, firstName_1: Parnab, lastName_1: Basak, , thirdpartyid :API307, sessionuid :7DBBD281-0227-463B-9706-54A08CD5D642, title :Comparing Amazon MWAA and AWS Step Functions, description :Organizations looking to orchestrate ETL data pipelines on AWS are looking for tools that best meet their requirements. In this chalk talk, learn about the pros and cons of orchestrating ETL pipelines with Amazon MWAA and AWS Step Functions., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Organizations looking to orchestrate ETL data pipelines on AWS are looking for tools that best meet their requirements. In this chalk talk, learn about the pros and cons of orchestrating ETL pipelines with Amazon MWAA and AWS Step Functions
+title: Comparing Amazon MWAA and AWS Step Functions
+sessionuid: 7DBBD281-0227-463B-9706-54A08CD5D642
+thirdpartyid: API307
+speakers: firstName_0: Fernando, lastName_0: Gamero, firstName_1: Parnab, lastName_1: Basak
+tag_name: Developer/Engineer, Role, AWS Step Functions, Services, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Serverless Compute, Topic, Application Integration, Area of Interest, Wynn, Venue, Tuesday, Day, Amazon Managed Workflows for Apache Airflow (MWAA), Services, 300 - Advanced, Level

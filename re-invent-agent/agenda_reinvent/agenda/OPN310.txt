@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 350
+summary: tag_name :300 - Advanced, Level, Application Integration, Area of Interest, Open Source, Area of Interest, Security, Compliance, & Identity, Topic, Cloud Security Specialist, Role, Solution/Systems Architect, Role, Thursday, Day, MGM Grand, Venue, Developer/Engineer, Role, , speakers :firstName_0: Mike, lastName_0: Hicks, firstName_1: Kevin, lastName_1: Hakanson, firstName_2: Emina, lastName_2: Torlak, firstName_3: Darin, lastName_3: McAdams, firstName_4: Craig, lastName_4: Disselkoen, , thirdpartyid :OPN310-R, sessionuid :CEB294F3-8D7B-4A15-ADC7-1F8D7AE46B4A, title :Cedar policy language in action [REPEAT], description :Cedar is a language for defining permissions as policies that describe who should have access to what. Amazon Verified Permissions and AWS Verified Access use Cedar to define fine-grained permissions for applications and end users. In this builders’ session, first learn how to write Cedar policies. Then, take on a challenge problem building the set of policies representing a full application. This session uses open source Cedar and the free online playground, so there is no need to install anything or have an AWS account. You must bring your laptop to participate., sessiontype :Builders' Session, venuename :MGM Grand, floorplanname :Level 3, locationname :350, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 23:30:00 -0500, 
+enddatetimeutc: November, 30 2023 23:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: 350
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Builders' Session
+description: Cedar is a language for defining permissions as policies that describe who should have access to what. Amazon Verified Permissions and AWS Verified Access use Cedar to define fine-grained permissions for applications and end users. In this builders’ session, first learn how to write Cedar policies. Then, take on a challenge problem building the set of policies representing a full application. This session uses open source Cedar and the free online playground, so there is no need to install anything or have an AWS account. You must bring your laptop to participate
+title: Cedar policy language in action [REPEAT]
+sessionuid: CEB294F3-8D7B-4A15-ADC7-1F8D7AE46B4A
+thirdpartyid: OPN310-R
+speakers: firstName_0: Mike, lastName_0: Hicks, firstName_1: Kevin, lastName_1: Hakanson, firstName_2: Emina, lastName_2: Torlak, firstName_3: Darin, lastName_3: McAdams, firstName_4: Craig, lastName_4: Disselkoen
+tag_name: 300 - Advanced, Level, Application Integration, Area of Interest, Open Source, Area of Interest, Security, Compliance, & Identity, Topic, Cloud Security Specialist, Role, Solution/Systems Architect, Role, Thursday, Day, MGM Grand, Venue, Developer/Engineer, Role

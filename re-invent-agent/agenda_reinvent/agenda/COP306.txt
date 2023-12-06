@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 1
+summary: tag_name :300 - Advanced, Level, Amazon Managed Service for Prometheus, Services, Management & Governance, Area of Interest, Amazon Managed Grafana, Services, Monitoring & Observability, Area of Interest, DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Monday, Day, Wynn, Venue, Amazon CloudWatch, Services, AWS X-Ray, Services, Cloud Operations, Topic, , speakers :firstName_0: Matheus, lastName_0: Canela Olivas Faraco, firstName_1: Miki, lastName_1: Tsuwazaki, , thirdpartyid :COP306-R, sessionuid :BF96956E-70E7-4989-9168-A1D23F432044, title :Hands-on experience with Amazon CloudWatch and AWS X-Ray [REPEAT], description :<p>Your enterprise’s agility, customer satisfaction, and business growth depends on setting up great observability. In order to build high-performing and reliable applications, AWS provides a variety of turnkey AWS observability services and solutions. In this workshop, learn how to monitor AWS services with Amazon CloudWatch and AWS X-Ray, get hands-on experience with the most common use cases, and learn about and implement the newest features available. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 1, startdatetimeutc :November, 27 2023 19:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 19:00:00 -0500
+locationname: Cristal 1
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: <p>Your enterprise’s agility, customer satisfaction, and business growth depends on setting up great observability. In order to build high-performing and reliable applications, AWS provides a variety of turnkey AWS observability services and solutions. In this workshop, learn how to monitor AWS services with Amazon CloudWatch and AWS X-Ray, get hands-on experience with the most common use cases, and learn about and implement the newest features available. You must bring your laptop to participate.</p>
+title: Hands-on experience with Amazon CloudWatch and AWS X-Ray [REPEAT]
+sessionuid: BF96956E-70E7-4989-9168-A1D23F432044
+thirdpartyid: COP306-R
+speakers: firstName_0: Matheus, lastName_0: Canela Olivas Faraco, firstName_1: Miki, lastName_1: Tsuwazaki
+tag_name: 300 - Advanced, Level, Amazon Managed Service for Prometheus, Services, Management & Governance, Area of Interest, Amazon Managed Grafana, Services, Monitoring & Observability, Area of Interest, DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Monday, Day, Wynn, Venue, Amazon CloudWatch, Services, AWS X-Ray, Services, Cloud Operations, Topic

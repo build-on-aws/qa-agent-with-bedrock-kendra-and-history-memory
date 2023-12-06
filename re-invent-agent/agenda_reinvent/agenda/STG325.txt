@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 220
+summary: tag_name :300 - Advanced, Level, Financial Services, Industry, Networking & Content Delivery, Topic, IT Administrator, Role, Network & Infrastructure Security, Area of Interest, IT Professional/Technical Manager, Role, Storage, Topic, Tuesday, Day, Caesars Forum, Venue, Global Infrastructure, Area of Interest, Developer/Engineer, Role, Telecommunications, Industry, Application Integration, Area of Interest, Amazon Simple Storage Service (S3), Services, Media & Entertainment, Industry, , speakers :firstName_0: Sumiran, lastName_0: Tandon, firstName_1: Patrick, lastName_1: Brans, , thirdpartyid :STG325-R, sessionuid :E482CD7A-FB92-486E-8808-213A6784C852, title :Advanced networking on Amazon S3 [REPEAT], description :Whether your applications are running on premises, within an AWS Region, across multiple AWS Regions, or a mix of all three, the AWS network gives you a broad range of options to connect your applications to Amazon S3. This chalk talk provides a deep dive into AWS networking topics specific to Amazon S3, including building resiliency with S3 Multi-Region Access Points and connecting privately with AWS PrivateLink for Amazon S3., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 220, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: Summit 220
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Whether your applications are running on premises, within an AWS Region, across multiple AWS Regions, or a mix of all three, the AWS network gives you a broad range of options to connect your applications to Amazon S3. This chalk talk provides a deep dive into AWS networking topics specific to Amazon S3, including building resiliency with S3 Multi-Region Access Points and connecting privately with AWS PrivateLink for Amazon S3
+title: Advanced networking on Amazon S3 [REPEAT]
+sessionuid: E482CD7A-FB92-486E-8808-213A6784C852
+thirdpartyid: STG325-R
+speakers: firstName_0: Sumiran, lastName_0: Tandon, firstName_1: Patrick, lastName_1: Brans
+tag_name: 300 - Advanced, Level, Financial Services, Industry, Networking & Content Delivery, Topic, IT Administrator, Role, Network & Infrastructure Security, Area of Interest, IT Professional/Technical Manager, Role, Storage, Topic, Tuesday, Day, Caesars Forum, Venue, Global Infrastructure, Area of Interest, Developer/Engineer, Role, Telecommunications, Industry, Application Integration, Area of Interest, Amazon Simple Storage Service (S3), Services, Media & Entertainment, Industry

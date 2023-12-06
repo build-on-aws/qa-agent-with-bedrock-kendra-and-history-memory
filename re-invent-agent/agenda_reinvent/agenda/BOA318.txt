@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :Amazon Bedrock, Services, Generative AI, Area of Interest, BuildOn.AWS, Area of Interest, Modernization, Area of Interest, AI/ML, Topic, AWS Console Mobile Application, Services, Monday, Day, Wynn, Venue, 300 - Advanced, Level, , speakers :firstName_0: Tiffany, lastName_0: Souterre, firstName_1: François, lastName_1: Bouteruche, , thirdpartyid :BOA318, sessionuid :29D2D762-A9D3-4CF0-8CA2-6C1E487B68B3, title :Using generative AI to add tailored product summaries to an app, description :Building tailored product summaries helps better target your audience, but it is time-consuming. The more attributes you consider to describe your audience, the more attribute combinations you get and the more distinct product summaries you have to write. In this chalk talk, explore how to use foundational models through Amazon Bedrock to generate product summaries from a survey application. See tailored product summaries crafted about the 200+ AWS service offerings based on the role of survey respondents, their maturity with AWS, the services they already know, and the services they want to know more about., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 27 2023 22:00:00 -0500, 
+enddatetimeutc: November, 27 2023 22:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Building tailored product summaries helps better target your audience, but it is time-consuming. The more attributes you consider to describe your audience, the more attribute combinations you get and the more distinct product summaries you have to write. In this chalk talk, explore how to use foundational models through Amazon Bedrock to generate product summaries from a survey application. See tailored product summaries crafted about the 200+ AWS service offerings based on the role of survey respondents, their maturity with AWS, the services they already know, and the services they want to know more about
+title: Using generative AI to add tailored product summaries to an app
+sessionuid: 29D2D762-A9D3-4CF0-8CA2-6C1E487B68B3
+thirdpartyid: BOA318
+speakers: firstName_0: Tiffany, lastName_0: Souterre, firstName_1: François, lastName_1: Bouteruche
+tag_name: Amazon Bedrock, Services, Generative AI, Area of Interest, BuildOn.AWS, Area of Interest, Modernization, Area of Interest, AI/ML, Topic, AWS Console Mobile Application, Services, Monday, Day, Wynn, Venue, 300 - Advanced, Level

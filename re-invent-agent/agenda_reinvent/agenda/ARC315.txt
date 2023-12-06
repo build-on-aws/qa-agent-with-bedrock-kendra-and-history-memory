@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 370
+summary: tag_name :Developer/Engineer, Role, Cross Industry, Industry, Open Source, Area of Interest, Solution/Systems Architect, Role, Architecture, Topic, Resilience, Area of Interest, Monday, Day, MGM Grand, Venue, Academic/Researcher, Role, Well-Architected Framework, Area of Interest, 300 - Advanced, Level, , speakers :firstName_0: Ankush, lastName_0: Desai, firstName_1: BIKASH, lastName_1: BEHERA, , thirdpartyid :ARC315, sessionuid :F40F952E-CB1E-43CB-BB68-75EEFE31F959, title :Gain confidence in system correctness & resilience with formal methods, description :Distributed applications, systems, and services are difficult to design and test. Formal methods enable the early discovery of design bugs that can escape the guardrails of design reviews and automated testing only to get uncovered in production. Join this session to learn how AWS uses P, an open source, state machine–based programming language for formal modeling and analysis of distributed systems, to reason about the correctness of its services (for example, Amazon S3 and Amazon DynamoDB). Learn how developers and architects can use P for their own applications to find bugs early in the development process and increase developer velocity., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 370, startdatetimeutc :November, 28 2023 01:30:00 -0500, enddatetimeutc :November, 28 2023 02:30:00 -0500, 
+enddatetimeutc: November, 28 2023 02:30:00 -0500
+startdatetimeutc: November, 28 2023 01:30:00 -0500
+locationname: Chairmans 370
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Distributed applications, systems, and services are difficult to design and test. Formal methods enable the early discovery of design bugs that can escape the guardrails of design reviews and automated testing only to get uncovered in production. Join this session to learn how AWS uses P, an open source, state machine–based programming language for formal modeling and analysis of distributed systems, to reason about the correctness of its services (for example, Amazon S3 and Amazon DynamoDB). Learn how developers and architects can use P for their own applications to find bugs early in the development process and increase developer velocity
+title: Gain confidence in system correctness & resilience with formal methods
+sessionuid: F40F952E-CB1E-43CB-BB68-75EEFE31F959
+thirdpartyid: ARC315
+speakers: firstName_0: Ankush, lastName_0: Desai, firstName_1: BIKASH, lastName_1: BEHERA
+tag_name: Developer/Engineer, Role, Cross Industry, Industry, Open Source, Area of Interest, Solution/Systems Architect, Role, Architecture, Topic, Resilience, Area of Interest, Monday, Day, MGM Grand, Venue, Academic/Researcher, Role, Well-Architected Framework, Area of Interest, 300 - Advanced, Level

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 108
+summary: tag_name :300 - Advanced, Level, Cross Industry, Industry, Amazon GuardDuty, Services, Security, Compliance, & Identity, Topic, Tuesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Neal, lastName_0: Rothleder, firstName_1: Baris, lastName_1: Coskun, , thirdpartyid :SEC320, sessionuid :7FF46297-66E1-484A-A78F-83D40E341A41, title :How to use ML to operate more securely, description :ML is transforming security, but the new opportunities it brings come with a learning curve and some new challenges. In this chalk talk, AWS experts share examples of how you can use ML to help protect your AWS environment. Learn how Amazon GuardDuty continuously enhances its intelligent threat detection capabilities using the latest developments in AI/ML. Discover how you can work with AWS Global Services to determine which capabilities are ideal for your use case and explore tailored ML techniques. Leave this talk with a deeper understanding of how AWS is embracing ML for security and how you can utilize that experience to confidently run your sensitive workloads on AWS., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 108, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 20:30:00 -0500, 
+enddatetimeutc: November, 28 2023 20:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Forum 108
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: ML is transforming security, but the new opportunities it brings come with a learning curve and some new challenges. In this chalk talk, AWS experts share examples of how you can use ML to help protect your AWS environment. Learn how Amazon GuardDuty continuously enhances its intelligent threat detection capabilities using the latest developments in AI/ML. Discover how you can work with AWS Global Services to determine which capabilities are ideal for your use case and explore tailored ML techniques. Leave this talk with a deeper understanding of how AWS is embracing ML for security and how you can utilize that experience to confidently run your sensitive workloads on AWS
+title: How to use ML to operate more securely
+sessionuid: 7FF46297-66E1-484A-A78F-83D40E341A41
+thirdpartyid: SEC320
+speakers: firstName_0: Neal, lastName_0: Rothleder, firstName_1: Baris, lastName_1: Coskun
+tag_name: 300 - Advanced, Level, Cross Industry, Industry, Amazon GuardDuty, Services, Security, Compliance, & Identity, Topic, Tuesday, Day, Caesars Forum, Venue

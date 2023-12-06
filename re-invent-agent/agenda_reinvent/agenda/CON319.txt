@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 304
+summary: tag_name :300 - Advanced, Level, Serverless Compute, Topic, Well-Architected Framework, Area of Interest, Data Engineer, Role, Developer/Engineer, Role, DevOps Engineer, Role, Cross Industry, Industry, Amazon Elastic Container Service (ECS), Services, AWS Fargate, Services, AWS Lambda, Services, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Roland, lastName_0: Barcia, firstName_1: Mridula, lastName_1: Grandhi, , thirdpartyid :CON319, sessionuid :0E6671F0-96A4-4141-A205-2A10B18ADD9F, title :Building data pipelines for generative AI with AWS Fargate and Lambda, description :<p>With generative AI applications gaining more popularity, real-time data and scalable compute capacity have become the core of building foundation models and drive rapid advancement for businesses across industries. This chalk talk focuses on data and compute specifically across containers, serverless, and integration services. Explore use cases and how to effectively utilize serverless and container service offerings to build next-generation applications. Hear about practical use cases and see how different patterns, such as event-driven architectures and serverless stream processing, and Amazon EMR can greatly simplify and automate operations of your applications.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :304, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: 304
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>With generative AI applications gaining more popularity, real-time data and scalable compute capacity have become the core of building foundation models and drive rapid advancement for businesses across industries. This chalk talk focuses on data and compute specifically across containers, serverless, and integration services. Explore use cases and how to effectively utilize serverless and container service offerings to build next-generation applications. Hear about practical use cases and see how different patterns, such as event-driven architectures and serverless stream processing, and Amazon EMR can greatly simplify and automate operations of your applications.</p>
+title: Building data pipelines for generative AI with AWS Fargate and Lambda
+sessionuid: 0E6671F0-96A4-4141-A205-2A10B18ADD9F
+thirdpartyid: CON319
+speakers: firstName_0: Roland, lastName_0: Barcia, firstName_1: Mridula, lastName_1: Grandhi
+tag_name: 300 - Advanced, Level, Serverless Compute, Topic, Well-Architected Framework, Area of Interest, Data Engineer, Role, Developer/Engineer, Role, DevOps Engineer, Role, Cross Industry, Industry, Amazon Elastic Container Service (ECS), Services, AWS Fargate, Services, AWS Lambda, Services, Wednesday, Day, MGM Grand, Venue

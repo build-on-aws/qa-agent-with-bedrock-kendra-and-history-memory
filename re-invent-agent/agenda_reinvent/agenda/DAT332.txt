@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas E
+summary: tag_name :Financial Services, Industry, Innovation on AWS, Area of Interest, 300 - Advanced, Level, Customer Stories, Area of Interest, Games, Industry, Databases, Topic, Cross Industry, Industry, IT Executive, Role, Wednesday, Day, Mandalay Bay, Venue, IT Professional/Technical Manager, Role, Developer/Engineer, Role, Amazon MemoryDB for Redis, Services, , speakers :firstName_0: Kevin, lastName_0: McGehee, firstName_1: Itay, lastName_1: Maoz, , thirdpartyid :DAT332, sessionuid :3C5CDB50-2E89-4940-B5B9-2AE493D57E55, title :Powering high-speed workloads with Amazon MemoryDB for Redis, description :Amazon MemoryDB for Redis provides in-memory performance while using a highly available, distributed transaction log to help ensure data is persisted across multiple Availability Zones. In this session, learn how customers use MemoryDB for mission-critical workloads with demanding performance requirements for use cases like payment card analytics, IoT events processing, and message streaming for microservices. Dive deep on how AWS integrated a distributed durability layer into Redis, one of the world’s most popular key-value stores., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas E, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: South Seas E
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Amazon MemoryDB for Redis provides in-memory performance while using a highly available, distributed transaction log to help ensure data is persisted across multiple Availability Zones. In this session, learn how customers use MemoryDB for mission-critical workloads with demanding performance requirements for use cases like payment card analytics, IoT events processing, and message streaming for microservices. Dive deep on how AWS integrated a distributed durability layer into Redis, one of the world’s most popular key-value stores
+title: Powering high-speed workloads with Amazon MemoryDB for Redis
+sessionuid: 3C5CDB50-2E89-4940-B5B9-2AE493D57E55
+thirdpartyid: DAT332
+speakers: firstName_0: Kevin, lastName_0: McGehee, firstName_1: Itay, lastName_1: Maoz
+tag_name: Financial Services, Industry, Innovation on AWS, Area of Interest, 300 - Advanced, Level, Customer Stories, Area of Interest, Games, Industry, Databases, Topic, Cross Industry, Industry, IT Executive, Role, Wednesday, Day, Mandalay Bay, Venue, IT Professional/Technical Manager, Role, Developer/Engineer, Role, Amazon MemoryDB for Redis, Services

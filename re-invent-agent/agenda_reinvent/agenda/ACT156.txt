@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall C, Gamer Lounge
+summary: tag_name :Friday, Day, Venetian, Venue, , speakers :, thirdpartyid :ACT156, sessionuid :2BA32B92-5909-4067-8DD2-8EA253D7B6FD, title :Gamer Lounge with the AWS Solutions team, description :<p>Stop by the Gamer Lounge and meet the AWS Solutions team. Enjoy classic video games, either with a solo gaming session or a good-natured competition with a friend.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall C, Gamer Lounge, startdatetimeutc :December, 01 2023 15:00:00 -0500, enddatetimeutc :December, 01 2023 20:00:00 -0500, 
+enddatetimeutc: December, 01 2023 20:00:00 -0500
+startdatetimeutc: December, 01 2023 15:00:00 -0500
+locationname: Hall C, Gamer Lounge
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Stop by the Gamer Lounge and meet the AWS Solutions team. Enjoy classic video games, either with a solo gaming session or a good-natured competition with a friend.</p>
+title: Gamer Lounge with the AWS Solutions team
+sessionuid: 2BA32B92-5909-4067-8DD2-8EA253D7B6FD
+thirdpartyid: ACT156
+speakers: 
+tag_name: Friday, Day, Venetian, Venue

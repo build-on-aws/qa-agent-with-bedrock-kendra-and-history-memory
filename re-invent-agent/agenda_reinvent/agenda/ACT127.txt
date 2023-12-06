@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Venetian Foyer
+summary: tag_name :Tuesday, Day, Venetian, Venue, Community Activities, Additional Services, , speakers :, thirdpartyid :ACT127, sessionuid :2AA4B788-1A86-443B-AA3C-E6F55934D282, title :Community Events Desk, description :Stop by the Community Events Desk to learn more about re:Invent events happening during the week! AWS re:Invent 5K race sign-up and packet pickup is available Sunday, Monday, and Tuesday., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Venetian Foyer, startdatetimeutc :November, 28 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 28 2023 18:00:00 -0500
+locationname: Venetian Foyer
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Stop by the Community Events Desk to learn more about re:Invent events happening during the week! AWS re:Invent 5K race sign-up and packet pickup is available Sunday, Monday, and Tuesday
+title: Community Events Desk
+sessionuid: 2AA4B788-1A86-443B-AA3C-E6F55934D282
+thirdpartyid: ACT127
+speakers: 
+tag_name: Tuesday, Day, Venetian, Venue, Community Activities, Additional Services

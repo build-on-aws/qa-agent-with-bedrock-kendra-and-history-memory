@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 113
+summary: tag_name :Thursday, Day, Caesars Forum, Venue, AI/ML, Topic, Business Applications, Topic, Workforce Development, Area of Interest, Generative AI, Area of Interest, Modernization, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Amazon Connect, Services, , speakers :firstName_0: Tracy, lastName_0: Ann Kelly, company_0: John Hancock, firstName_1: Kevan, lastName_1: Mah, , thirdpartyid :BIZ219, sessionuid :A0D0D0C5-9BE2-4907-9BCF-18CF5F0477F5, title :Uncover insights & optimize workforce performance with Amazon Connect, description :<p>Contact centers are embracing AI to understand customer sentiment, automate agent evaluations, and optimize workforce schedules. In this session, AWS and John Hancock share insights on how Amazon Connect generative AI–powered analytics and optimization capabilities can enhance customer service and boost the efficiency of contact centers by helping managers make well-informed decisions, access conversational insights, and more accurately forecast contact volumes, thereby allowing for optimization of staffing levels.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 113, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Forum 113
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Contact centers are embracing AI to understand customer sentiment, automate agent evaluations, and optimize workforce schedules. In this session, AWS and John Hancock share insights on how Amazon Connect generative AI–powered analytics and optimization capabilities can enhance customer service and boost the efficiency of contact centers by helping managers make well-informed decisions, access conversational insights, and more accurately forecast contact volumes, thereby allowing for optimization of staffing levels.</p>
+title: Uncover insights & optimize workforce performance with Amazon Connect
+sessionuid: A0D0D0C5-9BE2-4907-9BCF-18CF5F0477F5
+thirdpartyid: BIZ219
+speakers: firstName_0: Tracy, lastName_0: Ann Kelly, company_0: John Hancock, firstName_1: Kevan, lastName_1: Mah
+tag_name: Thursday, Day, Caesars Forum, Venue, AI/ML, Topic, Business Applications, Topic, Workforce Development, Area of Interest, Generative AI, Area of Interest, Modernization, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Amazon Connect, Services

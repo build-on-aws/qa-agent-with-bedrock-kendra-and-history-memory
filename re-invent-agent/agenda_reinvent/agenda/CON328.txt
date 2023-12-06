@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 123
+summary: tag_name :Amazon Elastic Kubernetes Service (EKS), Services, Kubernetes, Topic, Data Engineer, Role, Cross Industry, Industry, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Monday, Day, Caesars Forum, Venue, DevOps Engineer, Role, Global Infrastructure, Area of Interest, Amazon Elastic MapReduce (EMR), Services, AI/ML, Topic, , speakers :firstName_0: Re, lastName_0: Alvarez Parmar, firstName_1: Nirmal, lastName_1: Mehta, , thirdpartyid :CON328-R, sessionuid :982ED574-6C78-49A4-BCD4-49230D11A87B, title :Architecture patterns for MLOps on Amazon EKS [REPEAT], description :<p>Amazon Elastic Kubernetes Service (Amazon EKS) helps organizations tackle MLOps challenges by providing a highly secure, reliable, scalable, and flexible Kubernetes environment in the cloud. In this chalk talk, explore architecture patterns for training, fine tuning, and serving machine learning models using Amazon EKS, Amazon EC2, and AWS storage services.</p>, sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 123, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 01:00:00 -0500, 
+enddatetimeutc: November, 28 2023 01:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: Forum 123
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: <p>Amazon Elastic Kubernetes Service (Amazon EKS) helps organizations tackle MLOps challenges by providing a highly secure, reliable, scalable, and flexible Kubernetes environment in the cloud. In this chalk talk, explore architecture patterns for training, fine tuning, and serving machine learning models using Amazon EKS, Amazon EC2, and AWS storage services.</p>
+title: Architecture patterns for MLOps on Amazon EKS [REPEAT]
+sessionuid: 982ED574-6C78-49A4-BCD4-49230D11A87B
+thirdpartyid: CON328-R
+speakers: firstName_0: Re, lastName_0: Alvarez Parmar, firstName_1: Nirmal, lastName_1: Mehta
+tag_name: Amazon Elastic Kubernetes Service (EKS), Services, Kubernetes, Topic, Data Engineer, Role, Cross Industry, Industry, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Monday, Day, Caesars Forum, Venue, DevOps Engineer, Role, Global Infrastructure, Area of Interest, Amazon Elastic MapReduce (EMR), Services, AI/ML, Topic

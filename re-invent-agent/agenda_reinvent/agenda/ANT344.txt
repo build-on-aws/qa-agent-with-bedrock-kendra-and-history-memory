@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 123
+summary: tag_name :Analytics, Topic, Customer Enablement, Topic, Business Intelligence, Area of Interest, Customer Stories, Area of Interest, Management & Governance, Area of Interest, Data Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon DataZone, Services, Amazon QuickSight, Services, Amazon RedShift, Services, 300 - Advanced, Level, Thursday, Day, Caesars Forum, Venue, , speakers :firstName_0: Fabrizio, lastName_0: Napolitano, firstName_1: Utkarsh, lastName_1: Mittal, , thirdpartyid :ANT344, sessionuid :D934369F-F5A5-42D0-B679-ADFF53DBF157, title :Self-service analytics for all, description :<p>Increase your business efficiency by collaborating seamlessly across teams and providing self-service access to data in data lakes and data warehouses for quick analysis. Learn about using Amazon DataZone to define a business glossary to search, share, and access cataloged data stored on AWS, on premises, or with third-party providers. Also discover how Amazon DataZone connects with deep links to Amazon Redshift and Amazon Athena. Finally, dive deep on self-service analytics with Amazon QuickSight.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 123, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Forum 123
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Increase your business efficiency by collaborating seamlessly across teams and providing self-service access to data in data lakes and data warehouses for quick analysis. Learn about using Amazon DataZone to define a business glossary to search, share, and access cataloged data stored on AWS, on premises, or with third-party providers. Also discover how Amazon DataZone connects with deep links to Amazon Redshift and Amazon Athena. Finally, dive deep on self-service analytics with Amazon QuickSight.</p>
+title: Self-service analytics for all
+sessionuid: D934369F-F5A5-42D0-B679-ADFF53DBF157
+thirdpartyid: ANT344
+speakers: firstName_0: Fabrizio, lastName_0: Napolitano, firstName_1: Utkarsh, lastName_1: Mittal
+tag_name: Analytics, Topic, Customer Enablement, Topic, Business Intelligence, Area of Interest, Customer Stories, Area of Interest, Management & Governance, Area of Interest, Data Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon DataZone, Services, Amazon QuickSight, Services, Amazon RedShift, Services, 300 - Advanced, Level, Thursday, Day, Caesars Forum, Venue

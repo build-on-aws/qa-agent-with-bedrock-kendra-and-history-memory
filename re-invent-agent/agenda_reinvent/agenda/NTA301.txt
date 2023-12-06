@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 117
+summary: tag_name :Tuesday, Day, New to AWS, Topic, 300 - Advanced, Level, Amazon Lex, Services, Application Security, Area of Interest, MGM Grand, Venue, Amazon Bedrock, Services, DevOps Engineer, Role, Cross Industry, Industry, Amazon Transcribe, Services, Monitoring & Observability, Area of Interest, IT Executive, Role, , speakers :firstName_0: Mohit, lastName_0: Gadkari, firstName_1: Oren, lastName_1: Waldman, , thirdpartyid :NTA301-R, sessionuid :07B40607-79E3-46B9-B97B-2BC2657DAB46, title :AI DevSecOps chatbot [REPEAT], description :Due to lack of time or resources, DevSecOps engineers are not always able to triage quickly enough. What if you had a chatbot customized for your environment’s use case? This could help you find a solution quickly and give you back valuable development hours. More time allows you to rapidly innovate for your business. In this workshop, learn how you can use AI-powered AWS services to create a chatbot that helps engineers solve common challenges like how to securely store your application’s secrets or how to create a new disaster recovery environment. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 117, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 03:00:00 -0500, 
+enddatetimeutc: November, 29 2023 03:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: Grand 117
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: Due to lack of time or resources, DevSecOps engineers are not always able to triage quickly enough. What if you had a chatbot customized for your environment’s use case? This could help you find a solution quickly and give you back valuable development hours. More time allows you to rapidly innovate for your business. In this workshop, learn how you can use AI-powered AWS services to create a chatbot that helps engineers solve common challenges like how to securely store your application’s secrets or how to create a new disaster recovery environment. You must bring your laptop to participate
+title: AI DevSecOps chatbot [REPEAT]
+sessionuid: 07B40607-79E3-46B9-B97B-2BC2657DAB46
+thirdpartyid: NTA301-R
+speakers: firstName_0: Mohit, lastName_0: Gadkari, firstName_1: Oren, lastName_1: Waldman
+tag_name: Tuesday, Day, New to AWS, Topic, 300 - Advanced, Level, Amazon Lex, Services, Application Security, Area of Interest, MGM Grand, Venue, Amazon Bedrock, Services, DevOps Engineer, Role, Cross Industry, Industry, Amazon Transcribe, Services, Monitoring & Observability, Area of Interest, IT Executive, Role

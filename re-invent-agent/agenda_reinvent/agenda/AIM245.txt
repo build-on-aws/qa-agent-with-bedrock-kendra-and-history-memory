@@ -1,0 +1,14 @@
+location: Venetian, Level 5, Palazzo Ballroom B
+summary: tag_name :Amazon Bedrock, Services, AI/ML, Topic, IT Professional/Technical Manager, Role, IT Executive, Role, Innovation on AWS, Area of Interest, Wednesday, Day, Venetian, Venue, Business Executive, Role, Customer Stories, Area of Interest, Amazon SageMaker, Services, Generative AI, Area of Interest, Amazon Transcribe, Services, 200 - Intermediate, Level, Cross Industry, Industry, , speakers :firstName_0: Bratin, lastName_0: Saha, , thirdpartyid :AIM245-INT, sessionuid :2D0C2F19-F6CC-4DB4-8518-F9E7E252771A, title :Innovate faster with generative AI, description :With the emergence of generative AI, we are at a tipping point in the widespread adoption of machine learning (ML). Join Dr. Bratin Saha, VP of AWS AI and ML Services, to hear how customers across industries are transforming their business with the latest breakthroughs in AI and ML, including generative AI. Discover the latest AWS innovations, hear from top customers, and explore where AI/ML is headed., sessiontype :Innovation Talk, venuename :Venetian, floorplanname :Level 5, locationname :Palazzo Ballroom B, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Palazzo Ballroom B
+floorplanname: Level 5
+venuename: Venetian
+sessiontype: Innovation Talk
+description: With the emergence of generative AI, we are at a tipping point in the widespread adoption of machine learning (ML). Join Dr. Bratin Saha, VP of AWS AI and ML Services, to hear how customers across industries are transforming their business with the latest breakthroughs in AI and ML, including generative AI. Discover the latest AWS innovations, hear from top customers, and explore where AI/ML is headed
+title: Innovate faster with generative AI
+sessionuid: 2D0C2F19-F6CC-4DB4-8518-F9E7E252771A
+thirdpartyid: AIM245-INT
+speakers: firstName_0: Bratin, lastName_0: Saha
+tag_name: Amazon Bedrock, Services, AI/ML, Topic, IT Professional/Technical Manager, Role, IT Executive, Role, Innovation on AWS, Area of Interest, Wednesday, Day, Venetian, Venue, Business Executive, Role, Customer Stories, Area of Interest, Amazon SageMaker, Services, Generative AI, Area of Interest, Amazon Transcribe, Services, 200 - Intermediate, Level, Cross Industry, Industry

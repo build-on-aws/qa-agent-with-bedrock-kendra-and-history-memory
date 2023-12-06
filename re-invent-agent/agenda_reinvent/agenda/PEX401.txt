@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Murano 3203
+summary: tag_name :Partner Enablement, Topic, Monday, Day, Venetian, Venue, 400 - Expert, Level, , speakers :firstName_0: Michael, lastName_0: Beardsley, , thirdpartyid :PEX401-R, sessionuid :3EAA9D59-4408-47A2-B864-F22AD64C1FFD, title :Building a multi-tenant SaaS control plane: An inside look [REPEAT], description :<p>The control plane is at the heart of every SaaS solution. It provides all the fundamental services that are used to enable tenant onboarding, billing, identity, metrics, tiering, and the general management of environment. In this workshop, go inside the control plane, constructing the key components of the service and exploring the key architecture and design considerations that come with building a robust SaaS control plane. Also see how to manage identity, introduce your own admin console, and create operational views of your environment. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Venetian, floorplanname :Level 3, locationname :Murano 3203, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 21:30:00 -0500, 
+enddatetimeutc: November, 27 2023 21:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Murano 3203
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Workshop
+description: <p>The control plane is at the heart of every SaaS solution. It provides all the fundamental services that are used to enable tenant onboarding, billing, identity, metrics, tiering, and the general management of environment. In this workshop, go inside the control plane, constructing the key components of the service and exploring the key architecture and design considerations that come with building a robust SaaS control plane. Also see how to manage identity, introduce your own admin console, and create operational views of your environment. You must bring your laptop to participate.</p>
+title: Building a multi-tenant SaaS control plane: An inside look [REPEAT]
+sessionuid: 3EAA9D59-4408-47A2-B864-F22AD64C1FFD
+thirdpartyid: PEX401-R
+speakers: firstName_0: Michael, lastName_0: Beardsley
+tag_name: Partner Enablement, Topic, Monday, Day, Venetian, Venue, 400 - Expert, Level

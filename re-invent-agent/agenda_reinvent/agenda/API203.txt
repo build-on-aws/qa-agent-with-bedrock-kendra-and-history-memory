@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :200 - Intermediate, Level, Solution/Systems Architect, Role, Amazon EventBridge, Services, Amazon Simple Notification Service (SNS), Services, Amazon Simple Queue Service (SQS), Services, Tuesday, Day, Wynn, Venue, Application Integration, Area of Interest, Serverless Compute, Topic, Developer/Engineer, Role, IT Professional/Technical Manager, Role, , speakers :firstName_0: Rebekah, lastName_0: Kulidzan, , thirdpartyid :API203-R, sessionuid :1D149E5B-9A72-49D8-81E4-BD8344E8C0C5, title :Thinking asynchronously: Integration patterns for microservices [REPEAT], description :When applying a microservices architecture, a lot of communication happens over the network. For better resilience and flexibility, this communication should happen asynchronously and in a loosely coupled manner. In this chalk talk, explore fundamental integration and conversation patterns and connect them to real-world use cases. Learn how end user clients can communicate using synchronous APIs while taking advantage of asynchronous communication for processing., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: When applying a microservices architecture, a lot of communication happens over the network. For better resilience and flexibility, this communication should happen asynchronously and in a loosely coupled manner. In this chalk talk, explore fundamental integration and conversation patterns and connect them to real-world use cases. Learn how end user clients can communicate using synchronous APIs while taking advantage of asynchronous communication for processing
+title: Thinking asynchronously: Integration patterns for microservices [REPEAT]
+sessionuid: 1D149E5B-9A72-49D8-81E4-BD8344E8C0C5
+thirdpartyid: API203-R
+speakers: firstName_0: Rebekah, lastName_0: Kulidzan
+tag_name: 200 - Intermediate, Level, Solution/Systems Architect, Role, Amazon EventBridge, Services, Amazon Simple Notification Service (SNS), Services, Amazon Simple Queue Service (SQS), Services, Tuesday, Day, Wynn, Venue, Application Integration, Area of Interest, Serverless Compute, Topic, Developer/Engineer, Role, IT Professional/Technical Manager, Role

@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Data Protection, Area of Interest, Threat Detection & Incident Response, Area of Interest, IT Executive, Role, 200 - Intermediate, Level, Business Executive, Role, Tuesday, Day, Venetian, Venue, Security, Compliance, & Identity, Topic, , speakers :firstName_0: Frank, lastName_0: Walsh, company_0: HUMAN Security, , thirdpartyid :SEC233-S, sessionuid :143D3032-8604-42C8-8386-48296DEF90E2, title :Speed, scale & stealth: Securing against ATO events (sponsored by HUMAN Security), description :Your organization has valuable assets behind the login page, and it’s critical to keep them secure. In this lightning talk, see how bots and other stealth tools and techniques can allow outside parties to quickly orchestrate large-scale account takeover (ATO) events by bypassing security measures undetected. Then, learn about proactive measures you can take to disrupt the speed, scale, and stealth elements of potential ATO incidents with a few simple steps using Amazon CloudFront and Lambda@Edge. This presentation is brought to you by HUMAN Security, an AWS Partner., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 22:20:00 -0500, 
+enddatetimeutc: November, 28 2023 22:20:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Your organization has valuable assets behind the login page, and it’s critical to keep them secure. In this lightning talk, see how bots and other stealth tools and techniques can allow outside parties to quickly orchestrate large-scale account takeover (ATO) events by bypassing security measures undetected. Then, learn about proactive measures you can take to disrupt the speed, scale, and stealth elements of potential ATO incidents with a few simple steps using Amazon CloudFront and Lambda@Edge. This presentation is brought to you by HUMAN Security, an AWS Partner
+title: Speed, scale & stealth: Securing against ATO events (sponsored by HUMAN Security)
+sessionuid: 143D3032-8604-42C8-8386-48296DEF90E2
+thirdpartyid: SEC233-S
+speakers: firstName_0: Frank, lastName_0: Walsh, company_0: HUMAN Security
+tag_name: Data Protection, Area of Interest, Threat Detection & Incident Response, Area of Interest, IT Executive, Role, 200 - Intermediate, Level, Business Executive, Role, Tuesday, Day, Venetian, Venue, Security, Compliance, & Identity, Topic

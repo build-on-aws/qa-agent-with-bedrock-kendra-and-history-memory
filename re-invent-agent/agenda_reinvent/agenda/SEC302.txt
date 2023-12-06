@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 315
+summary: tag_name :Application Security, Area of Interest, DevOps Engineer, Role, Cloud Security Specialist, Role, Cloud Operations, Topic, Migration & Transfer, Area of Interest, Amazon Verified Permissions, Services, Security, Compliance, & Identity, Topic, Tuesday, Day, MGM Grand, Venue, AWS Verified Access, Services, Cross Industry, Industry, Amazon VPC Lattice, Services, 300 - Advanced, Level, Developer/Engineer, Role, , speakers :firstName_0: Jason, lastName_0: Garman, firstName_1: Alex, lastName_1: Tomic, , thirdpartyid :SEC302-R, sessionuid :B9896040-9135-47DC-8143-4F6082A36582, title :Zero Trust architecture for service-to-service workloads [REPEAT], description :<p>Get hands-on experience implementing a Zero Trust architecture for service-to-service workloads on AWS. Discover how to use services such as Amazon VPC Lattice, Amazon Verified Permissions, AWS WAF, and VPC endpoints to integrate network and identity controls to secure microservices in a serverless architecture. Learn how to gain deeper insights by analyzing AWS CloudTrail and access logs. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 315, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 29 2023 00:00:00 -0500, 
+enddatetimeutc: November, 29 2023 00:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Premier 315
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>Get hands-on experience implementing a Zero Trust architecture for service-to-service workloads on AWS. Discover how to use services such as Amazon VPC Lattice, Amazon Verified Permissions, AWS WAF, and VPC endpoints to integrate network and identity controls to secure microservices in a serverless architecture. Learn how to gain deeper insights by analyzing AWS CloudTrail and access logs. You must bring your laptop to participate.</p>
+title: Zero Trust architecture for service-to-service workloads [REPEAT]
+sessionuid: B9896040-9135-47DC-8143-4F6082A36582
+thirdpartyid: SEC302-R
+speakers: firstName_0: Jason, lastName_0: Garman, firstName_1: Alex, lastName_1: Tomic
+tag_name: Application Security, Area of Interest, DevOps Engineer, Role, Cloud Security Specialist, Role, Cloud Operations, Topic, Migration & Transfer, Area of Interest, Amazon Verified Permissions, Services, Security, Compliance, & Identity, Topic, Tuesday, Day, MGM Grand, Venue, AWS Verified Access, Services, Cross Industry, Industry, Amazon VPC Lattice, Services, 300 - Advanced, Level, Developer/Engineer, Role

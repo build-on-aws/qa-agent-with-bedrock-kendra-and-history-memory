@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas E
+summary: tag_name :Monday, Day, Mandalay Bay, Venue, Compute, Topic, Customer Stories, Area of Interest, Global Infrastructure, Area of Interest, Games, Industry, 300 - Advanced, Level, Developer/Engineer, Role, IT Administrator, Role, Amazon GameLift, Services, Amazon Elastic Compute Cloud (EC2), Services, , speakers :firstName_0: Andrew, lastName_0: Claridge, company_0: Fatshark, firstName_1: Joris, lastName_1: van de Donk, , thirdpartyid :GAM305, sessionuid :3BB474BC-963F-401B-A5AF-71391C603CFC, title :Scaling Warhammer 40,000: Darktide from 0 to 100,000 players in 1 hour, description :<p>Learn how Fatshark developed its most complex game yet—Warhammer 40,000: Darktide—on AWS. In this session, discover how to build a game backend that scales to millions of players using a serverless infrastructure. Dive deep into how Fatshark uses Amazon GameLift FleetIQ and FlexMatch to solve real-time game server use cases with high real-time compute requirements without needing to provision for peak usage. They do this while using the extreme control over elasticity and Regional availability that the cloud provides. In addition, learn how Fatshark is using AWS Global Accelerator to improve global gaming performance.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas E, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 19:30:00 -0500, 
+enddatetimeutc: November, 27 2023 19:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: South Seas E
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Learn how Fatshark developed its most complex game yet—Warhammer 40,000: Darktide—on AWS. In this session, discover how to build a game backend that scales to millions of players using a serverless infrastructure. Dive deep into how Fatshark uses Amazon GameLift FleetIQ and FlexMatch to solve real-time game server use cases with high real-time compute requirements without needing to provision for peak usage. They do this while using the extreme control over elasticity and Regional availability that the cloud provides. In addition, learn how Fatshark is using AWS Global Accelerator to improve global gaming performance.</p>
+title: Scaling Warhammer 40,000: Darktide from 0 to 100,000 players in 1 hour
+sessionuid: 3BB474BC-963F-401B-A5AF-71391C603CFC
+thirdpartyid: GAM305
+speakers: firstName_0: Andrew, lastName_0: Claridge, company_0: Fatshark, firstName_1: Joris, lastName_1: van de Donk
+tag_name: Monday, Day, Mandalay Bay, Venue, Compute, Topic, Customer Stories, Area of Interest, Global Infrastructure, Area of Interest, Games, Industry, 300 - Advanced, Level, Developer/Engineer, Role, IT Administrator, Role, Amazon GameLift, Services, Amazon Elastic Compute Cloud (EC2), Services

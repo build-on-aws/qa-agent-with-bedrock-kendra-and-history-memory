@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 301
+summary: tag_name :Analytics, Topic, Internet of Things, Topic, Innovation on AWS, Area of Interest, Robotics, Area of Interest, Monitoring & Observability, Area of Interest, Manufacturing & Industrial, Industry, Cross Industry, Industry, 300 - Advanced, Level, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Kinesis Video Streams, Services, Thursday, Day, MGM Grand, Venue, , speakers :firstName_0: Allare, lastName_0: Kelly, firstName_1: John, lastName_1: Marciniak, , thirdpartyid :ROB305, sessionuid :1453DEB6-73A0-4492-A7A2-09A633274327, title :Remote mobile robot monitoring and teleoperation with video streams, description :<p>Learn how to build command-and-control robotic applications, run incident diagnosis, and analyze video data using Amazon Kinesis Video Streams. In this chalk talk, explore how to implement a solution for remote robot monitoring and teleoperation use cases, as well as to how to stream video data to the cloud while following security and compliance best practices.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :301, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 23:30:00 -0500, 
+enddatetimeutc: November, 30 2023 23:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: 301
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Learn how to build command-and-control robotic applications, run incident diagnosis, and analyze video data using Amazon Kinesis Video Streams. In this chalk talk, explore how to implement a solution for remote robot monitoring and teleoperation use cases, as well as to how to stream video data to the cloud while following security and compliance best practices.</p>
+title: Remote mobile robot monitoring and teleoperation with video streams
+sessionuid: 1453DEB6-73A0-4492-A7A2-09A633274327
+thirdpartyid: ROB305
+speakers: firstName_0: Allare, lastName_0: Kelly, firstName_1: John, lastName_1: Marciniak
+tag_name: Analytics, Topic, Internet of Things, Topic, Innovation on AWS, Area of Interest, Robotics, Area of Interest, Monitoring & Observability, Area of Interest, Manufacturing & Industrial, Industry, Cross Industry, Industry, 300 - Advanced, Level, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Kinesis Video Streams, Services, Thursday, Day, MGM Grand, Venue

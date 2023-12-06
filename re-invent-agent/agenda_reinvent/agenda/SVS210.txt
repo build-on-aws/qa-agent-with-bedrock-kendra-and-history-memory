@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 2
+summary: tag_name :AWS Lambda, Services, Solution/Systems Architect, Role, 200 - Intermediate, Level, Open Source, Area of Interest, DevOps and Developer Productivity, Topic, Monday, Day, Wynn, Venue, Serverless Compute, Topic, IT Professional/Technical Manager, Role, AWS Serverless Application Model (SAM), Services, Developer/Engineer, Role, , speakers :firstName_0: Veda, lastName_0: Raman, firstName_1: Adam, lastName_1: Wagner, , thirdpartyid :SVS210, sessionuid :6C3C26B5-F364-4388-A3C6-82B2CE0037B3, title :Build a chatbot using Amazon Bedrock, Amazon Kendra, and serverless, description :<p>Learn how to use AWS serverless technologies and generative AI models in Amazon Bedrock to quickly build, deploy, and manage intelligent chatbots. In this code talk, learn how to use AWS Lambda to handle and process natural language, and use generative AI models to generate dynamic, natural responses. See how to deploy and manage chatbots at scale and hear best practices for designing conversations and optimizing chatbot performance. By the end of this talk, have a functioning chatbot that can understand questions and provide answers on a variety of topics.</p>, sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 2, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Lafite 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: <p>Learn how to use AWS serverless technologies and generative AI models in Amazon Bedrock to quickly build, deploy, and manage intelligent chatbots. In this code talk, learn how to use AWS Lambda to handle and process natural language, and use generative AI models to generate dynamic, natural responses. See how to deploy and manage chatbots at scale and hear best practices for designing conversations and optimizing chatbot performance. By the end of this talk, have a functioning chatbot that can understand questions and provide answers on a variety of topics.</p>
+title: Build a chatbot using Amazon Bedrock, Amazon Kendra, and serverless
+sessionuid: 6C3C26B5-F364-4388-A3C6-82B2CE0037B3
+thirdpartyid: SVS210
+speakers: firstName_0: Veda, lastName_0: Raman, firstName_1: Adam, lastName_1: Wagner
+tag_name: AWS Lambda, Services, Solution/Systems Architect, Role, 200 - Intermediate, Level, Open Source, Area of Interest, DevOps and Developer Productivity, Topic, Monday, Day, Wynn, Venue, Serverless Compute, Topic, IT Professional/Technical Manager, Role, AWS Serverless Application Model (SAM), Services, Developer/Engineer, Role

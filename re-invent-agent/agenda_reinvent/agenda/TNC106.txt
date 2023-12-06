@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Lagoon L
+summary: tag_name :Analytics, Topic, Cross Industry, Industry, Business Intelligence, Area of Interest, Monday, Day, Mandalay Bay, Venue, Solution/Systems Architect, Role, Training & Certification, Topic, Developer/Engineer, Role, Data Engineer, Role, Amazon QuickSight, Services, 100 - Foundational, Level, , speakers :firstName_0: Christina, lastName_0: Nayagam, , thirdpartyid :TNC106, sessionuid :65A96422-4588-406F-A3BE-3A39B969F1AA, title :Building BI dashboards with Amazon QuickSight, description :Join this lab to learn about data ingestion into SPICE and to create a dataset, prepare the data for visualization, create data visualizations and analyses, and publish an Amazon QuickSight dashboard. The lab walks you through ingesting and transforming airline on-time performance data collected by the U.S. Bureau of Transportation Statistics into Amazon QuickSight and shows you how to visualize this data to create an analysis and dashboard., sessiontype :Lab, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Lagoon L, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Lagoon L
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Lab
+description: Join this lab to learn about data ingestion into SPICE and to create a dataset, prepare the data for visualization, create data visualizations and analyses, and publish an Amazon QuickSight dashboard. The lab walks you through ingesting and transforming airline on-time performance data collected by the U.S. Bureau of Transportation Statistics into Amazon QuickSight and shows you how to visualize this data to create an analysis and dashboard
+title: Building BI dashboards with Amazon QuickSight
+sessionuid: 65A96422-4588-406F-A3BE-3A39B969F1AA
+thirdpartyid: TNC106
+speakers: firstName_0: Christina, lastName_0: Nayagam
+tag_name: Analytics, Topic, Cross Industry, Industry, Business Intelligence, Area of Interest, Monday, Day, Mandalay Bay, Venue, Solution/Systems Architect, Role, Training & Certification, Topic, Developer/Engineer, Role, Data Engineer, Role, Amazon QuickSight, Services, 100 - Foundational, Level

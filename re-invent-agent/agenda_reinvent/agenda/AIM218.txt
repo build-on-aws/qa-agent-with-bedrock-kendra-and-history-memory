@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine H
+summary: tag_name :Analytics, Topic, IT Professional/Technical Manager, Role, Cross Industry, Industry, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Bedrock, Services, Amazon SageMaker, Services, 200 - Intermediate, Level, Generative AI, Area of Interest, AI/ML, Topic, Mandalay Bay, Venue, Monday, Day, , speakers :firstName_0: Sherry, lastName_0: Ding, firstName_1: Kaustubh, lastName_1: Khanke, , thirdpartyid :AIM218, sessionuid :F68035C4-305E-4D12-A890-7645543C8664, title :Build your first generative AI application with Amazon Bedrock, description :We are truly at an exciting inflection point in the widespread adoption of ML with the growth of generative AI applications. In this session, learn how to build your first generative AI application with key services such as Amazon Bedrock. Get hints and tips for getting started fast, and see example reference architectures for common use cases built with AWS AI and ML such as self-service customer support, text analysis, report generation, post-call analysis, and forecasting trends., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine H, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Jasmine H
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: We are truly at an exciting inflection point in the widespread adoption of ML with the growth of generative AI applications. In this session, learn how to build your first generative AI application with key services such as Amazon Bedrock. Get hints and tips for getting started fast, and see example reference architectures for common use cases built with AWS AI and ML such as self-service customer support, text analysis, report generation, post-call analysis, and forecasting trends
+title: Build your first generative AI application with Amazon Bedrock
+sessionuid: F68035C4-305E-4D12-A890-7645543C8664
+thirdpartyid: AIM218
+speakers: firstName_0: Sherry, lastName_0: Ding, firstName_1: Kaustubh, lastName_1: Khanke
+tag_name: Analytics, Topic, IT Professional/Technical Manager, Role, Cross Industry, Industry, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Bedrock, Services, Amazon SageMaker, Services, 200 - Intermediate, Level, Generative AI, Area of Interest, AI/ML, Topic, Mandalay Bay, Venue, Monday, Day

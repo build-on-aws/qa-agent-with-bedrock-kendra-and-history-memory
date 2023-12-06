@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 104
+summary: tag_name :Management & Governance, Area of Interest, 200 - Intermediate, Level, Strategy & Transformation, Area of Interest, Cross Industry, Industry, Customer Enablement, Topic, Cloud Operations, Topic, Monday, Day, MGM Grand, Venue, Government, Industry, , speakers :firstName_0: Andy, lastName_0: Rivers, firstName_1: Ves, lastName_1: Sathya, , thirdpartyid :WPS208, sessionuid :8AF2D3F4-F98D-49B6-B5BC-C7A0C5DC4A18, title :Building Cloud Centers of Excellence for state and local governments, description :Join us for a chalk talk that focuses on building a Cloud Center of Excellence (CCoE) tailored for state and local governments (SLG). In this interactive discussion, dive into the core elements of a CCoE and the common challenges that arise when creating and operating a CCoE. Whether you are starting your CCoE or have been running one for years, bring your questions and challenges, and learn from your SLG peers and AWS experts., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :104, startdatetimeutc :November, 27 2023 21:30:00 -0500, enddatetimeutc :November, 27 2023 22:30:00 -0500, 
+enddatetimeutc: November, 27 2023 22:30:00 -0500
+startdatetimeutc: November, 27 2023 21:30:00 -0500
+locationname: 104
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Join us for a chalk talk that focuses on building a Cloud Center of Excellence (CCoE) tailored for state and local governments (SLG). In this interactive discussion, dive into the core elements of a CCoE and the common challenges that arise when creating and operating a CCoE. Whether you are starting your CCoE or have been running one for years, bring your questions and challenges, and learn from your SLG peers and AWS experts
+title: Building Cloud Centers of Excellence for state and local governments
+sessionuid: 8AF2D3F4-F98D-49B6-B5BC-C7A0C5DC4A18
+thirdpartyid: WPS208
+speakers: firstName_0: Andy, lastName_0: Rivers, firstName_1: Ves, lastName_1: Sathya
+tag_name: Management & Governance, Area of Interest, 200 - Intermediate, Level, Strategy & Transformation, Area of Interest, Cross Industry, Industry, Customer Enablement, Topic, Cloud Operations, Topic, Monday, Day, MGM Grand, Venue, Government, Industry
