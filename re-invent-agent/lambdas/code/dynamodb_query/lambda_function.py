@@ -32,7 +32,7 @@ def lambda_handler(event, context):
 
         query = event['body']
         print(query)
-        s = re.sub(r'[^a-zA-Z0-9]', '', query)
+        s = re.sub(r'[^a-zA-Z0-9]', '', query).upper()
         tabla_response = db_query(key_name,table,str(s))
         print(tabla_response)
 
