@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3104
+summary: tag_name :AI/ML, Topic, Databases, Topic, Generative AI, Area of Interest, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon SageMaker, Services, Thursday, Day, Venetian, Venue, , speakers :firstName_0: Chuck, lastName_0: Freedman, company_0: MongoDB, , thirdpartyid :AIM358-S, sessionuid :19D61E96-FF83-47DC-81DE-F3F8CA6C4548, title :Join the AI party: Exploring MongoDB's Vector Search features (sponsored by MongoDB), description :<p>In this immersive workshop, unlock the advanced search capabilities of MongoDB with Vector Search. Starting with Atlas Search, be guided through integrating AWS generative AI services and expanding your search capabilities. You must bring your laptop to participate. This presentation is brought to you by MongoDB, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3104, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 21:00:00 -0500, 
+enddatetimeutc: November, 30 2023 21:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Lido 3104
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: standard
+description: <p>In this immersive workshop, unlock the advanced search capabilities of MongoDB with Vector Search. Starting with Atlas Search, be guided through integrating AWS generative AI services and expanding your search capabilities. You must bring your laptop to participate. This presentation is brought to you by MongoDB, an AWS Partner.</p>
+title: Join the AI party: Exploring MongoDB's Vector Search features (sponsored by MongoDB)
+sessionuid: 19D61E96-FF83-47DC-81DE-F3F8CA6C4548
+thirdpartyid: AIM358-S
+speakers: firstName_0: Chuck, lastName_0: Freedman, company_0: MongoDB
+tag_name: AI/ML, Topic, Databases, Topic, Generative AI, Area of Interest, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon SageMaker, Services, Thursday, Day, Venetian, Venue

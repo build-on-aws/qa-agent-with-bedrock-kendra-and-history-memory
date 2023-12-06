@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Developer/Engineer, Role, Tech Explorer, Role, 200 - Intermediate, Level, Amazon Comprehend, Services, Customer Stories, Area of Interest, Wednesday, Day, Venetian, Venue, Front-End Web & Mobile, Area of Interest, AI/ML, Topic, Serverless Compute, Topic, Student, Role, Amazon Transcribe, Services, AWS Lambda, Services, , speakers :firstName_0: Nathan, lastName_0: Hiscock, company_0: US - Sela Cloud, , thirdpartyid :COM205, sessionuid :4D6ADA63-E258-45CD-B556-1854B6E12ADD, title :Visualizing amateur radio emergency communications with AWS, description :In this dev chat, explore my hobby passion project that uses generative AI, Amazon Transcribe, AWS Lambda, Amazon DynamoDB, and more to build a simple user interface to transcribe amateur radio communications, identify reporting stations, find their locations, plot them on a map, and generate logs for submission to emergency communication services like ARES, CERT, and SKYWARN. See my future plans to incorporate direction-finding with technologies like KrakenRF or triangulation. See how easy it is to quickly innovate and explore your passion using AWS services and build training content with generative AI., sessiontype :Dev Chat, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Dev Chat
+description: In this dev chat, explore my hobby passion project that uses generative AI, Amazon Transcribe, AWS Lambda, Amazon DynamoDB, and more to build a simple user interface to transcribe amateur radio communications, identify reporting stations, find their locations, plot them on a map, and generate logs for submission to emergency communication services like ARES, CERT, and SKYWARN. See my future plans to incorporate direction-finding with technologies like KrakenRF or triangulation. See how easy it is to quickly innovate and explore your passion using AWS services and build training content with generative AI
+title: Visualizing amateur radio emergency communications with AWS
+sessionuid: 4D6ADA63-E258-45CD-B556-1854B6E12ADD
+thirdpartyid: COM205
+speakers: firstName_0: Nathan, lastName_0: Hiscock, company_0: US - Sela Cloud
+tag_name: Developer/Engineer, Role, Tech Explorer, Role, 200 - Intermediate, Level, Amazon Comprehend, Services, Customer Stories, Area of Interest, Wednesday, Day, Venetian, Venue, Front-End Web & Mobile, Area of Interest, AI/ML, Topic, Serverless Compute, Topic, Student, Role, Amazon Transcribe, Services, AWS Lambda, Services

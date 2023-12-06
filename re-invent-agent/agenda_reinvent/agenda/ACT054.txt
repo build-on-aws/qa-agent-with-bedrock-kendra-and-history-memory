@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Sands Foyer
+summary: tag_name :Sunday, Day, Venetian, Venue, , speakers :, thirdpartyid :ACT054, sessionuid :DE804FF8-EF78-43EB-A944-621A93F32128, title :Hydrate and Help, description :Stop by Hydrate and Help in The Venetian foyer to participate in the water walk and learn more about the AWS #GiveBack project to build piped water systems in Cambodia., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Sands Foyer, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Sands Foyer
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Stop by Hydrate and Help in The Venetian foyer to participate in the water walk and learn more about the AWS #GiveBack project to build piped water systems in Cambodia
+title: Hydrate and Help
+sessionuid: DE804FF8-EF78-43EB-A944-621A93F32128
+thirdpartyid: ACT054
+speakers: 
+tag_name: Sunday, Day, Venetian, Venue

@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1280
+summary: tag_name :Monday, Day, Venetian, Venue, PeerTalks, Additional Services, Inclusion & Diversity, Area of Interest, , speakers :, thirdpartyid :ACT045, sessionuid :EEF9B3CC-DA75-4814-A907-C1CB8DF8B82C, title :AWS She Builds fireside chat and meetup, description :AWS She Builds was created to foster diverse tech communities globally by building pathways that help women start, pivot, or advance their careers in the industry through upskilling, nurturing, and mentorship. Join founding members of the AWS She Builds team for an interactive meetup to learn more about their mission and how you can join the community., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1280, startdatetimeutc :November, 28 2023 01:00:00 -0500, enddatetimeutc :November, 28 2023 02:00:00 -0500, 
+enddatetimeutc: November, 28 2023 02:00:00 -0500
+startdatetimeutc: November, 28 2023 01:00:00 -0500
+locationname: Hall B, Expo, Booth #1280
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: AWS She Builds was created to foster diverse tech communities globally by building pathways that help women start, pivot, or advance their careers in the industry through upskilling, nurturing, and mentorship. Join founding members of the AWS She Builds team for an interactive meetup to learn more about their mission and how you can join the community
+title: AWS She Builds fireside chat and meetup
+sessionuid: EEF9B3CC-DA75-4814-A907-C1CB8DF8B82C
+thirdpartyid: ACT045
+speakers: 
+tag_name: Monday, Day, Venetian, Venue, PeerTalks, Additional Services, Inclusion & Diversity, Area of Interest

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :400 - Expert, Level, Analytics, Topic, Enterprise & Migration, Topic, Migration & Transfer, Area of Interest, Open Source, Area of Interest, Cost Optimization, Area of Interest, Data Engineer, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Financial Services, Industry, Healthcare, Industry, Media & Entertainment, Industry, Amazon Managed Streaming for Apache Kafka (MSK), Services, Tuesday, Day, Wynn, Venue, , speakers :firstName_0: Ali, lastName_0: Alemi, firstName_1: Ed, lastName_1: Berezitsky, , thirdpartyid :ANT403, sessionuid :A7F46C77-3844-4F08-90B6-6879585FAD30, title :How to migrate your Apache Kafka workloads to Amazon MSK, description :<p>Amazon Managed Streaming for Apache Kafka (Amazon MSK) is an AWS streaming data service that manages Apache Kafka infrastructure and operations. In this chalk talk, learn the benefits of migrating to Amazon MSK and how to lift and shift existing clusters using MirrorMaker 2.0 (MM2). Take a deep dive into the MM2 and Kafka Connect architecture, and explore the common bottlenecks and challenges for high-throughput data streams. Learn how to best set up a highly available and scalable Kafka Connect. Finally, explore reference architectures and code samples to help you run MM2 on AWS.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Amazon Managed Streaming for Apache Kafka (Amazon MSK) is an AWS streaming data service that manages Apache Kafka infrastructure and operations. In this chalk talk, learn the benefits of migrating to Amazon MSK and how to lift and shift existing clusters using MirrorMaker 2.0 (MM2). Take a deep dive into the MM2 and Kafka Connect architecture, and explore the common bottlenecks and challenges for high-throughput data streams. Learn how to best set up a highly available and scalable Kafka Connect. Finally, explore reference architectures and code samples to help you run MM2 on AWS.</p>
+title: How to migrate your Apache Kafka workloads to Amazon MSK
+sessionuid: A7F46C77-3844-4F08-90B6-6879585FAD30
+thirdpartyid: ANT403
+speakers: firstName_0: Ali, lastName_0: Alemi, firstName_1: Ed, lastName_1: Berezitsky
+tag_name: 400 - Expert, Level, Analytics, Topic, Enterprise & Migration, Topic, Migration & Transfer, Area of Interest, Open Source, Area of Interest, Cost Optimization, Area of Interest, Data Engineer, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Financial Services, Industry, Healthcare, Industry, Media & Entertainment, Industry, Amazon Managed Streaming for Apache Kafka (MSK), Services, Tuesday, Day, Wynn, Venue

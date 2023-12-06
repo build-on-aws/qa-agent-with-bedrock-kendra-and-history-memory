@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Cross Industry, Industry, Advisor/Consultant, Role, Sustainability, Area of Interest, Architecture, Topic, Solution/Systems Architect, Role, 200 - Intermediate, Level, Non-English, Area of Interest, Business Executive, Role, Thursday, Day, Venetian, Venue, Amazon Elastic Compute Cloud (EC2), Services, Customer Stories, Area of Interest, Retail, Industry, Business Applications, Topic, , speakers :firstName_0: Jesus, lastName_0: Guerra, firstName_1: Aitor, lastName_1: Magán, company_1: Cepsa, , thirdpartyid :GBL216-ES, sessionuid :BC64767F-AB91-429A-9A62-4024251D80D7, title :Accelerating circular economies: How AWS makes it possible [Spanish], description :This lightning talk is delivered in Spanish. AWS helps its customers meet their sustainability commitments. The goal? Develop a new business model. The approach? Collaborate in applying innovation to develop a business idea and putting it into practice with the power of AWS services. This strategy is a reality, and this talk explores best practices and use cases on how AWS is helping its customers transform their businesses., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 20:50:00 -0500, 
+enddatetimeutc: November, 30 2023 20:50:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: This lightning talk is delivered in Spanish. AWS helps its customers meet their sustainability commitments. The goal? Develop a new business model. The approach? Collaborate in applying innovation to develop a business idea and putting it into practice with the power of AWS services. This strategy is a reality, and this talk explores best practices and use cases on how AWS is helping its customers transform their businesses
+title: Accelerating circular economies: How AWS makes it possible [Spanish]
+sessionuid: BC64767F-AB91-429A-9A62-4024251D80D7
+thirdpartyid: GBL216-ES
+speakers: firstName_0: Jesus, lastName_0: Guerra, firstName_1: Aitor, lastName_1: Magán, company_1: Cepsa
+tag_name: Cross Industry, Industry, Advisor/Consultant, Role, Sustainability, Area of Interest, Architecture, Topic, Solution/Systems Architect, Role, 200 - Intermediate, Level, Non-English, Area of Interest, Business Executive, Role, Thursday, Day, Venetian, Venue, Amazon Elastic Compute Cloud (EC2), Services, Customer Stories, Area of Interest, Retail, Industry, Business Applications, Topic

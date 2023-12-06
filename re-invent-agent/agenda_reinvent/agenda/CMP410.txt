@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 220
+summary: tag_name :400 - Expert, Level, Amazon Elastic Compute Cloud (EC2), Services, IT Professional/Technical Manager, Role, DevOps Engineer, Role, Enterprise & Migration, Topic, Cross Industry, Industry, Compute, Topic, Developer/Engineer, Role, Cost Optimization, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Migration & Transfer, Area of Interest, , speakers :firstName_0: Seth, lastName_0: Fox, firstName_1: Jeff, lastName_1: Underhill, , thirdpartyid :CMP410, sessionuid :1D58DBF7-3CFE-4312-8618-FC87FFCB5F3C, title :Learnings from developers adopting AWS Graviton at scale, description :AWS Graviton processors are custom designed to enable the best price performance for a wide variety of workloads on AWS including application servers, microservices, open source–based databases and in-memory caches, gaming, high performance computing, and machine learning. Tens of thousands of organizations are running production workloads on AWS Graviton. In this chalk talk, engage directly with AWS specialists that help customers on a daily basis with their adoption journey, from workload selection to running at scale in production., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 220, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Summit 220
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: AWS Graviton processors are custom designed to enable the best price performance for a wide variety of workloads on AWS including application servers, microservices, open source–based databases and in-memory caches, gaming, high performance computing, and machine learning. Tens of thousands of organizations are running production workloads on AWS Graviton. In this chalk talk, engage directly with AWS specialists that help customers on a daily basis with their adoption journey, from workload selection to running at scale in production
+title: Learnings from developers adopting AWS Graviton at scale
+sessionuid: 1D58DBF7-3CFE-4312-8618-FC87FFCB5F3C
+thirdpartyid: CMP410
+speakers: firstName_0: Seth, lastName_0: Fox, firstName_1: Jeff, lastName_1: Underhill
+tag_name: 400 - Expert, Level, Amazon Elastic Compute Cloud (EC2), Services, IT Professional/Technical Manager, Role, DevOps Engineer, Role, Enterprise & Migration, Topic, Cross Industry, Industry, Compute, Topic, Developer/Engineer, Role, Cost Optimization, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Migration & Transfer, Area of Interest

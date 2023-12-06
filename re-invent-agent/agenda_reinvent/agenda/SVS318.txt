@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 221
+summary: tag_name :Developer/Engineer, Role, Serverless Compute, Topic, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Thursday, Day, Caesars Forum, Venue, AWS Lambda, Services, AWS Step Functions, Services, , speakers :firstName_0: Uma, lastName_0: Ramadoss, firstName_1: Adam, lastName_1: Wagner, , thirdpartyid :SVS318, sessionuid :2240335B-F63E-4AEE-B52C-C60681AA0B4D, title :Unlocking more efficient data processing with serverless, description :Data drives many businesses, but the way it is ingested and processed is changing. Serverless data processing with AWS Lambda and AWS Step Functions offers new ways to process data quickly and efficiently. Join this chalk talk to hear data processing use cases and learn how to solve challenges. Discover different techniques for processing data with Lambda, Amazon S3, and Step Functions, and learn when it makes sense to use these services., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 221, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 20:30:00 -0500, 
+enddatetimeutc: November, 30 2023 20:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Summit 221
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Data drives many businesses, but the way it is ingested and processed is changing. Serverless data processing with AWS Lambda and AWS Step Functions offers new ways to process data quickly and efficiently. Join this chalk talk to hear data processing use cases and learn how to solve challenges. Discover different techniques for processing data with Lambda, Amazon S3, and Step Functions, and learn when it makes sense to use these services
+title: Unlocking more efficient data processing with serverless
+sessionuid: 2240335B-F63E-4AEE-B52C-C60681AA0B4D
+thirdpartyid: SVS318
+speakers: firstName_0: Uma, lastName_0: Ramadoss, firstName_1: Adam, lastName_1: Wagner
+tag_name: Developer/Engineer, Role, Serverless Compute, Topic, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Thursday, Day, Caesars Forum, Venue, AWS Lambda, Services, AWS Step Functions, Services

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 4
+summary: tag_name :Serverless Compute, Topic, IT Professional/Technical Manager, Role, Media & Entertainment, Industry, Developer/Engineer, Role, Solution/Systems Architect, Role, 400 - Expert, Level, Retail, Industry, Cross Industry, Industry, Databases, Topic, Wednesday, Day, Wynn, Venue, Innovation on AWS, Area of Interest, Amazon DynamoDB, Services, Strategy & Transformation, Area of Interest, , speakers :, thirdpartyid :DAT410, sessionuid :C5B4B040-2DF5-48BB-A579-0F0B5D72D811, title :Advanced data modeling with Amazon DynamoDB, description :Amazon DynamoDB is a popular choice for modern applications, as it is a serverless database that provides single-digit millisecond performance at any scale. Optimizing your usage of DynamoDB requires a different approach to data modeling than traditional relational databases. In this session, AWS Data Hero Alex DeBrie shows you advanced techniques to get the most out of DynamoDB. Learn how to “think in DynamoDB” by learning the DynamoDB foundations and principles for data modeling. Further, learn practical strategies and DynamoDB features to handle difficult use cases in your application., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 4, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Lafite 4
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: Amazon DynamoDB is a popular choice for modern applications, as it is a serverless database that provides single-digit millisecond performance at any scale. Optimizing your usage of DynamoDB requires a different approach to data modeling than traditional relational databases. In this session, AWS Data Hero Alex DeBrie shows you advanced techniques to get the most out of DynamoDB. Learn how to “think in DynamoDB” by learning the DynamoDB foundations and principles for data modeling. Further, learn practical strategies and DynamoDB features to handle difficult use cases in your application
+title: Advanced data modeling with Amazon DynamoDB
+sessionuid: C5B4B040-2DF5-48BB-A579-0F0B5D72D811
+thirdpartyid: DAT410
+speakers: 
+tag_name: Serverless Compute, Topic, IT Professional/Technical Manager, Role, Media & Entertainment, Industry, Developer/Engineer, Role, Solution/Systems Architect, Role, 400 - Expert, Level, Retail, Industry, Cross Industry, Industry, Databases, Topic, Wednesday, Day, Wynn, Venue, Innovation on AWS, Area of Interest, Amazon DynamoDB, Services, Strategy & Transformation, Area of Interest

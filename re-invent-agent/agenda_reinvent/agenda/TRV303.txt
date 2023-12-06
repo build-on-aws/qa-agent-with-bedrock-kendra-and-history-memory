@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 301
+summary: tag_name :Analytics, Topic, Customer Enablement, Topic, Front-End Web & Mobile, Area of Interest, Innovation on AWS, Area of Interest, Generative AI, Area of Interest, Travel & Hospitality, Industry, 300 - Advanced, Level, Data Scientist, Role, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Amazon Bedrock, Services, Amazon OpenSearch Service, Services, Amazon Simple Storage Service (S3), Services, Thursday, Day, MGM Grand, Venue, , speakers :firstName_0: Raj, lastName_0: Salvaji, firstName_1: Clare, lastName_1: Ward, , thirdpartyid :TRV303, sessionuid :23AD0D8C-D145-4B83-8876-A8AF08C44FDC, title :Build a digital concierge for travelers and guests with generative AI, description :<p>Generative AI has the potential to redefine customer service in the travel and hospitality industry. In this chalk talk, learn how to use large language models (LLMs), Retrieval Augmented Generation (RAG), and the ReAct reasoning technique to build a digital concierge that can answer questions, provide personalized recommendations, and make reservations.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :301, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: 301
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Generative AI has the potential to redefine customer service in the travel and hospitality industry. In this chalk talk, learn how to use large language models (LLMs), Retrieval Augmented Generation (RAG), and the ReAct reasoning technique to build a digital concierge that can answer questions, provide personalized recommendations, and make reservations.</p>
+title: Build a digital concierge for travelers and guests with generative AI
+sessionuid: 23AD0D8C-D145-4B83-8876-A8AF08C44FDC
+thirdpartyid: TRV303
+speakers: firstName_0: Raj, lastName_0: Salvaji, firstName_1: Clare, lastName_1: Ward
+tag_name: Analytics, Topic, Customer Enablement, Topic, Front-End Web & Mobile, Area of Interest, Innovation on AWS, Area of Interest, Generative AI, Area of Interest, Travel & Hospitality, Industry, 300 - Advanced, Level, Data Scientist, Role, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Amazon Bedrock, Services, Amazon OpenSearch Service, Services, Amazon Simple Storage Service (S3), Services, Thursday, Day, MGM Grand, Venue

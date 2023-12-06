@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Mouton 2
+summary: tag_name :Customer Enablement, Topic, Networking & Content Delivery, Topic, BuildOn.AWS, Area of Interest, Global Infrastructure, Area of Interest, Media & Entertainment, Industry, 300 - Advanced, Level, Advisor/Consultant, Role, Solution/Systems Architect, Role, Tech Explorer, Role, AWS Elemental MediaLive, Services, Monday, Day, Wynn, Venue, , speakers :firstName_0: Jamie, lastName_0: Mullan, , thirdpartyid :MAE301, sessionuid :35277F1F-5C22-485D-AF40-2177ACDDEA82, title :Build a complete livestreaming workflow using automated deployments, description :<p>Learn how to consistently and repeatedly launch video workflows with AWS Cloud Development Kit (AWS CDK), a tool for automated infrastructure deployments. This workshop covers what makes AWS CDK so powerful and how you can use it with AWS media services for live video workflow deployments. Learn how to deploy a complete livestreaming architecture using CI/CD pipelines with features like dynamic ad insertion, token authorization, live-to-VOD, observability with a CMCD dashboard, and schedule orchestration deployment. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Mouton 2, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 21:30:00 -0500, 
+enddatetimeutc: November, 27 2023 21:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Mouton 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Learn how to consistently and repeatedly launch video workflows with AWS Cloud Development Kit (AWS CDK), a tool for automated infrastructure deployments. This workshop covers what makes AWS CDK so powerful and how you can use it with AWS media services for live video workflow deployments. Learn how to deploy a complete livestreaming architecture using CI/CD pipelines with features like dynamic ad insertion, token authorization, live-to-VOD, observability with a CMCD dashboard, and schedule orchestration deployment. You must bring your laptop to participate.</p>
+title: Build a complete livestreaming workflow using automated deployments
+sessionuid: 35277F1F-5C22-485D-AF40-2177ACDDEA82
+thirdpartyid: MAE301
+speakers: firstName_0: Jamie, lastName_0: Mullan
+tag_name: Customer Enablement, Topic, Networking & Content Delivery, Topic, BuildOn.AWS, Area of Interest, Global Infrastructure, Area of Interest, Media & Entertainment, Industry, 300 - Advanced, Level, Advisor/Consultant, Role, Solution/Systems Architect, Role, Tech Explorer, Role, AWS Elemental MediaLive, Services, Monday, Day, Wynn, Venue

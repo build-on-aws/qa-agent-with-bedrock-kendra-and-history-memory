@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 220
+summary: tag_name :DevOps Engineer, Role, DevOps and Developer Productivity, Topic, AWS CloudFormation, Services, Well-Architected Framework, Area of Interest, Thursday, Day, Caesars Forum, Venue, Developer/Engineer, Role, 300 - Advanced, Level, , speakers :firstName_0: Jeremy, lastName_0: Girven, firstName_1: Michael, lastName_1: Maeng, , thirdpartyid :DOP311, sessionuid :9D29EA02-AC4D-457B-AF57-6B12E51C647C, title :Building infrastructure as code with AWS CloudFormation, description :AWS CloudFormation helps you manage your AWS infrastructure as code, increasing automation and supporting infrastructure-as-code best practices. In this chalk talk, learn the fundamentals of CloudFormation, including templates, stacks, change sets, and stack dependencies. See a demo of how to describe your AWS infrastructure in a template format and provision resources in an automated, repeatable way., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 220, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Summit 220
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: AWS CloudFormation helps you manage your AWS infrastructure as code, increasing automation and supporting infrastructure-as-code best practices. In this chalk talk, learn the fundamentals of CloudFormation, including templates, stacks, change sets, and stack dependencies. See a demo of how to describe your AWS infrastructure in a template format and provision resources in an automated, repeatable way
+title: Building infrastructure as code with AWS CloudFormation
+sessionuid: 9D29EA02-AC4D-457B-AF57-6B12E51C647C
+thirdpartyid: DOP311
+speakers: firstName_0: Jeremy, lastName_0: Girven, firstName_1: Michael, lastName_1: Maeng
+tag_name: DevOps Engineer, Role, DevOps and Developer Productivity, Topic, AWS CloudFormation, Services, Well-Architected Framework, Area of Interest, Thursday, Day, Caesars Forum, Venue, Developer/Engineer, Role, 300 - Advanced, Level

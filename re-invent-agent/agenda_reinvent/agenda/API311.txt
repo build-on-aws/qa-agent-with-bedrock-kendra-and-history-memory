@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 104
+summary: tag_name :300 - Advanced, Level, Serverless Compute, Topic, Application Integration, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Amazon EventBridge, Services, Amazon Simple Notification Service (SNS), Services, Amazon Simple Queue Service (SQS), Services, Thursday, Day, Caesars Forum, Venue, , speakers :firstName_0: Dirk, lastName_0: Fröhner, firstName_1: Christian, lastName_1: Mueller, , thirdpartyid :API311, sessionuid :5EE24C46-7416-4B70-A022-0126F6D7E950, title :Combine messaging services for workload resilience and ordering, description :<p>Amazon SNS, Amazon SQS, and Amazon EventBridge are robust, scalable services that are fundamental building blocks for distributed architectures. In this chalk talk, explore how to combine these services to effectively tackle common challenges, including ordering, only-once processing, and throttling. Learn how to apply these patterns to your own architectures by writing configuration, not code.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 104, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Forum 104
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Amazon SNS, Amazon SQS, and Amazon EventBridge are robust, scalable services that are fundamental building blocks for distributed architectures. In this chalk talk, explore how to combine these services to effectively tackle common challenges, including ordering, only-once processing, and throttling. Learn how to apply these patterns to your own architectures by writing configuration, not code.</p>
+title: Combine messaging services for workload resilience and ordering
+sessionuid: 5EE24C46-7416-4B70-A022-0126F6D7E950
+thirdpartyid: API311
+speakers: firstName_0: Dirk, lastName_0: Fröhner, firstName_1: Christian, lastName_1: Mueller
+tag_name: 300 - Advanced, Level, Serverless Compute, Topic, Application Integration, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Amazon EventBridge, Services, Amazon Simple Notification Service (SNS), Services, Amazon Simple Queue Service (SQS), Services, Thursday, Day, Caesars Forum, Venue

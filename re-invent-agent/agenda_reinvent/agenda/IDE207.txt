@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Academic/Researcher, Role, Amazon Rekognition, Services, AI/ML, Topic, Business Executive, Role, Inclusion & Diversity, Area of Interest, Customer Enablement, Topic, 200 - Intermediate, Level, Generative AI, Area of Interest, Innovation on AWS, Area of Interest, Developer/Engineer, Role, Wednesday, Day, Venetian, Venue, , speakers :, thirdpartyid :IDE207, sessionuid :B8CD4785-50C7-43DF-B360-A11D22CF2A6D, title :Power accessible solutions with gen AI & eye gaze direction detection, description :Explore how generative AI and smart UI technologies can be used to develop an empowering solution for people with speech disabilities. By integrating eye gaze direction detection, intended messages can be accurately determined and transformed into spoken words or text, creating an intuitive and personalized communication system that adapts to users’ unique needs. These outputs can then be fed to ML models to explore the potential of text and image generative AI technologies to analyze and interpret user inputs in real time and infer communication response via contextual text and image creation. Dive deep on reference architecture during a live demo., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 29 2023 22:00:00 -0500, enddatetimeutc :November, 29 2023 22:20:00 -0500, 
+enddatetimeutc: November, 29 2023 22:20:00 -0500
+startdatetimeutc: November, 29 2023 22:00:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Explore how generative AI and smart UI technologies can be used to develop an empowering solution for people with speech disabilities. By integrating eye gaze direction detection, intended messages can be accurately determined and transformed into spoken words or text, creating an intuitive and personalized communication system that adapts to users’ unique needs. These outputs can then be fed to ML models to explore the potential of text and image generative AI technologies to analyze and interpret user inputs in real time and infer communication response via contextual text and image creation. Dive deep on reference architecture during a live demo
+title: Power accessible solutions with gen AI & eye gaze direction detection
+sessionuid: B8CD4785-50C7-43DF-B360-A11D22CF2A6D
+thirdpartyid: IDE207
+speakers: 
+tag_name: Academic/Researcher, Role, Amazon Rekognition, Services, AI/ML, Topic, Business Executive, Role, Inclusion & Diversity, Area of Interest, Customer Enablement, Topic, 200 - Intermediate, Level, Generative AI, Area of Interest, Innovation on AWS, Area of Interest, Developer/Engineer, Role, Wednesday, Day, Venetian, Venue

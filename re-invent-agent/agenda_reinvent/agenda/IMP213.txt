@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 368
+summary: tag_name :Business Executive, Role, Cross Industry, Industry, 200 - Intermediate, Level, AI/ML, Topic, Generative AI, Area of Interest, Thursday, Day, MGM Grand, Venue, Data Engineer, Role, IT Executive, Role, Social Impact, Area of Interest, , speakers :firstName_0: Rebecca, lastName_0: Gonzales, firstName_1: Dr. Margaret, lastName_1: Mitchell, company_1: Hugging Face, firstName_2: Sri, lastName_2: Elaprolu, , thirdpartyid :IMP213, sessionuid :21C91BF6-2DB2-48A5-9BAC-0F53F2EDD322, title :Implementing generative AI responsibly: A talk with Dr. Mitchell, description :<p>With the growing excitement about and increasing prevalence of generative AI, organizations must consider the impacts of this technology on society. The choice of foundation model can impact how responsible your generative AI implementation will be. In this session, join AI research scientist Dr. Margaret Mitchell and AWS as they discuss how organizations can prepare for the responsible use of this technology.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 368, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 20:30:00 -0500, 
+enddatetimeutc: November, 30 2023 20:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Chairmans 368
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>With the growing excitement about and increasing prevalence of generative AI, organizations must consider the impacts of this technology on society. The choice of foundation model can impact how responsible your generative AI implementation will be. In this session, join AI research scientist Dr. Margaret Mitchell and AWS as they discuss how organizations can prepare for the responsible use of this technology.</p>
+title: Implementing generative AI responsibly: A talk with Dr. Mitchell
+sessionuid: 21C91BF6-2DB2-48A5-9BAC-0F53F2EDD322
+thirdpartyid: IMP213
+speakers: firstName_0: Rebecca, lastName_0: Gonzales, firstName_1: Dr. Margaret, lastName_1: Mitchell, company_1: Hugging Face, firstName_2: Sri, lastName_2: Elaprolu
+tag_name: Business Executive, Role, Cross Industry, Industry, 200 - Intermediate, Level, AI/ML, Topic, Generative AI, Area of Interest, Thursday, Day, MGM Grand, Venue, Data Engineer, Role, IT Executive, Role, Social Impact, Area of Interest

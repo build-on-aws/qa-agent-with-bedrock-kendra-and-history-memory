@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 101
+summary: tag_name :Network & Infrastructure Security, Area of Interest, Amazon Elastic Load Balancing (ELB), Services, IT Professional/Technical Manager, Role, 300 - Advanced, Level, IT Administrator, Role, Wednesday, Day, MGM Grand, Venue, Cross Industry, Industry, Application Integration, Area of Interest, Amazon Virtual Private Cloud (VPC), Services, Networking & Content Delivery, Topic, AWS Cloud WAN, Services, Developer/Engineer, Role, Well-Architected Framework, Area of Interest, , speakers :firstName_0: Andrew, lastName_0: Gray, firstName_1: Jamie, lastName_1: Wenzel, , thirdpartyid :NET316-R, sessionuid :C698D985-9771-4035-A3D8-A75310B6F6CF, title :Networking ask-me-anything talk [REPEAT], description :This chalk talk covers the breadth of AWS networking services. Are you facing challenges considering how you can optimize Elastic Load Balancing (ELB), where Amazon VPC Lattice fits into your architecture, how you can migrate to AWS PrivateLink, how you should implement AWS Verified Access, whether you should migrate from AWS Transit Gateway to AWS CloudWAN, or other networking solutions? Bring your questions to explore in detail through interactive conversations and whiteboarding., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :101, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: 101
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: This chalk talk covers the breadth of AWS networking services. Are you facing challenges considering how you can optimize Elastic Load Balancing (ELB), where Amazon VPC Lattice fits into your architecture, how you can migrate to AWS PrivateLink, how you should implement AWS Verified Access, whether you should migrate from AWS Transit Gateway to AWS CloudWAN, or other networking solutions? Bring your questions to explore in detail through interactive conversations and whiteboarding
+title: Networking ask-me-anything talk [REPEAT]
+sessionuid: C698D985-9771-4035-A3D8-A75310B6F6CF
+thirdpartyid: NET316-R
+speakers: firstName_0: Andrew, lastName_0: Gray, firstName_1: Jamie, lastName_1: Wenzel
+tag_name: Network & Infrastructure Security, Area of Interest, Amazon Elastic Load Balancing (ELB), Services, IT Professional/Technical Manager, Role, 300 - Advanced, Level, IT Administrator, Role, Wednesday, Day, MGM Grand, Venue, Cross Industry, Industry, Application Integration, Area of Interest, Amazon Virtual Private Cloud (VPC), Services, Networking & Content Delivery, Topic, AWS Cloud WAN, Services, Developer/Engineer, Role, Well-Architected Framework, Area of Interest

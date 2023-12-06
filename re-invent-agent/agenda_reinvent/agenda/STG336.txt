@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 306
+summary: tag_name :Analytics, Topic, Storage, Topic, Management & Governance, Area of Interest, Cost Optimization, Area of Interest, Strategy & Transformation, Area of Interest, Financial Services, Industry, Healthcare, Industry, Media & Entertainment, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon Elastic MapReduce (EMR), Services, Amazon Simple Storage Service (S3), Services, AWS Identity and Access Management (IAM), Services, Thursday, Day, MGM Grand, Venue, , speakers :firstName_0: Aalhad, lastName_0: Kulkarni, firstName_1: Tavaris, lastName_1: Thomas, , thirdpartyid :STG336-R, sessionuid :6466DA57-EAEE-4DE3-B4AD-2EEB2C7B16FE, title :Scale data lake access control & enhance governance with Amazon S3 [REPEAT], description :<p>Learn how to get simple, scalable, and auditable access control for large-scale data lakes. In this chalk talk, learn best processes for enhancing your security posture and simplifying the access control of your data lakes across teams.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :306, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: 306
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Learn how to get simple, scalable, and auditable access control for large-scale data lakes. In this chalk talk, learn best processes for enhancing your security posture and simplifying the access control of your data lakes across teams.</p>
+title: Scale data lake access control & enhance governance with Amazon S3 [REPEAT]
+sessionuid: 6466DA57-EAEE-4DE3-B4AD-2EEB2C7B16FE
+thirdpartyid: STG336-R
+speakers: firstName_0: Aalhad, lastName_0: Kulkarni, firstName_1: Tavaris, lastName_1: Thomas
+tag_name: Analytics, Topic, Storage, Topic, Management & Governance, Area of Interest, Cost Optimization, Area of Interest, Strategy & Transformation, Area of Interest, Financial Services, Industry, Healthcare, Industry, Media & Entertainment, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon Elastic MapReduce (EMR), Services, Amazon Simple Storage Service (S3), Services, AWS Identity and Access Management (IAM), Services, Thursday, Day, MGM Grand, Venue

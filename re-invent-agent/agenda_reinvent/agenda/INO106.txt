@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 370
+summary: tag_name :Customer Stories, Area of Interest, Business Executive, Role, New to AWS, Topic, Innovation on AWS, Area of Interest, Sustainability, Area of Interest, 100 - Foundational, Level, Tuesday, Day, MGM Grand, Venue, AWS IoT TwinMaker, Services, Internet of Things, Topic, IT Executive, Role, Manufacturing & Industrial, Industry, , speakers :firstName_0: Irina, lastName_0: Radu, firstName_1: Jason, lastName_1: Mortensen, firstName_2: Juha-Matti, lastName_2: Kuusinen, company_2: Kone, , thirdpartyid :INO106, sessionuid :769B9C2B-F1ED-4DEA-B85C-134DD9BFB1B0, title :Driving efficiency and sustainability with AWS innovation mechanisms, description :Globally, more priority is being given to sustainability efforts at the C-suite level. Successful sustainability programs do not just reduce an organization’s carbon footprint but also affect bottom-line costs to the business. In this session, hear how an organization utilized AWS mechanisms and services like the PRFAQ and prototyping center to drive operational efficiency and support sustainability efforts. Learn how they used AWS IoT TwinMaker to optimize manufacturing processes and provide employees with real-time visibility into utilization, traffic, and equipment status., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 370, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: Chairmans 370
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Globally, more priority is being given to sustainability efforts at the C-suite level. Successful sustainability programs do not just reduce an organization’s carbon footprint but also affect bottom-line costs to the business. In this session, hear how an organization utilized AWS mechanisms and services like the PRFAQ and prototyping center to drive operational efficiency and support sustainability efforts. Learn how they used AWS IoT TwinMaker to optimize manufacturing processes and provide employees with real-time visibility into utilization, traffic, and equipment status
+title: Driving efficiency and sustainability with AWS innovation mechanisms
+sessionuid: 769B9C2B-F1ED-4DEA-B85C-134DD9BFB1B0
+thirdpartyid: INO106
+speakers: firstName_0: Irina, lastName_0: Radu, firstName_1: Jason, lastName_1: Mortensen, firstName_2: Juha-Matti, lastName_2: Kuusinen, company_2: Kone
+tag_name: Customer Stories, Area of Interest, Business Executive, Role, New to AWS, Topic, Innovation on AWS, Area of Interest, Sustainability, Area of Interest, 100 - Foundational, Level, Tuesday, Day, MGM Grand, Venue, AWS IoT TwinMaker, Services, Internet of Things, Topic, IT Executive, Role, Manufacturing & Industrial, Industry

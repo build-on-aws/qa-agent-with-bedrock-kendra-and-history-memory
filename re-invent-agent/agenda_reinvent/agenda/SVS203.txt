@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 104
+summary: tag_name :DevOps Engineer, Role, 200 - Intermediate, Level, Solution/Systems Architect, Role, Developer/Engineer, Role, Architecture, Topic, Monday, Day, MGM Grand, Venue, Serverless Compute, Topic, AWS Lambda, Services, , speakers :firstName_0: James, lastName_0: Beswick, , thirdpartyid :SVS203-R, sessionuid :AC51B172-247F-400D-B84F-5E49044BB7BA, title :Thinking serverless [REPEAT], description :Serverless is more than just AWS Lambda. It’s about learning to use a range of different services and techniques to solve a technical problem. How do you approach building a solution with a serverless mindset? In this chalk talk, learn how to tackle a business problem from a customer perspective by breaking down needs into serverless building blocks that work well together. Discover the power of distributed systems design and event-based architecture, and learn how easy it can be to turn a flowchart into a model for a serverless application., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :104, startdatetimeutc :November, 27 2023 20:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 20:00:00 -0500
+locationname: 104
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Serverless is more than just AWS Lambda. It’s about learning to use a range of different services and techniques to solve a technical problem. How do you approach building a solution with a serverless mindset? In this chalk talk, learn how to tackle a business problem from a customer perspective by breaking down needs into serverless building blocks that work well together. Discover the power of distributed systems design and event-based architecture, and learn how easy it can be to turn a flowchart into a model for a serverless application
+title: Thinking serverless [REPEAT]
+sessionuid: AC51B172-247F-400D-B84F-5E49044BB7BA
+thirdpartyid: SVS203-R
+speakers: firstName_0: James, lastName_0: Beswick
+tag_name: DevOps Engineer, Role, 200 - Intermediate, Level, Solution/Systems Architect, Role, Developer/Engineer, Role, Architecture, Topic, Monday, Day, MGM Grand, Venue, Serverless Compute, Topic, AWS Lambda, Services

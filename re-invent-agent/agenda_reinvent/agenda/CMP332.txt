@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 220
+summary: tag_name :Tuesday, Day, Caesars Forum, Venue, AI/ML, Topic, Compute, Topic, Innovation on AWS, Area of Interest, Generative AI, Area of Interest, Well-Architected Framework, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, , speakers :firstName_0: Keita, lastName_0: Watanabe, firstName_1: Pierre-Yves, lastName_1: Aquilanti, , thirdpartyid :CMP332, sessionuid :BAE854F5-B7F1-47FC-8194-A0E2B09B8260, title :Demystifying the ML software stack on Amazon EC2 accelerated instances, description :<p>Amazon EC2 offers a broad set of accelerators in the cloud for machine learning. Whether you are using instances powered by NVIDIA GPUs, AWS Trainium, or AWS Inferentia, you may wonder how to manage the software stack. What should you put in the Amazon Machine Image (AMI)? What goes on the container? How would that be different on Kubernetes with Amazon EKS or on Slurm with AWS ParallelCluster? How can you make use of the AWS Deep Learning AMIs (DLAMI)? In this chalk talk, learn about the techniques to build and manage your software stack for different accelerators, services, and containerization systems.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 220, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Summit 220
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Amazon EC2 offers a broad set of accelerators in the cloud for machine learning. Whether you are using instances powered by NVIDIA GPUs, AWS Trainium, or AWS Inferentia, you may wonder how to manage the software stack. What should you put in the Amazon Machine Image (AMI)? What goes on the container? How would that be different on Kubernetes with Amazon EKS or on Slurm with AWS ParallelCluster? How can you make use of the AWS Deep Learning AMIs (DLAMI)? In this chalk talk, learn about the techniques to build and manage your software stack for different accelerators, services, and containerization systems.</p>
+title: Demystifying the ML software stack on Amazon EC2 accelerated instances
+sessionuid: BAE854F5-B7F1-47FC-8194-A0E2B09B8260
+thirdpartyid: CMP332
+speakers: firstName_0: Keita, lastName_0: Watanabe, firstName_1: Pierre-Yves, lastName_1: Aquilanti
+tag_name: Tuesday, Day, Caesars Forum, Venue, AI/ML, Topic, Compute, Topic, Innovation on AWS, Area of Interest, Generative AI, Area of Interest, Well-Architected Framework, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services

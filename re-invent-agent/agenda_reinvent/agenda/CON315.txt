@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 120
+summary: tag_name :300 - Advanced, Level, Amazon Elastic Container Service (ECS), Services, Data Protection, Area of Interest, DevOps Engineer, Role, Cross Industry, Industry, Management & Governance, Area of Interest, Thursday, Day, MGM Grand, Venue, Amazon Elastic Block Store (EBS), Services, Developer/Engineer, Role, Serverless Compute, Topic, , speakers :firstName_0: kevin, lastName_0: liu, firstName_1: Vibhav, lastName_1: Agarwal, , thirdpartyid :CON315, sessionuid :014CAEF3-6445-4D92-9DD4-DDB87BC7FB02, title :Advancements in storage options for deploying data-aware apps at scale, description :As organizations look to broadly adopt containers for their compute, some workloads, such as big data and ETL jobs, need to fetch existing data, perform processing, and store this processed data for downstream use. To maximize compute efficiency, these workloads require storage that supports high transaction volumes and throughput. In this session, take a deep look at running data processing and storage-intensive workloads at scale without needing to worry about managing the underlying storage., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 120, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Grand 120
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: As organizations look to broadly adopt containers for their compute, some workloads, such as big data and ETL jobs, need to fetch existing data, perform processing, and store this processed data for downstream use. To maximize compute efficiency, these workloads require storage that supports high transaction volumes and throughput. In this session, take a deep look at running data processing and storage-intensive workloads at scale without needing to worry about managing the underlying storage
+title: Advancements in storage options for deploying data-aware apps at scale
+sessionuid: 014CAEF3-6445-4D92-9DD4-DDB87BC7FB02
+thirdpartyid: CON315
+speakers: firstName_0: kevin, lastName_0: liu, firstName_1: Vibhav, lastName_1: Agarwal
+tag_name: 300 - Advanced, Level, Amazon Elastic Container Service (ECS), Services, Data Protection, Area of Interest, DevOps Engineer, Role, Cross Industry, Industry, Management & Governance, Area of Interest, Thursday, Day, MGM Grand, Venue, Amazon Elastic Block Store (EBS), Services, Developer/Engineer, Role, Serverless Compute, Topic

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 306
+summary: tag_name :Amazon GameLift, Services, 300 - Advanced, Level, Compute, Topic, Games, Industry, Monday, Day, MGM Grand, Venue, Kubernetes, Topic, Global Infrastructure, Area of Interest, , speakers :firstName_0: Yahav, lastName_0: Biran, firstName_1: Yuval, lastName_1: Dovrat, , thirdpartyid :GAM301, sessionuid :3C9B6F52-8E6A-4F6C-A95D-50FF052041E1, title :Build cost-effective video games with AWS Graviton, description :Running containerized game servers on Amazon EKS using Unreal Engine? Learn how you can reduce compute costs, increase application resiliency, and future-proof your architecture with AWS Graviton and x86 processors. This chalk talk begins with an Unreal Engine multiplayer game running on x86 and deployed on Amazon EKS and walks you through the steps to introduce Graviton instances into your compute mix. While the talk demonstrates the concept in a fun way through video games, the lessons learned are relevant for any user-serving application on Kubernetes or any game hosted on Amazon GameLift., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :306, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 20:30:00 -0500, 
+enddatetimeutc: November, 27 2023 20:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: 306
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Running containerized game servers on Amazon EKS using Unreal Engine? Learn how you can reduce compute costs, increase application resiliency, and future-proof your architecture with AWS Graviton and x86 processors. This chalk talk begins with an Unreal Engine multiplayer game running on x86 and deployed on Amazon EKS and walks you through the steps to introduce Graviton instances into your compute mix. While the talk demonstrates the concept in a fun way through video games, the lessons learned are relevant for any user-serving application on Kubernetes or any game hosted on Amazon GameLift
+title: Build cost-effective video games with AWS Graviton
+sessionuid: 3C9B6F52-8E6A-4F6C-A95D-50FF052041E1
+thirdpartyid: GAM301
+speakers: firstName_0: Yahav, lastName_0: Biran, firstName_1: Yuval, lastName_1: Dovrat
+tag_name: Amazon GameLift, Services, 300 - Advanced, Level, Compute, Topic, Games, Industry, Monday, Day, MGM Grand, Venue, Kubernetes, Topic, Global Infrastructure, Area of Interest

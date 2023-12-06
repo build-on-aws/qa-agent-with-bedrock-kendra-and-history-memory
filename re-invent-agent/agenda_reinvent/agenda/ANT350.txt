@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 318
+summary: tag_name :Open Source, Area of Interest, Amazon OpenSearch Service, Services, Developer/Engineer, Role, DevOps Engineer, Role, Analytics, Topic, Monday, Day, MGM Grand, Venue, Amazon OpenSearch Serverless, Services, Solution/Systems Architect, Role, 300 - Advanced, Level, , speakers :firstName_0: Hajer, lastName_0: Bouafif, firstName_1: Muhammad, lastName_1: Ali, , thirdpartyid :ANT350, sessionuid :61042547-6BAA-459A-B8BE-005706515E01, title :Security analytics and observability with Amazon OpenSearch Service, description :Amazon OpenSearch Service and Amazon Security Lake together provide a comprehensive and cost-effective security strategy for organizations. This helps your security operations (SecOps) teams detect potential threats quickly, with tools to facilitate security investigations on historical data. This also provides an integrated experience for DevOps and site reliability engineers to isolate critical events and use all the observability signals to detect issues for containerized applications and microservices. Join this session to hear about best practices, monitoring patterns, and how you can meet your organization’s security and observability requirements at scale and at low cost., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 318, startdatetimeutc :November, 28 2023 01:30:00 -0500, enddatetimeutc :November, 28 2023 02:30:00 -0500, 
+enddatetimeutc: November, 28 2023 02:30:00 -0500
+startdatetimeutc: November, 28 2023 01:30:00 -0500
+locationname: Premier 318
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Amazon OpenSearch Service and Amazon Security Lake together provide a comprehensive and cost-effective security strategy for organizations. This helps your security operations (SecOps) teams detect potential threats quickly, with tools to facilitate security investigations on historical data. This also provides an integrated experience for DevOps and site reliability engineers to isolate critical events and use all the observability signals to detect issues for containerized applications and microservices. Join this session to hear about best practices, monitoring patterns, and how you can meet your organization’s security and observability requirements at scale and at low cost
+title: Security analytics and observability with Amazon OpenSearch Service
+sessionuid: 61042547-6BAA-459A-B8BE-005706515E01
+thirdpartyid: ANT350
+speakers: firstName_0: Hajer, lastName_0: Bouafif, firstName_1: Muhammad, lastName_1: Ali
+tag_name: Open Source, Area of Interest, Amazon OpenSearch Service, Services, Developer/Engineer, Role, DevOps Engineer, Role, Analytics, Topic, Monday, Day, MGM Grand, Venue, Amazon OpenSearch Serverless, Services, Solution/Systems Architect, Role, 300 - Advanced, Level

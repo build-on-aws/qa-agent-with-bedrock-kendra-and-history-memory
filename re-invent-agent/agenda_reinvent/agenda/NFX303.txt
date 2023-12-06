@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :Media & Entertainment, Industry, Architecture, Topic, Developer/Engineer, Role, Amazon Simple Storage Service (S3), Services, Customer Stories, Area of Interest, 300 - Advanced, Level, AWS Elemental MediaConnect, Services, Networking & Content Delivery, Topic, AWS Elemental MediaLive, Services, Global Infrastructure, Area of Interest, Monday, Day, Caesars Forum, Venue, , speakers :firstName_0: Ranjit, lastName_0: Raju, firstName_1: Mae, lastName_1: Reyes, firstName_2: Flavio, lastName_2: Ribeiro, company_2: Netflix, , thirdpartyid :NFX303, sessionuid :7A7A3A03-6D97-41D2-82C9-EDC1A59B0BA4, title :How Netflix built a livestreaming service in the cloud, description :Netflix Live is a new livestreaming format from Netflix, built on AWS and Open Connect. Learn from Flavio Ribeiro (Engineering Manager, Media Systems, at Netflix) about how Netflix approached building a new broadcast offering in the cloud and quickly launched a service in less than a year., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 27 2023 22:00:00 -0500, 
+enddatetimeutc: November, 27 2023 22:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: Netflix Live is a new livestreaming format from Netflix, built on AWS and Open Connect. Learn from Flavio Ribeiro (Engineering Manager, Media Systems, at Netflix) about how Netflix approached building a new broadcast offering in the cloud and quickly launched a service in less than a year
+title: How Netflix built a livestreaming service in the cloud
+sessionuid: 7A7A3A03-6D97-41D2-82C9-EDC1A59B0BA4
+thirdpartyid: NFX303
+speakers: firstName_0: Ranjit, lastName_0: Raju, firstName_1: Mae, lastName_1: Reyes, firstName_2: Flavio, lastName_2: Ribeiro, company_2: Netflix
+tag_name: Media & Entertainment, Industry, Architecture, Topic, Developer/Engineer, Role, Amazon Simple Storage Service (S3), Services, Customer Stories, Area of Interest, 300 - Advanced, Level, AWS Elemental MediaConnect, Services, Networking & Content Delivery, Topic, AWS Elemental MediaLive, Services, Global Infrastructure, Area of Interest, Monday, Day, Caesars Forum, Venue

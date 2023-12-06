@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 113
+summary: tag_name :Wednesday, Day, Caesars Forum, Venue, AI/ML, Topic, Monitoring & Observability, Area of Interest, 200 - Intermediate, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, DevOps Engineer, Role, , speakers :, thirdpartyid :AIM233-S, sessionuid :BC693098-F202-4663-93C3-AA63D28FC27E, title :Transform data investigation via Elasticsearch Query Language (ES|QL) (sponsored by Elastic), description :<p>Elasticsearch Query Language (ES|QL) transforms and simplifies data investigation while delivering advanced search capabilities, improving efficiency, and accelerating resolution with streamlined workflows. Attend this session to learn how ES|QL greatly simplifies using and understanding Elasticsearch and its features. Also, see how an example customer uses ES|QL within their organization to achieve increased productivity. This presentation is brought to you by Elastic, an AWS Partner.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 113, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Forum 113
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Elasticsearch Query Language (ES|QL) transforms and simplifies data investigation while delivering advanced search capabilities, improving efficiency, and accelerating resolution with streamlined workflows. Attend this session to learn how ES|QL greatly simplifies using and understanding Elasticsearch and its features. Also, see how an example customer uses ES|QL within their organization to achieve increased productivity. This presentation is brought to you by Elastic, an AWS Partner.</p>
+title: Transform data investigation via Elasticsearch Query Language (ES|QL) (sponsored by Elastic)
+sessionuid: BC693098-F202-4663-93C3-AA63D28FC27E
+thirdpartyid: AIM233-S
+speakers: 
+tag_name: Wednesday, Day, Caesars Forum, Venue, AI/ML, Topic, Monitoring & Observability, Area of Interest, 200 - Intermediate, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, DevOps Engineer, Role

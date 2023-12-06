@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 311
+summary: tag_name :MGM Grand, Venue, Wednesday, Day, Generative AI, Area of Interest, DevOps and Developer Productivity, Topic, 400 - Expert, Level, Games, Industry, AI/ML, Topic, , speakers :firstName_0: Andrew, lastName_0: Walko, firstName_1: Chaitra, lastName_1: Mathur, , thirdpartyid :GAM401, sessionuid :71B455B0-BA93-4B64-81E1-929A098B8C83, title :Operationalize generative AI applications using LLMOps, description :Generative AI applications offer game developers a unique opportunity to create new ideas and content, including stories, images, videos, and music. To use applications in production, infrastructure teams need to continuously integrate, deploy, and fine-tune the large language models (LLMs) that support generative AI applications. In this workshop, learn how to operationalize text and image generation applications on AWS using the principles of LLM operations (LLMOps) for continuous integration, continuous deployment, and continuous tuning (CI/CD/CT). This workshop provides the infrastructure code necessary to get started with building generative AI applications. You must bring a laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 311, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Premier 311
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: Generative AI applications offer game developers a unique opportunity to create new ideas and content, including stories, images, videos, and music. To use applications in production, infrastructure teams need to continuously integrate, deploy, and fine-tune the large language models (LLMs) that support generative AI applications. In this workshop, learn how to operationalize text and image generation applications on AWS using the principles of LLM operations (LLMOps) for continuous integration, continuous deployment, and continuous tuning (CI/CD/CT). This workshop provides the infrastructure code necessary to get started with building generative AI applications. You must bring a laptop to participate
+title: Operationalize generative AI applications using LLMOps
+sessionuid: 71B455B0-BA93-4B64-81E1-929A098B8C83
+thirdpartyid: GAM401
+speakers: firstName_0: Andrew, lastName_0: Walko, firstName_1: Chaitra, lastName_1: Mathur
+tag_name: MGM Grand, Venue, Wednesday, Day, Generative AI, Area of Interest, DevOps and Developer Productivity, Topic, 400 - Expert, Level, Games, Industry, AI/ML, Topic

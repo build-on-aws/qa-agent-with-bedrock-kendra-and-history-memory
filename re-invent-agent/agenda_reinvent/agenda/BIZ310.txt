@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 123
+summary: tag_name :Generative AI, Area of Interest, Amazon Connect, Services, Solution/Systems Architect, Role, Developer/Engineer, Role, 300 - Advanced, Level, Strategy & Transformation, Area of Interest, Tuesday, Day, Caesars Forum, Venue, IT Professional/Technical Manager, Role, AI/ML, Topic, Amazon Bedrock, Services, Cross Industry, Industry, Business Applications, Topic, , speakers :firstName_0: Gillian, lastName_0: Armstrong, firstName_1: Bamba, lastName_1: Diouf, , thirdpartyid :BIZ310-R, sessionuid :19A8569E-D0B3-4BA0-BD3F-376349210B6D, title :The opportunities and challenges of generative AI in contact centers [REPEAT], description :Contact centers are exploring generative AI as a way to personalize customer interactions, uncover actionable insights, and increase agent effectiveness. While early models are producing impressive results, sometimes answers may contain unintended bias or be factually incorrect. In addition, businesses are worried about factors like data privacy and security. Attend this chalk talk to learn current best practices to consider when adopting this fast-evolving technology for contact centers., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 123, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 23:00:00 -0500, 
+enddatetimeutc: November, 28 2023 23:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Forum 123
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Contact centers are exploring generative AI as a way to personalize customer interactions, uncover actionable insights, and increase agent effectiveness. While early models are producing impressive results, sometimes answers may contain unintended bias or be factually incorrect. In addition, businesses are worried about factors like data privacy and security. Attend this chalk talk to learn current best practices to consider when adopting this fast-evolving technology for contact centers
+title: The opportunities and challenges of generative AI in contact centers [REPEAT]
+sessionuid: 19A8569E-D0B3-4BA0-BD3F-376349210B6D
+thirdpartyid: BIZ310-R
+speakers: firstName_0: Gillian, lastName_0: Armstrong, firstName_1: Bamba, lastName_1: Diouf
+tag_name: Generative AI, Area of Interest, Amazon Connect, Services, Solution/Systems Architect, Role, Developer/Engineer, Role, 300 - Advanced, Level, Strategy & Transformation, Area of Interest, Tuesday, Day, Caesars Forum, Venue, IT Professional/Technical Manager, Role, AI/ML, Topic, Amazon Bedrock, Services, Cross Industry, Industry, Business Applications, Topic

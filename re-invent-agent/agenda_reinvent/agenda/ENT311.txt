@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 123
+summary: tag_name :AWS Fault Injector Service (FIS), Services, AWS Launch Wizard, Services, DevOps Engineer, Role, Enterprise & Migration, Topic, IT Professional/Technical Manager, Role, SAP, Area of Interest, Monday, Day, MGM Grand, Venue, Cross Industry, Industry, System Administrator, Role, 300 - Advanced, Level, , speakers :firstName_0: khaliluddin, lastName_0: siddiqui, firstName_1: Rozal, lastName_1: Singh, , thirdpartyid :ENT311, sessionuid :060910D2-5B67-4D2D-A932-5740A2DDFCFC, title :Build cost-optimized, sustainable, and resilient SAP systems, description :<p>In this session, learn how to prove the resilience of mission-critical SAP workloads running on AWS. First, review the AWS Well-Architected Framework to understand architectural best practices for SAP, with an emphasis on cost-optimization, resilience, and sustainability. Then, apply these best practices while creating the infrastructure for a highly available SAP S/4HANA system. Finally, simulate common failure scenarios that can impact SAP workloads to demonstrate resilience, showing that system availability and business process performance remain consistent. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 123, startdatetimeutc :November, 27 2023 19:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 19:00:00 -0500
+locationname: Grand 123
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>In this session, learn how to prove the resilience of mission-critical SAP workloads running on AWS. First, review the AWS Well-Architected Framework to understand architectural best practices for SAP, with an emphasis on cost-optimization, resilience, and sustainability. Then, apply these best practices while creating the infrastructure for a highly available SAP S/4HANA system. Finally, simulate common failure scenarios that can impact SAP workloads to demonstrate resilience, showing that system availability and business process performance remain consistent. You must bring your laptop to participate.</p>
+title: Build cost-optimized, sustainable, and resilient SAP systems
+sessionuid: 060910D2-5B67-4D2D-A932-5740A2DDFCFC
+thirdpartyid: ENT311
+speakers: firstName_0: khaliluddin, lastName_0: siddiqui, firstName_1: Rozal, lastName_1: Singh
+tag_name: AWS Fault Injector Service (FIS), Services, AWS Launch Wizard, Services, DevOps Engineer, Role, Enterprise & Migration, Topic, IT Professional/Technical Manager, Role, SAP, Area of Interest, Monday, Day, MGM Grand, Venue, Cross Industry, Industry, System Administrator, Role, 300 - Advanced, Level

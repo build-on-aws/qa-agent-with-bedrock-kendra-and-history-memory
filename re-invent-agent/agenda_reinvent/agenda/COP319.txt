@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 113
+summary: tag_name :System Administrator, Role, Cloud Operations, Topic, Monitoring & Observability, Area of Interest, Solution/Systems Architect, Role, DevOps Engineer, Role, 300 - Advanced, Level, Thursday, Day, Caesars Forum, Venue, Amazon Elastic Kubernetes Service (EKS), Services, Amazon CloudWatch, Services, Amazon Managed Service for Prometheus, Services, , speakers :firstName_0: Abhinav, lastName_0: Khanna, firstName_1: OMUR, lastName_1: KIRIKCI, , thirdpartyid :COP319, sessionuid :6AC8757D-C9F8-4EF5-B90F-7002C2BC43CB, title :Best practices for container observability, description :<p>In the fast-paced world of containerized applications and environments, achieving comprehensive observability is crucial for ensuring optimal performance, reliability, and user experience. Join this session to delve into the best practices for container observability. Discover how to effectively monitor, analyze, and troubleshoot your Amazon EKS and Amazon ECS environments with AWS observability. Learn about best practices that can help you eliminate manual management of agents and optimize resource allocation while giving you insights into your containerized workloads.</p>, sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 113, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Forum 113
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: <p>In the fast-paced world of containerized applications and environments, achieving comprehensive observability is crucial for ensuring optimal performance, reliability, and user experience. Join this session to delve into the best practices for container observability. Discover how to effectively monitor, analyze, and troubleshoot your Amazon EKS and Amazon ECS environments with AWS observability. Learn about best practices that can help you eliminate manual management of agents and optimize resource allocation while giving you insights into your containerized workloads.</p>
+title: Best practices for container observability
+sessionuid: 6AC8757D-C9F8-4EF5-B90F-7002C2BC43CB
+thirdpartyid: COP319
+speakers: firstName_0: Abhinav, lastName_0: Khanna, firstName_1: OMUR, lastName_1: KIRIKCI
+tag_name: System Administrator, Role, Cloud Operations, Topic, Monitoring & Observability, Area of Interest, Solution/Systems Architect, Role, DevOps Engineer, Role, 300 - Advanced, Level, Thursday, Day, Caesars Forum, Venue, Amazon Elastic Kubernetes Service (EKS), Services, Amazon CloudWatch, Services, Amazon Managed Service for Prometheus, Services

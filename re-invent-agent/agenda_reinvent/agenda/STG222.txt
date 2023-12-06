@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 115
+summary: tag_name :Storage, Topic, Migration & Transfer, Area of Interest, Media & Entertainment, Industry, Retail, Industry, 200 - Intermediate, Level, Solution/Systems Architect, Role, System Administrator, Role, IT Professional/Technical Manager, Role, Amazon Elastic File System (EFS), Services, Amazon Simple Storage Service (S3), Services, AWS DataSync, Services, MGM Grand, Venue, Thursday, Day, , speakers :firstName_0: Jeff, lastName_0: Bartley, firstName_1: Raghavendra, lastName_1: Nandagopal, company_1: Workday, , thirdpartyid :STG222, sessionuid :2FF65DA7-7521-4148-A597-7B7E007F2AEF, title :Accelerate secure data migrations at scale with AWS DataSync, description :<p>Accelerate your cloud journey by moving your data to AWS quickly and securely with AWS DataSync. In this session, learn best practices for how to move your data faster, cut costs, and increase performance. This session features an AWS customer highlighting their experience using DataSync to move data at scale.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 115, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:30:00 -0500, 
+enddatetimeutc: November, 30 2023 22:30:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Grand 115
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Accelerate your cloud journey by moving your data to AWS quickly and securely with AWS DataSync. In this session, learn best practices for how to move your data faster, cut costs, and increase performance. This session features an AWS customer highlighting their experience using DataSync to move data at scale.</p>
+title: Accelerate secure data migrations at scale with AWS DataSync
+sessionuid: 2FF65DA7-7521-4148-A597-7B7E007F2AEF
+thirdpartyid: STG222
+speakers: firstName_0: Jeff, lastName_0: Bartley, firstName_1: Raghavendra, lastName_1: Nandagopal, company_1: Workday
+tag_name: Storage, Topic, Migration & Transfer, Area of Interest, Media & Entertainment, Industry, Retail, Industry, 200 - Intermediate, Level, Solution/Systems Architect, Role, System Administrator, Role, IT Professional/Technical Manager, Role, Amazon Elastic File System (EFS), Services, Amazon Simple Storage Service (S3), Services, AWS DataSync, Services, MGM Grand, Venue, Thursday, Day

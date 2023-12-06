@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :300 - Advanced, Level, Generative AI, Area of Interest, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Data Scientist, Role, Architecture, Topic, Cross Industry, Industry, AWS Marketplace, Services, Wednesday, Day, Wynn, Venue, AI/ML, Topic, AWS Marketplace, Area of Interest, , speakers :firstName_0: Harish, lastName_0: Surendranath, firstName_1: Seenu, lastName_1: Brahmarouthu, , thirdpartyid :MKT301-R, sessionuid :174C3A78-FEED-4590-8081-F46478EAB3E2, title :Accelerate generative AI deployments with solutions in AWS Marketplace [REPEAT], description :Organizations are looking to use generative AI to improve process efficiencies and customer experiences through more efficient content generation, personalization, summarizations, and more. AWS and AWS Partners can help organizations accelerate their generative AI training, deployment, and inferencing programs to meet their users’ needs. In this chalk talk, learn about the end-to-end generative AI lifecycle—from gathering data, to selecting models, to fine-tuning and deploying the models into production. Along each step of the generative AI lifecycle, find out how AWS Partners, AWS Marketplace, and Amazon SageMaker can help you in your journey., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Organizations are looking to use generative AI to improve process efficiencies and customer experiences through more efficient content generation, personalization, summarizations, and more. AWS and AWS Partners can help organizations accelerate their generative AI training, deployment, and inferencing programs to meet their users’ needs. In this chalk talk, learn about the end-to-end generative AI lifecycle—from gathering data, to selecting models, to fine-tuning and deploying the models into production. Along each step of the generative AI lifecycle, find out how AWS Partners, AWS Marketplace, and Amazon SageMaker can help you in your journey
+title: Accelerate generative AI deployments with solutions in AWS Marketplace [REPEAT]
+sessionuid: 174C3A78-FEED-4590-8081-F46478EAB3E2
+thirdpartyid: MKT301-R
+speakers: firstName_0: Harish, lastName_0: Surendranath, firstName_1: Seenu, lastName_1: Brahmarouthu
+tag_name: 300 - Advanced, Level, Generative AI, Area of Interest, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Data Scientist, Role, Architecture, Topic, Cross Industry, Industry, AWS Marketplace, Services, Wednesday, Day, Wynn, Venue, AI/ML, Topic, AWS Marketplace, Area of Interest

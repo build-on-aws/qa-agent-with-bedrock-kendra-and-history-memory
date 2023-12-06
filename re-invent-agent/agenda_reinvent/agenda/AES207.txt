@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Thursday, Day, Venetian, Venue, Compute, Topic, Internet of Things, Topic, Edge Computing, Area of Interest, Innovation on AWS, Area of Interest, Aerospace & Satellite, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, IT Professional/Technical Manager, Role, AWS IoT Greengrass, Services, , speakers :firstName_0: Joy, lastName_0: Fasnacht, , thirdpartyid :AES207, sessionuid :3CFC5EA7-793D-4D14-BF3D-3FA6745B9A2F, title :Using AWS IoT Greengrass to update aircraft software & media content, description :<p>Manual software and media content updates to aircraft are often error prone and time-consuming. Furthermore, traditional manual updates require aircraft to be grounded, which can take valuable resources out of service. With advancements in satellite connectivity like higher bandwidth and lower latencies, updates can now be performed using software-defined adaptive connectivity at the edge with AWS. In this lightning talk, see how AWS can help aircraft operators manage content and communications between the edge and the cloud while keeping fleets active with AWS IoT Greengrass.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 21:20:00 -0500, 
+enddatetimeutc: November, 30 2023 21:20:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Manual software and media content updates to aircraft are often error prone and time-consuming. Furthermore, traditional manual updates require aircraft to be grounded, which can take valuable resources out of service. With advancements in satellite connectivity like higher bandwidth and lower latencies, updates can now be performed using software-defined adaptive connectivity at the edge with AWS. In this lightning talk, see how AWS can help aircraft operators manage content and communications between the edge and the cloud while keeping fleets active with AWS IoT Greengrass.</p>
+title: Using AWS IoT Greengrass to update aircraft software & media content
+sessionuid: 3CFC5EA7-793D-4D14-BF3D-3FA6745B9A2F
+thirdpartyid: AES207
+speakers: firstName_0: Joy, lastName_0: Fasnacht
+tag_name: Thursday, Day, Venetian, Venue, Compute, Topic, Internet of Things, Topic, Edge Computing, Area of Interest, Innovation on AWS, Area of Interest, Aerospace & Satellite, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, IT Professional/Technical Manager, Role, AWS IoT Greengrass, Services

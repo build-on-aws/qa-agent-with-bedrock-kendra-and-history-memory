@@ -1,0 +1,14 @@
+location: MGM Grand, Level 2, Crush
+summary: tag_name :Wednesday, Day, MGM Grand, Venue, Happy Hour/Reception, Additional Services, , speakers :, thirdpartyid :ACT025, sessionuid :4DEC493E-2DA1-4707-AC95-A92EEAB9B0AF, title :Networking reception at Crush, description :<p>We put the AI in cocktails. Join PagerDuty for a fun evening of cocktails and conversation at Crush at MGM Grand.</p>, sessiontype :Community Activities, venuename :MGM Grand, floorplanname :Level 2, locationname :Crush, startdatetimeutc :November, 30 2023 02:00:00 -0500, enddatetimeutc :November, 30 2023 04:00:00 -0500, 
+enddatetimeutc: November, 30 2023 04:00:00 -0500
+startdatetimeutc: November, 30 2023 02:00:00 -0500
+locationname: Crush
+floorplanname: Level 2
+venuename: MGM Grand
+sessiontype: Community Activities
+description: <p>We put the AI in cocktails. Join PagerDuty for a fun evening of cocktails and conversation at Crush at MGM Grand.</p>
+title: Networking reception at Crush
+sessionuid: 4DEC493E-2DA1-4707-AC95-A92EEAB9B0AF
+thirdpartyid: ACT025
+speakers: 
+tag_name: Wednesday, Day, MGM Grand, Venue, Happy Hour/Reception, Additional Services

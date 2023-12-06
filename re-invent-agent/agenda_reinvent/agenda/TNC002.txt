@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Titian 2306
+summary: tag_name :Training & Certification, Topic, Application Integration, Area of Interest, Network & Infrastructure Security, Area of Interest, Generative AI, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Wednesday, Day, Venetian, Venue, , speakers :, thirdpartyid :TNC002, sessionuid :F948B47C-3A74-414E-AFB0-8065635C43D6, title :After-hours self-paced labs, description :<p>After you’ve worked up an appetite and a thirst, join your peers for complimentary pizza and beer as you build new cloud skills with AWS Builder Labs from 6:00 to 8:00 PM on Wednesday night. Don’t miss this opportunity to make some new connections in a fun, laid-back environment.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Titian 2306, startdatetimeutc :November, 30 2023 02:00:00 -0500, enddatetimeutc :November, 30 2023 04:00:00 -0500, 
+enddatetimeutc: November, 30 2023 04:00:00 -0500
+startdatetimeutc: November, 30 2023 02:00:00 -0500
+locationname: Titian 2306
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>After you’ve worked up an appetite and a thirst, join your peers for complimentary pizza and beer as you build new cloud skills with AWS Builder Labs from 6:00 to 8:00 PM on Wednesday night. Don’t miss this opportunity to make some new connections in a fun, laid-back environment.</p>
+title: After-hours self-paced labs
+sessionuid: F948B47C-3A74-414E-AFB0-8065635C43D6
+thirdpartyid: TNC002
+speakers: 
+tag_name: Training & Certification, Topic, Application Integration, Area of Interest, Network & Infrastructure Security, Area of Interest, Generative AI, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Wednesday, Day, Venetian, Venue

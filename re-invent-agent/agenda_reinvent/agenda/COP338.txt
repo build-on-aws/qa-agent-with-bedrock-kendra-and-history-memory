@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :Cloud Operations, Topic, Management & Governance, Area of Interest, Generative AI, Area of Interest, Cloud Security Specialist, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Amazon CodeWhisperer, Services, AWS CloudTrail, Services, AWS Config, Services, 300 - Advanced, Level, Thursday, Day, Wynn, Venue, , speakers :firstName_0: Isaiah, lastName_0: Salinas, firstName_1: Snehal, lastName_1: Nahar, , thirdpartyid :COP338, sessionuid :4E4FAFA4-3F73-4427-B211-BD145C4FC9AC, title :Using generative AI to improve your compliance and auditing processes, description :<p>Managing compliance can be a tedious process, but it’s necessary in order to be audit ready. To free up resources for innovation, you can pair services like AWS Config and AWS CloudTrail with Amazon CodeWhisperer to help you build custom compliance rules more quickly and query your audit logs more effectively. When it's time for your audit, you can also use CodeWhisperer to help you query your audit evidence in CloudTrail. Join this chalk talk to learn how generative AI on AWS can make compliance and auditing processes faster and more efficient.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Managing compliance can be a tedious process, but it’s necessary in order to be audit ready. To free up resources for innovation, you can pair services like AWS Config and AWS CloudTrail with Amazon CodeWhisperer to help you build custom compliance rules more quickly and query your audit logs more effectively. When it's time for your audit, you can also use CodeWhisperer to help you query your audit evidence in CloudTrail. Join this chalk talk to learn how generative AI on AWS can make compliance and auditing processes faster and more efficient.</p>
+title: Using generative AI to improve your compliance and auditing processes
+sessionuid: 4E4FAFA4-3F73-4427-B211-BD145C4FC9AC
+thirdpartyid: COP338
+speakers: firstName_0: Isaiah, lastName_0: Salinas, firstName_1: Snehal, lastName_1: Nahar
+tag_name: Cloud Operations, Topic, Management & Governance, Area of Interest, Generative AI, Area of Interest, Cloud Security Specialist, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Amazon CodeWhisperer, Services, AWS CloudTrail, Services, AWS Config, Services, 300 - Advanced, Level, Thursday, Day, Wynn, Venue

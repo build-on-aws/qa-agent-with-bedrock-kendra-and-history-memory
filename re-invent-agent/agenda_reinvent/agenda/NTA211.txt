@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 167
+summary: tag_name :New to AWS, Topic, 200 - Intermediate, Level, Cloud Security Specialist, Role, Solution/Systems Architect, Role, System Administrator, Role, AWS Control Tower, Services, AWS Management Console, Services, AWS Security Hub, Services, Monday, Day, MGM Grand, Venue, , speakers :firstName_0: Renato, lastName_0: Fichmann, firstName_1: Keith, lastName_1: Wood, , thirdpartyid :NTA211-R, sessionuid :EC46BCB7-C3EF-4402-B664-F650EA62BC1E, title :Top 10 best practices for AWS beginners [REPEAT], description :<p>In this session, learn the essential best practices that new AWS customers need to know to more easily establish a secure and reliable cloud infrastructure. Get practical guidance on key areas such as setting up AWS Control Tower for centralized governance, implementing proper access and identity management, setting up budget alerts, utilizing effective security tools, managing shared resources, and optimizing your network. With these best practices in place, you’ll be well on your way to building a strong and secure foundation for your cloud adoption journey.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 167, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 17:30:00 -0500, 
+enddatetimeutc: November, 27 2023 17:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: Boulevard 167
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>In this session, learn the essential best practices that new AWS customers need to know to more easily establish a secure and reliable cloud infrastructure. Get practical guidance on key areas such as setting up AWS Control Tower for centralized governance, implementing proper access and identity management, setting up budget alerts, utilizing effective security tools, managing shared resources, and optimizing your network. With these best practices in place, you’ll be well on your way to building a strong and secure foundation for your cloud adoption journey.</p>
+title: Top 10 best practices for AWS beginners [REPEAT]
+sessionuid: EC46BCB7-C3EF-4402-B664-F650EA62BC1E
+thirdpartyid: NTA211-R
+speakers: firstName_0: Renato, lastName_0: Fichmann, firstName_1: Keith, lastName_1: Wood
+tag_name: New to AWS, Topic, 200 - Intermediate, Level, Cloud Security Specialist, Role, Solution/Systems Architect, Role, System Administrator, Role, AWS Control Tower, Services, AWS Management Console, Services, AWS Security Hub, Services, Monday, Day, MGM Grand, Venue

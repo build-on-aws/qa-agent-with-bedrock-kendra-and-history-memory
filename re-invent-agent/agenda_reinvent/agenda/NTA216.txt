@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Reef F
+summary: tag_name :Generative AI, Area of Interest, AI/ML, Topic, Wednesday, Day, Mandalay Bay, Venue, 200 - Intermediate, Level, , speakers :firstName_0: Akshara, lastName_0: Shah, firstName_1: Prashanth, lastName_1: Ganapathy, firstName_2: Sriharsh, lastName_2: Adari, , thirdpartyid :NTA216, sessionuid :5AE2F987-DC35-4092-8304-7A9B74D4B551, title :A leader’s guide on low-effort ways to adopt generative AI, description :Interacting with generative AI is easy, but building a generative AI application requires more thought. Operationalizing said application at scale poses an even deeper challenge. Come learn a framework for using low-effort ways to design and build generative AI applications for top use cases that offer a compelling user experience and accelerate your business. You take away a broad set of mental models that you can apply to get started immediately and be successful., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Reef F, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Reef F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Interacting with generative AI is easy, but building a generative AI application requires more thought. Operationalizing said application at scale poses an even deeper challenge. Come learn a framework for using low-effort ways to design and build generative AI applications for top use cases that offer a compelling user experience and accelerate your business. You take away a broad set of mental models that you can apply to get started immediately and be successful
+title: A leader’s guide on low-effort ways to adopt generative AI
+sessionuid: 5AE2F987-DC35-4092-8304-7A9B74D4B551
+thirdpartyid: NTA216
+speakers: firstName_0: Akshara, lastName_0: Shah, firstName_1: Prashanth, lastName_1: Ganapathy, firstName_2: Sriharsh, lastName_2: Adari
+tag_name: Generative AI, Area of Interest, AI/ML, Topic, Wednesday, Day, Mandalay Bay, Venue, 200 - Intermediate, Level

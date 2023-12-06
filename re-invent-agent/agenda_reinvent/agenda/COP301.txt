@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 316
+summary: tag_name :Management & Governance, Area of Interest, Cloud Operations, Topic, AWS Config, Services, AWS Elastic Disaster Recovery, Services, DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Wednesday, Day, MGM Grand, Venue, AWS Systems Manager, Services, 300 - Advanced, Level, AWS Trusted Advisor, Services, , speakers :firstName_0: Bryan, lastName_0: Henderson, firstName_1: Megan, lastName_1: McCloskey, , thirdpartyid :COP301-R, sessionuid :057D24B1-51BF-4A59-AE3A-69C242024587, title :Automate operations management on AWS [REPEAT], description :Balancing agility, maximizing uptime, supporting compliance, and driving organizational efficiency can be complex. Add on-premises and other cloud resources, and that complexity can be multiplied. In this workshop, walk through building workflows using AWS Systems Manager to help automate operations processes related to AWS Trusted Advisor as well as compliance configuration and remediation with AWS Config. Also, learn about configuring disaster recovery replication on AWS using AWS Elastic Disaster Recovery. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 316, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Premier 316
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: Balancing agility, maximizing uptime, supporting compliance, and driving organizational efficiency can be complex. Add on-premises and other cloud resources, and that complexity can be multiplied. In this workshop, walk through building workflows using AWS Systems Manager to help automate operations processes related to AWS Trusted Advisor as well as compliance configuration and remediation with AWS Config. Also, learn about configuring disaster recovery replication on AWS using AWS Elastic Disaster Recovery. You must bring your laptop to participate
+title: Automate operations management on AWS [REPEAT]
+sessionuid: 057D24B1-51BF-4A59-AE3A-69C242024587
+thirdpartyid: COP301-R
+speakers: firstName_0: Bryan, lastName_0: Henderson, firstName_1: Megan, lastName_1: McCloskey
+tag_name: Management & Governance, Area of Interest, Cloud Operations, Topic, AWS Config, Services, AWS Elastic Disaster Recovery, Services, DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Wednesday, Day, MGM Grand, Venue, AWS Systems Manager, Services, 300 - Advanced, Level, AWS Trusted Advisor, Services

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 121
+summary: tag_name :Developer/Engineer, Role, Cross Industry, Industry, Generative AI, Area of Interest, Business Applications, Topic, AI/ML, Topic, SaaS, Area of Interest, Thursday, Day, Caesars Forum, Venue, Entrepreneur (Founder/Co-Founder), Role, AWS AppFabric, Services, 200 - Intermediate, Level, Business Executive, Role, Independent Software Vendor (ISV), Area of Interest, , speakers :firstName_0: Federico, lastName_0: Torreti, firstName_1: Varun, lastName_1: Parmar, company_1: Miro, firstName_2: Eric, lastName_2: Pelz, company_2: Asana, firstName_3: Matt, lastName_3: Bell, company_3: Anthropic, , thirdpartyid :BIZ212, sessionuid :6A26C43D-8408-4C55-B3F3-CC04FA7ECC29, title :Enhancing SaaS application productivity with generative AI, description :Productivity skyrockets when cross-functional collaboration works well, but the applications we use don’t always work well together. Context switching between applications creates a drag on productivity. AWS AppFabric quickly connects software-as-a-service (SaaS) applications to surface cross-application insights using generative artificial intelligence. Join this panel discussion to hear how AWS Partners, customers, and technology leaders are revolutionizing work., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 121, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Forum 121
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: Productivity skyrockets when cross-functional collaboration works well, but the applications we use don’t always work well together. Context switching between applications creates a drag on productivity. AWS AppFabric quickly connects software-as-a-service (SaaS) applications to surface cross-application insights using generative artificial intelligence. Join this panel discussion to hear how AWS Partners, customers, and technology leaders are revolutionizing work
+title: Enhancing SaaS application productivity with generative AI
+sessionuid: 6A26C43D-8408-4C55-B3F3-CC04FA7ECC29
+thirdpartyid: BIZ212
+speakers: firstName_0: Federico, lastName_0: Torreti, firstName_1: Varun, lastName_1: Parmar, company_1: Miro, firstName_2: Eric, lastName_2: Pelz, company_2: Asana, firstName_3: Matt, lastName_3: Bell, company_3: Anthropic
+tag_name: Developer/Engineer, Role, Cross Industry, Industry, Generative AI, Area of Interest, Business Applications, Topic, AI/ML, Topic, SaaS, Area of Interest, Thursday, Day, Caesars Forum, Venue, Entrepreneur (Founder/Co-Founder), Role, AWS AppFabric, Services, 200 - Intermediate, Level, Business Executive, Role, Independent Software Vendor (ISV), Area of Interest

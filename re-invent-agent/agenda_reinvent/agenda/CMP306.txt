@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 4
+summary: tag_name :Compute, Topic, Cross Industry, Industry, Application Security, Area of Interest, DevOps Engineer, Role, Migration & Transfer, Area of Interest, Developer/Engineer, Role, Application Integration, Area of Interest, 300 - Advanced, Level, Wednesday, Day, Wynn, Venue, Amazon Elastic Compute Cloud (EC2), Services, Architecture, Topic, System Administrator, Role, , speakers :firstName_0: Ali, lastName_0: Saidi, , thirdpartyid :CMP306, sessionuid :9E2B1FDD-F06B-4155-8D6B-1BB63CC730B4, title :Deep dive into the AWS Nitro System, description :The AWS Nitro System is a rich collection of building-block technologies—including hardware offload and security components built by AWS—that are powering the recent and future generations of Amazon EC2 instances with an ever-broadening selection of compute, storage, memory, and networking options. In this session, dive deep into the Nitro System, review its design and architecture, explore new innovations to the Nitro platform, and see how it has made the seemingly impossible possible., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 4, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Lafite 4
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: The AWS Nitro System is a rich collection of building-block technologies—including hardware offload and security components built by AWS—that are powering the recent and future generations of Amazon EC2 instances with an ever-broadening selection of compute, storage, memory, and networking options. In this session, dive deep into the Nitro System, review its design and architecture, explore new innovations to the Nitro platform, and see how it has made the seemingly impossible possible
+title: Deep dive into the AWS Nitro System
+sessionuid: 9E2B1FDD-F06B-4155-8D6B-1BB63CC730B4
+thirdpartyid: CMP306
+speakers: firstName_0: Ali, lastName_0: Saidi
+tag_name: Compute, Topic, Cross Industry, Industry, Application Security, Area of Interest, DevOps Engineer, Role, Migration & Transfer, Area of Interest, Developer/Engineer, Role, Application Integration, Area of Interest, 300 - Advanced, Level, Wednesday, Day, Wynn, Venue, Amazon Elastic Compute Cloud (EC2), Services, Architecture, Topic, System Administrator, Role

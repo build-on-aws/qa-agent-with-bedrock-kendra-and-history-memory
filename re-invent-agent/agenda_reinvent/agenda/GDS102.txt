@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 115
+summary: tag_name :Cloud Operations, Topic, Cost Optimization, Area of Interest, 100 - Foundational, Level, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Himanshu, lastName_0: Kapoor, firstName_1: Christian, lastName_1: Martini, company_1: Mercado Libre, firstName_2: Nilanjan, lastName_2: Basu, , thirdpartyid :GDS102, sessionuid :ED6D5A2E-A8EB-4021-BD88-7AE0356BDA8C, title :Save money & increase value using the CFM Capability Assessment, description :Customers with higher levels of cloud financial management maturity are saving more on their AWS bill, helping to drive more business value in the cloud. In this session, learn about the CFM Capability Assessment, a discovery tool that can help you develop an optimization roadmap based on your company’s unique CFM strengths and weaknesses. Learn how the Capability Assessment also offers the ability to benchmark your CFM maturity against other AWS customers., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 115, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Grand 115
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Customers with higher levels of cloud financial management maturity are saving more on their AWS bill, helping to drive more business value in the cloud. In this session, learn about the CFM Capability Assessment, a discovery tool that can help you develop an optimization roadmap based on your company’s unique CFM strengths and weaknesses. Learn how the Capability Assessment also offers the ability to benchmark your CFM maturity against other AWS customers
+title: Save money & increase value using the CFM Capability Assessment
+sessionuid: ED6D5A2E-A8EB-4021-BD88-7AE0356BDA8C
+thirdpartyid: GDS102
+speakers: firstName_0: Himanshu, lastName_0: Kapoor, firstName_1: Christian, lastName_1: Martini, company_1: Mercado Libre, firstName_2: Nilanjan, lastName_2: Basu
+tag_name: Cloud Operations, Topic, Cost Optimization, Area of Interest, 100 - Foundational, Level, Wednesday, Day, MGM Grand, Venue

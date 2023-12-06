@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 301
+summary: tag_name :Architecture, Topic, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, BuildOn.AWS, Area of Interest, Solution/Systems Architect, Role, Monitoring & Observability, Area of Interest, Cross Industry, Industry, Thursday, Day, MGM Grand, Venue, DevOps Engineer, Role, AWS Support, Services, , speakers :firstName_0: James, lastName_0: Beaumont, firstName_1: Paul, lastName_1: Moran, , thirdpartyid :ARC212, sessionuid :A53930DD-0256-4B53-AFE9-93F368281FAA, title :Be prepared: Learning from incident response, description :Everyone needs a plan for when issues happen. In this chalk talk, learn how AWS monitors, detects, and manages incidents. Find out how AWS tools can help you learn and grow from each event, with the goal of continually improving responses. Get visibility into the operational excellence of real-world scenarios that don’t just affect an organization’s bottom line but its reputation., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :301, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: 301
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Everyone needs a plan for when issues happen. In this chalk talk, learn how AWS monitors, detects, and manages incidents. Find out how AWS tools can help you learn and grow from each event, with the goal of continually improving responses. Get visibility into the operational excellence of real-world scenarios that don’t just affect an organization’s bottom line but its reputation
+title: Be prepared: Learning from incident response
+sessionuid: A53930DD-0256-4B53-AFE9-93F368281FAA
+thirdpartyid: ARC212
+speakers: firstName_0: James, lastName_0: Beaumont, firstName_1: Paul, lastName_1: Moran
+tag_name: Architecture, Topic, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, BuildOn.AWS, Area of Interest, Solution/Systems Architect, Role, Monitoring & Observability, Area of Interest, Cross Industry, Industry, Thursday, Day, MGM Grand, Venue, DevOps Engineer, Role, AWS Support, Services

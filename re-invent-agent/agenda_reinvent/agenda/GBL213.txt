@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :200 - Intermediate, Level, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Thursday, Day, Venetian, Venue, Generative AI, Area of Interest, Non-English, Area of Interest, Cross Industry, Industry, IT Executive, Role, , speakers :firstName_0: Takayuki, lastName_0: Shimizu, , thirdpartyid :GBL213-JA, sessionuid :4EA88AA3-3B85-4118-899F-F0E749C6DAE6, title :Accelerate your project by using AWS Solutions [Japanese], description :This lightning talk is delivered in Japanese. AWS solutions are technical reference implementations built and vetted by AWS and AWS Partners. In this talk, learn about various use cases to solve common challenges often faced by organizations around the world. In addition, an AWS solutions architect explores popular solutions in Japan., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 21:20:00 -0500, 
+enddatetimeutc: November, 30 2023 21:20:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: This lightning talk is delivered in Japanese. AWS solutions are technical reference implementations built and vetted by AWS and AWS Partners. In this talk, learn about various use cases to solve common challenges often faced by organizations around the world. In addition, an AWS solutions architect explores popular solutions in Japan
+title: Accelerate your project by using AWS Solutions [Japanese]
+sessionuid: 4EA88AA3-3B85-4118-899F-F0E749C6DAE6
+thirdpartyid: GBL213-JA
+speakers: firstName_0: Takayuki, lastName_0: Shimizu
+tag_name: 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Thursday, Day, Venetian, Venue, Generative AI, Area of Interest, Non-English, Area of Interest, Cross Industry, Industry, IT Executive, Role

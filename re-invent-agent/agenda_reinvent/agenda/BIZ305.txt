@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 350
+summary: tag_name :Business Applications, Topic, Business Intelligence, Area of Interest, Front-End Web & Mobile, Area of Interest, Advertising & Marketing, Industry, Telecommunications, Industry, Cross Industry, Industry, 300 - Advanced, Level, Amazon Pinpoint, Services, Tuesday, Day, MGM Grand, Venue, , speakers :firstName_0: Pavlos, lastName_0: Ioannou Katidis, firstName_1: Matt, lastName_1: Burdick, firstName_2: Bruno, lastName_2: Giorgini, firstName_3: Dan, lastName_3: Jakel, , thirdpartyid :BIZ305-R, sessionuid :8A4997EC-CBC0-40E4-A110-4C3C80DBC789, title :Create a versatile SMS program with Amazon Pinpoint [REPEAT], description :<p>Learn how to develop an SMS program that caters to multiple use cases using the Amazon Pinpoint SMS and Voice API. Learn about the world of SMS and discover best practices from AWS SMS experts. In this builders’ session, learn how to create, configure, and manage SMS resources as well as send SMS messages via the Amazon Pinpoint SMS and Voice API. This session includes step-by-step instructions for creating pools, opt-out lists, and event destinations; sending SMS messages; and handling failure events. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :350, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 20:30:00 -0500, 
+enddatetimeutc: November, 28 2023 20:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: 350
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Learn how to develop an SMS program that caters to multiple use cases using the Amazon Pinpoint SMS and Voice API. Learn about the world of SMS and discover best practices from AWS SMS experts. In this builders’ session, learn how to create, configure, and manage SMS resources as well as send SMS messages via the Amazon Pinpoint SMS and Voice API. This session includes step-by-step instructions for creating pools, opt-out lists, and event destinations; sending SMS messages; and handling failure events. You must bring your laptop to participate.</p>
+title: Create a versatile SMS program with Amazon Pinpoint [REPEAT]
+sessionuid: 8A4997EC-CBC0-40E4-A110-4C3C80DBC789
+thirdpartyid: BIZ305-R
+speakers: firstName_0: Pavlos, lastName_0: Ioannou Katidis, firstName_1: Matt, lastName_1: Burdick, firstName_2: Bruno, lastName_2: Giorgini, firstName_3: Dan, lastName_3: Jakel
+tag_name: Business Applications, Topic, Business Intelligence, Area of Interest, Front-End Web & Mobile, Area of Interest, Advertising & Marketing, Industry, Telecommunications, Industry, Cross Industry, Industry, 300 - Advanced, Level, Amazon Pinpoint, Services, Tuesday, Day, MGM Grand, Venue

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafleur 2
+summary: tag_name :300 - Advanced, Level, Amazon EC2 Auto Scaling, Services, Amazon Elastic Compute Cloud (EC2), Services, Data Engineer, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Application Integration, Area of Interest, Innovation on AWS, Area of Interest, Well-Architected Framework, Area of Interest, Compute, Topic, Security, Compliance, & Identity, Topic, Wednesday, Day, Wynn, Venue, , speakers :firstName_0: Sinem, lastName_0: Gulbay, firstName_1: Sudeep, lastName_1: Sharma, , thirdpartyid :CMP309, sessionuid :5D892AF2-219C-4CB1-A4A5-835420DEE324, title :Compute innovations enabled by the AWS Nitro System, description :<p>In this session, explore innovations across the AWS Nitro System such as the seventh generation Amazon EC2 compute offerings (powered by Sapphire Rapids, Genoa, and AWS Graviton3 processors). These latest offerings deliver price performance benefits, reduce latency through bare metal instances supported by single socket processors, and drive higher compute performance by disabling interconnect between CPUs and more. Learn more about customer stories and workload performance boosted by the AWS Nitro System.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Lafleur 2, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 01:30:00 -0500, 
+enddatetimeutc: November, 30 2023 01:30:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: Lafleur 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>In this session, explore innovations across the AWS Nitro System such as the seventh generation Amazon EC2 compute offerings (powered by Sapphire Rapids, Genoa, and AWS Graviton3 processors). These latest offerings deliver price performance benefits, reduce latency through bare metal instances supported by single socket processors, and drive higher compute performance by disabling interconnect between CPUs and more. Learn more about customer stories and workload performance boosted by the AWS Nitro System.</p>
+title: Compute innovations enabled by the AWS Nitro System
+sessionuid: 5D892AF2-219C-4CB1-A4A5-835420DEE324
+thirdpartyid: CMP309
+speakers: firstName_0: Sinem, lastName_0: Gulbay, firstName_1: Sudeep, lastName_1: Sharma
+tag_name: 300 - Advanced, Level, Amazon EC2 Auto Scaling, Services, Amazon Elastic Compute Cloud (EC2), Services, Data Engineer, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Application Integration, Area of Interest, Innovation on AWS, Area of Interest, Well-Architected Framework, Area of Interest, Compute, Topic, Security, Compliance, & Identity, Topic, Wednesday, Day, Wynn, Venue

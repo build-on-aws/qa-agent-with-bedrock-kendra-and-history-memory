@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 111
+summary: tag_name :Compute, Topic, Networking & Content Delivery, Topic, BuildOn.AWS, Area of Interest, Manufacturing & Industrial, Industry, Cross Industry, Industry, 300 - Advanced, Level, Data Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon API Gateway, Services, Amazon Elastic Compute Cloud (EC2), Services, Amazon Elastic Container Service (ECS), Services, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Dan, lastName_0: Cotting, firstName_1: Lauren, lastName_1: Marble, , thirdpartyid :CMP318, sessionuid :372C2C37-DBC8-470E-883B-45F9E943EC07, title :Build a spatial data lake with Visual Asset Management System, description :<p>Managing 3D data across different business units can be challenging due to authentication/access control requirements, 3D data–specific complexity, and lack of specialized talent. This workshop gives builders a hands-on look at how to use the open source Visual Asset Management System (VAMS), built by AWS, to deploy a foundation for spatial data lakes, helping business units better collaborate and use 3D data while avoiding redundancies. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 111, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Grand 111
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Managing 3D data across different business units can be challenging due to authentication/access control requirements, 3D data–specific complexity, and lack of specialized talent. This workshop gives builders a hands-on look at how to use the open source Visual Asset Management System (VAMS), built by AWS, to deploy a foundation for spatial data lakes, helping business units better collaborate and use 3D data while avoiding redundancies. You must bring your laptop to participate.</p>
+title: Build a spatial data lake with Visual Asset Management System
+sessionuid: 372C2C37-DBC8-470E-883B-45F9E943EC07
+thirdpartyid: CMP318
+speakers: firstName_0: Dan, lastName_0: Cotting, firstName_1: Lauren, lastName_1: Marble
+tag_name: Compute, Topic, Networking & Content Delivery, Topic, BuildOn.AWS, Area of Interest, Manufacturing & Industrial, Industry, Cross Industry, Industry, 300 - Advanced, Level, Data Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon API Gateway, Services, Amazon Elastic Compute Cloud (EC2), Services, Amazon Elastic Container Service (ECS), Services, Wednesday, Day, MGM Grand, Venue

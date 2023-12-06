@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 120
+summary: tag_name :Cloud Operations, Topic, Enterprise & Migration, Topic, Innovation on AWS, Area of Interest, Migration & Transfer, Area of Interest, Strategy & Transformation, Area of Interest, 100 - Foundational, Level, Thursday, Day, MGM Grand, Venue, , speakers :firstName_0: Erik, lastName_0: Satre, firstName_1: Pranav, lastName_1: Bhushan, firstName_2: Sridhar, lastName_2: Ayala, company_2: Adobe, , thirdpartyid :GDS103, sessionuid :880E7F3A-B991-43F9-93B7-DD34DDCD7D91, title :Understanding the measurable value of the cloud, description :<p>In this session, explore the value story of AWS with examples of transformational business value AWS customers have achieved and the steps they took to achieve it. Learn about research showing that the benefits of AWS adoption can surpass IT cost savings, keeping in mind that TCO is a frequently-cited driver of migrations. Learn how successful companies think about measurable business value in the cloud from migration to modernization, and what you can do to maximize the value of your cloud investments.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 120, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Grand 120
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>In this session, explore the value story of AWS with examples of transformational business value AWS customers have achieved and the steps they took to achieve it. Learn about research showing that the benefits of AWS adoption can surpass IT cost savings, keeping in mind that TCO is a frequently-cited driver of migrations. Learn how successful companies think about measurable business value in the cloud from migration to modernization, and what you can do to maximize the value of your cloud investments.</p>
+title: Understanding the measurable value of the cloud
+sessionuid: 880E7F3A-B991-43F9-93B7-DD34DDCD7D91
+thirdpartyid: GDS103
+speakers: firstName_0: Erik, lastName_0: Satre, firstName_1: Pranav, lastName_1: Bhushan, firstName_2: Sridhar, lastName_2: Ayala, company_2: Adobe
+tag_name: Cloud Operations, Topic, Enterprise & Migration, Topic, Innovation on AWS, Area of Interest, Migration & Transfer, Area of Interest, Strategy & Transformation, Area of Interest, 100 - Foundational, Level, Thursday, Day, MGM Grand, Venue

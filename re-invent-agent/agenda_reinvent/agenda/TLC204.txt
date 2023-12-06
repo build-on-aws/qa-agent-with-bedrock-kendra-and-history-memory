@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Wednesday, Day, Venetian, Venue, DevOps and Developer Productivity, Topic, AWS Marketplace, Area of Interest, Telecommunications, Industry, 200 - Intermediate, Level, Business Executive, Role, Developer/Engineer, Role, , speakers :, thirdpartyid :TLC204, sessionuid :B4719A82-CBBC-40B2-AAED-BC36624B31F1, title :Integration of telecommunications APIs with AWS, description :<p>Telcos are collaborating globally in an industry-wide initiative to expose network functionality through APIs to developers, enabling a new generation of “network-aware” applications. The GSMA Open Gateway initiative aims to offer a set of open standard APIs that enable control of network resources (such as “Quality on Demand”) and retrieval of information from networks (such as bandwidth availability, location, or contextual information of users and devices) that can be consumed by developers to elevate the value of their applications. In this lightning talk, learn how AWS, in collaboration with telcos, can simplify the developer experience and integrate telecommunications APIs into global applications at scale.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 29 2023 23:20:00 -0500, 
+enddatetimeutc: November, 29 2023 23:20:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Telcos are collaborating globally in an industry-wide initiative to expose network functionality through APIs to developers, enabling a new generation of “network-aware” applications. The GSMA Open Gateway initiative aims to offer a set of open standard APIs that enable control of network resources (such as “Quality on Demand”) and retrieval of information from networks (such as bandwidth availability, location, or contextual information of users and devices) that can be consumed by developers to elevate the value of their applications. In this lightning talk, learn how AWS, in collaboration with telcos, can simplify the developer experience and integrate telecommunications APIs into global applications at scale.</p>
+title: Integration of telecommunications APIs with AWS
+sessionuid: B4719A82-CBBC-40B2-AAED-BC36624B31F1
+thirdpartyid: TLC204
+speakers: 
+tag_name: Wednesday, Day, Venetian, Venue, DevOps and Developer Productivity, Topic, AWS Marketplace, Area of Interest, Telecommunications, Industry, 200 - Intermediate, Level, Business Executive, Role, Developer/Engineer, Role

@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific F
+summary: tag_name :AWS Systems Manager, Services, SAP, Area of Interest, Monday, Day, Mandalay Bay, Venue, Cross Industry, Industry, AWS Launch Wizard, Services, AWS Backup, Services, 300 - Advanced, Level, Enterprise & Migration, Topic, , speakers :firstName_0: Sreenath, lastName_0: Middhi, firstName_1: Sunil, lastName_1: Yadav, , thirdpartyid :ENT312, sessionuid :A417E2DA-3668-4E5F-89E6-052AF24F167E, title :Deploy and optimize SAP on AWS with DevOps, description :<p>In this workshop, learn how to quickly deploy and scale an SAP S/4HANA system in accordance with AWS and SAP best practices. Then, learn how to add application servers to address an increase in capacity requirements. Additionally, discover how to programmatically deploy and operate SAP applications using familiar DevOps tools and practices. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific F, startdatetimeutc :November, 27 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 22:00:00 -0500
+locationname: South Pacific F
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: <p>In this workshop, learn how to quickly deploy and scale an SAP S/4HANA system in accordance with AWS and SAP best practices. Then, learn how to add application servers to address an increase in capacity requirements. Additionally, discover how to programmatically deploy and operate SAP applications using familiar DevOps tools and practices. You must bring your laptop to participate.</p>
+title: Deploy and optimize SAP on AWS with DevOps
+sessionuid: A417E2DA-3668-4E5F-89E6-052AF24F167E
+thirdpartyid: ENT312
+speakers: firstName_0: Sreenath, lastName_0: Middhi, firstName_1: Sunil, lastName_1: Yadav
+tag_name: AWS Systems Manager, Services, SAP, Area of Interest, Monday, Day, Mandalay Bay, Venue, Cross Industry, Industry, AWS Launch Wizard, Services, AWS Backup, Services, 300 - Advanced, Level, Enterprise & Migration, Topic

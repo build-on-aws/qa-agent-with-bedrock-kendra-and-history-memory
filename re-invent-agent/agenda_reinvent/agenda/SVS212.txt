@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Amazon Simple Queue Service (SQS), Services, Amazon Simple Notification Service (SNS), Services, Monday, Day, Venetian, Venue, Developer/Engineer, Role, Tech Explorer, Role, Solution/Systems Architect, Role, AWS Lambda, Services, Architecture, Topic, Serverless Compute, Topic, Application Integration, Area of Interest, 200 - Intermediate, Level, , speakers :firstName_0: VInodh Kannan, lastName_0: Sadayamuthu, firstName_1: Zainab, lastName_1: Allawi, , thirdpartyid :SVS212, sessionuid :ABDFE6B2-2655-4F0D-AFFD-EA63F46C921B, title :Using AWS Lambda to process Amazon SQS and Amazon SNS messages, description :In this follow-up demonstration to SVS305, learn how to use AWS SAM, an open source framework for building serverless applications, to efficiently process messages from Amazon SQS and Amazon SNS using AWS Lambda functions. Explore how AWS SAM simplifies developer workflows to connect and authorize Lambda function event sources., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 00:50:00 -0500, 
+enddatetimeutc: November, 28 2023 00:50:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: In this follow-up demonstration to SVS305, learn how to use AWS SAM, an open source framework for building serverless applications, to efficiently process messages from Amazon SQS and Amazon SNS using AWS Lambda functions. Explore how AWS SAM simplifies developer workflows to connect and authorize Lambda function event sources
+title: Using AWS Lambda to process Amazon SQS and Amazon SNS messages
+sessionuid: ABDFE6B2-2655-4F0D-AFFD-EA63F46C921B
+thirdpartyid: SVS212
+speakers: firstName_0: VInodh Kannan, lastName_0: Sadayamuthu, firstName_1: Zainab, lastName_1: Allawi
+tag_name: Amazon Simple Queue Service (SQS), Services, Amazon Simple Notification Service (SNS), Services, Monday, Day, Venetian, Venue, Developer/Engineer, Role, Tech Explorer, Role, Solution/Systems Architect, Role, AWS Lambda, Services, Architecture, Topic, Serverless Compute, Topic, Application Integration, Area of Interest, 200 - Intermediate, Level

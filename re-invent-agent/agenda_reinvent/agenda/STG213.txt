@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 301
+summary: tag_name :Solution/Systems Architect, Role, IT Administrator, Role, Cross Industry, Industry, Amazon Simple Storage Service (S3), Services, Well-Architected Framework, Area of Interest, Financial Services, Industry, Security, Compliance, & Identity, Topic, Monday, Day, MGM Grand, Venue, Storage, Topic, Network & Infrastructure Security, Area of Interest, IT Professional/Technical Manager, Role, Media & Entertainment, Industry, Application Security, Area of Interest, 200 - Intermediate, Level, , speakers :firstName_0: Sally, lastName_0: Guo, firstName_1: Will, lastName_1: Cavin, , thirdpartyid :STG213-R, sessionuid :600089D7-05FE-4AD2-8E6C-142C312A6ED2, title :Amazon S3 encryption best practices [REPEAT], description :<p>Strong adherence to architecture best practices and proactive controls are the foundations of data security. In this chalk talk, learn best practices for securing your data client-side, server-side, and in transit with Amazon S3 encryption options. Dive in to managing your organization’s data encryption preferences using AWS Identity and Access Management (IAM) policies and S3 bucket policies. In addition, learn how to audit your organization’s encryption profile across Amazon S3.</p>, sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :301, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: 301
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: <p>Strong adherence to architecture best practices and proactive controls are the foundations of data security. In this chalk talk, learn best practices for securing your data client-side, server-side, and in transit with Amazon S3 encryption options. Dive in to managing your organization’s data encryption preferences using AWS Identity and Access Management (IAM) policies and S3 bucket policies. In addition, learn how to audit your organization’s encryption profile across Amazon S3.</p>
+title: Amazon S3 encryption best practices [REPEAT]
+sessionuid: 600089D7-05FE-4AD2-8E6C-142C312A6ED2
+thirdpartyid: STG213-R
+speakers: firstName_0: Sally, lastName_0: Guo, firstName_1: Will, lastName_1: Cavin
+tag_name: Solution/Systems Architect, Role, IT Administrator, Role, Cross Industry, Industry, Amazon Simple Storage Service (S3), Services, Well-Architected Framework, Area of Interest, Financial Services, Industry, Security, Compliance, & Identity, Topic, Monday, Day, MGM Grand, Venue, Storage, Topic, Network & Infrastructure Security, Area of Interest, IT Professional/Technical Manager, Role, Media & Entertainment, Industry, Application Security, Area of Interest, 200 - Intermediate, Level

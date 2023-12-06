@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 220
+summary: tag_name :AWS Marketplace, Services, AWS Marketplace, Area of Interest, 200 - Intermediate, Level, Tuesday, Day, Caesars Forum, Venue, Partner Enablement, Topic, , speakers :firstName_0: Salvador, lastName_0: Lopez Beneyto, firstName_1: Shaurya, lastName_1: Kalsi, , thirdpartyid :PEX209, sessionuid :42DEED32-28B5-4B9F-A19F-12C0A3C5C1B0, title :Maximize the potential of your AWS Marketplace listings, description :Every year, millions of unique visitors come to AWS Marketplace searching for products, but not all of them end up converting. In this chalk talk, learn about best practices that sellers can perform to optimize their AWS Marketplace product listings. See what strategies and content are needed for buyers to more easily discover and evaluate your products, helping you drive higher conversion rates. This chalk talk is intended for AWS Partners., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 220, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: Summit 220
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Every year, millions of unique visitors come to AWS Marketplace searching for products, but not all of them end up converting. In this chalk talk, learn about best practices that sellers can perform to optimize their AWS Marketplace product listings. See what strategies and content are needed for buyers to more easily discover and evaluate your products, helping you drive higher conversion rates. This chalk talk is intended for AWS Partners
+title: Maximize the potential of your AWS Marketplace listings
+sessionuid: 42DEED32-28B5-4B9F-A19F-12C0A3C5C1B0
+thirdpartyid: PEX209
+speakers: firstName_0: Salvador, lastName_0: Lopez Beneyto, firstName_1: Shaurya, lastName_1: Kalsi
+tag_name: AWS Marketplace, Services, AWS Marketplace, Area of Interest, 200 - Intermediate, Level, Tuesday, Day, Caesars Forum, Venue, Partner Enablement, Topic

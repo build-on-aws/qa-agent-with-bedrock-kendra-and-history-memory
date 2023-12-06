@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 216
+summary: tag_name :DevOps Engineer, Role, Amazon DevOps Guru, Services, DevOps and Developer Productivity, Topic, Monday, Day, Caesars Forum, Venue, 300 - Advanced, Level, , speakers :firstName_0: Jonathan, lastName_0: Vogel, firstName_1: Pablo, lastName_1: Silva, , thirdpartyid :DOP301, sessionuid :0ACF0B77-135A-4AE7-B870-83E6AC2E5148, title :Boost your application availability with AIOps on AWS, description :As applications become increasingly distributed and complex, developers and IT operations teams can benefit from more automated practices to maintain application availability and reduce the time and effort spent detecting, debugging, and resolving operational issues manually. In this workshop, learn how AWS AIOps solutions can help you make the shift toward more automation and proactive mechanisms so your IT team can innovate faster. The workshop includes use cases spanning multiple AWS services such as AWS Lambda, Amazon DynamoDB, Amazon API Gateway, Amazon RDS, and Amazon EKS. Learn how you can reduce MTTR and quickly identify issues within your AWS infrastructure. You must bring your laptop to participate., sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 216, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 18:30:00 -0500, 
+enddatetimeutc: November, 27 2023 18:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: Summit 216
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: As applications become increasingly distributed and complex, developers and IT operations teams can benefit from more automated practices to maintain application availability and reduce the time and effort spent detecting, debugging, and resolving operational issues manually. In this workshop, learn how AWS AIOps solutions can help you make the shift toward more automation and proactive mechanisms so your IT team can innovate faster. The workshop includes use cases spanning multiple AWS services such as AWS Lambda, Amazon DynamoDB, Amazon API Gateway, Amazon RDS, and Amazon EKS. Learn how you can reduce MTTR and quickly identify issues within your AWS infrastructure. You must bring your laptop to participate
+title: Boost your application availability with AIOps on AWS
+sessionuid: 0ACF0B77-135A-4AE7-B870-83E6AC2E5148
+thirdpartyid: DOP301
+speakers: firstName_0: Jonathan, lastName_0: Vogel, firstName_1: Pablo, lastName_1: Silva
+tag_name: DevOps Engineer, Role, Amazon DevOps Guru, Services, DevOps and Developer Productivity, Topic, Monday, Day, Caesars Forum, Venue, 300 - Advanced, Level

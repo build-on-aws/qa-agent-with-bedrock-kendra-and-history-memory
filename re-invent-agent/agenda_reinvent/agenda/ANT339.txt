@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 1
+summary: tag_name :300 - Advanced, Level, Open Source, Area of Interest, Serverless Compute, Topic, Solution/Systems Architect, Role, Developer/Engineer, Role, AWS Lake Formation, Services, Amazon EMR Serverless, Services, Wednesday, Day, Wynn, Venue, Data Engineer, Role, Analytics, Topic, , speakers :firstName_0: Behram, lastName_0: Irani, firstName_1: Karthik, lastName_1: Prabhakar, firstName_2: Ozcan, lastName_2: ILIKHAN, company_2: Godaddy, , thirdpartyid :ANT339, sessionuid :A0B0938C-547B-410A-A9CD-19D3F108F347, title :Optimizing Apache Spark workloads with Amazon EMR Serverless, description :Enterprises aim to build comprehensive data platforms that serve their data engineering divisions. Discover how AWS customers simplify infrastructure complexities, scale swiftly, and build fault-tolerant multi-AZ Apache Spark and Apache Hive applications with Amazon EMR Serverless. This chalk talk dives deep into how AWS customers bring the reliability of SQL to big data using open table formats such as Apache Iceberg and enforce fine-grained access controls with AWS Lake Formation., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 1, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Lafite 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Enterprises aim to build comprehensive data platforms that serve their data engineering divisions. Discover how AWS customers simplify infrastructure complexities, scale swiftly, and build fault-tolerant multi-AZ Apache Spark and Apache Hive applications with Amazon EMR Serverless. This chalk talk dives deep into how AWS customers bring the reliability of SQL to big data using open table formats such as Apache Iceberg and enforce fine-grained access controls with AWS Lake Formation
+title: Optimizing Apache Spark workloads with Amazon EMR Serverless
+sessionuid: A0B0938C-547B-410A-A9CD-19D3F108F347
+thirdpartyid: ANT339
+speakers: firstName_0: Behram, lastName_0: Irani, firstName_1: Karthik, lastName_1: Prabhakar, firstName_2: Ozcan, lastName_2: ILIKHAN, company_2: Godaddy
+tag_name: 300 - Advanced, Level, Open Source, Area of Interest, Serverless Compute, Topic, Solution/Systems Architect, Role, Developer/Engineer, Role, AWS Lake Formation, Services, Amazon EMR Serverless, Services, Wednesday, Day, Wynn, Venue, Data Engineer, Role, Analytics, Topic

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 117
+summary: tag_name :Cross Industry, Industry, AI/ML, Topic, 200 - Intermediate, Level, Generative AI, Area of Interest, Amazon Inspector Classic, Services, Developer/Engineer, Role, Security, Compliance, & Identity, Topic, Wednesday, Day, MGM Grand, Venue, DevOps Engineer, Role, Amazon CodeWhisperer, Services, Cloud Security Specialist, Role, Monitoring & Observability, Area of Interest, Threat Detection & Incident Response, Area of Interest, , speakers :firstName_0: Rebecca, lastName_0: Meads, firstName_1: Naufal, lastName_1: Mir, , thirdpartyid :SEC202, sessionuid :B2F8DC94-DC3F-44D7-A030-B9C339F503D0, title :Prevent, detect & automatically remediate vulnerabilities in code, description :Vulnerabilities can be prevented and managed throughout the lifecycle of a project. In this workshop, learn how to manage vulnerabilities at every stage of the project lifecycle using AWS. Threat modeling, generative AI, build pipelines, and vulnerability management tools all play a part in vulnerability management. Discover how you can use all of these services together to build an end-to-end architecture for preventing, detecting, and automatically remediating vulnerabilities in code. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 117, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 00:30:00 -0500, 
+enddatetimeutc: November, 30 2023 00:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Grand 117
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: Vulnerabilities can be prevented and managed throughout the lifecycle of a project. In this workshop, learn how to manage vulnerabilities at every stage of the project lifecycle using AWS. Threat modeling, generative AI, build pipelines, and vulnerability management tools all play a part in vulnerability management. Discover how you can use all of these services together to build an end-to-end architecture for preventing, detecting, and automatically remediating vulnerabilities in code. You must bring your laptop to participate
+title: Prevent, detect & automatically remediate vulnerabilities in code
+sessionuid: B2F8DC94-DC3F-44D7-A030-B9C339F503D0
+thirdpartyid: SEC202
+speakers: firstName_0: Rebecca, lastName_0: Meads, firstName_1: Naufal, lastName_1: Mir
+tag_name: Cross Industry, Industry, AI/ML, Topic, 200 - Intermediate, Level, Generative AI, Area of Interest, Amazon Inspector Classic, Services, Developer/Engineer, Role, Security, Compliance, & Identity, Topic, Wednesday, Day, MGM Grand, Venue, DevOps Engineer, Role, Amazon CodeWhisperer, Services, Cloud Security Specialist, Role, Monitoring & Observability, Area of Interest, Threat Detection & Incident Response, Area of Interest

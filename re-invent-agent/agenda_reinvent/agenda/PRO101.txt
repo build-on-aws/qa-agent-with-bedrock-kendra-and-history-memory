@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Oceanside C
+summary: tag_name :DevOps and Developer Productivity, Topic, Enterprise & Migration, Topic, Resilience, Area of Interest, Well-Architected Framework, Area of Interest, Modernization, Area of Interest, Media & Entertainment, Industry, Telecommunications, Industry, 100 - Foundational, Level, Business Executive, Role, DevOps Engineer, Role, IT Executive, Role, Amazon Aurora, Services, Amazon Elastic Kubernetes Service (EKS), Services, AWS Lambda, Services, Monday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Heejong, lastName_0: Lee, firstName_1: Sunae, lastName_1: Seo, company_1: LG U+, firstName_2: YoungBu, lastName_2: Bae, , thirdpartyid :PRO101, sessionuid :12F0312B-3663-476D-9E38-58FC0A6CF117, title :Seamless modernization and migration of media services with LG U+, description :<p>Application modernization and migration with zero service disruptions requires careful planning with appropriate strategy and best practices. LG U+ collaborated with AWS Professional Services to apply best practices and define a strategy for the modernization and migration of their IPTV media services. In this session, you learn about some of the key patterns that helped LG U+ perform a seamless cutover from legacy services to AWS.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Oceanside C, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Oceanside C
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Application modernization and migration with zero service disruptions requires careful planning with appropriate strategy and best practices. LG U+ collaborated with AWS Professional Services to apply best practices and define a strategy for the modernization and migration of their IPTV media services. In this session, you learn about some of the key patterns that helped LG U+ perform a seamless cutover from legacy services to AWS.</p>
+title: Seamless modernization and migration of media services with LG U+
+sessionuid: 12F0312B-3663-476D-9E38-58FC0A6CF117
+thirdpartyid: PRO101
+speakers: firstName_0: Heejong, lastName_0: Lee, firstName_1: Sunae, lastName_1: Seo, company_1: LG U+, firstName_2: YoungBu, lastName_2: Bae
+tag_name: DevOps and Developer Productivity, Topic, Enterprise & Migration, Topic, Resilience, Area of Interest, Well-Architected Framework, Area of Interest, Modernization, Area of Interest, Media & Entertainment, Industry, Telecommunications, Industry, 100 - Foundational, Level, Business Executive, Role, DevOps Engineer, Role, IT Executive, Role, Amazon Aurora, Services, Amazon Elastic Kubernetes Service (EKS), Services, AWS Lambda, Services, Monday, Day, Mandalay Bay, Venue

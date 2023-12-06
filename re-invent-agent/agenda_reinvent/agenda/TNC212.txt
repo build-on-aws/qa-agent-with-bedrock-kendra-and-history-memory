@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Lagoon L
+summary: tag_name :Cloud Security Specialist, Role, Network & Infrastructure Security, Area of Interest, System Administrator, Role, Networking & Content Delivery, Topic, 200 - Intermediate, Level, Training & Certification, Topic, Amazon Virtual Private Cloud (VPC), Services, Thursday, Day, Mandalay Bay, Venue, Solution/Systems Architect, Role, Cross Industry, Industry, VPC Reachability Analyzer, Services, , speakers :firstName_0: Richard, lastName_0: Colborne, , thirdpartyid :TNC212, sessionuid :123A8287-E57C-431B-A070-C1C89D74049E, title :Working with Amazon VPC Network Access Analyzer, description :In this lab, learn how to use the Network Access Analyzer feature in Amazon VPC. Discover how this feature can help you understand, verify, and improve your network security posture., sessiontype :Lab, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Lagoon L, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Lagoon L
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Lab
+description: In this lab, learn how to use the Network Access Analyzer feature in Amazon VPC. Discover how this feature can help you understand, verify, and improve your network security posture
+title: Working with Amazon VPC Network Access Analyzer
+sessionuid: 123A8287-E57C-431B-A070-C1C89D74049E
+thirdpartyid: TNC212
+speakers: firstName_0: Richard, lastName_0: Colborne
+tag_name: Cloud Security Specialist, Role, Network & Infrastructure Security, Area of Interest, System Administrator, Role, Networking & Content Delivery, Topic, 200 - Intermediate, Level, Training & Certification, Topic, Amazon Virtual Private Cloud (VPC), Services, Thursday, Day, Mandalay Bay, Venue, Solution/Systems Architect, Role, Cross Industry, Industry, VPC Reachability Analyzer, Services

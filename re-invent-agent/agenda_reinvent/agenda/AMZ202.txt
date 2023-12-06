@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :Developer/Engineer, Role, Amazon SageMaker, Services, 200 - Intermediate, Level, Manufacturing & Industrial, Industry, Wednesday, Day, Mandalay Bay, Venue, AI/ML, Topic, AWS IoT Greengrass, Services, Consumer Packaged Goods, Industry, , speakers :firstName_0: Garry, lastName_0: Galinsky, firstName_1: Nat, lastName_1: Natarajan, , thirdpartyid :AMZ202, sessionuid :4F876A04-1235-451D-9B43-317241A4370D, title :Applying AI and computer vision to detect damaged product, description :Amazon uses the power of computer vision and AI to mitigate and identify package damage before items are shipped to customers. Amazon handles more than 8 billion packages annually and estimates that fewer than 1 in 1,000 packages are damaged. There is an opportunity to reduce this number, improving customer experience and decreasing replacement and shipping costs. Amazon has implemented computer vision technology and AI to assess for item damage during the picking and packing stages. In this chalk talk, hear how Amazon trains its AI models using Amazon SageMaker, labels product images using Amazon SageMaker Ground Truth, and implements inference in real time using AWS IoT Greengrass., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: Amazon uses the power of computer vision and AI to mitigate and identify package damage before items are shipped to customers. Amazon handles more than 8 billion packages annually and estimates that fewer than 1 in 1,000 packages are damaged. There is an opportunity to reduce this number, improving customer experience and decreasing replacement and shipping costs. Amazon has implemented computer vision technology and AI to assess for item damage during the picking and packing stages. In this chalk talk, hear how Amazon trains its AI models using Amazon SageMaker, labels product images using Amazon SageMaker Ground Truth, and implements inference in real time using AWS IoT Greengrass
+title: Applying AI and computer vision to detect damaged product
+sessionuid: 4F876A04-1235-451D-9B43-317241A4370D
+thirdpartyid: AMZ202
+speakers: firstName_0: Garry, lastName_0: Galinsky, firstName_1: Nat, lastName_1: Natarajan
+tag_name: Developer/Engineer, Role, Amazon SageMaker, Services, 200 - Intermediate, Level, Manufacturing & Industrial, Industry, Wednesday, Day, Mandalay Bay, Venue, AI/ML, Topic, AWS IoT Greengrass, Services, Consumer Packaged Goods, Industry

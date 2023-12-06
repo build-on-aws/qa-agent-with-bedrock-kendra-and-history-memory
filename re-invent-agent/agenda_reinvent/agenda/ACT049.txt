@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1280
+summary: tag_name :Inclusion & Diversity, Area of Interest, Wednesday, Day, Venetian, Venue, PeerTalks, Additional Services, , speakers :, thirdpartyid :ACT049, sessionuid :0B7BC1AF-E464-48C2-BADF-79B7241B4FAE, title :Latinos in Tech fireside chat and meetup, description :Join the Latinos at Amazon affinity group in the All Builders Welcome Lounge to connect with global leaders and members, learn more about key initiatives, and network with fellow re:Invent attendees., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1280, startdatetimeutc :November, 29 2023 22:00:00 -0500, enddatetimeutc :November, 29 2023 23:00:00 -0500, 
+enddatetimeutc: November, 29 2023 23:00:00 -0500
+startdatetimeutc: November, 29 2023 22:00:00 -0500
+locationname: Hall B, Expo, Booth #1280
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Join the Latinos at Amazon affinity group in the All Builders Welcome Lounge to connect with global leaders and members, learn more about key initiatives, and network with fellow re:Invent attendees
+title: Latinos in Tech fireside chat and meetup
+sessionuid: 0B7BC1AF-E464-48C2-BADF-79B7241B4FAE
+thirdpartyid: ACT049
+speakers: 
+tag_name: Inclusion & Diversity, Area of Interest, Wednesday, Day, Venetian, Venue, PeerTalks, Additional Services

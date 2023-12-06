@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Summit Showroom
+summary: tag_name :Threat Detection & Incident Response, Area of Interest, Monitoring & Observability, Area of Interest, 200 - Intermediate, Level, Cloud Security Specialist, Role, Healthcare, Industry, DevOps Engineer, Role, Government, Industry, Tuesday, Day, Venetian, Venue, Security, Compliance, & Identity, Topic, Application Security, Area of Interest, Financial Services, Industry, , speakers :firstName_0: Andrew, lastName_0: Capobianco, company_0: Tally, firstName_1: Andrew, lastName_1: Krug, company_1: Datadog, , thirdpartyid :SEC232-S, sessionuid :DF38AD1B-9465-432C-B9BB-98C9F6538564, title :Automating reporting on compliance controls at cloud scale (sponsored by Datadog), description :Compliance controls are often vague and don’t always translate well to cloud-native stacks. It’s essential that engineering teams aren’t slowed down and kept wondering if their changes will be compliant. Join this session to hear how Datadog CSM helped enable automated compliance validation of changes at Tally as they were rolled out. This presentation is brought to you by Datadog, an AWS Partner., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Summit Showroom, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Summit Showroom
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: Compliance controls are often vague and don’t always translate well to cloud-native stacks. It’s essential that engineering teams aren’t slowed down and kept wondering if their changes will be compliant. Join this session to hear how Datadog CSM helped enable automated compliance validation of changes at Tally as they were rolled out. This presentation is brought to you by Datadog, an AWS Partner
+title: Automating reporting on compliance controls at cloud scale (sponsored by Datadog)
+sessionuid: DF38AD1B-9465-432C-B9BB-98C9F6538564
+thirdpartyid: SEC232-S
+speakers: firstName_0: Andrew, lastName_0: Capobianco, company_0: Tally, firstName_1: Andrew, lastName_1: Krug, company_1: Datadog
+tag_name: Threat Detection & Incident Response, Area of Interest, Monitoring & Observability, Area of Interest, 200 - Intermediate, Level, Cloud Security Specialist, Role, Healthcare, Industry, DevOps Engineer, Role, Government, Industry, Tuesday, Day, Venetian, Venue, Security, Compliance, & Identity, Topic, Application Security, Area of Interest, Financial Services, Industry

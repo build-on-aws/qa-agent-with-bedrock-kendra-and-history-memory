@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 115
+summary: tag_name :Open Source, Area of Interest, Databases, Topic, Analytics, Topic, 400 - Expert, Level, Thursday, Day, MGM Grand, Venue, Data Engineer, Role, DevOps Engineer, Role, Developer/Engineer, Role, Amazon Managed Service for Apache Flink, Services, , speakers :firstName_0: Francisco, lastName_0: Morillo, firstName_1: Ali, lastName_1: Alemi, , thirdpartyid :OPN402, sessionuid :BA044F89-5A92-476E-9DB9-9E5E4186E53E, title :Break down data silos using real-time synchronization with Flink CDC, description :Having multiple data silos causes data to be in different sources across the organization, which can make it difficult to perform analytics and democratize access to your data. To be able to bring all of your data into one place, you may need to set up different streams, batch jobs, or additional CDC components, which can add complexity to your architecture. In this session, explore how, by just using Flink CDC on AWS, you can simplify real-time synchronization and ingestion across transactional DBs and finally break down data silos., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 115, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: Grand 115
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Having multiple data silos causes data to be in different sources across the organization, which can make it difficult to perform analytics and democratize access to your data. To be able to bring all of your data into one place, you may need to set up different streams, batch jobs, or additional CDC components, which can add complexity to your architecture. In this session, explore how, by just using Flink CDC on AWS, you can simplify real-time synchronization and ingestion across transactional DBs and finally break down data silos
+title: Break down data silos using real-time synchronization with Flink CDC
+sessionuid: BA044F89-5A92-476E-9DB9-9E5E4186E53E
+thirdpartyid: OPN402
+speakers: firstName_0: Francisco, lastName_0: Morillo, firstName_1: Ali, lastName_1: Alemi
+tag_name: Open Source, Area of Interest, Databases, Topic, Analytics, Topic, 400 - Expert, Level, Thursday, Day, MGM Grand, Venue, Data Engineer, Role, DevOps Engineer, Role, Developer/Engineer, Role, Amazon Managed Service for Apache Flink, Services

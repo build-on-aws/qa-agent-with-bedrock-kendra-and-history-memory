@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 169
+summary: tag_name :Resilience, Area of Interest, Disaster Response & Recovery, Area of Interest, Developer/Engineer, Role, Cross Industry, Industry, Architecture, Topic, AWS Fault Injector Service (FIS), Services, AWS Resilience Hub, Services, Monday, Day, MGM Grand, Venue, 300 - Advanced, Level, DevOps Engineer, Role, Solution/Systems Architect, Role, , speakers :firstName_0: Bruno, lastName_0: Emer, firstName_1: Jason, lastName_1: Barto, , thirdpartyid :ARC314, sessionuid :0DB41425-4253-4DE6-BC27-2098AD2340C2, title :Anticipating failures with resilience modeling, description :AWS customers are using resilience modeling to anticipate disruptions and prevent incidents. In creating a resilience model, teams anticipate what can disrupt their system, understand what controls they have in place to detect and prevent that disruption, and then develop an improvement plan to address any gaps. The resulting resilience model becomes a list of hypotheses that can then be tested as chaos experiments. Join this session to learn more about the resilience modeling process and hear anecdotes of AWS customer experiences and the benefits these customers have realized through resilience modeling., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 169, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Boulevard 169
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: AWS customers are using resilience modeling to anticipate disruptions and prevent incidents. In creating a resilience model, teams anticipate what can disrupt their system, understand what controls they have in place to detect and prevent that disruption, and then develop an improvement plan to address any gaps. The resulting resilience model becomes a list of hypotheses that can then be tested as chaos experiments. Join this session to learn more about the resilience modeling process and hear anecdotes of AWS customer experiences and the benefits these customers have realized through resilience modeling
+title: Anticipating failures with resilience modeling
+sessionuid: 0DB41425-4253-4DE6-BC27-2098AD2340C2
+thirdpartyid: ARC314
+speakers: firstName_0: Bruno, lastName_0: Emer, firstName_1: Jason, lastName_1: Barto
+tag_name: Resilience, Area of Interest, Disaster Response & Recovery, Area of Interest, Developer/Engineer, Role, Cross Industry, Industry, Architecture, Topic, AWS Fault Injector Service (FIS), Services, AWS Resilience Hub, Services, Monday, Day, MGM Grand, Venue, 300 - Advanced, Level, DevOps Engineer, Role, Solution/Systems Architect, Role

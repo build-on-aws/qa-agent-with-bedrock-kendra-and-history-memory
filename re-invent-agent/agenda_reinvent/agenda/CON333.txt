@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :DevOps Engineer, Role, Global Infrastructure, Area of Interest, IT Professional/Technical Manager, Role, Cloud Operations, Topic, Amazon Elastic Kubernetes Service (EKS), Services, 300 - Advanced, Level, Kubernetes, Topic, Thursday, Day, Mandalay Bay, Venue, Cross Industry, Industry, Developer/Engineer, Role, , speakers :firstName_0: Carlos, lastName_0: Santana, firstName_1: Christina, lastName_1: Andonov, , thirdpartyid :CON333, sessionuid :2B079529-E1D1-436E-A90E-AF4B0E89A3FB, title :Extending the Kubernetes API to provision AWS services, description :<p>Organizations using Kubernetes have created self-service tools for developers to manage containerized applications and are starting to use these same tools to provision AWS services such as Amazon RDS, Amazon SQS, and others. Join this chalk talk to see a demo of how GitOps tools like AWS Controllers for Kubernetes (ACK) and Crossplane can extend the Kubernetes API to achieve this. Explore a solution from both the developer and platform engineer perspectives while GitOps ensures that the development environment remains in the desired state. Join this talk to explore what’s possible!</p>, sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: <p>Organizations using Kubernetes have created self-service tools for developers to manage containerized applications and are starting to use these same tools to provision AWS services such as Amazon RDS, Amazon SQS, and others. Join this chalk talk to see a demo of how GitOps tools like AWS Controllers for Kubernetes (ACK) and Crossplane can extend the Kubernetes API to achieve this. Explore a solution from both the developer and platform engineer perspectives while GitOps ensures that the development environment remains in the desired state. Join this talk to explore what’s possible!</p>
+title: Extending the Kubernetes API to provision AWS services
+sessionuid: 2B079529-E1D1-436E-A90E-AF4B0E89A3FB
+thirdpartyid: CON333
+speakers: firstName_0: Carlos, lastName_0: Santana, firstName_1: Christina, lastName_1: Andonov
+tag_name: DevOps Engineer, Role, Global Infrastructure, Area of Interest, IT Professional/Technical Manager, Role, Cloud Operations, Topic, Amazon Elastic Kubernetes Service (EKS), Services, 300 - Advanced, Level, Kubernetes, Topic, Thursday, Day, Mandalay Bay, Venue, Cross Industry, Industry, Developer/Engineer, Role

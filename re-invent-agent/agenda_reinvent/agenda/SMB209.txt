@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Business Applications, Topic, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Wednesday, Day, Venetian, Venue, , speakers :firstName_0: Umar, lastName_0: Saeed, , thirdpartyid :SMB209, sessionuid :FF59BDDF-F639-4DD6-97F0-29657E42BF3E, title :Application modernization: Overcome Day 2 challenges with containers, description :<p>Are you facing challenges with Day 2 operations in your Amazon ECS or Amazon EKS environment? In this lightning talk, learn how AWS solutions architects and AWS Partners are helping organizations overcome Day 2 operational challenges with their containers environments through a Containers Excellence Program (CEP) engagement. Get an overview of the CEP engagement process and hear case studies on how CEP engagements have successfully helped AWS customers address Day 2 operational challenges.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 30 2023 01:00:00 -0500, enddatetimeutc :November, 30 2023 01:20:00 -0500, 
+enddatetimeutc: November, 30 2023 01:20:00 -0500
+startdatetimeutc: November, 30 2023 01:00:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Are you facing challenges with Day 2 operations in your Amazon ECS or Amazon EKS environment? In this lightning talk, learn how AWS solutions architects and AWS Partners are helping organizations overcome Day 2 operational challenges with their containers environments through a Containers Excellence Program (CEP) engagement. Get an overview of the CEP engagement process and hear case studies on how CEP engagements have successfully helped AWS customers address Day 2 operational challenges.</p>
+title: Application modernization: Overcome Day 2 challenges with containers
+sessionuid: FF59BDDF-F639-4DD6-97F0-29657E42BF3E
+thirdpartyid: SMB209
+speakers: firstName_0: Umar, lastName_0: Saeed
+tag_name: Business Applications, Topic, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Wednesday, Day, Venetian, Venue

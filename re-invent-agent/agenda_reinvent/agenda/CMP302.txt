@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 312
+summary: tag_name :Tuesday, Day, MGM Grand, Venue, Data Scientist, Role, Cost Optimization, Area of Interest, Innovation on AWS, Area of Interest, Compute, Topic, Cross Industry, Industry, Generative AI, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, AI/ML, Topic, 300 - Advanced, Level, , speakers :firstName_0: Alex, lastName_0: Iankoulski, firstName_1: KC, lastName_1: Tung, , thirdpartyid :CMP302-R, sessionuid :FF1D16AC-DC27-48E3-A395-D7EC41E11780, title :Fine-tune & deploy Stable Diffusion on AWS Trainium & AWS Inferentia [REPEAT], description :<p>Stable Diffusion is an innovative foundation model that lets you generate images from a text prompt. Stable Diffusion models can be fine-tuned and deployed using AWS Trainium and AWS Inferentia2, which provide up to 50% savings on training costs and up to 40% lower cost per inference. In this workshop, learn how to fine-tune a leading Stable Diffusion model on Trainium and then deploy it on Inferentia2 to create a custom character. The session covers how to use the Optimum Neuron interface from Hugging Face to generate 1,000 images for under 50 cents. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 312, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 29 2023 00:00:00 -0500, 
+enddatetimeutc: November, 29 2023 00:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Premier 312
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>Stable Diffusion is an innovative foundation model that lets you generate images from a text prompt. Stable Diffusion models can be fine-tuned and deployed using AWS Trainium and AWS Inferentia2, which provide up to 50% savings on training costs and up to 40% lower cost per inference. In this workshop, learn how to fine-tune a leading Stable Diffusion model on Trainium and then deploy it on Inferentia2 to create a custom character. The session covers how to use the Optimum Neuron interface from Hugging Face to generate 1,000 images for under 50 cents. You must bring your laptop to participate.</p>
+title: Fine-tune & deploy Stable Diffusion on AWS Trainium & AWS Inferentia [REPEAT]
+sessionuid: FF1D16AC-DC27-48E3-A395-D7EC41E11780
+thirdpartyid: CMP302-R
+speakers: firstName_0: Alex, lastName_0: Iankoulski, firstName_1: KC, lastName_1: Tung
+tag_name: Tuesday, Day, MGM Grand, Venue, Data Scientist, Role, Cost Optimization, Area of Interest, Innovation on AWS, Area of Interest, Compute, Topic, Cross Industry, Industry, Generative AI, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, AI/ML, Topic, 300 - Advanced, Level

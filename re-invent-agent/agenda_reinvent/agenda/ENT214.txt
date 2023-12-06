@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 320
+summary: tag_name :Business Executive, Role, 200 - Intermediate, Level, Cross Industry, Industry, Generative AI, Area of Interest, IT Executive, Role, Oracle, Area of Interest, Monday, Day, MGM Grand, Venue, Amazon Relational Database Service (RDS), Services, AWS IoT Analytics, Services, Enterprise & Migration, Topic, , speakers :firstName_0: Jaydeep, lastName_0: Rathore, , thirdpartyid :ENT214, sessionuid :A7C081B9-7100-4605-9DBE-14354A6E9DFB, title :Transform Oracle ERP with AWS analytics, AI/ML & generative BI tools, description :How do you unlock the value of Oracle application data? In this chalk talk, learn how to drive innovation and enhance processes like sales forecasting, financial forecasting, and streamlining supply chains by using predictive analytics and generative business intelligence (BI) tools. Explore how you can combine them with existing ML models by using new large language model (LLM) capabilities., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 320, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Premier 320
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: How do you unlock the value of Oracle application data? In this chalk talk, learn how to drive innovation and enhance processes like sales forecasting, financial forecasting, and streamlining supply chains by using predictive analytics and generative business intelligence (BI) tools. Explore how you can combine them with existing ML models by using new large language model (LLM) capabilities
+title: Transform Oracle ERP with AWS analytics, AI/ML & generative BI tools
+sessionuid: A7C081B9-7100-4605-9DBE-14354A6E9DFB
+thirdpartyid: ENT214
+speakers: firstName_0: Jaydeep, lastName_0: Rathore
+tag_name: Business Executive, Role, 200 - Intermediate, Level, Cross Industry, Industry, Generative AI, Area of Interest, IT Executive, Role, Oracle, Area of Interest, Monday, Day, MGM Grand, Venue, Amazon Relational Database Service (RDS), Services, AWS IoT Analytics, Services, Enterprise & Migration, Topic

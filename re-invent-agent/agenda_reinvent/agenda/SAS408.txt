@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :DevOps Engineer, Role, Solution/Systems Architect, Role, DevOps and Developer Productivity, Topic, Architecture, Topic, SaaS, Area of Interest, Wednesday, Day, Wynn, Venue, 400 - Expert, Level, , speakers :firstName_0: Tod, lastName_0: Golding, firstName_1: Anthony, lastName_1: McClure, , thirdpartyid :SAS408, sessionuid :9884F13F-F87B-472A-9810-DB0CC1F686F2, title :Chaos and SaaS: Pushing your multi-tenant architecture, description :A SaaS architecture must be able to support shifting workloads, complex scaling policies, isolation and a host of other multi-tenant considerations. You need to understand how your system will react and respond to these challenges. In this chalk talk, examine a range of different areas where you can introduce chaos and simulated workloads into your SaaS environment to validate the policies, strategies, scale, and performance of your multi-tenant architecture. This includes examining specific strategies to exercise multi-tenant attributes of your architecture, including onboarding, tier-based throttling, isolation, and more., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: A SaaS architecture must be able to support shifting workloads, complex scaling policies, isolation and a host of other multi-tenant considerations. You need to understand how your system will react and respond to these challenges. In this chalk talk, examine a range of different areas where you can introduce chaos and simulated workloads into your SaaS environment to validate the policies, strategies, scale, and performance of your multi-tenant architecture. This includes examining specific strategies to exercise multi-tenant attributes of your architecture, including onboarding, tier-based throttling, isolation, and more
+title: Chaos and SaaS: Pushing your multi-tenant architecture
+sessionuid: 9884F13F-F87B-472A-9810-DB0CC1F686F2
+thirdpartyid: SAS408
+speakers: firstName_0: Tod, lastName_0: Golding, firstName_1: Anthony, lastName_1: McClure
+tag_name: DevOps Engineer, Role, Solution/Systems Architect, Role, DevOps and Developer Productivity, Topic, Architecture, Topic, SaaS, Area of Interest, Wednesday, Day, Wynn, Venue, 400 - Expert, Level

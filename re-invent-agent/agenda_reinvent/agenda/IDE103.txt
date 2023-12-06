@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Entrepreneur (Founder/Co-Founder), Role, Business Executive, Role, 100 - Foundational, Level, Venture Capitalist, Role, Customer Enablement, Topic, Customer Stories, Area of Interest, Inclusion & Diversity, Area of Interest, Thursday, Day, Venetian, Venue, Startup, Area of Interest, , speakers :firstName_0: Carolina, lastName_0: Nanni, company_0: Fielder, , thirdpartyid :IDE103, sessionuid :4B527725-CAFC-4CEC-B022-34126334E091, title :Breaking barriers: A Latina founder’s story, description :Join this lightning talk that highlights the power of female founders to make a profound impact on the world. Be inspired by the journey of Carolina Nanni, Founder and CEO of Fielder, and gain valuable insight into breaking down barriers in the technology industry. Hear the story of this female Latina entrepreneur, who defied the odds, challenged stereotypes, and achieved remarkable milestones. Discover the strategies and resilience that drove her journey, and learn how her experience can empower you to overcome obstacles and drive change in your own endeavors., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :November, 30 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 23:20:00 -0500, 
+enddatetimeutc: November, 30 2023 23:20:00 -0500
+startdatetimeutc: November, 30 2023 23:00:00 -0500
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Join this lightning talk that highlights the power of female founders to make a profound impact on the world. Be inspired by the journey of Carolina Nanni, Founder and CEO of Fielder, and gain valuable insight into breaking down barriers in the technology industry. Hear the story of this female Latina entrepreneur, who defied the odds, challenged stereotypes, and achieved remarkable milestones. Discover the strategies and resilience that drove her journey, and learn how her experience can empower you to overcome obstacles and drive change in your own endeavors
+title: Breaking barriers: A Latina founder’s story
+sessionuid: 4B527725-CAFC-4CEC-B022-34126334E091
+thirdpartyid: IDE103
+speakers: firstName_0: Carolina, lastName_0: Nanni, company_0: Fielder
+tag_name: Entrepreneur (Founder/Co-Founder), Role, Business Executive, Role, 100 - Foundational, Level, Venture Capitalist, Role, Customer Enablement, Topic, Customer Stories, Area of Interest, Inclusion & Diversity, Area of Interest, Thursday, Day, Venetian, Venue, Startup, Area of Interest

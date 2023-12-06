@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Summit Showroom
+summary: tag_name :Cost Optimization, Area of Interest, Generative AI, Area of Interest, Amazon Elastic Compute Cloud (EC2), Services, Developer/Engineer, Role, Data Scientist, Role, Amazon SageMaker, Services, Innovation on AWS, Area of Interest, 200 - Intermediate, Level, Compute, Topic, Tuesday, Day, Venetian, Venue, Entrepreneur (Founder/Co-Founder), Role, AI/ML, Topic, Cross Industry, Industry, Amazon Bedrock, Services, , speakers :firstName_0: Ron, lastName_0: Diamant, firstName_1: Shruti, lastName_1: Koparkar, firstName_2: Ion, lastName_2: Stoica, company_2: Anyscale, , thirdpartyid :CMP209, sessionuid :01E0763C-B5B9-416E-9F5D-44D0F4D4DB70, title :Generative AI panel: Moving beyond the hype and realizing value, description :Generative AI is motivating companies to think about how AI might reshape customer experiences, transform the way we work, and improve business productivity. The success of generative AI applications depends on many factors, including identifying the correct use case, selecting the right model, managing ML operations, optimizing ML infrastructure, and more. In this session, hear from a panel of experts across various industries on how to realize the full potential of this transformative technology., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Summit Showroom, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: Summit Showroom
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: Generative AI is motivating companies to think about how AI might reshape customer experiences, transform the way we work, and improve business productivity. The success of generative AI applications depends on many factors, including identifying the correct use case, selecting the right model, managing ML operations, optimizing ML infrastructure, and more. In this session, hear from a panel of experts across various industries on how to realize the full potential of this transformative technology
+title: Generative AI panel: Moving beyond the hype and realizing value
+sessionuid: 01E0763C-B5B9-416E-9F5D-44D0F4D4DB70
+thirdpartyid: CMP209
+speakers: firstName_0: Ron, lastName_0: Diamant, firstName_1: Shruti, lastName_1: Koparkar, firstName_2: Ion, lastName_2: Stoica, company_2: Anyscale
+tag_name: Cost Optimization, Area of Interest, Generative AI, Area of Interest, Amazon Elastic Compute Cloud (EC2), Services, Developer/Engineer, Role, Data Scientist, Role, Amazon SageMaker, Services, Innovation on AWS, Area of Interest, 200 - Intermediate, Level, Compute, Topic, Tuesday, Day, Venetian, Venue, Entrepreneur (Founder/Co-Founder), Role, AI/ML, Topic, Cross Industry, Industry, Amazon Bedrock, Services

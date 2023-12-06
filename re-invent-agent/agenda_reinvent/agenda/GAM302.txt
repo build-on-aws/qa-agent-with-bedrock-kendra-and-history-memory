@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 118
+summary: tag_name :Global Infrastructure, Area of Interest, Architecture, Topic, Compute, Topic, Well-Architected Framework, Area of Interest, Monday, Day, MGM Grand, Venue, 300 - Advanced, Level, Games, Industry, , speakers :firstName_0: Juho, lastName_0: Jantunen, firstName_1: Toni, lastName_1: Syvanen, , thirdpartyid :GAM302-R, sessionuid :B210D729-7C49-467F-9000-610E93E46C8B, title :Build scalable cross-platform game backends on AWS [REPEAT], description :Games are increasingly cross-platform and utilize many different types of backend features for social and multiplayer experiences. In this workshop, learn to deploy a secure and scalable end-to-end game backend solution on AWS. The solution includes cross-platform identity and authentication, serverless and containerized backend microservice templates, and game engine integration to help you quickly get started with your game backend development. You must bring a laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 118, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 18:30:00 -0500, 
+enddatetimeutc: November, 27 2023 18:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: Grand 118
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: Games are increasingly cross-platform and utilize many different types of backend features for social and multiplayer experiences. In this workshop, learn to deploy a secure and scalable end-to-end game backend solution on AWS. The solution includes cross-platform identity and authentication, serverless and containerized backend microservice templates, and game engine integration to help you quickly get started with your game backend development. You must bring a laptop to participate
+title: Build scalable cross-platform game backends on AWS [REPEAT]
+sessionuid: B210D729-7C49-467F-9000-610E93E46C8B
+thirdpartyid: GAM302-R
+speakers: firstName_0: Juho, lastName_0: Jantunen, firstName_1: Toni, lastName_1: Syvanen
+tag_name: Global Infrastructure, Area of Interest, Architecture, Topic, Compute, Topic, Well-Architected Framework, Area of Interest, Monday, Day, MGM Grand, Venue, 300 - Advanced, Level, Games, Industry

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 120
+summary: tag_name :Financial Services, Industry, IT Professional/Technical Manager, Role, Games, Industry, Amazon Aurora, Services, Databases, Topic, Innovation on AWS, Area of Interest, Developer/Engineer, Role, Monday, Day, MGM Grand, Venue, Solution/Systems Architect, Role, Cost Optimization, Area of Interest, Media & Entertainment, Industry, 300 - Advanced, Level, Serverless Compute, Topic, , speakers :firstName_0: Anum, lastName_0: Jang Sher, , thirdpartyid :DAT331, sessionuid :55DCC473-85E3-4C36-973C-A14717A31F7D, title :Using Aurora Serverless to simplify manageability and improve costs, description :In this session, learn how Amazon Aurora Serverless can help you simplify database capacity management and cost-effectively support even your most demanding workloads. Dive deep into the Aurora Serverless v2 architecture, see how you can instantly scale a database, and hear about key improvements in scaling, high availability, and disaster recovery., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 120, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 20:30:00 -0500, 
+enddatetimeutc: November, 27 2023 20:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Grand 120
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: In this session, learn how Amazon Aurora Serverless can help you simplify database capacity management and cost-effectively support even your most demanding workloads. Dive deep into the Aurora Serverless v2 architecture, see how you can instantly scale a database, and hear about key improvements in scaling, high availability, and disaster recovery
+title: Using Aurora Serverless to simplify manageability and improve costs
+sessionuid: 55DCC473-85E3-4C36-973C-A14717A31F7D
+thirdpartyid: DAT331
+speakers: firstName_0: Anum, lastName_0: Jang Sher
+tag_name: Financial Services, Industry, IT Professional/Technical Manager, Role, Games, Industry, Amazon Aurora, Services, Databases, Topic, Innovation on AWS, Area of Interest, Developer/Engineer, Role, Monday, Day, MGM Grand, Venue, Solution/Systems Architect, Role, Cost Optimization, Area of Interest, Media & Entertainment, Industry, 300 - Advanced, Level, Serverless Compute, Topic

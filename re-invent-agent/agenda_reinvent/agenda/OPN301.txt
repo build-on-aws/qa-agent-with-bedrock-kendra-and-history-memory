@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Oceanside A
+summary: tag_name :DevOps Engineer, Role, Developer/Engineer, Role, Open Source, Area of Interest, 300 - Advanced, Level, AWS Lambda, Services, Tuesday, Day, Mandalay Bay, Venue, Serverless Compute, Topic, , speakers :firstName_0: Leandro Cavalcante, lastName_0: Damascena, firstName_1: Andrea, lastName_1: Amorosi, , thirdpartyid :OPN301-R, sessionuid :CCD1C1BB-5278-4A1E-9D1E-CEB62EFD1D60, title :Accelerate your serverless journey with Powertools for AWS Lambda [REPEAT], description :Are you hoping to speed up your serverless applications with best practices and faster development? Powertools for AWS Lambda can help you reduce boilerplate code and increase developer velocity. In this workshop, learn how you can implement structured logging and tracing, operational and business metrics, and idempotency practices for a media processing application. Choose between Python, JavaScript/TypeScript, Java, or .NET when building your program. You must bring your laptop to participate., sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Oceanside A, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 21:00:00 -0500, 
+enddatetimeutc: November, 28 2023 21:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Oceanside A
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: Are you hoping to speed up your serverless applications with best practices and faster development? Powertools for AWS Lambda can help you reduce boilerplate code and increase developer velocity. In this workshop, learn how you can implement structured logging and tracing, operational and business metrics, and idempotency practices for a media processing application. Choose between Python, JavaScript/TypeScript, Java, or .NET when building your program. You must bring your laptop to participate
+title: Accelerate your serverless journey with Powertools for AWS Lambda [REPEAT]
+sessionuid: CCD1C1BB-5278-4A1E-9D1E-CEB62EFD1D60
+thirdpartyid: OPN301-R
+speakers: firstName_0: Leandro Cavalcante, lastName_0: Damascena, firstName_1: Andrea, lastName_1: Amorosi
+tag_name: DevOps Engineer, Role, Developer/Engineer, Role, Open Source, Area of Interest, 300 - Advanced, Level, AWS Lambda, Services, Tuesday, Day, Mandalay Bay, Venue, Serverless Compute, Topic

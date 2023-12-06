@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Margaux 1
+summary: tag_name :IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Developer/Engineer, Role, Serverless Compute, Topic, Resilience, Area of Interest, DevOps and Developer Productivity, Topic, Wednesday, Day, Wynn, Venue, 300 - Advanced, Level, AWS Lambda, Services, , speakers :firstName_0: Leandro Cavalcante, lastName_0: Damascena, firstName_1: Ruben, lastName_1: Fonseca, , thirdpartyid :SVS322, sessionuid :3C1A81D5-127A-455A-AE1A-3B6A78BF2955, title :Demystifying idempotency with Powertools for AWS Lambda, description :Can your production serverless API handle duplicate transactions? Is it resilient to failure or message tampering? These are real-world challenges that legacy and modern systems must handle at scale. This code talk dives into observability and idempotency and their critical role in modern distributed computing. Leave this talk knowing how to build more resilient and fault-tolerant applications faster by using Powertools for AWS Lambda., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Margaux 1, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Margaux 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: Can your production serverless API handle duplicate transactions? Is it resilient to failure or message tampering? These are real-world challenges that legacy and modern systems must handle at scale. This code talk dives into observability and idempotency and their critical role in modern distributed computing. Leave this talk knowing how to build more resilient and fault-tolerant applications faster by using Powertools for AWS Lambda
+title: Demystifying idempotency with Powertools for AWS Lambda
+sessionuid: 3C1A81D5-127A-455A-AE1A-3B6A78BF2955
+thirdpartyid: SVS322
+speakers: firstName_0: Leandro Cavalcante, lastName_0: Damascena, firstName_1: Ruben, lastName_1: Fonseca
+tag_name: IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Developer/Engineer, Role, Serverless Compute, Topic, Resilience, Area of Interest, DevOps and Developer Productivity, Topic, Wednesday, Day, Wynn, Venue, 300 - Advanced, Level, AWS Lambda, Services

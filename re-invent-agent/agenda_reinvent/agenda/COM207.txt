@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Customer Stories, Area of Interest, AI/ML, Topic, Developer/Engineer, Role, 200 - Intermediate, Level, Student, Role, Tuesday, Day, Venetian, Venue, Amazon Forecast, Services, Tech Explorer, Role, Generative AI, Area of Interest, Amazon Bedrock, Services, Amazon SageMaker, Services, , speakers :firstName_0: Ilia, lastName_0: Awakimjan, company_0: WeTransfer, , thirdpartyid :COM207, sessionuid :09AF4C30-1FC9-4B13-975E-7EA8742E5F07, title :What classical modeling can teach us about modern AI, description :<p>ChatGPT has brought about a flood of innovation in AI. Without a doubt, cloud engineers will use progressively more powerful machine learning integrations, not limited to chatbots or even LLMs. Legacy models are quickly being left behind, but old does not mean obsolete. This dev chat examines what classical (numerical) modeling looked like in the past and what it can teach us about technology today.</p>, sessiontype :Dev Chat, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 22:20:00 -0500, 
+enddatetimeutc: November, 28 2023 22:20:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Dev Chat
+description: <p>ChatGPT has brought about a flood of innovation in AI. Without a doubt, cloud engineers will use progressively more powerful machine learning integrations, not limited to chatbots or even LLMs. Legacy models are quickly being left behind, but old does not mean obsolete. This dev chat examines what classical (numerical) modeling looked like in the past and what it can teach us about technology today.</p>
+title: What classical modeling can teach us about modern AI
+sessionuid: 09AF4C30-1FC9-4B13-975E-7EA8742E5F07
+thirdpartyid: COM207
+speakers: firstName_0: Ilia, lastName_0: Awakimjan, company_0: WeTransfer
+tag_name: Customer Stories, Area of Interest, AI/ML, Topic, Developer/Engineer, Role, 200 - Intermediate, Level, Student, Role, Tuesday, Day, Venetian, Venue, Amazon Forecast, Services, Tech Explorer, Role, Generative AI, Area of Interest, Amazon Bedrock, Services, Amazon SageMaker, Services

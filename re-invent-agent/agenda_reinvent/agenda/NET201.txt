@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 121
+summary: tag_name :Cloud Security Specialist, Role, AWS WAF, Services, Network & Infrastructure Security, Area of Interest, Amazon CloudFront, Services, Cross Industry, Industry, IT Professional/Technical Manager, Role, Security, Compliance, & Identity, Topic, 200 - Intermediate, Level, Wednesday, Day, Caesars Forum, Venue, Developer/Engineer, Role, Application Security, Area of Interest, Networking & Content Delivery, Topic, AWS Shield Advanced, Services, , speakers :firstName_0: Tzoori, lastName_0: Tamam, firstName_1: Asaf, lastName_1: Naor, company_1: Checkpoint, , thirdpartyid :NET201, sessionuid :EDE6A237-4D27-4F1E-94CF-7B37B5486828, title :Safeguarding infrastructure from DDoS attacks with AWS edge services, description :It is crucial for organizations to protect their network infrastructure from DDoS events. Join this session to learn about defense strategy for safeguarding your critical assets and how you can build a DDoS-resilient perimeter to support uninterrupted operations with AWS Shield, AWS WAF, and Amazon CloudFront. Find out how you can use the advanced mitigation techniques employed by AWS Shield to provide comprehensive protection and offer uninterrupted service availability., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 121, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 02:30:00 -0500, 
+enddatetimeutc: November, 30 2023 02:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Forum 121
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: It is crucial for organizations to protect their network infrastructure from DDoS events. Join this session to learn about defense strategy for safeguarding your critical assets and how you can build a DDoS-resilient perimeter to support uninterrupted operations with AWS Shield, AWS WAF, and Amazon CloudFront. Find out how you can use the advanced mitigation techniques employed by AWS Shield to provide comprehensive protection and offer uninterrupted service availability
+title: Safeguarding infrastructure from DDoS attacks with AWS edge services
+sessionuid: EDE6A237-4D27-4F1E-94CF-7B37B5486828
+thirdpartyid: NET201
+speakers: firstName_0: Tzoori, lastName_0: Tamam, firstName_1: Asaf, lastName_1: Naor, company_1: Checkpoint
+tag_name: Cloud Security Specialist, Role, AWS WAF, Services, Network & Infrastructure Security, Area of Interest, Amazon CloudFront, Services, Cross Industry, Industry, IT Professional/Technical Manager, Role, Security, Compliance, & Identity, Topic, 200 - Intermediate, Level, Wednesday, Day, Caesars Forum, Venue, Developer/Engineer, Role, Application Security, Area of Interest, Networking & Content Delivery, Topic, AWS Shield Advanced, Services

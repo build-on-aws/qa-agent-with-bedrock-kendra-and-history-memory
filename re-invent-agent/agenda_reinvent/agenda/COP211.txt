@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 350
+summary: tag_name :IT Professional/Technical Manager, Role, System Administrator, Role, 200 - Intermediate, Level, Cost Optimization, Area of Interest, IT Administrator, Role, Wednesday, Day, MGM Grand, Venue, Cloud Operations, Topic, , speakers :, thirdpartyid :COP211-R, sessionuid :99D39433-40BD-4F31-8D08-611256DEC8DF, title :Simplify your chargeback reporting [REPEAT], description :AWS Billing Conductor helps you model your internal billing structure across your AWS accounts, customize your pricing configurations, and define cost visibility that aligns with your reporting needs. In this builders’ session, learn how you can use the service to simplify your chargeback and showback workflows using AWS Cost Explorer and AWS Cost and Usage Reports and provide decentralized billing visibility for your account owners. You must bring your laptop to participate, and access to your sandbox management or management account is strongly recommended., sessiontype :Builders' Session, venuename :MGM Grand, floorplanname :Level 3, locationname :350, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: 350
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Builders' Session
+description: AWS Billing Conductor helps you model your internal billing structure across your AWS accounts, customize your pricing configurations, and define cost visibility that aligns with your reporting needs. In this builders’ session, learn how you can use the service to simplify your chargeback and showback workflows using AWS Cost Explorer and AWS Cost and Usage Reports and provide decentralized billing visibility for your account owners. You must bring your laptop to participate, and access to your sandbox management or management account is strongly recommended
+title: Simplify your chargeback reporting [REPEAT]
+sessionuid: 99D39433-40BD-4F31-8D08-611256DEC8DF
+thirdpartyid: COP211-R
+speakers: 
+tag_name: IT Professional/Technical Manager, Role, System Administrator, Role, 200 - Intermediate, Level, Cost Optimization, Area of Interest, IT Administrator, Role, Wednesday, Day, MGM Grand, Venue, Cloud Operations, Topic

@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3002
+summary: tag_name :300 - Advanced, Level, Partner Enablement, Topic, Friday, Day, Venetian, Venue, , speakers :firstName_0: Lalit, lastName_0: Kumar, firstName_1: Steve, lastName_1: Drew, , thirdpartyid :PEX304, sessionuid :8E518203-B1ED-4C3E-9780-95C6A32F4EFE, title :Establishing a modernization CCoE, description :In this session, learn how to proceed with the most effective enterprise system modernization including infrastructure, architecture, and organization. Learn how to assess the current legacy landscape and build the right modernization roadmap to simplify and accelerate the transformation journey by adopting a pragmatic approach to push workloads to futuristic, cloud-based architecture. Also, explore how hybrid integration is another key aspect that can help seamlessly integrate multiple disparate sources, including legacy applications, SaaS, and customer applications, while improving the adoption of innovative technologies. This session is intended for AWS Partners., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3002, startdatetimeutc :December, 01 2023 18:30:00 -0500, enddatetimeutc :December, 01 2023 19:30:00 -0500, 
+enddatetimeutc: December, 01 2023 19:30:00 -0500
+startdatetimeutc: December, 01 2023 18:30:00 -0500
+locationname: Lido 3002
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Breakout Session
+description: In this session, learn how to proceed with the most effective enterprise system modernization including infrastructure, architecture, and organization. Learn how to assess the current legacy landscape and build the right modernization roadmap to simplify and accelerate the transformation journey by adopting a pragmatic approach to push workloads to futuristic, cloud-based architecture. Also, explore how hybrid integration is another key aspect that can help seamlessly integrate multiple disparate sources, including legacy applications, SaaS, and customer applications, while improving the adoption of innovative technologies. This session is intended for AWS Partners
+title: Establishing a modernization CCoE
+sessionuid: 8E518203-B1ED-4C3E-9780-95C6A32F4EFE
+thirdpartyid: PEX304
+speakers: firstName_0: Lalit, lastName_0: Kumar, firstName_1: Steve, lastName_1: Drew
+tag_name: 300 - Advanced, Level, Partner Enablement, Topic, Friday, Day, Venetian, Venue

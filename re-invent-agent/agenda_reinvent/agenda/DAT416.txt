@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 2
+summary: tag_name :Databases, Topic, Innovation on AWS, Area of Interest, Developer/Engineer, Role, 400 - Expert, Level, Amazon Neptune, Services, IT Professional/Technical Manager, Role, Thursday, Day, Wynn, Venue, Cross Industry, Industry, Generative AI, Area of Interest, Solution/Systems Architect, Role, AI/ML, Topic, , speakers :firstName_0: David, lastName_0: Bechberger, firstName_1: Piyush, lastName_1: Mathur, , thirdpartyid :DAT416-R, sessionuid :9815A199-3E10-4BCE-AD79-506C21DC4BC9, title :Build apps using graph analytics and vector search with Amazon Neptune [REPEAT], description :For use cases like preventing fraud and evaluating network security, you can represent highly connected data as a graph. Performing analytics over these graphs allows you to discover new information, like who the threat actors are and where the security risks might be. Come watch experts live code a sample security graph application in Amazon Neptune that invokes graph algorithms and utilizes vector similarity search to perform Retrieval Augmented Generation. Also, see live code examples for integrating Neptune with LangChain to do prompt-based graph query generation, and learn how to use the recently launched Neptune data API., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 2, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Lafite 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: For use cases like preventing fraud and evaluating network security, you can represent highly connected data as a graph. Performing analytics over these graphs allows you to discover new information, like who the threat actors are and where the security risks might be. Come watch experts live code a sample security graph application in Amazon Neptune that invokes graph algorithms and utilizes vector similarity search to perform Retrieval Augmented Generation. Also, see live code examples for integrating Neptune with LangChain to do prompt-based graph query generation, and learn how to use the recently launched Neptune data API
+title: Build apps using graph analytics and vector search with Amazon Neptune [REPEAT]
+sessionuid: 9815A199-3E10-4BCE-AD79-506C21DC4BC9
+thirdpartyid: DAT416-R
+speakers: firstName_0: David, lastName_0: Bechberger, firstName_1: Piyush, lastName_1: Mathur
+tag_name: Databases, Topic, Innovation on AWS, Area of Interest, Developer/Engineer, Role, 400 - Expert, Level, Amazon Neptune, Services, IT Professional/Technical Manager, Role, Thursday, Day, Wynn, Venue, Cross Industry, Industry, Generative AI, Area of Interest, Solution/Systems Architect, Role, AI/ML, Topic

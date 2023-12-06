@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 306
+summary: tag_name :DevOps Engineer, Role, Amazon CodeWhisperer, Services, Generative AI, Area of Interest, Front-End Web & Mobile, Area of Interest, Developer/Engineer, Role, Thursday, Day, MGM Grand, Venue, AWS Amplify, Services, 300 - Advanced, Level, DevOps and Developer Productivity, Topic, , speakers :firstName_0: Danny, lastName_0: Banks, firstName_1: Raheel, lastName_1: Maqsood, , thirdpartyid :FWM312-R, sessionuid :79AFFF61-14B4-452E-A445-228B774CA19B, title :Accelerate app development with AWS Amplify and Amazon CodeWhisperer [REPEAT], description :AWS Amplify makes creating feature-rich, full-stack applications faster and easier for frontend developers by reducing the learning curve and lines of code required to build cloud-powered web applications. In this chalk talk, discover strategies for using AWS Amplify with Amazon CodeWhisperer, a generative AI coding companion, to accelerate the pace of development even further., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :306, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: 306
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: AWS Amplify makes creating feature-rich, full-stack applications faster and easier for frontend developers by reducing the learning curve and lines of code required to build cloud-powered web applications. In this chalk talk, discover strategies for using AWS Amplify with Amazon CodeWhisperer, a generative AI coding companion, to accelerate the pace of development even further
+title: Accelerate app development with AWS Amplify and Amazon CodeWhisperer [REPEAT]
+sessionuid: 79AFFF61-14B4-452E-A445-228B774CA19B
+thirdpartyid: FWM312-R
+speakers: firstName_0: Danny, lastName_0: Banks, firstName_1: Raheel, lastName_1: Maqsood
+tag_name: DevOps Engineer, Role, Amazon CodeWhisperer, Services, Generative AI, Area of Interest, Front-End Web & Mobile, Area of Interest, Developer/Engineer, Role, Thursday, Day, MGM Grand, Venue, AWS Amplify, Services, 300 - Advanced, Level, DevOps and Developer Productivity, Topic

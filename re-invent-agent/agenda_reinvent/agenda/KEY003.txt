@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Venetian Ballroom F
+summary: tag_name :Wednesday, Day, Venetian, Venue, , speakers :firstName_0: Swami, lastName_0: Sivasubramanian, , thirdpartyid :KEY003, sessionuid :3BE93967-1DA0-44B2-9174-F4999A98B449, title :Swami Sivasubramanian Keynote, description :<p>A powerful relationship between humans, data, and AI is unfolding right before us. Generative AI is augmenting our productivity and creativity in new ways, while also being fueled by massive amounts of enterprise data and human intelligence. Join Swami Sivasubramanian, Vice President of Data and AI at AWS, to discover how you can use your company data to build differentiated generative AI applications and accelerate productivity for employees across your organization. Also hear from customer speakers with real-world examples of how they’ve used their data to support their generative AI use cases and create new experiences for their customers.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Venetian Ballroom F, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 18:30:00 -0500, 
+enddatetimeutc: November, 29 2023 18:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: Venetian Ballroom F
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>A powerful relationship between humans, data, and AI is unfolding right before us. Generative AI is augmenting our productivity and creativity in new ways, while also being fueled by massive amounts of enterprise data and human intelligence. Join Swami Sivasubramanian, Vice President of Data and AI at AWS, to discover how you can use your company data to build differentiated generative AI applications and accelerate productivity for employees across your organization. Also hear from customer speakers with real-world examples of how they’ve used their data to support their generative AI use cases and create new experiences for their customers.</p>
+title: Swami Sivasubramanian Keynote
+sessionuid: 3BE93967-1DA0-44B2-9174-F4999A98B449
+thirdpartyid: KEY003
+speakers: firstName_0: Swami, lastName_0: Sivasubramanian
+tag_name: Wednesday, Day, Venetian, Venue

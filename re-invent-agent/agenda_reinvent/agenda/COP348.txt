@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :IT Professional/Technical Manager, Role, 300 - Advanced, Level, AWS Control Tower, Services, AWS Config, Services, Cloud Security Specialist, Role, Solution/Systems Architect, Role, Cloud Operations, Topic, Tuesday, Day, Venetian, Venue, Management & Governance, Area of Interest, AWS CloudTrail, Services, , speakers :firstName_0: Andres, lastName_0: Silva, , thirdpartyid :COP348, sessionuid :4E122AA2-132D-4843-AEF2-9DE6E592F51F, title :Demonstration of what’s new with AWS governance and compliance, description :In this follow-up demonstration to COP340, see how AWS is innovating in the governance and compliance space. This lightning talk covers recent launches and how you can use them to solve a variety of use cases., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: In this follow-up demonstration to COP340, see how AWS is innovating in the governance and compliance space. This lightning talk covers recent launches and how you can use them to solve a variety of use cases
+title: Demonstration of what’s new with AWS governance and compliance
+sessionuid: 4E122AA2-132D-4843-AEF2-9DE6E592F51F
+thirdpartyid: COP348
+speakers: firstName_0: Andres, lastName_0: Silva
+tag_name: IT Professional/Technical Manager, Role, 300 - Advanced, Level, AWS Control Tower, Services, AWS Config, Services, Cloud Security Specialist, Role, Solution/Systems Architect, Role, Cloud Operations, Topic, Tuesday, Day, Venetian, Venue, Management & Governance, Area of Interest, AWS CloudTrail, Services

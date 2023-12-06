@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas E
+summary: tag_name :Financial Services, Industry, Nonprofit, Industry, Customer Enablement, Topic, Amazon Bedrock, Services, Business Executive, Role, Generative AI, Area of Interest, Wednesday, Day, Mandalay Bay, Venue, AI/ML, Topic, 100 - Foundational, Level, IT Executive, Role, Entrepreneur (Founder/Co-Founder), Role, Social Impact, Area of Interest, , speakers :firstName_0: Chris, lastName_0: Checco, firstName_1: Henrique, lastName_1: Coelho, company_1: Experian, , thirdpartyid :IMP106, sessionuid :99A498E6-B6A2-44A2-8D13-6574E11D842D, title :Enabling financial freedom with generative AI, description :Financial stability impacts citizens around the world. Join this session to learn how Serasa Experian is using generative AI to create services and tools to support their customers in Brazil, providing them with the education they need to better use and manage credit and create financial freedom. By using Amazon Bedrock, they can enhance their customer experience, improve the way users navigate their systems, and provide their customers with educational support regarding credit and financial intelligence., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas E, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: South Seas E
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Financial stability impacts citizens around the world. Join this session to learn how Serasa Experian is using generative AI to create services and tools to support their customers in Brazil, providing them with the education they need to better use and manage credit and create financial freedom. By using Amazon Bedrock, they can enhance their customer experience, improve the way users navigate their systems, and provide their customers with educational support regarding credit and financial intelligence
+title: Enabling financial freedom with generative AI
+sessionuid: 99A498E6-B6A2-44A2-8D13-6574E11D842D
+thirdpartyid: IMP106
+speakers: firstName_0: Chris, lastName_0: Checco, firstName_1: Henrique, lastName_1: Coelho, company_1: Experian
+tag_name: Financial Services, Industry, Nonprofit, Industry, Customer Enablement, Topic, Amazon Bedrock, Services, Business Executive, Role, Generative AI, Area of Interest, Wednesday, Day, Mandalay Bay, Venue, AI/ML, Topic, 100 - Foundational, Level, IT Executive, Role, Entrepreneur (Founder/Co-Founder), Role, Social Impact, Area of Interest

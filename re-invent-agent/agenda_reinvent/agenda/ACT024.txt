@@ -1,0 +1,14 @@
+location: MGM Grand, Level 2, Crush
+summary: tag_name :Tuesday, Day, MGM Grand, Venue, Happy Hour/Reception, Additional Services, , speakers :, thirdpartyid :ACT024, sessionuid :98D51E53-AC08-4902-BF61-A924E01C5089, title :Informatica networking reception at Crush, description :More information coming soon., sessiontype :Community Activities, venuename :MGM Grand, floorplanname :Level 2, locationname :Crush, startdatetimeutc :November, 29 2023 02:00:00 -0500, enddatetimeutc :November, 29 2023 04:00:00 -0500, 
+enddatetimeutc: November, 29 2023 04:00:00 -0500
+startdatetimeutc: November, 29 2023 02:00:00 -0500
+locationname: Crush
+floorplanname: Level 2
+venuename: MGM Grand
+sessiontype: Community Activities
+description: More information coming soon
+title: Informatica networking reception at Crush
+sessionuid: 98D51E53-AC08-4902-BF61-A924E01C5089
+thirdpartyid: ACT024
+speakers: 
+tag_name: Tuesday, Day, MGM Grand, Venue, Happy Hour/Reception, Additional Services

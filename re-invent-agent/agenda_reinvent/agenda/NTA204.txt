@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 364
+summary: tag_name :AWS Service Catalog, Services, Management & Governance, Area of Interest, AWS Control Tower, Services, IT Administrator, Role, Cross Industry, Industry, Strategy & Transformation, Area of Interest, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, MGM Grand, Venue, Monday, Day, New to AWS, Topic, IT Executive, Role, , speakers :firstName_0: Ryan, lastName_0: Lempka, firstName_1: HonChong, lastName_1: Chang, firstName_2: Todd, lastName_2: Gruet, , thirdpartyid :NTA204, sessionuid :369CB182-C70D-4C03-A014-2142D65ACEBA, title :Accelerate cloud operations at scale with a robust cloud foundation, description :<p>Discover how a well-designed cloud foundation can accelerate your digital transformation journey. In this session, hear from Bristol Myers Squibb (BMS) about how their innovative approach to multi-account deployment allowed them to reduce weeks’ worth of manual tasks to minutes. Discover how BMS has achieved business agility while maintaining security and cost control in the cloud. In addition, learn about a guided path you can follow to get started on creating or optimizing your own cloud foundation.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 364, startdatetimeutc :November, 27 2023 20:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 20:00:00 -0500
+locationname: Chairmans 364
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>Discover how a well-designed cloud foundation can accelerate your digital transformation journey. In this session, hear from Bristol Myers Squibb (BMS) about how their innovative approach to multi-account deployment allowed them to reduce weeks’ worth of manual tasks to minutes. Discover how BMS has achieved business agility while maintaining security and cost control in the cloud. In addition, learn about a guided path you can follow to get started on creating or optimizing your own cloud foundation.</p>
+title: Accelerate cloud operations at scale with a robust cloud foundation
+sessionuid: 369CB182-C70D-4C03-A014-2142D65ACEBA
+thirdpartyid: NTA204
+speakers: firstName_0: Ryan, lastName_0: Lempka, firstName_1: HonChong, lastName_1: Chang, firstName_2: Todd, lastName_2: Gruet
+tag_name: AWS Service Catalog, Services, Management & Governance, Area of Interest, AWS Control Tower, Services, IT Administrator, Role, Cross Industry, Industry, Strategy & Transformation, Area of Interest, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, MGM Grand, Venue, Monday, Day, New to AWS, Topic, IT Executive, Role

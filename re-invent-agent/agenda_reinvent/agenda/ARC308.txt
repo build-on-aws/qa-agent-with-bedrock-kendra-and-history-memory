@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :300 - Advanced, Level, Architecture, Topic, Global Infrastructure, Area of Interest, Resilience, Area of Interest, Well-Architected Framework, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Amazon Aurora, Services, Amazon DynamoDB, Services, Amazon Route 53, Services, Tuesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Joe, lastName_0: Chapman, firstName_1: Neeraj, lastName_1: Kumar, , thirdpartyid :ARC308, sessionuid :ECE62EA3-B239-461D-99C1-33DDE1A7EF5E, title :Best practices for creating multi-Region architectures on AWS, description :Architecting and building a multi-Region architectures can come with a new set of challenges. These challenges include how to manage dependencies, infrastructure deployments, data replication, consistency, observability, testing, and operations. Whether you’re needing to expand to multiple Regions to improve resilience, adhere to governmental data regulations, or improve end-user latency, this session highlights best practices, design principles, and sample architectures to help you meet your requirements., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: Architecting and building a multi-Region architectures can come with a new set of challenges. These challenges include how to manage dependencies, infrastructure deployments, data replication, consistency, observability, testing, and operations. Whether you’re needing to expand to multiple Regions to improve resilience, adhere to governmental data regulations, or improve end-user latency, this session highlights best practices, design principles, and sample architectures to help you meet your requirements
+title: Best practices for creating multi-Region architectures on AWS
+sessionuid: ECE62EA3-B239-461D-99C1-33DDE1A7EF5E
+thirdpartyid: ARC308
+speakers: firstName_0: Joe, lastName_0: Chapman, firstName_1: Neeraj, lastName_1: Kumar
+tag_name: 300 - Advanced, Level, Architecture, Topic, Global Infrastructure, Area of Interest, Resilience, Area of Interest, Well-Architected Framework, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Amazon Aurora, Services, Amazon DynamoDB, Services, Amazon Route 53, Services, Tuesday, Day, Caesars Forum, Venue

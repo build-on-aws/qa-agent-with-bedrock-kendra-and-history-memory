@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Customer Enablement, Topic, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, Tuesday, Day, Venetian, Venue, , speakers :firstName_0: Shilpa, lastName_0: Dabke, company_0: Clearwater, firstName_1: Valerie, lastName_1: Knafo, , thirdpartyid :SMB212, sessionuid :D108636D-68AA-49EA-A229-5ABB98C3A07D, title :Enabling hypergrowth in your business, description :<p>Commercial businesses with high growth face unique challenges. This lightning talk shares examples of how AWS customers have weathered high growth. Come learn from their stories.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :November, 28 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 23:20:00 -0500, 
+enddatetimeutc: November, 28 2023 23:20:00 -0500
+startdatetimeutc: November, 28 2023 23:00:00 -0500
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Commercial businesses with high growth face unique challenges. This lightning talk shares examples of how AWS customers have weathered high growth. Come learn from their stories.</p>
+title: Enabling hypergrowth in your business
+sessionuid: D108636D-68AA-49EA-A229-5ABB98C3A07D
+thirdpartyid: SMB212
+speakers: firstName_0: Shilpa, lastName_0: Dabke, company_0: Clearwater, firstName_1: Valerie, lastName_1: Knafo
+tag_name: Customer Enablement, Topic, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, Tuesday, Day, Venetian, Venue

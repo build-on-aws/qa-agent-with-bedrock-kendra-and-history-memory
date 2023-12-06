@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 167
+summary: tag_name :AI/ML, Topic, Strategy & Transformation, Area of Interest, Government, Industry, 200 - Intermediate, Level, Thursday, Day, MGM Grand, Venue, , speakers :firstName_0: Doug, lastName_0: Gartner, firstName_1: Hanish, lastName_1: Garg, , thirdpartyid :WPS212, sessionuid :1FA29CB8-D590-4A0D-A2E6-98795C6C40B0, title :Transform data into actionable insights to improve public safety, description :<p>Data alone cannot tell a story. Once an agency sets a strong enterprise data strategy and foundation, it opens up possibilities of using artificial intelligence (AI), natural language processing (NLP), and advanced machine learning (ML) to uncover meaningful insights from massive amounts of data. Join this chalk talk to learn how you can use these insights to help reduce traffic congestion, improve public safety, and save lives.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 167, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Boulevard 167
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Data alone cannot tell a story. Once an agency sets a strong enterprise data strategy and foundation, it opens up possibilities of using artificial intelligence (AI), natural language processing (NLP), and advanced machine learning (ML) to uncover meaningful insights from massive amounts of data. Join this chalk talk to learn how you can use these insights to help reduce traffic congestion, improve public safety, and save lives.</p>
+title: Transform data into actionable insights to improve public safety
+sessionuid: 1FA29CB8-D590-4A0D-A2E6-98795C6C40B0
+thirdpartyid: WPS212
+speakers: firstName_0: Doug, lastName_0: Gartner, firstName_1: Hanish, lastName_1: Garg
+tag_name: AI/ML, Topic, Strategy & Transformation, Area of Interest, Government, Industry, 200 - Intermediate, Level, Thursday, Day, MGM Grand, Venue

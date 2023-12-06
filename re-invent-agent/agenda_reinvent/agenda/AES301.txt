@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 167
+summary: tag_name :Aerospace & Satellite, Industry, Architecture, Topic, Internet of Things, Topic, Amazon Elastic Container Service (ECS), Services, Amazon Simple Queue Service (SQS), Services, AWS IoT Core, Services, Telecommunications, Industry, IT Executive, Role, Business Executive, Role, Cross Industry, Industry, Application Security, Area of Interest, MGM Grand, Venue, Wednesday, Day, Cloud Security Specialist, Role, Data Protection, Area of Interest, 300 - Advanced, Level, Global Infrastructure, Area of Interest, , speakers :firstName_0: Jaco, lastName_0: Botes, company_0: Iridium, firstName_1: Jason, lastName_1: Arora, , thirdpartyid :AES301, sessionuid :8EF8B8AF-CEFE-45F5-BB39-5C9915E0FA9E, title :How Iridium uses AWS to converge IoT and space for remote connectivity, description :<p>The Iridium constellation consists of 66 satellites that are cross-linked in space in low-Earth orbit (LEO) 780 kilometers above Earth. Learn how Iridium uses AWS compute services and multiple AWS messaging queues to bring LEO satellite connectivity to locations where traditional cellular networks are limited or inaccessible to help manage connected devices and expand the reach of IoT capabilities around the world.</p>, sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 167, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Boulevard 167
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: <p>The Iridium constellation consists of 66 satellites that are cross-linked in space in low-Earth orbit (LEO) 780 kilometers above Earth. Learn how Iridium uses AWS compute services and multiple AWS messaging queues to bring LEO satellite connectivity to locations where traditional cellular networks are limited or inaccessible to help manage connected devices and expand the reach of IoT capabilities around the world.</p>
+title: How Iridium uses AWS to converge IoT and space for remote connectivity
+sessionuid: 8EF8B8AF-CEFE-45F5-BB39-5C9915E0FA9E
+thirdpartyid: AES301
+speakers: firstName_0: Jaco, lastName_0: Botes, company_0: Iridium, firstName_1: Jason, lastName_1: Arora
+tag_name: Aerospace & Satellite, Industry, Architecture, Topic, Internet of Things, Topic, Amazon Elastic Container Service (ECS), Services, Amazon Simple Queue Service (SQS), Services, AWS IoT Core, Services, Telecommunications, Industry, IT Executive, Role, Business Executive, Role, Cross Industry, Industry, Application Security, Area of Interest, MGM Grand, Venue, Wednesday, Day, Cloud Security Specialist, Role, Data Protection, Area of Interest, 300 - Advanced, Level, Global Infrastructure, Area of Interest

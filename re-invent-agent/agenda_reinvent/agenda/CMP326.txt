@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 167
+summary: tag_name :Aerospace & Satellite, Industry, Compute, Topic, Automotive, Industry, NICE DCV, Services, Solution/Systems Architect, Role, Academic/Researcher, Role, Wednesday, Day, MGM Grand, Venue, Developer/Engineer, Role, Business Intelligence, Area of Interest, Open Source, Area of Interest, Management & Governance, Area of Interest, 300 - Advanced, Level, Amazon Elastic Compute Cloud (EC2), Services, End-User Computing, Topic, Media & Entertainment, Industry, , speakers :firstName_0: Charlie, lastName_0: Gruenwald, firstName_1: Sean, lastName_1: Smith, , thirdpartyid :CMP326, sessionuid :5911EA13-DC42-43EF-83A1-50D30D8EACD2, title :Design, engineering & simulation on AWS using HPC & virtual desktops, description :This chalk talk shows you how to combine HPC workloads with cloud-based virtual desktops. This enables interactive workflows in the cloud, such as pre- and post-processing for computational fluid dynamics, viewing molecules in a computational chemistry application, and designing semiconductors, among many other use cases. By colocating data and compute, organizations can achieve greater agility and lower costs., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 167, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 02:30:00 -0500, 
+enddatetimeutc: November, 30 2023 02:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Boulevard 167
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: This chalk talk shows you how to combine HPC workloads with cloud-based virtual desktops. This enables interactive workflows in the cloud, such as pre- and post-processing for computational fluid dynamics, viewing molecules in a computational chemistry application, and designing semiconductors, among many other use cases. By colocating data and compute, organizations can achieve greater agility and lower costs
+title: Design, engineering & simulation on AWS using HPC & virtual desktops
+sessionuid: 5911EA13-DC42-43EF-83A1-50D30D8EACD2
+thirdpartyid: CMP326
+speakers: firstName_0: Charlie, lastName_0: Gruenwald, firstName_1: Sean, lastName_1: Smith
+tag_name: Aerospace & Satellite, Industry, Compute, Topic, Automotive, Industry, NICE DCV, Services, Solution/Systems Architect, Role, Academic/Researcher, Role, Wednesday, Day, MGM Grand, Venue, Developer/Engineer, Role, Business Intelligence, Area of Interest, Open Source, Area of Interest, Management & Governance, Area of Interest, 300 - Advanced, Level, Amazon Elastic Compute Cloud (EC2), Services, End-User Computing, Topic, Media & Entertainment, Industry

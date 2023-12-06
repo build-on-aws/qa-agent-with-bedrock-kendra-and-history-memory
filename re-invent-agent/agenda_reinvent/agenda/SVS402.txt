@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 169
+summary: tag_name :400 - Expert, Level, Serverless Compute, Topic, Amazon API Gateway, Services, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Amazon EventBridge, Services, AWS Lambda, Services, Solution/Systems Architect, Role, Amazon Simple Queue Service (SQS), Services, Application Integration, Area of Interest, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Maximilian, lastName_0: Schellhorn, firstName_1: Mark, lastName_1: Sailes, , thirdpartyid :SVS402, sessionuid :BBB9F713-CAF1-4884-A377-F4933321F485, title :Refactoring Java applications to serverless, description :In this chalk talk, learn how to refactor a Java application made up of three different components to AWS serverless. Learn how to use Amazon EventBridge Scheduler and AWS Lambda for scheduled tasks, Amazon API Gateway and Lambda to handle web service requests, and Amazon SQS and Lambda to work through asynchronous tasks., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 169, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Boulevard 169
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: In this chalk talk, learn how to refactor a Java application made up of three different components to AWS serverless. Learn how to use Amazon EventBridge Scheduler and AWS Lambda for scheduled tasks, Amazon API Gateway and Lambda to handle web service requests, and Amazon SQS and Lambda to work through asynchronous tasks
+title: Refactoring Java applications to serverless
+sessionuid: BBB9F713-CAF1-4884-A377-F4933321F485
+thirdpartyid: SVS402
+speakers: firstName_0: Maximilian, lastName_0: Schellhorn, firstName_1: Mark, lastName_1: Sailes
+tag_name: 400 - Expert, Level, Serverless Compute, Topic, Amazon API Gateway, Services, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Amazon EventBridge, Services, AWS Lambda, Services, Solution/Systems Architect, Role, Amazon Simple Queue Service (SQS), Services, Application Integration, Area of Interest, Wednesday, Day, MGM Grand, Venue

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 122
+summary: tag_name :Open Source, Area of Interest, Internet of Things, Topic, Thursday, Day, MGM Grand, Venue, 300 - Advanced, Level, Automotive, Industry, Developer/Engineer, Role, , speakers :firstName_0: Richard, lastName_0: Elberger, firstName_1: Megan, lastName_1: Knight, , thirdpartyid :OPN306, sessionuid :DFBB5863-BDBF-4107-A76D-07B8FBFD1854, title :Accelerating IoT product delivery with AWS and open source, description :Users who deliver IoT products at scale commonly implement custom embedded Linux distributions. AWS IoT supports these users by directly contributing to the open source projects they depend on, like Yocto Project and Automotive Grade Linux, while delivering AWS-specific capabilities through the meta-aws project. In 2023, the meta-aws project focused on delivering open source capabilities to build and test embedded Linux distributions on AWS. In this session, learn how the open source program plus open source software delivery provides accelerated outcomes for embedded open source communities and customers alike., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 122, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Grand 122
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Users who deliver IoT products at scale commonly implement custom embedded Linux distributions. AWS IoT supports these users by directly contributing to the open source projects they depend on, like Yocto Project and Automotive Grade Linux, while delivering AWS-specific capabilities through the meta-aws project. In 2023, the meta-aws project focused on delivering open source capabilities to build and test embedded Linux distributions on AWS. In this session, learn how the open source program plus open source software delivery provides accelerated outcomes for embedded open source communities and customers alike
+title: Accelerating IoT product delivery with AWS and open source
+sessionuid: DFBB5863-BDBF-4107-A76D-07B8FBFD1854
+thirdpartyid: OPN306
+speakers: firstName_0: Richard, lastName_0: Elberger, firstName_1: Megan, lastName_1: Knight
+tag_name: Open Source, Area of Interest, Internet of Things, Topic, Thursday, Day, MGM Grand, Venue, 300 - Advanced, Level, Automotive, Industry, Developer/Engineer, Role

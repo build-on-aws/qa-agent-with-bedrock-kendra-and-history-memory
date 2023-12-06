@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Murano 3306
+summary: tag_name :Security, Compliance, & Identity, Topic, Application Security, Area of Interest, Network & Infrastructure Security, Area of Interest, 200 - Intermediate, Level, Cloud Security Specialist, Role, DevOps Engineer, Role, Wednesday, Day, Venetian, Venue, , speakers :firstName_0: Rob, lastName_0: Solomon, company_0: CrowdStrike, firstName_1: Brett, lastName_1: Shaw, company_1: CrowdStrike, , thirdpartyid :SEC212-S, sessionuid :9F4285B0-F46B-458A-9947-27A50F27A40B, title :Unify cloud security from code to runtime with CrowdStrike and Bionic (sponsored by CrowdStrike), description :<p>Join this session to learn about the current state of cloud-conscious adversary activity and how you can increase your security posture. Discover how CrowdStrike and Bionic work together to offer a code-to-runtime platform that provides risk insight and defense throughout your cloud environment, from infrastructure to the applications within it. This solution provides full-spectrum cloud security, covering cloud workload protection, cloud security posture management, cloud infrastructure entitlement management, and application security posture management. This presentation is brought to you by CrowdStrike, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 3, locationname :Murano 3306, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Murano 3306
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: standard
+description: <p>Join this session to learn about the current state of cloud-conscious adversary activity and how you can increase your security posture. Discover how CrowdStrike and Bionic work together to offer a code-to-runtime platform that provides risk insight and defense throughout your cloud environment, from infrastructure to the applications within it. This solution provides full-spectrum cloud security, covering cloud workload protection, cloud security posture management, cloud infrastructure entitlement management, and application security posture management. This presentation is brought to you by CrowdStrike, an AWS Partner.</p>
+title: Unify cloud security from code to runtime with CrowdStrike and Bionic (sponsored by CrowdStrike)
+sessionuid: 9F4285B0-F46B-458A-9947-27A50F27A40B
+thirdpartyid: SEC212-S
+speakers: firstName_0: Rob, lastName_0: Solomon, company_0: CrowdStrike, firstName_1: Brett, lastName_1: Shaw, company_1: CrowdStrike
+tag_name: Security, Compliance, & Identity, Topic, Application Security, Area of Interest, Network & Infrastructure Security, Area of Interest, 200 - Intermediate, Level, Cloud Security Specialist, Role, DevOps Engineer, Role, Wednesday, Day, Venetian, Venue

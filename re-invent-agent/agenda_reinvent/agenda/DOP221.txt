@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :200 - Intermediate, Level, DevOps Engineer, Role, Amazon CodeCatalyst, Services, Strategy & Transformation, Area of Interest, DevOps and Developer Productivity, Topic, Innovation on AWS, Area of Interest, Thursday, Day, Venetian, Venue, Developer/Engineer, Role, , speakers :firstName_0: Brian, lastName_0: Beach, , thirdpartyid :DOP221, sessionuid :3B55127F-945C-4E3E-96D9-D1D6007C7587, title :Amazon CodeCatalyst in real time: Deploying to production in minutes, description :In this follow-up demonstration to DOP210, see how you can use an Amazon CodeCatalyst blueprint to build a production-ready application that is set up for long-term success. See in real time how to create a project using a CodeCatalyst Dev Environment and deploy it to production using a CodeCatalyst workflow., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: In this follow-up demonstration to DOP210, see how you can use an Amazon CodeCatalyst blueprint to build a production-ready application that is set up for long-term success. See in real time how to create a project using a CodeCatalyst Dev Environment and deploy it to production using a CodeCatalyst workflow
+title: Amazon CodeCatalyst in real time: Deploying to production in minutes
+sessionuid: 3B55127F-945C-4E3E-96D9-D1D6007C7587
+thirdpartyid: DOP221
+speakers: firstName_0: Brian, lastName_0: Beach
+tag_name: 200 - Intermediate, Level, DevOps Engineer, Role, Amazon CodeCatalyst, Services, Strategy & Transformation, Area of Interest, DevOps and Developer Productivity, Topic, Innovation on AWS, Area of Interest, Thursday, Day, Venetian, Venue, Developer/Engineer, Role

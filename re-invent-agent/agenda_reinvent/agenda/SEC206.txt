@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Security, Compliance, & Identity, Topic, Application Security, Area of Interest, 200 - Intermediate, Level, Cloud Security Specialist, Role, IT Executive, Role, IT Professional/Technical Manager, Role, AWS WAF, Services, Wednesday, Day, Venetian, Venue, , speakers :firstName_0: Tyler, lastName_0: Wendland, company_0: Cyber Security Cloud, , thirdpartyid :SEC206-S, sessionuid :33A2AA7E-4759-49F7-9382-6E9829B4508A, title :Automating AWS WAF: Pioneering future security (sponsored by Cyber Security Cloud, Inc.), description :<p>In this lightning talk, learn about WafCharm, a solution that streamlines your daily AWS WAF operations while enhancing security. This comprehensive solution encompasses layer seven coverage with a comprehensive OWASP Top 10 rule set, Amazon CloudFront protection, and advanced IP blocking and management. With WafCharm, you can experience automated rule settings tailored for your company, ensuring a flexible security environment. Explore the future of elevated security with WafCharm. This presentation is brought to you by Cyber Security Cloud, Inc., an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>In this lightning talk, learn about WafCharm, a solution that streamlines your daily AWS WAF operations while enhancing security. This comprehensive solution encompasses layer seven coverage with a comprehensive OWASP Top 10 rule set, Amazon CloudFront protection, and advanced IP blocking and management. With WafCharm, you can experience automated rule settings tailored for your company, ensuring a flexible security environment. Explore the future of elevated security with WafCharm. This presentation is brought to you by Cyber Security Cloud, Inc., an AWS Partner.</p>
+title: Automating AWS WAF: Pioneering future security (sponsored by Cyber Security Cloud, Inc.)
+sessionuid: 33A2AA7E-4759-49F7-9382-6E9829B4508A
+thirdpartyid: SEC206-S
+speakers: firstName_0: Tyler, lastName_0: Wendland, company_0: Cyber Security Cloud
+tag_name: Security, Compliance, & Identity, Topic, Application Security, Area of Interest, 200 - Intermediate, Level, Cloud Security Specialist, Role, IT Executive, Role, IT Professional/Technical Manager, Role, AWS WAF, Services, Wednesday, Day, Venetian, Venue

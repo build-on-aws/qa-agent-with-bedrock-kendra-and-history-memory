@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 305
+summary: tag_name :Architecture, Topic, 300 - Advanced, Level, Solution/Systems Architect, Role, AI/ML, Topic, AWS Batch, Services, Healthcare, Industry, IT Professional/Technical Manager, Role, Thursday, Day, Caesars Forum, Venue, Amazon SageMaker, Services, Life Sciences, Industry, Developer/Engineer, Role, , speakers :firstName_0: Joshua, lastName_0: Broyde, , thirdpartyid :LFS302-R, sessionuid :CB79ED0E-A299-44CF-A7CF-0425601C23C9, title :Best practices for building scientific workbench environments [REPEAT], description :Scientific workbench environments have become increasingly important for researchers across a wide range of healthcare and life science disciplines. However, building and maintaining these environments can be challenging. In this chalk talk, explore some considerations and best practices for building scientific workbench environments for performing computational experiments while also performing model training and deployment at scale. Learn how you can architect such environments using Amazon SageMaker, AWS Batch, and other core AWS services. Discover the tools you need to build and maintain effective and secure environments for your research., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 305, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Alliance 305
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Scientific workbench environments have become increasingly important for researchers across a wide range of healthcare and life science disciplines. However, building and maintaining these environments can be challenging. In this chalk talk, explore some considerations and best practices for building scientific workbench environments for performing computational experiments while also performing model training and deployment at scale. Learn how you can architect such environments using Amazon SageMaker, AWS Batch, and other core AWS services. Discover the tools you need to build and maintain effective and secure environments for your research
+title: Best practices for building scientific workbench environments [REPEAT]
+sessionuid: CB79ED0E-A299-44CF-A7CF-0425601C23C9
+thirdpartyid: LFS302-R
+speakers: firstName_0: Joshua, lastName_0: Broyde
+tag_name: Architecture, Topic, 300 - Advanced, Level, Solution/Systems Architect, Role, AI/ML, Topic, AWS Batch, Services, Healthcare, Industry, IT Professional/Technical Manager, Role, Thursday, Day, Caesars Forum, Venue, Amazon SageMaker, Services, Life Sciences, Industry, Developer/Engineer, Role

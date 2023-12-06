@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Bollinger
+summary: tag_name :Solution/Systems Architect, Role, Life Sciences, Industry, Developer/Engineer, Role, 200 - Intermediate, Level, Monday, Day, Wynn, Venue, Healthcare, Industry, Business Executive, Role, Customer Stories, Area of Interest, , speakers :firstName_0: Jeffrey, lastName_0: Eckhaus, firstName_1: Patrick, lastName_1: Grennan, firstName_2: Stuart, lastName_2: Parmenter, , thirdpartyid :AMZ204, sessionuid :EFC6425F-0FEF-40BF-A9CD-2D81A63EC0D2, title :Beyond the EHR: Delivering timely, accessible care with One Medical, description :<p>One Medical builds and runs their healthcare technology platform, 1Life, on AWS. 1Life is the orchestrator at the core of their primary care model. Designed to improve health outcomes, 1Life draws from a vast array of AWS services to reduce administrative burden and improve clinician experience. In this session, learn how the 1Life system connects to and scales with a wide range of services and datasets, from operational tasks, such as claims and office management, to enabling proactive care for patients through advanced population health tooling and machine learning.</p>, sessiontype :Breakout Session, venuename :Wynn, floorplanname :Upper Level, locationname :Bollinger, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Bollinger
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Breakout Session
+description: <p>One Medical builds and runs their healthcare technology platform, 1Life, on AWS. 1Life is the orchestrator at the core of their primary care model. Designed to improve health outcomes, 1Life draws from a vast array of AWS services to reduce administrative burden and improve clinician experience. In this session, learn how the 1Life system connects to and scales with a wide range of services and datasets, from operational tasks, such as claims and office management, to enabling proactive care for patients through advanced population health tooling and machine learning.</p>
+title: Beyond the EHR: Delivering timely, accessible care with One Medical
+sessionuid: EFC6425F-0FEF-40BF-A9CD-2D81A63EC0D2
+thirdpartyid: AMZ204
+speakers: firstName_0: Jeffrey, lastName_0: Eckhaus, firstName_1: Patrick, lastName_1: Grennan, firstName_2: Stuart, lastName_2: Parmenter
+tag_name: Solution/Systems Architect, Role, Life Sciences, Industry, Developer/Engineer, Role, 200 - Intermediate, Level, Monday, Day, Wynn, Venue, Healthcare, Industry, Business Executive, Role, Customer Stories, Area of Interest

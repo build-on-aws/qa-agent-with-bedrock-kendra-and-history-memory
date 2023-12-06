@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Islander C
+summary: tag_name :Monday, Day, Mandalay Bay, Venue, Generative AI, Area of Interest, Cross Industry, Industry, Amazon Textract, Services, Financial Services, Industry, Solution/Systems Architect, Role, Amazon Comprehend, Services, Developer/Engineer, Role, Business Intelligence, Area of Interest, Government, Industry, Amazon Bedrock, Services, Data Scientist, Role, 300 - Advanced, Level, AI/ML, Topic, , speakers :firstName_0: Anjan, lastName_0: Biswas, firstName_1: Martin, lastName_1: Schade, , thirdpartyid :AIM306-R, sessionuid :63649688-5838-4B9F-9BF6-492974F7A223, title :Intelligent document processing at scale with generative AI [REPEAT], description :<p>Organizations need to classify, extract, and enrich data coming from volumes of documents. Legacy OCR is tedious, expensive, and difficult to scale. AWS intelligent document processing (IDP) services help you automatically process documents quickly and accurately at scale. In this workshop, get hands-on experience to build a document processing pipeline with AWS IDP. Learn how to use generative AI to enhance document processing capabilities to deliver key insights. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Islander C, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 00:30:00 -0500, 
+enddatetimeutc: November, 28 2023 00:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Islander C
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: <p>Organizations need to classify, extract, and enrich data coming from volumes of documents. Legacy OCR is tedious, expensive, and difficult to scale. AWS intelligent document processing (IDP) services help you automatically process documents quickly and accurately at scale. In this workshop, get hands-on experience to build a document processing pipeline with AWS IDP. Learn how to use generative AI to enhance document processing capabilities to deliver key insights. You must bring your laptop to participate.</p>
+title: Intelligent document processing at scale with generative AI [REPEAT]
+sessionuid: 63649688-5838-4B9F-9BF6-492974F7A223
+thirdpartyid: AIM306-R
+speakers: firstName_0: Anjan, lastName_0: Biswas, firstName_1: Martin, lastName_1: Schade
+tag_name: Monday, Day, Mandalay Bay, Venue, Generative AI, Area of Interest, Cross Industry, Industry, Amazon Textract, Services, Financial Services, Industry, Solution/Systems Architect, Role, Amazon Comprehend, Services, Developer/Engineer, Role, Business Intelligence, Area of Interest, Government, Industry, Amazon Bedrock, Services, Data Scientist, Role, 300 - Advanced, Level, AI/ML, Topic

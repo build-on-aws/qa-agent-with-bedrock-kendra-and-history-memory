@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Bayside A
+summary: tag_name :Monday, Day, Mandalay Bay, Venue, Community Activities, Additional Services, Inclusion & Diversity, Area of Interest, , speakers :, thirdpartyid :ACT046, sessionuid :F880A795-0BDA-43DE-8F54-D9DE4443178B, title :AWS Women of the Cloud networking luncheon, description :Find community and network with fellow re:Invent attendees as we close out the AWS Women of the Cloud event over lunch. Through focused discussions at each table, learn how to remove barriers, empower the next generation, and drive meaningful change to foster a more equitable future., sessiontype :Community Activities, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Bayside A, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 21:30:00 -0500, 
+enddatetimeutc: November, 27 2023 21:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Bayside A
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Community Activities
+description: Find community and network with fellow re:Invent attendees as we close out the AWS Women of the Cloud event over lunch. Through focused discussions at each table, learn how to remove barriers, empower the next generation, and drive meaningful change to foster a more equitable future
+title: AWS Women of the Cloud networking luncheon
+sessionuid: F880A795-0BDA-43DE-8F54-D9DE4443178B
+thirdpartyid: ACT046
+speakers: 
+tag_name: Monday, Day, Mandalay Bay, Venue, Community Activities, Additional Services, Inclusion & Diversity, Area of Interest

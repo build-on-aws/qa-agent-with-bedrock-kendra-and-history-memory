@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 121
+summary: tag_name :AWS Control Tower, Services, Management & Governance, Area of Interest, Cloud Security Specialist, Role, Cloud Operations, Topic, 300 - Advanced, Level, Wednesday, Day, Caesars Forum, Venue, AWS Config, Services, IT Professional/Technical Manager, Role, AWS Organizations, Services, Solution/Systems Architect, Role, , speakers :firstName_0: Krista, lastName_0: Gorman, firstName_1: Svetlana, lastName_1: Kolomeyskaya, firstName_2: Troy, lastName_2: Jordan, company_2: SPS Commerce, , thirdpartyid :COP318, sessionuid :E26E9F65-8D30-4810-B029-64A578819B96, title :Best practices for cloud governance, description :It can be challenging to determine where to start, how to manage hybrid or regulated environments, or how to onboard an entire organization to the cloud. In this session, learn best practices in cloud governance for building a well-architected, scalable foundation on AWS, including strategies for permission management, secure workload deployments, and environment governance. Discover insights AWS has learned from organizations that have successfully adopted the cloud., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 121, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Forum 121
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: It can be challenging to determine where to start, how to manage hybrid or regulated environments, or how to onboard an entire organization to the cloud. In this session, learn best practices in cloud governance for building a well-architected, scalable foundation on AWS, including strategies for permission management, secure workload deployments, and environment governance. Discover insights AWS has learned from organizations that have successfully adopted the cloud
+title: Best practices for cloud governance
+sessionuid: E26E9F65-8D30-4810-B029-64A578819B96
+thirdpartyid: COP318
+speakers: firstName_0: Krista, lastName_0: Gorman, firstName_1: Svetlana, lastName_1: Kolomeyskaya, firstName_2: Troy, lastName_2: Jordan, company_2: SPS Commerce
+tag_name: AWS Control Tower, Services, Management & Governance, Area of Interest, Cloud Security Specialist, Role, Cloud Operations, Topic, 300 - Advanced, Level, Wednesday, Day, Caesars Forum, Venue, AWS Config, Services, IT Professional/Technical Manager, Role, AWS Organizations, Services, Solution/Systems Architect, Role

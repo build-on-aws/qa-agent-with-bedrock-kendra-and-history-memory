@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 110
+summary: tag_name :AWS Systems Manager, Services, 300 - Advanced, Level, System Administrator, Role, Management & Governance, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Cloud Operations, Topic, DevOps Engineer, Role, Solution/Systems Architect, Role, , speakers :firstName_0: Dharmi, lastName_0: Muthu, firstName_1: Rueben, lastName_1: Jimenez, , thirdpartyid :COP327, sessionuid :68BDE583-70C1-4930-BDE1-ACF4A9C4CBE2, title :How to be an operational hero: Complete operations management on AWS, description :Operational excellence is in our DNA. Based on decades of experience, AWS offers services that can assist you in managing your operations, from day-to-day operational tasks to when the incident alarms just won’t stop. In this chalk talk, learn about various AWS services and how they can work together to significantly reduce your mean time to resolution. The talk includes whiteboarded solutions that could work for you in your environments, based on your questions., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 110, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 17:30:00 -0500, 
+enddatetimeutc: November, 29 2023 17:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: Forum 110
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Operational excellence is in our DNA. Based on decades of experience, AWS offers services that can assist you in managing your operations, from day-to-day operational tasks to when the incident alarms just won’t stop. In this chalk talk, learn about various AWS services and how they can work together to significantly reduce your mean time to resolution. The talk includes whiteboarded solutions that could work for you in your environments, based on your questions
+title: How to be an operational hero: Complete operations management on AWS
+sessionuid: 68BDE583-70C1-4930-BDE1-ACF4A9C4CBE2
+thirdpartyid: COP327
+speakers: firstName_0: Dharmi, lastName_0: Muthu, firstName_1: Rueben, lastName_1: Jimenez
+tag_name: AWS Systems Manager, Services, 300 - Advanced, Level, System Administrator, Role, Management & Governance, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Cloud Operations, Topic, DevOps Engineer, Role, Solution/Systems Architect, Role

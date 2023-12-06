@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :DevOps Engineer, Role, Cloud Operations, Topic, IT Administrator, Role, DevOps and Developer Productivity, Topic, 300 - Advanced, Level, AWS Community, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Open Source, Area of Interest, AWS Cloud Development Kit (CDK), Services, Management & Governance, Area of Interest, Developer/Engineer, Role, , speakers :firstName_0: Liz, lastName_0: Fong-Jones, company_0: honeycomb.io, , thirdpartyid :COM307, sessionuid :FB8EED65-A09B-4BF5-BA98-23AA28CDE876, title :Seamless observability with AWS Distro for OpenTelemetry, description :In the past, collecting data from your applications running on AWS could be challenging. AWS support of OpenTelemetry (OTel) via APIs and AWS Distro for OpenTelemetry (ADOT) has dramatically simplified the developer experience for observability. Learn how to instrument your applications and send data to any compatible backend using Amazon CloudWatch and Amazon Kinesis Data Streams, ADOT agents, OTel’s Kubernetes agent on Amazon EKS, and the OpenTelemetry Lambda layer. Also learn about best practices for data generation, pipeline management with the OTel collector, and schema management with the OTel semantic conventions for AWS., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: In the past, collecting data from your applications running on AWS could be challenging. AWS support of OpenTelemetry (OTel) via APIs and AWS Distro for OpenTelemetry (ADOT) has dramatically simplified the developer experience for observability. Learn how to instrument your applications and send data to any compatible backend using Amazon CloudWatch and Amazon Kinesis Data Streams, ADOT agents, OTel’s Kubernetes agent on Amazon EKS, and the OpenTelemetry Lambda layer. Also learn about best practices for data generation, pipeline management with the OTel collector, and schema management with the OTel semantic conventions for AWS
+title: Seamless observability with AWS Distro for OpenTelemetry
+sessionuid: FB8EED65-A09B-4BF5-BA98-23AA28CDE876
+thirdpartyid: COM307
+speakers: firstName_0: Liz, lastName_0: Fong-Jones, company_0: honeycomb.io
+tag_name: DevOps Engineer, Role, Cloud Operations, Topic, IT Administrator, Role, DevOps and Developer Productivity, Topic, 300 - Advanced, Level, AWS Community, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Open Source, Area of Interest, AWS Cloud Development Kit (CDK), Services, Management & Governance, Area of Interest, Developer/Engineer, Role

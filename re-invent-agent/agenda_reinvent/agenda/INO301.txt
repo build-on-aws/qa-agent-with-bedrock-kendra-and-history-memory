@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :Architecture, Topic, New to AWS, Topic, Innovation on AWS, Area of Interest, Solution/Systems Architect, Role, 300 - Advanced, Level, Wednesday, Day, Wynn, Venue, , speakers :firstName_0: Emir, lastName_0: Ayar, firstName_1: Massimiliano, lastName_1: Angelino, , thirdpartyid :INO301, sessionuid :CF1FAA89-C430-482F-BE3E-8F44895FFBB9, title :The architect’s guide to agile innovation, description :<p>In today’s fast-paced business world, ensuring that your architectural design supports agility and innovation is crucial. This chalk talk provides a comprehensive guide for architects seeking to foster a culture of rapid ideation and implementation within their organizations. Discover how successful methodologies practiced by AWS that focus on customer-centric problem-solving and iterative design can be incorporated into your teams. Learn practical steps to build flexible, scalable architectures that enable swift prototyping and efficient delivery of innovative solutions. Benefit from real-world examples of transformative results achieved by these approaches, and leave equipped with knowledge to help accelerate your organization’s innovation journey.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>In today’s fast-paced business world, ensuring that your architectural design supports agility and innovation is crucial. This chalk talk provides a comprehensive guide for architects seeking to foster a culture of rapid ideation and implementation within their organizations. Discover how successful methodologies practiced by AWS that focus on customer-centric problem-solving and iterative design can be incorporated into your teams. Learn practical steps to build flexible, scalable architectures that enable swift prototyping and efficient delivery of innovative solutions. Benefit from real-world examples of transformative results achieved by these approaches, and leave equipped with knowledge to help accelerate your organization’s innovation journey.</p>
+title: The architect’s guide to agile innovation
+sessionuid: CF1FAA89-C430-482F-BE3E-8F44895FFBB9
+thirdpartyid: INO301
+speakers: firstName_0: Emir, lastName_0: Ayar, firstName_1: Massimiliano, lastName_1: Angelino
+tag_name: Architecture, Topic, New to AWS, Topic, Innovation on AWS, Area of Interest, Solution/Systems Architect, Role, 300 - Advanced, Level, Wednesday, Day, Wynn, Venue

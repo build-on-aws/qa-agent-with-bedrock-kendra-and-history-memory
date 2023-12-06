@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Lagoon L
+summary: tag_name :Management & Governance, Area of Interest, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, Cross Industry, Industry, 200 - Intermediate, Level, Compute, Topic, Tuesday, Day, Mandalay Bay, Venue, Training & Certification, Topic, DevOps Engineer, Role, Developer/Engineer, Role, , speakers :firstName_0: Peter, lastName_0: Vandaele, , thirdpartyid :TNC208, sessionuid :B3CDFC23-2B1C-49D7-8325-6AA7941C27DB, title :Amazon EC2 instance right sizing, description :In this lab, learn how to enact specific cost-saving measures with Amazon EC2. Discover which tools can be of greatest benefit, how they can be implemented, and what to expect., sessiontype :Lab, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Lagoon L, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Lagoon L
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Lab
+description: In this lab, learn how to enact specific cost-saving measures with Amazon EC2. Discover which tools can be of greatest benefit, how they can be implemented, and what to expect
+title: Amazon EC2 instance right sizing
+sessionuid: B3CDFC23-2B1C-49D7-8325-6AA7941C27DB
+thirdpartyid: TNC208
+speakers: firstName_0: Peter, lastName_0: Vandaele
+tag_name: Management & Governance, Area of Interest, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, Cross Industry, Industry, 200 - Intermediate, Level, Compute, Topic, Tuesday, Day, Mandalay Bay, Venue, Training & Certification, Topic, DevOps Engineer, Role, Developer/Engineer, Role

@@ -1,0 +1,14 @@
+location: Venetian, Level 1, Galileo 1001B
+summary: tag_name :Tuesday, Day, Venetian, Venue, Meals & Conference Services, Additional Services, , speakers :, thirdpartyid :ACT105, sessionuid :D7D4824C-44A0-4637-A361-0D45A1B1C3CC, title :Quiet space, description :The quiet space is a calm, quiet environment designed for meals, catching up on work, or taking a break from the crowd. If you are looking for a dark, quiet space for meditation, prayer, or yoga, or to find resources for sensory needs, please search for the reflection room., sessiontype :Conference Services, venuename :Venetian, floorplanname :Level 1, locationname :Galileo 1001B, startdatetimeutc :November, 28 2023 16:00:00 -0500, enddatetimeutc :November, 29 2023 03:00:00 -0500, 
+enddatetimeutc: November, 29 2023 03:00:00 -0500
+startdatetimeutc: November, 28 2023 16:00:00 -0500
+locationname: Galileo 1001B
+floorplanname: Level 1
+venuename: Venetian
+sessiontype: Conference Services
+description: The quiet space is a calm, quiet environment designed for meals, catching up on work, or taking a break from the crowd. If you are looking for a dark, quiet space for meditation, prayer, or yoga, or to find resources for sensory needs, please search for the reflection room
+title: Quiet space
+sessionuid: D7D4824C-44A0-4637-A361-0D45A1B1C3CC
+thirdpartyid: ACT105
+speakers: 
+tag_name: Tuesday, Day, Venetian, Venue, Meals & Conference Services, Additional Services

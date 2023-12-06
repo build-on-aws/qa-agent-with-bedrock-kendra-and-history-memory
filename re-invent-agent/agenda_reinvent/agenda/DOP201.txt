@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3002
+summary: tag_name :DevOps and Developer Productivity, Topic, Developer/Engineer, Role, Amazon CodeWhisperer, Services, 200 - Intermediate, Level, Monday, Day, Venetian, Venue, Front-End Web & Mobile, Area of Interest, Generative AI, Area of Interest, , speakers :firstName_0: Rory, lastName_0: Richardson, firstName_1: Doug, lastName_1: Seven, , thirdpartyid :DOP201, sessionuid :D8DD7C69-7EDB-462E-B24F-C2F2996A80BF, title :Best practices for Amazon CodeWhisperer, an AI coding companion, description :Generative AI can create new content and ideas, including conversations, stories, images, videos, and music. Learning how to interact with generative AI effectively and proficiently is a skill worth developing. Join this session to learn about best practices for engaging with Amazon CodeWhisperer, a generative AI–powered coding companion that uses an underlying foundation model to radically improve developer productivity by generating code suggestions in real time., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3002, startdatetimeutc :November, 27 2023 21:30:00 -0500, enddatetimeutc :November, 27 2023 22:30:00 -0500, 
+enddatetimeutc: November, 27 2023 22:30:00 -0500
+startdatetimeutc: November, 27 2023 21:30:00 -0500
+locationname: Lido 3002
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Breakout Session
+description: Generative AI can create new content and ideas, including conversations, stories, images, videos, and music. Learning how to interact with generative AI effectively and proficiently is a skill worth developing. Join this session to learn about best practices for engaging with Amazon CodeWhisperer, a generative AI–powered coding companion that uses an underlying foundation model to radically improve developer productivity by generating code suggestions in real time
+title: Best practices for Amazon CodeWhisperer, an AI coding companion
+sessionuid: D8DD7C69-7EDB-462E-B24F-C2F2996A80BF
+thirdpartyid: DOP201
+speakers: firstName_0: Rory, lastName_0: Richardson, firstName_1: Doug, lastName_1: Seven
+tag_name: DevOps and Developer Productivity, Topic, Developer/Engineer, Role, Amazon CodeWhisperer, Services, 200 - Intermediate, Level, Monday, Day, Venetian, Venue, Front-End Web & Mobile, Area of Interest, Generative AI, Area of Interest

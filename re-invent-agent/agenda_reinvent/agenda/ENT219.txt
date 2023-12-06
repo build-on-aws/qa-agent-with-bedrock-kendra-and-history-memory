@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 370
+summary: tag_name :IT Professional/Technical Manager, Role, Databases, Topic, Solution/Systems Architect, Role, IT Executive, Role, Microsoft, Area of Interest, Migration & Transfer, Area of Interest, 200 - Intermediate, Level, Enterprise & Migration, Topic, Tuesday, Day, MGM Grand, Venue, Cross Industry, Industry, Amazon Elastic Compute Cloud (EC2), Services, SAP, Area of Interest, , speakers :firstName_0: Amir, lastName_0: Sotoodeh, firstName_1: Andre, lastName_1: Lamego, company_1: SAP, firstName_2: Jackie, lastName_2: To, , thirdpartyid :ENT219, sessionuid :228063B8-4997-4A1D-B123-41D6356A7F00, title :Migrating 80K SQL Server databases to AWS: A strategic ISV journey, description :In 2022, a leading brand for integrated travel, expense, and invoice management migrated over 80 thousand SQL Server databases to AWS. In this session, explore their database migration journey and why they picked AWS. Hear about the considerations and challenges their team faced, as well as best practices for migrating SQL Server databases at scale. Also, learn how they saved millions of dollars across compute, storage, and SQL Server licensing costs. To wrap it up, hear about their ongoing modernization plans for SQL Server on AWS., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 370, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Chairmans 370
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: In 2022, a leading brand for integrated travel, expense, and invoice management migrated over 80 thousand SQL Server databases to AWS. In this session, explore their database migration journey and why they picked AWS. Hear about the considerations and challenges their team faced, as well as best practices for migrating SQL Server databases at scale. Also, learn how they saved millions of dollars across compute, storage, and SQL Server licensing costs. To wrap it up, hear about their ongoing modernization plans for SQL Server on AWS
+title: Migrating 80K SQL Server databases to AWS: A strategic ISV journey
+sessionuid: 228063B8-4997-4A1D-B123-41D6356A7F00
+thirdpartyid: ENT219
+speakers: firstName_0: Amir, lastName_0: Sotoodeh, firstName_1: Andre, lastName_1: Lamego, company_1: SAP, firstName_2: Jackie, lastName_2: To
+tag_name: IT Professional/Technical Manager, Role, Databases, Topic, Solution/Systems Architect, Role, IT Executive, Role, Microsoft, Area of Interest, Migration & Transfer, Area of Interest, 200 - Intermediate, Level, Enterprise & Migration, Topic, Tuesday, Day, MGM Grand, Venue, Cross Industry, Industry, Amazon Elastic Compute Cloud (EC2), Services, SAP, Area of Interest

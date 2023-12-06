@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 113
+summary: tag_name :Amazon Elastic Compute Cloud (EC2), Services, Compute, Topic, Developer/Engineer, Role, EC2 Image Builder, Services, AWS CodeCommit, Services, 300 - Advanced, Level, Tuesday, Day, MGM Grand, Venue, Automotive, Industry, DevOps Engineer, Role, , speakers :firstName_0: Hendrik, lastName_0: Schoeneberg, firstName_1: Daniel, lastName_1: Krumpholz, , thirdpartyid :AUT301, sessionuid :2FABAAF9-FA71-4D89-83E4-C3C56B229230, title :Automotive software development: The virtual engineering workbench, description :<p>Have you wondered how to build and test automotive-grade vehicle functions on AWS? In this workshop, see how with the Virtual Engineering Workbench (VEW). Learn to create preconfigured AUTOSAR and QNX runtime environments and publish them in the AWS Service Catalog. Then, from the VEW self-service portal, select and log in to the preconfigured AUTOSAR and QNX environments to build a demo vehicle function application. Learn to integrate and run the vehicle applications on virtualized targets (virtual ECUs), running on Amazon EC2 instances, to verify and test functionality. Explore the end-to-end vision of the VEW, extending and customizing it to support your requirements and workflows. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 113, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 29 2023 00:00:00 -0500, 
+enddatetimeutc: November, 29 2023 00:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Grand 113
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>Have you wondered how to build and test automotive-grade vehicle functions on AWS? In this workshop, see how with the Virtual Engineering Workbench (VEW). Learn to create preconfigured AUTOSAR and QNX runtime environments and publish them in the AWS Service Catalog. Then, from the VEW self-service portal, select and log in to the preconfigured AUTOSAR and QNX environments to build a demo vehicle function application. Learn to integrate and run the vehicle applications on virtualized targets (virtual ECUs), running on Amazon EC2 instances, to verify and test functionality. Explore the end-to-end vision of the VEW, extending and customizing it to support your requirements and workflows. You must bring your laptop to participate.</p>
+title: Automotive software development: The virtual engineering workbench
+sessionuid: 2FABAAF9-FA71-4D89-83E4-C3C56B229230
+thirdpartyid: AUT301
+speakers: firstName_0: Hendrik, lastName_0: Schoeneberg, firstName_1: Daniel, lastName_1: Krumpholz
+tag_name: Amazon Elastic Compute Cloud (EC2), Services, Compute, Topic, Developer/Engineer, Role, EC2 Image Builder, Services, AWS CodeCommit, Services, 300 - Advanced, Level, Tuesday, Day, MGM Grand, Venue, Automotive, Industry, DevOps Engineer, Role

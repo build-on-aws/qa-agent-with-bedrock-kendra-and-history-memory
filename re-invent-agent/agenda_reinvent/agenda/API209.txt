@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Tech Explorer, Role, AWS Step Functions, Services, Developer/Engineer, Role, Solution/Systems Architect, Role, Tuesday, Day, Venetian, Venue, AWS Lambda, Services, Application Integration, Area of Interest, Serverless Compute, Topic, Cross Industry, Industry, 200 - Intermediate, Level, , speakers :firstName_0: Ben, lastName_0: Moses, , thirdpartyid :API209, sessionuid :1A916936-0955-4EFB-8DE0-E1EC1A701ED3, title :Building state machines with AWS Step Functions Workflow Studio, description :AWS Step Functions helps builders orchestrate multiple AWS services to model complex workflows and state machines. In this follow-up demonstration to API310, explore Workflow Studio for AWS Step Functions, a low-code, visual editor that helps you prototype and build workflows faster. Learn about the rich palette of integrations available in Workflow Studio, and discover how to build your own workflows., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: AWS Step Functions helps builders orchestrate multiple AWS services to model complex workflows and state machines. In this follow-up demonstration to API310, explore Workflow Studio for AWS Step Functions, a low-code, visual editor that helps you prototype and build workflows faster. Learn about the rich palette of integrations available in Workflow Studio, and discover how to build your own workflows
+title: Building state machines with AWS Step Functions Workflow Studio
+sessionuid: 1A916936-0955-4EFB-8DE0-E1EC1A701ED3
+thirdpartyid: API209
+speakers: firstName_0: Ben, lastName_0: Moses
+tag_name: Tech Explorer, Role, AWS Step Functions, Services, Developer/Engineer, Role, Solution/Systems Architect, Role, Tuesday, Day, Venetian, Venue, AWS Lambda, Services, Application Integration, Area of Interest, Serverless Compute, Topic, Cross Industry, Industry, 200 - Intermediate, Level

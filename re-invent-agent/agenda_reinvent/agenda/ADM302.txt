@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 120
+summary: tag_name :Wednesday, Day, MGM Grand, Venue, Architecture, Topic, Cloud Operations, Topic, Innovation on AWS, Area of Interest, Sustainability, Area of Interest, Cost Optimization, Area of Interest, Advertising & Marketing, Industry, 300 - Advanced, Level, Data Engineer, Role, Data Scientist, Role, Developer/Engineer, Role, Amazon Elastic Compute Cloud (EC2), Services, Amazon RedShift, Services, Amazon Relational Database Service (RDS), Services, , speakers :firstName_0: John, lastName_0: Briscoe, company_0: Annalect, firstName_1: Micah, lastName_1: Walter, firstName_2: Rakshit, lastName_2: Uppal, company_2: Amazon Ads, firstName_3: Stephanie, lastName_3: Layser, , thirdpartyid :ADM302, sessionuid :B67EA4BF-882B-4137-9C62-07797DD07137, title :Running sustainable real-time advertising workloads in the cloud, description :<p>In this session for technology and engineering leaders, learn how companies are using the cloud to reduce costs and optimize performance for scaled real-time workloads while lowering their carbon footprint. Explore how these companies are bringing sustainability to the forefront of architectural designs.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 120, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Grand 120
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>In this session for technology and engineering leaders, learn how companies are using the cloud to reduce costs and optimize performance for scaled real-time workloads while lowering their carbon footprint. Explore how these companies are bringing sustainability to the forefront of architectural designs.</p>
+title: Running sustainable real-time advertising workloads in the cloud
+sessionuid: B67EA4BF-882B-4137-9C62-07797DD07137
+thirdpartyid: ADM302
+speakers: firstName_0: John, lastName_0: Briscoe, company_0: Annalect, firstName_1: Micah, lastName_1: Walter, firstName_2: Rakshit, lastName_2: Uppal, company_2: Amazon Ads, firstName_3: Stephanie, lastName_3: Layser
+tag_name: Wednesday, Day, MGM Grand, Venue, Architecture, Topic, Cloud Operations, Topic, Innovation on AWS, Area of Interest, Sustainability, Area of Interest, Cost Optimization, Area of Interest, Advertising & Marketing, Industry, 300 - Advanced, Level, Data Engineer, Role, Data Scientist, Role, Developer/Engineer, Role, Amazon Elastic Compute Cloud (EC2), Services, Amazon RedShift, Services, Amazon Relational Database Service (RDS), Services

@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Lagoon L
+summary: tag_name :Amazon Elastic Container Registry (ECR), Services, Kubernetes, Topic, BuildOn.AWS, Area of Interest, 100 - Foundational, Level, Innovation on AWS, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, Training & Certification, Topic, Tuesday, Day, Mandalay Bay, Venue, DevOps Engineer, Role, AWS Cloud9, Services, Cross Industry, Industry, Amazon Elastic Kubernetes Service (EKS), Services, , speakers :firstName_0: Navi, lastName_0: Kaur, , thirdpartyid :TNC105, sessionuid :6DE0D72B-0421-4677-AADB-5BB33C8BA119, title :Building and deploying a containerized application with Amazon EKS, description :<p>In this lab, install the command line interface (CLI) tools required to deploy and interact with Amazon EKS and Kubernetes. Then, build an Amazon EKS cluster and node group, and deploy a sample application into your cluster.</p>, sessiontype :Lab, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Lagoon L, startdatetimeutc :November, 28 2023 21:15:00 -0500, enddatetimeutc :November, 28 2023 22:45:00 -0500, 
+enddatetimeutc: November, 28 2023 22:45:00 -0500
+startdatetimeutc: November, 28 2023 21:15:00 -0500
+locationname: Lagoon L
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Lab
+description: <p>In this lab, install the command line interface (CLI) tools required to deploy and interact with Amazon EKS and Kubernetes. Then, build an Amazon EKS cluster and node group, and deploy a sample application into your cluster.</p>
+title: Building and deploying a containerized application with Amazon EKS
+sessionuid: 6DE0D72B-0421-4677-AADB-5BB33C8BA119
+thirdpartyid: TNC105
+speakers: firstName_0: Navi, lastName_0: Kaur
+tag_name: Amazon Elastic Container Registry (ECR), Services, Kubernetes, Topic, BuildOn.AWS, Area of Interest, 100 - Foundational, Level, Innovation on AWS, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, Training & Certification, Topic, Tuesday, Day, Mandalay Bay, Venue, DevOps Engineer, Role, AWS Cloud9, Services, Cross Industry, Industry, Amazon Elastic Kubernetes Service (EKS), Services

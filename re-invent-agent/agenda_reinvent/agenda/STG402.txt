@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :IT Professional/Technical Manager, Role, Amazon FSx for OpenZFS, Services, Generative AI, Area of Interest, Aerospace & Satellite, Industry, Amazon Simple Storage Service (S3), Services, 400 - Expert, Level, System Administrator, Role, Storage, Topic, Life Sciences, Industry, Tuesday, Day, Wynn, Venue, Modernization, Area of Interest, Open Source, Area of Interest, Media & Entertainment, Industry, Amazon FSx for Lustre, Services, Solution/Systems Architect, Role, , speakers :firstName_0: Benjamin, lastName_0: Hodgens, firstName_1: Shrinath, lastName_1: Kurdekar, , thirdpartyid :STG402, sessionuid :5735A191-D6B0-415D-867D-46551305A5DA, title :Boost performance and run compute-intensive workloads at scale, description :Amazon FSx powers some of the most performance-sensitive workloads running in the cloud today. When you use AWS file storage services, you can take advantage of continuous performance improvements and optimizations. In this chalk talk, AWS experts answer your most pressing performance questions and provide best practices for optimizing your data usage. Dive into details on the performance modes, and receive guidance on how to increase IOPS, optimize throughput, and minimize latencies., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 29 2023 00:00:00 -0500, 
+enddatetimeutc: November, 29 2023 00:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Amazon FSx powers some of the most performance-sensitive workloads running in the cloud today. When you use AWS file storage services, you can take advantage of continuous performance improvements and optimizations. In this chalk talk, AWS experts answer your most pressing performance questions and provide best practices for optimizing your data usage. Dive into details on the performance modes, and receive guidance on how to increase IOPS, optimize throughput, and minimize latencies
+title: Boost performance and run compute-intensive workloads at scale
+sessionuid: 5735A191-D6B0-415D-867D-46551305A5DA
+thirdpartyid: STG402
+speakers: firstName_0: Benjamin, lastName_0: Hodgens, firstName_1: Shrinath, lastName_1: Kurdekar
+tag_name: IT Professional/Technical Manager, Role, Amazon FSx for OpenZFS, Services, Generative AI, Area of Interest, Aerospace & Satellite, Industry, Amazon Simple Storage Service (S3), Services, 400 - Expert, Level, System Administrator, Role, Storage, Topic, Life Sciences, Industry, Tuesday, Day, Wynn, Venue, Modernization, Area of Interest, Open Source, Area of Interest, Media & Entertainment, Industry, Amazon FSx for Lustre, Services, Solution/Systems Architect, Role

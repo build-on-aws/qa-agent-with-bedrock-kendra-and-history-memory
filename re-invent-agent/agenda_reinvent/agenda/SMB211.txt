@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Enterprise & Migration, Topic, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Wednesday, Day, Venetian, Venue, , speakers :firstName_0: Ben, lastName_0: Schreiner, , thirdpartyid :SMB211, sessionuid :B6AF8B77-9645-481C-A3ED-3DDD2E4A9705, title :Migration madness: The dos and don’ts of a self-run migration to AWS, description :<p>AWS has helped tens of thousands of customers migrate to the cloud, and from all those migrations, we’ve learned what works and what doesn’t. If you want to run a migration project with in-house resources, this lightning talk can guide you so you know what not to do.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>AWS has helped tens of thousands of customers migrate to the cloud, and from all those migrations, we’ve learned what works and what doesn’t. If you want to run a migration project with in-house resources, this lightning talk can guide you so you know what not to do.</p>
+title: Migration madness: The dos and don’ts of a self-run migration to AWS
+sessionuid: B6AF8B77-9645-481C-A3ED-3DDD2E4A9705
+thirdpartyid: SMB211
+speakers: firstName_0: Ben, lastName_0: Schreiner
+tag_name: Enterprise & Migration, Topic, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Wednesday, Day, Venetian, Venue

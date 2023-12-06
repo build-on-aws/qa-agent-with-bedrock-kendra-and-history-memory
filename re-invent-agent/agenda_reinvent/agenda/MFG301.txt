@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 416
+summary: tag_name :Monday, Day, AI/ML, Topic, Internet of Things, Topic, Edge Computing, Area of Interest, Manufacturing & Industrial, Industry, 300 - Advanced, Level, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon SageMaker, Services, AWS IoT Greengrass, Services, Caesars Forum, Venue, , speakers :firstName_0: Christophe, lastName_0: Didier, firstName_1: Emilia, lastName_1: Brzozowska, firstName_2: Jan, lastName_2: Metzner, firstName_3: Markus, lastName_3: Bestehorn, firstName_4: Ravi, lastName_4: Soni, , thirdpartyid :MFG301-R, sessionuid :941DBA60-6CF2-49BA-8F05-936624EDD607, title :Connect machines and map industrial data at scale using generative AI, description :<p>Factories are often full of machines, and it can be cumbersome to connect and map these disparate datasets to a standard machine informational model for future analysis. In this builders’ session, learn how to use a generative AI model trained with custom machine definitions to automatically connect factory machines at scale and map the data. Explore how you can use the data and data models with various AWS services, from AWS IoT Greengrass to your data lake, including AWS IoT TwinMaker. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 416, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Academy 416
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Factories are often full of machines, and it can be cumbersome to connect and map these disparate datasets to a standard machine informational model for future analysis. In this builders’ session, learn how to use a generative AI model trained with custom machine definitions to automatically connect factory machines at scale and map the data. Explore how you can use the data and data models with various AWS services, from AWS IoT Greengrass to your data lake, including AWS IoT TwinMaker. You must bring your laptop to participate.</p>
+title: Connect machines and map industrial data at scale using generative AI
+sessionuid: 941DBA60-6CF2-49BA-8F05-936624EDD607
+thirdpartyid: MFG301-R
+speakers: firstName_0: Christophe, lastName_0: Didier, firstName_1: Emilia, lastName_1: Brzozowska, firstName_2: Jan, lastName_2: Metzner, firstName_3: Markus, lastName_3: Bestehorn, firstName_4: Ravi, lastName_4: Soni
+tag_name: Monday, Day, AI/ML, Topic, Internet of Things, Topic, Edge Computing, Area of Interest, Manufacturing & Industrial, Industry, 300 - Advanced, Level, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon SageMaker, Services, AWS IoT Greengrass, Services, Caesars Forum, Venue

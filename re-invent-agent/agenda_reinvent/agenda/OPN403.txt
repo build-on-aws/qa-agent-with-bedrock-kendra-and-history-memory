@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 104
+summary: tag_name :DevOps Engineer, Role, Developer/Engineer, Role, 400 - Expert, Level, Thursday, Day, MGM Grand, Venue, Cloud Operations, Topic, System Administrator, Role, Open Source, Area of Interest, Amazon Elastic Kubernetes Service (EKS), Services, , speakers :firstName_0: Nima, lastName_0: Kaviani, firstName_1: Andrew, lastName_1: Lee, , thirdpartyid :OPN403, sessionuid :432445DD-9F98-418A-9D6A-007C65BC3150, title :Scaling Argo CD efficiently to handle thousands of applications, description :Argo CD is a popular CNCF continuous delivery technology for doing GitOps. In this chalk talk, hear about how AWS has started working with the Argo community to better understand and solve the scalability issues of Argo CD. This includes starting the special interest group for scalability in the open source Argo CD community and running large scalability tests to push its limits. We have deployed tens of thousands of Argo CD applications to hundreds of remote Amazon EKS clusters. This chalk talk walks through the bottlenecks observed, modifications that had to be made, and improvements made to efficiently scale Argo CD., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :104, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 23:30:00 -0500, 
+enddatetimeutc: November, 30 2023 23:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: 104
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Argo CD is a popular CNCF continuous delivery technology for doing GitOps. In this chalk talk, hear about how AWS has started working with the Argo community to better understand and solve the scalability issues of Argo CD. This includes starting the special interest group for scalability in the open source Argo CD community and running large scalability tests to push its limits. We have deployed tens of thousands of Argo CD applications to hundreds of remote Amazon EKS clusters. This chalk talk walks through the bottlenecks observed, modifications that had to be made, and improvements made to efficiently scale Argo CD
+title: Scaling Argo CD efficiently to handle thousands of applications
+sessionuid: 432445DD-9F98-418A-9D6A-007C65BC3150
+thirdpartyid: OPN403
+speakers: firstName_0: Nima, lastName_0: Kaviani, firstName_1: Andrew, lastName_1: Lee
+tag_name: DevOps Engineer, Role, Developer/Engineer, Role, 400 - Expert, Level, Thursday, Day, MGM Grand, Venue, Cloud Operations, Topic, System Administrator, Role, Open Source, Area of Interest, Amazon Elastic Kubernetes Service (EKS), Services

@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Caesars Forum Walkway
+summary: tag_name :100 - Foundational, Level, Monday, Day, Venetian, Venue, , speakers :, thirdpartyid :PRS101, sessionuid :701708DD-C7F4-4DDA-8F7B-410BA7425B8E, title :AWS Future Frequency Podcast Studio, description :The AWS Future Frequency Podcast Studio returns to re:Invent, featuring conversations with AWS leadership on the latest innovations from AWS., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 3, locationname :Caesars Forum Walkway, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 28 2023 01:00:00 -0500, 
+enddatetimeutc: November, 28 2023 01:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Caesars Forum Walkway
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Community Activities
+description: The AWS Future Frequency Podcast Studio returns to re:Invent, featuring conversations with AWS leadership on the latest innovations from AWS
+title: AWS Future Frequency Podcast Studio
+sessionuid: 701708DD-C7F4-4DDA-8F7B-410BA7425B8E
+thirdpartyid: PRS101
+speakers: 
+tag_name: 100 - Foundational, Level, Monday, Day, Venetian, Venue

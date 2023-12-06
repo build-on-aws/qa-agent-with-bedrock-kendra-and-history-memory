@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 104
+summary: tag_name :AWS Resource Explorer, Services, Solution/Systems Architect, Role, System Administrator, Role, 300 - Advanced, Level, Wednesday, Day, MGM Grand, Venue, IT Professional/Technical Manager, Role, Cloud Operations, Topic, Management & Governance, Area of Interest, , speakers :firstName_0: Brent, lastName_0: McWhorter, firstName_1: Irina, lastName_1: Masroor, , thirdpartyid :COP335, sessionuid :9E57E9BC-7377-40BA-83FF-13E9322379DE, title :Simplify the discovery of your AWS resources, description :Many organizations growing their AWS environments want to manage their applications and resources more easily. You can manage applications and resources in your AWS environment by increasing the discoverability of resources across your organization. In this chalk talk, learn how to configure AWS Resource Explorer to get better visibility of your application resources., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :104, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 21:00:00 -0500, 
+enddatetimeutc: November, 29 2023 21:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: 104
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Many organizations growing their AWS environments want to manage their applications and resources more easily. You can manage applications and resources in your AWS environment by increasing the discoverability of resources across your organization. In this chalk talk, learn how to configure AWS Resource Explorer to get better visibility of your application resources
+title: Simplify the discovery of your AWS resources
+sessionuid: 9E57E9BC-7377-40BA-83FF-13E9322379DE
+thirdpartyid: COP335
+speakers: firstName_0: Brent, lastName_0: McWhorter, firstName_1: Irina, lastName_1: Masroor
+tag_name: AWS Resource Explorer, Services, Solution/Systems Architect, Role, System Administrator, Role, 300 - Advanced, Level, Wednesday, Day, MGM Grand, Venue, IT Professional/Technical Manager, Role, Cloud Operations, Topic, Management & Governance, Area of Interest

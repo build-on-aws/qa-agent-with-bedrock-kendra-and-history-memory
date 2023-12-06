@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :200 - Intermediate, Level, Partner Enablement, Topic, Thursday, Day, Wynn, Venue, , speakers :firstName_0: James, lastName_0: Yi, firstName_1: Vishal, lastName_1: Srivastava, , thirdpartyid :PEX202-R, sessionuid :F3E4D241-513C-4CDE-986B-5635D05EDA13, title :Powering generative AI use cases with vector databases on AWS [REPEAT], description :Vector databases are an often-overlooked generative AI technology, and there are a multitude of options on AWS. In this chalk talk, learn about business use cases for this technology; how AWS and AWS Partners solve customer challenges with semantic search, data analysis, and generative AI; and how to make the right choice for your customers. This chalk talk is intended for AWS Partners., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Vector databases are an often-overlooked generative AI technology, and there are a multitude of options on AWS. In this chalk talk, learn about business use cases for this technology; how AWS and AWS Partners solve customer challenges with semantic search, data analysis, and generative AI; and how to make the right choice for your customers. This chalk talk is intended for AWS Partners
+title: Powering generative AI use cases with vector databases on AWS [REPEAT]
+sessionuid: F3E4D241-513C-4CDE-986B-5635D05EDA13
+thirdpartyid: PEX202-R
+speakers: firstName_0: James, lastName_0: Yi, firstName_1: Vishal, lastName_1: Srivastava
+tag_name: 200 - Intermediate, Level, Partner Enablement, Topic, Thursday, Day, Wynn, Venue

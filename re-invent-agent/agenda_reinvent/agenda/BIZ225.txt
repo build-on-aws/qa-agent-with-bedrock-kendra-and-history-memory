@@ -1,0 +1,14 @@
+location: Venetian, Level 5, Palazzo Ballroom B
+summary: tag_name :Amazon Connect, Services, AWS AppFabric, Services, Press/Media Analyst, Role, AWS Supply Chain, Services, Cross Industry, Industry, Business Executive, Role, Generative AI, Area of Interest, 200 - Intermediate, Level, IT Executive, Role, Business Applications, Topic, Tuesday, Day, Venetian, Venue, Application Integration, Area of Interest, AI/ML, Topic, Innovation on AWS, Area of Interest, , speakers :firstName_0: Dilip, lastName_0: Kumar, firstName_1: Kent, lastName_1: Lemon, , thirdpartyid :BIZ225-INT, sessionuid :0465DFB3-3045-4368-B5F1-CE143ACA4DFF, title :C-suite leaders talk generative AI and applications, description :Join AWS Applications VP, Dilip Kumar, for a panel session with C-suite leaders from Asana, U.S. Bank, and more on how generative AI is changing the way we think about business outcomes, customer service, and employee happiness. This Innovation Talk covers the processes and systems that generative AI will transform in organizations and the challenges leaders expect when integrating technology into their tech stack. Hear about new capabilities from the AWS Applications group, including new generative AI features and services., sessiontype :Innovation Talk, venuename :Venetian, floorplanname :Level 5, locationname :Palazzo Ballroom B, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: Palazzo Ballroom B
+floorplanname: Level 5
+venuename: Venetian
+sessiontype: Innovation Talk
+description: Join AWS Applications VP, Dilip Kumar, for a panel session with C-suite leaders from Asana, U.S. Bank, and more on how generative AI is changing the way we think about business outcomes, customer service, and employee happiness. This Innovation Talk covers the processes and systems that generative AI will transform in organizations and the challenges leaders expect when integrating technology into their tech stack. Hear about new capabilities from the AWS Applications group, including new generative AI features and services
+title: C-suite leaders talk generative AI and applications
+sessionuid: 0465DFB3-3045-4368-B5F1-CE143ACA4DFF
+thirdpartyid: BIZ225-INT
+speakers: firstName_0: Dilip, lastName_0: Kumar, firstName_1: Kent, lastName_1: Lemon
+tag_name: Amazon Connect, Services, AWS AppFabric, Services, Press/Media Analyst, Role, AWS Supply Chain, Services, Cross Industry, Industry, Business Executive, Role, Generative AI, Area of Interest, 200 - Intermediate, Level, IT Executive, Role, Business Applications, Topic, Tuesday, Day, Venetian, Venue, Application Integration, Area of Interest, AI/ML, Topic, Innovation on AWS, Area of Interest

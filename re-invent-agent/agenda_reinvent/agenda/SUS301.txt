@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific F
+summary: tag_name :Sustainability, Area of Interest, Internet of Things, Topic, Wednesday, Day, Mandalay Bay, Venue, 300 - Advanced, Level, , speakers :firstName_0: Thomas, lastName_0: Attree, firstName_1: Tamara, lastName_1: Herbert, , thirdpartyid :SUS301, sessionuid :E1703959-DD24-4DA2-B45B-5C05C55D0526, title :Renewable energy assets in the smart home: Managing demand flexibility, description :In this workshop, learn how to manage demand flexibility for residential properties equipped with interconnected renewable energy assets using a digital twin, which includes an electric vehicle, solar panels, a heat pump, and battery storage. Develop strategies for efficiently managing a surge in energy production by utilizing renewable energy resources to their fullest extent while ensuring grid stability and reducing the need for grid-supplied energy. Learn how to integrate AWS services with a digital twin, explore strategies for optimizing renewable energy utilization, and understand the demand-side response in the context of variable renewable energy generation. You must bring your laptop to participate., sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific F, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 21:30:00 -0500, 
+enddatetimeutc: November, 29 2023 21:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: South Pacific F
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: In this workshop, learn how to manage demand flexibility for residential properties equipped with interconnected renewable energy assets using a digital twin, which includes an electric vehicle, solar panels, a heat pump, and battery storage. Develop strategies for efficiently managing a surge in energy production by utilizing renewable energy resources to their fullest extent while ensuring grid stability and reducing the need for grid-supplied energy. Learn how to integrate AWS services with a digital twin, explore strategies for optimizing renewable energy utilization, and understand the demand-side response in the context of variable renewable energy generation. You must bring your laptop to participate
+title: Renewable energy assets in the smart home: Managing demand flexibility
+sessionuid: E1703959-DD24-4DA2-B45B-5C05C55D0526
+thirdpartyid: SUS301
+speakers: firstName_0: Thomas, lastName_0: Attree, firstName_1: Tamara, lastName_1: Herbert
+tag_name: Sustainability, Area of Interest, Internet of Things, Topic, Wednesday, Day, Mandalay Bay, Venue, 300 - Advanced, Level

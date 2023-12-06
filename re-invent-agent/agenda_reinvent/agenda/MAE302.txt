@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :Storage, Topic, Global Infrastructure, Area of Interest, Media & Entertainment, Industry, 300 - Advanced, Level, IT Administrator, Role, Solution/Systems Architect, Role, System Administrator, Role, Amazon Simple Storage Service (S3), Services, Monday, Day, Wynn, Venue, , speakers :firstName_0: Robert, lastName_0: Raver, firstName_1: Brandon, lastName_1: Lindauer, , thirdpartyid :MAE302, sessionuid :087ACF17-5032-4213-9D8F-196584EC64D3, title :File storage and archive migration for media and entertainment, description :<p>In this chalk talk, take a technical deep dive into file storage options and capabilities on AWS. Focusing on content production and media supply chain workflows, this talk covers AWS services and AWS Partner services, as well as architecture patterns, for creative workflows in content production. Also learn about workflows for moving video libraries and using AWS services to archive/restore data.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>In this chalk talk, take a technical deep dive into file storage options and capabilities on AWS. Focusing on content production and media supply chain workflows, this talk covers AWS services and AWS Partner services, as well as architecture patterns, for creative workflows in content production. Also learn about workflows for moving video libraries and using AWS services to archive/restore data.</p>
+title: File storage and archive migration for media and entertainment
+sessionuid: 087ACF17-5032-4213-9D8F-196584EC64D3
+thirdpartyid: MAE302
+speakers: firstName_0: Robert, lastName_0: Raver, firstName_1: Brandon, lastName_1: Lindauer
+tag_name: Storage, Topic, Global Infrastructure, Area of Interest, Media & Entertainment, Industry, 300 - Advanced, Level, IT Administrator, Role, Solution/Systems Architect, Role, System Administrator, Role, Amazon Simple Storage Service (S3), Services, Monday, Day, Wynn, Venue

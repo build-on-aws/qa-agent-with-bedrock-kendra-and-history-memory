@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 220
+summary: tag_name :300 - Advanced, Level, DevOps Engineer, Role, Well-Architected Framework, Area of Interest, Thursday, Day, Caesars Forum, Venue, AWS Cloud Development Kit (CDK), Services, DevOps and Developer Productivity, Topic, Developer/Engineer, Role, , speakers :firstName_0: Kendra, lastName_0: Neil, firstName_1: Natalie, lastName_1: White, , thirdpartyid :DOP312, sessionuid :CF99B397-35BA-4227-A08C-C2B4B512AD44, title :Creating custom constructs with AWS CDK, description :Join this chalk talk to get answers to your questions about creating, publishing, and sharing your AWS CDK constructs publicly and privately. Learn about construct levels, how to test your constructs, how to discover and use constructs in your AWS CDK projects, and explore Construct Hub., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 220, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Summit 220
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Join this chalk talk to get answers to your questions about creating, publishing, and sharing your AWS CDK constructs publicly and privately. Learn about construct levels, how to test your constructs, how to discover and use constructs in your AWS CDK projects, and explore Construct Hub
+title: Creating custom constructs with AWS CDK
+sessionuid: CF99B397-35BA-4227-A08C-C2B4B512AD44
+thirdpartyid: DOP312
+speakers: firstName_0: Kendra, lastName_0: Neil, firstName_1: Natalie, lastName_1: White
+tag_name: 300 - Advanced, Level, DevOps Engineer, Role, Well-Architected Framework, Area of Interest, Thursday, Day, Caesars Forum, Venue, AWS Cloud Development Kit (CDK), Services, DevOps and Developer Productivity, Topic, Developer/Engineer, Role

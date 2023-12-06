@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas F
+summary: tag_name :Thursday, Day, Mandalay Bay, Venue, Digital Native Business (DNB), Area of Interest, Innovation on AWS, Area of Interest, Strategy & Transformation, Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, Business Executive, Role, Entrepreneur (Founder/Co-Founder), Role, Sales/Marketing, Role, Amazon Machine Learning (ML), Services, , speakers :firstName_0: Marin, lastName_0: Mamic, firstName_1: Nneka, lastName_1: Ukpai, company_1: Better Holdco, Inc., firstName_2: Richard, lastName_2: Liang, , thirdpartyid :SEG103, sessionuid :70706BC7-36FA-4C43-928D-240E2BCA47DB, title :How Better Mortgage worked with Amazon and AWS to grow their business, description :<p>In this session, learn about an alignment mechanism designed to help you engage with different departments and functions across Amazon and AWS to grow your business. Hear from Nneka Ukpai, Head of Financial Innovation at Better Mortgage, about her team’s experience with the cross-Amazon team to ideate and launch a new One Day Mortgage product and expand their acquisition funnel with Amazon Extras.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas F, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: South Seas F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>In this session, learn about an alignment mechanism designed to help you engage with different departments and functions across Amazon and AWS to grow your business. Hear from Nneka Ukpai, Head of Financial Innovation at Better Mortgage, about her team’s experience with the cross-Amazon team to ideate and launch a new One Day Mortgage product and expand their acquisition funnel with Amazon Extras.</p>
+title: How Better Mortgage worked with Amazon and AWS to grow their business
+sessionuid: 70706BC7-36FA-4C43-928D-240E2BCA47DB
+thirdpartyid: SEG103
+speakers: firstName_0: Marin, lastName_0: Mamic, firstName_1: Nneka, lastName_1: Ukpai, company_1: Better Holdco, Inc., firstName_2: Richard, lastName_2: Liang
+tag_name: Thursday, Day, Mandalay Bay, Venue, Digital Native Business (DNB), Area of Interest, Innovation on AWS, Area of Interest, Strategy & Transformation, Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, Business Executive, Role, Entrepreneur (Founder/Co-Founder), Role, Sales/Marketing, Role, Amazon Machine Learning (ML), Services

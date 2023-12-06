@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :SaaS, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, 300 - Advanced, Level, Wednesday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, Architecture, Topic, , speakers :firstName_0: Peter, lastName_0: Yang, firstName_1: Dhammika, lastName_1: Sriyananda, , thirdpartyid :SAS308, sessionuid :3C5C27C8-167C-4A72-9FEE-EF39903D38C6, title :SaaS anywhere: Designing distributed multi-tenant architectures, description :Not every SaaS provider has the luxury of running all the moving parts of their solution within their own infrastructure. A variety of factors have SaaS teams supporting a range of more diverse architecture models, where architectures might include customer-hosted data, edge deployment for parts of the application, and on-premises components. In this session, explore architecture strategies that can be used to support the complexities of this distributed model without undermining the resilience, operational efficiency, and agility goals of your SaaS solution. Discover how this influences the onboarding, deployment, and management profile of your environment., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 02:30:00 -0500, 
+enddatetimeutc: November, 30 2023 02:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: Not every SaaS provider has the luxury of running all the moving parts of their solution within their own infrastructure. A variety of factors have SaaS teams supporting a range of more diverse architecture models, where architectures might include customer-hosted data, edge deployment for parts of the application, and on-premises components. In this session, explore architecture strategies that can be used to support the complexities of this distributed model without undermining the resilience, operational efficiency, and agility goals of your SaaS solution. Discover how this influences the onboarding, deployment, and management profile of your environment
+title: SaaS anywhere: Designing distributed multi-tenant architectures
+sessionuid: 3C5C27C8-167C-4A72-9FEE-EF39903D38C6
+thirdpartyid: SAS308
+speakers: firstName_0: Peter, lastName_0: Yang, firstName_1: Dhammika, lastName_1: Sriyananda
+tag_name: SaaS, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, 300 - Advanced, Level, Wednesday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, Architecture, Topic

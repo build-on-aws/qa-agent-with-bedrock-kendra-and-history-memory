@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 301
+summary: tag_name :Solution/Systems Architect, Role, Data Engineer, Role, Databases, Topic, Cloud Security Specialist, Role, 300 - Advanced, Level, Security, Compliance, & Identity, Topic, Wednesday, Day, MGM Grand, Venue, Amazon DynamoDB, Services, Amazon API Gateway, Services, Financial Services, Industry, Data Protection, Area of Interest, AWS Key Management Service (KMS), Services, Application Security, Area of Interest, , speakers :firstName_0: Paulo, lastName_0: Aragao, firstName_1: Mark, lastName_1: Cline, , thirdpartyid :FSI318, sessionuid :2E29A293-76CF-4AEE-8BA3-2494C4FA8648, title :Securely share PII data with a one-time password solution, description :As data sharing across accounts and companies becomes more prevalent in financial services, institutions need to be able to share personally identifiable information (PII) and sensitive data in a secure way. In this chalk talk, learn how to secure APIs with a one-time password token, which is used to validate that API calls are coming from a trusted source. Discover how services such as AWS KMS, Amazon API Gateway, and Amazon DynamoDB can simplify your PCI DSS footprint. Also, learn how services such as AWS Nitro Enclaves and AWS Payment Cryptography can increase your application security., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :301, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: 301
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: As data sharing across accounts and companies becomes more prevalent in financial services, institutions need to be able to share personally identifiable information (PII) and sensitive data in a secure way. In this chalk talk, learn how to secure APIs with a one-time password token, which is used to validate that API calls are coming from a trusted source. Discover how services such as AWS KMS, Amazon API Gateway, and Amazon DynamoDB can simplify your PCI DSS footprint. Also, learn how services such as AWS Nitro Enclaves and AWS Payment Cryptography can increase your application security
+title: Securely share PII data with a one-time password solution
+sessionuid: 2E29A293-76CF-4AEE-8BA3-2494C4FA8648
+thirdpartyid: FSI318
+speakers: firstName_0: Paulo, lastName_0: Aragao, firstName_1: Mark, lastName_1: Cline
+tag_name: Solution/Systems Architect, Role, Data Engineer, Role, Databases, Topic, Cloud Security Specialist, Role, 300 - Advanced, Level, Security, Compliance, & Identity, Topic, Wednesday, Day, MGM Grand, Venue, Amazon DynamoDB, Services, Amazon API Gateway, Services, Financial Services, Industry, Data Protection, Area of Interest, AWS Key Management Service (KMS), Services, Application Security, Area of Interest

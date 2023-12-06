@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Terrace 151
+summary: tag_name :End-User Computing, Topic, Application Security, Area of Interest, Cost Optimization, Area of Interest, Monitoring & Observability, Area of Interest, 200 - Intermediate, Level, IT Administrator, Role, IT Executive, Role, Solution/Systems Architect, Role, Amazon AppStream 2.0, Services, Amazon WorkSpaces, Services, Amazon WorkSpaces Web, Services, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Dan, lastName_0: Garibay, firstName_1: Asriel, lastName_1: Agronin, firstName_2: Dustin, lastName_2: Shelton, firstName_3: Dylan, lastName_3: Barlett, firstName_4: Spencer, lastName_4: DeBrosse, , thirdpartyid :EUC213-R, sessionuid :796E184C-2D11-443E-AA0C-C9D1252E2A10, title :Optimize Amazon WorkSpaces performance with effective monitoring [REPEAT], description :<p>Optimizing resource utilization and performance of Amazon WorkSpaces at scale requires access to actionable data. Metrics such as resource consumption by user or application can help you rightsize available resources for optimal performance while controlling expenses. In this builders’ session, get hands-on experience using an AWS CloudFormation template to gather and display detailed performance data from WorkSpaces and Amazon AppStream 2.0 instances.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Terrace 151, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Terrace 151
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Optimizing resource utilization and performance of Amazon WorkSpaces at scale requires access to actionable data. Metrics such as resource consumption by user or application can help you rightsize available resources for optimal performance while controlling expenses. In this builders’ session, get hands-on experience using an AWS CloudFormation template to gather and display detailed performance data from WorkSpaces and Amazon AppStream 2.0 instances.</p>
+title: Optimize Amazon WorkSpaces performance with effective monitoring [REPEAT]
+sessionuid: 796E184C-2D11-443E-AA0C-C9D1252E2A10
+thirdpartyid: EUC213-R
+speakers: firstName_0: Dan, lastName_0: Garibay, firstName_1: Asriel, lastName_1: Agronin, firstName_2: Dustin, lastName_2: Shelton, firstName_3: Dylan, lastName_3: Barlett, firstName_4: Spencer, lastName_4: DeBrosse
+tag_name: End-User Computing, Topic, Application Security, Area of Interest, Cost Optimization, Area of Interest, Monitoring & Observability, Area of Interest, 200 - Intermediate, Level, IT Administrator, Role, IT Executive, Role, Solution/Systems Architect, Role, Amazon AppStream 2.0, Services, Amazon WorkSpaces, Services, Amazon WorkSpaces Web, Services, Wednesday, Day, MGM Grand, Venue

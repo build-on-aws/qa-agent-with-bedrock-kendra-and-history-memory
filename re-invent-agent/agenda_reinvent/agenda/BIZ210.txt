@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Bollinger
+summary: tag_name :Databases, Topic, Life Sciences, Industry, Financial Services, Industry, Business Applications, Topic, Amazon Elastic Kubernetes Service (EKS), Services, 200 - Intermediate, Level, Sustainability, Area of Interest, IT Administrator, Role, Wednesday, Day, Wynn, Venue, Solution/Systems Architect, Role, Modernization, Area of Interest, Amazon Elastic Compute Cloud (EC2), Services, Developer/Engineer, Role, Manufacturing & Industrial, Industry, Cost Optimization, Area of Interest, , speakers :firstName_0: Ram, lastName_0: Peddibhotla, company_0: AMD, firstName_1: Mike, lastName_1: Thompson, company_1: AMD, , thirdpartyid :BIZ210-S, sessionuid :BB2F65EC-3154-4A33-8E42-9F13E31CC9DB, title :Deploy new workloads efficiently without additional investments (sponsored by AMD), description :In this session, dive deep into the benefits of AMD EPYC–powered cloud instances. Explore how AMD processors help reduce time to solution and enhance business outcomes across financial services, manufacturing, healthcare and life sciences, and more. Learn how to implement a dynamic strategy for effectively reallocating cloud budgets to enable reinvestment, fostering innovation and growth. This presentation is brought to you by AMD, an AWS Partner., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Upper Level, locationname :Bollinger, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Bollinger
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Breakout Session
+description: In this session, dive deep into the benefits of AMD EPYC–powered cloud instances. Explore how AMD processors help reduce time to solution and enhance business outcomes across financial services, manufacturing, healthcare and life sciences, and more. Learn how to implement a dynamic strategy for effectively reallocating cloud budgets to enable reinvestment, fostering innovation and growth. This presentation is brought to you by AMD, an AWS Partner
+title: Deploy new workloads efficiently without additional investments (sponsored by AMD)
+sessionuid: BB2F65EC-3154-4A33-8E42-9F13E31CC9DB
+thirdpartyid: BIZ210-S
+speakers: firstName_0: Ram, lastName_0: Peddibhotla, company_0: AMD, firstName_1: Mike, lastName_1: Thompson, company_1: AMD
+tag_name: Databases, Topic, Life Sciences, Industry, Financial Services, Industry, Business Applications, Topic, Amazon Elastic Kubernetes Service (EKS), Services, 200 - Intermediate, Level, Sustainability, Area of Interest, IT Administrator, Role, Wednesday, Day, Wynn, Venue, Solution/Systems Architect, Role, Modernization, Area of Interest, Amazon Elastic Compute Cloud (EC2), Services, Developer/Engineer, Role, Manufacturing & Industrial, Industry, Cost Optimization, Area of Interest

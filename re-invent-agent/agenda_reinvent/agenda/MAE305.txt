@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 104
+summary: tag_name :Developer/Engineer, Role, IT Administrator, Role, Amazon Personalize, Services, Networking & Content Delivery, Topic, Media & Entertainment, Industry, Edge Computing, Area of Interest, AWS Elemental MediaTailor, Services, Data Engineer, Role, Wednesday, Day, Caesars Forum, Venue, 300 - Advanced, Level, Amazon Rekognition, Services, AI/ML, Topic, , speakers :firstName_0: Phil, lastName_0: Harrison, firstName_1: Maheshwaran, lastName_1: G, , thirdpartyid :MAE305, sessionuid :56FDC1B3-B023-4F48-B2C1-9353A76045C4, title :Powering FAST channels using AI on AWS, description :AI-based free ad-supported streaming TV (FAST) services provide a convenient and cost-effective way for viewers to access a wide range of content. In this chalk talk, learn how these platforms use AI algorithms to deliver automatic scheduling, personalized content recommendations, and targeted advertisements, enhancing the viewer experience while providing a sustainable revenue model for content providers., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 104, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Forum 104
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: AI-based free ad-supported streaming TV (FAST) services provide a convenient and cost-effective way for viewers to access a wide range of content. In this chalk talk, learn how these platforms use AI algorithms to deliver automatic scheduling, personalized content recommendations, and targeted advertisements, enhancing the viewer experience while providing a sustainable revenue model for content providers
+title: Powering FAST channels using AI on AWS
+sessionuid: 56FDC1B3-B023-4F48-B2C1-9353A76045C4
+thirdpartyid: MAE305
+speakers: firstName_0: Phil, lastName_0: Harrison, firstName_1: Maheshwaran, lastName_1: G
+tag_name: Developer/Engineer, Role, IT Administrator, Role, Amazon Personalize, Services, Networking & Content Delivery, Topic, Media & Entertainment, Industry, Edge Computing, Area of Interest, AWS Elemental MediaTailor, Services, Data Engineer, Role, Wednesday, Day, Caesars Forum, Venue, 300 - Advanced, Level, Amazon Rekognition, Services, AI/ML, Topic

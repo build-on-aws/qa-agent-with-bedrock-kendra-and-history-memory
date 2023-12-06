@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 101
+summary: tag_name :Amazon OpenSearch Service, Services, Generative AI, Area of Interest, Amazon OpenSearch Serverless, Services, 300 - Advanced, Level, DevOps Engineer, Role, AI/ML, Topic, Tuesday, Day, Caesars Forum, Venue, Analytics, Topic, Data Engineer, Role, Monitoring & Observability, Area of Interest, Developer/Engineer, Role, Migration & Transfer, Area of Interest, , speakers :firstName_0: Cedric, lastName_0: Pelvet, firstName_1: Christopher, lastName_1: Berstch, company_1: factset, firstName_2: Gene, lastName_2: Alpert, , thirdpartyid :ANT327-R, sessionuid :F458C93C-48BC-4254-985F-0AB07890BE3C, title :5 steps to successfully migrating to Amazon OpenSearch Service [REPEAT], description :Migrating to Amazon OpenSearch Service involves five main steps: plan, POC, deploy, data migration, and cutover. In this session, learn how to build a successful migration strategy to OpenSearch Service. Hear technical guidance on the key milestones in each migration step, starting with your premigration inventory up to your cutover stage. In this session, also learn how to use Amazon OpenSearch Ingestion to accelerate your migration journey to OpenSearch Service., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 101, startdatetimeutc :November, 28 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 22:00:00 -0500, 
+enddatetimeutc: November, 28 2023 22:00:00 -0500
+startdatetimeutc: November, 28 2023 21:00:00 -0500
+locationname: Forum 101
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Migrating to Amazon OpenSearch Service involves five main steps: plan, POC, deploy, data migration, and cutover. In this session, learn how to build a successful migration strategy to OpenSearch Service. Hear technical guidance on the key milestones in each migration step, starting with your premigration inventory up to your cutover stage. In this session, also learn how to use Amazon OpenSearch Ingestion to accelerate your migration journey to OpenSearch Service
+title: 5 steps to successfully migrating to Amazon OpenSearch Service [REPEAT]
+sessionuid: F458C93C-48BC-4254-985F-0AB07890BE3C
+thirdpartyid: ANT327-R
+speakers: firstName_0: Cedric, lastName_0: Pelvet, firstName_1: Christopher, lastName_1: Berstch, company_1: factset, firstName_2: Gene, lastName_2: Alpert
+tag_name: Amazon OpenSearch Service, Services, Generative AI, Area of Interest, Amazon OpenSearch Serverless, Services, 300 - Advanced, Level, DevOps Engineer, Role, AI/ML, Topic, Tuesday, Day, Caesars Forum, Venue, Analytics, Topic, Data Engineer, Role, Monitoring & Observability, Area of Interest, Developer/Engineer, Role, Migration & Transfer, Area of Interest

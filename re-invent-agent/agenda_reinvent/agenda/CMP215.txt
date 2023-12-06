@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :IT Professional/Technical Manager, Role, Cost Optimization, Area of Interest, Compute, Topic, Developer/Engineer, Role, Cross Industry, Industry, Tuesday, Day, Mandalay Bay, Venue, 200 - Intermediate, Level, Monitoring & Observability, Area of Interest, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, , speakers :firstName_0: Archana, lastName_0: Balakrishnan, firstName_1: Brian, lastName_1: Phillippi, , thirdpartyid :CMP215-R, sessionuid :10E0332B-2408-45A6-91FD-D84469140926, title :Future focused: Intelligent capacity planning and management [REPEAT], description :<p>Managing your capacity footprint at the enterprise level doesn’t have to be complex. In this chalk talk, learn how to find the right balance between availability, cost, and performance when thinking about capacity management. Walk away with best practices on how you can leverage Amazon EC2 On-Demand instances, Amazon EC2 Spot instances, On-Demand Capacity Reservations, and AWS Savings Plans to achieve a cost-optimized environment even as you focus on innovating.</p>, sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 29 2023 00:00:00 -0500, enddatetimeutc :November, 29 2023 01:00:00 -0500, 
+enddatetimeutc: November, 29 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 00:00:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: <p>Managing your capacity footprint at the enterprise level doesn’t have to be complex. In this chalk talk, learn how to find the right balance between availability, cost, and performance when thinking about capacity management. Walk away with best practices on how you can leverage Amazon EC2 On-Demand instances, Amazon EC2 Spot instances, On-Demand Capacity Reservations, and AWS Savings Plans to achieve a cost-optimized environment even as you focus on innovating.</p>
+title: Future focused: Intelligent capacity planning and management [REPEAT]
+sessionuid: 10E0332B-2408-45A6-91FD-D84469140926
+thirdpartyid: CMP215-R
+speakers: firstName_0: Archana, lastName_0: Balakrishnan, firstName_1: Brian, lastName_1: Phillippi
+tag_name: IT Professional/Technical Manager, Role, Cost Optimization, Area of Interest, Compute, Topic, Developer/Engineer, Role, Cross Industry, Industry, Tuesday, Day, Mandalay Bay, Venue, 200 - Intermediate, Level, Monitoring & Observability, Area of Interest, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services

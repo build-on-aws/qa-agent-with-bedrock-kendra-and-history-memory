@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :Data Scientist, Role, AWS Community, Area of Interest, Tech Explorer, Role, Developer/Engineer, Role, Media & Entertainment, Industry, Innovation on AWS, Area of Interest, 200 - Intermediate, Level, Amazon SageMaker, Services, Thursday, Day, Caesars Forum, Venue, Amazon Bedrock, Services, AI/ML, Topic, Education, Industry, Games, Industry, , speakers :firstName_0: Agustinus, lastName_0: Nalwan, company_0: carsales.com Ltd, , thirdpartyid :COM202, sessionuid :83C8D76E-65F3-4879-B8BC-5ADBFBA83E24, title :Building an AI comic video generator with Amazon Bedrock, description :Learn how AWS Machine Learning Hero Agustinus Nalwan built Owly, an AI-powered bedtime storyteller that crafts personalized comic videos with music. In this session, discover how to use the Amazon Bedrock large language model to generate comic scripts. Learn how to fine-tune the Stable Diffusion model with the help of Amazon SageMaker JumpStart to eliminate character inconsistencies and personalize the comic video with your kids’ beloved toys as the main characters. Dive deep into the prompt engineering technique and learn to blend two images together with the Stable Diffusion model., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: Learn how AWS Machine Learning Hero Agustinus Nalwan built Owly, an AI-powered bedtime storyteller that crafts personalized comic videos with music. In this session, discover how to use the Amazon Bedrock large language model to generate comic scripts. Learn how to fine-tune the Stable Diffusion model with the help of Amazon SageMaker JumpStart to eliminate character inconsistencies and personalize the comic video with your kids’ beloved toys as the main characters. Dive deep into the prompt engineering technique and learn to blend two images together with the Stable Diffusion model
+title: Building an AI comic video generator with Amazon Bedrock
+sessionuid: 83C8D76E-65F3-4879-B8BC-5ADBFBA83E24
+thirdpartyid: COM202
+speakers: firstName_0: Agustinus, lastName_0: Nalwan, company_0: carsales.com Ltd
+tag_name: Data Scientist, Role, AWS Community, Area of Interest, Tech Explorer, Role, Developer/Engineer, Role, Media & Entertainment, Industry, Innovation on AWS, Area of Interest, 200 - Intermediate, Level, Amazon SageMaker, Services, Thursday, Day, Caesars Forum, Venue, Amazon Bedrock, Services, AI/ML, Topic, Education, Industry, Games, Industry

@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 7
+summary: tag_name :Monday, Day, Wynn, Venue, Community Activities, Additional Services, , speakers :, thirdpartyid :ACT021, sessionuid :C9363B12-CC0A-4CAF-8D96-0C6622C98AEC, title :Morning yoga session, description :Start your week with an early morning yoga session. Come dressed in your fitness gear. Yoga mats, for you to keep or donate, are provided., sessiontype :Community Activities, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 7, startdatetimeutc :November, 27 2023 14:30:00 -0500, enddatetimeutc :November, 27 2023 15:15:00 -0500, 
+enddatetimeutc: November, 27 2023 15:15:00 -0500
+startdatetimeutc: November, 27 2023 14:30:00 -0500
+locationname: Cristal 7
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Community Activities
+description: Start your week with an early morning yoga session. Come dressed in your fitness gear. Yoga mats, for you to keep or donate, are provided
+title: Morning yoga session
+sessionuid: C9363B12-CC0A-4CAF-8D96-0C6622C98AEC
+thirdpartyid: ACT021
+speakers: 
+tag_name: Monday, Day, Wynn, Venue, Community Activities, Additional Services

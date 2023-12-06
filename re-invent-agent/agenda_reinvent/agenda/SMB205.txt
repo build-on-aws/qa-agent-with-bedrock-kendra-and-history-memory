@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 121
+summary: tag_name :Monday, Day, Caesars Forum, Venue, Enterprise & Migration, Topic, Small and Midsize Business (SMB), Area of Interest, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, , speakers :firstName_0: David, lastName_0: Anderson, company_0: G-P, firstName_1: Matthew, lastName_1: Burditt, firstName_2: Serena, lastName_2: Grillo, , thirdpartyid :SMB205, sessionuid :6687504A-A720-49EF-AE20-7A83B18C8238, title :10 ways to modernize, optimize & monetize on AWS as business grows, description :<p>How can we help prevent technology in SMBs from becoming a cost overhead to enabling growth? Organizations need to sense and respond to change, including migrating to the cloud and serverless. In this session, discover how to 1/ modernize with cloud-native managed services, serverless compute, and engineering excellence; 2/ optimize resources and costs by up to 72%; and 3/ monetize by maximizing return on investment with analytics, automation, and new revenue streams. David Anderson, an Architect at G-P, shares how a small technology team can drive significant change with AWS using the Value Flywheel Effect technique to modernize across 180+ countries.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 121, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Forum 121
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>How can we help prevent technology in SMBs from becoming a cost overhead to enabling growth? Organizations need to sense and respond to change, including migrating to the cloud and serverless. In this session, discover how to 1/ modernize with cloud-native managed services, serverless compute, and engineering excellence; 2/ optimize resources and costs by up to 72%; and 3/ monetize by maximizing return on investment with analytics, automation, and new revenue streams. David Anderson, an Architect at G-P, shares how a small technology team can drive significant change with AWS using the Value Flywheel Effect technique to modernize across 180+ countries.</p>
+title: 10 ways to modernize, optimize & monetize on AWS as business grows
+sessionuid: 6687504A-A720-49EF-AE20-7A83B18C8238
+thirdpartyid: SMB205
+speakers: firstName_0: David, lastName_0: Anderson, company_0: G-P, firstName_1: Matthew, lastName_1: Burditt, firstName_2: Serena, lastName_2: Grillo
+tag_name: Monday, Day, Caesars Forum, Venue, Enterprise & Migration, Topic, Small and Midsize Business (SMB), Area of Interest, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role

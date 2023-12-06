@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Islander I
+summary: tag_name :Cross Industry, Industry, Resilience, Area of Interest, AWS Resilience Hub, Services, IT Administrator, Role, Architecture, Topic, DevOps Engineer, Role, Academic/Researcher, Role, Wednesday, Day, Mandalay Bay, Venue, 200 - Intermediate, Level, , speakers :firstName_0: Hanna, lastName_0: Ben-Moshe, firstName_1: Laura, lastName_1: Hyatt, , thirdpartyid :ARC201, sessionuid :BBCB8B44-A568-499E-8560-278E823A507D, title :Monitoring resilient architectures with AWS Resilience Hub, description :<p>Join this hands-on workshop to learn how to manage the resilience of your most critical cloud applications. Explore how to proactively manage your application’s resilience posture by enabling a notification system that will alert when your application no longer meets your recovery objectives, which happens when real-world environments change in unexpected, unplanned, or even planned ways. Discover how understanding application resilience trends using your application resilience score with proactive notifications can help you get ahead of costly disruptions. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Islander I, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Islander I
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: <p>Join this hands-on workshop to learn how to manage the resilience of your most critical cloud applications. Explore how to proactively manage your application’s resilience posture by enabling a notification system that will alert when your application no longer meets your recovery objectives, which happens when real-world environments change in unexpected, unplanned, or even planned ways. Discover how understanding application resilience trends using your application resilience score with proactive notifications can help you get ahead of costly disruptions. You must bring your laptop to participate.</p>
+title: Monitoring resilient architectures with AWS Resilience Hub
+sessionuid: BBCB8B44-A568-499E-8560-278E823A507D
+thirdpartyid: ARC201
+speakers: firstName_0: Hanna, lastName_0: Ben-Moshe, firstName_1: Laura, lastName_1: Hyatt
+tag_name: Cross Industry, Industry, Resilience, Area of Interest, AWS Resilience Hub, Services, IT Administrator, Role, Architecture, Topic, DevOps Engineer, Role, Academic/Researcher, Role, Wednesday, Day, Mandalay Bay, Venue, 200 - Intermediate, Level

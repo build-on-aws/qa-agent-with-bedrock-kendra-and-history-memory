@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Murano 3306
+summary: tag_name :Enterprise & Migration, Topic, Customer Stories, Area of Interest, Healthcare, Industry, 200 - Intermediate, Level, Advisor/Consultant, Role, Business Executive, Role, IT Executive, Role, Amazon SageMaker, Services, AWS Local Zones, Services, AWS Support, Services, Thursday, Day, Venetian, Venue, , speakers :firstName_0: Angela, lastName_0: Shippy, firstName_1: Dan, lastName_1: Bennett, company_1: Geisinger Health, , thirdpartyid :HLC202, sessionuid :1B7636E2-B1B4-4F80-B3F5-5F5FC0B9F40C, title :Reimagining healthcare delivery by migrating critical workloads to AWS, description :<p>By moving critical healthcare workloads such as electronic health records and medical images to the cloud, organizations can focus less on data center management and more on improving the quality of care and outcomes for the patients and communities they serve. Discover how leaders like Geisinger are reimagining care delivery and clinical/business operations with cloud-enabled IT infrastructure, including electronic health records on AWS and machine learning with Amazon SageMaker. Also, learn how they are looking to the future of healthcare by upskilling their workforce to adopt emerging cloud-based technologies like generative AI.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 3, locationname :Murano 3306, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Murano 3306
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: standard
+description: <p>By moving critical healthcare workloads such as electronic health records and medical images to the cloud, organizations can focus less on data center management and more on improving the quality of care and outcomes for the patients and communities they serve. Discover how leaders like Geisinger are reimagining care delivery and clinical/business operations with cloud-enabled IT infrastructure, including electronic health records on AWS and machine learning with Amazon SageMaker. Also, learn how they are looking to the future of healthcare by upskilling their workforce to adopt emerging cloud-based technologies like generative AI.</p>
+title: Reimagining healthcare delivery by migrating critical workloads to AWS
+sessionuid: 1B7636E2-B1B4-4F80-B3F5-5F5FC0B9F40C
+thirdpartyid: HLC202
+speakers: firstName_0: Angela, lastName_0: Shippy, firstName_1: Dan, lastName_1: Bennett, company_1: Geisinger Health
+tag_name: Enterprise & Migration, Topic, Customer Stories, Area of Interest, Healthcare, Industry, 200 - Intermediate, Level, Advisor/Consultant, Role, Business Executive, Role, IT Executive, Role, Amazon SageMaker, Services, AWS Local Zones, Services, AWS Support, Services, Thursday, Day, Venetian, Venue

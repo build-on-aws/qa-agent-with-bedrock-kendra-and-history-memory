@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 407
+summary: tag_name :200 - Intermediate, Level, Serverless Compute, Topic, Strategy & Transformation, Area of Interest, Developer/Engineer, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: George, lastName_0: Mao, company_0: Capital One, , thirdpartyid :SVS214-S, sessionuid :6472ADE5-7E36-466E-B050-44D3CE5B1003, title :How to create a serverless center of excellence (sponsored by Capital One), description :The cloud modernization journey often requires a change in developer skill sets, new tooling, new best practices, and new architecture standards. One of the best ways to develop best practices and the right standardizations across your enterprise is to create an enterprise-wide center of excellence (COE). In this session, Capital One shares how it created its serverless COE and adopted a serverless-first approach. Hear best practices on how Capital One implemented the COE, the type of work the COE engages in, how to deploy your own COE, and the types of metrics to capture and measure. This presentation is brought to you by Capital One, an AWS Partner., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 407, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Academy 407
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: The cloud modernization journey often requires a change in developer skill sets, new tooling, new best practices, and new architecture standards. One of the best ways to develop best practices and the right standardizations across your enterprise is to create an enterprise-wide center of excellence (COE). In this session, Capital One shares how it created its serverless COE and adopted a serverless-first approach. Hear best practices on how Capital One implemented the COE, the type of work the COE engages in, how to deploy your own COE, and the types of metrics to capture and measure. This presentation is brought to you by Capital One, an AWS Partner
+title: How to create a serverless center of excellence (sponsored by Capital One)
+sessionuid: 6472ADE5-7E36-466E-B050-44D3CE5B1003
+thirdpartyid: SVS214-S
+speakers: firstName_0: George, lastName_0: Mao, company_0: Capital One
+tag_name: 200 - Intermediate, Level, Serverless Compute, Topic, Strategy & Transformation, Area of Interest, Developer/Engineer, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Wednesday, Day, Caesars Forum, Venue

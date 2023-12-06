@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific E
+summary: tag_name :200 - Intermediate, Level, Wednesday, Day, Security, Compliance, & Identity, Topic, Mandalay Bay, Venue, , speakers :firstName_0: Gerardo, lastName_0: Estaba, firstName_1: Josh, lastName_1: Du Lac, , thirdpartyid :SEC227, sessionuid :15B22A52-2444-4C52-B914-F96A0F2B6356, title :Improving security through modern application development, description :In this session, explore security practices used in modern application development and how these address common security challenges found in legacy applications. Learn patterns for integrating security early in the development lifecycle, applying security at all layers in containerized and serverless applications, enforcing API security, implementing secure coding practices, and more. By embracing these practices, modern application development can accelerate your software delivery and enhance your security posture., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific E, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: South Pacific E
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: In this session, explore security practices used in modern application development and how these address common security challenges found in legacy applications. Learn patterns for integrating security early in the development lifecycle, applying security at all layers in containerized and serverless applications, enforcing API security, implementing secure coding practices, and more. By embracing these practices, modern application development can accelerate your software delivery and enhance your security posture
+title: Improving security through modern application development
+sessionuid: 15B22A52-2444-4C52-B914-F96A0F2B6356
+thirdpartyid: SEC227
+speakers: firstName_0: Gerardo, lastName_0: Estaba, firstName_1: Josh, lastName_1: Du Lac
+tag_name: 200 - Intermediate, Level, Wednesday, Day, Security, Compliance, & Identity, Topic, Mandalay Bay, Venue

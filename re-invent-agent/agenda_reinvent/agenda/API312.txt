@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 2
+summary: tag_name :Tuesday, Day, AI/ML, Topic, Serverless Compute, Topic, Application Integration, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, AWS Step Functions, Services, Wynn, Venue, Cross Industry, Industry, 300 - Advanced, Level, , speakers :firstName_0: Christian, lastName_0: Mueller, firstName_1: Cory, lastName_1: McBain, , thirdpartyid :API312, sessionuid :3531AD5C-3A42-465D-91CE-A9E441DB1BEE, title :Prepare terabytes of data for ML workloads with AWS Step Functions, description :<p>Is your data ready to be used for machine learning workloads? Is it ready to tune generative AI use cases? In this code talk, learn to build an AWS Step Functions workflow that easily scales from running one task at a time to thousands in parallel. Explore how a single data preparation routine, written to process one set of data, scales using Step Functions distributed map to reduce the time and cost of data preparation. Learn how to use Step Functions distributed map in your organization to manage a variety of data processing tasks.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 2, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Lafite 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Is your data ready to be used for machine learning workloads? Is it ready to tune generative AI use cases? In this code talk, learn to build an AWS Step Functions workflow that easily scales from running one task at a time to thousands in parallel. Explore how a single data preparation routine, written to process one set of data, scales using Step Functions distributed map to reduce the time and cost of data preparation. Learn how to use Step Functions distributed map in your organization to manage a variety of data processing tasks.</p>
+title: Prepare terabytes of data for ML workloads with AWS Step Functions
+sessionuid: 3531AD5C-3A42-465D-91CE-A9E441DB1BEE
+thirdpartyid: API312
+speakers: firstName_0: Christian, lastName_0: Mueller, firstName_1: Cory, lastName_1: McBain
+tag_name: Tuesday, Day, AI/ML, Topic, Serverless Compute, Topic, Application Integration, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, AWS Step Functions, Services, Wynn, Venue, Cross Industry, Industry, 300 - Advanced, Level

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 305
+summary: tag_name :Amazon CodeWhisperer, Services, 300 - Advanced, Level, Kubernetes, Topic, Thursday, Day, Caesars Forum, Venue, Open Source, Area of Interest, AWS Cloud Development Kit (CDK), Services, Amazon CodeCatalyst, Services, BuildOn.AWS, Area of Interest, , speakers :firstName_0: Mohammed Fazalullah, lastName_0: Qudrath, firstName_1: Mirabela, lastName_1: Dan, , thirdpartyid :BOA317-R, sessionuid :1C5A8CE7-7408-49B9-9B50-DECF5348A87B, title :Simplifying the Kubernetes inner development loop [REPEAT], description :The complexity of modern applications makes it challenging to develop them locally. The evolution from monolithic structures to microservices, message pipelines, third-party integrations, containers, and Kubernetes orchestration has increased complexity, raising the question of whether we should develop locally using mocks. Do we use remote development, much to the dismay of many developers? Or, do we combine local and remote assets? This chalk talk explores developer productivity, strategies for efficient local container setups, and tools like Amazon CodeWhisperer for code generation and security scans alongside Amazon CodeCatalyst for temporary development environments and deployments., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 305, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Alliance 305
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: The complexity of modern applications makes it challenging to develop them locally. The evolution from monolithic structures to microservices, message pipelines, third-party integrations, containers, and Kubernetes orchestration has increased complexity, raising the question of whether we should develop locally using mocks. Do we use remote development, much to the dismay of many developers? Or, do we combine local and remote assets? This chalk talk explores developer productivity, strategies for efficient local container setups, and tools like Amazon CodeWhisperer for code generation and security scans alongside Amazon CodeCatalyst for temporary development environments and deployments
+title: Simplifying the Kubernetes inner development loop [REPEAT]
+sessionuid: 1C5A8CE7-7408-49B9-9B50-DECF5348A87B
+thirdpartyid: BOA317-R
+speakers: firstName_0: Mohammed Fazalullah, lastName_0: Qudrath, firstName_1: Mirabela, lastName_1: Dan
+tag_name: Amazon CodeWhisperer, Services, 300 - Advanced, Level, Kubernetes, Topic, Thursday, Day, Caesars Forum, Venue, Open Source, Area of Interest, AWS Cloud Development Kit (CDK), Services, Amazon CodeCatalyst, Services, BuildOn.AWS, Area of Interest

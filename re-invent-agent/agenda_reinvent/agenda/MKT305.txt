@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 315
+summary: tag_name :AWS Marketplace, Area of Interest, Management & Governance, Area of Interest, Security, Compliance, & Identity, Topic, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Cloud Operations, Topic, IT Administrator, Role, Cross Industry, Industry, AWS Marketplace, Services, Wednesday, Day, MGM Grand, Venue, 300 - Advanced, Level, , speakers :firstName_0: Kenneth, lastName_0: Walsh, firstName_1: Soumya, lastName_1: Vanga, , thirdpartyid :MKT305, sessionuid :05273799-122A-49AF-9DAB-5FBCBA300716, title :AWS Marketplace: Fast, easy, and secure software procurement, description :<p>Successful third-party software procurement demands a strategic approach. To enable compliance and minimize risks, it is crucial to establish guardrails for product selection, define designated roles, and implement streamlined processes. In this workshop, learn how you can empower your organization to make compliant purchases with robust controls in AWS Marketplace that help you assess vendor risk and curate a catalog of approved third-party products. This workshop requires an active AWS account with admin rights. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 315, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 21:30:00 -0500, 
+enddatetimeutc: November, 29 2023 21:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Premier 315
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>Successful third-party software procurement demands a strategic approach. To enable compliance and minimize risks, it is crucial to establish guardrails for product selection, define designated roles, and implement streamlined processes. In this workshop, learn how you can empower your organization to make compliant purchases with robust controls in AWS Marketplace that help you assess vendor risk and curate a catalog of approved third-party products. This workshop requires an active AWS account with admin rights. You must bring your laptop to participate.</p>
+title: AWS Marketplace: Fast, easy, and secure software procurement
+sessionuid: 05273799-122A-49AF-9DAB-5FBCBA300716
+thirdpartyid: MKT305
+speakers: firstName_0: Kenneth, lastName_0: Walsh, firstName_1: Soumya, lastName_1: Vanga
+tag_name: AWS Marketplace, Area of Interest, Management & Governance, Area of Interest, Security, Compliance, & Identity, Topic, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Cloud Operations, Topic, IT Administrator, Role, Cross Industry, Industry, AWS Marketplace, Services, Wednesday, Day, MGM Grand, Venue, 300 - Advanced, Level

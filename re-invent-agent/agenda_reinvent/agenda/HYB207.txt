@@ -1,0 +1,14 @@
+location: Venetian, Level 5, Palazzo Ballroom B
+summary: tag_name :Innovation on AWS, Area of Interest, Internet of Things, Topic, Financial Services, Industry, IT Executive, Role, Strategy & Transformation, Area of Interest, 200 - Intermediate, Level, AWS IoT FleetWise, Services, Business Executive, Role, Healthcare, Industry, Manufacturing & Industrial, Industry, Edge Computing, Area of Interest, Thursday, Day, Venetian, Venue, AWS Outposts, Services, Amazon Braket, Services, Academic/Researcher, Role, Hybrid Cloud, Topic, , speakers :firstName_0: Bill, lastName_0: Vass, , thirdpartyid :HYB207-INT, sessionuid :9E06B3E2-D9E1-47B5-9971-18362D0E8C4E, title :Innovation talk: Emerging tech, description :Companies today are creating some of the most exciting and cutting-edge innovations with AWS. This talk highlights some of the unique ways companies are using AWS—including for hybrid environments, edge computing, high-performance computing, quantum computing, the Internet of Things, and beyond. Learn about some of the most dynamic use cases, like genomics and drug discovery; 5G networks; smart factories; uses in unconditioned environments like construction sites and oil platforms; and uses in mobile environments like ships, airplanes, and space stations., sessiontype :Innovation Talk, venuename :Venetian, floorplanname :Level 5, locationname :Palazzo Ballroom B, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Palazzo Ballroom B
+floorplanname: Level 5
+venuename: Venetian
+sessiontype: Innovation Talk
+description: Companies today are creating some of the most exciting and cutting-edge innovations with AWS. This talk highlights some of the unique ways companies are using AWS—including for hybrid environments, edge computing, high-performance computing, quantum computing, the Internet of Things, and beyond. Learn about some of the most dynamic use cases, like genomics and drug discovery; 5G networks; smart factories; uses in unconditioned environments like construction sites and oil platforms; and uses in mobile environments like ships, airplanes, and space stations
+title: Innovation talk: Emerging tech
+sessionuid: 9E06B3E2-D9E1-47B5-9971-18362D0E8C4E
+thirdpartyid: HYB207-INT
+speakers: firstName_0: Bill, lastName_0: Vass
+tag_name: Innovation on AWS, Area of Interest, Internet of Things, Topic, Financial Services, Industry, IT Executive, Role, Strategy & Transformation, Area of Interest, 200 - Intermediate, Level, AWS IoT FleetWise, Services, Business Executive, Role, Healthcare, Industry, Manufacturing & Industrial, Industry, Edge Computing, Area of Interest, Thursday, Day, Venetian, Venue, AWS Outposts, Services, Amazon Braket, Services, Academic/Researcher, Role, Hybrid Cloud, Topic

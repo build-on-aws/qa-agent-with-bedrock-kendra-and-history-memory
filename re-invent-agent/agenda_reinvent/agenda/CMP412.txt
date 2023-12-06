@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 305
+summary: tag_name :Cross Industry, Industry, IT Professional/Technical Manager, Role, 400 - Expert, Level, Compute, Topic, Kubernetes, Topic, Cost Optimization, Area of Interest, Monday, Day, Caesars Forum, Venue, Amazon Elastic Container Service (ECS), Services, DevOps Engineer, Role, Developer/Engineer, Role, Migration & Transfer, Area of Interest, Amazon Elastic Compute Cloud (EC2), Services, Amazon Elastic Kubernetes Service (EKS), Services, , speakers :firstName_0: Seth, lastName_0: Fox, firstName_1: Michael, lastName_1: Fischer, , thirdpartyid :CMP412, sessionuid :229AF7BD-2FC6-4737-BE21-B7B3BA8F0C95, title :Running containerized workloads on AWS Graviton–based instances, description :Containers are an efficient way to take advantage of the price performance of AWS Graviton. In this chalk talk, learn how to build, test, and deploy containers for Graviton using a multi-architecture approach that allows you the maximum flexibility to deploy virtually anywhere on AWS with Amazon ECS, Amazon EKS, and AWS Fargate. The talk also provides techniques to help you migrate your existing containers to AWS Graviton., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 305, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 01:00:00 -0500, 
+enddatetimeutc: November, 28 2023 01:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: Alliance 305
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Containers are an efficient way to take advantage of the price performance of AWS Graviton. In this chalk talk, learn how to build, test, and deploy containers for Graviton using a multi-architecture approach that allows you the maximum flexibility to deploy virtually anywhere on AWS with Amazon ECS, Amazon EKS, and AWS Fargate. The talk also provides techniques to help you migrate your existing containers to AWS Graviton
+title: Running containerized workloads on AWS Graviton–based instances
+sessionuid: 229AF7BD-2FC6-4737-BE21-B7B3BA8F0C95
+thirdpartyid: CMP412
+speakers: firstName_0: Seth, lastName_0: Fox, firstName_1: Michael, lastName_1: Fischer
+tag_name: Cross Industry, Industry, IT Professional/Technical Manager, Role, 400 - Expert, Level, Compute, Topic, Kubernetes, Topic, Cost Optimization, Area of Interest, Monday, Day, Caesars Forum, Venue, Amazon Elastic Container Service (ECS), Services, DevOps Engineer, Role, Developer/Engineer, Role, Migration & Transfer, Area of Interest, Amazon Elastic Compute Cloud (EC2), Services, Amazon Elastic Kubernetes Service (EKS), Services

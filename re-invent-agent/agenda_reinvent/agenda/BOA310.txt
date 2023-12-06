@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 7
+summary: tag_name :Kubernetes, Topic, BuildOn.AWS, Area of Interest, Open Source, Area of Interest, 300 - Advanced, Level, Amazon CodeWhisperer, Services, Amazon Elastic Kubernetes Service (EKS), Services, AWS Cloud Development Kit (CDK), Services, Monday, Day, Wynn, Venue, , speakers :firstName_0: Viktor, lastName_0: Vedmich, firstName_1: Mike, lastName_1: Golubev, , thirdpartyid :BOA310, sessionuid :44AB86BC-30A6-41FE-AC59-92A76A149E1B, title :New era of IaC: Effective Kubernetes management with CDK8s, description :<p>Join this session to learn how to use Cloud Development Kit for Kubernetes (CDK8s) to write secure and well-architected Kubernetes applications. Watch a demo of how to use AI code assistant Amazon CodeWhisperer to help write CDK8s code for validation of manifests against organizational policies and to revolutionize your deployment processes, promoting consistency and efficiency across development teams. In this session, see of the power of CDK8s and CodeWhisperer in action to avoid misconfigurations and costly mistakes.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 7, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Cristal 7
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: standard
+description: <p>Join this session to learn how to use Cloud Development Kit for Kubernetes (CDK8s) to write secure and well-architected Kubernetes applications. Watch a demo of how to use AI code assistant Amazon CodeWhisperer to help write CDK8s code for validation of manifests against organizational policies and to revolutionize your deployment processes, promoting consistency and efficiency across development teams. In this session, see of the power of CDK8s and CodeWhisperer in action to avoid misconfigurations and costly mistakes.</p>
+title: New era of IaC: Effective Kubernetes management with CDK8s
+sessionuid: 44AB86BC-30A6-41FE-AC59-92A76A149E1B
+thirdpartyid: BOA310
+speakers: firstName_0: Viktor, lastName_0: Vedmich, firstName_1: Mike, lastName_1: Golubev
+tag_name: Kubernetes, Topic, BuildOn.AWS, Area of Interest, Open Source, Area of Interest, 300 - Advanced, Level, Amazon CodeWhisperer, Services, Amazon Elastic Kubernetes Service (EKS), Services, AWS Cloud Development Kit (CDK), Services, Monday, Day, Wynn, Venue

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 9
+summary: tag_name :Application Integration, Area of Interest, Serverless Compute, Topic, 200 - Intermediate, Level, Amazon EventBridge, Services, Amazon Simple Notification Service (SNS), Services, Amazon Elastic Kubernetes Service (EKS), Services, Developer/Engineer, Role, Solution/Systems Architect, Role, Wednesday, Day, Wynn, Venue, Kubernetes, Topic, , speakers :firstName_0: Dhiraj, lastName_0: Mahapatro, firstName_1: Nicholas, lastName_1: Stumpos, company_1: JPMorgan Chase & Co, , thirdpartyid :API206, sessionuid :23E0E645-DAC8-4774-A8C6-E1DBCFDB0808, title :Bringing workloads together with event-driven architecture, description :Event-driven architectures help you build production-grade applications quickly from the ground up. However, not every workload is a greenfield application, and many customers prefer to manage their business logic on containers using either Amazon ECS or Amazon EKS. Attend this session to learn the steps to bring your existing container workloads closer together using event-driven architecture with minimal code changes and a high degree of reusability. Using a real-life business example, this session walks through a demo to highlight the power of this approach., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 9, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Lafite 9
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: Event-driven architectures help you build production-grade applications quickly from the ground up. However, not every workload is a greenfield application, and many customers prefer to manage their business logic on containers using either Amazon ECS or Amazon EKS. Attend this session to learn the steps to bring your existing container workloads closer together using event-driven architecture with minimal code changes and a high degree of reusability. Using a real-life business example, this session walks through a demo to highlight the power of this approach
+title: Bringing workloads together with event-driven architecture
+sessionuid: 23E0E645-DAC8-4774-A8C6-E1DBCFDB0808
+thirdpartyid: API206
+speakers: firstName_0: Dhiraj, lastName_0: Mahapatro, firstName_1: Nicholas, lastName_1: Stumpos, company_1: JPMorgan Chase & Co
+tag_name: Application Integration, Area of Interest, Serverless Compute, Topic, 200 - Intermediate, Level, Amazon EventBridge, Services, Amazon Simple Notification Service (SNS), Services, Amazon Elastic Kubernetes Service (EKS), Services, Developer/Engineer, Role, Solution/Systems Architect, Role, Wednesday, Day, Wynn, Venue, Kubernetes, Topic

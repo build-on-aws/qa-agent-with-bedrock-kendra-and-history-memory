@@ -1,0 +1,14 @@
+location: MGM Grand, Level 2, 154
+summary: tag_name :Thursday, Day, MGM Grand, Venue, Meals & Conference Services, Additional Services, , speakers :, thirdpartyid :ACT070, sessionuid :16CED6FE-1BFF-407E-A339-958B06B790E1, title :Lactation room, description :<p>The lactation room provides parents with a private, secure space to express breastmilk for their nursing child. The room is equipped with lockers, a refrigerator, a microwave, disposable cold packs and wipes, and a comfortable space to pump. Reservations for the duration of the conference can be made at the check-in desk outside the room.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 2, locationname :154, startdatetimeutc :November, 30 2023 16:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 16:00:00 -0500
+locationname: 154
+floorplanname: Level 2
+venuename: MGM Grand
+sessiontype: standard
+description: <p>The lactation room provides parents with a private, secure space to express breastmilk for their nursing child. The room is equipped with lockers, a refrigerator, a microwave, disposable cold packs and wipes, and a comfortable space to pump. Reservations for the duration of the conference can be made at the check-in desk outside the room.</p>
+title: Lactation room
+sessionuid: 16CED6FE-1BFF-407E-A339-958B06B790E1
+thirdpartyid: ACT070
+speakers: 
+tag_name: Thursday, Day, MGM Grand, Venue, Meals & Conference Services, Additional Services

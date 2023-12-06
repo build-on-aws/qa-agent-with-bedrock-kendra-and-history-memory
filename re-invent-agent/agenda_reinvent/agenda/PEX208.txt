@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Murano 3306
+summary: tag_name :200 - Intermediate, Level, Partner Enablement, Topic, Monday, Day, Venetian, Venue, , speakers :firstName_0: Diego, lastName_0: Dalmolin, firstName_1: Steph, lastName_1: Rowan, , thirdpartyid :PEX208, sessionuid :0C0E74A8-145D-4D53-BF76-49E96029C141, title :Building a practice to optimize your customer’s resilience journey, description :Resilience is a journey that is as much a mindset as a technology solution. Everything fails eventually, and minimizing the impact to business stakeholders is the paramount goal of any company. Helping your customers shift toward an “always on, always available” mindset for their applications and services is crucial. Learn how AWS Partners can play an important role across the design, operation, and recovery phases for critical workloads through resiliency best practices; tips and tricks from AWS experts; and how to take your resiliency practice to the next level. This session is intended for AWS Partners., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 3, locationname :Murano 3306, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 17:30:00 -0500, 
+enddatetimeutc: November, 27 2023 17:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: Murano 3306
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Breakout Session
+description: Resilience is a journey that is as much a mindset as a technology solution. Everything fails eventually, and minimizing the impact to business stakeholders is the paramount goal of any company. Helping your customers shift toward an “always on, always available” mindset for their applications and services is crucial. Learn how AWS Partners can play an important role across the design, operation, and recovery phases for critical workloads through resiliency best practices; tips and tricks from AWS experts; and how to take your resiliency practice to the next level. This session is intended for AWS Partners
+title: Building a practice to optimize your customer’s resilience journey
+sessionuid: 0C0E74A8-145D-4D53-BF76-49E96029C141
+thirdpartyid: PEX208
+speakers: firstName_0: Diego, lastName_0: Dalmolin, firstName_1: Steph, lastName_1: Rowan
+tag_name: 200 - Intermediate, Level, Partner Enablement, Topic, Monday, Day, Venetian, Venue

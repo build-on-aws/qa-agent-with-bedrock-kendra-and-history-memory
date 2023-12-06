@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Mandalay Bay Ballroom F
+summary: tag_name :200 - Intermediate, Level, DevOps and Developer Productivity, Topic, Cross Industry, Industry, DevOps Engineer, Role, Solution/Systems Architect, Role, Developer/Engineer, Role, Tuesday, Day, Mandalay Bay, Venue, Training & Certification, Topic, BuildOn.AWS, Area of Interest, , speakers :, thirdpartyid :GHJ203, sessionuid :20DD1BC0-4660-4A2A-B54E-3EAD6FB8E584, title :AWS Jam: DevOps, description :Are you looking to enhance your AWS DevOps skills? Don't miss this opportunity to immerse yourself in AWS DevOps challenges, gain hands-on experience with AWS services and offerings from AWS partners, and get a chance to win prizes. Activities are designed for users of all skill levels and AWS experts are available to help elevate your knowledge. Come with a team, or if you don't have a team, we will help you join one. All you need to bring is your desire to learn and a laptop., sessiontype :Gamified Learning, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Mandalay Bay Ballroom F, startdatetimeutc :November, 28 2023 16:00:00 -0500, enddatetimeutc :November, 28 2023 19:00:00 -0500, 
+enddatetimeutc: November, 28 2023 19:00:00 -0500
+startdatetimeutc: November, 28 2023 16:00:00 -0500
+locationname: Mandalay Bay Ballroom F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Gamified Learning
+description: Are you looking to enhance your AWS DevOps skills? Don't miss this opportunity to immerse yourself in AWS DevOps challenges, gain hands-on experience with AWS services and offerings from AWS partners, and get a chance to win prizes. Activities are designed for users of all skill levels and AWS experts are available to help elevate your knowledge. Come with a team, or if you don't have a team, we will help you join one. All you need to bring is your desire to learn and a laptop
+title: AWS Jam: DevOps
+sessionuid: 20DD1BC0-4660-4A2A-B54E-3EAD6FB8E584
+thirdpartyid: GHJ203
+speakers: 
+tag_name: 200 - Intermediate, Level, DevOps and Developer Productivity, Topic, Cross Industry, Industry, DevOps Engineer, Role, Solution/Systems Architect, Role, Developer/Engineer, Role, Tuesday, Day, Mandalay Bay, Venue, Training & Certification, Topic, BuildOn.AWS, Area of Interest

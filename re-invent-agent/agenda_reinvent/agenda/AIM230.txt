@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Wednesday, Day, Venetian, Venue, AI/ML, Topic, Partner Enablement, Topic, Edge Computing, Area of Interest, Innovation on AWS, Area of Interest, Responsible AI, Area of Interest, Strategy & Transformation, Area of Interest, Manufacturing & Industrial, Industry, Cross Industry, Industry, 200 - Intermediate, Level, IT Executive, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, , speakers :firstName_0: Tony, lastName_0: Vincent, company_0: Splunk, , thirdpartyid :AIM230-S, sessionuid :AE17B272-B1A6-4EA7-A75C-870727B902A2, title :Splunk Edge Hub for OT/IIoT data collection and edge computing (sponsored by Splunk), description :<p>Splunk Edge Hub makes collecting data from industrial and environmental sensors fast and easy. This frees that data for uses beyond the silos where it has typically been trapped, so it can merge with and enrich other security, IT, and business data. Join this lightning talk to see how it works and why it’s important. This presentation is brought to you by Splunk, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 29 2023 23:20:00 -0500, 
+enddatetimeutc: November, 29 2023 23:20:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Splunk Edge Hub makes collecting data from industrial and environmental sensors fast and easy. This frees that data for uses beyond the silos where it has typically been trapped, so it can merge with and enrich other security, IT, and business data. Join this lightning talk to see how it works and why it’s important. This presentation is brought to you by Splunk, an AWS Partner.</p>
+title: Splunk Edge Hub for OT/IIoT data collection and edge computing (sponsored by Splunk)
+sessionuid: AE17B272-B1A6-4EA7-A75C-870727B902A2
+thirdpartyid: AIM230-S
+speakers: firstName_0: Tony, lastName_0: Vincent, company_0: Splunk
+tag_name: Wednesday, Day, Venetian, Venue, AI/ML, Topic, Partner Enablement, Topic, Edge Computing, Area of Interest, Innovation on AWS, Area of Interest, Responsible AI, Area of Interest, Strategy & Transformation, Area of Interest, Manufacturing & Industrial, Industry, Cross Industry, Industry, 200 - Intermediate, Level, IT Executive, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role

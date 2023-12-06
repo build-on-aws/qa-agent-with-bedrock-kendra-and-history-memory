@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Convention Center, Bayside B, Pickleball Free Play
+summary: tag_name :Thursday, Day, Mandalay Bay, Venue, Community Activities, Additional Services, , speakers :, thirdpartyid :ACT146, sessionuid :FDC4D706-09BA-4412-8176-05681D3F5D62, title :Pickleball free play, description :<p>We’re bringing pickleball to AWS re:Invent! Play for fun or get warmed up to participate in the AWS Pickleball Tournament. We have dedicated courts just for free play during all re:Invent Rec Center hours.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Convention Center, Bayside B, Pickleball Free Play, startdatetimeutc :November, 30 2023 18:00:00 -0500, enddatetimeutc :December, 01 2023 02:00:00 -0500, 
+enddatetimeutc: December, 01 2023 02:00:00 -0500
+startdatetimeutc: November, 30 2023 18:00:00 -0500
+locationname: South Convention Center, Bayside B, Pickleball Free Play
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>We’re bringing pickleball to AWS re:Invent! Play for fun or get warmed up to participate in the AWS Pickleball Tournament. We have dedicated courts just for free play during all re:Invent Rec Center hours.</p>
+title: Pickleball free play
+sessionuid: FDC4D706-09BA-4412-8176-05681D3F5D62
+thirdpartyid: ACT146
+speakers: 
+tag_name: Thursday, Day, Mandalay Bay, Venue, Community Activities, Additional Services

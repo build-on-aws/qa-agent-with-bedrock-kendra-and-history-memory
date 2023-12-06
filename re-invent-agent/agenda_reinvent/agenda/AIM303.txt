@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 216
+summary: tag_name :Business Executive, Role, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Amazon SageMaker, Services, Generative AI, Area of Interest, Innovation on AWS, Area of Interest, 300 - Advanced, Level, AI/ML, Topic, Tuesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Dan, lastName_0: Sinnreich, firstName_1: Claire, lastName_1: O'Brien Rajkumar, , thirdpartyid :AIM303, sessionuid :B8E3F9CB-758E-4BA7-B40A-855996BE25BA, title :Build and evaluate state-of-the-art ML models without writing code, description :<p>Building machine learning (ML) models can be complex and time-consuming. Amazon SageMaker Canvas simplifies the experience by providing a visual interface to generate accurate ML predictions without having to write a single line of code. In this workshop, get hands-on with ready-to-use models, including foundation models, and build custom models to generate predictions. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 216, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Summit 216
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Building machine learning (ML) models can be complex and time-consuming. Amazon SageMaker Canvas simplifies the experience by providing a visual interface to generate accurate ML predictions without having to write a single line of code. In this workshop, get hands-on with ready-to-use models, including foundation models, and build custom models to generate predictions. You must bring your laptop to participate.</p>
+title: Build and evaluate state-of-the-art ML models without writing code
+sessionuid: B8E3F9CB-758E-4BA7-B40A-855996BE25BA
+thirdpartyid: AIM303
+speakers: firstName_0: Dan, lastName_0: Sinnreich, firstName_1: Claire, lastName_1: O'Brien Rajkumar
+tag_name: Business Executive, Role, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Amazon SageMaker, Services, Generative AI, Area of Interest, Innovation on AWS, Area of Interest, 300 - Advanced, Level, AI/ML, Topic, Tuesday, Day, Caesars Forum, Venue

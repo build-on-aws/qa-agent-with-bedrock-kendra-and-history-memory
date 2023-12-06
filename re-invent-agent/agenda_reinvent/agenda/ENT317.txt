@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 115
+summary: tag_name :Migration & Transfer, Area of Interest, AWS Managed Services (AMS), Services, 300 - Advanced, Level, Cross Industry, Industry, VMware, Area of Interest, Thursday, Day, Caesars Forum, Venue, Enterprise & Migration, Topic, Microsoft, Area of Interest, Amazon Elastic Compute Cloud (EC2), Services, IT Professional/Technical Manager, Role, Business Executive, Role, Solution/Systems Architect, Role, , speakers :firstName_0: David, lastName_0: Piet, firstName_1: Roddy, lastName_1: Pimentel, , thirdpartyid :ENT317, sessionuid :3641AFF3-8E4D-4C9E-BB54-02491A9FFB6B, title :Microsoft migration paths with Amazon EC2 and VMware Cloud on AWS, description :If you’re running Microsoft workloads on premises, you have several options for migrating them to AWS. In this chalk talk, learn about the technical and business advantages of using popular migration destinations, such as Amazon EC2, VMware Cloud on AWS, and other managed services. Discover ways to optimize as you migrate and learn about common modernization paths organizations take. There will be an opportunity to ask questions about your migration., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 115, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Forum 115
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: If you’re running Microsoft workloads on premises, you have several options for migrating them to AWS. In this chalk talk, learn about the technical and business advantages of using popular migration destinations, such as Amazon EC2, VMware Cloud on AWS, and other managed services. Discover ways to optimize as you migrate and learn about common modernization paths organizations take. There will be an opportunity to ask questions about your migration
+title: Microsoft migration paths with Amazon EC2 and VMware Cloud on AWS
+sessionuid: 3641AFF3-8E4D-4C9E-BB54-02491A9FFB6B
+thirdpartyid: ENT317
+speakers: firstName_0: David, lastName_0: Piet, firstName_1: Roddy, lastName_1: Pimentel
+tag_name: Migration & Transfer, Area of Interest, AWS Managed Services (AMS), Services, 300 - Advanced, Level, Cross Industry, Industry, VMware, Area of Interest, Thursday, Day, Caesars Forum, Venue, Enterprise & Migration, Topic, Microsoft, Area of Interest, Amazon Elastic Compute Cloud (EC2), Services, IT Professional/Technical Manager, Role, Business Executive, Role, Solution/Systems Architect, Role

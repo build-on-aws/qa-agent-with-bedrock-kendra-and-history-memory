@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 5
+summary: tag_name :Wynn, Venue, Monday, Day, Amazon Kendra, Services, Social Impact, Area of Interest, Cross Industry, Industry, Nonprofit, Industry, Developer/Engineer, Role, Amazon Bedrock, Services, Generative AI, Area of Interest, 200 - Intermediate, Level, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon SageMaker, Services, Customer Enablement, Topic, AI/ML, Topic, , speakers :firstName_0: Akshay, lastName_0: Saxena, firstName_1: Han, lastName_1: Tran, , thirdpartyid :IMP201, sessionuid :F0498565-122D-4A40-B44A-2EF822BCB877, title :Amplifying nonprofit donor and member experience with AI/ML, description :<p>This is an interactive workshop designed to help nonprofit builders create personalized solutions that amplify the donor and member experience. Build a web-based Q&amp;A chatbot using AWS AI/ML services. This chatbot will understand users’ intent and enrich the request using donor and member preferences from the enterprise content to generate a relevant response. Gain practical skills using AWS AI/ML services to build conversational interfaces that can help your nonprofit organization amplify donor and member experience. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 5, startdatetimeutc :November, 28 2023 01:00:00 -0500, enddatetimeutc :November, 28 2023 03:00:00 -0500, 
+enddatetimeutc: November, 28 2023 03:00:00 -0500
+startdatetimeutc: November, 28 2023 01:00:00 -0500
+locationname: Cristal 5
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: <p>This is an interactive workshop designed to help nonprofit builders create personalized solutions that amplify the donor and member experience. Build a web-based Q&amp;A chatbot using AWS AI/ML services. This chatbot will understand users’ intent and enrich the request using donor and member preferences from the enterprise content to generate a relevant response. Gain practical skills using AWS AI/ML services to build conversational interfaces that can help your nonprofit organization amplify donor and member experience. You must bring your laptop to participate.</p>
+title: Amplifying nonprofit donor and member experience with AI/ML
+sessionuid: F0498565-122D-4A40-B44A-2EF822BCB877
+thirdpartyid: IMP201
+speakers: firstName_0: Akshay, lastName_0: Saxena, firstName_1: Han, lastName_1: Tran
+tag_name: Wynn, Venue, Monday, Day, Amazon Kendra, Services, Social Impact, Area of Interest, Cross Industry, Industry, Nonprofit, Industry, Developer/Engineer, Role, Amazon Bedrock, Services, Generative AI, Area of Interest, 200 - Intermediate, Level, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon SageMaker, Services, Customer Enablement, Topic, AI/ML, Topic

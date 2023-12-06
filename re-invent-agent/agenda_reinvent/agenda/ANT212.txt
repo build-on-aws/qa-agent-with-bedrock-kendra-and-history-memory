@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 407
+summary: tag_name :AWS CloudTrail, Services, Business Intelligence, Area of Interest, Cloud Security Specialist, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, 200 - Intermediate, Level, Amazon Security Lake, Services, Amazon CloudWatch, Services, Security, Compliance, & Identity, Topic, Caesars Forum, Venue, Wednesday, Day, Analytics, Topic, Data Scientist, Role, Data Engineer, Role, , speakers :firstName_0: Tom, lastName_0: Smit, company_0: Splunk, , thirdpartyid :ANT212-S, sessionuid :D5954307-65BE-4253-AA02-F9374F4BE885, title :Get the most out of Splunk Security, OCSF, and Amazon Security Lake (sponsored by Splunk), description :With the release of the Amazon Security Lake and the Open Cybersecurity Schema Framework (OCSF), Splunk Security is now in a unique position to provide insights into your security data wherever it resides. Join this session to learn about getting data in, and explore the unique capabilities of OCSF and the Common Information Model (CIM) as well as AWS and Splunk configurations. Hear about practical use cases, setup and configuration, and the next steps in using Splunk Security with Amazon Security Lake. This presentation is brought to you by Splunk, an AWS Partner., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 407, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Academy 407
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: With the release of the Amazon Security Lake and the Open Cybersecurity Schema Framework (OCSF), Splunk Security is now in a unique position to provide insights into your security data wherever it resides. Join this session to learn about getting data in, and explore the unique capabilities of OCSF and the Common Information Model (CIM) as well as AWS and Splunk configurations. Hear about practical use cases, setup and configuration, and the next steps in using Splunk Security with Amazon Security Lake. This presentation is brought to you by Splunk, an AWS Partner
+title: Get the most out of Splunk Security, OCSF, and Amazon Security Lake (sponsored by Splunk)
+sessionuid: D5954307-65BE-4253-AA02-F9374F4BE885
+thirdpartyid: ANT212-S
+speakers: firstName_0: Tom, lastName_0: Smit, company_0: Splunk
+tag_name: AWS CloudTrail, Services, Business Intelligence, Area of Interest, Cloud Security Specialist, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, 200 - Intermediate, Level, Amazon Security Lake, Services, Amazon CloudWatch, Services, Security, Compliance, & Identity, Topic, Caesars Forum, Venue, Wednesday, Day, Analytics, Topic, Data Scientist, Role, Data Engineer, Role

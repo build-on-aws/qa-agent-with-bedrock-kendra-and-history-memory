@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 122
+summary: tag_name :Monitoring & Observability, Area of Interest, Cloud Operations, Topic, Solution/Systems Architect, Role, System Administrator, Role, DevOps Engineer, Role, Amazon CloudWatch, Services, Wednesday, Day, MGM Grand, Venue, 300 - Advanced, Level, , speakers :firstName_0: Bobby, lastName_0: Hallahan, firstName_1: Nikhil, lastName_1: Dewan, , thirdpartyid :COP326, sessionuid :B4B6298E-90D5-430C-BDAD-6A869915FA78, title :Get actionable insights from Amazon CloudWatch Logs, description :Are you maximizing the value from your Amazon CloudWatch Logs? Join this session to get more out of your CloudWatch Logs when you optimize for the right insights. Learn how you can use the latest capabilities in CloudWatch Logs to improve your observability posture. Learn how to use the logs you already ingest by adding context to your data. From pattern detection with machine learning to high-res capabilities in EMF to real-time interactive analysis, see how you can get actionable insights from your logs., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 122, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Grand 122
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Are you maximizing the value from your Amazon CloudWatch Logs? Join this session to get more out of your CloudWatch Logs when you optimize for the right insights. Learn how you can use the latest capabilities in CloudWatch Logs to improve your observability posture. Learn how to use the logs you already ingest by adding context to your data. From pattern detection with machine learning to high-res capabilities in EMF to real-time interactive analysis, see how you can get actionable insights from your logs
+title: Get actionable insights from Amazon CloudWatch Logs
+sessionuid: B4B6298E-90D5-430C-BDAD-6A869915FA78
+thirdpartyid: COP326
+speakers: firstName_0: Bobby, lastName_0: Hallahan, firstName_1: Nikhil, lastName_1: Dewan
+tag_name: Monitoring & Observability, Area of Interest, Cloud Operations, Topic, Solution/Systems Architect, Role, System Administrator, Role, DevOps Engineer, Role, Amazon CloudWatch, Services, Wednesday, Day, MGM Grand, Venue, 300 - Advanced, Level

@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Monday, Day, Venetian, Venue, AI/ML, Topic, DevOps and Developer Productivity, Topic, Generative AI, Area of Interest, 200 - Intermediate, Level, Data Scientist, Role, Developer/Engineer, Role, IT Executive, Role, , speakers :firstName_0: Robert, lastName_0: Nishihara, company_0: Anyscale, , thirdpartyid :AIM251-S, sessionuid :F23036EC-939A-4DF4-B292-2CE0A5D5BA1E, title :Secure, private LLMs in your cloud with Anyscale Endpoints (sponsored by Anyscale), description :<p>What if you could have your own fine-tuned, optimized LLMs running in your cloud, private for your business? ChatGPT has shown the world the power of LLMs but has raised challenges around cost, privacy, and control. This lightning talk uses benchmarks and real-world customer examples to show how open source LLMs have quickly closed the gap with proprietary alternatives and how Anyscale can make it easy for you to deliver a personalized, scalable, cost-efficient LLM service in your own AWS account. Hear about the work AWS and Anyscale have done to optimize AI workload performance on AWS Inferentia and AWS Trainium instances. This presentation is brought to you by Anyscale, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :November, 28 2023 01:00:00 -0500, enddatetimeutc :November, 28 2023 01:20:00 -0500, 
+enddatetimeutc: November, 28 2023 01:20:00 -0500
+startdatetimeutc: November, 28 2023 01:00:00 -0500
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>What if you could have your own fine-tuned, optimized LLMs running in your cloud, private for your business? ChatGPT has shown the world the power of LLMs but has raised challenges around cost, privacy, and control. This lightning talk uses benchmarks and real-world customer examples to show how open source LLMs have quickly closed the gap with proprietary alternatives and how Anyscale can make it easy for you to deliver a personalized, scalable, cost-efficient LLM service in your own AWS account. Hear about the work AWS and Anyscale have done to optimize AI workload performance on AWS Inferentia and AWS Trainium instances. This presentation is brought to you by Anyscale, an AWS Partner.</p>
+title: Secure, private LLMs in your cloud with Anyscale Endpoints (sponsored by Anyscale)
+sessionuid: F23036EC-939A-4DF4-B292-2CE0A5D5BA1E
+thirdpartyid: AIM251-S
+speakers: firstName_0: Robert, lastName_0: Nishihara, company_0: Anyscale
+tag_name: Monday, Day, Venetian, Venue, AI/ML, Topic, DevOps and Developer Productivity, Topic, Generative AI, Area of Interest, 200 - Intermediate, Level, Data Scientist, Role, Developer/Engineer, Role, IT Executive, Role

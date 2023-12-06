@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 108
+summary: tag_name :Cloud Security Specialist, Role, Cross Industry, Industry, Application Security, Area of Interest, AWS WAF, Services, Security, Compliance, & Identity, Topic, Monday, Day, Caesars Forum, Venue, 300 - Advanced, Level, Network & Infrastructure Security, Area of Interest, System Administrator, Role, , speakers :firstName_0: Tzoori, lastName_0: Tamam, firstName_1: Vaibhav, lastName_1: Agarwal, , thirdpartyid :SEC321-R, sessionuid :736A2311-A402-49EB-8155-1E92A1B71412, title :Did it really happen? Set your eyes on the perimeter with AWS WAF [REPEAT], description :Web application firewalls traditionally do a lot of things. They can block traffic, detect bots, highlight fraudulent activities, and even prevent DDoS. Once set up, tracking what AWS WAF is doing to your traffic is almost as important as actually protecting your application. Join this chalk talk to learn how to highlight important events in your traffic, identify false positives that need mitigation, alert the right people when the need arises, and kick off the automatic incident response process., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 108, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Forum 108
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Web application firewalls traditionally do a lot of things. They can block traffic, detect bots, highlight fraudulent activities, and even prevent DDoS. Once set up, tracking what AWS WAF is doing to your traffic is almost as important as actually protecting your application. Join this chalk talk to learn how to highlight important events in your traffic, identify false positives that need mitigation, alert the right people when the need arises, and kick off the automatic incident response process
+title: Did it really happen? Set your eyes on the perimeter with AWS WAF [REPEAT]
+sessionuid: 736A2311-A402-49EB-8155-1E92A1B71412
+thirdpartyid: SEC321-R
+speakers: firstName_0: Tzoori, lastName_0: Tamam, firstName_1: Vaibhav, lastName_1: Agarwal
+tag_name: Cloud Security Specialist, Role, Cross Industry, Industry, Application Security, Area of Interest, AWS WAF, Services, Security, Compliance, & Identity, Topic, Monday, Day, Caesars Forum, Venue, 300 - Advanced, Level, Network & Infrastructure Security, Area of Interest, System Administrator, Role

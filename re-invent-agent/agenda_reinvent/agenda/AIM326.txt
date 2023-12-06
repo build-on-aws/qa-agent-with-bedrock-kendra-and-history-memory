@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 201
+summary: tag_name :IT Professional/Technical Manager, Role, Developer/Engineer, Role, AWS Deep Learning Containers, Services, Solution/Systems Architect, Role, Generative AI, Area of Interest, Storage, Topic, 300 - Advanced, Level, AWS ParallelCluster, Services, AI/ML, Topic, Monday, Day, Caesars Forum, Venue, Cross Industry, Industry, , speakers :firstName_0: Arindam, lastName_0: Paul, firstName_1: Zlatan, lastName_1: Dzinic, , thirdpartyid :AIM326, sessionuid :AA59F2F7-9BE2-4CD2-89D0-95B59F5643CA, title :Large model training on AWS Deep Learning AMIs & PyTorch, ft. Pinterest, description :<p>Join this session for a deep dive into the infrastructure used to train large models at Pinterest. It covers training hardware, compute orchestration, and ML application development SDKs as well as how infrastructure choices speed up development and improve model training efficiency. See how Pinterest integrates AWS services like Amazon EC2 UltraClusters and AWS Deep Learning AMIs to reduce the total cost of ownership for ML infrastructure.</p>, sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 201, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 01:30:00 -0500, 
+enddatetimeutc: November, 28 2023 01:30:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: Summit 201
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: <p>Join this session for a deep dive into the infrastructure used to train large models at Pinterest. It covers training hardware, compute orchestration, and ML application development SDKs as well as how infrastructure choices speed up development and improve model training efficiency. See how Pinterest integrates AWS services like Amazon EC2 UltraClusters and AWS Deep Learning AMIs to reduce the total cost of ownership for ML infrastructure.</p>
+title: Large model training on AWS Deep Learning AMIs & PyTorch, ft. Pinterest
+sessionuid: AA59F2F7-9BE2-4CD2-89D0-95B59F5643CA
+thirdpartyid: AIM326
+speakers: firstName_0: Arindam, lastName_0: Paul, firstName_1: Zlatan, lastName_1: Dzinic
+tag_name: IT Professional/Technical Manager, Role, Developer/Engineer, Role, AWS Deep Learning Containers, Services, Solution/Systems Architect, Role, Generative AI, Area of Interest, Storage, Topic, 300 - Advanced, Level, AWS ParallelCluster, Services, AI/ML, Topic, Monday, Day, Caesars Forum, Venue, Cross Industry, Industry

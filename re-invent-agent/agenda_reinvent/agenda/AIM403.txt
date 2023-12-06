@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 311
+summary: tag_name :Thursday, Day, Caesars Forum, Venue, 400 - Expert, Level, AI/ML, Topic, Startup, Area of Interest, Healthcare, Industry, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Amazon SageMaker, Services, Innovation on AWS, Area of Interest, Financial Services, Industry, Developer/Engineer, Role, Generative AI, Area of Interest, , speakers :firstName_0: Ben, lastName_0: Snyder, firstName_1: Robert, lastName_1: Van Dusen, firstName_2: Manoj, lastName_2: Ravi, firstName_3: Kanwaljit, lastName_3: Khurmi, firstName_4: Sean, lastName_4: Smith, , thirdpartyid :AIM403-R, sessionuid :FB135289-B5F1-4BC1-8AA4-FB135B0453F1, title :Build and train state-of-the-art FMs on Amazon SageMaker [REPEAT], description :Amazon SageMaker offers advanced training tools to help you accelerate scalable, reliable, and secure generative AI application development. In this session, experience how to train a large language model (LLM) on diverse, representative data and learn how to utilize the latest SageMaker model training tools to troubleshoot convergence issues and improve model performance. You must bring your laptop to participate., sessiontype :Builders' Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 311, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Alliance 311
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Builders' Session
+description: Amazon SageMaker offers advanced training tools to help you accelerate scalable, reliable, and secure generative AI application development. In this session, experience how to train a large language model (LLM) on diverse, representative data and learn how to utilize the latest SageMaker model training tools to troubleshoot convergence issues and improve model performance. You must bring your laptop to participate
+title: Build and train state-of-the-art FMs on Amazon SageMaker [REPEAT]
+sessionuid: FB135289-B5F1-4BC1-8AA4-FB135B0453F1
+thirdpartyid: AIM403-R
+speakers: firstName_0: Ben, lastName_0: Snyder, firstName_1: Robert, lastName_1: Van Dusen, firstName_2: Manoj, lastName_2: Ravi, firstName_3: Kanwaljit, lastName_3: Khurmi, firstName_4: Sean, lastName_4: Smith
+tag_name: Thursday, Day, Caesars Forum, Venue, 400 - Expert, Level, AI/ML, Topic, Startup, Area of Interest, Healthcare, Industry, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Amazon SageMaker, Services, Innovation on AWS, Area of Interest, Financial Services, Industry, Developer/Engineer, Role, Generative AI, Area of Interest

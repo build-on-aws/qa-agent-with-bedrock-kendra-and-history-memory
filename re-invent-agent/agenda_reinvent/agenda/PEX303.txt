@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Murano 3203
+summary: tag_name :Partner Enablement, Topic, Wednesday, Day, Venetian, Venue, 300 - Advanced, Level, , speakers :firstName_0: Wasim, lastName_0: Shaikh, firstName_1: Gopal, lastName_1: Krishna Bhatia, , thirdpartyid :PEX303, sessionuid :0BC202FA-7F64-4E32-B795-1520757A7CC6, title :Building a serverless data consumption platform on AWS, description :The advent of serverless services on AWS has redefined contemporary architectures and driven new architecture patterns. Join this hands-on workshop to learn how to build a future-proof serverless data platform on AWS. Learn how to use the suite of AWS serverless analytics services including Amazon Kinesis Data Firehose, AWS Glue, Amazon Redshift, Amazon Athena, Amazon QuickSight, and Amazon OpenSearch Service. You have the opportunity to choose your own path and work with the services you’re interested in. You must bring your laptop to participate. This workshop is intended for AWS Partners., sessiontype :Workshop, venuename :Venetian, floorplanname :Level 3, locationname :Murano 3203, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Murano 3203
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Workshop
+description: The advent of serverless services on AWS has redefined contemporary architectures and driven new architecture patterns. Join this hands-on workshop to learn how to build a future-proof serverless data platform on AWS. Learn how to use the suite of AWS serverless analytics services including Amazon Kinesis Data Firehose, AWS Glue, Amazon Redshift, Amazon Athena, Amazon QuickSight, and Amazon OpenSearch Service. You have the opportunity to choose your own path and work with the services you’re interested in. You must bring your laptop to participate. This workshop is intended for AWS Partners
+title: Building a serverless data consumption platform on AWS
+sessionuid: 0BC202FA-7F64-4E32-B795-1520757A7CC6
+thirdpartyid: PEX303
+speakers: firstName_0: Wasim, lastName_0: Shaikh, firstName_1: Gopal, lastName_1: Krishna Bhatia
+tag_name: Partner Enablement, Topic, Wednesday, Day, Venetian, Venue, 300 - Advanced, Level

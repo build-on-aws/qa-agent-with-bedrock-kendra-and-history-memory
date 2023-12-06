@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Venetian Ballroom J
+summary: tag_name :Lounges, Additional Services, Tuesday, Day, Venetian, Venue, Training & Certification, Topic, , speakers :, thirdpartyid :TNC001-R1, sessionuid :7FAA5795-E474-4EAC-A4F6-B554CE956C34, title :AWS Certification Lounge (sponsored by Fidelity Investments) [REPEAT], description :<p>In recognition of your AWS Certification, you get access to the exclusive AWS Certification Lounge in The Venetian. Stop by and grab a coffee, charge your devices, and network with other certified professionals. We can’t wait to see you there! Please note: you must have an active AWS Certification to enjoy the Certification Lounge. Hours: Monday, 7:30 AM–7:00 PM; Tuesday, 7:30 AM–6:00 PM; Wednesday, 8:00 AM–6:00 PM; Thursday, 8:00 AM–4:00 PM. The AWS Certification Lounge is brought to you by Fidelity Investments.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Venetian Ballroom J, startdatetimeutc :November, 29 2023 01:30:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 29 2023 01:30:00 -0500
+locationname: Venetian Ballroom J
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>In recognition of your AWS Certification, you get access to the exclusive AWS Certification Lounge in The Venetian. Stop by and grab a coffee, charge your devices, and network with other certified professionals. We can’t wait to see you there! Please note: you must have an active AWS Certification to enjoy the Certification Lounge. Hours: Monday, 7:30 AM–7:00 PM; Tuesday, 7:30 AM–6:00 PM; Wednesday, 8:00 AM–6:00 PM; Thursday, 8:00 AM–4:00 PM. The AWS Certification Lounge is brought to you by Fidelity Investments.</p>
+title: AWS Certification Lounge (sponsored by Fidelity Investments) [REPEAT]
+sessionuid: 7FAA5795-E474-4EAC-A4F6-B554CE956C34
+thirdpartyid: TNC001-R1
+speakers: 
+tag_name: Lounges, Additional Services, Tuesday, Day, Venetian, Venue, Training & Certification, Topic

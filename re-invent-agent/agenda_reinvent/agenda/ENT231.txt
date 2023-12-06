@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Customer Enablement, Topic, Enterprise & Migration, Topic, Digital Native Business (DNB), Area of Interest, Small and Midsize Business (SMB), Area of Interest, Cost Optimization, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, Entrepreneur (Founder/Co-Founder), Role, Venture Capitalist, Role, AWS Billing and Cost Management, Services, AWS Support, Services, Tuesday, Day, Venetian, Venue, , speakers :firstName_0: Aman, lastName_0: Aggarwal, company_0: CloudKeeper, , thirdpartyid :ENT231-S, sessionuid :5ADFCB4B-E4B2-4A37-9F48-DA541A4CF638, title :Considerations for using an AWS Enterprise Discount Program (sponsored by CloudKeeper), description :<p>For AWS enterprise customers, an AWS Enterprise Discount Program (EDP) might be on your radar as a premier savings route. In this lightning talk, learn about the advantages and disadvantages of an EDP, determining your ideal annual commitment amount and span, how to maximize the benefits of an EDP while retaining flexibility, and how you can use CloudKeeper EDP+ for extended gains and flexibility. This presentation is brought to you by CloudKeeper, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>For AWS enterprise customers, an AWS Enterprise Discount Program (EDP) might be on your radar as a premier savings route. In this lightning talk, learn about the advantages and disadvantages of an EDP, determining your ideal annual commitment amount and span, how to maximize the benefits of an EDP while retaining flexibility, and how you can use CloudKeeper EDP+ for extended gains and flexibility. This presentation is brought to you by CloudKeeper, an AWS Partner.</p>
+title: Considerations for using an AWS Enterprise Discount Program (sponsored by CloudKeeper)
+sessionuid: 5ADFCB4B-E4B2-4A37-9F48-DA541A4CF638
+thirdpartyid: ENT231-S
+speakers: firstName_0: Aman, lastName_0: Aggarwal, company_0: CloudKeeper
+tag_name: Customer Enablement, Topic, Enterprise & Migration, Topic, Digital Native Business (DNB), Area of Interest, Small and Midsize Business (SMB), Area of Interest, Cost Optimization, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, Entrepreneur (Founder/Co-Founder), Role, Venture Capitalist, Role, AWS Billing and Cost Management, Services, AWS Support, Services, Tuesday, Day, Venetian, Venue

@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine F
+summary: tag_name :DevOps Engineer, Role, Training & Certification, Topic, AWS Well-Architected Tool, Services, 200 - Intermediate, Level, Resilience, Area of Interest, Financial Services, Industry, Solution/Systems Architect, Role, Thursday, Day, Mandalay Bay, Venue, AWS Trusted Advisor, Services, Architecture, Topic, Sustainability, Area of Interest, Cross Industry, Industry, Developer/Engineer, Role, AWS Command Line Interface (AWS CLI), Services, , speakers :firstName_0: Karen, lastName_0: Reliford, , thirdpartyid :TNC216, sessionuid :B327E46F-06CB-475D-BCEB-7383EE3FCF55, title :Are you well-architected?, description :Most businesses depend on a portfolio of technology solutions to operate and be successful every day. How do you know if you and your team are following best practices? Do you know what the risks in your architectures might be? In this session, discover how the AWS Well-Architected Framework provides prescriptive architectural advice and how the AWS Well-Architected Tool allows you to measure and improve your technology portfolio., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine F, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Jasmine F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Most businesses depend on a portfolio of technology solutions to operate and be successful every day. How do you know if you and your team are following best practices? Do you know what the risks in your architectures might be? In this session, discover how the AWS Well-Architected Framework provides prescriptive architectural advice and how the AWS Well-Architected Tool allows you to measure and improve your technology portfolio
+title: Are you well-architected?
+sessionuid: B327E46F-06CB-475D-BCEB-7383EE3FCF55
+thirdpartyid: TNC216
+speakers: firstName_0: Karen, lastName_0: Reliford
+tag_name: DevOps Engineer, Role, Training & Certification, Topic, AWS Well-Architected Tool, Services, 200 - Intermediate, Level, Resilience, Area of Interest, Financial Services, Industry, Solution/Systems Architect, Role, Thursday, Day, Mandalay Bay, Venue, AWS Trusted Advisor, Services, Architecture, Topic, Sustainability, Area of Interest, Cross Industry, Industry, Developer/Engineer, Role, AWS Command Line Interface (AWS CLI), Services

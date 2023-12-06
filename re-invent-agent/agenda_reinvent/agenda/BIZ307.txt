@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :300 - Advanced, Level, IT Professional/Technical Manager, Role, Cloud Security Specialist, Role, Application Security, Area of Interest, AWS AppFabric, Services, System Administrator, Role, Security, Compliance, & Identity, Topic, Wednesday, Day, Wynn, Venue, Cost Optimization, Area of Interest, Business Applications, Topic, Financial Services, Industry, Application Integration, Area of Interest, , speakers :firstName_0: Chelsea, lastName_0: Render, firstName_1: Odianosen, lastName_1: Enaholo, , thirdpartyid :BIZ307, sessionuid :CF58E1C6-1F17-4BAE-8690-AC4D2BF332E3, title :Use AWS AppFabric to enhance your security posture at reduced cost, description :SaaS application data formats are highly varied, which make it challenging for security and IT teams to monitor for security threats or detect anomalous behavior. Join this chalk talk to learn how AWS AppFabric works with leading security tools like Splunk, Rapid7, and Netskope to improve an organization's security posture across SaaS applications in just a few hours., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 17:30:00 -0500, 
+enddatetimeutc: November, 29 2023 17:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: SaaS application data formats are highly varied, which make it challenging for security and IT teams to monitor for security threats or detect anomalous behavior. Join this chalk talk to learn how AWS AppFabric works with leading security tools like Splunk, Rapid7, and Netskope to improve an organization's security posture across SaaS applications in just a few hours
+title: Use AWS AppFabric to enhance your security posture at reduced cost
+sessionuid: CF58E1C6-1F17-4BAE-8690-AC4D2BF332E3
+thirdpartyid: BIZ307
+speakers: firstName_0: Chelsea, lastName_0: Render, firstName_1: Odianosen, lastName_1: Enaholo
+tag_name: 300 - Advanced, Level, IT Professional/Technical Manager, Role, Cloud Security Specialist, Role, Application Security, Area of Interest, AWS AppFabric, Services, System Administrator, Role, Security, Compliance, & Identity, Topic, Wednesday, Day, Wynn, Venue, Cost Optimization, Area of Interest, Business Applications, Topic, Financial Services, Industry, Application Integration, Area of Interest

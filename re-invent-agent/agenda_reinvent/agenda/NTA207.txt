@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 104
+summary: tag_name :New to AWS, Topic, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, AWS Artifact, Services, AWS Migration Hub, Services, Migration Evaluator, Services, Monday, Day, MGM Grand, Venue, , speakers :firstName_0: Akhil, lastName_0: Melakunta, firstName_1: Anoop, lastName_1: Talluri, , thirdpartyid :NTA207-R, sessionuid :49139892-E20D-4E43-AD01-8BB4467502C3, title :A 3-step approach to achieve your first successful cloud outcome [REPEAT], description :<p>It can be challenging for organizations that are new to AWS to define a meaningful business outcome and formulate a strategic plan to carry it out. In this chalk talk, learn about a methodical approach to help you achieve your first successful business outcome using the AWS Cloud. This approach is divided into three phases: discovering a meaningful outcome, developing an implementation strategy, and measuring the strategy’s success. Hear how two AWS customers successfully applied this approach and explore adopted practices that can help you prepare for your own cloud journey.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :104, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: 104
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>It can be challenging for organizations that are new to AWS to define a meaningful business outcome and formulate a strategic plan to carry it out. In this chalk talk, learn about a methodical approach to help you achieve your first successful business outcome using the AWS Cloud. This approach is divided into three phases: discovering a meaningful outcome, developing an implementation strategy, and measuring the strategy’s success. Hear how two AWS customers successfully applied this approach and explore adopted practices that can help you prepare for your own cloud journey.</p>
+title: A 3-step approach to achieve your first successful cloud outcome [REPEAT]
+sessionuid: 49139892-E20D-4E43-AD01-8BB4467502C3
+thirdpartyid: NTA207-R
+speakers: firstName_0: Akhil, lastName_0: Melakunta, firstName_1: Anoop, lastName_1: Talluri
+tag_name: New to AWS, Topic, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, AWS Artifact, Services, AWS Migration Hub, Services, Migration Evaluator, Services, Monday, Day, MGM Grand, Venue

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 120
+summary: tag_name :300 - Advanced, Level, DevOps Engineer, Role, Open Source, Area of Interest, System Administrator, Role, Developer/Engineer, Role, Monday, Day, MGM Grand, Venue, AWS Lambda, Services, Serverless Compute, Topic, , speakers :firstName_0: Heitor, lastName_0: Lessa, firstName_1: Ran, lastName_1: Isenberg, company_1: CyberArk, , thirdpartyid :OPN305, sessionuid :BD20DE95-69FE-465A-98C1-AB43D4722E73, title :The pragmatic serverless Python developer, description :Are you developing AWS Lambda functions with Python? Always looking for tools to make you more productive? What if you could hear directly from practitioners? This session covers an opinionated approach to Python project setup, testing, profiling, deployments, and operations. Learn about many open source tools, including Powertools for AWS Lambda—a toolkit that can help you implement serverless best practices and increase developer velocity. Join to discover tools and patterns for effective serverless development with Python. To maximize your learning experience, the session includes a sample application that implements what’s described., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 120, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 01:00:00 -0500, 
+enddatetimeutc: November, 28 2023 01:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: Grand 120
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Are you developing AWS Lambda functions with Python? Always looking for tools to make you more productive? What if you could hear directly from practitioners? This session covers an opinionated approach to Python project setup, testing, profiling, deployments, and operations. Learn about many open source tools, including Powertools for AWS Lambda—a toolkit that can help you implement serverless best practices and increase developer velocity. Join to discover tools and patterns for effective serverless development with Python. To maximize your learning experience, the session includes a sample application that implements what’s described
+title: The pragmatic serverless Python developer
+sessionuid: BD20DE95-69FE-465A-98C1-AB43D4722E73
+thirdpartyid: OPN305
+speakers: firstName_0: Heitor, lastName_0: Lessa, firstName_1: Ran, lastName_1: Isenberg, company_1: CyberArk
+tag_name: 300 - Advanced, Level, DevOps Engineer, Role, Open Source, Area of Interest, System Administrator, Role, Developer/Engineer, Role, Monday, Day, MGM Grand, Venue, AWS Lambda, Services, Serverless Compute, Topic

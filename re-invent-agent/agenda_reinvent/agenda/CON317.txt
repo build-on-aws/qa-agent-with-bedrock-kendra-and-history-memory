@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 320
+summary: tag_name :Network & Infrastructure Security, Area of Interest, Amazon Elastic Container Service (ECS), Services, Monitoring & Observability, Area of Interest, 300 - Advanced, Level, Serverless Compute, Topic, AWS Fargate, Services, Cross Industry, Industry, Wednesday, Day, MGM Grand, Venue, DevOps Engineer, Role, Developer/Engineer, Role, , speakers :firstName_0: Elamaran, lastName_0: Shanmugam, firstName_1: Ratnopam, lastName_1: Chakrabarti, , thirdpartyid :CON317, sessionuid :424A5E2F-9F62-4E74-B55C-D4D2C6D4A7B8, title :Amazon ECS networking deep dive, description :In this chalk talk, dive deep into networking mechanisms of Amazon ECS including different network modes and networking between Amazon ECS services using Amazon ECS Service Connect and Amazon ECS service discovery. Hear real-world use cases and common issues like IP exhaustion and different ways to solve for it by using ENI trunking and secondary CIDRs using Amazon EC2 and AWS Fargate with Amazon ECS. This talk also explores implementing connectivity using AWS PrivateLink and its benefits., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 320, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 21:00:00 -0500, 
+enddatetimeutc: November, 29 2023 21:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Premier 320
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: In this chalk talk, dive deep into networking mechanisms of Amazon ECS including different network modes and networking between Amazon ECS services using Amazon ECS Service Connect and Amazon ECS service discovery. Hear real-world use cases and common issues like IP exhaustion and different ways to solve for it by using ENI trunking and secondary CIDRs using Amazon EC2 and AWS Fargate with Amazon ECS. This talk also explores implementing connectivity using AWS PrivateLink and its benefits
+title: Amazon ECS networking deep dive
+sessionuid: 424A5E2F-9F62-4E74-B55C-D4D2C6D4A7B8
+thirdpartyid: CON317
+speakers: firstName_0: Elamaran, lastName_0: Shanmugam, firstName_1: Ratnopam, lastName_1: Chakrabarti
+tag_name: Network & Infrastructure Security, Area of Interest, Amazon Elastic Container Service (ECS), Services, Monitoring & Observability, Area of Interest, 300 - Advanced, Level, Serverless Compute, Topic, AWS Fargate, Services, Cross Industry, Industry, Wednesday, Day, MGM Grand, Venue, DevOps Engineer, Role, Developer/Engineer, Role

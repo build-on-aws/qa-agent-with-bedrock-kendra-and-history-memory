@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1566, AWS Jam Lounge
+summary: tag_name :100 - Foundational, Level, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Monday, Day, Venetian, Venue, Generative AI, Area of Interest, Training & Certification, Topic, Developer/Engineer, Role, Cross Industry, Industry, , speakers :, thirdpartyid :GHJ102-R, sessionuid :ED44CB16-086A-413F-97BD-7761F6AB49CD, title :AWS Jam [REPEAT], description :Do you want to show off your AWS skills? Take part in an AWS Jam event designed to challenge your skill level by solving a thrilling set of real-world AWS use cases. Compete solo or in a team to claim the top position on the leaderboard and win exclusive prizes along the way. Stop by the AWS Challenge Lounge in the Expo Hall to sign up, and then work from your laptop from anywhere on the AWS re:Invent campus. All you need to bring is your desire to learn and a laptop., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1566, AWS Jam Lounge, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 03:00:00 -0500, 
+enddatetimeutc: November, 28 2023 03:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: Hall B, Expo, Booth #1566, AWS Jam Lounge
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Do you want to show off your AWS skills? Take part in an AWS Jam event designed to challenge your skill level by solving a thrilling set of real-world AWS use cases. Compete solo or in a team to claim the top position on the leaderboard and win exclusive prizes along the way. Stop by the AWS Challenge Lounge in the Expo Hall to sign up, and then work from your laptop from anywhere on the AWS re:Invent campus. All you need to bring is your desire to learn and a laptop
+title: AWS Jam [REPEAT]
+sessionuid: ED44CB16-086A-413F-97BD-7761F6AB49CD
+thirdpartyid: GHJ102-R
+speakers: 
+tag_name: 100 - Foundational, Level, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Monday, Day, Venetian, Venue, Generative AI, Area of Interest, Training & Certification, Topic, Developer/Engineer, Role, Cross Industry, Industry

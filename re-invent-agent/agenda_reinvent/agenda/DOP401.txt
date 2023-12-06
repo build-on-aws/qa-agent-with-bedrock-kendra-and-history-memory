@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 228
+summary: tag_name :DevOps and Developer Productivity, Topic, AWS Cloud Development Kit (CDK), Services, 400 - Expert, Level, Tuesday, Day, Caesars Forum, Venue, DevOps Engineer, Role, , speakers :firstName_0: Aaron, lastName_0: Sempf, firstName_1: Om, lastName_1: Jha  Prakash Jha, , thirdpartyid :DOP401, sessionuid :A38D603E-A2AD-43F7-AAE0-77D8FB688D16, title :Get better at building AWS CDK constructs, description :In this workshop, dive deep into how to design AWS CDK constructs, which are reusable and shareable cloud components that help you meet your organization’s security, compliance, and governance requirements. Learn how to build, test, and share constructs representing a single AWS resource, as well as how to create higher-level abstractions that include built-in defaults and allow you to provision multiple AWS resources. You must bring your laptop to participate., sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 228, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 29 2023 00:00:00 -0500, 
+enddatetimeutc: November, 29 2023 00:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Summit 228
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: In this workshop, dive deep into how to design AWS CDK constructs, which are reusable and shareable cloud components that help you meet your organization’s security, compliance, and governance requirements. Learn how to build, test, and share constructs representing a single AWS resource, as well as how to create higher-level abstractions that include built-in defaults and allow you to provision multiple AWS resources. You must bring your laptop to participate
+title: Get better at building AWS CDK constructs
+sessionuid: A38D603E-A2AD-43F7-AAE0-77D8FB688D16
+thirdpartyid: DOP401
+speakers: firstName_0: Aaron, lastName_0: Sempf, firstName_1: Om, lastName_1: Jha  Prakash Jha
+tag_name: DevOps and Developer Productivity, Topic, AWS Cloud Development Kit (CDK), Services, 400 - Expert, Level, Tuesday, Day, Caesars Forum, Venue, DevOps Engineer, Role

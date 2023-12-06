@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Venetian Foyer
+summary: tag_name :Wednesday, Day, Venetian, Venue, Community Activities, Additional Services, , speakers :, thirdpartyid :ACT141, sessionuid :1804DCDE-F2F2-4D20-AE45-1E3F07C9B00E, title :Slide, description :Ride the slide! Visit the Datadog slide and get your official “I rode the slide” sticker., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Venetian Foyer, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 30 2023 04:00:00 -0500, 
+enddatetimeutc: November, 30 2023 04:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Venetian Foyer
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Ride the slide! Visit the Datadog slide and get your official “I rode the slide” sticker
+title: Slide
+sessionuid: 1804DCDE-F2F2-4D20-AE45-1E3F07C9B00E
+thirdpartyid: ACT141
+speakers: 
+tag_name: Wednesday, Day, Venetian, Venue, Community Activities, Additional Services

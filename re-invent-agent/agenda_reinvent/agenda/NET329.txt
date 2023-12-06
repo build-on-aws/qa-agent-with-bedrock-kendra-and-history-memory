@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 110
+summary: tag_name :Networking & Content Delivery, Topic, Front-End Web & Mobile, Area of Interest, Network & Infrastructure Security, Area of Interest, Media & Entertainment, Industry, 300 - Advanced, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Amazon CloudFront, Services, Amazon Simple Storage Service (S3), Services, AWS Lambda, Services, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Kamil, lastName_0: Bogacz, firstName_1: Ronak, lastName_1: Patel, , thirdpartyid :NET329, sessionuid :E98FA6EE-29F1-45E9-B583-C30956C7DAC0, title :Secured and optimized media delivery with Amazon CloudFront, description :<p>Building modern media delivery workflows comes with numerous requirements to achieve the scale of delivery, all while providing a cost-efficient, personalized viewing experience with a reliable content protection strategy. In this chalk talk, explore real-world examples to learn how to make the most of Amazon CloudFront combined with edge compute, Amazon S3 Object Lambda, and available event management programs to launch new customer experiences.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 110, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Forum 110
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Building modern media delivery workflows comes with numerous requirements to achieve the scale of delivery, all while providing a cost-efficient, personalized viewing experience with a reliable content protection strategy. In this chalk talk, explore real-world examples to learn how to make the most of Amazon CloudFront combined with edge compute, Amazon S3 Object Lambda, and available event management programs to launch new customer experiences.</p>
+title: Secured and optimized media delivery with Amazon CloudFront
+sessionuid: E98FA6EE-29F1-45E9-B583-C30956C7DAC0
+thirdpartyid: NET329
+speakers: firstName_0: Kamil, lastName_0: Bogacz, firstName_1: Ronak, lastName_1: Patel
+tag_name: Networking & Content Delivery, Topic, Front-End Web & Mobile, Area of Interest, Network & Infrastructure Security, Area of Interest, Media & Entertainment, Industry, 300 - Advanced, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Amazon CloudFront, Services, Amazon Simple Storage Service (S3), Services, AWS Lambda, Services, Wednesday, Day, Caesars Forum, Venue

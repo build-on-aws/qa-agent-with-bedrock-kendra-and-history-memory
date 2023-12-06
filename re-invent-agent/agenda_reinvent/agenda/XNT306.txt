@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 368
+summary: tag_name :Enterprise & Migration, Topic, 300 - Advanced, Level, Solution/Systems Architect, Role, DevOps and Developer Productivity, Topic, Monday, Day, MGM Grand, Venue, Developer/Engineer, Role, , speakers :firstName_0: Runeet, lastName_0: Vashisht, firstName_1: Rasheed, lastName_1: Abdul, firstName_2: Odell, lastName_2: Tuttle, company_2: Avionte, , thirdpartyid :XNT306, sessionuid :6B10B185-0C72-41FD-AA26-87BA8076A3AA, title :Lessons in modernizing monolithic .NET applications to microservices, description :<p>You inherit a 10-plus-year-old .NET application with retrofitted features, and your mission is to rearchitect it to cloud-native services. Where do you start? How do you assess source code to understand the level of effort? How do you experiment while minimizing risks? In this session, explore modernization pathways to go from monolith to microservices on AWS. Avionté, a platform for staffing and recruiting, is transforming their single-tenant legacy .NET Framework application into a multi-tenant SaaS solution on AWS. See how they are adopting cloud-native architectures by decoupling large monoliths to reduce costs, improve service uptime, and accelerate feature deliveries.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 368, startdatetimeutc :November, 27 2023 20:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 20:00:00 -0500
+locationname: Chairmans 368
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>You inherit a 10-plus-year-old .NET application with retrofitted features, and your mission is to rearchitect it to cloud-native services. Where do you start? How do you assess source code to understand the level of effort? How do you experiment while minimizing risks? In this session, explore modernization pathways to go from monolith to microservices on AWS. Avionté, a platform for staffing and recruiting, is transforming their single-tenant legacy .NET Framework application into a multi-tenant SaaS solution on AWS. See how they are adopting cloud-native architectures by decoupling large monoliths to reduce costs, improve service uptime, and accelerate feature deliveries.</p>
+title: Lessons in modernizing monolithic .NET applications to microservices
+sessionuid: 6B10B185-0C72-41FD-AA26-87BA8076A3AA
+thirdpartyid: XNT306
+speakers: firstName_0: Runeet, lastName_0: Vashisht, firstName_1: Rasheed, lastName_1: Abdul, firstName_2: Odell, lastName_2: Tuttle, company_2: Avionte
+tag_name: Enterprise & Migration, Topic, 300 - Advanced, Level, Solution/Systems Architect, Role, DevOps and Developer Productivity, Topic, Monday, Day, MGM Grand, Venue, Developer/Engineer, Role

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 110
+summary: tag_name :Application Security, Area of Interest, Business Applications, Topic, Amazon Simple Email Service (SES), Services, Thursday, Day, Caesars Forum, Venue, Application Integration, Area of Interest, Cross Industry, Industry, Amazon Pinpoint, Services, Advertising & Marketing, Industry, Financial Services, Industry, 300 - Advanced, Level, , speakers :firstName_0: Pavlos, lastName_0: Ioannou Katidis, firstName_1: Hamza, lastName_1: Rauf, , thirdpartyid :BIZ306, sessionuid :69E39CA0-9CC7-431C-A6A0-F6F22E069D5D, title :Send high-volume OTPs via SMS and email, description :Join AWS SMS experts as they demonstrate how to utilize the Amazon Pinpoint SMS API, the Amazon Pinpoint Email API, and other AWS services to develop a one-time password (OTP) application. OTPs are used for multi-factor authentication, payment verification, or account recovery. In this chalk talk, AWS SMS experts walk through the best way to configure SMS for high-volume, international, and resilient sending., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 110, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Forum 110
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Join AWS SMS experts as they demonstrate how to utilize the Amazon Pinpoint SMS API, the Amazon Pinpoint Email API, and other AWS services to develop a one-time password (OTP) application. OTPs are used for multi-factor authentication, payment verification, or account recovery. In this chalk talk, AWS SMS experts walk through the best way to configure SMS for high-volume, international, and resilient sending
+title: Send high-volume OTPs via SMS and email
+sessionuid: 69E39CA0-9CC7-431C-A6A0-F6F22E069D5D
+thirdpartyid: BIZ306
+speakers: firstName_0: Pavlos, lastName_0: Ioannou Katidis, firstName_1: Hamza, lastName_1: Rauf
+tag_name: Application Security, Area of Interest, Business Applications, Topic, Amazon Simple Email Service (SES), Services, Thursday, Day, Caesars Forum, Venue, Application Integration, Area of Interest, Cross Industry, Industry, Amazon Pinpoint, Services, Advertising & Marketing, Industry, Financial Services, Industry, 300 - Advanced, Level

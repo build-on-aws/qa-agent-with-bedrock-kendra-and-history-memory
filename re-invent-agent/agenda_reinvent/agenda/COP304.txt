@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 101
+summary: tag_name :300 - Advanced, Level, Management & Governance, Area of Interest, Cloud Operations, Topic, DevOps Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Wednesday, Day, Caesars Forum, Venue, AWS Control Tower, Services, AWS Identity and Access Management (IAM), Services, , speakers :firstName_0: Renato, lastName_0: Fichmann, firstName_1: Yukitaka, lastName_1: Ohmura, firstName_2: Randy, lastName_2: Domingo, , thirdpartyid :COP304, sessionuid :14E245E3-D5BD-4764-BBF2-D922370F8702, title :Customizing accounts swiftly and securely with AWS Control Tower, description :As you build out a multi-account environment with AWS Control Tower, you need to preconfigure your accounts with standard platform customizations for networking, security, identity, and compliance. In this chalk talk, learn how you can use different automation options to implement consistent platform tooling and resources across your accounts. Also discover best practices for building out controls, policies, and permission boundaries using AWS Control Tower and AWS Identity and Access Management (IAM) to achieve a decentralized and scalable environment for your organization., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 101, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Forum 101
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: As you build out a multi-account environment with AWS Control Tower, you need to preconfigure your accounts with standard platform customizations for networking, security, identity, and compliance. In this chalk talk, learn how you can use different automation options to implement consistent platform tooling and resources across your accounts. Also discover best practices for building out controls, policies, and permission boundaries using AWS Control Tower and AWS Identity and Access Management (IAM) to achieve a decentralized and scalable environment for your organization
+title: Customizing accounts swiftly and securely with AWS Control Tower
+sessionuid: 14E245E3-D5BD-4764-BBF2-D922370F8702
+thirdpartyid: COP304
+speakers: firstName_0: Renato, lastName_0: Fichmann, firstName_1: Yukitaka, lastName_1: Ohmura, firstName_2: Randy, lastName_2: Domingo
+tag_name: 300 - Advanced, Level, Management & Governance, Area of Interest, Cloud Operations, Topic, DevOps Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Wednesday, Day, Caesars Forum, Venue, AWS Control Tower, Services, AWS Identity and Access Management (IAM), Services

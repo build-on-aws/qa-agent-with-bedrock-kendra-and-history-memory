@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Murano 3306
+summary: tag_name :Amazon Elastic Kubernetes Service (EKS), Services, Amazon Elastic Container Service (ECS), Services, Compute, Topic, Architecture, Topic, Business Intelligence, Area of Interest, Data Scientist, Role, Cross Industry, Industry, IT Professional/Technical Manager, Role, 400 - Expert, Level, Wednesday, Day, Venetian, Venue, Developer/Engineer, Role, Innovation on AWS, Area of Interest, Amazon Elastic Compute Cloud (EC2), Services, , speakers :firstName_0: Michael, lastName_0: Fischer, firstName_1: Jooyoung, lastName_1: Kim, firstName_2: Hyuncheol, lastName_2: Kim, company_2: Samsung Electronics, , thirdpartyid :CMP404, sessionuid :C244C9B5-756F-480B-94E8-5425FF25158E, title :Migrating to AWS Graviton with AWS container services, description :AWS container services like Amazon ECS and Amazon EKS simplify workload development, deployment, operations, and observability, which can help your workloads run more cost-effectively. In this session, see how you can adopt AWS Graviton using these Amazon services and take advantage of powerfully simple tools such as Karpenter to make the process even easier., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 3, locationname :Murano 3306, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 02:30:00 -0500, 
+enddatetimeutc: November, 30 2023 02:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Murano 3306
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Breakout Session
+description: AWS container services like Amazon ECS and Amazon EKS simplify workload development, deployment, operations, and observability, which can help your workloads run more cost-effectively. In this session, see how you can adopt AWS Graviton using these Amazon services and take advantage of powerfully simple tools such as Karpenter to make the process even easier
+title: Migrating to AWS Graviton with AWS container services
+sessionuid: C244C9B5-756F-480B-94E8-5425FF25158E
+thirdpartyid: CMP404
+speakers: firstName_0: Michael, lastName_0: Fischer, firstName_1: Jooyoung, lastName_1: Kim, firstName_2: Hyuncheol, lastName_2: Kim, company_2: Samsung Electronics
+tag_name: Amazon Elastic Kubernetes Service (EKS), Services, Amazon Elastic Container Service (ECS), Services, Compute, Topic, Architecture, Topic, Business Intelligence, Area of Interest, Data Scientist, Role, Cross Industry, Industry, IT Professional/Technical Manager, Role, 400 - Expert, Level, Wednesday, Day, Venetian, Venue, Developer/Engineer, Role, Innovation on AWS, Area of Interest, Amazon Elastic Compute Cloud (EC2), Services

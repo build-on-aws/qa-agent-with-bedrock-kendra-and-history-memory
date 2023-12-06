@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :Amazon Neptune, Services, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Monday, Day, Mandalay Bay, Venue, Solution/Systems Architect, Role, Data Protection, Area of Interest, Databases, Topic, 300 - Advanced, Level, Cross Industry, Industry, Generative AI, Area of Interest, AI/ML, Topic, , speakers :firstName_0: Melissa, lastName_0: Kwok, firstName_1: David, lastName_1: Bechberger, , thirdpartyid :DAT308, sessionuid :FE6B8D79-6415-4B26-BA4A-EA9E296F404A, title :Finding fraud using graphs and generative AI with Amazon Neptune, description :Fraud happens. However, fraud is usually not a random set of acts undertaken by a lone bad actor; rather, it is usually a well-orchestrated, coordinated, and layered approach to defeating systems. To combat these sophisticated methods, you need an equally sophisticated and layered approach to detection. In this chalk talk, see how you can layer graph traversals, graph analytics, graph machine learning (GNN), and generative AI with Amazon Neptune to provide a sophisticated, layered, and evolving approach to detecting fraud., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: Fraud happens. However, fraud is usually not a random set of acts undertaken by a lone bad actor; rather, it is usually a well-orchestrated, coordinated, and layered approach to defeating systems. To combat these sophisticated methods, you need an equally sophisticated and layered approach to detection. In this chalk talk, see how you can layer graph traversals, graph analytics, graph machine learning (GNN), and generative AI with Amazon Neptune to provide a sophisticated, layered, and evolving approach to detecting fraud
+title: Finding fraud using graphs and generative AI with Amazon Neptune
+sessionuid: FE6B8D79-6415-4B26-BA4A-EA9E296F404A
+thirdpartyid: DAT308
+speakers: firstName_0: Melissa, lastName_0: Kwok, firstName_1: David, lastName_1: Bechberger
+tag_name: Amazon Neptune, Services, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Monday, Day, Mandalay Bay, Venue, Solution/Systems Architect, Role, Data Protection, Area of Interest, Databases, Topic, 300 - Advanced, Level, Cross Industry, Industry, Generative AI, Area of Interest, AI/ML, Topic

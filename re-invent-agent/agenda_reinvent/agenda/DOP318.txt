@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :Developer/Engineer, Role, DevOps and Developer Productivity, Topic, Monday, Day, Mandalay Bay, Venue, 300 - Advanced, Level, AWS Fault Injector Service (FIS), Services, DevOps Engineer, Role, Resilience, Area of Interest, , speakers :firstName_0: David, lastName_0: Christian, firstName_1: Rudolf, lastName_1: Potucek, , thirdpartyid :DOP318, sessionuid :8F1402BD-1221-4698-855D-EB423076DCC1, title :Testing for resilience with AWS Fault Injection Simulator, description :As cloud-based systems grow in scale and complexity, there is increased need to test distributed systems for resiliency. AWS Fault Injection Simulator (FIS) allows you to stress test your applications to understand failure modes and build more resilient services. Through code examples and diagrams, see how to set up and run fault injection experiments on AWS. By the end of this session, understand how FIS helps identify weaknesses and validate improvements to build more resilient cloud-based systems., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 17:30:00 -0500, 
+enddatetimeutc: November, 27 2023 17:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: As cloud-based systems grow in scale and complexity, there is increased need to test distributed systems for resiliency. AWS Fault Injection Simulator (FIS) allows you to stress test your applications to understand failure modes and build more resilient services. Through code examples and diagrams, see how to set up and run fault injection experiments on AWS. By the end of this session, understand how FIS helps identify weaknesses and validate improvements to build more resilient cloud-based systems
+title: Testing for resilience with AWS Fault Injection Simulator
+sessionuid: 8F1402BD-1221-4698-855D-EB423076DCC1
+thirdpartyid: DOP318
+speakers: firstName_0: David, lastName_0: Christian, firstName_1: Rudolf, lastName_1: Potucek
+tag_name: Developer/Engineer, Role, DevOps and Developer Productivity, Topic, Monday, Day, Mandalay Bay, Venue, 300 - Advanced, Level, AWS Fault Injector Service (FIS), Services, DevOps Engineer, Role, Resilience, Area of Interest

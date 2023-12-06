@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 169
+summary: tag_name :IT Professional/Technical Manager, Role, Developer/Engineer, Role, AWS Lambda, Services, 300 - Advanced, Level, Architecture, Topic, Wednesday, Day, MGM Grand, Venue, AWS AppSync, Services, Solution/Systems Architect, Role, Amazon API Gateway, Services, Serverless Compute, Topic, , speakers :firstName_0: Ronan, lastName_0: Prenty, firstName_1: Zac, lastName_1: Burns, , thirdpartyid :SVS317-R, sessionuid :24A5FE25-122F-44E4-A9DC-3046085FECF4, title :Building modern API architectures on AWS: Which front door to use [REPEAT], description :<p>Architects have a number of options for building modern APIs, including REST and GraphQL. In this chalk talk, explore these options along with their benefits and drawbacks. The talk covers how to implement each style of API on AWS, including using managed services such as Amazon API Gateway, AWS AppSync, and AWS Lambda function URLs, as well as using self-managed options like Apollo on Lambda.</p>, sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 169, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Boulevard 169
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: <p>Architects have a number of options for building modern APIs, including REST and GraphQL. In this chalk talk, explore these options along with their benefits and drawbacks. The talk covers how to implement each style of API on AWS, including using managed services such as Amazon API Gateway, AWS AppSync, and AWS Lambda function URLs, as well as using self-managed options like Apollo on Lambda.</p>
+title: Building modern API architectures on AWS: Which front door to use [REPEAT]
+sessionuid: 24A5FE25-122F-44E4-A9DC-3046085FECF4
+thirdpartyid: SVS317-R
+speakers: firstName_0: Ronan, lastName_0: Prenty, firstName_1: Zac, lastName_1: Burns
+tag_name: IT Professional/Technical Manager, Role, Developer/Engineer, Role, AWS Lambda, Services, 300 - Advanced, Level, Architecture, Topic, Wednesday, Day, MGM Grand, Venue, AWS AppSync, Services, Solution/Systems Architect, Role, Amazon API Gateway, Services, Serverless Compute, Topic

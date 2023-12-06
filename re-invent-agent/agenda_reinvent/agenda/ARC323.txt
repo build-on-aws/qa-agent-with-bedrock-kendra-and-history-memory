@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 101
+summary: tag_name :Global Infrastructure, Area of Interest, Solution/Systems Architect, Role, AWS Wavelength, Services, DevOps Engineer, Role, Architecture, Topic, Edge Computing, Area of Interest, Amazon ElastiCache, Services, 300 - Advanced, Level, Developer/Engineer, Role, Wednesday, Day, Caesars Forum, Venue, Cross Industry, Industry, AWS Local Zones, Services, , speakers :firstName_0: Yahav, lastName_0: Biran, firstName_1: Diego, lastName_1: Soares, , thirdpartyid :ARC323-R, sessionuid :98736B44-AB90-4089-B80D-437BE0E5767D, title :Architectural patterns for low-latency applications on AWS [REPEAT], description :Low latency isn't just a technical buzzword; it's a requirement for a range of applications across various industries. Whether it’s financial market systems requiring split-second decision-making, gaming platforms ensuring immersive player experiences, or media and entertainment streams delivering seamless playback, achieving minimal lag is paramount. In this chalk talk, explore architectural patterns that optimize for low latency. Learn about strategies, common challenges, and best practices to enhance system responsiveness., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 101, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Forum 101
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Low latency isn't just a technical buzzword; it's a requirement for a range of applications across various industries. Whether it’s financial market systems requiring split-second decision-making, gaming platforms ensuring immersive player experiences, or media and entertainment streams delivering seamless playback, achieving minimal lag is paramount. In this chalk talk, explore architectural patterns that optimize for low latency. Learn about strategies, common challenges, and best practices to enhance system responsiveness
+title: Architectural patterns for low-latency applications on AWS [REPEAT]
+sessionuid: 98736B44-AB90-4089-B80D-437BE0E5767D
+thirdpartyid: ARC323-R
+speakers: firstName_0: Yahav, lastName_0: Biran, firstName_1: Diego, lastName_1: Soares
+tag_name: Global Infrastructure, Area of Interest, Solution/Systems Architect, Role, AWS Wavelength, Services, DevOps Engineer, Role, Architecture, Topic, Edge Computing, Area of Interest, Amazon ElastiCache, Services, 300 - Advanced, Level, Developer/Engineer, Role, Wednesday, Day, Caesars Forum, Venue, Cross Industry, Industry, AWS Local Zones, Services

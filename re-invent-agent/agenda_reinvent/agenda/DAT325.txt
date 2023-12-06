@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :Generative AI, Area of Interest, Developer/Engineer, Role, Amazon Neptune, Services, Cross Industry, Industry, 300 - Advanced, Level, Databases, Topic, Tuesday, Day, Caesars Forum, Venue, Innovation on AWS, Area of Interest, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, , speakers :firstName_0: Brad, lastName_0: Bebee, firstName_1: Umit, lastName_1: Catalyurek, , thirdpartyid :DAT325, sessionuid :56F704EA-7718-4B70-AC25-22126AA71498, title :Dive deep into what’s new with Amazon Neptune, description :Learn what’s new with Amazon Neptune, the fully managed graph database service that can store, map, and query relationships between datasets for use in applications like identity and fraud detection. In this session, discover the latest innovations that can help you maximize the value of your graph data across use cases., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 23:00:00 -0500, 
+enddatetimeutc: November, 28 2023 23:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: Learn what’s new with Amazon Neptune, the fully managed graph database service that can store, map, and query relationships between datasets for use in applications like identity and fraud detection. In this session, discover the latest innovations that can help you maximize the value of your graph data across use cases
+title: Dive deep into what’s new with Amazon Neptune
+sessionuid: 56F704EA-7718-4B70-AC25-22126AA71498
+thirdpartyid: DAT325
+speakers: firstName_0: Brad, lastName_0: Bebee, firstName_1: Umit, lastName_1: Catalyurek
+tag_name: Generative AI, Area of Interest, Developer/Engineer, Role, Amazon Neptune, Services, Cross Industry, Industry, 300 - Advanced, Level, Databases, Topic, Tuesday, Day, Caesars Forum, Venue, Innovation on AWS, Area of Interest, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role

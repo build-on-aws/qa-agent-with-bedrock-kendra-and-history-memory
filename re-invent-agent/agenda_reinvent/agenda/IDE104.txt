@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Entrepreneur (Founder/Co-Founder), Role, 100 - Foundational, Level, Business Executive, Role, Inclusion & Diversity, Area of Interest, Business Applications, Topic, Thursday, Day, Venetian, Venue, Venture Capitalist, Role, Customer Enablement, Topic, Startup, Area of Interest, Customer Stories, Area of Interest, , speakers :firstName_0: Toby, lastName_0: Egbuna, company_0: Chezie, , thirdpartyid :IDE104, sessionuid :6AD433EB-C6AA-4FD0-967F-6F37B3CFB62E, title :Move fast with intention: Prioritizing inclusion from Day 1, description :In this lightning talk, learn how the “Move fast and break things” mantra perpetuates workplace inequities. Hear why prioritizing inclusion from Day 1 is crucial to fostering an inclusive and successful company in 2023. Finally, explore common mistakes made by early-stage startups and come away with actionable insights on what startups can do to promote inclusivity right from the start., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :November, 30 2023 18:30:00 -0500, enddatetimeutc :November, 30 2023 18:50:00 -0500, 
+enddatetimeutc: November, 30 2023 18:50:00 -0500
+startdatetimeutc: November, 30 2023 18:30:00 -0500
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: In this lightning talk, learn how the “Move fast and break things” mantra perpetuates workplace inequities. Hear why prioritizing inclusion from Day 1 is crucial to fostering an inclusive and successful company in 2023. Finally, explore common mistakes made by early-stage startups and come away with actionable insights on what startups can do to promote inclusivity right from the start
+title: Move fast with intention: Prioritizing inclusion from Day 1
+sessionuid: 6AD433EB-C6AA-4FD0-967F-6F37B3CFB62E
+thirdpartyid: IDE104
+speakers: firstName_0: Toby, lastName_0: Egbuna, company_0: Chezie
+tag_name: Entrepreneur (Founder/Co-Founder), Role, 100 - Foundational, Level, Business Executive, Role, Inclusion & Diversity, Area of Interest, Business Applications, Topic, Thursday, Day, Venetian, Venue, Venture Capitalist, Role, Customer Enablement, Topic, Startup, Area of Interest, Customer Stories, Area of Interest

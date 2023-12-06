@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 110
+summary: tag_name :Amazon CodeWhisperer, Services, Solution/Systems Architect, Role, 200 - Intermediate, Level, Data Scientist, Role, Amazon SageMaker, Services, Tuesday, Day, Caesars Forum, Venue, Cross Industry, Industry, New to AWS, Topic, IT Executive, Role, Generative AI, Area of Interest, Amazon Bedrock, Services, , speakers :firstName_0: Ryan, lastName_0: Lempka, firstName_1: Nick, lastName_1: Sciarrilli, , thirdpartyid :NTA205-R, sessionuid :BCB190D8-F589-43B6-979C-9C2C50DC50D2, title :Democratizing generative AI within your organization [REPEAT], description :<p>In this chalk talk, discover some of the most common generative AI use cases that have emerged in the past year. Hear an overview of core generative AI services on AWS, and learn about a simple framework you can use as you think through your own application scenarios. Dive deep on a use case for improving your customers’ interactions with your product documentation, and learn about an essential design pattern for generative AI known as Retrieval Augmented Generation (RAG). Finally, discover how to get started with RAG on AWS.</p>, sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 110, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Forum 110
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: <p>In this chalk talk, discover some of the most common generative AI use cases that have emerged in the past year. Hear an overview of core generative AI services on AWS, and learn about a simple framework you can use as you think through your own application scenarios. Dive deep on a use case for improving your customers’ interactions with your product documentation, and learn about an essential design pattern for generative AI known as Retrieval Augmented Generation (RAG). Finally, discover how to get started with RAG on AWS.</p>
+title: Democratizing generative AI within your organization [REPEAT]
+sessionuid: BCB190D8-F589-43B6-979C-9C2C50DC50D2
+thirdpartyid: NTA205-R
+speakers: firstName_0: Ryan, lastName_0: Lempka, firstName_1: Nick, lastName_1: Sciarrilli
+tag_name: Amazon CodeWhisperer, Services, Solution/Systems Architect, Role, 200 - Intermediate, Level, Data Scientist, Role, Amazon SageMaker, Services, Tuesday, Day, Caesars Forum, Venue, Cross Industry, Industry, New to AWS, Topic, IT Executive, Role, Generative AI, Area of Interest, Amazon Bedrock, Services

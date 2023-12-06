@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Murano 3203
+summary: tag_name :Partner Enablement, Topic, 400 - Expert, Level, Wednesday, Day, Venetian, Venue, , speakers :firstName_0: Mikhail, lastName_0: Shapirov, firstName_1: Yogesh, lastName_1: Bhatia, , thirdpartyid :PEX403, sessionuid :EABF5936-AD90-4B15-AA3F-F8E599CCDDCE, title :Application modernization blueprints for Amazon EKS, description :<p>This workshop covers an integrated set of technologies, frameworks, and approaches to walk customers and partners through their modernization journey in on-premises, hybrid, and cloud environments. Learn how to use Amazon EKS Blueprints to produce fully functional delivery pipelines for modernized workloads with soft multi-tenancy. This workshop focuses on generic, industry-standard approaches that can apply to migration scenarios and modernization in the cloud. See how to run your Kubernetes platform with DevOps and delivery components, and focus on quality gates, governance, and platform engineering aspects for multi-cluster environments. This workshop is intended for AWS Partners. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Venetian, floorplanname :Level 3, locationname :Murano 3203, startdatetimeutc :November, 30 2023 02:00:00 -0500, enddatetimeutc :November, 30 2023 04:00:00 -0500, 
+enddatetimeutc: November, 30 2023 04:00:00 -0500
+startdatetimeutc: November, 30 2023 02:00:00 -0500
+locationname: Murano 3203
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Workshop
+description: <p>This workshop covers an integrated set of technologies, frameworks, and approaches to walk customers and partners through their modernization journey in on-premises, hybrid, and cloud environments. Learn how to use Amazon EKS Blueprints to produce fully functional delivery pipelines for modernized workloads with soft multi-tenancy. This workshop focuses on generic, industry-standard approaches that can apply to migration scenarios and modernization in the cloud. See how to run your Kubernetes platform with DevOps and delivery components, and focus on quality gates, governance, and platform engineering aspects for multi-cluster environments. This workshop is intended for AWS Partners. You must bring your laptop to participate.</p>
+title: Application modernization blueprints for Amazon EKS
+sessionuid: EABF5936-AD90-4B15-AA3F-F8E599CCDDCE
+thirdpartyid: PEX403
+speakers: firstName_0: Mikhail, lastName_0: Shapirov, firstName_1: Yogesh, lastName_1: Bhatia
+tag_name: Partner Enablement, Topic, 400 - Expert, Level, Wednesday, Day, Venetian, Venue

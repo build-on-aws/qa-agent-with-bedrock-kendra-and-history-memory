@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 121
+summary: tag_name :Independent Software Vendor (ISV), Area of Interest, Advisor/Consultant, Role, Cross Industry, Industry, IT Professional/Technical Manager, Role, Business Intelligence, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Amazon QuickSight, Services, Business Executive, Role, Business Applications, Topic, Cost Optimization, Area of Interest, AWS Identity and Access Management (IAM), Services, Analytics, Topic, 200 - Intermediate, Level, , speakers :firstName_0: NEAL, lastName_0: CAULEY, firstName_1: Bhasi, lastName_1: Mehta, firstName_2: Douglas, lastName_2: Bergquist, , thirdpartyid :BSI205, sessionuid :42206ACF-C67E-43FE-B61E-058B4CE86488, title :What’s new with Amazon QuickSight, description :In this session, learn about all the newly launched capabilities of Amazon QuickSight, including generative AI–powered authoring and storytelling experiences. Explore QuickSight’s tighter integration with embedded applications, richer visualizations, centralized identity management, Amazon SageMaker Canvas integrations, CI/CD workflows, and much more., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 121, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Forum 121
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: In this session, learn about all the newly launched capabilities of Amazon QuickSight, including generative AI–powered authoring and storytelling experiences. Explore QuickSight’s tighter integration with embedded applications, richer visualizations, centralized identity management, Amazon SageMaker Canvas integrations, CI/CD workflows, and much more
+title: What’s new with Amazon QuickSight
+sessionuid: 42206ACF-C67E-43FE-B61E-058B4CE86488
+thirdpartyid: BSI205
+speakers: firstName_0: NEAL, lastName_0: CAULEY, firstName_1: Bhasi, lastName_1: Mehta, firstName_2: Douglas, lastName_2: Bergquist
+tag_name: Independent Software Vendor (ISV), Area of Interest, Advisor/Consultant, Role, Cross Industry, Industry, IT Professional/Technical Manager, Role, Business Intelligence, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Amazon QuickSight, Services, Business Executive, Role, Business Applications, Topic, Cost Optimization, Area of Interest, AWS Identity and Access Management (IAM), Services, Analytics, Topic, 200 - Intermediate, Level

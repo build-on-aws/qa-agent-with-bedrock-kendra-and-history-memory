@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :DevOps and Developer Productivity, Topic, Security, Compliance, & Identity, Topic, Management & Governance, Area of Interest, 100 - Foundational, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, DevOps Engineer, Role, Amazon Elastic Container Service (ECS), Services, AWS Fargate, Services, AWS Identity and Access Management (IAM), Services, Thursday, Day, Venetian, Venue, , speakers :firstName_0: Lays, lastName_0: Rodrigues, company_0: Pagar.me, , thirdpartyid :COM102, sessionuid :C558D3CA-F570-498D-97E7-50C462EB5EA4, title :Automate away the toil, description :<p>Toil is part of our lives, and we get used to it, but we shouldn’t. Toil causes triggered pages. Incidents. Sleepless nights. However, there is a solution in sight: automation. In this dev chat, learn how you can use Terraform modules, Git hooks, and cookie cutters to automate away the toil and let you have peaceful nights of sleep.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Toil is part of our lives, and we get used to it, but we shouldn’t. Toil causes triggered pages. Incidents. Sleepless nights. However, there is a solution in sight: automation. In this dev chat, learn how you can use Terraform modules, Git hooks, and cookie cutters to automate away the toil and let you have peaceful nights of sleep.</p>
+title: Automate away the toil
+sessionuid: C558D3CA-F570-498D-97E7-50C462EB5EA4
+thirdpartyid: COM102
+speakers: firstName_0: Lays, lastName_0: Rodrigues, company_0: Pagar.me
+tag_name: DevOps and Developer Productivity, Topic, Security, Compliance, & Identity, Topic, Management & Governance, Area of Interest, 100 - Foundational, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, DevOps Engineer, Role, Amazon Elastic Container Service (ECS), Services, AWS Fargate, Services, AWS Identity and Access Management (IAM), Services, Thursday, Day, Venetian, Venue

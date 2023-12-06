@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 304
+summary: tag_name :Cost Optimization, Area of Interest, Management & Governance, Area of Interest, IT Administrator, Role, IT Professional/Technical Manager, Role, Monday, Day, MGM Grand, Venue, Cloud Operations, Topic, Business Executive, Role, 200 - Intermediate, Level, , speakers :firstName_0: Owen, lastName_0: Corso, firstName_1: Shlomo, lastName_1: Dubrowin, , thirdpartyid :COP212, sessionuid :CE63963D-52E0-465F-B6A0-4613E27037FE, title :Ways to avoid cost surprises, description :Take control of your AWS spend, and realize the full potential of AWS Billing and Cost Management services. In this chalk talk, explore ways to improve budget setting and learn how to detect and address cost spikes proactively. Discover resources you can use to select and track your purchase commitment and curtail your spend based on your spend pattern., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :304, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 01:00:00 -0500, 
+enddatetimeutc: November, 28 2023 01:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: 304
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Take control of your AWS spend, and realize the full potential of AWS Billing and Cost Management services. In this chalk talk, explore ways to improve budget setting and learn how to detect and address cost spikes proactively. Discover resources you can use to select and track your purchase commitment and curtail your spend based on your spend pattern
+title: Ways to avoid cost surprises
+sessionuid: CE63963D-52E0-465F-B6A0-4613E27037FE
+thirdpartyid: COP212
+speakers: firstName_0: Owen, lastName_0: Corso, firstName_1: Shlomo, lastName_1: Dubrowin
+tag_name: Cost Optimization, Area of Interest, Management & Governance, Area of Interest, IT Administrator, Role, IT Professional/Technical Manager, Role, Monday, Day, MGM Grand, Venue, Cloud Operations, Topic, Business Executive, Role, 200 - Intermediate, Level

@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Lagoon L
+summary: tag_name :200 - Intermediate, Level, Amazon Aurora, Services, BuildOn.AWS, Area of Interest, Solution/Systems Architect, Role, Cross Industry, Industry, Data Engineer, Role, Training & Certification, Topic, Monday, Day, Mandalay Bay, Venue, Databases, Topic, Developer/Engineer, Role, , speakers :firstName_0: Santosh, lastName_0: Kumar, , thirdpartyid :TNC206, sessionuid :93F4F905-91F8-4556-B092-49C39AD1F3B6, title :Building with Amazon Aurora databases, description :In this lab, investigate how and when parallel query is applied to a statement in Amazon Aurora. Also learn how to ensure that parallel query is applied where it provides the most benefit. Finally, gain an understanding of the advantages of parallel query and what situations trigger it for large datasets., sessiontype :Lab, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Lagoon L, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Lagoon L
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Lab
+description: In this lab, investigate how and when parallel query is applied to a statement in Amazon Aurora. Also learn how to ensure that parallel query is applied where it provides the most benefit. Finally, gain an understanding of the advantages of parallel query and what situations trigger it for large datasets
+title: Building with Amazon Aurora databases
+sessionuid: 93F4F905-91F8-4556-B092-49C39AD1F3B6
+thirdpartyid: TNC206
+speakers: firstName_0: Santosh, lastName_0: Kumar
+tag_name: 200 - Intermediate, Level, Amazon Aurora, Services, BuildOn.AWS, Area of Interest, Solution/Systems Architect, Role, Cross Industry, Industry, Data Engineer, Role, Training & Certification, Topic, Monday, Day, Mandalay Bay, Venue, Databases, Topic, Developer/Engineer, Role

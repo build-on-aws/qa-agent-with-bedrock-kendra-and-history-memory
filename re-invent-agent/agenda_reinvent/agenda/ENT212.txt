@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 370
+summary: tag_name :Developer/Engineer, Role, Manufacturing & Industrial, Industry, Enterprise & Migration, Topic, Thursday, Day, MGM Grand, Venue, IT Professional/Technical Manager, Role, Amazon Elastic Container Service (ECS), Services, Solution/Systems Architect, Role, Migration & Transfer, Area of Interest, Microsoft, Area of Interest, Customer Stories, Area of Interest, 200 - Intermediate, Level, , speakers :firstName_0: Glenn, lastName_0: Buckholz, firstName_1: Mathieu, lastName_1: Berte, company_1: Carrier Global Corporation, firstName_2: Purvi, lastName_2: Goyal, , thirdpartyid :ENT212, sessionuid :DED152CF-0034-43F0-BDDA-AA8AA3D2381F, title :How Carrier Global is saving 40% with Windows containers on AWS, description :<p>In this session, learn how Carrier Global used AWS technologies to transform legacy .NET code into a modern, event-driven application without refactoring. Learn how Windows containers on Amazon ECS were used to enable the architectural modernization and improve agility for feature delivery. Also learn how Carrier Global used various AWS services and features to reduce costs to run their Windows application by 40% and improve scaling performance by 70%.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 370, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Chairmans 370
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>In this session, learn how Carrier Global used AWS technologies to transform legacy .NET code into a modern, event-driven application without refactoring. Learn how Windows containers on Amazon ECS were used to enable the architectural modernization and improve agility for feature delivery. Also learn how Carrier Global used various AWS services and features to reduce costs to run their Windows application by 40% and improve scaling performance by 70%.</p>
+title: How Carrier Global is saving 40% with Windows containers on AWS
+sessionuid: DED152CF-0034-43F0-BDDA-AA8AA3D2381F
+thirdpartyid: ENT212
+speakers: firstName_0: Glenn, lastName_0: Buckholz, firstName_1: Mathieu, lastName_1: Berte, company_1: Carrier Global Corporation, firstName_2: Purvi, lastName_2: Goyal
+tag_name: Developer/Engineer, Role, Manufacturing & Industrial, Industry, Enterprise & Migration, Topic, Thursday, Day, MGM Grand, Venue, IT Professional/Technical Manager, Role, Amazon Elastic Container Service (ECS), Services, Solution/Systems Architect, Role, Migration & Transfer, Area of Interest, Microsoft, Area of Interest, Customer Stories, Area of Interest, 200 - Intermediate, Level

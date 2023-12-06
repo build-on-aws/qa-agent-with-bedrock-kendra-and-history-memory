@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 7
+summary: tag_name :AI/ML, Topic, BuildOn.AWS, Area of Interest, 300 - Advanced, Level, Amazon Bedrock, Services, AWS Step Functions, Services, Management & Governance, Area of Interest, Thursday, Day, Wynn, Venue, , speakers :firstName_0: Marcia, lastName_0: Villalba, , thirdpartyid :BOA304, sessionuid :4A0518B5-4455-420C-AE88-7426D4113EDF, title :Using AI and serverless to automate video production, description :<p>AI is incredibly useful for saving time on tasks. In video production, you can use AI tools to easily add dubbing, create subtitles, and come up with video descriptions and titles. But what if you want to take it a step further and automate all these different tasks? That’s where serverless services like AWS Step Functions and Amazon EventBridge come in. In this session, learn how to use Step Functions to build workflows and automate different processes and how to use Amazon EventBridge for handling real situations.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 7, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 20:30:00 -0500, 
+enddatetimeutc: November, 30 2023 20:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Cristal 7
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: standard
+description: <p>AI is incredibly useful for saving time on tasks. In video production, you can use AI tools to easily add dubbing, create subtitles, and come up with video descriptions and titles. But what if you want to take it a step further and automate all these different tasks? That’s where serverless services like AWS Step Functions and Amazon EventBridge come in. In this session, learn how to use Step Functions to build workflows and automate different processes and how to use Amazon EventBridge for handling real situations.</p>
+title: Using AI and serverless to automate video production
+sessionuid: 4A0518B5-4455-420C-AE88-7426D4113EDF
+thirdpartyid: BOA304
+speakers: firstName_0: Marcia, lastName_0: Villalba
+tag_name: AI/ML, Topic, BuildOn.AWS, Area of Interest, 300 - Advanced, Level, Amazon Bedrock, Services, AWS Step Functions, Services, Management & Governance, Area of Interest, Thursday, Day, Wynn, Venue

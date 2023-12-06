@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 2
+summary: tag_name :Solution/Systems Architect, Role, AI/ML, Topic, 300 - Advanced, Level, Amazon SageMaker, Services, Cross Industry, Industry, Developer/Engineer, Role, Innovation on AWS, Area of Interest, Wednesday, Day, Wynn, Venue, IT Professional/Technical Manager, Role, Generative AI, Area of Interest, , speakers :firstName_0: Giuseppe, lastName_0: Angelo Porcelli, firstName_1: Kunal, lastName_1: Jha, firstName_2: Lakshmi, lastName_2: Ramakrishnan, , thirdpartyid :AIM364, sessionuid :95D7A38F-83A3-479E-89FB-9D81C0390201, title :Boost ML development with Amazon SageMaker Studio notebooks, description :Amazon SageMaker Studio notebooks are collaborative notebooks that you can launch quickly and that can help you integrate with purpose-built ML tools in SageMaker and other AWS services for complete ML development. In this code talk, learn how to prepare data at scale using built-in data preparation assistance, co-edit the same notebook in real time, and automate conversion of notebook code to production-ready jobs. This talk also introduces the new generative AI–powered features that can help you maximize productivity, write higher-quality code, and improve security., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 2, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Lafite 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: Amazon SageMaker Studio notebooks are collaborative notebooks that you can launch quickly and that can help you integrate with purpose-built ML tools in SageMaker and other AWS services for complete ML development. In this code talk, learn how to prepare data at scale using built-in data preparation assistance, co-edit the same notebook in real time, and automate conversion of notebook code to production-ready jobs. This talk also introduces the new generative AI–powered features that can help you maximize productivity, write higher-quality code, and improve security
+title: Boost ML development with Amazon SageMaker Studio notebooks
+sessionuid: 95D7A38F-83A3-479E-89FB-9D81C0390201
+thirdpartyid: AIM364
+speakers: firstName_0: Giuseppe, lastName_0: Angelo Porcelli, firstName_1: Kunal, lastName_1: Jha, firstName_2: Lakshmi, lastName_2: Ramakrishnan
+tag_name: Solution/Systems Architect, Role, AI/ML, Topic, 300 - Advanced, Level, Amazon SageMaker, Services, Cross Industry, Industry, Developer/Engineer, Role, Innovation on AWS, Area of Interest, Wednesday, Day, Wynn, Venue, IT Professional/Technical Manager, Role, Generative AI, Area of Interest

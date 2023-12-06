@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :300 - Advanced, Level, Developer/Engineer, Role, Tuesday, Day, Wynn, Venue, Migration & Transfer, Area of Interest, Solution/Systems Architect, Role, Enterprise & Migration, Topic, , speakers :firstName_0: Craig, lastName_0: Bossie, firstName_1: Pavankumar, lastName_1: Kasani, , thirdpartyid :XNT309, sessionuid :5ABFA257-BEA8-45F9-A65F-3564139F3F7A, title :Managing .NET dependencies: Strategies for migration and modernization, description :Explore effective approaches for managing .NET dependencies during the migration and modernization of .NET workloads. Discover best practices for hosting, upgrading, and automating dependencies to help ensure a smooth transition and maximize the benefits of modernization. Learn about dependency management tools and techniques, including package managers, versioning strategies, and automated dependency analysis. Gain insights into strategies for handling compatibility challenges, integrating with cloud services, and optimizing performance. Whether you are migrating to a new platform, upgrading to the latest .NET, or automating dependency management workflows, this chalk talk equips you with practical guidance to successfully manage .NET dependencies and streamline your application modernization journey., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Explore effective approaches for managing .NET dependencies during the migration and modernization of .NET workloads. Discover best practices for hosting, upgrading, and automating dependencies to help ensure a smooth transition and maximize the benefits of modernization. Learn about dependency management tools and techniques, including package managers, versioning strategies, and automated dependency analysis. Gain insights into strategies for handling compatibility challenges, integrating with cloud services, and optimizing performance. Whether you are migrating to a new platform, upgrading to the latest .NET, or automating dependency management workflows, this chalk talk equips you with practical guidance to successfully manage .NET dependencies and streamline your application modernization journey
+title: Managing .NET dependencies: Strategies for migration and modernization
+sessionuid: 5ABFA257-BEA8-45F9-A65F-3564139F3F7A
+thirdpartyid: XNT309
+speakers: firstName_0: Craig, lastName_0: Bossie, firstName_1: Pavankumar, lastName_1: Kasani
+tag_name: 300 - Advanced, Level, Developer/Engineer, Role, Tuesday, Day, Wynn, Venue, Migration & Transfer, Area of Interest, Solution/Systems Architect, Role, Enterprise & Migration, Topic

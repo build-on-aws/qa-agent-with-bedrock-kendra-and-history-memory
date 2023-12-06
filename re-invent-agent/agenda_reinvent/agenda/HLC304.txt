@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 304
+summary: tag_name :Architecture, Topic, Healthcare, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon HealthLake, Services, AWS DataSync, Services, AWS Direct Connect, Services, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Kevin, lastName_0: Moore, , thirdpartyid :HLC304, sessionuid :25C3E3C8-B37B-417F-B479-F708CC069709, title :Power medical imaging in the cloud with AWS HealthImaging, description :<p>AWS HealthImaging simplifies building cloud-based medical imaging applications for radiology and research. In this chalk talk, AWS medical imaging experts show how to architect applications that use a single copy of your data on the cloud to power clinical, research, and ML workflows. This approach reduces the total cost of ownership of medical imaging data by up to 40%. See how to architect web-based viewer applications that provide subsecond image retrieval latency from virtually anywhere. View architectures that use a single copy of the data for use cases like developing AI/ML models that improve provider and patient experiences.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :304, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: 304
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>AWS HealthImaging simplifies building cloud-based medical imaging applications for radiology and research. In this chalk talk, AWS medical imaging experts show how to architect applications that use a single copy of your data on the cloud to power clinical, research, and ML workflows. This approach reduces the total cost of ownership of medical imaging data by up to 40%. See how to architect web-based viewer applications that provide subsecond image retrieval latency from virtually anywhere. View architectures that use a single copy of the data for use cases like developing AI/ML models that improve provider and patient experiences.</p>
+title: Power medical imaging in the cloud with AWS HealthImaging
+sessionuid: 25C3E3C8-B37B-417F-B479-F708CC069709
+thirdpartyid: HLC304
+speakers: firstName_0: Kevin, lastName_0: Moore
+tag_name: Architecture, Topic, Healthcare, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon HealthLake, Services, AWS DataSync, Services, AWS Direct Connect, Services, Wednesday, Day, MGM Grand, Venue

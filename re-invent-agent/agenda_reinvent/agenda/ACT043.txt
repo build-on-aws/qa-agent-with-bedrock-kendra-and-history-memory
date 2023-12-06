@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1280
+summary: tag_name :Inclusion & Diversity, Area of Interest, Thursday, Day, Venetian, Venue, Expo, Additional Services, , speakers :, thirdpartyid :ACT043, sessionuid :4B41B8D9-F9BB-4D7B-9F27-24EB2BC5A88D, title :All Builders Welcome Lounge startup takeover, description :Stop by to meet underrepresented founders from the AWS Impact Accelerator, AWS Generative AI Accelerator, and AWS Space Accelerator programs and learn how these startups are using AWS to transform their businesses and disrupt the status quo. Don’t miss the underrepresented startup founder workshop and meetup led by the AWS Startup and Underrepresented Founder Startup Business Development teams., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1280, startdatetimeutc :November, 30 2023 18:00:00 -0500, enddatetimeutc :December, 01 2023 00:00:00 -0500, 
+enddatetimeutc: December, 01 2023 00:00:00 -0500
+startdatetimeutc: November, 30 2023 18:00:00 -0500
+locationname: Hall B, Expo, Booth #1280
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Stop by to meet underrepresented founders from the AWS Impact Accelerator, AWS Generative AI Accelerator, and AWS Space Accelerator programs and learn how these startups are using AWS to transform their businesses and disrupt the status quo. Don’t miss the underrepresented startup founder workshop and meetup led by the AWS Startup and Underrepresented Founder Startup Business Development teams
+title: All Builders Welcome Lounge startup takeover
+sessionuid: 4B41B8D9-F9BB-4D7B-9F27-24EB2BC5A88D
+thirdpartyid: ACT043
+speakers: 
+tag_name: Inclusion & Diversity, Area of Interest, Thursday, Day, Venetian, Venue, Expo, Additional Services

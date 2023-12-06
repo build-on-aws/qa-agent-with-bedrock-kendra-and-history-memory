@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Oceanside B
+summary: tag_name :AI/ML, Topic, Customer Stories, Area of Interest, Innovation on AWS, Area of Interest, Strategy & Transformation, Area of Interest, Media & Entertainment, Industry, Sports, Industry, 200 - Intermediate, Level, Business Executive, Role, Data Scientist, Role, Sales/Marketing, Role, Wednesday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Brant, lastName_0: Berglund, company_0: National Hockey League (NHL), firstName_1: Cassie, lastName_1: Campbell-Pascall, company_1: ESPN & Rogers Sportsnet, firstName_2: Julie, lastName_2: Souza, firstName_3: Leon, lastName_3: Li, firstName_4: Andrew, lastName_4: Reich, , thirdpartyid :SPT201, sessionuid :1CCFE9B2-8F3D-4FC9-B5BB-4A5FA5B89E6E, title :Creating new analytics in sports, description :<p>The raw data of sports has transitioned from box scores to tracking data, and with that comes an opportunity to apply AI/ML to surface new insights that impact how we coach, train, and consume sports. In this session, hear the NHL and AWS discuss how new analytics are created—from conception to on-air presentation.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Oceanside B, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 02:30:00 -0500, 
+enddatetimeutc: November, 30 2023 02:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Oceanside B
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>The raw data of sports has transitioned from box scores to tracking data, and with that comes an opportunity to apply AI/ML to surface new insights that impact how we coach, train, and consume sports. In this session, hear the NHL and AWS discuss how new analytics are created—from conception to on-air presentation.</p>
+title: Creating new analytics in sports
+sessionuid: 1CCFE9B2-8F3D-4FC9-B5BB-4A5FA5B89E6E
+thirdpartyid: SPT201
+speakers: firstName_0: Brant, lastName_0: Berglund, company_0: National Hockey League (NHL), firstName_1: Cassie, lastName_1: Campbell-Pascall, company_1: ESPN & Rogers Sportsnet, firstName_2: Julie, lastName_2: Souza, firstName_3: Leon, lastName_3: Li, firstName_4: Andrew, lastName_4: Reich
+tag_name: AI/ML, Topic, Customer Stories, Area of Interest, Innovation on AWS, Area of Interest, Strategy & Transformation, Area of Interest, Media & Entertainment, Industry, Sports, Industry, 200 - Intermediate, Level, Business Executive, Role, Data Scientist, Role, Sales/Marketing, Role, Wednesday, Day, Mandalay Bay, Venue

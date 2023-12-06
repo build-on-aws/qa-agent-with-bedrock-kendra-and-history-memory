@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 228
+summary: tag_name :Developer/Engineer, Role, Financial Services, Industry, Generative AI, Area of Interest, Solution/Systems Architect, Role, Data Scientist, Role, Monday, Day, Caesars Forum, Venue, Amazon Kendra, Services, Amazon Bedrock, Services, Amazon SageMaker, Services, AI/ML, Topic, 300 - Advanced, Level, , speakers :firstName_0: SanJay, lastName_0: Dhar, firstName_1: Sudhir, lastName_1: Kalidindi, , thirdpartyid :FSI302, sessionuid :343952FF-742F-41DE-924F-502C56A9A7F3, title :Beyond chatbots: Unleashing knowledge graphs with generative AI, description :<p>Financial institutions are exploring initial use cases for generative AI, including chatbot and customer support. In this workshop, go beyond these use cases and build a financial and identity knowledge graph for lending and credit decisions. Build a knowledge graph using Amazon Neptune by synthesizing structured and unstructured data using generative AI for metadata enrichment, query generation, and search functionality. Learn how to fine-tune large language models in Amazon SageMaker JumpStart and Amazon Bedrock and integrate them with a knowledge graph and Amazon Kendra to support the lending and credit decisioning process. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 228, startdatetimeutc :November, 27 2023 19:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 19:00:00 -0500
+locationname: Summit 228
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: <p>Financial institutions are exploring initial use cases for generative AI, including chatbot and customer support. In this workshop, go beyond these use cases and build a financial and identity knowledge graph for lending and credit decisions. Build a knowledge graph using Amazon Neptune by synthesizing structured and unstructured data using generative AI for metadata enrichment, query generation, and search functionality. Learn how to fine-tune large language models in Amazon SageMaker JumpStart and Amazon Bedrock and integrate them with a knowledge graph and Amazon Kendra to support the lending and credit decisioning process. You must bring your laptop to participate.</p>
+title: Beyond chatbots: Unleashing knowledge graphs with generative AI
+sessionuid: 343952FF-742F-41DE-924F-502C56A9A7F3
+thirdpartyid: FSI302
+speakers: firstName_0: SanJay, lastName_0: Dhar, firstName_1: Sudhir, lastName_1: Kalidindi
+tag_name: Developer/Engineer, Role, Financial Services, Industry, Generative AI, Area of Interest, Solution/Systems Architect, Role, Data Scientist, Role, Monday, Day, Caesars Forum, Venue, Amazon Kendra, Services, Amazon Bedrock, Services, Amazon SageMaker, Services, AI/ML, Topic, 300 - Advanced, Level

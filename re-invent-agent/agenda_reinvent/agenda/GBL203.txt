@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Summit Showroom
+summary: tag_name :Cross Industry, Industry, IT Executive, Role, Advisor/Consultant, Role, Amazon EventBridge, Services, Financial Services, Industry, Customer Stories, Area of Interest, AWS Step Functions, Services, Solution/Systems Architect, Role, 200 - Intermediate, Level, Non-English, Area of Interest, Wednesday, Day, Venetian, Venue, AWS Lambda, Services, Serverless Compute, Topic, , speakers :firstName_0: Iñigo, lastName_0: Lacave, company_0: MAPFRE, firstName_1: Jesus, lastName_1: Bernal, firstName_2: Mat, lastName_2: Jovanovic, company_2: MAPFRE, , thirdpartyid :GBL203-ES, sessionuid :87208509-1690-44F1-9E64-3352D1FBDCAC, title :Building serverless-first applications with MAPFRE [Spanish], description :This session is delivered in Spanish. In this session, learn what modern, serverless-first applications are and how to implement them with services such as AWS Lambda or AWS Fargate, among others. Find out how MAPFRE has adopted and implemented a serverless strategy that has allowed them to improve their agility and reduce development costs when creating new applications and modernizing existing ones. MAPFRE has accomplished this through a marketplace based on serverless reference architectures that developers can use on demand., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Summit Showroom, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Summit Showroom
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: This session is delivered in Spanish. In this session, learn what modern, serverless-first applications are and how to implement them with services such as AWS Lambda or AWS Fargate, among others. Find out how MAPFRE has adopted and implemented a serverless strategy that has allowed them to improve their agility and reduce development costs when creating new applications and modernizing existing ones. MAPFRE has accomplished this through a marketplace based on serverless reference architectures that developers can use on demand
+title: Building serverless-first applications with MAPFRE [Spanish]
+sessionuid: 87208509-1690-44F1-9E64-3352D1FBDCAC
+thirdpartyid: GBL203-ES
+speakers: firstName_0: Iñigo, lastName_0: Lacave, company_0: MAPFRE, firstName_1: Jesus, lastName_1: Bernal, firstName_2: Mat, lastName_2: Jovanovic, company_2: MAPFRE
+tag_name: Cross Industry, Industry, IT Executive, Role, Advisor/Consultant, Role, Amazon EventBridge, Services, Financial Services, Industry, Customer Stories, Area of Interest, AWS Step Functions, Services, Solution/Systems Architect, Role, 200 - Intermediate, Level, Non-English, Area of Interest, Wednesday, Day, Venetian, Venue, AWS Lambda, Services, Serverless Compute, Topic

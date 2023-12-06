@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Mouton 2
+summary: tag_name :Compute, Topic, Amazon DynamoDB, Services, 400 - Expert, Level, DevOps Engineer, Role, Solution/Systems Architect, Role, Tuesday, Day, Wynn, Venue, Developer/Engineer, Role, Architecture, Topic, Amazon Elastic Kubernetes Service (EKS), Services, SaaS, Area of Interest, , speakers :firstName_0: Ranjith, lastName_0: Raman, firstName_1: Toby, lastName_1: Buckley, , thirdpartyid :SAS402, sessionuid :E1D0C7F7-FAB9-48C9-8786-2992E1D96817, title :SaaS multi-tenancy meets Amazon EKS: A hands-on deep dive, description :It’s time to move beyond multi-tenant basics and explore the nuances that come with building a multi-tenant architecture that fully applies the tools and constructs that come with Amazon EKS. In this workshop, see how tenant isolation, routing, and other multi-tenant strategies are implemented with native Amazon EKS mechanisms. Explore how you can use node affinity, metrics tracking, and Amazon EKS scaling mechanisms to optimize the cost and efficiency of your solution. Join this workshop for hands-on exposure to the spectrum of considerations and options that go into building a multi-tenant SaaS offering with Amazon EKS. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Level 1, locationname :Mouton 2, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Mouton 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Workshop
+description: It’s time to move beyond multi-tenant basics and explore the nuances that come with building a multi-tenant architecture that fully applies the tools and constructs that come with Amazon EKS. In this workshop, see how tenant isolation, routing, and other multi-tenant strategies are implemented with native Amazon EKS mechanisms. Explore how you can use node affinity, metrics tracking, and Amazon EKS scaling mechanisms to optimize the cost and efficiency of your solution. Join this workshop for hands-on exposure to the spectrum of considerations and options that go into building a multi-tenant SaaS offering with Amazon EKS. You must bring your laptop to participate
+title: SaaS multi-tenancy meets Amazon EKS: A hands-on deep dive
+sessionuid: E1D0C7F7-FAB9-48C9-8786-2992E1D96817
+thirdpartyid: SAS402
+speakers: firstName_0: Ranjith, lastName_0: Raman, firstName_1: Toby, lastName_1: Buckley
+tag_name: Compute, Topic, Amazon DynamoDB, Services, 400 - Expert, Level, DevOps Engineer, Role, Solution/Systems Architect, Role, Tuesday, Day, Wynn, Venue, Developer/Engineer, Role, Architecture, Topic, Amazon Elastic Kubernetes Service (EKS), Services, SaaS, Area of Interest

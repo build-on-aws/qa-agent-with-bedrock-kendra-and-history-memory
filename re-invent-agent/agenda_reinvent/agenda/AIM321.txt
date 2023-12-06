@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 101
+summary: tag_name :Amazon Bedrock, Services, Innovation on AWS, Area of Interest, Media & Entertainment, Industry, Generative AI, Area of Interest, Advertising & Marketing, Industry, AI/ML, Topic, 300 - Advanced, Level, Monday, Day, Caesars Forum, Venue, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Strategy & Transformation, Area of Interest, , speakers :firstName_0: Mike, lastName_0: Miller, firstName_1: Thomas, lastName_1: Lobinger, , thirdpartyid :AIM321, sessionuid :CE2DA8F2-B8B5-46BA-88AF-8054ED5771CC, title :Start a content revolution in marketing & sales with AWS generative AI, description :Generative AI brings exponential efficiencies to marketing, sales, and product development by automating repetitive tasks and augmenting human creativity. This chalk talk is designed to fuel your imagination with real-time generative AI demos that showcase boundary-pushing creative and operational efficiencies. Gain expert strategies from AWS solutions architects who sketch practical blueprints to unlock the potential of generative AI through Amazon Bedrock’s leading foundational models. Join this talk to ignite your teams and launch a creative revolution with AWS and Amazon Bedrock., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 101, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Forum 101
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Generative AI brings exponential efficiencies to marketing, sales, and product development by automating repetitive tasks and augmenting human creativity. This chalk talk is designed to fuel your imagination with real-time generative AI demos that showcase boundary-pushing creative and operational efficiencies. Gain expert strategies from AWS solutions architects who sketch practical blueprints to unlock the potential of generative AI through Amazon Bedrock’s leading foundational models. Join this talk to ignite your teams and launch a creative revolution with AWS and Amazon Bedrock
+title: Start a content revolution in marketing & sales with AWS generative AI
+sessionuid: CE2DA8F2-B8B5-46BA-88AF-8054ED5771CC
+thirdpartyid: AIM321
+speakers: firstName_0: Mike, lastName_0: Miller, firstName_1: Thomas, lastName_1: Lobinger
+tag_name: Amazon Bedrock, Services, Innovation on AWS, Area of Interest, Media & Entertainment, Industry, Generative AI, Area of Interest, Advertising & Marketing, Industry, AI/ML, Topic, 300 - Advanced, Level, Monday, Day, Caesars Forum, Venue, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Strategy & Transformation, Area of Interest

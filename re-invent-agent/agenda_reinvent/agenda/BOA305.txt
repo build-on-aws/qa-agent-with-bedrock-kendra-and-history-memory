@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 121
+summary: tag_name :AI/ML, Topic, BuildOn.AWS, Area of Interest, Generative AI, Area of Interest, Amazon Bedrock, Services, Amazon SageMaker, Services, Amazon Transcribe, Services, Thursday, Day, Caesars Forum, Venue, , speakers :firstName_0: Alak, lastName_0: Eswaradass, firstName_1: Suresh, lastName_1: Poopandi, firstName_2: Rob, lastName_2: Koch, company_2: Slalom, , thirdpartyid :BOA305, sessionuid :22FCB42A-F045-41BA-8FA0-29BDEC94511A, title :How to build generative AI–powered American Sign Language avatars, description :<p>Imagine a world without language barriers. In this session, learn about one step in that direction with a lifelike American Sign Language (ASL) animation solution, powered by AWS Cloud and generative AI, that breaks down barriers by translating speech and text into ASL animations, fostering more inclusive communication. Learn how it creates expressive ASL animations that capture sign language nuances and emotions for an authentic experience. See how users can input audio, video, or text to have a holographic ASL avatar interpret it into a lifelike video. The solution uses AI/ML services, including Amazon Transcribe, Amazon SageMaker, Amazon Bedrock, and text-to-video models.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 121, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Forum 121
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Imagine a world without language barriers. In this session, learn about one step in that direction with a lifelike American Sign Language (ASL) animation solution, powered by AWS Cloud and generative AI, that breaks down barriers by translating speech and text into ASL animations, fostering more inclusive communication. Learn how it creates expressive ASL animations that capture sign language nuances and emotions for an authentic experience. See how users can input audio, video, or text to have a holographic ASL avatar interpret it into a lifelike video. The solution uses AI/ML services, including Amazon Transcribe, Amazon SageMaker, Amazon Bedrock, and text-to-video models.</p>
+title: How to build generative AI–powered American Sign Language avatars
+sessionuid: 22FCB42A-F045-41BA-8FA0-29BDEC94511A
+thirdpartyid: BOA305
+speakers: firstName_0: Alak, lastName_0: Eswaradass, firstName_1: Suresh, lastName_1: Poopandi, firstName_2: Rob, lastName_2: Koch, company_2: Slalom
+tag_name: AI/ML, Topic, BuildOn.AWS, Area of Interest, Generative AI, Area of Interest, Amazon Bedrock, Services, Amazon SageMaker, Services, Amazon Transcribe, Services, Thursday, Day, Caesars Forum, Venue

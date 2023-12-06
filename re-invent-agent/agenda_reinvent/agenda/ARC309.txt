@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 318
+summary: tag_name :300 - Advanced, Level, Architecture, Topic, Resilience, Area of Interest, Well-Architected Framework, Area of Interest, Cross Industry, Industry, DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Amazon CloudWatch, Services, Amazon Route 53, Services, Amazon Route 53 Application Recovery Controller, Services, MGM Grand, Venue, Thursday, Day, , speakers :firstName_0: Deepak, lastName_0: Suryanarayanan, firstName_1: Gavin, lastName_1: McCullagh, , thirdpartyid :ARC309, sessionuid :1632BD36-E668-4311-84B8-DDF433B83F98, title :Build applications that recover from an Availability Zone impairment, description :Building highly resilient applications in the cloud requires building across multiple Availability Zones, capacity planning for redundancy, and having mechanisms in place to ensure that requests are routed away from occasional, temporary failures—both hard and gray—in an Availability Zone. Learn how you can design and monitor applications to detect and automatically recover from failures within Availability Zones using capabilities such as the Amazon Route 53 Application Recovery Controller zonal shift., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 318, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Premier 318
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Building highly resilient applications in the cloud requires building across multiple Availability Zones, capacity planning for redundancy, and having mechanisms in place to ensure that requests are routed away from occasional, temporary failures—both hard and gray—in an Availability Zone. Learn how you can design and monitor applications to detect and automatically recover from failures within Availability Zones using capabilities such as the Amazon Route 53 Application Recovery Controller zonal shift
+title: Build applications that recover from an Availability Zone impairment
+sessionuid: 1632BD36-E668-4311-84B8-DDF433B83F98
+thirdpartyid: ARC309
+speakers: firstName_0: Deepak, lastName_0: Suryanarayanan, firstName_1: Gavin, lastName_1: McCullagh
+tag_name: 300 - Advanced, Level, Architecture, Topic, Resilience, Area of Interest, Well-Architected Framework, Area of Interest, Cross Industry, Industry, DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Amazon CloudWatch, Services, Amazon Route 53, Services, Amazon Route 53 Application Recovery Controller, Services, MGM Grand, Venue, Thursday, Day

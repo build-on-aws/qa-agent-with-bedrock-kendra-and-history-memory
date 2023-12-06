@@ -1,0 +1,14 @@
+location: Wynn, Lower Convention Promenade, Alsace 1
+summary: tag_name :Meals & Conference Services, Additional Services, Wynn, Venue, Tuesday, Day, , speakers :, thirdpartyid :ACT087, sessionuid :B3FF28FC-B63A-4D69-A3B8-09CEC3D90FDB, title :Reflection room, description :The reflection room provides a dark, quiet space for meditation, prayer, or yoga, or to find resources for sensory needs. The room is equipped with semi-private meditation pods, prayer rugs, yoga mats, comfortable seating, puzzles, and coloring supplies. The reflection room also includes sensory bags containing noise cancelling headphones, fidget tools, and other resources for attendees with sensory needs, and a sensory tent that provides a safe and calming environment to help attendees that might be feeling overwhelmed or overstimulated., sessiontype :Conference Services, venuename :Wynn, floorplanname :Lower Convention Promenade, locationname :Alsace 1, startdatetimeutc :November, 28 2023 16:00:00 -0500, enddatetimeutc :November, 29 2023 03:00:00 -0500, 
+enddatetimeutc: November, 29 2023 03:00:00 -0500
+startdatetimeutc: November, 28 2023 16:00:00 -0500
+locationname: Alsace 1
+floorplanname: Lower Convention Promenade
+venuename: Wynn
+sessiontype: Conference Services
+description: The reflection room provides a dark, quiet space for meditation, prayer, or yoga, or to find resources for sensory needs. The room is equipped with semi-private meditation pods, prayer rugs, yoga mats, comfortable seating, puzzles, and coloring supplies. The reflection room also includes sensory bags containing noise cancelling headphones, fidget tools, and other resources for attendees with sensory needs, and a sensory tent that provides a safe and calming environment to help attendees that might be feeling overwhelmed or overstimulated
+title: Reflection room
+sessionuid: B3FF28FC-B63A-4D69-A3B8-09CEC3D90FDB
+thirdpartyid: ACT087
+speakers: 
+tag_name: Meals & Conference Services, Additional Services, Wynn, Venue, Tuesday, Day

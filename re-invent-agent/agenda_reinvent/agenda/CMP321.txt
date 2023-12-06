@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 1
+summary: tag_name :Cross Industry, Industry, Application Integration, Area of Interest, Data Engineer, Role, Amazon Rekognition, Services, Well-Architected Framework, Area of Interest, AI/ML, Topic, BuildOn.AWS, Area of Interest, Developer/Engineer, Role, Compute, Topic, Tuesday, Day, Wynn, Venue, 300 - Advanced, Level, Amazon Elastic Compute Cloud (EC2), Services, Solution/Systems Architect, Role, Retail, Industry, AWS Lambda, Services, , speakers :firstName_0: Jerry, lastName_0: Tejada, firstName_1: Kurt, lastName_1: Scheuringer, , thirdpartyid :CMP321, sessionuid :60A06070-82BD-4BA2-96E6-C8DC44ACFF0B, title :Deploying photogrammetry & 3D models in the cloud with RealityCapture, description :In this chalk talk, dive deep into architecting and deploying RealityCapture in the cloud. This web application generates photogrammetry 3D models from drone images on AWS, and it allows individuals to automate its pipeline by leveraging ML (Amazon Rekognition) and GPU-accelerated Amazon EC2 services., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 1, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: Lafite 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: In this chalk talk, dive deep into architecting and deploying RealityCapture in the cloud. This web application generates photogrammetry 3D models from drone images on AWS, and it allows individuals to automate its pipeline by leveraging ML (Amazon Rekognition) and GPU-accelerated Amazon EC2 services
+title: Deploying photogrammetry & 3D models in the cloud with RealityCapture
+sessionuid: 60A06070-82BD-4BA2-96E6-C8DC44ACFF0B
+thirdpartyid: CMP321
+speakers: firstName_0: Jerry, lastName_0: Tejada, firstName_1: Kurt, lastName_1: Scheuringer
+tag_name: Cross Industry, Industry, Application Integration, Area of Interest, Data Engineer, Role, Amazon Rekognition, Services, Well-Architected Framework, Area of Interest, AI/ML, Topic, BuildOn.AWS, Area of Interest, Developer/Engineer, Role, Compute, Topic, Tuesday, Day, Wynn, Venue, 300 - Advanced, Level, Amazon Elastic Compute Cloud (EC2), Services, Solution/Systems Architect, Role, Retail, Industry, AWS Lambda, Services

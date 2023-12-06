@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 301
+summary: tag_name :Solution/Systems Architect, Role, Cloud Security Specialist, Role, Energy, Industry, Analytics, Topic, Security, Compliance, & Identity, Topic, Tuesday, Day, MGM Grand, Venue, 300 - Advanced, Level, Data Engineer, Role, , speakers :firstName_0: Heberto, lastName_0: Ferrer, firstName_1: Lee, lastName_1: Scarborough, company_1: ExxonMobil, , thirdpartyid :ENU306, sessionuid :D277E71A-8D36-47A9-93AF-CBA3617DD08B, title :Unlock security data with a scalable log ingestion pipeline, description :With thousands of servers, end-user devices, and diverse infrastructure technology on premises and cloud worldwide, capturing security log data consistently and at scale presents data engineering and agility challenges. In this chalk talk, learn how to build a flexible security log ingestion pipeline that allows diversity of sources and source formats and enables security analytics at scale with quicker time to security insights. Also, discover how ExxonMobil evolved its architecture at scale using open source technologies to ingest data from cloud and on-premises sources, improving time to security insights and reducing cost., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :301, startdatetimeutc :November, 29 2023 00:00:00 -0500, enddatetimeutc :November, 29 2023 01:00:00 -0500, 
+enddatetimeutc: November, 29 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 00:00:00 -0500
+locationname: 301
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: With thousands of servers, end-user devices, and diverse infrastructure technology on premises and cloud worldwide, capturing security log data consistently and at scale presents data engineering and agility challenges. In this chalk talk, learn how to build a flexible security log ingestion pipeline that allows diversity of sources and source formats and enables security analytics at scale with quicker time to security insights. Also, discover how ExxonMobil evolved its architecture at scale using open source technologies to ingest data from cloud and on-premises sources, improving time to security insights and reducing cost
+title: Unlock security data with a scalable log ingestion pipeline
+sessionuid: D277E71A-8D36-47A9-93AF-CBA3617DD08B
+thirdpartyid: ENU306
+speakers: firstName_0: Heberto, lastName_0: Ferrer, firstName_1: Lee, lastName_1: Scarborough, company_1: ExxonMobil
+tag_name: Solution/Systems Architect, Role, Cloud Security Specialist, Role, Energy, Industry, Analytics, Topic, Security, Compliance, & Identity, Topic, Tuesday, Day, MGM Grand, Venue, 300 - Advanced, Level, Data Engineer, Role

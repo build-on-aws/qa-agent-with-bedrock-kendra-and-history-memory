@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :Cross Industry, Industry, Blockchain, Area of Interest, Amazon Managed Blockchain, Services, Advisor/Consultant, Role, Developer/Engineer, Role, Amazon Elastic Container Service (ECS), Services, Wednesday, Day, Wynn, Venue, Analytics, Topic, Solution/Systems Architect, Role, 200 - Intermediate, Level, Architecture, Topic, , speakers :firstName_0: Forrest, lastName_0: Colyer, firstName_1: Christoph, lastName_1: Niemann, , thirdpartyid :BLC202-R, sessionuid :1A7B6FC4-93DE-4C9B-A40B-58C68D39DD97, title :Working with public blockchain data at scale [REPEAT], description :Applications that interact with one or more public blockchains require access to a variety of public blockchain data. In this chalk talk, learn about the tools and services you can use to index, transform, query, and analyze public blockchain data for networks like Ethereum, Bitcoin, and more. AWS blockchain experts guide you through an interactive talk that outlines the challenges prevalent in working with blockchain data at scale and demonstrate how AWS services such as Amazon Managed Blockchain unlock the benefits of cloud application modernization for blockchain applications., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Applications that interact with one or more public blockchains require access to a variety of public blockchain data. In this chalk talk, learn about the tools and services you can use to index, transform, query, and analyze public blockchain data for networks like Ethereum, Bitcoin, and more. AWS blockchain experts guide you through an interactive talk that outlines the challenges prevalent in working with blockchain data at scale and demonstrate how AWS services such as Amazon Managed Blockchain unlock the benefits of cloud application modernization for blockchain applications
+title: Working with public blockchain data at scale [REPEAT]
+sessionuid: 1A7B6FC4-93DE-4C9B-A40B-58C68D39DD97
+thirdpartyid: BLC202-R
+speakers: firstName_0: Forrest, lastName_0: Colyer, firstName_1: Christoph, lastName_1: Niemann
+tag_name: Cross Industry, Industry, Blockchain, Area of Interest, Amazon Managed Blockchain, Services, Advisor/Consultant, Role, Developer/Engineer, Role, Amazon Elastic Container Service (ECS), Services, Wednesday, Day, Wynn, Venue, Analytics, Topic, Solution/Systems Architect, Role, 200 - Intermediate, Level, Architecture, Topic

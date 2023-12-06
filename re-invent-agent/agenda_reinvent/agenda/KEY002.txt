@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Venetian Ballroom F
+summary: tag_name :Tuesday, Day, Venetian, Venue, , speakers :firstName_0: Adam, lastName_0: Selipsky, , thirdpartyid :KEY002, sessionuid :CFA80CAA-156C-405E-883F-812492693DA0, title :Adam Selipsky Keynote, description :<p>Join Adam Selipsky, CEO of Amazon Web Services, as he shares his perspective on cloud transformation. He highlights innovations in data, infrastructure, and artificial intelligence and machine learning that are helping AWS customers achieve their goals faster, mine untapped potential, and create a better future.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Venetian Ballroom F, startdatetimeutc :November, 28 2023 16:30:00 -0500, enddatetimeutc :November, 28 2023 18:30:00 -0500, 
+enddatetimeutc: November, 28 2023 18:30:00 -0500
+startdatetimeutc: November, 28 2023 16:30:00 -0500
+locationname: Venetian Ballroom F
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Join Adam Selipsky, CEO of Amazon Web Services, as he shares his perspective on cloud transformation. He highlights innovations in data, infrastructure, and artificial intelligence and machine learning that are helping AWS customers achieve their goals faster, mine untapped potential, and create a better future.</p>
+title: Adam Selipsky Keynote
+sessionuid: CFA80CAA-156C-405E-883F-812492693DA0
+thirdpartyid: KEY002
+speakers: firstName_0: Adam, lastName_0: Selipsky
+tag_name: Tuesday, Day, Venetian, Venue

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 228
+summary: tag_name :Solution/Systems Architect, Role, Storage, Topic, Migration & Transfer, Area of Interest, Amazon FSx for NetApp ONTAP, Services, Amazon FSx for Windows File Server, Services, AWS DataSync, Services, System Administrator, Role, Thursday, Day, Caesars Forum, Venue, 300 - Advanced, Level, Enterprise & Migration, Topic, VMware, Area of Interest, IT Administrator, Role, , speakers :firstName_0: Paul, lastName_0: Cradduck, firstName_1: Sean, lastName_1: Lambert, , thirdpartyid :ENT329, sessionuid :6FB09919-0FC3-4B13-97BB-97451FE55729, title :Scale VMware Cloud on AWS without adding nodes, description :<p>Identifying the best storage option is critical in unlocking flexibility and enhancing performance of VMware Cloud on AWS workloads. In this workshop, gain practical skills and learn how to scale a VMware Cloud on AWS SDDC with a variety of AWS storage services. With hands-on exercises as you work in small teams, learn how to identify the right storage options for different use cases and optimize your cloud infrastructure. AWS experts walk you through the creation of storage solutions such as Amazon FSx, AWS DataSync, and more. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 228, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :December, 01 2023 00:00:00 -0500, 
+enddatetimeutc: December, 01 2023 00:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Summit 228
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: <p>Identifying the best storage option is critical in unlocking flexibility and enhancing performance of VMware Cloud on AWS workloads. In this workshop, gain practical skills and learn how to scale a VMware Cloud on AWS SDDC with a variety of AWS storage services. With hands-on exercises as you work in small teams, learn how to identify the right storage options for different use cases and optimize your cloud infrastructure. AWS experts walk you through the creation of storage solutions such as Amazon FSx, AWS DataSync, and more. You must bring your laptop to participate.</p>
+title: Scale VMware Cloud on AWS without adding nodes
+sessionuid: 6FB09919-0FC3-4B13-97BB-97451FE55729
+thirdpartyid: ENT329
+speakers: firstName_0: Paul, lastName_0: Cradduck, firstName_1: Sean, lastName_1: Lambert
+tag_name: Solution/Systems Architect, Role, Storage, Topic, Migration & Transfer, Area of Interest, Amazon FSx for NetApp ONTAP, Services, Amazon FSx for Windows File Server, Services, AWS DataSync, Services, System Administrator, Role, Thursday, Day, Caesars Forum, Venue, 300 - Advanced, Level, Enterprise & Migration, Topic, VMware, Area of Interest, IT Administrator, Role

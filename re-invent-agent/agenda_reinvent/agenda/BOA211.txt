@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 1
+summary: tag_name :Architecture, Topic, BuildOn.AWS, Area of Interest, Well-Architected Framework, Area of Interest, 200 - Intermediate, Level, Tuesday, Day, Wynn, Venue, AWS Lambda, Services, , speakers :firstName_0: Lukasz, lastName_0: Panusz, firstName_1: Wojciech, lastName_1: Gawronski, , thirdpartyid :BOA211, sessionuid :3DE4948C-BD4A-41A9-BCC4-896CD2DC00A2, title :A winning combination: AWS Lambda and CQRS, description :Command query responsibility segregation (CQRS) is often presented as a specific architectural pattern focused on scaling the infrastructure storage layer by separating read and write paths. However, originally this was a code-level pattern that had nothing to do with infrastructure. This chalk talk explores how applying this pattern on that level enables new characteristics for designing and later maintaining cloud-native applications., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 1, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: Lafite 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Command query responsibility segregation (CQRS) is often presented as a specific architectural pattern focused on scaling the infrastructure storage layer by separating read and write paths. However, originally this was a code-level pattern that had nothing to do with infrastructure. This chalk talk explores how applying this pattern on that level enables new characteristics for designing and later maintaining cloud-native applications
+title: A winning combination: AWS Lambda and CQRS
+sessionuid: 3DE4948C-BD4A-41A9-BCC4-896CD2DC00A2
+thirdpartyid: BOA211
+speakers: firstName_0: Lukasz, lastName_0: Panusz, firstName_1: Wojciech, lastName_1: Gawronski
+tag_name: Architecture, Topic, BuildOn.AWS, Area of Interest, Well-Architected Framework, Area of Interest, 200 - Intermediate, Level, Tuesday, Day, Wynn, Venue, AWS Lambda, Services

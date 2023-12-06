@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Tech Explorer, Role, AWS Lambda, Services, DevOps and Developer Productivity, Topic, Serverless Compute, Topic, 200 - Intermediate, Level, Solution/Systems Architect, Role, Developer/Engineer, Role, Wednesday, Day, Venetian, Venue, Application Integration, Area of Interest, AWS Step Functions, Services, , speakers :firstName_0: Naren, lastName_0: Gakka, , thirdpartyid :SVS213, sessionuid :7E5E859D-64F1-46FE-9CB0-E0BFF4A556AA, title :Visualize and design your architecture with AWS Application Composer, description :In this follow-up demonstration to SVS205, walk through the latest features of AWS Application Composer, a low-code, visual interface for designing and building serverless applications. Application Composer helps builders understand their application architecture, collaborate, and manage application configuration. Learn how to get started with Application Composer, and use it to build your serverless applications., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 19:50:00 -0500, 
+enddatetimeutc: November, 29 2023 19:50:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: In this follow-up demonstration to SVS205, walk through the latest features of AWS Application Composer, a low-code, visual interface for designing and building serverless applications. Application Composer helps builders understand their application architecture, collaborate, and manage application configuration. Learn how to get started with Application Composer, and use it to build your serverless applications
+title: Visualize and design your architecture with AWS Application Composer
+sessionuid: 7E5E859D-64F1-46FE-9CB0-E0BFF4A556AA
+thirdpartyid: SVS213
+speakers: firstName_0: Naren, lastName_0: Gakka
+tag_name: Tech Explorer, Role, AWS Lambda, Services, DevOps and Developer Productivity, Topic, Serverless Compute, Topic, 200 - Intermediate, Level, Solution/Systems Architect, Role, Developer/Engineer, Role, Wednesday, Day, Venetian, Venue, Application Integration, Area of Interest, AWS Step Functions, Services

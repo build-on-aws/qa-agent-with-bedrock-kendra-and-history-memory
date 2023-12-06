@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 411
+summary: tag_name :Analytics, Topic, 300 - Advanced, Level, Amazon RedShift, Services, AWS Glue, Services, Amazon Elastic MapReduce (EMR), Services, Storage, Topic, Data Engineer, Role, Tuesday, Day, Caesars Forum, Venue, Developer/Engineer, Role, , speakers :firstName_0: Asser, lastName_0: Moustafa, firstName_1: Sreekanth, lastName_1: Martha, company_1: Intuit, firstName_2: Stuti, lastName_2: Deshpande, , thirdpartyid :ANT328, sessionuid :AD18B5C4-1B41-47DB-B134-6CCF8FB90A9C, title :Accessing open table formats for superior data lake analytics, description :Data lake use cases have evolved and increased in complexity. Open table formats such as Apache Iceberg, Apache Hudi, and Delta Lake that support transactional consistency and schema evolution are quite popular. In this chalk talk, learn how AWS enables organizations to build, manage, and unlock value from open table formats. Learn about reference architectures for data processing with Amazon EMR and AWS Glue and how to extend the data lake to your Amazon Redshift warehouse for high performance and near real-time analytics and ML., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 411, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 20:30:00 -0500, 
+enddatetimeutc: November, 28 2023 20:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Academy 411
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Data lake use cases have evolved and increased in complexity. Open table formats such as Apache Iceberg, Apache Hudi, and Delta Lake that support transactional consistency and schema evolution are quite popular. In this chalk talk, learn how AWS enables organizations to build, manage, and unlock value from open table formats. Learn about reference architectures for data processing with Amazon EMR and AWS Glue and how to extend the data lake to your Amazon Redshift warehouse for high performance and near real-time analytics and ML
+title: Accessing open table formats for superior data lake analytics
+sessionuid: AD18B5C4-1B41-47DB-B134-6CCF8FB90A9C
+thirdpartyid: ANT328
+speakers: firstName_0: Asser, lastName_0: Moustafa, firstName_1: Sreekanth, lastName_1: Martha, company_1: Intuit, firstName_2: Stuti, lastName_2: Deshpande
+tag_name: Analytics, Topic, 300 - Advanced, Level, Amazon RedShift, Services, AWS Glue, Services, Amazon Elastic MapReduce (EMR), Services, Storage, Topic, Data Engineer, Role, Tuesday, Day, Caesars Forum, Venue, Developer/Engineer, Role

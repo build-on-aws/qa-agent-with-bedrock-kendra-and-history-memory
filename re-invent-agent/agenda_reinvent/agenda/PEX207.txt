@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 221
+summary: tag_name :Partner Enablement, Topic, 200 - Intermediate, Level, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: SAUNAK, lastName_0: CHANDRA, firstName_1: Sarah, lastName_1: Aamir, , thirdpartyid :PEX207, sessionuid :465D0800-F121-42B8-A002-26C1F571F2F9, title :Accelerating customer adoption with generative BI  in Amazon QuickSight, description :<p>Join this talk to explore productive ways organizations can democratize insights using generative BI. See a demo of how Amazon QuickSight brings generative AI closer to BI developers and BI consumers. Developers and analysts can use simple prompts to accelerate dashboard development, while dashboard consumers receive a personalized and enhanced user experience, all generated in seconds. Hear about tools and techniques designed to delight users and authors using generative BI capabilities in QuickSight. This chalk talk is intended for AWS Partners.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 221, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 21:00:00 -0500, 
+enddatetimeutc: November, 29 2023 21:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Summit 221
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Join this talk to explore productive ways organizations can democratize insights using generative BI. See a demo of how Amazon QuickSight brings generative AI closer to BI developers and BI consumers. Developers and analysts can use simple prompts to accelerate dashboard development, while dashboard consumers receive a personalized and enhanced user experience, all generated in seconds. Hear about tools and techniques designed to delight users and authors using generative BI capabilities in QuickSight. This chalk talk is intended for AWS Partners.</p>
+title: Accelerating customer adoption with generative BI  in Amazon QuickSight
+sessionuid: 465D0800-F121-42B8-A002-26C1F571F2F9
+thirdpartyid: PEX207
+speakers: firstName_0: SAUNAK, lastName_0: CHANDRA, firstName_1: Sarah, lastName_1: Aamir
+tag_name: Partner Enablement, Topic, 200 - Intermediate, Level, Wednesday, Day, Caesars Forum, Venue

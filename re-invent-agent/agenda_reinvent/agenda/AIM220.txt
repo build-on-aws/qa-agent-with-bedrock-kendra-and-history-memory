@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 364
+summary: tag_name :AI/ML, Topic, Security, Compliance, & Identity, Topic, Data Protection, Area of Interest, Generative AI, Area of Interest, Responsible AI, Area of Interest, Cross Industry, Industry, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Amazon SageMaker, Services, 200 - Intermediate, Level, Tuesday, Day, MGM Grand, Venue, , speakers :firstName_0: Michael, lastName_0: Kearns, firstName_1: Peter, lastName_1: Hallinan, , thirdpartyid :AIM220, sessionuid :DA2275D1-2170-4DD2-8D54-22DDCE4D6A53, title :Responsible AI in the generative era: Science and practice, description :<p>The rapid growth of generative AI brings promising innovation and at the same time raises new challenges around its safe and responsible development and use. These challenges include some that were common before generative AI, such as bias and explainability, and new ones unique to generative models, including hallucination, toxicity, and intellectual property protection. In this session, get an overview of the challenges presented by generative AI, survey the emerging science around them, and discuss the hands-on, responsible AI work being conducted on AWS.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 364, startdatetimeutc :November, 29 2023 01:30:00 -0500, enddatetimeutc :November, 29 2023 02:30:00 -0500, 
+enddatetimeutc: November, 29 2023 02:30:00 -0500
+startdatetimeutc: November, 29 2023 01:30:00 -0500
+locationname: Chairmans 364
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>The rapid growth of generative AI brings promising innovation and at the same time raises new challenges around its safe and responsible development and use. These challenges include some that were common before generative AI, such as bias and explainability, and new ones unique to generative models, including hallucination, toxicity, and intellectual property protection. In this session, get an overview of the challenges presented by generative AI, survey the emerging science around them, and discuss the hands-on, responsible AI work being conducted on AWS.</p>
+title: Responsible AI in the generative era: Science and practice
+sessionuid: DA2275D1-2170-4DD2-8D54-22DDCE4D6A53
+thirdpartyid: AIM220
+speakers: firstName_0: Michael, lastName_0: Kearns, firstName_1: Peter, lastName_1: Hallinan
+tag_name: AI/ML, Topic, Security, Compliance, & Identity, Topic, Data Protection, Area of Interest, Generative AI, Area of Interest, Responsible AI, Area of Interest, Cross Industry, Industry, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Amazon SageMaker, Services, 200 - Intermediate, Level, Tuesday, Day, MGM Grand, Venue

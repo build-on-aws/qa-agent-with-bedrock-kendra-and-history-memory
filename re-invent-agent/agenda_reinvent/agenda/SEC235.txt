@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Reef F
+summary: tag_name :Monday, Day, Mandalay Bay, Venue, AI/ML, Topic, Security, Compliance, & Identity, Topic, Customer Stories, Area of Interest, Innovation on AWS, Area of Interest, Threat Detection & Incident Response, Area of Interest, 200 - Intermediate, Level, Business Executive, Role, Cloud Security Specialist, Role, DevOps Engineer, Role, Amazon Elastic Compute Cloud (EC2), Services, Amazon Security Lake, Services, AWS Security Hub, Services, , speakers :firstName_0: Mani, lastName_0: Keerthi Nagothu, company_0: SentinelOne, , thirdpartyid :SEC235-S, sessionuid :D2ADED99-7D1E-4FEE-A365-A11ADE34CF43, title :The challenge of AI in cloud security (sponsored by SentinelOne), description :<p>While AI helps many companies succeed, companies need to be aware of the evolving risks associated with this technology and learn to safeguard against them. In this session, walk through a real-life ransomware incident on a Linux-based OS, and learn how AI-powered defense approaches can help protect, detect, and respond to risks. Also learn tips to help you meet your security and compliance needs without slowing down your cloud innovation projects. This presentation is brought to you by SentinelOne, an AWS Partner.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Reef F, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 01:00:00 -0500, 
+enddatetimeutc: November, 28 2023 01:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: Reef F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>While AI helps many companies succeed, companies need to be aware of the evolving risks associated with this technology and learn to safeguard against them. In this session, walk through a real-life ransomware incident on a Linux-based OS, and learn how AI-powered defense approaches can help protect, detect, and respond to risks. Also learn tips to help you meet your security and compliance needs without slowing down your cloud innovation projects. This presentation is brought to you by SentinelOne, an AWS Partner.</p>
+title: The challenge of AI in cloud security (sponsored by SentinelOne)
+sessionuid: D2ADED99-7D1E-4FEE-A365-A11ADE34CF43
+thirdpartyid: SEC235-S
+speakers: firstName_0: Mani, lastName_0: Keerthi Nagothu, company_0: SentinelOne
+tag_name: Monday, Day, Mandalay Bay, Venue, AI/ML, Topic, Security, Compliance, & Identity, Topic, Customer Stories, Area of Interest, Innovation on AWS, Area of Interest, Threat Detection & Incident Response, Area of Interest, 200 - Intermediate, Level, Business Executive, Role, Cloud Security Specialist, Role, DevOps Engineer, Role, Amazon Elastic Compute Cloud (EC2), Services, Amazon Security Lake, Services, AWS Security Hub, Services

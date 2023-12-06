@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :New to AWS, Topic, Application Integration, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, DevOps Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, AWS App Runner, Services, Monday, Day, Caesars Forum, Venue, , speakers :firstName_0: Abhishek, lastName_0: Pandey, firstName_1: Prakash, lastName_1: Srinivasan, firstName_2: Rajeswari, lastName_2: Malladi, , thirdpartyid :NTA305, sessionuid :636123B7-E154-43E2-A8C3-43A687D241EA, title :Modernize your web applications and API services using AWS App Runner, description :<p>Organizations new to AWS may lack the skilled resources and time needed to modernize their applications and get the full value of the cloud. They may be looking for ways to reduce DevOps overhead and heavy lifting. In this session, discover how new AWS customers can quickly adapt and modernize to improve operational efficiency and optimize costs.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 28 2023 01:30:00 -0500, enddatetimeutc :November, 28 2023 02:30:00 -0500, 
+enddatetimeutc: November, 28 2023 02:30:00 -0500
+startdatetimeutc: November, 28 2023 01:30:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Organizations new to AWS may lack the skilled resources and time needed to modernize their applications and get the full value of the cloud. They may be looking for ways to reduce DevOps overhead and heavy lifting. In this session, discover how new AWS customers can quickly adapt and modernize to improve operational efficiency and optimize costs.</p>
+title: Modernize your web applications and API services using AWS App Runner
+sessionuid: 636123B7-E154-43E2-A8C3-43A687D241EA
+thirdpartyid: NTA305
+speakers: firstName_0: Abhishek, lastName_0: Pandey, firstName_1: Prakash, lastName_1: Srinivasan, firstName_2: Rajeswari, lastName_2: Malladi
+tag_name: New to AWS, Topic, Application Integration, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, DevOps Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, AWS App Runner, Services, Monday, Day, Caesars Forum, Venue

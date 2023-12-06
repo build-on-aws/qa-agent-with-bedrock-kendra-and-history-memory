@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 1
+summary: tag_name :AWS IoT Device Management, Services, FreeRTOS, Services, AWS IoT Core, Services, Internet of Things, Topic, BuildOn.AWS, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, Tech Explorer, Role, Cross Industry, Industry, Tuesday, Day, Wynn, Venue, 300 - Advanced, Level, , speakers :firstName_0: Anton, lastName_0: Shmagin, firstName_1: Greg, lastName_1: Breen, , thirdpartyid :IOT302-R, sessionuid :A056ABF8-3572-4E24-97CC-264F15FF8401, title :The new smart home universe: Designing for Matter in IoT products [REPEAT], description :Matter is a new IoT connectivity standard that could revolutionize the home automation market. It is a significant technology leap that enables seamless interoperability between multiple IoT devices to improve customer experience. In this workshop, use various AWS IoT services, Espressif’s RainMaker, and Amazon’s Alexa Connector Kit to build smart home devices for the next generation. Learn how you can create, control, and manage an interoperable smart home solution and commission two separate devices running on Wi-Fi and Thread to create a common Matter network. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 1, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 21:00:00 -0500, 
+enddatetimeutc: November, 28 2023 21:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Cristal 1
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: Matter is a new IoT connectivity standard that could revolutionize the home automation market. It is a significant technology leap that enables seamless interoperability between multiple IoT devices to improve customer experience. In this workshop, use various AWS IoT services, Espressif’s RainMaker, and Amazon’s Alexa Connector Kit to build smart home devices for the next generation. Learn how you can create, control, and manage an interoperable smart home solution and commission two separate devices running on Wi-Fi and Thread to create a common Matter network. You must bring your laptop to participate
+title: The new smart home universe: Designing for Matter in IoT products [REPEAT]
+sessionuid: A056ABF8-3572-4E24-97CC-264F15FF8401
+thirdpartyid: IOT302-R
+speakers: firstName_0: Anton, lastName_0: Shmagin, firstName_1: Greg, lastName_1: Breen
+tag_name: AWS IoT Device Management, Services, FreeRTOS, Services, AWS IoT Core, Services, Internet of Things, Topic, BuildOn.AWS, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, Tech Explorer, Role, Cross Industry, Industry, Tuesday, Day, Wynn, Venue, 300 - Advanced, Level

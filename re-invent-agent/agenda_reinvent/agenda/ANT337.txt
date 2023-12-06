@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :Amazon OpenSearch Service, Services, Customer Stories, Area of Interest, Solution/Systems Architect, Role, Security, Compliance, & Identity, Topic, Monday, Day, Wynn, Venue, Threat Detection & Incident Response, Area of Interest, 300 - Advanced, Level, Application Security, Area of Interest, Analytics, Topic, Data Engineer, Role, Developer/Engineer, Role, , speakers :firstName_0: Jimish, lastName_0: Shah, firstName_1: Kevin, lastName_1: Fallis, , thirdpartyid :ANT337, sessionuid :83A837C5-C968-460D-AE31-F23EEBEAED53, title :Identify and remediate security threats with Amazon OpenSearch Service, description :With the ever-increasing volume of data that organizations store in the cloud, threats to their sensitive business data will continue to grow as well. Security analytics provide real-time visibility into potential threats across an organization’s infrastructure, enabling them to respond to security issues quickly, thereby reducing their impact. It can also help organizations meet regulatory compliance requirements and improve their overall security posture. This chalk talk provides hands-on experience to use security analytics for your business., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 01:30:00 -0500, 
+enddatetimeutc: November, 28 2023 01:30:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: With the ever-increasing volume of data that organizations store in the cloud, threats to their sensitive business data will continue to grow as well. Security analytics provide real-time visibility into potential threats across an organization’s infrastructure, enabling them to respond to security issues quickly, thereby reducing their impact. It can also help organizations meet regulatory compliance requirements and improve their overall security posture. This chalk talk provides hands-on experience to use security analytics for your business
+title: Identify and remediate security threats with Amazon OpenSearch Service
+sessionuid: 83A837C5-C968-460D-AE31-F23EEBEAED53
+thirdpartyid: ANT337
+speakers: firstName_0: Jimish, lastName_0: Shah, firstName_1: Kevin, lastName_1: Fallis
+tag_name: Amazon OpenSearch Service, Services, Customer Stories, Area of Interest, Solution/Systems Architect, Role, Security, Compliance, & Identity, Topic, Monday, Day, Wynn, Venue, Threat Detection & Incident Response, Area of Interest, 300 - Advanced, Level, Application Security, Area of Interest, Analytics, Topic, Data Engineer, Role, Developer/Engineer, Role

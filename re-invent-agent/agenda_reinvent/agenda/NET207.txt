@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :Networking & Content Delivery, Topic, Startup, Area of Interest, Cost Optimization, Area of Interest, Strategy & Transformation, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, IT Administrator, Role, IT Professional/Technical Manager, Role, Amazon Virtual Private Cloud (VPC), Services, AWS Direct Connect, Services, AWS Transit Gateway, Services, Tuesday, Day, Wynn, Venue, , speakers :firstName_0: Hrushi, lastName_0: Gangur, firstName_1: Sohaib, lastName_1: Tahir, , thirdpartyid :NET207, sessionuid :AC15C4D2-F688-461F-A398-EF5FF43B3806, title :Network cost optimization on AWS, description :<p>Building your network requires you to balance cost, reliability, scale, and performance. Getting this right requires an understanding of how networking costs are calculated. Join this chalk talk to learn about data transfer fundamentals, best practices, and recent pricing updates. Based on your questions, see those principles applied to real-world network architectures and the process of moving to more cost-optimized designs.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :November, 28 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 22:00:00 -0500, 
+enddatetimeutc: November, 28 2023 22:00:00 -0500
+startdatetimeutc: November, 28 2023 21:00:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Building your network requires you to balance cost, reliability, scale, and performance. Getting this right requires an understanding of how networking costs are calculated. Join this chalk talk to learn about data transfer fundamentals, best practices, and recent pricing updates. Based on your questions, see those principles applied to real-world network architectures and the process of moving to more cost-optimized designs.</p>
+title: Network cost optimization on AWS
+sessionuid: AC15C4D2-F688-461F-A398-EF5FF43B3806
+thirdpartyid: NET207
+speakers: firstName_0: Hrushi, lastName_0: Gangur, firstName_1: Sohaib, lastName_1: Tahir
+tag_name: Networking & Content Delivery, Topic, Startup, Area of Interest, Cost Optimization, Area of Interest, Strategy & Transformation, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, IT Administrator, Role, IT Professional/Technical Manager, Role, Amazon Virtual Private Cloud (VPC), Services, AWS Direct Connect, Services, AWS Transit Gateway, Services, Tuesday, Day, Wynn, Venue

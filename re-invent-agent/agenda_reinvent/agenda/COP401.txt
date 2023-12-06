@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Margaux 1
+summary: tag_name :Developer/Engineer, Role, 400 - Expert, Level, DevOps Engineer, Role, Cloud Operations, Topic, Monday, Day, Wynn, Venue, Amazon Elastic Kubernetes Service (EKS), Services, Amazon Managed Grafana, Services, Amazon Managed Service for Prometheus, Services, Solution/Systems Architect, Role, Monitoring & Observability, Area of Interest, , speakers :firstName_0: Kevin, lastName_0: Lewin, firstName_1: Vikram, lastName_1: Venkataraman, , thirdpartyid :COP401-R, sessionuid :CD9AE92E-26C3-401A-B096-ADEF74720731, title :Coding for container observability [REPEAT], description :Join this session to learn about and see examples of using the OpenTelemetry SDK and the AWS Distro for OpenTelemetry (ADOT) Collector to collect signals from a variety of environments. Also see how you can design a robust and highly available ADOT pipeline in a busy container environment to support operations at massive scale., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Margaux 1, startdatetimeutc :November, 28 2023 01:30:00 -0500, enddatetimeutc :November, 28 2023 02:30:00 -0500, 
+enddatetimeutc: November, 28 2023 02:30:00 -0500
+startdatetimeutc: November, 28 2023 01:30:00 -0500
+locationname: Margaux 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: Join this session to learn about and see examples of using the OpenTelemetry SDK and the AWS Distro for OpenTelemetry (ADOT) Collector to collect signals from a variety of environments. Also see how you can design a robust and highly available ADOT pipeline in a busy container environment to support operations at massive scale
+title: Coding for container observability [REPEAT]
+sessionuid: CD9AE92E-26C3-401A-B096-ADEF74720731
+thirdpartyid: COP401-R
+speakers: firstName_0: Kevin, lastName_0: Lewin, firstName_1: Vikram, lastName_1: Venkataraman
+tag_name: Developer/Engineer, Role, 400 - Expert, Level, DevOps Engineer, Role, Cloud Operations, Topic, Monday, Day, Wynn, Venue, Amazon Elastic Kubernetes Service (EKS), Services, Amazon Managed Grafana, Services, Amazon Managed Service for Prometheus, Services, Solution/Systems Architect, Role, Monitoring & Observability, Area of Interest

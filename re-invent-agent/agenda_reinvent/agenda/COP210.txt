@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :IT Administrator, Role, Management & Governance, Area of Interest, Cloud Operations, Topic, 200 - Intermediate, Level, Thursday, Day, Wynn, Venue, IT Professional/Technical Manager, Role, Business Executive, Role, Cost Optimization, Area of Interest, , speakers :firstName_0: Wade, lastName_0: Piehl, firstName_1: Nataliya, lastName_1: Godunok, , thirdpartyid :COP210, sessionuid :DA95D665-502F-4B5A-855F-00D11E0BB486, title :Maximize savings by developing an AWS purchase strategy, description :Use only what you need and pay less for what you use with your own AWS purchase strategy. Join this chalk talk to learn how you can use the AWS Free Tier along with different purchase options, such as Savings Plans, Amazon EC2 Reserved Instances, and flexible compute, to maximize your cost savings., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Use only what you need and pay less for what you use with your own AWS purchase strategy. Join this chalk talk to learn how you can use the AWS Free Tier along with different purchase options, such as Savings Plans, Amazon EC2 Reserved Instances, and flexible compute, to maximize your cost savings
+title: Maximize savings by developing an AWS purchase strategy
+sessionuid: DA95D665-502F-4B5A-855F-00D11E0BB486
+thirdpartyid: COP210
+speakers: firstName_0: Wade, lastName_0: Piehl, firstName_1: Nataliya, lastName_1: Godunok
+tag_name: IT Administrator, Role, Management & Governance, Area of Interest, Cloud Operations, Topic, 200 - Intermediate, Level, Thursday, Day, Wynn, Venue, IT Professional/Technical Manager, Role, Business Executive, Role, Cost Optimization, Area of Interest

@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 5
+summary: tag_name :Architecture, Topic, Data Engineer, Role, DevOps Engineer, Role, Monday, Day, Wynn, Venue, Open Source, Area of Interest, Cloud Operations, Topic, Amazon RedShift, Services, Amazon Managed Workflows for Apache Airflow (MWAA), Services, System Administrator, Role, 300 - Advanced, Level, , speakers :firstName_0: Sean, lastName_0: Beath, firstName_1: Paul, lastName_1: Villena, , thirdpartyid :OPN303, sessionuid :CB8A647C-57AB-49E7-B15F-AC9EF94EC3CB, title :Complete data transformation and orchestration pipelines using DBT, description :In this workshop, learn how you can build an end-to-end data transformation pipeline. Get hands-on with the open source tool DBT to perform data transformation, Amazon Managed Workflows for Apache Airflow (Amazon MWAA) to orchestrate transformation jobs, and Amazon Redshift to house datasets. The workshop empowers attendees to start building and deploying data and analytics workflows using open source tools. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 5, startdatetimeutc :November, 27 2023 16:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 16:00:00 -0500
+locationname: Cristal 5
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: In this workshop, learn how you can build an end-to-end data transformation pipeline. Get hands-on with the open source tool DBT to perform data transformation, Amazon Managed Workflows for Apache Airflow (Amazon MWAA) to orchestrate transformation jobs, and Amazon Redshift to house datasets. The workshop empowers attendees to start building and deploying data and analytics workflows using open source tools. You must bring your laptop to participate
+title: Complete data transformation and orchestration pipelines using DBT
+sessionuid: CB8A647C-57AB-49E7-B15F-AC9EF94EC3CB
+thirdpartyid: OPN303
+speakers: firstName_0: Sean, lastName_0: Beath, firstName_1: Paul, lastName_1: Villena
+tag_name: Architecture, Topic, Data Engineer, Role, DevOps Engineer, Role, Monday, Day, Wynn, Venue, Open Source, Area of Interest, Cloud Operations, Topic, Amazon RedShift, Services, Amazon Managed Workflows for Apache Airflow (MWAA), Services, System Administrator, Role, 300 - Advanced, Level

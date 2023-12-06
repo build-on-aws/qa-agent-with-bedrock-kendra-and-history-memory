@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 101
+summary: tag_name :Architecture, Topic, Hybrid Cloud, Topic, BuildOn.AWS, Area of Interest, Well-Architected Framework, Area of Interest, Manufacturing & Industrial, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Kubernetes Service (EKS), Services, Amazon SageMaker, Services, AWS IoT Greengrass, Services, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Steve, lastName_0: Blackwell, , thirdpartyid :MFG302-R, sessionuid :C9E0BF2B-D5C7-4EFA-8708-42323A41D3B6, title :Architect a factory OS for smart manufacturing [REPEAT], description :<p>In this chalk talk, dive deep into the architectural patterns and best practices of building a factory OS for smart operations and smart factories. Learn about patterns for data ingestion, storage, and contextualization; edge considerations for reduced latency and applications; and machine learning development.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 101, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 21:00:00 -0500, 
+enddatetimeutc: November, 29 2023 21:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Forum 101
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In this chalk talk, dive deep into the architectural patterns and best practices of building a factory OS for smart operations and smart factories. Learn about patterns for data ingestion, storage, and contextualization; edge considerations for reduced latency and applications; and machine learning development.</p>
+title: Architect a factory OS for smart manufacturing [REPEAT]
+sessionuid: C9E0BF2B-D5C7-4EFA-8708-42323A41D3B6
+thirdpartyid: MFG302-R
+speakers: firstName_0: Steve, lastName_0: Blackwell
+tag_name: Architecture, Topic, Hybrid Cloud, Topic, BuildOn.AWS, Area of Interest, Well-Architected Framework, Area of Interest, Manufacturing & Industrial, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Kubernetes Service (EKS), Services, Amazon SageMaker, Services, AWS IoT Greengrass, Services, Wednesday, Day, Caesars Forum, Venue

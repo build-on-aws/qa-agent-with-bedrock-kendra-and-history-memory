@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 101
+summary: tag_name :Migration & Transfer, Area of Interest, DevOps and Developer Productivity, Topic, Amazon CodeWhisperer, Services, Cross Industry, Industry, Open Source, Area of Interest, Consumer Packaged Goods, Industry, IT Professional/Technical Manager, Role, Financial Services, Industry, Thursday, Day, Caesars Forum, Venue, 300 - Advanced, Level, AI/ML, Topic, Amazon SageMaker, Services, Solution/Systems Architect, Role, Developer/Engineer, Role, Generative AI, Area of Interest, , speakers :firstName_0: Eric, lastName_0: Peña, , thirdpartyid :AIM347, sessionuid :7F4B04F3-3AE0-43A4-A10D-5356FF2BB10F, title :Next-generation ML builder experience, description :<p>Amazon SageMaker offers different integrated development environments (IDEs) that are purpose-built for machine learning (ML). In this chalk talk, learn how to select and use your preferred environment to perform end-to-end ML development steps, from preparing data to building, training, and deploying your ML models. Discover how you can quickly upload data, create new notebooks, train and tune models, move back and forth between steps to adjust experiments, collaborate seamlessly within your organization, and deploy models to production all in one place.</p>, sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 101, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: Forum 101
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: <p>Amazon SageMaker offers different integrated development environments (IDEs) that are purpose-built for machine learning (ML). In this chalk talk, learn how to select and use your preferred environment to perform end-to-end ML development steps, from preparing data to building, training, and deploying your ML models. Discover how you can quickly upload data, create new notebooks, train and tune models, move back and forth between steps to adjust experiments, collaborate seamlessly within your organization, and deploy models to production all in one place.</p>
+title: Next-generation ML builder experience
+sessionuid: 7F4B04F3-3AE0-43A4-A10D-5356FF2BB10F
+thirdpartyid: AIM347
+speakers: firstName_0: Eric, lastName_0: Peña
+tag_name: Migration & Transfer, Area of Interest, DevOps and Developer Productivity, Topic, Amazon CodeWhisperer, Services, Cross Industry, Industry, Open Source, Area of Interest, Consumer Packaged Goods, Industry, IT Professional/Technical Manager, Role, Financial Services, Industry, Thursday, Day, Caesars Forum, Venue, 300 - Advanced, Level, AI/ML, Topic, Amazon SageMaker, Services, Solution/Systems Architect, Role, Developer/Engineer, Role, Generative AI, Area of Interest

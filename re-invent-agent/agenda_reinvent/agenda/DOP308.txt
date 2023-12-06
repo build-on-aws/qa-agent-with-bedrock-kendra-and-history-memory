@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 118
+summary: tag_name :Thursday, Day, Caesars Forum, Venue, DevOps Engineer, Role, DevOps and Developer Productivity, Topic, Amazon CodeCatalyst, Services, 300 - Advanced, Level, , speakers :firstName_0: Mirabela, lastName_0: Dan, firstName_1: Sirirat, lastName_1: Kongdee, , thirdpartyid :DOP308, sessionuid :B9D09D70-B634-4190-B99A-565D21AF4A7A, title :Enforcing development standards with Amazon CodeCatalyst, description :In this workshop, learn how Amazon CodeCatalyst can accelerate the application development lifecycle within your organization. Discover how your cloud center of excellence (CCoE) can provide standardized code and workflows to help teams get started quickly and securely. In addition, learn how to update projects as organization standards evolve. You must bring your laptop to participate., sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 118, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Forum 118
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: In this workshop, learn how Amazon CodeCatalyst can accelerate the application development lifecycle within your organization. Discover how your cloud center of excellence (CCoE) can provide standardized code and workflows to help teams get started quickly and securely. In addition, learn how to update projects as organization standards evolve. You must bring your laptop to participate
+title: Enforcing development standards with Amazon CodeCatalyst
+sessionuid: B9D09D70-B634-4190-B99A-565D21AF4A7A
+thirdpartyid: DOP308
+speakers: firstName_0: Mirabela, lastName_0: Dan, firstName_1: Sirirat, lastName_1: Kongdee
+tag_name: Thursday, Day, Caesars Forum, Venue, DevOps Engineer, Role, DevOps and Developer Productivity, Topic, Amazon CodeCatalyst, Services, 300 - Advanced, Level

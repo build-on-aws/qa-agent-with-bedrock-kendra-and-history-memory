@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Mandalay Bay Ballroom F
+summary: tag_name :Tuesday, Day, Mandalay Bay, Venue, Community Activities, Additional Services, , speakers :, thirdpartyid :ACT019, sessionuid :50B1C2D9-1C6B-42F5-B07C-11BF20CF7E1D, title :Bingo Night, description :Bingo Night returns to re:Invent. Join us for a fun night filled with bingo and prizes!, sessiontype :Community Activities, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Mandalay Bay Ballroom F, startdatetimeutc :November, 29 2023 02:30:00 -0500, enddatetimeutc :November, 29 2023 04:30:00 -0500, 
+enddatetimeutc: November, 29 2023 04:30:00 -0500
+startdatetimeutc: November, 29 2023 02:30:00 -0500
+locationname: Mandalay Bay Ballroom F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Community Activities
+description: Bingo Night returns to re:Invent. Join us for a fun night filled with bingo and prizes!
+title: Bingo Night
+sessionuid: 50B1C2D9-1C6B-42F5-B07C-11BF20CF7E1D
+thirdpartyid: ACT019
+speakers: 
+tag_name: Tuesday, Day, Mandalay Bay, Venue, Community Activities, Additional Services

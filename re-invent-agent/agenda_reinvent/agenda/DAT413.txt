@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 2
+summary: tag_name :Developer/Engineer, Role, Generative AI, Area of Interest, Databases, Topic, Cross Industry, Industry, Solution/Systems Architect, Role, Monday, Day, Wynn, Venue, 400 - Expert, Level, IT Professional/Technical Manager, Role, Amazon Relational Database Service (RDS), Services, Amazon Aurora, Services, Amazon Bedrock, Services, Open Source, Area of Interest, , speakers :firstName_0: Jim, lastName_0: Mlodgenski, , thirdpartyid :DAT413-R, sessionuid :481FCC39-938C-446C-B822-579B1C822A71, title :Using LangChain to build gen AI apps with Amazon Aurora and pgvector [REPEAT], description :Want to build a generative AI application with Amazon Aurora but unsure how to get started? In this code talk, learn essential tools for creating your own generative AI applications, including LangChain and pgvector. See live coding firsthand, so you know the code required to connect these tools together, including using Retrieval Augmented Generation (RAG) to enhance the answers of the generative AI application. Also learn how to use Amazon Aurora with pgvector to accelerate vector similarity search. Discover how to use fundamental building blocks to build your own generative AI applications with Aurora., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 2, startdatetimeutc :November, 27 2023 21:30:00 -0500, enddatetimeutc :November, 27 2023 22:30:00 -0500, 
+enddatetimeutc: November, 27 2023 22:30:00 -0500
+startdatetimeutc: November, 27 2023 21:30:00 -0500
+locationname: Lafite 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: Want to build a generative AI application with Amazon Aurora but unsure how to get started? In this code talk, learn essential tools for creating your own generative AI applications, including LangChain and pgvector. See live coding firsthand, so you know the code required to connect these tools together, including using Retrieval Augmented Generation (RAG) to enhance the answers of the generative AI application. Also learn how to use Amazon Aurora with pgvector to accelerate vector similarity search. Discover how to use fundamental building blocks to build your own generative AI applications with Aurora
+title: Using LangChain to build gen AI apps with Amazon Aurora and pgvector [REPEAT]
+sessionuid: 481FCC39-938C-446C-B822-579B1C822A71
+thirdpartyid: DAT413-R
+speakers: firstName_0: Jim, lastName_0: Mlodgenski
+tag_name: Developer/Engineer, Role, Generative AI, Area of Interest, Databases, Topic, Cross Industry, Industry, Solution/Systems Architect, Role, Monday, Day, Wynn, Venue, 400 - Expert, Level, IT Professional/Technical Manager, Role, Amazon Relational Database Service (RDS), Services, Amazon Aurora, Services, Amazon Bedrock, Services, Open Source, Area of Interest

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :Small and Midsize Business (SMB), Area of Interest, Amazon Elastic Block Store (EBS), Services, Amazon FSx, Services, Storage, Topic, Cross Industry, Industry, Amazon Simple Storage Service (S3), Services, Tuesday, Day, Wynn, Venue, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Innovation on AWS, Area of Interest, Developer/Engineer, Role, System Administrator, Role, , speakers :firstName_0: Chris, lastName_0: Rogers, firstName_1: Wali, lastName_1: Akbari, , thirdpartyid :STG214, sessionuid :18CACF50-E6D4-4CBE-8C4A-4CA46E607D40, title :Choosing the right storage service for your workload, description :Different workloads may work better with different kinds of storage. In this chalk talk, learn key considerations for determining whether you should use Amazon S3, Amazon EBS, Amazon EFS (file storage), or Amazon FSx (file storage) for your applications. Explore real-world scenarios, and also consider ways to extend your AWS storage to hybrid or edge environments using AWS Outposts, AWS Storage Gateway, or AWS Snow Family., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Different workloads may work better with different kinds of storage. In this chalk talk, learn key considerations for determining whether you should use Amazon S3, Amazon EBS, Amazon EFS (file storage), or Amazon FSx (file storage) for your applications. Explore real-world scenarios, and also consider ways to extend your AWS storage to hybrid or edge environments using AWS Outposts, AWS Storage Gateway, or AWS Snow Family
+title: Choosing the right storage service for your workload
+sessionuid: 18CACF50-E6D4-4CBE-8C4A-4CA46E607D40
+thirdpartyid: STG214
+speakers: firstName_0: Chris, lastName_0: Rogers, firstName_1: Wali, lastName_1: Akbari
+tag_name: Small and Midsize Business (SMB), Area of Interest, Amazon Elastic Block Store (EBS), Services, Amazon FSx, Services, Storage, Topic, Cross Industry, Industry, Amazon Simple Storage Service (S3), Services, Tuesday, Day, Wynn, Venue, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Innovation on AWS, Area of Interest, Developer/Engineer, Role, System Administrator, Role

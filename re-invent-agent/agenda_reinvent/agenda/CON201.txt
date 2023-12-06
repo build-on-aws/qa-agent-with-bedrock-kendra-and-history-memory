@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 311
+summary: tag_name :Amazon Elastic Container Service (ECS), Services, Generative AI, Area of Interest, Monitoring & Observability, Area of Interest, Cross Industry, Industry, IT Professional/Technical Manager, Role, Wednesday, Day, MGM Grand, Venue, System Administrator, Role, 200 - Intermediate, Level, Serverless Compute, Topic, AWS Fargate, Services, Developer/Engineer, Role, , speakers :firstName_0: Arvind, lastName_0: Soni, firstName_1: Alexandr, lastName_1: Moroz, , thirdpartyid :CON201, sessionuid :0E683233-DD63-4303-8BAC-AFF684AE1089, title :Unlock generative AI potential with Amazon ECS and AWS Fargate, description :<p>Generative AI has the potential to impact multiple aspects of your digital business. In this workshop, learn how to combine the power of AWS generative AI services with serverless container services to build sample applications from scratch. The approach taught in this workshop can be used to add intelligent search and discovery capabilities to a wide range of unstructured data, such as application logs, documents, or customer notes. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 311, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Premier 311
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>Generative AI has the potential to impact multiple aspects of your digital business. In this workshop, learn how to combine the power of AWS generative AI services with serverless container services to build sample applications from scratch. The approach taught in this workshop can be used to add intelligent search and discovery capabilities to a wide range of unstructured data, such as application logs, documents, or customer notes. You must bring your laptop to participate.</p>
+title: Unlock generative AI potential with Amazon ECS and AWS Fargate
+sessionuid: 0E683233-DD63-4303-8BAC-AFF684AE1089
+thirdpartyid: CON201
+speakers: firstName_0: Arvind, lastName_0: Soni, firstName_1: Alexandr, lastName_1: Moroz
+tag_name: Amazon Elastic Container Service (ECS), Services, Generative AI, Area of Interest, Monitoring & Observability, Area of Interest, Cross Industry, Industry, IT Professional/Technical Manager, Role, Wednesday, Day, MGM Grand, Venue, System Administrator, Role, 200 - Intermediate, Level, Serverless Compute, Topic, AWS Fargate, Services, Developer/Engineer, Role

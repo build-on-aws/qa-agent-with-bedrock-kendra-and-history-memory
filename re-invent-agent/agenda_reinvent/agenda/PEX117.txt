@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Venetian, Venue, Thursday, Day, Partner Enablement, Topic, Strategy & Transformation, Area of Interest, 100 - Foundational, Level, Business Executive, Role, IT Executive, Role, Sales/Marketing, Role, , speakers :firstName_0: Shilpi, lastName_0: Mitra Bardoloi, , thirdpartyid :PEX117, sessionuid :4BE1C026-3C94-4EEE-98BE-76D599371B6B, title :Co-selling with AWS and the APN Customer Engagements (ACE) program, description :<p>Join this lightning talk to learn how the APN Customer Engagements (ACE) program can help simplify your co-sell engagements with AWS. Get real-world examples of how AWS Partners have successfully utilized ACE to grow their AWS practice. This lightning talk is intended for AWS Partners.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 19:50:00 -0500, 
+enddatetimeutc: November, 30 2023 19:50:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Join this lightning talk to learn how the APN Customer Engagements (ACE) program can help simplify your co-sell engagements with AWS. Get real-world examples of how AWS Partners have successfully utilized ACE to grow their AWS practice. This lightning talk is intended for AWS Partners.</p>
+title: Co-selling with AWS and the APN Customer Engagements (ACE) program
+sessionuid: 4BE1C026-3C94-4EEE-98BE-76D599371B6B
+thirdpartyid: PEX117
+speakers: firstName_0: Shilpi, lastName_0: Mitra Bardoloi
+tag_name: Venetian, Venue, Thursday, Day, Partner Enablement, Topic, Strategy & Transformation, Area of Interest, 100 - Foundational, Level, Business Executive, Role, IT Executive, Role, Sales/Marketing, Role

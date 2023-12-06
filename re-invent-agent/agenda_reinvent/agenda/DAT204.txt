@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 407
+summary: tag_name :Databases, Topic, Innovation on AWS, Area of Interest, 200 - Intermediate, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Thursday, Day, Caesars Forum, Venue, , speakers :firstName_0: Seung, lastName_0: Eui Jin, company_0: TmaxCloud, , thirdpartyid :DAT204-S, sessionuid :3F7463D0-2C8C-4247-896F-E1BCFD1B1FEB, title :Innovative multicloud world: Tmax's CLAS on AWS (sponsored by TmaxTibero), description :<p>All-in-one integrated cloud services to implement cloud-native applications is essential for enterprises to accelerate the pace of digital transformation. Tmax dedicated about 30 years in software technology including OS, DBMS, middleware, and cloud. Tmax recently created a new full-featured cloud service platform called Cloud All Services (CLAS) based on their software technology. In this session, explore what CLAS brings to enterprises and how CLAS on AWS can help you innovate service operations in a multicloud world. This presentation is brought to you by TmaxTibero, an AWS Partner.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 407, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Academy 407
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>All-in-one integrated cloud services to implement cloud-native applications is essential for enterprises to accelerate the pace of digital transformation. Tmax dedicated about 30 years in software technology including OS, DBMS, middleware, and cloud. Tmax recently created a new full-featured cloud service platform called Cloud All Services (CLAS) based on their software technology. In this session, explore what CLAS brings to enterprises and how CLAS on AWS can help you innovate service operations in a multicloud world. This presentation is brought to you by TmaxTibero, an AWS Partner.</p>
+title: Innovative multicloud world: Tmax's CLAS on AWS (sponsored by TmaxTibero)
+sessionuid: 3F7463D0-2C8C-4247-896F-E1BCFD1B1FEB
+thirdpartyid: DAT204-S
+speakers: firstName_0: Seung, lastName_0: Eui Jin, company_0: TmaxCloud
+tag_name: Databases, Topic, Innovation on AWS, Area of Interest, 200 - Intermediate, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Thursday, Day, Caesars Forum, Venue

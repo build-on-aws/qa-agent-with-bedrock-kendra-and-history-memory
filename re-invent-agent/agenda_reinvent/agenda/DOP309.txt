@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 221
+summary: tag_name :DevOps Engineer, Role, 300 - Advanced, Level, Amazon DevOps Guru, Services, DevOps and Developer Productivity, Topic, Monday, Day, Caesars Forum, Venue, Amazon CodeWhisperer, Services, Responsible AI, Area of Interest, Developer/Engineer, Role, Generative AI, Area of Interest, , speakers :firstName_0: Chetan, lastName_0: Makvana, firstName_1: Jason, lastName_1: Varghese, , thirdpartyid :DOP309-R, sessionuid :B492F4AC-FBBA-4D66-AC4B-152DB9D12BA5, title :AI for DevOps: Modernizing your DevOps operations with AWS [REPEAT], description :As more organizations move to microservices architectures to scale their businesses, applications increasingly have become distributed, requiring the need for even greater visibility. IT operations professionals and developers need more automated practices to maintain application availability and reduce the time and effort required to detect, debug, and resolve operational issues. In this chalk talk, discover how you can use AWS services, including Amazon CodeWhisperer, Amazon CodeGuru and Amazon DevOps Guru, to start using AI for DevOps solutions to detect, diagnose, and remedy anomalous application behavior., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 221, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 19:30:00 -0500, 
+enddatetimeutc: November, 27 2023 19:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: Summit 221
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: As more organizations move to microservices architectures to scale their businesses, applications increasingly have become distributed, requiring the need for even greater visibility. IT operations professionals and developers need more automated practices to maintain application availability and reduce the time and effort required to detect, debug, and resolve operational issues. In this chalk talk, discover how you can use AWS services, including Amazon CodeWhisperer, Amazon CodeGuru and Amazon DevOps Guru, to start using AI for DevOps solutions to detect, diagnose, and remedy anomalous application behavior
+title: AI for DevOps: Modernizing your DevOps operations with AWS [REPEAT]
+sessionuid: B492F4AC-FBBA-4D66-AC4B-152DB9D12BA5
+thirdpartyid: DOP309-R
+speakers: firstName_0: Chetan, lastName_0: Makvana, firstName_1: Jason, lastName_1: Varghese
+tag_name: DevOps Engineer, Role, 300 - Advanced, Level, Amazon DevOps Guru, Services, DevOps and Developer Productivity, Topic, Monday, Day, Caesars Forum, Venue, Amazon CodeWhisperer, Services, Responsible AI, Area of Interest, Developer/Engineer, Role, Generative AI, Area of Interest

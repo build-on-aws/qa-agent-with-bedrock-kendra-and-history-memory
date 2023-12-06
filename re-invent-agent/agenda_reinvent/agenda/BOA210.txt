@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas F
+summary: tag_name :Amazon CodeWhisperer, Services, 200 - Intermediate, Level, BuildOn.AWS, Area of Interest, Amazon Bedrock, Services, Wednesday, Day, Mandalay Bay, Venue, AI/ML, Topic, Generative AI, Area of Interest, , speakers :firstName_0: Mike, lastName_0: Chambers, , thirdpartyid :BOA210, sessionuid :16BF6665-2019-4ABF-85DF-90EF7156A771, title :Generative AI: Asking for a friend, description :As artificial intelligence permeates modern life, generative models are increasingly applied in various fields from art to science. However, many people still have basic questions or concerns about this fast-paced innovation. This session breaks down the complexities, starting with an easy-to-understand introduction to generative AI. Hear key topics and answers to those simple-yet-unasked questions, providing a welcoming environment for learning. Gain a deeper understanding of generative AI to confidently navigate the future of technology. This session caters to tech enthusiasts, professionals updating their knowledge, or anyone intrigued by generative AI., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas F, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 17:30:00 -0500, 
+enddatetimeutc: November, 29 2023 17:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: South Seas F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: As artificial intelligence permeates modern life, generative models are increasingly applied in various fields from art to science. However, many people still have basic questions or concerns about this fast-paced innovation. This session breaks down the complexities, starting with an easy-to-understand introduction to generative AI. Hear key topics and answers to those simple-yet-unasked questions, providing a welcoming environment for learning. Gain a deeper understanding of generative AI to confidently navigate the future of technology. This session caters to tech enthusiasts, professionals updating their knowledge, or anyone intrigued by generative AI
+title: Generative AI: Asking for a friend
+sessionuid: 16BF6665-2019-4ABF-85DF-90EF7156A771
+thirdpartyid: BOA210
+speakers: firstName_0: Mike, lastName_0: Chambers
+tag_name: Amazon CodeWhisperer, Services, 200 - Intermediate, Level, BuildOn.AWS, Area of Interest, Amazon Bedrock, Services, Wednesday, Day, Mandalay Bay, Venue, AI/ML, Topic, Generative AI, Area of Interest

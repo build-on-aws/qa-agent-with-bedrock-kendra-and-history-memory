@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Enterprise & Migration, Topic, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Monday, Day, Venetian, Venue, , speakers :firstName_0: Franck, lastName_0: Noel, firstName_1: Mark, lastName_1: Oreta, company_1: JobTarget, , thirdpartyid :SMB208, sessionuid :2FF4EBDB-71BA-487C-A91D-9D345F6B33A6, title :How commercial companies are migrating and modernizing for rapid scale, description :<p>In this lightning talk, learn how JobTarget migrated their programmatic advertising product to AWS while growing their business. By collaborating with AWS, the new system scaled to meet the surging market and is actively managing 2.4 million job postings per day from an original constraint of 800,000 per month—an 8,150% increase.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 28 2023 02:30:00 -0500, enddatetimeutc :November, 28 2023 02:50:00 -0500, 
+enddatetimeutc: November, 28 2023 02:50:00 -0500
+startdatetimeutc: November, 28 2023 02:30:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>In this lightning talk, learn how JobTarget migrated their programmatic advertising product to AWS while growing their business. By collaborating with AWS, the new system scaled to meet the surging market and is actively managing 2.4 million job postings per day from an original constraint of 800,000 per month—an 8,150% increase.</p>
+title: How commercial companies are migrating and modernizing for rapid scale
+sessionuid: 2FF4EBDB-71BA-487C-A91D-9D345F6B33A6
+thirdpartyid: SMB208
+speakers: firstName_0: Franck, lastName_0: Noel, firstName_1: Mark, lastName_1: Oreta, company_1: JobTarget
+tag_name: Enterprise & Migration, Topic, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Monday, Day, Venetian, Venue

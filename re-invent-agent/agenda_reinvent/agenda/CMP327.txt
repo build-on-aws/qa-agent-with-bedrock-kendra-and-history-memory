@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Monitoring & Observability, Area of Interest, Wednesday, Day, Wynn, Venue, Amazon Elastic Kubernetes Service (EKS), Services, Amazon Elastic Compute Cloud (EC2), Services, 300 - Advanced, Level, Cross Industry, Industry, Cost Optimization, Area of Interest, Compute, Topic, , speakers :firstName_0: Vara, lastName_0: Bonthu, firstName_1: Kinnar, lastName_1: Sen, , thirdpartyid :CMP327, sessionuid :5083505E-9B7D-4D0B-AD77-37E65E9F7393, title :Optimize data and analytics workloads on Amazon EKS, description :Organizations are adopting Kubernetes to run their workloads for flexibility, scale, and cost efficiency. Deploying production-grade workloads can be simplified through the use of operator patterns. Data analytics frameworks such as Apache Spark, Apache Kafka, and Ray have released operators to automate deployment and runtime actions. In this chalk talk, learn how AWS is integrating operators and providing observability and best practices as a part of Data on Amazon EKS (DoEKS) to build scalable and cost-optimized data platforms. Explore architectures, patterns, and customer success stories to help you save time and money when deploying workloads., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 01:30:00 -0500, 
+enddatetimeutc: November, 30 2023 01:30:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Organizations are adopting Kubernetes to run their workloads for flexibility, scale, and cost efficiency. Deploying production-grade workloads can be simplified through the use of operator patterns. Data analytics frameworks such as Apache Spark, Apache Kafka, and Ray have released operators to automate deployment and runtime actions. In this chalk talk, learn how AWS is integrating operators and providing observability and best practices as a part of Data on Amazon EKS (DoEKS) to build scalable and cost-optimized data platforms. Explore architectures, patterns, and customer success stories to help you save time and money when deploying workloads
+title: Optimize data and analytics workloads on Amazon EKS
+sessionuid: 5083505E-9B7D-4D0B-AD77-37E65E9F7393
+thirdpartyid: CMP327
+speakers: firstName_0: Vara, lastName_0: Bonthu, firstName_1: Kinnar, lastName_1: Sen
+tag_name: Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Monitoring & Observability, Area of Interest, Wednesday, Day, Wynn, Venue, Amazon Elastic Kubernetes Service (EKS), Services, Amazon Elastic Compute Cloud (EC2), Services, 300 - Advanced, Level, Cross Industry, Industry, Cost Optimization, Area of Interest, Compute, Topic

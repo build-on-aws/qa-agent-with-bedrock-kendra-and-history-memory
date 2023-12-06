@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 320
+summary: tag_name :Innovation on AWS, Area of Interest, Solution/Systems Architect, Role, Data Protection, Area of Interest, Government, Industry, AWS Wickr, Services, IT Professional/Technical Manager, Role, Security, Compliance, & Identity, Topic, Tuesday, Day, MGM Grand, Venue, Business Executive, Role, Amazon AppStream 2.0, Services, Strategy & Transformation, Area of Interest, Healthcare, Industry, 200 - Intermediate, Level, Business Applications, Topic, Cross Industry, Industry, , speakers :firstName_0: Charles, lastName_0: Chowdhury-Hanscombe, firstName_1: Wesley, lastName_1: Wood, , thirdpartyid :BIZ202, sessionuid :A2364CD9-063F-40BF-911F-5377F4334D13, title :Accessing the AWS Wickr desktop client with Amazon AppStream 2.0, description :Join this chalk talk to explore a convenient solution for accessing your AWS Wickr desktop client via a web browser. Learn how Amazon AppStream 2.0 can stream the AWS Wickr application, enabling browser-based access when direct access is not feasible. Gain insights into the value of AppStream 2.0, and discover new capabilities for accessing AWS Wickr to facilitate secure communications., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 320, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Premier 320
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Join this chalk talk to explore a convenient solution for accessing your AWS Wickr desktop client via a web browser. Learn how Amazon AppStream 2.0 can stream the AWS Wickr application, enabling browser-based access when direct access is not feasible. Gain insights into the value of AppStream 2.0, and discover new capabilities for accessing AWS Wickr to facilitate secure communications
+title: Accessing the AWS Wickr desktop client with Amazon AppStream 2.0
+sessionuid: A2364CD9-063F-40BF-911F-5377F4334D13
+thirdpartyid: BIZ202
+speakers: firstName_0: Charles, lastName_0: Chowdhury-Hanscombe, firstName_1: Wesley, lastName_1: Wood
+tag_name: Innovation on AWS, Area of Interest, Solution/Systems Architect, Role, Data Protection, Area of Interest, Government, Industry, AWS Wickr, Services, IT Professional/Technical Manager, Role, Security, Compliance, & Identity, Topic, Tuesday, Day, MGM Grand, Venue, Business Executive, Role, Amazon AppStream 2.0, Services, Strategy & Transformation, Area of Interest, Healthcare, Industry, 200 - Intermediate, Level, Business Applications, Topic, Cross Industry, Industry

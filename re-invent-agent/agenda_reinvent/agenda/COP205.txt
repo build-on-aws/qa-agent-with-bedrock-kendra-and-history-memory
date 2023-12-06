@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 411
+summary: tag_name :Management & Governance, Area of Interest, Cost Optimization, Area of Interest, Business Executive, Role, IT Professional/Technical Manager, Role, Monday, Day, Caesars Forum, Venue, AWS Pricing Calculator, Services, 200 - Intermediate, Level, IT Administrator, Role, Cloud Operations, Topic, , speakers :firstName_0: Stephanie, lastName_0: Gooch, firstName_1: Arthur, lastName_1: Basbaum, , thirdpartyid :COP205-R, sessionuid :6EAC1B71-8820-42B2-8EC2-AB8DCF1DAF79, title :Forecasting: Effective strategies for AWS cost planning [REPEAT], description :<p>Learn to improve the accuracy of your AWS cost forecast by defining a realistic plan for your new and existing workloads. Consider variables, such as usage organic growth, business seasons, and migrations and modernizations (for example, workload optimization). Join this chalk talk to learn best practices for cost planning so that you can align cloud investments with business requirements.</p>, sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 411, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Academy 411
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: <p>Learn to improve the accuracy of your AWS cost forecast by defining a realistic plan for your new and existing workloads. Consider variables, such as usage organic growth, business seasons, and migrations and modernizations (for example, workload optimization). Join this chalk talk to learn best practices for cost planning so that you can align cloud investments with business requirements.</p>
+title: Forecasting: Effective strategies for AWS cost planning [REPEAT]
+sessionuid: 6EAC1B71-8820-42B2-8EC2-AB8DCF1DAF79
+thirdpartyid: COP205-R
+speakers: firstName_0: Stephanie, lastName_0: Gooch, firstName_1: Arthur, lastName_1: Basbaum
+tag_name: Management & Governance, Area of Interest, Cost Optimization, Area of Interest, Business Executive, Role, IT Professional/Technical Manager, Role, Monday, Day, Caesars Forum, Venue, AWS Pricing Calculator, Services, 200 - Intermediate, Level, IT Administrator, Role, Cloud Operations, Topic

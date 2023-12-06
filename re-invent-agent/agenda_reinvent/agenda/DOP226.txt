@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Wednesday, Day, Venetian, Venue, DevOps and Developer Productivity, Topic, Modernization, Area of Interest, Monitoring & Observability, Area of Interest, 200 - Intermediate, Level, Developer/Engineer, Role, DevOps Engineer, Role, IT Executive, Role, , speakers :firstName_0: Shahar, lastName_0: Azulay, company_0: groundcover, , thirdpartyid :DOP226-S, sessionuid :3FA57544-CFF6-4152-9E25-235619C07DCE, title :Discover seamless observability with eBPF (sponsored by groundcover), description :<p>eBPF is changing the observability game by unlocking insights that could be missed by traditional monitoring solutions. Join this lightning talk to see how eBPF-powered observability helps you to dive deeper into application performance by using an out-of-band kernel-level sensor that requires no code changes or developer efforts. Learn about the major promises of eBPF observability, including the ability to gain holistic coverage, across any application or control plane component, and the ability to observe both the infrastructure stack and application stack at the same time. This presentation is brought to you by groundcover, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 30 2023 01:00:00 -0500, enddatetimeutc :November, 30 2023 01:20:00 -0500, 
+enddatetimeutc: November, 30 2023 01:20:00 -0500
+startdatetimeutc: November, 30 2023 01:00:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>eBPF is changing the observability game by unlocking insights that could be missed by traditional monitoring solutions. Join this lightning talk to see how eBPF-powered observability helps you to dive deeper into application performance by using an out-of-band kernel-level sensor that requires no code changes or developer efforts. Learn about the major promises of eBPF observability, including the ability to gain holistic coverage, across any application or control plane component, and the ability to observe both the infrastructure stack and application stack at the same time. This presentation is brought to you by groundcover, an AWS Partner.</p>
+title: Discover seamless observability with eBPF (sponsored by groundcover)
+sessionuid: 3FA57544-CFF6-4152-9E25-235619C07DCE
+thirdpartyid: DOP226-S
+speakers: firstName_0: Shahar, lastName_0: Azulay, company_0: groundcover
+tag_name: Wednesday, Day, Venetian, Venue, DevOps and Developer Productivity, Topic, Modernization, Area of Interest, Monitoring & Observability, Area of Interest, 200 - Intermediate, Level, Developer/Engineer, Role, DevOps Engineer, Role, IT Executive, Role

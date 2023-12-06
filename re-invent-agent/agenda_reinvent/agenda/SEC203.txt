@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3006
+summary: tag_name :Developer/Engineer, Role, 200 - Intermediate, Level, BuildOn.AWS, Area of Interest, Security, Compliance, & Identity, Topic, Tuesday, Day, Venetian, Venue, AWS Identity and Access Management (IAM), Services, Financial Services, Industry, , speakers :firstName_0: Freddy, lastName_0: Kasprzykowski, firstName_1: Bohan, lastName_1: Li, , thirdpartyid :SEC203-R, sessionuid :6312CD37-14AE-47BD-B748-31A1AA3E2C4E, title :Refining IAM permissions like an expert [REPEAT], description :In this workshop, learn how to use AWS services to automatically detect unused and business-critical IAM permissions and ways you can update them safely to move toward a least-privilege environment. Discover how to embed the automation into the software development lifecycle to improve the builder experience while also accelerating security objectives. You must bring your laptop to participate., sessiontype :Workshop, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3006, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Lido 3006
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Workshop
+description: In this workshop, learn how to use AWS services to automatically detect unused and business-critical IAM permissions and ways you can update them safely to move toward a least-privilege environment. Discover how to embed the automation into the software development lifecycle to improve the builder experience while also accelerating security objectives. You must bring your laptop to participate
+title: Refining IAM permissions like an expert [REPEAT]
+sessionuid: 6312CD37-14AE-47BD-B748-31A1AA3E2C4E
+thirdpartyid: SEC203-R
+speakers: firstName_0: Freddy, lastName_0: Kasprzykowski, firstName_1: Bohan, lastName_1: Li
+tag_name: Developer/Engineer, Role, 200 - Intermediate, Level, BuildOn.AWS, Area of Interest, Security, Compliance, & Identity, Topic, Tuesday, Day, Venetian, Venue, AWS Identity and Access Management (IAM), Services, Financial Services, Industry

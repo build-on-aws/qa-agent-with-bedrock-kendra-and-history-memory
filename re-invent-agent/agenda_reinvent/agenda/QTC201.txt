@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Mandalay Bay Ballroom D
+summary: tag_name :Amazon Braket, Services, Financial Services, Industry, Life Sciences, Industry, Hybrid Cloud, Topic, Academic/Researcher, Role, IT Professional/Technical Manager, Role, Monday, Day, Mandalay Bay, Venue, Government, Industry, Quantum Technologies, Area of Interest, Tech Explorer, Role, 200 - Intermediate, Level, , speakers :firstName_0: Jordan, lastName_0: Sullivan, firstName_1: Sebastian, lastName_1: Stern, , thirdpartyid :QTC201-R, sessionuid :ECB4C8E3-DABE-4FAC-BB30-3827AC2D18FC, title :Amazon Braket: Get hands-on with quantum computing [REPEAT], description :Amazon Braket provides organizations access to quantum computing hardware and simulators to speed up scientific research and software development for quantum computing. Join this workshop to gain hands-on experience with running your first quantum circuit on gate-based devices and simulators. Also learn how to run your first quantum machine learning algorithm using Amazon Braket Hybrid Jobs. Review service features and examples available in the AWS quantum algorithm library. You must bring your laptop to participate., sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Mandalay Bay Ballroom D, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 21:30:00 -0500, 
+enddatetimeutc: November, 27 2023 21:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Mandalay Bay Ballroom D
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: Amazon Braket provides organizations access to quantum computing hardware and simulators to speed up scientific research and software development for quantum computing. Join this workshop to gain hands-on experience with running your first quantum circuit on gate-based devices and simulators. Also learn how to run your first quantum machine learning algorithm using Amazon Braket Hybrid Jobs. Review service features and examples available in the AWS quantum algorithm library. You must bring your laptop to participate
+title: Amazon Braket: Get hands-on with quantum computing [REPEAT]
+sessionuid: ECB4C8E3-DABE-4FAC-BB30-3827AC2D18FC
+thirdpartyid: QTC201-R
+speakers: firstName_0: Jordan, lastName_0: Sullivan, firstName_1: Sebastian, lastName_1: Stern
+tag_name: Amazon Braket, Services, Financial Services, Industry, Life Sciences, Industry, Hybrid Cloud, Topic, Academic/Researcher, Role, IT Professional/Technical Manager, Role, Monday, Day, Mandalay Bay, Venue, Government, Industry, Quantum Technologies, Area of Interest, Tech Explorer, Role, 200 - Intermediate, Level

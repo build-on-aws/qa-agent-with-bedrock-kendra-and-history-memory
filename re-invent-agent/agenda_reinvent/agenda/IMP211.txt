@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Solution/Systems Architect, Role, Cross Industry, Industry, Social Impact, Area of Interest, Wednesday, Day, Venetian, Venue, IT Professional/Technical Manager, Role, Amazon Bedrock, Services, Generative AI, Area of Interest, AI/ML, Topic, Developer/Engineer, Role, 200 - Intermediate, Level, Amazon SageMaker, Services, , speakers :firstName_0: Mike, lastName_0: George, , thirdpartyid :IMP211, sessionuid :4C43A77F-FE7B-4E35-A50B-B2288202CA01, title :Increasing mission impact with generative AI, description :Nonprofit and mission-based organizations can use generative AI to better scale their impact. In this session, learn about the generative AI solutions that AWS offers and how these solutions are within reach of every organization. Watch mission-specific demos that use generative AI to support mission and member needs. Explore examples of automating repetitive tasks, creating a Q&A bot that uses your custom content, and generating outreach content like email and mailers. Gain an understanding of how you can increase your mission impact with generative AI., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 20:20:00 -0500, 
+enddatetimeutc: November, 29 2023 20:20:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Nonprofit and mission-based organizations can use generative AI to better scale their impact. In this session, learn about the generative AI solutions that AWS offers and how these solutions are within reach of every organization. Watch mission-specific demos that use generative AI to support mission and member needs. Explore examples of automating repetitive tasks, creating a Q&A bot that uses your custom content, and generating outreach content like email and mailers. Gain an understanding of how you can increase your mission impact with generative AI
+title: Increasing mission impact with generative AI
+sessionuid: 4C43A77F-FE7B-4E35-A50B-B2288202CA01
+thirdpartyid: IMP211
+speakers: firstName_0: Mike, lastName_0: George
+tag_name: Solution/Systems Architect, Role, Cross Industry, Industry, Social Impact, Area of Interest, Wednesday, Day, Venetian, Venue, IT Professional/Technical Manager, Role, Amazon Bedrock, Services, Generative AI, Area of Interest, AI/ML, Topic, Developer/Engineer, Role, 200 - Intermediate, Level, Amazon SageMaker, Services

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 2
+summary: tag_name :Generative AI, Area of Interest, DevOps and Developer Productivity, Topic, DevOps Engineer, Role, 200 - Intermediate, Level, Front-End Web & Mobile, Area of Interest, Thursday, Day, Wynn, Venue, Developer/Engineer, Role, , speakers :firstName_0: Michael, lastName_0: Ohde, firstName_1: Ryan, lastName_1: Bachman, , thirdpartyid :DOP203, sessionuid :20FC1797-2033-4C10-85AC-C7E9008CEACA, title :The future of development on AWS, description :This code talk includes a live demo and an open discussion about how builders can use the latest AWS developer tools and generative AI to build production-ready applications in minutes. Starting at an Amazon CodeCatalyst blueprint and using integrated AWS productivity and security capabilities, see a glimpse of what the future holds for developing on AWS., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 2, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 20:30:00 -0500, 
+enddatetimeutc: November, 30 2023 20:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Lafite 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: This code talk includes a live demo and an open discussion about how builders can use the latest AWS developer tools and generative AI to build production-ready applications in minutes. Starting at an Amazon CodeCatalyst blueprint and using integrated AWS productivity and security capabilities, see a glimpse of what the future holds for developing on AWS
+title: The future of development on AWS
+sessionuid: 20FC1797-2033-4C10-85AC-C7E9008CEACA
+thirdpartyid: DOP203
+speakers: firstName_0: Michael, lastName_0: Ohde, firstName_1: Ryan, lastName_1: Bachman
+tag_name: Generative AI, Area of Interest, DevOps and Developer Productivity, Topic, DevOps Engineer, Role, 200 - Intermediate, Level, Front-End Web & Mobile, Area of Interest, Thursday, Day, Wynn, Venue, Developer/Engineer, Role

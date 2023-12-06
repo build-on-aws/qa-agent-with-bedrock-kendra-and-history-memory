@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 110
+summary: tag_name :Cross Industry, Industry, Monitoring & Observability, Area of Interest, AWS Verified Access, Services, 300 - Advanced, Level, Networking & Content Delivery, Topic, Network & Infrastructure Security, Area of Interest, Monday, Day, Caesars Forum, Venue, Developer/Engineer, Role, IT Administrator, Role, Application Security, Area of Interest, IT Professional/Technical Manager, Role, , speakers :firstName_0: Riggs, lastName_0: Goodman III, firstName_1: Bashuman, lastName_1: Deb, , thirdpartyid :NET315-R, sessionuid :E812CADC-AC75-4B9F-9CDD-6C888FC1A0D4, title :Building Zero Trust architectures using AWS Verified Access [REPEAT], description :This chalk talk is intended to be an open forum to discuss AWS Verified Access and Zero Trust remote connectivity architectures on AWS. Briefly review the AWS Zero Trust perspective before exploring how you can provide secure identity and device verified access to your AWS resources. Leave the talk with tips to help you fortify your security posture and enhance compliance, all while simplifying your IT operations., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 110, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Forum 110
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: This chalk talk is intended to be an open forum to discuss AWS Verified Access and Zero Trust remote connectivity architectures on AWS. Briefly review the AWS Zero Trust perspective before exploring how you can provide secure identity and device verified access to your AWS resources. Leave the talk with tips to help you fortify your security posture and enhance compliance, all while simplifying your IT operations
+title: Building Zero Trust architectures using AWS Verified Access [REPEAT]
+sessionuid: E812CADC-AC75-4B9F-9CDD-6C888FC1A0D4
+thirdpartyid: NET315-R
+speakers: firstName_0: Riggs, lastName_0: Goodman III, firstName_1: Bashuman, lastName_1: Deb
+tag_name: Cross Industry, Industry, Monitoring & Observability, Area of Interest, AWS Verified Access, Services, 300 - Advanced, Level, Networking & Content Delivery, Topic, Network & Infrastructure Security, Area of Interest, Monday, Day, Caesars Forum, Venue, Developer/Engineer, Role, IT Administrator, Role, Application Security, Area of Interest, IT Professional/Technical Manager, Role

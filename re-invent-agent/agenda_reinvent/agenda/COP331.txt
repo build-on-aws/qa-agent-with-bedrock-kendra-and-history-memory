@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafleur 2
+summary: tag_name :DevOps Engineer, Role, AWS Config, Services, Cloud Operations, Topic, Management & Governance, Area of Interest, AWS Security Hub, Services, IT Administrator, Role, System Administrator, Role, AWS Control Tower, Services, Monday, Day, Wynn, Venue, 300 - Advanced, Level, , speakers :firstName_0: Andres, lastName_0: Silva, firstName_1: Jens, lastName_1: Kohl, company_1: BMW, firstName_2: Matheus, lastName_2: Arrais, , thirdpartyid :COP331, sessionuid :A2E83C8F-9071-4BAE-97D7-B0DE3E8D9CC6, title :Implementing end-to-end compliance on AWS, featuring BMW, description :<p>Today, organizations are challenged with balancing compliance and security requirements. In this session, walk through an end-to-end experience for defining and maintaining the security and compliance of your AWS resources. Learn about tools you can use to author and automate controls and review and remediate noncompliance in your environment. See how to integrate several services, such as AWS CloudFormation, AWS Config, AWS Security Hub, AWS Control Tower, and AWS Systems Manager to help you keep your resources compliant.</p>, sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafleur 2, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 01:30:00 -0500, 
+enddatetimeutc: November, 28 2023 01:30:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: Lafleur 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: <p>Today, organizations are challenged with balancing compliance and security requirements. In this session, walk through an end-to-end experience for defining and maintaining the security and compliance of your AWS resources. Learn about tools you can use to author and automate controls and review and remediate noncompliance in your environment. See how to integrate several services, such as AWS CloudFormation, AWS Config, AWS Security Hub, AWS Control Tower, and AWS Systems Manager to help you keep your resources compliant.</p>
+title: Implementing end-to-end compliance on AWS, featuring BMW
+sessionuid: A2E83C8F-9071-4BAE-97D7-B0DE3E8D9CC6
+thirdpartyid: COP331
+speakers: firstName_0: Andres, lastName_0: Silva, firstName_1: Jens, lastName_1: Kohl, company_1: BMW, firstName_2: Matheus, lastName_2: Arrais
+tag_name: DevOps Engineer, Role, AWS Config, Services, Cloud Operations, Topic, Management & Governance, Area of Interest, AWS Security Hub, Services, IT Administrator, Role, System Administrator, Role, AWS Control Tower, Services, Monday, Day, Wynn, Venue, 300 - Advanced, Level

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafleur 2
+summary: tag_name :Media & Entertainment, Industry, Analytics, Topic, Architecture, Topic, 300 - Advanced, Level, Open Source, Area of Interest, Customer Stories, Area of Interest, Thursday, Day, Wynn, Venue, Developer/Engineer, Role, , speakers :firstName_0: Vaidy, lastName_0: Krishnan, firstName_1: Rakesh, lastName_1: Veeramacheneni, company_1: Netflix, firstName_2: Ashwin, lastName_2: Kayyoor, company_2: Netflix, , thirdpartyid :NFX306, sessionuid :89F79A73-2B37-44C9-849C-4E1C86135737, title :Netflix’s journey to an Apache Iceberg–only data lake, description :Netflix operates a data lake of approximately one exabyte. Despite this, a portion of data (about 300 petabytes) remained in the legacy Apache Hive table format. Motivated by the well-known benefits Apache Iceberg provides, such as time travel and schema evolution, Netflix fully phased out Hive and transitioned existing data to Iceberg. In this session, learn how Netflix managed this task at the appropriate scale with custom tooling and how they developed unique in-house features like secure Iceberg tables and the Iceberg REST catalog. Learn about Netflix’s journey from a Hive-based to an Iceberg-only data warehouse and how Netflix overcame the challenges that arose with the transition., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafleur 2, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 23:30:00 -0500, 
+enddatetimeutc: November, 30 2023 23:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Lafleur 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: Netflix operates a data lake of approximately one exabyte. Despite this, a portion of data (about 300 petabytes) remained in the legacy Apache Hive table format. Motivated by the well-known benefits Apache Iceberg provides, such as time travel and schema evolution, Netflix fully phased out Hive and transitioned existing data to Iceberg. In this session, learn how Netflix managed this task at the appropriate scale with custom tooling and how they developed unique in-house features like secure Iceberg tables and the Iceberg REST catalog. Learn about Netflix’s journey from a Hive-based to an Iceberg-only data warehouse and how Netflix overcame the challenges that arose with the transition
+title: Netflix’s journey to an Apache Iceberg–only data lake
+sessionuid: 89F79A73-2B37-44C9-849C-4E1C86135737
+thirdpartyid: NFX306
+speakers: firstName_0: Vaidy, lastName_0: Krishnan, firstName_1: Rakesh, lastName_1: Veeramacheneni, company_1: Netflix, firstName_2: Ashwin, lastName_2: Kayyoor, company_2: Netflix
+tag_name: Media & Entertainment, Industry, Analytics, Topic, Architecture, Topic, 300 - Advanced, Level, Open Source, Area of Interest, Customer Stories, Area of Interest, Thursday, Day, Wynn, Venue, Developer/Engineer, Role

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :Networking & Content Delivery, Topic, Front-End Web & Mobile, Area of Interest, Media & Entertainment, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Amazon CloudFront, Services, AWS Elemental MediaStore, Services, AWS Elemental MediaTailor, Services, Caesars Forum, Venue, Wednesday, Day, , speakers :firstName_0: Simon, lastName_0: Rice, company_0: NBCUniversal, firstName_1: Tal, lastName_1: Shalom, , thirdpartyid :NET328, sessionuid :2FEB36D8-C9B8-4F44-92FF-6B270F777A2D, title :Live video streaming with Amazon CloudFront, description :<p>Learn how AWS collaborates with streaming providers to deliver live sporting events at scale to millions of fans globally. In this session, hear about how Peacock achieves a high Quality of Experience for viewers across a multitude of devices. Dive deep into Peacock’s delivery architecture, optimized with Amazon CloudFront Origin Shield to reduce load on the origin while delivering at low latency and high reliability. Finally, explore their innovative end-to-end workflow with AWS Elemental Media Services for large-scale live-events monetization with server-side ad insertion.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Learn how AWS collaborates with streaming providers to deliver live sporting events at scale to millions of fans globally. In this session, hear about how Peacock achieves a high Quality of Experience for viewers across a multitude of devices. Dive deep into Peacock’s delivery architecture, optimized with Amazon CloudFront Origin Shield to reduce load on the origin while delivering at low latency and high reliability. Finally, explore their innovative end-to-end workflow with AWS Elemental Media Services for large-scale live-events monetization with server-side ad insertion.</p>
+title: Live video streaming with Amazon CloudFront
+sessionuid: 2FEB36D8-C9B8-4F44-92FF-6B270F777A2D
+thirdpartyid: NET328
+speakers: firstName_0: Simon, lastName_0: Rice, company_0: NBCUniversal, firstName_1: Tal, lastName_1: Shalom
+tag_name: Networking & Content Delivery, Topic, Front-End Web & Mobile, Area of Interest, Media & Entertainment, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Amazon CloudFront, Services, AWS Elemental MediaStore, Services, AWS Elemental MediaTailor, Services, Caesars Forum, Venue, Wednesday, Day

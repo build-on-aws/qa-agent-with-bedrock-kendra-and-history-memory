@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Terrace 151
+summary: tag_name :Storage, Topic, Application Integration, Area of Interest, Migration & Transfer, Area of Interest, VMware, Area of Interest, Aerospace & Satellite, Industry, Energy, Industry, Government, Industry, 400 - Expert, Level, Solution/Systems Architect, Role, System Administrator, Role, IT Professional/Technical Manager, Role, Amazon FSx, Services, Amazon FSx for NetApp ONTAP, Services, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Aaron, lastName_0: Dailey, firstName_1: Luke, lastName_1: Miller, firstName_2: Virgil, lastName_2: Ennes, firstName_3: Jay, lastName_3: Horne, firstName_4: Mike, lastName_4: Houle, , thirdpartyid :STG405-R, sessionuid :79DA385D-2B13-4E5B-B3C5-EE1D12F0BB26, title :Rightsizing VMware Cloud compute and storage [REPEAT], description :<p>As VMware Cloud on AWS adoption accelerates, organizations are finding the need to scale capacity for storage-heavy workloads. In this hands-on session, familiarize yourself with how to scale cloud storage independently of cloud compute to reduce and control costs. Come see how to lower your TCO and integrate Amazon FSx for NetApp ONTAP with your workloads running on VMware Cloud on AWS as a supplemental datastore. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Terrace 151, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Terrace 151
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>As VMware Cloud on AWS adoption accelerates, organizations are finding the need to scale capacity for storage-heavy workloads. In this hands-on session, familiarize yourself with how to scale cloud storage independently of cloud compute to reduce and control costs. Come see how to lower your TCO and integrate Amazon FSx for NetApp ONTAP with your workloads running on VMware Cloud on AWS as a supplemental datastore. You must bring your laptop to participate.</p>
+title: Rightsizing VMware Cloud compute and storage [REPEAT]
+sessionuid: 79DA385D-2B13-4E5B-B3C5-EE1D12F0BB26
+thirdpartyid: STG405-R
+speakers: firstName_0: Aaron, lastName_0: Dailey, firstName_1: Luke, lastName_1: Miller, firstName_2: Virgil, lastName_2: Ennes, firstName_3: Jay, lastName_3: Horne, firstName_4: Mike, lastName_4: Houle
+tag_name: Storage, Topic, Application Integration, Area of Interest, Migration & Transfer, Area of Interest, VMware, Area of Interest, Aerospace & Satellite, Industry, Energy, Industry, Government, Industry, 400 - Expert, Level, Solution/Systems Architect, Role, System Administrator, Role, IT Professional/Technical Manager, Role, Amazon FSx, Services, Amazon FSx for NetApp ONTAP, Services, Wednesday, Day, MGM Grand, Venue

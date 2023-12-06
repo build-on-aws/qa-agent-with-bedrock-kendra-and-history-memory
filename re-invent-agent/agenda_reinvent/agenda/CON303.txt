@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 113
+summary: tag_name :AWS Fargate, Services, 300 - Advanced, Level, Developer/Engineer, Role, System Administrator, Role, Cross Industry, Industry, Monday, Day, Caesars Forum, Venue, Amazon Elastic Container Service (ECS), Services, Cost Optimization, Area of Interest, IT Administrator, Role, Serverless Compute, Topic, Business Intelligence, Area of Interest, , speakers :firstName_0: Vibhav, lastName_0: Agarwal, firstName_1: Mridula, lastName_1: Grandhi, , thirdpartyid :CON303, sessionuid :B10055AB-6304-4C3C-B2C7-DA3306E9D0C1, title :Deploy gen AI apps efficiently at scale with serverless containers, description :More and more, organizations are looking to start deploying LLM models to solve for a variety of business use cases. In this session, review the various infrastructure options and integrations that can help you deploy LLM models using Amazon ECS: CPU inference, Amazon ECS with AWS Fargate, accelerated inference with GPU and Inf1, Amazon ECS on Amazon EC2, and associated storage and networking options., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 113, startdatetimeutc :November, 28 2023 01:30:00 -0500, enddatetimeutc :November, 28 2023 02:30:00 -0500, 
+enddatetimeutc: November, 28 2023 02:30:00 -0500
+startdatetimeutc: November, 28 2023 01:30:00 -0500
+locationname: Forum 113
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: More and more, organizations are looking to start deploying LLM models to solve for a variety of business use cases. In this session, review the various infrastructure options and integrations that can help you deploy LLM models using Amazon ECS: CPU inference, Amazon ECS with AWS Fargate, accelerated inference with GPU and Inf1, Amazon ECS on Amazon EC2, and associated storage and networking options
+title: Deploy gen AI apps efficiently at scale with serverless containers
+sessionuid: B10055AB-6304-4C3C-B2C7-DA3306E9D0C1
+thirdpartyid: CON303
+speakers: firstName_0: Vibhav, lastName_0: Agarwal, firstName_1: Mridula, lastName_1: Grandhi
+tag_name: AWS Fargate, Services, 300 - Advanced, Level, Developer/Engineer, Role, System Administrator, Role, Cross Industry, Industry, Monday, Day, Caesars Forum, Venue, Amazon Elastic Container Service (ECS), Services, Cost Optimization, Area of Interest, IT Administrator, Role, Serverless Compute, Topic, Business Intelligence, Area of Interest

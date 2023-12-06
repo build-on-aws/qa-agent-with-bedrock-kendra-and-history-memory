@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Oceanside D
+summary: tag_name :AI/ML, Topic, Business Applications, Topic, Digital Native Business (DNB), Area of Interest, SaaS, Area of Interest, Generative AI, Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, Business Executive, Role, Developer/Engineer, Role, IT Executive, Role, AWS AppFabric, Services, Thursday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Holly, lastName_0: Watson, firstName_1: Anant, lastName_1: Patel, , thirdpartyid :BIZ109, sessionuid :A16FDD34-5EAB-4B2F-ABD3-9270988A997A, title :SaaS application innovation using AI to improve employee productivity, description :<p>Application data is dispersed and highly varied across software as a service (SaaS) applications. Teams spend time building custom queries to only gain glimpses of actionable insights on a given project, often wasting time switching between applications. Join this session to learn how AWS AppFabric works with Amazon Bedrock to apply the latest artificial intelligence (AI) capabilities to SaaS application data.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Oceanside D, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Oceanside D
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Application data is dispersed and highly varied across software as a service (SaaS) applications. Teams spend time building custom queries to only gain glimpses of actionable insights on a given project, often wasting time switching between applications. Join this session to learn how AWS AppFabric works with Amazon Bedrock to apply the latest artificial intelligence (AI) capabilities to SaaS application data.</p>
+title: SaaS application innovation using AI to improve employee productivity
+sessionuid: A16FDD34-5EAB-4B2F-ABD3-9270988A997A
+thirdpartyid: BIZ109
+speakers: firstName_0: Holly, lastName_0: Watson, firstName_1: Anant, lastName_1: Patel
+tag_name: AI/ML, Topic, Business Applications, Topic, Digital Native Business (DNB), Area of Interest, SaaS, Area of Interest, Generative AI, Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, Business Executive, Role, Developer/Engineer, Role, IT Executive, Role, AWS AppFabric, Services, Thursday, Day, Mandalay Bay, Venue

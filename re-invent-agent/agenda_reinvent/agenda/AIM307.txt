@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 307
+summary: tag_name :Wednesday, Day, Caesars Forum, Venue, AI/ML, Topic, Generative AI, Area of Interest, Innovation on AWS, Area of Interest, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Amazon Bedrock, Services, 300 - Advanced, Level, , speakers :firstName_0: Rupinder, lastName_0: Grewal, firstName_1: Clay, lastName_1: Elmore, , thirdpartyid :AIM307, sessionuid :267C819E-D3D6-4176-B202-EA13DB9AFBA4, title :Retrieval Augmented Generation with Amazon Bedrock, description :<p>Large language models (LLMs) are often limited by the data they were trained on and therefore don’t always provide the most up-to-date responses. To overcome this limitation, you can supplement prompts with the most up-to-date information, a process known as Retrieval Augmented Generation (RAG). With supplemental information in the prompt providing more context, the LLM can respond more accurately. In this workshop, learn how to use RAG with Amazon Bedrock. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 307, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 18:30:00 -0500, 
+enddatetimeutc: November, 29 2023 18:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: Alliance 307
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Large language models (LLMs) are often limited by the data they were trained on and therefore don’t always provide the most up-to-date responses. To overcome this limitation, you can supplement prompts with the most up-to-date information, a process known as Retrieval Augmented Generation (RAG). With supplemental information in the prompt providing more context, the LLM can respond more accurately. In this workshop, learn how to use RAG with Amazon Bedrock. You must bring your laptop to participate.</p>
+title: Retrieval Augmented Generation with Amazon Bedrock
+sessionuid: 267C819E-D3D6-4176-B202-EA13DB9AFBA4
+thirdpartyid: AIM307
+speakers: firstName_0: Rupinder, lastName_0: Grewal, firstName_1: Clay, lastName_1: Elmore
+tag_name: Wednesday, Day, Caesars Forum, Venue, AI/ML, Topic, Generative AI, Area of Interest, Innovation on AWS, Area of Interest, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Cross Industry, Industry, Amazon Bedrock, Services, 300 - Advanced, Level

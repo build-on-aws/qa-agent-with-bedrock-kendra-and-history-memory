@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 104
+summary: tag_name :Serverless Compute, Topic, AWS Lambda, Services, Developer/Engineer, Role, IT Professional/Technical Manager, Role, 300 - Advanced, Level, Well-Architected Framework, Area of Interest, Architecture, Topic, Thursday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, , speakers :firstName_0: Heitor, lastName_0: Lessa, firstName_1: Thomas, lastName_1: Moore, , thirdpartyid :SVS314, sessionuid :68B5847D-F3FD-4CA1-A025-FB063C85330E, title :Is your serverless application production-ready?, description :Building secure, reliable, and performant applications while balancing cost and operations can be challenging. Getting this right by aligning to the AWS Well-Architected Framework can greatly increase your likelihood of success. In this chalk talk, get specific best practice guidance for a serverless reference architecture., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 104, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Forum 104
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Building secure, reliable, and performant applications while balancing cost and operations can be challenging. Getting this right by aligning to the AWS Well-Architected Framework can greatly increase your likelihood of success. In this chalk talk, get specific best practice guidance for a serverless reference architecture
+title: Is your serverless application production-ready?
+sessionuid: 68B5847D-F3FD-4CA1-A025-FB063C85330E
+thirdpartyid: SVS314
+speakers: firstName_0: Heitor, lastName_0: Lessa, firstName_1: Thomas, lastName_1: Moore
+tag_name: Serverless Compute, Topic, AWS Lambda, Services, Developer/Engineer, Role, IT Professional/Technical Manager, Role, 300 - Advanced, Level, Well-Architected Framework, Area of Interest, Architecture, Topic, Thursday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role

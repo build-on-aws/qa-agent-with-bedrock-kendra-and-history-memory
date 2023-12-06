@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :300 - Advanced, Level, Open Source, Area of Interest, DevOps Engineer, Role, Databases, Topic, Developer/Engineer, Role, Data Engineer, Role, Tuesday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Madelyn, lastName_0: Olson, , thirdpartyid :OPN307-R, sessionuid :184EAB4A-7794-4903-9F67-42C3D194DF27, title :Beyond caching: Advanced design patterns with Redis [REPEAT], description :Redis is a multi-use, distributed real-time application; it offers low-latency, high-throughput data processing with a variety of data structures that can be used to solve a wide range of problems. In this chalk talk, explore use cases, examples, and demos of how you can take advantage of Redis to solve distributed system problems like managing state, processing events, and transforming data in real time. Learn by codifying best practices to make sure that you are configuring Redis to optimize each use case for performance, availability, and durability., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 28 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 22:00:00 -0500, 
+enddatetimeutc: November, 28 2023 22:00:00 -0500
+startdatetimeutc: November, 28 2023 21:00:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: Redis is a multi-use, distributed real-time application; it offers low-latency, high-throughput data processing with a variety of data structures that can be used to solve a wide range of problems. In this chalk talk, explore use cases, examples, and demos of how you can take advantage of Redis to solve distributed system problems like managing state, processing events, and transforming data in real time. Learn by codifying best practices to make sure that you are configuring Redis to optimize each use case for performance, availability, and durability
+title: Beyond caching: Advanced design patterns with Redis [REPEAT]
+sessionuid: 184EAB4A-7794-4903-9F67-42C3D194DF27
+thirdpartyid: OPN307-R
+speakers: firstName_0: Madelyn, lastName_0: Olson
+tag_name: 300 - Advanced, Level, Open Source, Area of Interest, DevOps Engineer, Role, Databases, Topic, Developer/Engineer, Role, Data Engineer, Role, Tuesday, Day, Mandalay Bay, Venue

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Margaux 1
+summary: tag_name :AI/ML, Topic, Compute, Topic, Cost Optimization, Area of Interest, Generative AI, Area of Interest, Well-Architected Framework, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, Tuesday, Day, Wynn, Venue, , speakers :firstName_0: Keita, lastName_0: Watanabe, firstName_1: Scott, lastName_1: Perry, , thirdpartyid :CMP319, sessionuid :849C6D1A-E36B-4974-8681-C6E5986A005E, title :Deploy LLMs with AWS Inferentia & Ray to optimize performance and cost, description :<p>Generative AI and large language models (LLMs) inspired many organizations to reimagine the experiences they are building for their customers. As these sophisticated LLMs are integrated into more applications, developers are challenged with model serving for high-volume deployments while meeting performance targets. AWS Inferentia2 is a purpose-built accelerator optimized for performance and cost, while Ray Serve reduces serving latencies and is easy to use. In this code talk, learn how to deploy Llama 2 through Ray Serve on AWS Inferentia2 to achieve higher performance, low latency, and cost efficiency.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Margaux 1, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 23:00:00 -0500, 
+enddatetimeutc: November, 28 2023 23:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Margaux 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Generative AI and large language models (LLMs) inspired many organizations to reimagine the experiences they are building for their customers. As these sophisticated LLMs are integrated into more applications, developers are challenged with model serving for high-volume deployments while meeting performance targets. AWS Inferentia2 is a purpose-built accelerator optimized for performance and cost, while Ray Serve reduces serving latencies and is easy to use. In this code talk, learn how to deploy Llama 2 through Ray Serve on AWS Inferentia2 to achieve higher performance, low latency, and cost efficiency.</p>
+title: Deploy LLMs with AWS Inferentia & Ray to optimize performance and cost
+sessionuid: 849C6D1A-E36B-4974-8681-C6E5986A005E
+thirdpartyid: CMP319
+speakers: firstName_0: Keita, lastName_0: Watanabe, firstName_1: Scott, lastName_1: Perry
+tag_name: AI/ML, Topic, Compute, Topic, Cost Optimization, Area of Interest, Generative AI, Area of Interest, Well-Architected Framework, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, Tuesday, Day, Wynn, Venue

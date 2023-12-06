@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 221
+summary: tag_name :Monitoring & Observability, Area of Interest, Architecture, Topic, 200 - Intermediate, Level, Management & Governance, Area of Interest, Advisor/Consultant, Role, AWS Systems Manager, Services, Wednesday, Day, Caesars Forum, Venue, Cross Industry, Industry, Global Infrastructure, Area of Interest, AWS Config, Services, Solution/Systems Architect, Role, AWS DataSync, Services, IT Professional/Technical Manager, Role, , speakers :firstName_0: Mickey, lastName_0: Iqbal, firstName_1: Rich, lastName_1: McDonough, , thirdpartyid :ARC213, sessionuid :E99E22CC-E01E-4CE1-99AF-9711AA058DFA, title :Multicloud use cases and architecture patterns, description :As businesses accelerate their cloud migrations and transform their operations, managing IT resources in hybrid and multicloud environments can create complex challenges. AWS is addressing these challenges by extending its cloud services to streamline, manage, and govern hybrid and multicloud infrastructure and applications, helping customers navigate the complexity of modern IT operations. In this chalk talk, delve into some of the hybrid and multicloud architecture patterns and capabilities offered by AWS., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 221, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Summit 221
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: As businesses accelerate their cloud migrations and transform their operations, managing IT resources in hybrid and multicloud environments can create complex challenges. AWS is addressing these challenges by extending its cloud services to streamline, manage, and govern hybrid and multicloud infrastructure and applications, helping customers navigate the complexity of modern IT operations. In this chalk talk, delve into some of the hybrid and multicloud architecture patterns and capabilities offered by AWS
+title: Multicloud use cases and architecture patterns
+sessionuid: E99E22CC-E01E-4CE1-99AF-9711AA058DFA
+thirdpartyid: ARC213
+speakers: firstName_0: Mickey, lastName_0: Iqbal, firstName_1: Rich, lastName_1: McDonough
+tag_name: Monitoring & Observability, Area of Interest, Architecture, Topic, 200 - Intermediate, Level, Management & Governance, Area of Interest, Advisor/Consultant, Role, AWS Systems Manager, Services, Wednesday, Day, Caesars Forum, Venue, Cross Industry, Industry, Global Infrastructure, Area of Interest, AWS Config, Services, Solution/Systems Architect, Role, AWS DataSync, Services, IT Professional/Technical Manager, Role

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 407
+summary: tag_name :Analytics, Topic, Generative AI, Area of Interest, 200 - Intermediate, Level, Amazon OpenSearch Service, Services, Thursday, Day, Caesars Forum, Venue, Amazon OpenSearch Serverless, Services, Customer Stories, Area of Interest, AI/ML, Topic, Data Engineer, Role, Monitoring & Observability, Area of Interest, Developer/Engineer, Role, , speakers :firstName_0: Achal, lastName_0: Kumar, company_0: Intuit, firstName_1: Aruna, lastName_1: Govindaraju, firstName_2: Jon, lastName_2: Handler, , thirdpartyid :ANT210, sessionuid :A8A74806-9A4C-419B-961C-898D3E5A7DFB, title :Improve your search with vector capabilities in OpenSearch Service, description :<p>Search engines give their users a path from their goals to the information that meets those goals. When the items retrieved match the user’s intent, they are considered relevant. Retrieving relevant results includes the presence of the data in the catalog and how it is analyzed, the text and vector representation, the ranking function, and other actions. In this session, hear how Intuit uses Amazon OpenSearch Service as a vector database, and see how OpenSearch Service helps users get the most relevant results.</p>, sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 407, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 23:30:00 -0500, 
+enddatetimeutc: November, 30 2023 23:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Academy 407
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: <p>Search engines give their users a path from their goals to the information that meets those goals. When the items retrieved match the user’s intent, they are considered relevant. Retrieving relevant results includes the presence of the data in the catalog and how it is analyzed, the text and vector representation, the ranking function, and other actions. In this session, hear how Intuit uses Amazon OpenSearch Service as a vector database, and see how OpenSearch Service helps users get the most relevant results.</p>
+title: Improve your search with vector capabilities in OpenSearch Service
+sessionuid: A8A74806-9A4C-419B-961C-898D3E5A7DFB
+thirdpartyid: ANT210
+speakers: firstName_0: Achal, lastName_0: Kumar, company_0: Intuit, firstName_1: Aruna, lastName_1: Govindaraju, firstName_2: Jon, lastName_2: Handler
+tag_name: Analytics, Topic, Generative AI, Area of Interest, 200 - Intermediate, Level, Amazon OpenSearch Service, Services, Thursday, Day, Caesars Forum, Venue, Amazon OpenSearch Serverless, Services, Customer Stories, Area of Interest, AI/ML, Topic, Data Engineer, Role, Monitoring & Observability, Area of Interest, Developer/Engineer, Role

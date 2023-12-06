@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Monday, Day, Wynn, Venue, Amazon CloudWatch, Services, Amazon Managed Grafana, Services, Amazon Managed Service for Prometheus, Services, Management & Governance, Area of Interest, Cloud Operations, Topic, 200 - Intermediate, Level, Monitoring & Observability, Area of Interest, , speakers :firstName_0: Elamaran, lastName_0: Shanmugam, firstName_1: Mengdi, lastName_1: Chen, , thirdpartyid :COP201-R, sessionuid :44C59FFF-D996-4A35-8D59-CFF8D575BF29, title :Accelerate troubleshooting with AWS observability [REPEAT], description :In this chalk talk, improve the efficiency of your troubleshooting. If your application is hosted across multiple AWS accounts and you are finding it challenging to correlate metrics, logs, and traces across applications in one view, this talk is for you. Today, you might rely on multiple tools to get telemetry from many AWS accounts or other data sources, an approach that can increase costs and delay troubleshooting. This talk invites tough questions on how to improve your troubleshooting and root cause analysis. Learn about the latest in AWS native and open source observability solutions that can help you!, sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: In this chalk talk, improve the efficiency of your troubleshooting. If your application is hosted across multiple AWS accounts and you are finding it challenging to correlate metrics, logs, and traces across applications in one view, this talk is for you. Today, you might rely on multiple tools to get telemetry from many AWS accounts or other data sources, an approach that can increase costs and delay troubleshooting. This talk invites tough questions on how to improve your troubleshooting and root cause analysis. Learn about the latest in AWS native and open source observability solutions that can help you!
+title: Accelerate troubleshooting with AWS observability [REPEAT]
+sessionuid: 44C59FFF-D996-4A35-8D59-CFF8D575BF29
+thirdpartyid: COP201-R
+speakers: firstName_0: Elamaran, lastName_0: Shanmugam, firstName_1: Mengdi, lastName_1: Chen
+tag_name: DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Monday, Day, Wynn, Venue, Amazon CloudWatch, Services, Amazon Managed Grafana, Services, Amazon Managed Service for Prometheus, Services, Management & Governance, Area of Interest, Cloud Operations, Topic, 200 - Intermediate, Level, Monitoring & Observability, Area of Interest

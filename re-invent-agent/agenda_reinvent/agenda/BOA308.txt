@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas F
+summary: tag_name :Generative AI, Area of Interest, AI/ML, Topic, 300 - Advanced, Level, BuildOn.AWS, Area of Interest, Amazon CodeWhisperer, Services, Wednesday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Mike, lastName_0: Chambers, firstName_1: Tiffany, lastName_1: Souterre, , thirdpartyid :BOA308, sessionuid :22008C6B-EC26-462B-B244-BD45BEF477C7, title :Generative AI: Architectures and applications in depth, description :<p>In the fast-paced AI world, advanced generative AI concepts are crucial. To stay competitive and innovative, businesses must grapple with understanding and implementing complex methodologies. Yet, due to the nascent stage of these discussions, clear and comprehensive resources can be sparse, causing difficulties in effective utilization. This session addresses this problem by providing an in-depth exploration of these emerging concepts. By discussing practical applications and detailing implementation best practices, this session offers a concrete understanding that enables businesses to effectively use these cutting-edge developments in generative AI.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas F, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: South Seas F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>In the fast-paced AI world, advanced generative AI concepts are crucial. To stay competitive and innovative, businesses must grapple with understanding and implementing complex methodologies. Yet, due to the nascent stage of these discussions, clear and comprehensive resources can be sparse, causing difficulties in effective utilization. This session addresses this problem by providing an in-depth exploration of these emerging concepts. By discussing practical applications and detailing implementation best practices, this session offers a concrete understanding that enables businesses to effectively use these cutting-edge developments in generative AI.</p>
+title: Generative AI: Architectures and applications in depth
+sessionuid: 22008C6B-EC26-462B-B244-BD45BEF477C7
+thirdpartyid: BOA308
+speakers: firstName_0: Mike, lastName_0: Chambers, firstName_1: Tiffany, lastName_1: Souterre
+tag_name: Generative AI, Area of Interest, AI/ML, Topic, 300 - Advanced, Level, BuildOn.AWS, Area of Interest, Amazon CodeWhisperer, Services, Wednesday, Day, Mandalay Bay, Venue

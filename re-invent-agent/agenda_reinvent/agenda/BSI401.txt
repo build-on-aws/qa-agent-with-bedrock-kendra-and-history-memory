@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 167
+summary: tag_name :AWS CodePipeline, Services, Independent Software Vendor (ISV), Area of Interest, Business Intelligence, Area of Interest, DevOps Engineer, Role, Tuesday, Day, MGM Grand, Venue, DevOps and Developer Productivity, Topic, Developer/Engineer, Role, Cross Industry, Industry, 400 - Expert, Level, Migration & Transfer, Area of Interest, Solution/Systems Architect, Role, Analytics, Topic, Amazon QuickSight, Services, , speakers :firstName_0: Arun, lastName_0: Santhosh, firstName_1: Mayank, lastName_1: Agarwal, firstName_2: Subash, lastName_2: John, company_2: Bloomberg Industry Group, , thirdpartyid :BSI401, sessionuid :3F53A61C-C2DC-4B32-A638-7BFCE6F44935, title :DevOps strategies for Amazon QuickSight business intelligence assets, description :<p>In this chalk talk, gain an in-depth understanding of how to orchestrate the deployment of Amazon QuickSight assets. Learn about strategies to automatically promote assets across environments and deploy to production.</p>, sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 167, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 23:00:00 -0500, 
+enddatetimeutc: November, 28 2023 23:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Boulevard 167
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: <p>In this chalk talk, gain an in-depth understanding of how to orchestrate the deployment of Amazon QuickSight assets. Learn about strategies to automatically promote assets across environments and deploy to production.</p>
+title: DevOps strategies for Amazon QuickSight business intelligence assets
+sessionuid: 3F53A61C-C2DC-4B32-A638-7BFCE6F44935
+thirdpartyid: BSI401
+speakers: firstName_0: Arun, lastName_0: Santhosh, firstName_1: Mayank, lastName_1: Agarwal, firstName_2: Subash, lastName_2: John, company_2: Bloomberg Industry Group
+tag_name: AWS CodePipeline, Services, Independent Software Vendor (ISV), Area of Interest, Business Intelligence, Area of Interest, DevOps Engineer, Role, Tuesday, Day, MGM Grand, Venue, DevOps and Developer Productivity, Topic, Developer/Engineer, Role, Cross Industry, Industry, 400 - Expert, Level, Migration & Transfer, Area of Interest, Solution/Systems Architect, Role, Analytics, Topic, Amazon QuickSight, Services

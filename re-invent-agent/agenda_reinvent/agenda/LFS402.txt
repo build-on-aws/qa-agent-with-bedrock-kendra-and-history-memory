@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 307
+summary: tag_name :Solution/Systems Architect, Role, Amazon Kendra, Services, AI/ML, Topic, Generative AI, Area of Interest, IT Professional/Technical Manager, Role, Tuesday, Day, Caesars Forum, Venue, Amazon SageMaker, Services, Amazon Lex, Services, 400 - Expert, Level, Developer/Engineer, Role, Life Sciences, Industry, , speakers :firstName_0: Chaitanya, lastName_0: Vejendla, firstName_1: Nora, lastName_1: O Sullivan, , thirdpartyid :LFS402, sessionuid :1963997E-7D4A-49F9-A7F7-A00FC0ADBB3A, title :Scientific knowledge search & expedited regulatory submissions with AI, description :<p>In this workshop, learn how you can use AI to accelerate clinical trial processes, streamline regulatory submissions, and increase staff productivity in life sciences. Find out how to build a scalable enterprise search solution with AI to provide context-aware responses. Additionally, learn how to extract important information from past internal clinical studies and publicly available information (like ClinicalTrial.gov) using Amazon Kendra and pgvector embeddings. Then, learn how to create a seamless and responsive user experience with Amazon Lex. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 307, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 03:00:00 -0500, 
+enddatetimeutc: November, 29 2023 03:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: Alliance 307
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: <p>In this workshop, learn how you can use AI to accelerate clinical trial processes, streamline regulatory submissions, and increase staff productivity in life sciences. Find out how to build a scalable enterprise search solution with AI to provide context-aware responses. Additionally, learn how to extract important information from past internal clinical studies and publicly available information (like ClinicalTrial.gov) using Amazon Kendra and pgvector embeddings. Then, learn how to create a seamless and responsive user experience with Amazon Lex. You must bring your laptop to participate.</p>
+title: Scientific knowledge search & expedited regulatory submissions with AI
+sessionuid: 1963997E-7D4A-49F9-A7F7-A00FC0ADBB3A
+thirdpartyid: LFS402
+speakers: firstName_0: Chaitanya, lastName_0: Vejendla, firstName_1: Nora, lastName_1: O Sullivan
+tag_name: Solution/Systems Architect, Role, Amazon Kendra, Services, AI/ML, Topic, Generative AI, Area of Interest, IT Professional/Technical Manager, Role, Tuesday, Day, Caesars Forum, Venue, Amazon SageMaker, Services, Amazon Lex, Services, 400 - Expert, Level, Developer/Engineer, Role, Life Sciences, Industry

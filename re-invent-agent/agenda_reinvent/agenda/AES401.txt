@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 113
+summary: tag_name :AI/ML, Topic, Compute, Topic, 400 - Expert, Level, Amazon Bedrock, Services, Aerospace & Satellite, Industry, Developer/Engineer, Role, Solution/Systems Architect, Role, MGM Grand, Venue, Tuesday, Day, Innovation on AWS, Area of Interest, Generative AI, Area of Interest, , speakers :firstName_0: Conor, lastName_0: Cahill, firstName_1: Kathy, lastName_1: O'Donnell, , thirdpartyid :AES401, sessionuid :7539FA1D-ACCC-430E-A472-802AD37CA3C5, title :Use gen AI to query space imagery APIs with natural language prompts, description :In this workshop, create a machine learning (ML) application that retrieves space imagery and earth observation data collected from satellites using natural language queries. Learn how to use Amazon SageMaker to deploy a large language model (LLM) and multimodal foundation model (FM), how to engineer LLM prompts to translate a natural language query to a valid API request, and how to perform image summarization using the multimodal FM as well as incorporate other types of ML into the processing flow. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 113, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Grand 113
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: In this workshop, create a machine learning (ML) application that retrieves space imagery and earth observation data collected from satellites using natural language queries. Learn how to use Amazon SageMaker to deploy a large language model (LLM) and multimodal foundation model (FM), how to engineer LLM prompts to translate a natural language query to a valid API request, and how to perform image summarization using the multimodal FM as well as incorporate other types of ML into the processing flow. You must bring your laptop to participate
+title: Use gen AI to query space imagery APIs with natural language prompts
+sessionuid: 7539FA1D-ACCC-430E-A472-802AD37CA3C5
+thirdpartyid: AES401
+speakers: firstName_0: Conor, lastName_0: Cahill, firstName_1: Kathy, lastName_1: O'Donnell
+tag_name: AI/ML, Topic, Compute, Topic, 400 - Expert, Level, Amazon Bedrock, Services, Aerospace & Satellite, Industry, Developer/Engineer, Role, Solution/Systems Architect, Role, MGM Grand, Venue, Tuesday, Day, Innovation on AWS, Area of Interest, Generative AI, Area of Interest

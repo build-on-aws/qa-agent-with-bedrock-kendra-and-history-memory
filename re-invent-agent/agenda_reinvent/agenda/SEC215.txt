@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Margaux 1
+summary: tag_name :Monday, Day, Wynn, Venue, Security, Compliance, & Identity, Topic, Threat Detection & Incident Response, Area of Interest, Monitoring & Observability, Area of Interest, Cloud Security Specialist, Role, IT Executive, Role, Solution/Systems Architect, Role, Cross Industry, Industry, 200 - Intermediate, Level, , speakers :firstName_0: Ross, lastName_0: Warren, firstName_1: Stuart, lastName_1: Gregg, , thirdpartyid :SEC215-R, sessionuid :38AC1F78-0083-4BB4-9F4D-E5FA0A086090, title :Hybrid & multicloud environment monitoring with Amazon Security Lake [REPEAT], description :<p>In this code talk, learn how Amazon Security Lake can help organizations operating in a hybrid or multicloud environment monitor and centralize security events across these environments. Build and deploy Amazon Security Lake with data sources from within AWS and also from other third-party providers. Utilize dashboarding in OpenSearch for visualizing events across all environments, and have detection capabilities for events of interest in all environments.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Margaux 1, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 17:30:00 -0500, 
+enddatetimeutc: November, 27 2023 17:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: Margaux 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>In this code talk, learn how Amazon Security Lake can help organizations operating in a hybrid or multicloud environment monitor and centralize security events across these environments. Build and deploy Amazon Security Lake with data sources from within AWS and also from other third-party providers. Utilize dashboarding in OpenSearch for visualizing events across all environments, and have detection capabilities for events of interest in all environments.</p>
+title: Hybrid & multicloud environment monitoring with Amazon Security Lake [REPEAT]
+sessionuid: 38AC1F78-0083-4BB4-9F4D-E5FA0A086090
+thirdpartyid: SEC215-R
+speakers: firstName_0: Ross, lastName_0: Warren, firstName_1: Stuart, lastName_1: Gregg
+tag_name: Monday, Day, Wynn, Venue, Security, Compliance, & Identity, Topic, Threat Detection & Incident Response, Area of Interest, Monitoring & Observability, Area of Interest, Cloud Security Specialist, Role, IT Executive, Role, Solution/Systems Architect, Role, Cross Industry, Industry, 200 - Intermediate, Level

@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Murano 3306
+summary: tag_name :Cloud Security Specialist, Role, Solution/Systems Architect, Role, Developer/Engineer, Role, Network & Infrastructure Security, Area of Interest, Cross Industry, Industry, Architecture, Topic, Global Infrastructure, Area of Interest, Amazon VPC Lattice, Services, 300 - Advanced, Level, Amazon Virtual Private Cloud (VPC), Services, AWS Cloud WAN, Services, Friday, Day, Venetian, Venue, Application Security, Area of Interest, Networking & Content Delivery, Topic, , speakers :firstName_0: Alexandra, lastName_0: Huides, firstName_1: Matt, lastName_1: Lehwess, , thirdpartyid :NET306, sessionuid :968D1193-63D2-4AA1-BEC7-FC3BFF3F32BF, title :Advanced VPC designs and new capabilities, description :Amazon VPC is a foundational service on AWS that gives you control over your virtual networking environment. Every year, AWS makes updates to Amazon VPC to help improve functionality, security, and usability. Have you ever wondered how new Amazon VPC features might affect how you should design your networking infrastructure on AWS? In this session, learn about the latest updates to Amazon VPC and how you can use them to enhance your current architectures., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 3, locationname :Murano 3306, startdatetimeutc :December, 01 2023 18:00:00 -0500, enddatetimeutc :December, 01 2023 19:00:00 -0500, 
+enddatetimeutc: December, 01 2023 19:00:00 -0500
+startdatetimeutc: December, 01 2023 18:00:00 -0500
+locationname: Murano 3306
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Breakout Session
+description: Amazon VPC is a foundational service on AWS that gives you control over your virtual networking environment. Every year, AWS makes updates to Amazon VPC to help improve functionality, security, and usability. Have you ever wondered how new Amazon VPC features might affect how you should design your networking infrastructure on AWS? In this session, learn about the latest updates to Amazon VPC and how you can use them to enhance your current architectures
+title: Advanced VPC designs and new capabilities
+sessionuid: 968D1193-63D2-4AA1-BEC7-FC3BFF3F32BF
+thirdpartyid: NET306
+speakers: firstName_0: Alexandra, lastName_0: Huides, firstName_1: Matt, lastName_1: Lehwess
+tag_name: Cloud Security Specialist, Role, Solution/Systems Architect, Role, Developer/Engineer, Role, Network & Infrastructure Security, Area of Interest, Cross Industry, Industry, Architecture, Topic, Global Infrastructure, Area of Interest, Amazon VPC Lattice, Services, 300 - Advanced, Level, Amazon Virtual Private Cloud (VPC), Services, AWS Cloud WAN, Services, Friday, Day, Venetian, Venue, Application Security, Area of Interest, Networking & Content Delivery, Topic

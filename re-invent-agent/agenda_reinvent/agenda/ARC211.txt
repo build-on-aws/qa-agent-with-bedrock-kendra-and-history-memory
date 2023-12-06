@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 122
+summary: tag_name :DevOps Engineer, Role, Developer/Engineer, Role, IT Administrator, Role, Well-Architected Framework, Area of Interest, Cross Industry, Industry, AWS Well-Architected Tool, Services, Architecture, Topic, Monday, Day, MGM Grand, Venue, 200 - Intermediate, Level, Workforce Development, Area of Interest, , speakers :firstName_0: John, lastName_0: Walker, firstName_1: Nomin, lastName_1: Batsaikhan, , thirdpartyid :ARC211, sessionuid :1C691882-B6CC-4339-A15F-E1DAD82640A5, title :What is the path to becoming a cloud solutions architect?, description :In this breakout session, learn the essential skills required to become a cloud solutions architect. The role is challenging and rewarding and comes with a bright career path. Explore the path to becoming an solutions architect, the technical skills needed to be proficient at the role, how to embrace ambiguity, and the nuanced people skills needed to flourish as you solve real business problems with technical acumen. Come learn how to thrive as a solutions architect, how to multiply your abilities, and how to create beautiful designs that solve problems for your customers and teams., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 122, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Grand 122
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: In this breakout session, learn the essential skills required to become a cloud solutions architect. The role is challenging and rewarding and comes with a bright career path. Explore the path to becoming an solutions architect, the technical skills needed to be proficient at the role, how to embrace ambiguity, and the nuanced people skills needed to flourish as you solve real business problems with technical acumen. Come learn how to thrive as a solutions architect, how to multiply your abilities, and how to create beautiful designs that solve problems for your customers and teams
+title: What is the path to becoming a cloud solutions architect?
+sessionuid: 1C691882-B6CC-4339-A15F-E1DAD82640A5
+thirdpartyid: ARC211
+speakers: firstName_0: John, lastName_0: Walker, firstName_1: Nomin, lastName_1: Batsaikhan
+tag_name: DevOps Engineer, Role, Developer/Engineer, Role, IT Administrator, Role, Well-Architected Framework, Area of Interest, Cross Industry, Industry, AWS Well-Architected Tool, Services, Architecture, Topic, Monday, Day, MGM Grand, Venue, 200 - Intermediate, Level, Workforce Development, Area of Interest

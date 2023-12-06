@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :DevOps Engineer, Role, Solution/Systems Architect, Role, 300 - Advanced, Level, Management & Governance, Area of Interest, Thursday, Day, Wynn, Venue, AWS CloudTrail, Services, Cloud Operations, Topic, Cloud Security Specialist, Role, , speakers :firstName_0: Samrat, lastName_0: Lamichhane, firstName_1: Devi, lastName_1: Paulvannan, , thirdpartyid :COP336, sessionuid :FC0069B1-0FC6-44B0-86F6-59CDB8CCE9DC, title :Simplify security and compliance with event-driven automation, description :Once you notice unusual activity in your accounts, it’s important to have a system in place to record the event, notify any related stakeholders, and take action. In this chalk talk, learn how to improve your security and compliance posture by using AWS CloudTrail Insights to identify unusual activity in your AWS accounts, record user activity and events, and set up responses through automated workflow rules with Amazon EventBridge., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 23:30:00 -0500, 
+enddatetimeutc: November, 30 2023 23:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Once you notice unusual activity in your accounts, it’s important to have a system in place to record the event, notify any related stakeholders, and take action. In this chalk talk, learn how to improve your security and compliance posture by using AWS CloudTrail Insights to identify unusual activity in your AWS accounts, record user activity and events, and set up responses through automated workflow rules with Amazon EventBridge
+title: Simplify security and compliance with event-driven automation
+sessionuid: FC0069B1-0FC6-44B0-86F6-59CDB8CCE9DC
+thirdpartyid: COP336
+speakers: firstName_0: Samrat, lastName_0: Lamichhane, firstName_1: Devi, lastName_1: Paulvannan
+tag_name: DevOps Engineer, Role, Solution/Systems Architect, Role, 300 - Advanced, Level, Management & Governance, Area of Interest, Thursday, Day, Wynn, Venue, AWS CloudTrail, Services, Cloud Operations, Topic, Cloud Security Specialist, Role

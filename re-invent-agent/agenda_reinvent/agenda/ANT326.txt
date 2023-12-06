@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas F
+summary: tag_name :Amazon RedShift, Services, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Well-Architected Framework, Area of Interest, Thursday, Day, Mandalay Bay, Venue, Data Engineer, Role, Databases, Topic, Amazon Aurora, Services, Analytics, Topic, 300 - Advanced, Level, , speakers :firstName_0: Jyoti, lastName_0: Aggarwal, firstName_1: Adam, lastName_1: Levin, firstName_2: Rakesh, lastName_2: Ramesh, company_2: Intuit, , thirdpartyid :ANT326, sessionuid :17BDDFAB-C3EB-4E02-8542-A83688E2A1CB, title :Set up a zero-ETL-based analytics architecture for your organizations, description :ETL can be challenging, time-consuming, and costly. AWS is building a zero-ETL future with capabilities like streaming ingestion into the data warehouse, federated querying, and connectors that access data in place across databases, data lakes, and third-party data sources without data movement. In this session, learn how zero-ETL investments such as Amazon Aurora zero-ETL integration with Amazon Redshift drive direct integration between AWS data services to allow data engineers to focus on creating value from data instead of spending time and resources building pipelines., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas F, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: South Seas F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: ETL can be challenging, time-consuming, and costly. AWS is building a zero-ETL future with capabilities like streaming ingestion into the data warehouse, federated querying, and connectors that access data in place across databases, data lakes, and third-party data sources without data movement. In this session, learn how zero-ETL investments such as Amazon Aurora zero-ETL integration with Amazon Redshift drive direct integration between AWS data services to allow data engineers to focus on creating value from data instead of spending time and resources building pipelines
+title: Set up a zero-ETL-based analytics architecture for your organizations
+sessionuid: 17BDDFAB-C3EB-4E02-8542-A83688E2A1CB
+thirdpartyid: ANT326
+speakers: firstName_0: Jyoti, lastName_0: Aggarwal, firstName_1: Adam, lastName_1: Levin, firstName_2: Rakesh, lastName_2: Ramesh, company_2: Intuit
+tag_name: Amazon RedShift, Services, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Well-Architected Framework, Area of Interest, Thursday, Day, Mandalay Bay, Venue, Data Engineer, Role, Databases, Topic, Amazon Aurora, Services, Analytics, Topic, 300 - Advanced, Level

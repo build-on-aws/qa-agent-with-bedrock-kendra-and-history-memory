@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :Compute, Topic, Cross Industry, Industry, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Amazon Elastic Compute Cloud (EC2), Services, Solution/Systems Architect, Role, Thursday, Day, Wynn, Venue, Amazon Elastic Kubernetes Service (EKS), Services, Developer/Engineer, Role, Cost Optimization, Area of Interest, , speakers :firstName_0: Aparajita, lastName_0: Jas, firstName_1: Brandon, lastName_1: Wagner, , thirdpartyid :CMP328-R, sessionuid :51C08C1D-753A-45F1-863B-E0F0320C5E79, title :Optimize Amazon EKS workloads: Spot Instances, Karpenter, and Graviton [REPEAT], description :Scaling your Kubernetes workloads is not only about the number of nodes, pods, or jobs you use but also about selecting the right compute size. This chalk talk shows how Karpenter can help you reduce complexities when managing your Kubernetes clusters and help you run large systems at scale in a cost-effective way. Hear AWS customer success stories, explore scenarios such as multi-architecture use of AWS Graviton and large-scale use of Amazon EC2 Spot Instances, and learn a variety of compute optimization best practices, including techniques relevant to Karpenter., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Scaling your Kubernetes workloads is not only about the number of nodes, pods, or jobs you use but also about selecting the right compute size. This chalk talk shows how Karpenter can help you reduce complexities when managing your Kubernetes clusters and help you run large systems at scale in a cost-effective way. Hear AWS customer success stories, explore scenarios such as multi-architecture use of AWS Graviton and large-scale use of Amazon EC2 Spot Instances, and learn a variety of compute optimization best practices, including techniques relevant to Karpenter
+title: Optimize Amazon EKS workloads: Spot Instances, Karpenter, and Graviton [REPEAT]
+sessionuid: 51C08C1D-753A-45F1-863B-E0F0320C5E79
+thirdpartyid: CMP328-R
+speakers: firstName_0: Aparajita, lastName_0: Jas, firstName_1: Brandon, lastName_1: Wagner
+tag_name: Compute, Topic, Cross Industry, Industry, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Amazon Elastic Compute Cloud (EC2), Services, Solution/Systems Architect, Role, Thursday, Day, Wynn, Venue, Amazon Elastic Kubernetes Service (EKS), Services, Developer/Engineer, Role, Cost Optimization, Area of Interest

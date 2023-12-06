@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 209
+summary: tag_name :Monday, Day, Caesars Forum, Venue, Meals & Conference Services, Additional Services, , speakers :, thirdpartyid :ACT099, sessionuid :86110412-6FDC-4484-8455-D0616EC13A30, title :Reflection room, description :The reflection room provides a dark, quiet space for meditation, prayer, or yoga, or to find resources for sensory needs. The room is equipped with semi-private meditation pods, prayer rugs, yoga mats, comfortable seating, puzzles, and coloring supplies. The reflection room also includes sensory bags containing noise cancelling headphones, fidget tools, and other resources for attendees with sensory needs, and a sensory tent that provides a safe and calming environment to help attendees that might be feeling overwhelmed or overstimulated., sessiontype :Conference Services, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 209, startdatetimeutc :November, 27 2023 16:00:00 -0500, enddatetimeutc :November, 28 2023 03:00:00 -0500, 
+enddatetimeutc: November, 28 2023 03:00:00 -0500
+startdatetimeutc: November, 27 2023 16:00:00 -0500
+locationname: Summit 209
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Conference Services
+description: The reflection room provides a dark, quiet space for meditation, prayer, or yoga, or to find resources for sensory needs. The room is equipped with semi-private meditation pods, prayer rugs, yoga mats, comfortable seating, puzzles, and coloring supplies. The reflection room also includes sensory bags containing noise cancelling headphones, fidget tools, and other resources for attendees with sensory needs, and a sensory tent that provides a safe and calming environment to help attendees that might be feeling overwhelmed or overstimulated
+title: Reflection room
+sessionuid: 86110412-6FDC-4484-8455-D0616EC13A30
+thirdpartyid: ACT099
+speakers: 
+tag_name: Monday, Day, Caesars Forum, Venue, Meals & Conference Services, Additional Services

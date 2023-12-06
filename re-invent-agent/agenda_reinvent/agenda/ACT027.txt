@@ -1,0 +1,14 @@
+location: MGM Grand, Level 2, International Smoke
+summary: tag_name :Wednesday, Day, MGM Grand, Venue, Happy Hour/Reception, Additional Services, , speakers :, thirdpartyid :ACT027, sessionuid :CB2D9EE5-2189-49E4-8C59-3934562EEA36, title :Networking reception at International Smoke, description :More information coming soon., sessiontype :Community Activities, venuename :MGM Grand, floorplanname :Level 2, locationname :International Smoke, startdatetimeutc :November, 30 2023 02:00:00 -0500, enddatetimeutc :November, 30 2023 04:00:00 -0500, 
+enddatetimeutc: November, 30 2023 04:00:00 -0500
+startdatetimeutc: November, 30 2023 02:00:00 -0500
+locationname: International Smoke
+floorplanname: Level 2
+venuename: MGM Grand
+sessiontype: Community Activities
+description: More information coming soon
+title: Networking reception at International Smoke
+sessionuid: CB2D9EE5-2189-49E4-8C59-3934562EEA36
+thirdpartyid: ACT027
+speakers: 
+tag_name: Wednesday, Day, MGM Grand, Venue, Happy Hour/Reception, Additional Services

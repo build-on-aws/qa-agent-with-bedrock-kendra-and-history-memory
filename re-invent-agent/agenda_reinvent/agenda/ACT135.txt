@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 115 Foyer
+summary: tag_name :Internet of Things, Topic, Advisor/Consultant, Role, AI/ML, Topic, Analytics, Topic, Strategy & Transformation, Area of Interest, Cross Industry, Industry, Thursday, Day, Caesars Forum, Venue, Community Activities, Additional Services, Developer/Engineer, Role, Solution/Systems Architect, Role, Innovation on AWS, Area of Interest, IT Professional/Technical Manager, Role, Sustainability, Area of Interest, , speakers :, thirdpartyid :ACT135, sessionuid :B2508578-C92B-4C07-A5C2-D53FF859AA05, title :AWS Sustainability Showcase, description :Innovation is key to achieving sustainability goals—challenges including water conservation and decarbonization of operations and energy are addressed through technologies that drive sustainable transformation. From the AWS family of custom chips such as AWS Inferentia and AWS Trainium to examples of customers using artificial intelligence (AI), machine learning (ML), and Internet of Things (IoT), visit the Sustainability Showcase to learn more about the tools available for organizations of all sizes and across all sectors to build and implement solutions that meet their sustainability goals., sessiontype :Community Activities, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 115 Foyer, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Forum 115 Foyer
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Community Activities
+description: Innovation is key to achieving sustainability goals—challenges including water conservation and decarbonization of operations and energy are addressed through technologies that drive sustainable transformation. From the AWS family of custom chips such as AWS Inferentia and AWS Trainium to examples of customers using artificial intelligence (AI), machine learning (ML), and Internet of Things (IoT), visit the Sustainability Showcase to learn more about the tools available for organizations of all sizes and across all sectors to build and implement solutions that meet their sustainability goals
+title: AWS Sustainability Showcase
+sessionuid: B2508578-C92B-4C07-A5C2-D53FF859AA05
+thirdpartyid: ACT135
+speakers: 
+tag_name: Internet of Things, Topic, Advisor/Consultant, Role, AI/ML, Topic, Analytics, Topic, Strategy & Transformation, Area of Interest, Cross Industry, Industry, Thursday, Day, Caesars Forum, Venue, Community Activities, Additional Services, Developer/Engineer, Role, Solution/Systems Architect, Role, Innovation on AWS, Area of Interest, IT Professional/Technical Manager, Role, Sustainability, Area of Interest

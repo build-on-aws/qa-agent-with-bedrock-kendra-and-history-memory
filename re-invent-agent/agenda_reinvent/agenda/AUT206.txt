@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Bollinger
+summary: tag_name :Amazon Elastic Compute Cloud (EC2), Services, Data Scientist, Role, Amazon Managed Workflows for Apache Airflow (MWAA), Services, Solution/Systems Architect, Role, Wynn, Venue, Thursday, Day, Developer/Engineer, Role, Automotive, Industry, Amazon Simple Storage Service (S3), Services, Storage, Topic, 200 - Intermediate, Level, Compute, Topic, , speakers :firstName_0: Karthik, lastName_0: Krishnan, firstName_1: Christian, lastName_1: Denich, firstName_2: Benjamin, lastName_2: Kraft, company_2: Mercedes-Benz, firstName_3: Jan-Philipp, lastName_3: Thewes, company_3: Mercedes-Benz, , thirdpartyid :AUT206, sessionuid :1E1D6E2E-0F59-4796-97AE-1BC576804958, title :Build a scalable simulation platform for AD/ADAS testing & validation, description :<p>In this session, learn how Mercedes-Benz created a digital testing platform on AWS to run millions of miles in simulation, maximizing the test coverage of AD/ADAS features. Explore how they used Amazon Managed Workflows for Apache Airflow (Amazon MWAA), Amazon EKS, and Amazon S3 to set up the platform; hear about the technical challenges they faced and the lessons they learned in the process; and consider the resulting benefits of the implemented solution.</p>, sessiontype :Breakout Session, venuename :Wynn, floorplanname :Upper Level, locationname :Bollinger, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Bollinger
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Breakout Session
+description: <p>In this session, learn how Mercedes-Benz created a digital testing platform on AWS to run millions of miles in simulation, maximizing the test coverage of AD/ADAS features. Explore how they used Amazon Managed Workflows for Apache Airflow (Amazon MWAA), Amazon EKS, and Amazon S3 to set up the platform; hear about the technical challenges they faced and the lessons they learned in the process; and consider the resulting benefits of the implemented solution.</p>
+title: Build a scalable simulation platform for AD/ADAS testing & validation
+sessionuid: 1E1D6E2E-0F59-4796-97AE-1BC576804958
+thirdpartyid: AUT206
+speakers: firstName_0: Karthik, lastName_0: Krishnan, firstName_1: Christian, lastName_1: Denich, firstName_2: Benjamin, lastName_2: Kraft, company_2: Mercedes-Benz, firstName_3: Jan-Philipp, lastName_3: Thewes, company_3: Mercedes-Benz
+tag_name: Amazon Elastic Compute Cloud (EC2), Services, Data Scientist, Role, Amazon Managed Workflows for Apache Airflow (MWAA), Services, Solution/Systems Architect, Role, Wynn, Venue, Thursday, Day, Developer/Engineer, Role, Automotive, Industry, Amazon Simple Storage Service (S3), Services, Storage, Topic, 200 - Intermediate, Level, Compute, Topic

@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Islander G
+summary: tag_name :Cloud Operations, Topic, Sustainability, Area of Interest, Cost Optimization, Area of Interest, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Cross Industry, Industry, Global Infrastructure, Area of Interest, Wednesday, Day, Mandalay Bay, Venue, DevOps Engineer, Role, Kubernetes, Topic, Amazon Elastic Kubernetes Service (EKS), Services, Developer/Engineer, Role, , speakers :firstName_0: Rajdeep, lastName_0: Saha, firstName_1: Ellis, lastName_1: Tarn, , thirdpartyid :CON331, sessionuid :99A2BCF9-DA08-46A6-97D1-6BC1AD619D32, title :Harness the power of Karpenter to scale, optimize & upgrade Kubernetes, description :Karpenter is an open source, flexible, high-performance Kubernetes cluster autoscaler built with AWS. It helps improve your application availability and cluster efficiency by rapidly launching right-sized compute resources in response to changing application load. In this session, learn how Karpenter works along with practical use cases of Karpenter. Learn how Karpenter can select diverse instance types, such as Spot or Graviton, and how Karpenter makes it easy to upgrade your nodes for day 2 operations. Also see how to optimize costs, implement scheduling constraints, and more., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Islander G, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 21:00:00 -0500, 
+enddatetimeutc: November, 29 2023 21:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Islander G
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Karpenter is an open source, flexible, high-performance Kubernetes cluster autoscaler built with AWS. It helps improve your application availability and cluster efficiency by rapidly launching right-sized compute resources in response to changing application load. In this session, learn how Karpenter works along with practical use cases of Karpenter. Learn how Karpenter can select diverse instance types, such as Spot or Graviton, and how Karpenter makes it easy to upgrade your nodes for day 2 operations. Also see how to optimize costs, implement scheduling constraints, and more
+title: Harness the power of Karpenter to scale, optimize & upgrade Kubernetes
+sessionuid: 99A2BCF9-DA08-46A6-97D1-6BC1AD619D32
+thirdpartyid: CON331
+speakers: firstName_0: Rajdeep, lastName_0: Saha, firstName_1: Ellis, lastName_1: Tarn
+tag_name: Cloud Operations, Topic, Sustainability, Area of Interest, Cost Optimization, Area of Interest, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Cross Industry, Industry, Global Infrastructure, Area of Interest, Wednesday, Day, Mandalay Bay, Venue, DevOps Engineer, Role, Kubernetes, Topic, Amazon Elastic Kubernetes Service (EKS), Services, Developer/Engineer, Role

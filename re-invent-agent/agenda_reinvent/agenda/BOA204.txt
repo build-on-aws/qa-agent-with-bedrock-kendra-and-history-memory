@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :Architecture, Topic, 200 - Intermediate, Level, Resilience, Area of Interest, Amazon Aurora, Services, Amazon DynamoDB, Services, Amazon S3 Glacier, Services, Tuesday, Day, Wynn, Venue, BuildOn.AWS, Area of Interest, , speakers :firstName_0: Gunnar, lastName_0: Grosch, firstName_1: Seth, lastName_1: Eliot, photo_1: new_photo_small_3_20231708125159.jpg, , thirdpartyid :BOA204-R, sessionuid :CCC9C90A-7CD6-426A-9A74-9CD3F7663223, title :Hands-on with multi-Region architectures [REPEAT], description :Multi-Region active/active architectures, when implemented properly, can offer the highest availability for your workloads. Multi-Region active/standby architectures give you a variety of options to meet your recovery time and recovery point objectives for business continuity. These options include AWS CloudFormation StackSets to deploy your infrastructure, cross-Region replication, and multi-Region access points with Amazon S3 to make your data available worldwide. In this chalk talk, see how to build a complete architecture using many of the tools and features that AWS offers. Artifacts are provided to help you experiment with these solutions. Ask your questions and learn how to implement a multi-Region strategy., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Multi-Region active/active architectures, when implemented properly, can offer the highest availability for your workloads. Multi-Region active/standby architectures give you a variety of options to meet your recovery time and recovery point objectives for business continuity. These options include AWS CloudFormation StackSets to deploy your infrastructure, cross-Region replication, and multi-Region access points with Amazon S3 to make your data available worldwide. In this chalk talk, see how to build a complete architecture using many of the tools and features that AWS offers. Artifacts are provided to help you experiment with these solutions. Ask your questions and learn how to implement a multi-Region strategy
+title: Hands-on with multi-Region architectures [REPEAT]
+sessionuid: CCC9C90A-7CD6-426A-9A74-9CD3F7663223
+thirdpartyid: BOA204-R
+speakers: firstName_0: Gunnar, lastName_0: Grosch, firstName_1: Seth, lastName_1: Eliot, photo_1: new_photo_small_3_20231708125159.jpg
+tag_name: Architecture, Topic, 200 - Intermediate, Level, Resilience, Area of Interest, Amazon Aurora, Services, Amazon DynamoDB, Services, Amazon S3 Glacier, Services, Tuesday, Day, Wynn, Venue, BuildOn.AWS, Area of Interest

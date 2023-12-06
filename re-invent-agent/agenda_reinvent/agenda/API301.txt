@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 228
+summary: tag_name :Tech Explorer, Role, 300 - Advanced, Level, Solution/Systems Architect, Role, AWS Lambda, Services, Application Integration, Area of Interest, Thursday, Day, Caesars Forum, Venue, Amazon Simple Notification Service (SNS), Services, Amazon EventBridge, Services, Developer/Engineer, Role, Serverless Compute, Topic, , speakers :firstName_0: Islam, lastName_0: Elhamaky, firstName_1: Katherine, lastName_1: Vishnevskaya, , thirdpartyid :API301-R, sessionuid :246A5DBC-5E33-4B03-9556-59A446293136, title :Building event-driven architectures [REPEAT], description :Many organizations choose to build event-driven application architectures in which subscribers or target services automatically perform in response to events triggered by publisher or source services. This pattern can help development teams operate more independently to release new features faster and make their applications more scalable. In this workshop, learn about the basics of event-driven design using examples involving Amazon SNS, Amazon SQS, AWS Lambda, Amazon EventBridge, and more. Find out how to choose the right AWS service for the job and how you can optimize cost and performance. You must bring your laptop to participate., sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 228, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 21:00:00 -0500, 
+enddatetimeutc: November, 30 2023 21:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Summit 228
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: Many organizations choose to build event-driven application architectures in which subscribers or target services automatically perform in response to events triggered by publisher or source services. This pattern can help development teams operate more independently to release new features faster and make their applications more scalable. In this workshop, learn about the basics of event-driven design using examples involving Amazon SNS, Amazon SQS, AWS Lambda, Amazon EventBridge, and more. Find out how to choose the right AWS service for the job and how you can optimize cost and performance. You must bring your laptop to participate
+title: Building event-driven architectures [REPEAT]
+sessionuid: 246A5DBC-5E33-4B03-9556-59A446293136
+thirdpartyid: API301-R
+speakers: firstName_0: Islam, lastName_0: Elhamaky, firstName_1: Katherine, lastName_1: Vishnevskaya
+tag_name: Tech Explorer, Role, 300 - Advanced, Level, Solution/Systems Architect, Role, AWS Lambda, Services, Application Integration, Area of Interest, Thursday, Day, Caesars Forum, Venue, Amazon Simple Notification Service (SNS), Services, Amazon EventBridge, Services, Developer/Engineer, Role, Serverless Compute, Topic

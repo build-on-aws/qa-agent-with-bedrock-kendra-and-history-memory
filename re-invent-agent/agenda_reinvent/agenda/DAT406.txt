@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 121
+summary: tag_name :400 - Expert, Level, Amazon Neptune, Services, Innovation on AWS, Area of Interest, Cross Industry, Industry, Monday, Day, Caesars Forum, Venue, Cost Optimization, Area of Interest, Generative AI, Area of Interest, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Databases, Topic, Solution/Systems Architect, Role, , speakers :, thirdpartyid :DAT406, sessionuid :22AB9C1D-2B47-4F13-93C8-FB18406BE55D, title :Amazon Neptune architectures for scale, availability, and insight, description :What if you could bring the connected data insights of your Amazon Neptune application to all your users—graph practitioners and non-technical users alike—while evolving your application to satisfy increasingly demanding availability, performance, and scaling requirements? In this session, review architectures that can help you operate and evolve your application while at the same time optimizing costs. Explore architectures for multi-Region availability, autoscaling, and near-zero-downtime migrations together with powerful integrations. Also learn about visualization and generative AI tooling that can make graph insights available to everyone., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 121, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 17:30:00 -0500, 
+enddatetimeutc: November, 27 2023 17:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: Forum 121
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: What if you could bring the connected data insights of your Amazon Neptune application to all your users—graph practitioners and non-technical users alike—while evolving your application to satisfy increasingly demanding availability, performance, and scaling requirements? In this session, review architectures that can help you operate and evolve your application while at the same time optimizing costs. Explore architectures for multi-Region availability, autoscaling, and near-zero-downtime migrations together with powerful integrations. Also learn about visualization and generative AI tooling that can make graph insights available to everyone
+title: Amazon Neptune architectures for scale, availability, and insight
+sessionuid: 22AB9C1D-2B47-4F13-93C8-FB18406BE55D
+thirdpartyid: DAT406
+speakers: 
+tag_name: 400 - Expert, Level, Amazon Neptune, Services, Innovation on AWS, Area of Interest, Cross Industry, Industry, Monday, Day, Caesars Forum, Venue, Cost Optimization, Area of Interest, Generative AI, Area of Interest, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Databases, Topic, Solution/Systems Architect, Role

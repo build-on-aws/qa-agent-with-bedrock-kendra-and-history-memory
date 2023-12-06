@@ -1,0 +1,14 @@
+location: Venetian, Level 2, re:Invent Registration Area
+summary: tag_name :Monday, Day, Venetian, Venue, , speakers :, thirdpartyid :ACT055, sessionuid :148FD881-0693-410E-BAB8-07559C290C56, title :Impact and Give Back, description :Stop by Impact and Give Back in The Venetian foyer to #GiveBack to AWS local nonprofits and Amazon disaster relief efforts., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :re:Invent Registration Area, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: re:Invent Registration Area
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Stop by Impact and Give Back in The Venetian foyer to #GiveBack to AWS local nonprofits and Amazon disaster relief efforts
+title: Impact and Give Back
+sessionuid: 148FD881-0693-410E-BAB8-07559C290C56
+thirdpartyid: ACT055
+speakers: 
+tag_name: Monday, Day, Venetian, Venue

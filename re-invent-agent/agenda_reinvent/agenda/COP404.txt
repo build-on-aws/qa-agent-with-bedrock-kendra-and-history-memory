@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Margaux 1
+summary: tag_name :400 - Expert, Level, Amazon CloudWatch, Services, Monitoring & Observability, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, DevOps Engineer, Role, Cloud Operations, Topic, Monday, Day, Wynn, Venue, AWS X-Ray, Services, , speakers :firstName_0: Jeremy, lastName_0: Silverman, firstName_1: Siddharth, lastName_1: Joshi, , thirdpartyid :COP404-R, sessionuid :77EA7F46-57BA-4326-9BCB-914930C47B6C, title :Coding for serverless observability [REPEAT], description :Monitoring serverless workloads presents unique challenges due to their highly ephemeral and distributed nature, and the potential to scale exponentially. In this code talk, learn best practices for collecting signals from your serverless applications and dive deep into techniques to effectively instrument your applications to provide you with optimal observability., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Margaux 1, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Margaux 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: Monitoring serverless workloads presents unique challenges due to their highly ephemeral and distributed nature, and the potential to scale exponentially. In this code talk, learn best practices for collecting signals from your serverless applications and dive deep into techniques to effectively instrument your applications to provide you with optimal observability
+title: Coding for serverless observability [REPEAT]
+sessionuid: 77EA7F46-57BA-4326-9BCB-914930C47B6C
+thirdpartyid: COP404-R
+speakers: firstName_0: Jeremy, lastName_0: Silverman, firstName_1: Siddharth, lastName_1: Joshi
+tag_name: 400 - Expert, Level, Amazon CloudWatch, Services, Monitoring & Observability, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, DevOps Engineer, Role, Cloud Operations, Topic, Monday, Day, Wynn, Venue, AWS X-Ray, Services

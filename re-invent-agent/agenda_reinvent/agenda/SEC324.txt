@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 304
+summary: tag_name :Management & Governance, Area of Interest, Developer/Engineer, Role, IT Administrator, Role, AWS Security Hub, Services, AWS Identity and Access Management (IAM), Services, Security, Compliance, & Identity, Topic, Tuesday, Day, MGM Grand, Venue, IT Professional/Technical Manager, Role, AWS CloudTrail, Services, Cross Industry, Industry, 300 - Advanced, Level, , speakers :firstName_0: Remek, lastName_0: Hetman, firstName_1: Ilya, lastName_1: Epshteyn, , thirdpartyid :SEC324, sessionuid :5185F730-22ED-4A4C-AF6B-800462B936D2, title :Operate a data perimeter within a multi-account AWS environment, description :In this chalk talk, review key considerations for operationalizing data perimeter controls within a multi-account environment. The AWS Identity Solutions team shares lessons learned based on their experiences in operating these controls within a large customer-like environment. The talk covers identity, resource, and network perimeter policy management at scale and discusses exception handling. Also hear techniques for preventive and detective controls and mechanisms to effectively manage a data-perimeter-enabled environment, including integrations with services such as AWS CloudTrail Lake and AWS Security Hub., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :304, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: 304
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: In this chalk talk, review key considerations for operationalizing data perimeter controls within a multi-account environment. The AWS Identity Solutions team shares lessons learned based on their experiences in operating these controls within a large customer-like environment. The talk covers identity, resource, and network perimeter policy management at scale and discusses exception handling. Also hear techniques for preventive and detective controls and mechanisms to effectively manage a data-perimeter-enabled environment, including integrations with services such as AWS CloudTrail Lake and AWS Security Hub
+title: Operate a data perimeter within a multi-account AWS environment
+sessionuid: 5185F730-22ED-4A4C-AF6B-800462B936D2
+thirdpartyid: SEC324
+speakers: firstName_0: Remek, lastName_0: Hetman, firstName_1: Ilya, lastName_1: Epshteyn
+tag_name: Management & Governance, Area of Interest, Developer/Engineer, Role, IT Administrator, Role, AWS Security Hub, Services, AWS Identity and Access Management (IAM), Services, Security, Compliance, & Identity, Topic, Tuesday, Day, MGM Grand, Venue, IT Professional/Technical Manager, Role, AWS CloudTrail, Services, Cross Industry, Industry, 300 - Advanced, Level

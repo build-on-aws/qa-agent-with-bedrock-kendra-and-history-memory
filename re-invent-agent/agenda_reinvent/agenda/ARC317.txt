@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 355
+summary: tag_name :Architecture, Topic, Cross Industry, Industry, AWS Fault Injector Service (FIS), Services, Solution/Systems Architect, Role, Developer/Engineer, Role, Resilience, Area of Interest, Thursday, Day, MGM Grand, Venue, DevOps Engineer, Role, Cloud Operations, Topic, 300 - Advanced, Level, , speakers :firstName_0: Adrian, lastName_0: Hornsby, firstName_1: Iris, lastName_1: Sheu, , thirdpartyid :ARC317, sessionuid :71B8E4CB-BBD0-4ACE-9C12-95F9838BDEFF, title :Improve application resilience with AWS Fault Injection Simulator, description :<p>AWS provides isolation boundaries, including Availability Zones and AWS Regions, which can be used to meet high availability and continuity of operations requirements. To verify that your application behaves as expected, it’s critical to test its response to impairments. This session covers the basics of how to use isolation boundaries to build resilient applications, dives deep into using AWS Fault Injection Simulator (AWS FIS) to test for hidden issues, and provides best practices around continuous resilience to help you prevent regression and maintain application availability.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 355, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Chairmans 355
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>AWS provides isolation boundaries, including Availability Zones and AWS Regions, which can be used to meet high availability and continuity of operations requirements. To verify that your application behaves as expected, it’s critical to test its response to impairments. This session covers the basics of how to use isolation boundaries to build resilient applications, dives deep into using AWS Fault Injection Simulator (AWS FIS) to test for hidden issues, and provides best practices around continuous resilience to help you prevent regression and maintain application availability.</p>
+title: Improve application resilience with AWS Fault Injection Simulator
+sessionuid: 71B8E4CB-BBD0-4ACE-9C12-95F9838BDEFF
+thirdpartyid: ARC317
+speakers: firstName_0: Adrian, lastName_0: Hornsby, firstName_1: Iris, lastName_1: Sheu
+tag_name: Architecture, Topic, Cross Industry, Industry, AWS Fault Injector Service (FIS), Services, Solution/Systems Architect, Role, Developer/Engineer, Role, Resilience, Area of Interest, Thursday, Day, MGM Grand, Venue, DevOps Engineer, Role, Cloud Operations, Topic, 300 - Advanced, Level

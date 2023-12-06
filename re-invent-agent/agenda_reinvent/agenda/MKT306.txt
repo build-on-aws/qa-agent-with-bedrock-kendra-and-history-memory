@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :New to AWS, Topic, Small and Midsize Business (SMB), Area of Interest, Solution/Systems Architect, Role, Cross Industry, Industry, Developer/Engineer, Role, Startup, Area of Interest, Customer Enablement, Topic, Tuesday, Day, Mandalay Bay, Venue, AWS Marketplace, Services, IT Professional/Technical Manager, Role, 300 - Advanced, Level, AWS Marketplace, Area of Interest, , speakers :firstName_0: Emily, lastName_0: Garrett, firstName_1: Malini, lastName_1: Chatterjee, , thirdpartyid :MKT306, sessionuid :438AD10B-3059-4BF8-95BB-9250D445BA34, title :Solutions on demand: AWS Marketplace Professional Services & AWS IQ, description :AWS has over 160 offerings to meet builders’ needs and thousands of global partners ready to help. In this chalk talk, learn how to find the help you need, when you need it. See how you can connect with available AWS Partners through the AWS IQ application, explore features to streamline engagements, and procure these services. Whether you need support from ISVs; help with migration or setting up a contact center or new website; or a few hours of bandwidth, you can find it in AWS Marketplace. Bring project ideas or challenges you want to start working on., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: AWS has over 160 offerings to meet builders’ needs and thousands of global partners ready to help. In this chalk talk, learn how to find the help you need, when you need it. See how you can connect with available AWS Partners through the AWS IQ application, explore features to streamline engagements, and procure these services. Whether you need support from ISVs; help with migration or setting up a contact center or new website; or a few hours of bandwidth, you can find it in AWS Marketplace. Bring project ideas or challenges you want to start working on
+title: Solutions on demand: AWS Marketplace Professional Services & AWS IQ
+sessionuid: 438AD10B-3059-4BF8-95BB-9250D445BA34
+thirdpartyid: MKT306
+speakers: firstName_0: Emily, lastName_0: Garrett, firstName_1: Malini, lastName_1: Chatterjee
+tag_name: New to AWS, Topic, Small and Midsize Business (SMB), Area of Interest, Solution/Systems Architect, Role, Cross Industry, Industry, Developer/Engineer, Role, Startup, Area of Interest, Customer Enablement, Topic, Tuesday, Day, Mandalay Bay, Venue, AWS Marketplace, Services, IT Professional/Technical Manager, Role, 300 - Advanced, Level, AWS Marketplace, Area of Interest

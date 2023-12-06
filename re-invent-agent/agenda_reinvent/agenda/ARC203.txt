@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 307
+summary: tag_name :Solution/Systems Architect, Role, Architecture, Topic, Cross Industry, Industry, AWS Security Hub, Services, 200 - Intermediate, Level, Tuesday, Day, Caesars Forum, Venue, Innovation on AWS, Area of Interest, Developer/Engineer, Role, Amazon Elastic Compute Cloud (EC2), Services, Amazon Kinesis, Services, DevOps Engineer, Role, , speakers :firstName_0: Priyank, lastName_0: Devenraj, firstName_1: Todd, lastName_1: Fortier, , thirdpartyid :ARC203, sessionuid :CC3C8EBC-578C-461A-A4A6-351AACEBE1D7, title :Solve everyday challenges faster with AWS Solutions Library, description :The AWS Solutions Library hosts over 1,200 vetted AWS Solutions to help your organization solve everyday challenges faster. AWS Solutions are ready-to-deploy solutions assembling AWS services, code, and configurations that are ready to launch directly into your AWS account. This workshop demonstrates how your organization can respond to security events, save money, and derive insights faster and with less effort by deploying up to four AWS Solutions: Instance Scheduler on AWS, AWS Streaming Data Solution for Amazon Kinesis, Automated Security Response on AWS, and Automated Data Analytics (ADA) on AWS. You must bring your laptop to participate., sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 307, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 29 2023 00:00:00 -0500, 
+enddatetimeutc: November, 29 2023 00:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Alliance 307
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: The AWS Solutions Library hosts over 1,200 vetted AWS Solutions to help your organization solve everyday challenges faster. AWS Solutions are ready-to-deploy solutions assembling AWS services, code, and configurations that are ready to launch directly into your AWS account. This workshop demonstrates how your organization can respond to security events, save money, and derive insights faster and with less effort by deploying up to four AWS Solutions: Instance Scheduler on AWS, AWS Streaming Data Solution for Amazon Kinesis, Automated Security Response on AWS, and Automated Data Analytics (ADA) on AWS. You must bring your laptop to participate
+title: Solve everyday challenges faster with AWS Solutions Library
+sessionuid: CC3C8EBC-578C-461A-A4A6-351AACEBE1D7
+thirdpartyid: ARC203
+speakers: firstName_0: Priyank, lastName_0: Devenraj, firstName_1: Todd, lastName_1: Fortier
+tag_name: Solution/Systems Architect, Role, Architecture, Topic, Cross Industry, Industry, AWS Security Hub, Services, 200 - Intermediate, Level, Tuesday, Day, Caesars Forum, Venue, Innovation on AWS, Area of Interest, Developer/Engineer, Role, Amazon Elastic Compute Cloud (EC2), Services, Amazon Kinesis, Services, DevOps Engineer, Role

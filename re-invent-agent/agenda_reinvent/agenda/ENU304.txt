@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 108
+summary: tag_name :AI/ML, Topic, Solution/Systems Architect, Role, 300 - Advanced, Level, Data Engineer, Role, Tuesday, Day, Caesars Forum, Venue, Analytics, Topic, Energy, Industry, Data Scientist, Role, , speakers :firstName_0: Amruta, lastName_0: Karnik, firstName_1: Ted, lastName_1: Heuer, company_1: bp, , thirdpartyid :ENU304, sessionuid :2E0E8F1C-2923-47AC-BA37-32D4261A1F46, title :Drive ML strategies with data extracted from chat messages, description :Critical data is often buried in chat messages, and the challenge is extracting this data so it can help drive business decisions. In this chalk talk, explore challenges, solutions, and architectures to analyze chat messages using natural language processing (NLP) and machine learning (ML) models for information classification. Also learn how BP drives accurate end-of-day marks by analyzing trader and broker chat messages. The solution accepts real-time chat data, filters out price quotes from personal messages using NLP, classifies the quotes using ML, and stores them in a datastore that is used by ML engineers to develop end of-day-strategies., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 108, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Forum 108
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Critical data is often buried in chat messages, and the challenge is extracting this data so it can help drive business decisions. In this chalk talk, explore challenges, solutions, and architectures to analyze chat messages using natural language processing (NLP) and machine learning (ML) models for information classification. Also learn how BP drives accurate end-of-day marks by analyzing trader and broker chat messages. The solution accepts real-time chat data, filters out price quotes from personal messages using NLP, classifies the quotes using ML, and stores them in a datastore that is used by ML engineers to develop end of-day-strategies
+title: Drive ML strategies with data extracted from chat messages
+sessionuid: 2E0E8F1C-2923-47AC-BA37-32D4261A1F46
+thirdpartyid: ENU304
+speakers: firstName_0: Amruta, lastName_0: Karnik, firstName_1: Ted, lastName_1: Heuer, company_1: bp
+tag_name: AI/ML, Topic, Solution/Systems Architect, Role, 300 - Advanced, Level, Data Engineer, Role, Tuesday, Day, Caesars Forum, Venue, Analytics, Topic, Energy, Industry, Data Scientist, Role

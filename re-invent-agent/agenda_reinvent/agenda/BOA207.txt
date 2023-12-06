@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 121
+summary: tag_name :BuildOn.AWS, Area of Interest, Cloud Operations, Topic, 200 - Intermediate, Level, Amazon VPC Lattice, Services, Monday, Day, Caesars Forum, Venue, , speakers :firstName_0: Du'An, lastName_0: Lightfoot, , thirdpartyid :BOA207, sessionuid :62EFFE75-DF12-4529-922B-A54137D52F8B, title :This site can’t be reached: A developer’s guide to cloud networking, description :The process of working with infrastructure in the cloud can be filled with concepts that developers aren’t familiar with. In this breakout session, explore the fundamentals of AWS networking. First, review the basics of designing and building VPCs, including selecting your IP space, subnetting, routing, security, and more. Then, explore different approaches and scenarios for connecting your workloads in a single VPC to other AWS services, other VPCs, and to your on-premises resources. This entry-level discussion is for developers, architects, network administrators, and technology decision-makers interested in understanding the available building blocks., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 121, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 27 2023 22:00:00 -0500, 
+enddatetimeutc: November, 27 2023 22:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: Forum 121
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: The process of working with infrastructure in the cloud can be filled with concepts that developers aren’t familiar with. In this breakout session, explore the fundamentals of AWS networking. First, review the basics of designing and building VPCs, including selecting your IP space, subnetting, routing, security, and more. Then, explore different approaches and scenarios for connecting your workloads in a single VPC to other AWS services, other VPCs, and to your on-premises resources. This entry-level discussion is for developers, architects, network administrators, and technology decision-makers interested in understanding the available building blocks
+title: This site can’t be reached: A developer’s guide to cloud networking
+sessionuid: 62EFFE75-DF12-4529-922B-A54137D52F8B
+thirdpartyid: BOA207
+speakers: firstName_0: Du'An, lastName_0: Lightfoot
+tag_name: BuildOn.AWS, Area of Interest, Cloud Operations, Topic, 200 - Intermediate, Level, Amazon VPC Lattice, Services, Monday, Day, Caesars Forum, Venue

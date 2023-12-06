@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 121
+summary: tag_name :Amazon Elastic MapReduce (EMR), Services, 300 - Advanced, Level, Analytics, Topic, Architecture, Topic, Amazon Managed Streaming for Apache Kafka (MSK), Services, IT Professional/Technical Manager, Role, Wednesday, Day, Caesars Forum, Venue, Developer/Engineer, Role, Cost Optimization, Area of Interest, Innovation on AWS, Area of Interest, Amazon RedShift, Services, IT Executive, Role, , speakers :firstName_0: Sandipan, lastName_0: Bhaumik, firstName_1: Vincent, lastName_1: Gromakowski, , thirdpartyid :ANT318, sessionuid :FFD367CF-B58E-4679-8AEC-84D385E76F56, title :Accelerate innovation with end-to-end serverless data architecture, description :In today’s fast-evolving landscape, data professionals are challenged to build solutions that can quickly scale, deliver cost-effective results, and support the needs of a variety of data users. Learn how AWS makes it faster and easier to carry out a modern data strategy without having to manage infrastructure across databases, analytics, and AI/ML. In this session, see how serverless AWS services make it easier to quickly build event-driven data pipelines and microservice architectures that can help you innovate at hyperscale., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 121, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 02:30:00 -0500, 
+enddatetimeutc: November, 30 2023 02:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Forum 121
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: In today’s fast-evolving landscape, data professionals are challenged to build solutions that can quickly scale, deliver cost-effective results, and support the needs of a variety of data users. Learn how AWS makes it faster and easier to carry out a modern data strategy without having to manage infrastructure across databases, analytics, and AI/ML. In this session, see how serverless AWS services make it easier to quickly build event-driven data pipelines and microservice architectures that can help you innovate at hyperscale
+title: Accelerate innovation with end-to-end serverless data architecture
+sessionuid: FFD367CF-B58E-4679-8AEC-84D385E76F56
+thirdpartyid: ANT318
+speakers: firstName_0: Sandipan, lastName_0: Bhaumik, firstName_1: Vincent, lastName_1: Gromakowski
+tag_name: Amazon Elastic MapReduce (EMR), Services, 300 - Advanced, Level, Analytics, Topic, Architecture, Topic, Amazon Managed Streaming for Apache Kafka (MSK), Services, IT Professional/Technical Manager, Role, Wednesday, Day, Caesars Forum, Venue, Developer/Engineer, Role, Cost Optimization, Area of Interest, Innovation on AWS, Area of Interest, Amazon RedShift, Services, IT Executive, Role

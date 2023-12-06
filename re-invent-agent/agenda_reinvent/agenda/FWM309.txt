@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 167
+summary: tag_name :DevOps and Developer Productivity, Topic, 300 - Advanced, Level, Front-End Web & Mobile, Area of Interest, DevOps Engineer, Role, AWS Amplify, Services, Wednesday, Day, MGM Grand, Venue, Developer/Engineer, Role, , speakers :firstName_0: Harshita, lastName_0: Daddala, firstName_1: Stephen, lastName_1: Siegert, , thirdpartyid :FWM309, sessionuid :25AEBA24-F72C-4A25-BB1C-734F7530EBB9, title :Dive deeper into web app development and hosting with AWS Amplify, description :Today’s web application developers must deliver on a complex list of requirements for app performance, reliability, security, and scale—and do it quickly. AWS Amplify Hosting is a fully managed CI/CD and hosting service for fast, secure, and reliable static and server-side rendered apps that scale with your business. Amplify Hosting supports popular web frameworks like Next.js and integrates seamlessly with your existing tools and processes to deliver complete, feature-rich web experiences that delight users. Join this chalk talk for a discussion on modern web development best practices and ways to help your organization innovate faster., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 167, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Boulevard 167
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Today’s web application developers must deliver on a complex list of requirements for app performance, reliability, security, and scale—and do it quickly. AWS Amplify Hosting is a fully managed CI/CD and hosting service for fast, secure, and reliable static and server-side rendered apps that scale with your business. Amplify Hosting supports popular web frameworks like Next.js and integrates seamlessly with your existing tools and processes to deliver complete, feature-rich web experiences that delight users. Join this chalk talk for a discussion on modern web development best practices and ways to help your organization innovate faster
+title: Dive deeper into web app development and hosting with AWS Amplify
+sessionuid: 25AEBA24-F72C-4A25-BB1C-734F7530EBB9
+thirdpartyid: FWM309
+speakers: firstName_0: Harshita, lastName_0: Daddala, firstName_1: Stephen, lastName_1: Siegert
+tag_name: DevOps and Developer Productivity, Topic, 300 - Advanced, Level, Front-End Web & Mobile, Area of Interest, DevOps Engineer, Role, AWS Amplify, Services, Wednesday, Day, MGM Grand, Venue, Developer/Engineer, Role

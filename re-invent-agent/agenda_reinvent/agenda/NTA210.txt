@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :New to AWS, Topic, 200 - Intermediate, Level, Developer/Engineer, Role, DevOps Engineer, Role, IT Professional/Technical Manager, Role, Amazon Cognito, Services, AWS Amplify, Services, Wednesday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Amey, lastName_0: Bhavsar, firstName_1: Sailesh, lastName_1: Kadam, , thirdpartyid :NTA210, sessionuid :1850AAC6-027C-42CB-A519-DBD94F4990A3, title :Modernize your applications with microfrontends using AWS Amplify, description :<p>In this chalk talk, learn about the benefits of microfrontend architecture compared to monolith frontend architectures. Explore best practices for creating microfrontends using AWS Amplify to gain team autonomy, better performance, and decoupled development and deployment.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 30 2023 02:00:00 -0500, enddatetimeutc :November, 30 2023 03:00:00 -0500, 
+enddatetimeutc: November, 30 2023 03:00:00 -0500
+startdatetimeutc: November, 30 2023 02:00:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>In this chalk talk, learn about the benefits of microfrontend architecture compared to monolith frontend architectures. Explore best practices for creating microfrontends using AWS Amplify to gain team autonomy, better performance, and decoupled development and deployment.</p>
+title: Modernize your applications with microfrontends using AWS Amplify
+sessionuid: 1850AAC6-027C-42CB-A519-DBD94F4990A3
+thirdpartyid: NTA210
+speakers: firstName_0: Amey, lastName_0: Bhavsar, firstName_1: Sailesh, lastName_1: Kadam
+tag_name: New to AWS, Topic, 200 - Intermediate, Level, Developer/Engineer, Role, DevOps Engineer, Role, IT Professional/Technical Manager, Role, Amazon Cognito, Services, AWS Amplify, Services, Wednesday, Day, Mandalay Bay, Venue

@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Wednesday, Day, Venetian, Venue, AI/ML, Topic, DevOps and Developer Productivity, Topic, Application Security, Area of Interest, 200 - Intermediate, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, DevOps Engineer, Role, , speakers :firstName_0: Eric, lastName_0: Kim, company_0: Veracode, , thirdpartyid :AIM239-S, sessionuid :FDEAFCBC-B7B7-47B0-AD5C-8967D374F89C, title :Intelligence in AppSec: Use AI to supercharge DevSecOps (sponsored by Veracode), description :<p>AI and ML is everywhere. What does it mean for an AppSec program? Join Veracode in this lightning talk to discover how to use responsible AI and traditional developer enablement to enhance your AppSec program, reduce tech debt, and keep up with the speed of modern software development. This presentation is brought to you by Veracode, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 19:50:00 -0500, 
+enddatetimeutc: November, 29 2023 19:50:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>AI and ML is everywhere. What does it mean for an AppSec program? Join Veracode in this lightning talk to discover how to use responsible AI and traditional developer enablement to enhance your AppSec program, reduce tech debt, and keep up with the speed of modern software development. This presentation is brought to you by Veracode, an AWS Partner.</p>
+title: Intelligence in AppSec: Use AI to supercharge DevSecOps (sponsored by Veracode)
+sessionuid: FDEAFCBC-B7B7-47B0-AD5C-8967D374F89C
+thirdpartyid: AIM239-S
+speakers: firstName_0: Eric, lastName_0: Kim, company_0: Veracode
+tag_name: Wednesday, Day, Venetian, Venue, AI/ML, Topic, DevOps and Developer Productivity, Topic, Application Security, Area of Interest, 200 - Intermediate, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, DevOps Engineer, Role

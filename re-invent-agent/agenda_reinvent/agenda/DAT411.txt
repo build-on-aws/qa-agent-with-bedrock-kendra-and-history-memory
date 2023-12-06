@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Margaux 1
+summary: tag_name :IT Professional/Technical Manager, Role, Cross Industry, Industry, AWS Database Migration Service (DMS), Services, Developer/Engineer, Role, 400 - Expert, Level, Solution/Systems Architect, Role, Tuesday, Day, Wynn, Venue, Databases, Topic, Microsoft, Area of Interest, Migration & Transfer, Area of Interest, Amazon Aurora, Services, , speakers :firstName_0: Ramya, lastName_0: Kaushik, , thirdpartyid :DAT411, sessionuid :C67BFD4F-59E8-4F9A-A7A9-B69B04149521, title :Migrate your SQL Server database to Amazon Aurora using YAML files, description :In the dynamic tech landscape, migrating databases to the cloud is vital for scalability, flexibility, and cost efficiency. In this code talk, watch live coding that builds a YAML file to enable automation of database migrations. Explore how to deploy and run this script through AWS CloudFormation to initiate a SQL Server to Amazon Aurora PostgreSQL-Compatible Edition migration using Database Migration Service (AWS DMS). Take a deep dive into troubleshooting and adapting the application code using DMS Schema Conversion and Visual Studio Code to seamlessly support the new database. Lastly, learn how to make necessary code adjustments to facilitate migration to Amazon Aurora MySQL-Compatible Edition., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Margaux 1, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: Margaux 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: In the dynamic tech landscape, migrating databases to the cloud is vital for scalability, flexibility, and cost efficiency. In this code talk, watch live coding that builds a YAML file to enable automation of database migrations. Explore how to deploy and run this script through AWS CloudFormation to initiate a SQL Server to Amazon Aurora PostgreSQL-Compatible Edition migration using Database Migration Service (AWS DMS). Take a deep dive into troubleshooting and adapting the application code using DMS Schema Conversion and Visual Studio Code to seamlessly support the new database. Lastly, learn how to make necessary code adjustments to facilitate migration to Amazon Aurora MySQL-Compatible Edition
+title: Migrate your SQL Server database to Amazon Aurora using YAML files
+sessionuid: C67BFD4F-59E8-4F9A-A7A9-B69B04149521
+thirdpartyid: DAT411
+speakers: firstName_0: Ramya, lastName_0: Kaushik
+tag_name: IT Professional/Technical Manager, Role, Cross Industry, Industry, AWS Database Migration Service (DMS), Services, Developer/Engineer, Role, 400 - Expert, Level, Solution/Systems Architect, Role, Tuesday, Day, Wynn, Venue, Databases, Topic, Microsoft, Area of Interest, Migration & Transfer, Area of Interest, Amazon Aurora, Services

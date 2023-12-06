@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 221
+summary: tag_name :Solution/Systems Architect, Role, Amazon Bedrock, Services, Amazon HealthLake, Services, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Tuesday, Day, Caesars Forum, Venue, Amazon SageMaker, Services, 300 - Advanced, Level, AI/ML, Topic, Healthcare, Industry, , speakers :firstName_0: Matthew, lastName_0: Howard, , thirdpartyid :HLC301-R, sessionuid :50D86EB1-0E78-4FBB-B649-C5E637B7214D, title :Generative AI and foundation models in healthcare [REPEAT], description :Discover how foundation models (FMs) and generative AI can be applied across a variety of healthcare use cases, spanning automation, insight generation, and patient engagement. In this chalk talk, learn how to deploy FM architectures safely and securely using real-world examples from AWS, including multi-modal FM development across genomics and pathology., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 221, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Summit 221
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Discover how foundation models (FMs) and generative AI can be applied across a variety of healthcare use cases, spanning automation, insight generation, and patient engagement. In this chalk talk, learn how to deploy FM architectures safely and securely using real-world examples from AWS, including multi-modal FM development across genomics and pathology
+title: Generative AI and foundation models in healthcare [REPEAT]
+sessionuid: 50D86EB1-0E78-4FBB-B649-C5E637B7214D
+thirdpartyid: HLC301-R
+speakers: firstName_0: Matthew, lastName_0: Howard
+tag_name: Solution/Systems Architect, Role, Amazon Bedrock, Services, Amazon HealthLake, Services, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Tuesday, Day, Caesars Forum, Venue, Amazon SageMaker, Services, 300 - Advanced, Level, AI/ML, Topic, Healthcare, Industry

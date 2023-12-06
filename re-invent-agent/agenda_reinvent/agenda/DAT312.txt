@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 123
+summary: tag_name :Solution/Systems Architect, Role, Serverless Compute, Topic, Cost Optimization, Area of Interest, 300 - Advanced, Level, Amazon DynamoDB, Services, Developer/Engineer, Role, Cross Industry, Industry, IT Professional/Technical Manager, Role, Databases, Topic, Monday, Day, Caesars Forum, Venue, Media & Entertainment, Industry, Retail, Industry, , speakers :firstName_0: Udi, lastName_0: Hershkovich, firstName_1: Jason, lastName_1: Hunter, , thirdpartyid :DAT312-R, sessionuid :9B12D961-F941-4957-A5FC-309C079C6E72, title :Cost optimization for Amazon DynamoDB [REPEAT], description :Developers love building on powerful, serverless Amazon DynamoDB, and as their production tables grow in size and traffic, they want to discover what mechanisms and optimizations can be applied to reduce costs. Cost optimization can be done both in the design phase and during operations. In this chalk talk, learn how to model and measure costs, and discover cost optimization tools that can help you along the way., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 123, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Forum 123
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Developers love building on powerful, serverless Amazon DynamoDB, and as their production tables grow in size and traffic, they want to discover what mechanisms and optimizations can be applied to reduce costs. Cost optimization can be done both in the design phase and during operations. In this chalk talk, learn how to model and measure costs, and discover cost optimization tools that can help you along the way
+title: Cost optimization for Amazon DynamoDB [REPEAT]
+sessionuid: 9B12D961-F941-4957-A5FC-309C079C6E72
+thirdpartyid: DAT312-R
+speakers: firstName_0: Udi, lastName_0: Hershkovich, firstName_1: Jason, lastName_1: Hunter
+tag_name: Solution/Systems Architect, Role, Serverless Compute, Topic, Cost Optimization, Area of Interest, 300 - Advanced, Level, Amazon DynamoDB, Services, Developer/Engineer, Role, Cross Industry, Industry, IT Professional/Technical Manager, Role, Databases, Topic, Monday, Day, Caesars Forum, Venue, Media & Entertainment, Industry, Retail, Industry

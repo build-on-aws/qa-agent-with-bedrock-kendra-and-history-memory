@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 221
+summary: tag_name :Monday, Day, DevOps and Developer Productivity, Topic, Front-End Web & Mobile, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, 300 - Advanced, Level, Caesars Forum, Venue, , speakers :firstName_0: James, lastName_0: Saryerwinnie, firstName_1: Kyle, lastName_1: Thomson, , thirdpartyid :DOP324, sessionuid :5FA594CE-49A8-4F51-B47A-DE0435F67BE1, title :Accelerating application development with AWS client-side tools, description :<p>Did you know AWS has more than just services? There are dozens of AWS client-side tools and libraries designed to make developing quality applications easier. In this chalk talk, explore some of the tools available in your development workspace. Learn more about command line tooling (AWS CLI), libraries (AWS SDK), IDE integrations, and application frameworks that can accelerate your AWS application development. The audience helps set the agenda so there’s sure to be something for every builder.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 221, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Summit 221
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Did you know AWS has more than just services? There are dozens of AWS client-side tools and libraries designed to make developing quality applications easier. In this chalk talk, explore some of the tools available in your development workspace. Learn more about command line tooling (AWS CLI), libraries (AWS SDK), IDE integrations, and application frameworks that can accelerate your AWS application development. The audience helps set the agenda so there’s sure to be something for every builder.</p>
+title: Accelerating application development with AWS client-side tools
+sessionuid: 5FA594CE-49A8-4F51-B47A-DE0435F67BE1
+thirdpartyid: DOP324
+speakers: firstName_0: James, lastName_0: Saryerwinnie, firstName_1: Kyle, lastName_1: Thomson
+tag_name: Monday, Day, DevOps and Developer Productivity, Topic, Front-End Web & Mobile, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, 300 - Advanced, Level, Caesars Forum, Venue

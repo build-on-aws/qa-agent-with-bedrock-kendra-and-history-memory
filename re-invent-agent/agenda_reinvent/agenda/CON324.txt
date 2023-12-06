@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 7
+summary: tag_name :Serverless Compute, Topic, Data Protection, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon GuardDuty, Services, Amazon Elastic Container Registry (ECR), Services, AWS Fargate, Services, Wednesday, Day, Wynn, Venue, , speakers :firstName_0: Abhinav, lastName_0: Krishna Vadlapatla, firstName_1: Arindam, lastName_1: Chatterji, firstName_2: Dipen, lastName_2: Nepal, firstName_3: Priyanka, lastName_3: Sadhu, firstName_4: Wei, lastName_4: Chen, , thirdpartyid :CON324-R, sessionuid :5EC3F1BC-0913-4A7D-AD35-416EDA41D612, title :Architecting Amazon ECS workloads for data protection & compliance [REPEAT], description :<p>Many organizations running containerized workloads need to ensure they are meeting stringent data protection and compliance requirements, including those pertaining to the HIPAA Privacy and Security Rules for securing protected health information (PHI) data. This builders’ session focuses on how you can use Amazon ECS and other AWS services to run container applications containing PHI. Learn best practices with Amazon ECS, Amazon ECR, AWS Fargate, Amazon GuardDuty, and more.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Latour 7, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 01:30:00 -0500, 
+enddatetimeutc: November, 30 2023 01:30:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: Latour 7
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Many organizations running containerized workloads need to ensure they are meeting stringent data protection and compliance requirements, including those pertaining to the HIPAA Privacy and Security Rules for securing protected health information (PHI) data. This builders’ session focuses on how you can use Amazon ECS and other AWS services to run container applications containing PHI. Learn best practices with Amazon ECS, Amazon ECR, AWS Fargate, Amazon GuardDuty, and more.</p>
+title: Architecting Amazon ECS workloads for data protection & compliance [REPEAT]
+sessionuid: 5EC3F1BC-0913-4A7D-AD35-416EDA41D612
+thirdpartyid: CON324-R
+speakers: firstName_0: Abhinav, lastName_0: Krishna Vadlapatla, firstName_1: Arindam, lastName_1: Chatterji, firstName_2: Dipen, lastName_2: Nepal, firstName_3: Priyanka, lastName_3: Sadhu, firstName_4: Wei, lastName_4: Chen
+tag_name: Serverless Compute, Topic, Data Protection, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon GuardDuty, Services, Amazon Elastic Container Registry (ECR), Services, AWS Fargate, Services, Wednesday, Day, Wynn, Venue

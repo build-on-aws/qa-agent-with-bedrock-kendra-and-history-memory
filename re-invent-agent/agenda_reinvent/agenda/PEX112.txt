@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :IT Executive, Role, Small and Midsize Business (SMB), Area of Interest, Partner Enablement, Topic, Sales/Marketing, Role, Strategy & Transformation, Area of Interest, Wednesday, Day, Venetian, Venue, 100 - Foundational, Level, Business Executive, Role, , speakers :firstName_0: Kristine, lastName_0: Henley, , thirdpartyid :PEX112, sessionuid :6F012DB8-7512-4BCF-A6F0-ECD3E601B707, title :Accelerate your AWS growth with small and medium business customers, description :Learn more about engaging and growing small and medium business (SMB) customers with AWS. SMBs are the backbone of the global economy; they represent more than 98% of all businesses, employ 67% of workers, and generate 45% of global GDP. IDC expects the global SMB cloud addressable spend to reach $142.6B across 235M potential customers. Join this lightning talk to learn the latest market trends and AWS best practices for scaling profitably to reach SMB customers. This lightning talk is intended for AWS Partners., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :November, 29 2023 22:00:00 -0500, enddatetimeutc :November, 29 2023 22:20:00 -0500, 
+enddatetimeutc: November, 29 2023 22:20:00 -0500
+startdatetimeutc: November, 29 2023 22:00:00 -0500
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Learn more about engaging and growing small and medium business (SMB) customers with AWS. SMBs are the backbone of the global economy; they represent more than 98% of all businesses, employ 67% of workers, and generate 45% of global GDP. IDC expects the global SMB cloud addressable spend to reach $142.6B across 235M potential customers. Join this lightning talk to learn the latest market trends and AWS best practices for scaling profitably to reach SMB customers. This lightning talk is intended for AWS Partners
+title: Accelerate your AWS growth with small and medium business customers
+sessionuid: 6F012DB8-7512-4BCF-A6F0-ECD3E601B707
+thirdpartyid: PEX112
+speakers: firstName_0: Kristine, lastName_0: Henley
+tag_name: IT Executive, Role, Small and Midsize Business (SMB), Area of Interest, Partner Enablement, Topic, Sales/Marketing, Role, Strategy & Transformation, Area of Interest, Wednesday, Day, Venetian, Venue, 100 - Foundational, Level, Business Executive, Role

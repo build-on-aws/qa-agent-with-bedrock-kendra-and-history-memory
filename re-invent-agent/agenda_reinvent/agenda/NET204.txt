@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 407
+summary: tag_name :Developer/Engineer, Role, Solution/Systems Architect, Role, VPC Reachability Analyzer, Services, 200 - Intermediate, Level, Thursday, Day, Caesars Forum, Venue, Amazon Virtual Private Cloud (VPC), Services, Monitoring & Observability, Area of Interest, Well-Architected Framework, Area of Interest, Networking & Content Delivery, Topic, Amazon CloudWatch, Services, DevOps Engineer, Role, Cross Industry, Industry, , speakers :firstName_0: Evgeny, lastName_0: Vaganov, firstName_1: Ruskin, lastName_1: Dantra, , thirdpartyid :NET204, sessionuid :986BB45D-C9E5-4E11-BCA2-D8B71A22A1C0, title :Must-have network diagnostics and troubleshooting tools, description :Understanding the interplay between cloud networking, hybrid connectivity, and the internet allows you to deliver value to your customers quickly and reliably. With more devices, branches, regions, and a variety of interconnected technologies, diagnosing, debugging, and troubleshooting networking connectivity are key skills to have. This session starts off by providing you with a solid foundation for building your network before walking through detecting and diagnosing faults along with solutions for fixing them and preventing recurrence., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 407, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: Academy 407
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: Understanding the interplay between cloud networking, hybrid connectivity, and the internet allows you to deliver value to your customers quickly and reliably. With more devices, branches, regions, and a variety of interconnected technologies, diagnosing, debugging, and troubleshooting networking connectivity are key skills to have. This session starts off by providing you with a solid foundation for building your network before walking through detecting and diagnosing faults along with solutions for fixing them and preventing recurrence
+title: Must-have network diagnostics and troubleshooting tools
+sessionuid: 986BB45D-C9E5-4E11-BCA2-D8B71A22A1C0
+thirdpartyid: NET204
+speakers: firstName_0: Evgeny, lastName_0: Vaganov, firstName_1: Ruskin, lastName_1: Dantra
+tag_name: Developer/Engineer, Role, Solution/Systems Architect, Role, VPC Reachability Analyzer, Services, 200 - Intermediate, Level, Thursday, Day, Caesars Forum, Venue, Amazon Virtual Private Cloud (VPC), Services, Monitoring & Observability, Area of Interest, Well-Architected Framework, Area of Interest, Networking & Content Delivery, Topic, Amazon CloudWatch, Services, DevOps Engineer, Role, Cross Industry, Industry

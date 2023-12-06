@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 304
+summary: tag_name :AI/ML, Topic, Generative AI, Area of Interest, Advertising & Marketing, Industry, 300 - Advanced, Level, Data Engineer, Role, Data Scientist, Role, IT Professional/Technical Manager, Role, Amazon Bedrock, Services, Amazon CodeWhisperer, Services, Amazon SageMaker, Services, MGM Grand, Venue, Wednesday, Day, , speakers :firstName_0: Bishesh, lastName_0: Adhikari, firstName_1: Stefan, lastName_1: Christoph, firstName_2: Anuj, lastName_2: Gupta, , thirdpartyid :ADM301, sessionuid :74B60A7B-EAA4-4013-8BB8-5F46524AACDC, title :Generative AI use cases for advertising and marketing, description :<p>In this chalk talk, explore the latest capabilities of generative AI and its applications in the advertising industry. Learn how to implement capabilities of AWS generative AI services including Amazon Bedrock and Amazon SageMaker JumpStart, and dive deep into use cases such as contextual intelligence and social media optimization.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :304, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: 304
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>In this chalk talk, explore the latest capabilities of generative AI and its applications in the advertising industry. Learn how to implement capabilities of AWS generative AI services including Amazon Bedrock and Amazon SageMaker JumpStart, and dive deep into use cases such as contextual intelligence and social media optimization.</p>
+title: Generative AI use cases for advertising and marketing
+sessionuid: 74B60A7B-EAA4-4013-8BB8-5F46524AACDC
+thirdpartyid: ADM301
+speakers: firstName_0: Bishesh, lastName_0: Adhikari, firstName_1: Stefan, lastName_1: Christoph, firstName_2: Anuj, lastName_2: Gupta
+tag_name: AI/ML, Topic, Generative AI, Area of Interest, Advertising & Marketing, Industry, 300 - Advanced, Level, Data Engineer, Role, Data Scientist, Role, IT Professional/Technical Manager, Role, Amazon Bedrock, Services, Amazon CodeWhisperer, Services, Amazon SageMaker, Services, MGM Grand, Venue, Wednesday, Day

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 2
+summary: tag_name :Cross Industry, Industry, Cloud Security Specialist, Role, AWS Key Management Service (KMS), Services, Security, Compliance, & Identity, Topic, Wednesday, Day, Wynn, Venue, Solution/Systems Architect, Role, Data Engineer, Role, Data Protection, Area of Interest, Amazon DynamoDB, Services, 300 - Advanced, Level, , speakers :firstName_0: Ryan, lastName_0: Emery, , thirdpartyid :SEC312, sessionuid :B2FB6977-698A-4F35-A2D2-7529EA0F0CC5, title :Securing your customer data with the AWS Database Encryption SDK, description :While client-side encryption provides end-to-end protection for your data, in transit and at rest, to help ensure confidentiality and data integrity, it also comes with a usability drawback: once encrypted, the data is difficult to share, validate, and search through. In this code talk, learn how you can tackle these challenges with the AWS Database Encryption SDK for client-side encryption. Examples demonstrate how you can use the AWS Database Encryption SDK to encrypt the values of attributes using Amazon DynamoDB, manage encryption keys using AWS KMS, and create queries to filter and search on encrypted data., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 2, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Lafite 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: While client-side encryption provides end-to-end protection for your data, in transit and at rest, to help ensure confidentiality and data integrity, it also comes with a usability drawback: once encrypted, the data is difficult to share, validate, and search through. In this code talk, learn how you can tackle these challenges with the AWS Database Encryption SDK for client-side encryption. Examples demonstrate how you can use the AWS Database Encryption SDK to encrypt the values of attributes using Amazon DynamoDB, manage encryption keys using AWS KMS, and create queries to filter and search on encrypted data
+title: Securing your customer data with the AWS Database Encryption SDK
+sessionuid: B2FB6977-698A-4F35-A2D2-7529EA0F0CC5
+thirdpartyid: SEC312
+speakers: firstName_0: Ryan, lastName_0: Emery
+tag_name: Cross Industry, Industry, Cloud Security Specialist, Role, AWS Key Management Service (KMS), Services, Security, Compliance, & Identity, Topic, Wednesday, Day, Wynn, Venue, Solution/Systems Architect, Role, Data Engineer, Role, Data Protection, Area of Interest, Amazon DynamoDB, Services, 300 - Advanced, Level

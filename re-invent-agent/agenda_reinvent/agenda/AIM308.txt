@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :AI/ML, Topic, Databases, Topic, Generative AI, Area of Interest, 300 - Advanced, Level, Business Executive, Role, IT Executive, Role, Tech Explorer, Role, Amazon Bedrock, Services, Amazon SageMaker, Services, Tuesday, Day, Venetian, Venue, , speakers :firstName_0: Kapil, lastName_0: Pant, company_0: ZS, , thirdpartyid :AIM308-S, sessionuid :D6460755-345D-4D9F-8222-0FE360B6367B, title :Unlock generative AI’s potential to accelerate innovation (sponsored by ZS), description :<p>Across sectors, enterprises are diving deep into AI capabilities, harnessing data-driven tools that streamline processes and improve decision-making. But what is the “secret sauce”? It’s a purposeful data strategy and robust data foundations. To truly tap into AI’s transformative power, a solid data and tooling strategy is indispensable to help ensure transparency, scalability, and trust. Steeped in years of practical data and AI scaling experience, ZS shares how you can use AWS tools, including Amazon Bedrock and Amazon SageMaker, to harness the power of institutional wisdom, refine your AI applications, and pivot quickly to stay ahead. This presentation is brought to you by ZS, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 22:20:00 -0500, 
+enddatetimeutc: November, 28 2023 22:20:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Across sectors, enterprises are diving deep into AI capabilities, harnessing data-driven tools that streamline processes and improve decision-making. But what is the “secret sauce”? It’s a purposeful data strategy and robust data foundations. To truly tap into AI’s transformative power, a solid data and tooling strategy is indispensable to help ensure transparency, scalability, and trust. Steeped in years of practical data and AI scaling experience, ZS shares how you can use AWS tools, including Amazon Bedrock and Amazon SageMaker, to harness the power of institutional wisdom, refine your AI applications, and pivot quickly to stay ahead. This presentation is brought to you by ZS, an AWS Partner.</p>
+title: Unlock generative AI’s potential to accelerate innovation (sponsored by ZS)
+sessionuid: D6460755-345D-4D9F-8222-0FE360B6367B
+thirdpartyid: AIM308-S
+speakers: firstName_0: Kapil, lastName_0: Pant, company_0: ZS
+tag_name: AI/ML, Topic, Databases, Topic, Generative AI, Area of Interest, 300 - Advanced, Level, Business Executive, Role, IT Executive, Role, Tech Explorer, Role, Amazon Bedrock, Services, Amazon SageMaker, Services, Tuesday, Day, Venetian, Venue

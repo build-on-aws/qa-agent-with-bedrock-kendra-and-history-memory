@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Reef F
+summary: tag_name :IT Professional/Technical Manager, Role, 200 - Intermediate, Level, Cross Industry, Industry, Amazon Connect, Services, Business Applications, Topic, Wednesday, Day, Mandalay Bay, Venue, Business Executive, Role, Amazon Lex, Services, Modernization, Area of Interest, AI/ML, Topic, IT Executive, Role, , speakers :firstName_0: Hannah, lastName_0: Bloking, firstName_1: Prithvi, lastName_1: Sahoo, company_1: Adobe, firstName_2: Tarun, lastName_2: Gupta, company_2: Adobe, , thirdpartyid :BIZ218, sessionuid :D33B64D1-9CC0-4F0E-9628-DEBE42CF93F3, title :Personalize omnichannel customer experience with Amazon Connect and AI, description :Cloud and generative AI technologies are reshaping how companies imagine and build personalized, omnichannel customer experiences. Join this session to learn how leading contact centers are using artificial intelligence (AI) to craft personalized and automated interactions and gain consistency across touch points. Hear how generative AI is setting the stage for the future of cross-channel customer engagement., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Reef F, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Reef F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Cloud and generative AI technologies are reshaping how companies imagine and build personalized, omnichannel customer experiences. Join this session to learn how leading contact centers are using artificial intelligence (AI) to craft personalized and automated interactions and gain consistency across touch points. Hear how generative AI is setting the stage for the future of cross-channel customer engagement
+title: Personalize omnichannel customer experience with Amazon Connect and AI
+sessionuid: D33B64D1-9CC0-4F0E-9628-DEBE42CF93F3
+thirdpartyid: BIZ218
+speakers: firstName_0: Hannah, lastName_0: Bloking, firstName_1: Prithvi, lastName_1: Sahoo, company_1: Adobe, firstName_2: Tarun, lastName_2: Gupta, company_2: Adobe
+tag_name: IT Professional/Technical Manager, Role, 200 - Intermediate, Level, Cross Industry, Industry, Amazon Connect, Services, Business Applications, Topic, Wednesday, Day, Mandalay Bay, Venue, Business Executive, Role, Amazon Lex, Services, Modernization, Area of Interest, AI/ML, Topic, IT Executive, Role

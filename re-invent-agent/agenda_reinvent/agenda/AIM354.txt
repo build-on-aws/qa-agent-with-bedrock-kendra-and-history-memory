@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 304
+summary: tag_name :Cost Optimization, Area of Interest, Monday, Day, MGM Grand, Venue, Amazon Translate, Services, Business Applications, Topic, Customer Stories, Area of Interest, Retail, Industry, Data Scientist, Role, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, Independent Software Vendor (ISV), Area of Interest, Advertising & Marketing, Industry, AI/ML, Topic, , speakers :firstName_0: Esther, lastName_0: Lee, firstName_1: Watson, lastName_1: Srivathsan, , thirdpartyid :AIM354, sessionuid :E3EBE28C-9769-4629-87BF-36F665113317, title :Promote inclusion, expand revenue opportunities with Amazon Translate, description :Expanding into new markets can increase revenues, but content localization is often expensive and time-consuming. Amazon Translate, a neural machine translation service, helps customers quickly localize content in the language of their choice to accelerate time to market. Join this chalk talk to learn how customers are using the newest features of Amazon Translate to expand their geographic footprint, drive topline growth, and optimize costs., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :304, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 17:30:00 -0500, 
+enddatetimeutc: November, 27 2023 17:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: 304
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Expanding into new markets can increase revenues, but content localization is often expensive and time-consuming. Amazon Translate, a neural machine translation service, helps customers quickly localize content in the language of their choice to accelerate time to market. Join this chalk talk to learn how customers are using the newest features of Amazon Translate to expand their geographic footprint, drive topline growth, and optimize costs
+title: Promote inclusion, expand revenue opportunities with Amazon Translate
+sessionuid: E3EBE28C-9769-4629-87BF-36F665113317
+thirdpartyid: AIM354
+speakers: firstName_0: Esther, lastName_0: Lee, firstName_1: Watson, lastName_1: Srivathsan
+tag_name: Cost Optimization, Area of Interest, Monday, Day, MGM Grand, Venue, Amazon Translate, Services, Business Applications, Topic, Customer Stories, Area of Interest, Retail, Industry, Data Scientist, Role, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, Independent Software Vendor (ISV), Area of Interest, Advertising & Marketing, Industry, AI/ML, Topic

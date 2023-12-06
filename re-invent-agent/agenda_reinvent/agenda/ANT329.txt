@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 201
+summary: tag_name :Developer/Engineer, Role, Generative AI, Area of Interest, Analytics, Topic, 300 - Advanced, Level, Solution/Systems Architect, Role, Amazon OpenSearch Service, Services, Tuesday, Day, Caesars Forum, Venue, Amazon Managed Streaming for Apache Kafka (MSK), Services, Data Engineer, Role, Amazon Elastic MapReduce (EMR), Services, , speakers :firstName_0: Harshida, lastName_0: Patel, firstName_1: Imtiaz, lastName_1: Sayed, , thirdpartyid :ANT329, sessionuid :10B75E49-2CAC-4286-BD55-6A6816F0CDC8, title :Best practices for analytics and generative AI on AWS, description :There’s never been a better time to work with data in the cloud. Rapid adoption of new data architecture patterns and creative breakthrough technologies such as generative AI are rapidly moving data and analytics to the cloud. Organizations want to be cost-efficient while maximizing performance and are looking for guidance on data strategy and data pipeline optimization to build a strong data foundation for their analytics and generative AI applications. In this session, hear best practices across core AWS analytics services to swiftly and economically get answers from all your data., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 201, startdatetimeutc :November, 29 2023 00:00:00 -0500, enddatetimeutc :November, 29 2023 01:00:00 -0500, 
+enddatetimeutc: November, 29 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 00:00:00 -0500
+locationname: Summit 201
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: There’s never been a better time to work with data in the cloud. Rapid adoption of new data architecture patterns and creative breakthrough technologies such as generative AI are rapidly moving data and analytics to the cloud. Organizations want to be cost-efficient while maximizing performance and are looking for guidance on data strategy and data pipeline optimization to build a strong data foundation for their analytics and generative AI applications. In this session, hear best practices across core AWS analytics services to swiftly and economically get answers from all your data
+title: Best practices for analytics and generative AI on AWS
+sessionuid: 10B75E49-2CAC-4286-BD55-6A6816F0CDC8
+thirdpartyid: ANT329
+speakers: firstName_0: Harshida, lastName_0: Patel, firstName_1: Imtiaz, lastName_1: Sayed
+tag_name: Developer/Engineer, Role, Generative AI, Area of Interest, Analytics, Topic, 300 - Advanced, Level, Solution/Systems Architect, Role, Amazon OpenSearch Service, Services, Tuesday, Day, Caesars Forum, Venue, Amazon Managed Streaming for Apache Kafka (MSK), Services, Data Engineer, Role, Amazon Elastic MapReduce (EMR), Services

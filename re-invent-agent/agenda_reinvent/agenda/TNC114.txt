@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas I
+summary: tag_name :100 - Foundational, Level, Developer/Engineer, Role, Thursday, Day, Mandalay Bay, Venue, Training & Certification, Topic, AI/ML, Topic, Generative AI, Area of Interest, , speakers :firstName_0: Ivan, lastName_0: Kopas, , thirdpartyid :TNC114, sessionuid :48627080-6D03-4AF3-8ED3-D387DE9B8CEB, title :Introduction to prompt engineering, description :In this session, learn about the basics of foundation models (FMs) and the key concepts behind prompt engineering. Also learn about the best practices for designing prompts and a few prompting techniques such as zero-shot, few-shot, and chain-of-thought prompting with the help of examples., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas I, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: South Seas I
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: In this session, learn about the basics of foundation models (FMs) and the key concepts behind prompt engineering. Also learn about the best practices for designing prompts and a few prompting techniques such as zero-shot, few-shot, and chain-of-thought prompting with the help of examples
+title: Introduction to prompt engineering
+sessionuid: 48627080-6D03-4AF3-8ED3-D387DE9B8CEB
+thirdpartyid: TNC114
+speakers: firstName_0: Ivan, lastName_0: Kopas
+tag_name: 100 - Foundational, Level, Developer/Engineer, Role, Thursday, Day, Mandalay Bay, Venue, Training & Certification, Topic, AI/ML, Topic, Generative AI, Area of Interest

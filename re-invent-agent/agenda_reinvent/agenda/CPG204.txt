@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 126
+summary: tag_name :Wednesday, Day, Caesars Forum, Venue, AI/ML, Topic, Architecture, Topic, Generative AI, Area of Interest, Innovation on AWS, Area of Interest, Well-Architected Framework, Area of Interest, Consumer Packaged Goods, Industry, 200 - Intermediate, Level, Business Executive, Role, Amazon CodeWhisperer, Services, Amazon RedShift, Services, Amazon SageMaker, Services, , speakers :, thirdpartyid :CPG204, sessionuid :49FD607F-3217-4F83-AF67-9F64EA25857B, title :Breaking down data silos and using AI with Mars Wrigley, description :<p>In this chalk talk, learn how Mars Wrigley built their groundbreaking Voyager program, which brings together their sales, media, shopper marketing, and analytics teams all while working closely with AWS, Amazon Ads, and Amazon Marketing Cloud. Hear from Deepak Jose, Global Head of One Demand Data and Analytics Solutions at Mars Wrigley, on their approach to breaking down data silos and how they are demonstrating cutting-edge generative AI and large language model (LLM) capabilities to enhance user experience.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 126, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Forum 126
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In this chalk talk, learn how Mars Wrigley built their groundbreaking Voyager program, which brings together their sales, media, shopper marketing, and analytics teams all while working closely with AWS, Amazon Ads, and Amazon Marketing Cloud. Hear from Deepak Jose, Global Head of One Demand Data and Analytics Solutions at Mars Wrigley, on their approach to breaking down data silos and how they are demonstrating cutting-edge generative AI and large language model (LLM) capabilities to enhance user experience.</p>
+title: Breaking down data silos and using AI with Mars Wrigley
+sessionuid: 49FD607F-3217-4F83-AF67-9F64EA25857B
+thirdpartyid: CPG204
+speakers: 
+tag_name: Wednesday, Day, Caesars Forum, Venue, AI/ML, Topic, Architecture, Topic, Generative AI, Area of Interest, Innovation on AWS, Area of Interest, Well-Architected Framework, Area of Interest, Consumer Packaged Goods, Industry, 200 - Intermediate, Level, Business Executive, Role, Amazon CodeWhisperer, Services, Amazon RedShift, Services, Amazon SageMaker, Services

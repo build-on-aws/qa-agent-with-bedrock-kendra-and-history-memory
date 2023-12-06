@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Wednesday, Day, Venetian, Venue, AI/ML, Topic, Business Applications, Topic, Generative AI, Area of Interest, Advertising & Marketing, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, Amazon Bedrock, Services, Amazon SageMaker, Services, , speakers :firstName_0: Rachna, lastName_0: Chadha, , thirdpartyid :ADM202, sessionuid :FE126A09-1EC4-48E9-B7BD-169339C39ACF, title :Use AWS generative AI and machine learning with Salesforce Data Cloud, description :<p>In this lightning talk, learn how to use AWS generative AI and ML services like Amazon SageMaker and Amazon Bedrock with Salesforce Data Cloud to deliver personalized customer experiences at hyperscale.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 00:20:00 -0500, 
+enddatetimeutc: November, 30 2023 00:20:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>In this lightning talk, learn how to use AWS generative AI and ML services like Amazon SageMaker and Amazon Bedrock with Salesforce Data Cloud to deliver personalized customer experiences at hyperscale.</p>
+title: Use AWS generative AI and machine learning with Salesforce Data Cloud
+sessionuid: FE126A09-1EC4-48E9-B7BD-169339C39ACF
+thirdpartyid: ADM202
+speakers: firstName_0: Rachna, lastName_0: Chadha
+tag_name: Wednesday, Day, Venetian, Venue, AI/ML, Topic, Business Applications, Topic, Generative AI, Area of Interest, Advertising & Marketing, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, Amazon Bedrock, Services, Amazon SageMaker, Services

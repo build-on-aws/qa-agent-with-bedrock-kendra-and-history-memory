@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafleur 2
+summary: tag_name :Analytics, Topic, Data Engineer, Role, AWS Glue, Services, AWS Lake Formation, Services, Developer/Engineer, Role, Amazon DataZone, Services, Innovation on AWS, Area of Interest, AI/ML, Topic, Wednesday, Day, Wynn, Venue, 300 - Advanced, Level, Management & Governance, Area of Interest, Customer Stories, Area of Interest, , speakers :firstName_0: Navneet, lastName_0: Srivastava, firstName_1: Jason, lastName_1: Berkowitz, firstName_2: Rajkumar, lastName_2: Irudayaraj, company_2: Salesforce, , thirdpartyid :ANT324, sessionuid :4AE18D60-16DA-49C4-962C-F3169741D966, title :Easily and securely prepare, share, and query data, description :<p>Businesses are looking for a decentralized, domain-oriented modern data architecture that enables zero-ETL, zero-copy, and governed sharing of data products to internal and external customers that is easy for users to access. Join this session to learn the latest low-code AWS analytics and ML capabilities. Learn how you can share data without copying, transform and prepare data without coding, and query data.</p>, sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafleur 2, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Lafleur 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: <p>Businesses are looking for a decentralized, domain-oriented modern data architecture that enables zero-ETL, zero-copy, and governed sharing of data products to internal and external customers that is easy for users to access. Join this session to learn the latest low-code AWS analytics and ML capabilities. Learn how you can share data without copying, transform and prepare data without coding, and query data.</p>
+title: Easily and securely prepare, share, and query data
+sessionuid: 4AE18D60-16DA-49C4-962C-F3169741D966
+thirdpartyid: ANT324
+speakers: firstName_0: Navneet, lastName_0: Srivastava, firstName_1: Jason, lastName_1: Berkowitz, firstName_2: Rajkumar, lastName_2: Irudayaraj, company_2: Salesforce
+tag_name: Analytics, Topic, Data Engineer, Role, AWS Glue, Services, AWS Lake Formation, Services, Developer/Engineer, Role, Amazon DataZone, Services, Innovation on AWS, Area of Interest, AI/ML, Topic, Wednesday, Day, Wynn, Venue, 300 - Advanced, Level, Management & Governance, Area of Interest, Customer Stories, Area of Interest

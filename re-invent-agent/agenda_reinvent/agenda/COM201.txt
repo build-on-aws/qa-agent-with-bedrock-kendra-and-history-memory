@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas F
+summary: tag_name :AWS Lambda, Services, Developer/Engineer, Role, Solution/Systems Architect, Role, Open Source, Area of Interest, AI/ML, Topic, 200 - Intermediate, Level, AWS Community, Area of Interest, Monday, Day, Mandalay Bay, Venue, Amazon Bedrock, Services, IT Executive, Role, Amazon DynamoDB, Services, Innovation on AWS, Area of Interest, , speakers :firstName_0: Ben, lastName_0: Ellerby, company_0: Aleios, , thirdpartyid :COM201, sessionuid :F5AFD267-2A6C-4D35-BF76-508D54223617, title :Building a cloud-backed generative AI game in 60 minutes, description :Generative AI has captured the imagination of developers, companies, and creatives alike. ChatGPT is just the tip of the iceberg. Generative AI can enable novel and creative user experiences that delight the imagination. In this session, see a demo of how to build a generative-AI-powered game using Amazon Bedrock, Amazon API Gateway, and AWS AppSync. The game will involve the player guessing the title of a movie or book from an emoji summary of the plot, generated and scored by Amazon Titan., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas F, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 27 2023 22:00:00 -0500, 
+enddatetimeutc: November, 27 2023 22:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: South Seas F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Generative AI has captured the imagination of developers, companies, and creatives alike. ChatGPT is just the tip of the iceberg. Generative AI can enable novel and creative user experiences that delight the imagination. In this session, see a demo of how to build a generative-AI-powered game using Amazon Bedrock, Amazon API Gateway, and AWS AppSync. The game will involve the player guessing the title of a movie or book from an emoji summary of the plot, generated and scored by Amazon Titan
+title: Building a cloud-backed generative AI game in 60 minutes
+sessionuid: F5AFD267-2A6C-4D35-BF76-508D54223617
+thirdpartyid: COM201
+speakers: firstName_0: Ben, lastName_0: Ellerby, company_0: Aleios
+tag_name: AWS Lambda, Services, Developer/Engineer, Role, Solution/Systems Architect, Role, Open Source, Area of Interest, AI/ML, Topic, 200 - Intermediate, Level, AWS Community, Area of Interest, Monday, Day, Mandalay Bay, Venue, Amazon Bedrock, Services, IT Executive, Role, Amazon DynamoDB, Services, Innovation on AWS, Area of Interest

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 9
+summary: tag_name :Generative AI, Area of Interest, Business Executive, Role, IT Executive, Role, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Cross Industry, Industry, AI/ML, Topic, Tuesday, Day, Wynn, Venue, , speakers :firstName_0: Albert, lastName_0: Esplugas, firstName_1: Sama, lastName_1: Bali, firstName_2: Khali, lastName_2: Heath, , thirdpartyid :AIM212, sessionuid :111DA1E5-97E7-452F-AE0C-1A4BE4B3FC00, title :Choosing the right generative AI use case, description :Generative AI represents an exciting new capability for all organizations, but the most impactful applications are those focused on tangible business value, not just technological novelty. In this session, get an overview of the most impactful current use cases of generative AI across business functions and key industries. Learn best practices for generative AI implementation that uplifts processes, empowers people, and shifts mindsets to unlock demonstrable business value., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 9, startdatetimeutc :November, 29 2023 01:30:00 -0500, enddatetimeutc :November, 29 2023 02:30:00 -0500, 
+enddatetimeutc: November, 29 2023 02:30:00 -0500
+startdatetimeutc: November, 29 2023 01:30:00 -0500
+locationname: Lafite 9
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: Generative AI represents an exciting new capability for all organizations, but the most impactful applications are those focused on tangible business value, not just technological novelty. In this session, get an overview of the most impactful current use cases of generative AI across business functions and key industries. Learn best practices for generative AI implementation that uplifts processes, empowers people, and shifts mindsets to unlock demonstrable business value
+title: Choosing the right generative AI use case
+sessionuid: 111DA1E5-97E7-452F-AE0C-1A4BE4B3FC00
+thirdpartyid: AIM212
+speakers: firstName_0: Albert, lastName_0: Esplugas, firstName_1: Sama, lastName_1: Bali, firstName_2: Khali, lastName_2: Heath
+tag_name: Generative AI, Area of Interest, Business Executive, Role, IT Executive, Role, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Cross Industry, Industry, AI/ML, Topic, Tuesday, Day, Wynn, Venue

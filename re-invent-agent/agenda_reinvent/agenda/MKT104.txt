@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Wednesday, Day, Venetian, Venue, Partner Enablement, Topic, AWS Marketplace, Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, AWS Marketplace, Services, Business Executive, Role, Entrepreneur (Founder/Co-Founder), Role, Sales/Marketing, Role, , speakers :firstName_0: Sarah, lastName_0: Aamir, , thirdpartyid :MKT104, sessionuid :4A50B6E1-2F85-4B43-8A9C-1E8246533D5F, title :Unleash your selling potential with AWS Marketplace, description :<p>In this lightning talk intended for AWS Partners, discover best practices for success with AWS Marketplace. Learn how to maximize your selling potential by listing products in AWS Marketplace and reaching new customers through the partner community. Explore effective strategies, best practices, and essential tips for optimizing your product offerings and reach to a global audience. Whether you’re a seasoned AWS Marketplace seller or just starting out, this talk provides actionable insights to help you grow with AWS Marketplace.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 22:50:00 -0500, 
+enddatetimeutc: November, 29 2023 22:50:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>In this lightning talk intended for AWS Partners, discover best practices for success with AWS Marketplace. Learn how to maximize your selling potential by listing products in AWS Marketplace and reaching new customers through the partner community. Explore effective strategies, best practices, and essential tips for optimizing your product offerings and reach to a global audience. Whether you’re a seasoned AWS Marketplace seller or just starting out, this talk provides actionable insights to help you grow with AWS Marketplace.</p>
+title: Unleash your selling potential with AWS Marketplace
+sessionuid: 4A50B6E1-2F85-4B43-8A9C-1E8246533D5F
+thirdpartyid: MKT104
+speakers: firstName_0: Sarah, lastName_0: Aamir
+tag_name: Wednesday, Day, Venetian, Venue, Partner Enablement, Topic, AWS Marketplace, Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, AWS Marketplace, Services, Business Executive, Role, Entrepreneur (Founder/Co-Founder), Role, Sales/Marketing, Role

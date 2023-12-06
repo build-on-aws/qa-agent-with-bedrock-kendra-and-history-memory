@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 169
+summary: tag_name :Monitoring & Observability, Area of Interest, 300 - Advanced, Level, Amazon CloudWatch, Services, DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Amazon Managed Grafana, Services, Wednesday, Day, MGM Grand, Venue, Cloud Operations, Topic, Resilience, Area of Interest, Management & Governance, Area of Interest, , speakers :firstName_0: Andreas, lastName_0: Bloomquist, firstName_1: Arun, lastName_1: Chandapillai, firstName_2: Michael, lastName_2: Hausenblas, , thirdpartyid :COP305, sessionuid :0C25309F-E47A-4B08-AD77-C7EF0C2A6D4E, title :Improve application resiliency with SLO best practices, description :Designing highly available and resilient applications is often an incremental journey. Collecting data helps you understand where these changes are having a positive impact and where improvements are necessary. Data about your system’s health, performance, and end user experience are key. Defining the right service-level objectives (SLOs) tied to business outcomes and collecting the relevant metrics allows you to determine application health. In this chalk talk, learn about patterns, how to set up effective SLOs, and AWS solutions that can help you build a rock-solid observability platform., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 169, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Boulevard 169
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Designing highly available and resilient applications is often an incremental journey. Collecting data helps you understand where these changes are having a positive impact and where improvements are necessary. Data about your system’s health, performance, and end user experience are key. Defining the right service-level objectives (SLOs) tied to business outcomes and collecting the relevant metrics allows you to determine application health. In this chalk talk, learn about patterns, how to set up effective SLOs, and AWS solutions that can help you build a rock-solid observability platform
+title: Improve application resiliency with SLO best practices
+sessionuid: 0C25309F-E47A-4B08-AD77-C7EF0C2A6D4E
+thirdpartyid: COP305
+speakers: firstName_0: Andreas, lastName_0: Bloomquist, firstName_1: Arun, lastName_1: Chandapillai, firstName_2: Michael, lastName_2: Hausenblas
+tag_name: Monitoring & Observability, Area of Interest, 300 - Advanced, Level, Amazon CloudWatch, Services, DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Amazon Managed Grafana, Services, Wednesday, Day, MGM Grand, Venue, Cloud Operations, Topic, Resilience, Area of Interest, Management & Governance, Area of Interest

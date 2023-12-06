@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :300 - Advanced, Level, Amazon EventBridge, Services, Serverless Compute, Topic, Solution/Systems Architect, Role, DevOps Engineer, Role, Wednesday, Day, Wynn, Venue, Cross Industry, Industry, Digital Native Business (DNB), Area of Interest, Amazon Simple Storage Service (S3), Services, Storage, Topic, Developer/Engineer, Role, SaaS, Area of Interest, , speakers :firstName_0: Andrew, lastName_0: Peace, firstName_1: Girish, lastName_1: Chanchlani, , thirdpartyid :STG326, sessionuid :0F48C450-008B-42D6-BEFC-8C58919405E4, title :Build scalable architectures with S3 Event Notifications & EventBridge, description :In this chalk talk, learn how to use Amazon S3 Event Notifications with Amazon EventBridge to build scalable data ingestion architectures for use cases such as data lake, security analysis of existing and new objects, and backup and replication of S3 objects., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 02:30:00 -0500, 
+enddatetimeutc: November, 30 2023 02:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: In this chalk talk, learn how to use Amazon S3 Event Notifications with Amazon EventBridge to build scalable data ingestion architectures for use cases such as data lake, security analysis of existing and new objects, and backup and replication of S3 objects
+title: Build scalable architectures with S3 Event Notifications & EventBridge
+sessionuid: 0F48C450-008B-42D6-BEFC-8C58919405E4
+thirdpartyid: STG326
+speakers: firstName_0: Andrew, lastName_0: Peace, firstName_1: Girish, lastName_1: Chanchlani
+tag_name: 300 - Advanced, Level, Amazon EventBridge, Services, Serverless Compute, Topic, Solution/Systems Architect, Role, DevOps Engineer, Role, Wednesday, Day, Wynn, Venue, Cross Industry, Industry, Digital Native Business (DNB), Area of Interest, Amazon Simple Storage Service (S3), Services, Storage, Topic, Developer/Engineer, Role, SaaS, Area of Interest

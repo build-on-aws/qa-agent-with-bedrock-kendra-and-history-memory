@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 118
+summary: tag_name :Solution/Systems Architect, Role, 200 - Intermediate, Level, Cross Industry, Industry, Cost Optimization, Area of Interest, IT Administrator, Role, DevOps Engineer, Role, Architecture, Topic, Wednesday, Day, MGM Grand, Venue, Amazon QuickSight, Services, AWS Billing and Cost Management, Services, Amazon Athena, Services, , speakers :firstName_0: Jun-Tin, lastName_0: Yeh, firstName_1: Rovan, lastName_1: Omar, , thirdpartyid :ARC202-R, sessionuid :46FA03B0-AA86-4C2B-9D00-35F182462642, title :Putting cost optimization into practice [REPEAT], description :In this workshop, set up monitoring and analysis for your AWS costs using Amazon Athena and AWS Glue. Measure your workload efficiency and create dashboards for your teams so that they can use Amazon QuickSight to stay on top of their usage and take necessary steps to optimize their costs. Also, learn about the latest enhancements and announcements in the cost-control space. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 118, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Grand 118
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: In this workshop, set up monitoring and analysis for your AWS costs using Amazon Athena and AWS Glue. Measure your workload efficiency and create dashboards for your teams so that they can use Amazon QuickSight to stay on top of their usage and take necessary steps to optimize their costs. Also, learn about the latest enhancements and announcements in the cost-control space. You must bring your laptop to participate
+title: Putting cost optimization into practice [REPEAT]
+sessionuid: 46FA03B0-AA86-4C2B-9D00-35F182462642
+thirdpartyid: ARC202-R
+speakers: firstName_0: Jun-Tin, lastName_0: Yeh, firstName_1: Rovan, lastName_1: Omar
+tag_name: Solution/Systems Architect, Role, 200 - Intermediate, Level, Cross Industry, Industry, Cost Optimization, Area of Interest, IT Administrator, Role, DevOps Engineer, Role, Architecture, Topic, Wednesday, Day, MGM Grand, Venue, Amazon QuickSight, Services, AWS Billing and Cost Management, Services, Amazon Athena, Services

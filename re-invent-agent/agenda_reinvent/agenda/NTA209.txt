@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 113
+summary: tag_name :New to AWS, Topic, Customer Stories, Area of Interest, Energy, Industry, 200 - Intermediate, Level, IT Executive, Role, Solution/Systems Architect, Role, Amazon Timestream, Services, AWS Glue, Services, AWS IoT Core, Services, Tuesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Bhupesh, lastName_0: Arora, company_0: Magellan Midstream Partners, L.P., firstName_1: Jerry, lastName_1: Kara, firstName_2: Stan, lastName_2: Tan, , thirdpartyid :NTA209, sessionuid :FB985E91-4F48-4D1B-8656-92345FEBD4B5, title :Magellan’s strategic cloud journey to drive operational insights, description :<p>In this session, hear about the Magellan Midstream Partners journey to the cloud. Magellan’s CIO shares their decision to differentiate themselves through a digital innovation strategy and how AWS helped them along the way. Also dive into one of their data pipelines to see how they gained insights into their oil pipelines to optimize costs.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 113, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: Forum 113
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In this session, hear about the Magellan Midstream Partners journey to the cloud. Magellan’s CIO shares their decision to differentiate themselves through a digital innovation strategy and how AWS helped them along the way. Also dive into one of their data pipelines to see how they gained insights into their oil pipelines to optimize costs.</p>
+title: Magellan’s strategic cloud journey to drive operational insights
+sessionuid: FB985E91-4F48-4D1B-8656-92345FEBD4B5
+thirdpartyid: NTA209
+speakers: firstName_0: Bhupesh, lastName_0: Arora, company_0: Magellan Midstream Partners, L.P., firstName_1: Jerry, lastName_1: Kara, firstName_2: Stan, lastName_2: Tan
+tag_name: New to AWS, Topic, Customer Stories, Area of Interest, Energy, Industry, 200 - Intermediate, Level, IT Executive, Role, Solution/Systems Architect, Role, Amazon Timestream, Services, AWS Glue, Services, AWS IoT Core, Services, Tuesday, Day, Caesars Forum, Venue

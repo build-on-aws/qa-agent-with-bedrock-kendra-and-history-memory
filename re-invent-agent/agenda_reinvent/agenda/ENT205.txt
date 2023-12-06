@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 104
+summary: tag_name :Migration & Transfer, Area of Interest, Solution/Systems Architect, Role, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Tuesday, Day, Caesars Forum, Venue, DevOps Engineer, Role, Enterprise & Migration, Topic, , speakers :firstName_0: Vaidy, lastName_0: Sankaran, firstName_1: Didier, lastName_1: Durand, , thirdpartyid :ENT205-R, sessionuid :4CF6167C-AF57-46B6-A778-AC250703C29D, title :Mainframe DevOps and testing with AWS Cloud [REPEAT], description :<p>Automation and DevOps are transforming how modern applications are developed. Mainframe applications can also take advantage of this innovation. This interactive chalk talk explores how you can modernize mainframe applications and create CI/CD pipelines to enable DevOps using the AWS Mainframe Modernization service. Also, learn how you can enable regression testing of applications for code changes, whether on mainframe or on AWS Cloud. The use cases include cloud-based DevOps for applications running on mainframes, mainframe application testing, and continuous testing of applications.</p>, sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 104, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 23:00:00 -0500, 
+enddatetimeutc: November, 28 2023 23:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Forum 104
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: <p>Automation and DevOps are transforming how modern applications are developed. Mainframe applications can also take advantage of this innovation. This interactive chalk talk explores how you can modernize mainframe applications and create CI/CD pipelines to enable DevOps using the AWS Mainframe Modernization service. Also, learn how you can enable regression testing of applications for code changes, whether on mainframe or on AWS Cloud. The use cases include cloud-based DevOps for applications running on mainframes, mainframe application testing, and continuous testing of applications.</p>
+title: Mainframe DevOps and testing with AWS Cloud [REPEAT]
+sessionuid: 4CF6167C-AF57-46B6-A778-AC250703C29D
+thirdpartyid: ENT205-R
+speakers: firstName_0: Vaidy, lastName_0: Sankaran, firstName_1: Didier, lastName_1: Durand
+tag_name: Migration & Transfer, Area of Interest, Solution/Systems Architect, Role, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Tuesday, Day, Caesars Forum, Venue, DevOps Engineer, Role, Enterprise & Migration, Topic

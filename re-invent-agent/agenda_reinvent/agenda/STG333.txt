@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Margaux 1
+summary: tag_name :Serverless Compute, Topic, Storage, Topic, Data Protection, Area of Interest, Disaster Response & Recovery, Area of Interest, Resilience, Area of Interest, Financial Services, Industry, Government, Industry, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, AWS Backup, Services, AWS CloudFormation, Services, AWS Lambda, Services, Monday, Day, Wynn, Venue, , speakers :firstName_0: Marcos, lastName_0: Seoane, firstName_1: Khurram, lastName_1: Nizami, , thirdpartyid :STG333, sessionuid :EFD086B8-C8BB-4025-941A-E83ACF299DC3, title :Automate your AWS Backup strategy, description :<p>A robust backup strategy is critical to help ensure business continuity and data availability. A centralized and automated backup solution is even more crucial when working with multiple AWS accounts or Regions. An automated AWS Backup strategy using infrastructure as code provides the solution to address this challenge. In this code talk, get hands-on experience managing and updating your AWS Backup policies and resources across multiple accounts and Regions using infrastructure as code.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Margaux 1, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 01:00:00 -0500, 
+enddatetimeutc: November, 28 2023 01:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: Margaux 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>A robust backup strategy is critical to help ensure business continuity and data availability. A centralized and automated backup solution is even more crucial when working with multiple AWS accounts or Regions. An automated AWS Backup strategy using infrastructure as code provides the solution to address this challenge. In this code talk, get hands-on experience managing and updating your AWS Backup policies and resources across multiple accounts and Regions using infrastructure as code.</p>
+title: Automate your AWS Backup strategy
+sessionuid: EFD086B8-C8BB-4025-941A-E83ACF299DC3
+thirdpartyid: STG333
+speakers: firstName_0: Marcos, lastName_0: Seoane, firstName_1: Khurram, lastName_1: Nizami
+tag_name: Serverless Compute, Topic, Storage, Topic, Data Protection, Area of Interest, Disaster Response & Recovery, Area of Interest, Resilience, Area of Interest, Financial Services, Industry, Government, Industry, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, AWS Backup, Services, AWS CloudFormation, Services, AWS Lambda, Services, Monday, Day, Wynn, Venue

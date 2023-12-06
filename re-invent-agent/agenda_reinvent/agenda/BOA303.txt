@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 121
+summary: tag_name :300 - Advanced, Level, Amazon CodeWhisperer, Services, Generative AI, Area of Interest, Amazon SageMaker, Services, Tuesday, Day, Caesars Forum, Venue, AI/ML, Topic, BuildOn.AWS, Area of Interest, , speakers :firstName_0: Linda, lastName_0: Haviv, firstName_1: Viktoria, lastName_1: Semaan, , thirdpartyid :BOA303, sessionuid :B05D2849-C260-4A06-95BA-FCBE6E7AD001, title :Unlock data insights with Amazon SageMaker and Amazon CodeWhisperer, description :<p>Deriving insights from data can be challenging due to inefficient data preparation, cleansing, exploration, and visualization. In this session, learn how the capabilities of Amazon SageMaker, coupled with Amazon CodeWhisperer, can revolutionize your data preparation and data management workflows. Explore the process of data preparation and how to fine-tune foundational models using domain-specific datasets. Learn how to unlock the value of generative AI using large language models with custom data, vector databases, and open-access LLMs with Amazon SageMaker.</p>, sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 121, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: Forum 121
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: <p>Deriving insights from data can be challenging due to inefficient data preparation, cleansing, exploration, and visualization. In this session, learn how the capabilities of Amazon SageMaker, coupled with Amazon CodeWhisperer, can revolutionize your data preparation and data management workflows. Explore the process of data preparation and how to fine-tune foundational models using domain-specific datasets. Learn how to unlock the value of generative AI using large language models with custom data, vector databases, and open-access LLMs with Amazon SageMaker.</p>
+title: Unlock data insights with Amazon SageMaker and Amazon CodeWhisperer
+sessionuid: B05D2849-C260-4A06-95BA-FCBE6E7AD001
+thirdpartyid: BOA303
+speakers: firstName_0: Linda, lastName_0: Haviv, firstName_1: Viktoria, lastName_1: Semaan
+tag_name: 300 - Advanced, Level, Amazon CodeWhisperer, Services, Generative AI, Area of Interest, Amazon SageMaker, Services, Tuesday, Day, Caesars Forum, Venue, AI/ML, Topic, BuildOn.AWS, Area of Interest

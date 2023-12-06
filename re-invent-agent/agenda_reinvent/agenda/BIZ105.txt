@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Bollinger
+summary: tag_name :Solution/Systems Architect, Role, Customer Stories, Area of Interest, Advisor/Consultant, Role, Business Applications, Topic, Cost Optimization, Area of Interest, Cross Industry, Industry, Business Executive, Role, Strategy & Transformation, Area of Interest, AWS Supply Chain, Services, 100 - Foundational, Level, Wynn, Venue, Tuesday, Day, Manufacturing & Industrial, Industry, Energy, Industry, , speakers :firstName_0: Diego, lastName_0: Pantoja-Navajas, firstName_1: Adam, lastName_1: Morris, company_1: Woodside Energy, , thirdpartyid :BIZ105, sessionuid :7B3E9F8B-E81C-432D-9AB8-2044C9C527FE, title :Reduce operating costs with improved supply chain visibility, description :<p>Learn how an AWS customer deployed AWS Supply Chain to improve inventory visibility and reduce operational costs. The deployment allowed the customer to reuse existing supply chain management solutions while AWS Supply Chain was phased into operation. Join this session to hear the customer’s story, why they selected AWS Supply Chain, and how their return on investment has exceeded initial expectations.</p>, sessiontype :Breakout Session, venuename :Wynn, floorplanname :Upper Level, locationname :Bollinger, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Bollinger
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Breakout Session
+description: <p>Learn how an AWS customer deployed AWS Supply Chain to improve inventory visibility and reduce operational costs. The deployment allowed the customer to reuse existing supply chain management solutions while AWS Supply Chain was phased into operation. Join this session to hear the customer’s story, why they selected AWS Supply Chain, and how their return on investment has exceeded initial expectations.</p>
+title: Reduce operating costs with improved supply chain visibility
+sessionuid: 7B3E9F8B-E81C-432D-9AB8-2044C9C527FE
+thirdpartyid: BIZ105
+speakers: firstName_0: Diego, lastName_0: Pantoja-Navajas, firstName_1: Adam, lastName_1: Morris, company_1: Woodside Energy
+tag_name: Solution/Systems Architect, Role, Customer Stories, Area of Interest, Advisor/Consultant, Role, Business Applications, Topic, Cost Optimization, Area of Interest, Cross Industry, Industry, Business Executive, Role, Strategy & Transformation, Area of Interest, AWS Supply Chain, Services, 100 - Foundational, Level, Wynn, Venue, Tuesday, Day, Manufacturing & Industrial, Industry, Energy, Industry

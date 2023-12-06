@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Tao
+summary: tag_name :Wednesday, Day, Venetian, Venue, Happy Hour/Reception, Additional Services, Inclusion & Diversity, Area of Interest, , speakers :, thirdpartyid :ACT044, sessionuid :E6C5D275-9F8E-4BD4-A6E8-7CBDDAA86C63, title :All Builders Welcome reception, description :Join the AWS Inclusion, Diversity, and Equity team alongside the Women at Amazon, Black Employee Network, Latinos at Amazon, Indigenous at Amazon, Asians at Amazon, Amazon People with Disabilities, Glamazon, and Warriors at Amazon affinity groups to celebrate inclusion and diversity in technology. Network and build community in a safe space with fellow technologists who are creating paths for diversity to be reflected in the cloud, and unwind to music from DJ Meel., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Tao, startdatetimeutc :November, 30 2023 02:00:00 -0500, enddatetimeutc :November, 30 2023 05:00:00 -0500, 
+enddatetimeutc: November, 30 2023 05:00:00 -0500
+startdatetimeutc: November, 30 2023 02:00:00 -0500
+locationname: Tao
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Join the AWS Inclusion, Diversity, and Equity team alongside the Women at Amazon, Black Employee Network, Latinos at Amazon, Indigenous at Amazon, Asians at Amazon, Amazon People with Disabilities, Glamazon, and Warriors at Amazon affinity groups to celebrate inclusion and diversity in technology. Network and build community in a safe space with fellow technologists who are creating paths for diversity to be reflected in the cloud, and unwind to music from DJ Meel
+title: All Builders Welcome reception
+sessionuid: E6C5D275-9F8E-4BD4-A6E8-7CBDDAA86C63
+thirdpartyid: ACT044
+speakers: 
+tag_name: Wednesday, Day, Venetian, Venue, Happy Hour/Reception, Additional Services, Inclusion & Diversity, Area of Interest

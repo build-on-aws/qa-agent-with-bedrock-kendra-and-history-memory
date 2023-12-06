@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :IT Executive, Role, Partner Enablement, Topic, Tuesday, Day, Venetian, Venue, Strategy & Transformation, Area of Interest, Business Executive, Role, Sales/Marketing, Role, 100 - Foundational, Level, , speakers :firstName_0: Jovi, lastName_0: Teixeira, firstName_1: Mike, lastName_1: Cannady, , thirdpartyid :PEX124, sessionuid :45E8A806-7681-48F6-8FCC-F19B283489B3, title :Public sector actionable insights: Grow through AWS Partner Programs, description :Calling all AWS Partners doing business in the public sector! Join this lightning talk to learn about the latest updates in AWS Partner Programs that will help you drive growth and profitability in your public sector businesses. In this lightning talk, hear about programs such as the AWS Partner Transformation Program and Think Big for Small Business, as well as the latest incentives for resellers. Partners in all phases of their journey can benefit from this overview of updates and use cases. This lightning talk is intended for AWS Partners., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 28 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 23:20:00 -0500, 
+enddatetimeutc: November, 28 2023 23:20:00 -0500
+startdatetimeutc: November, 28 2023 23:00:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Calling all AWS Partners doing business in the public sector! Join this lightning talk to learn about the latest updates in AWS Partner Programs that will help you drive growth and profitability in your public sector businesses. In this lightning talk, hear about programs such as the AWS Partner Transformation Program and Think Big for Small Business, as well as the latest incentives for resellers. Partners in all phases of their journey can benefit from this overview of updates and use cases. This lightning talk is intended for AWS Partners
+title: Public sector actionable insights: Grow through AWS Partner Programs
+sessionuid: 45E8A806-7681-48F6-8FCC-F19B283489B3
+thirdpartyid: PEX124
+speakers: firstName_0: Jovi, lastName_0: Teixeira, firstName_1: Mike, lastName_1: Cannady
+tag_name: IT Executive, Role, Partner Enablement, Topic, Tuesday, Day, Venetian, Venue, Strategy & Transformation, Area of Interest, Business Executive, Role, Sales/Marketing, Role, 100 - Foundational, Level

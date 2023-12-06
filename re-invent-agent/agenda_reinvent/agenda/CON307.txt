@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine H
+summary: tag_name :Cross Industry, Industry, Amazon Elastic Container Service (ECS), Services, AWS Fargate, Services, 300 - Advanced, Level, Serverless Compute, Topic, Management & Governance, Area of Interest, System Administrator, Role, IT Administrator, Role, Tuesday, Day, Mandalay Bay, Venue, Cost Optimization, Area of Interest, Developer/Engineer, Role, Innovation on AWS, Area of Interest, , speakers :firstName_0: Olly, lastName_0: Pomeroy, firstName_1: Himanshu, lastName_1: Kohli, , thirdpartyid :CON307, sessionuid :D6E34B1B-7491-4504-BEED-02640855E9F1, title :Reducing AWS Fargate startup times by lazily loading container images, description :This session dives deep into Seekable OCI (SOCI). Learn how, by using SOCI indexes with AWS Fargate, you can dramatically reduce the time taken to launch Amazon ECS tasks. Hear about SOCI best practices, learn how to verify that you are using SOCI for the right workloads, and consider different ways to automate the creation of a SOCI index for existing OCI container images., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine H, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Jasmine H
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: This session dives deep into Seekable OCI (SOCI). Learn how, by using SOCI indexes with AWS Fargate, you can dramatically reduce the time taken to launch Amazon ECS tasks. Hear about SOCI best practices, learn how to verify that you are using SOCI for the right workloads, and consider different ways to automate the creation of a SOCI index for existing OCI container images
+title: Reducing AWS Fargate startup times by lazily loading container images
+sessionuid: D6E34B1B-7491-4504-BEED-02640855E9F1
+thirdpartyid: CON307
+speakers: firstName_0: Olly, lastName_0: Pomeroy, firstName_1: Himanshu, lastName_1: Kohli
+tag_name: Cross Industry, Industry, Amazon Elastic Container Service (ECS), Services, AWS Fargate, Services, 300 - Advanced, Level, Serverless Compute, Topic, Management & Governance, Area of Interest, System Administrator, Role, IT Administrator, Role, Tuesday, Day, Mandalay Bay, Venue, Cost Optimization, Area of Interest, Developer/Engineer, Role, Innovation on AWS, Area of Interest

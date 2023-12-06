@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3104
+summary: tag_name :Venetian, Venue, Monday, Day, Automotive, Industry, IT Professional/Technical Manager, Role, AI/ML, Topic, Cross Industry, Industry, AWS DeepRacer, Services, 400 - Expert, Level, Amazon Bedrock, Services, DeepRacer, Area of Interest, Financial Services, Industry, Developer/Engineer, Role, Generative AI, Area of Interest, Amazon SageMaker, Services, Student, Role, , speakers :firstName_0: Madhukiran, lastName_0: J, , thirdpartyid :DPR401-R, sessionuid :BDE84503-3F44-49DD-A753-DF2EEAB4F924, title :Applying generative AI to business problems with AWS DeepRacer [REPEAT], description :Learn how to harness the power of generative AI with AWS DeepRacer assets to solve business challenges. In this workshop, use different foundation models to perform conversational log analysis and synthesize images. This workshop not only helps you improve your AWS DeepRacer results but also teaches you how to use generative AI for any business problem. Gain hands-on experience and valuable skills in generative AI that you can use in your work. You must bring your laptop to participate., sessiontype :Workshop, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3104, startdatetimeutc :November, 27 2023 19:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 19:00:00 -0500
+locationname: Lido 3104
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Workshop
+description: Learn how to harness the power of generative AI with AWS DeepRacer assets to solve business challenges. In this workshop, use different foundation models to perform conversational log analysis and synthesize images. This workshop not only helps you improve your AWS DeepRacer results but also teaches you how to use generative AI for any business problem. Gain hands-on experience and valuable skills in generative AI that you can use in your work. You must bring your laptop to participate
+title: Applying generative AI to business problems with AWS DeepRacer [REPEAT]
+sessionuid: BDE84503-3F44-49DD-A753-DF2EEAB4F924
+thirdpartyid: DPR401-R
+speakers: firstName_0: Madhukiran, lastName_0: J
+tag_name: Venetian, Venue, Monday, Day, Automotive, Industry, IT Professional/Technical Manager, Role, AI/ML, Topic, Cross Industry, Industry, AWS DeepRacer, Services, 400 - Expert, Level, Amazon Bedrock, Services, DeepRacer, Area of Interest, Financial Services, Industry, Developer/Engineer, Role, Generative AI, Area of Interest, Amazon SageMaker, Services, Student, Role

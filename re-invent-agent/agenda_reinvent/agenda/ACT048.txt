@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1280
+summary: tag_name :Wednesday, Day, Venetian, Venue, PeerTalks, Additional Services, Inclusion & Diversity, Area of Interest, , speakers :, thirdpartyid :ACT048, sessionuid :69657E8E-E3CE-4895-8C8C-8BE3E995FBD9, title :Indigenous in Tech fireside chat and meetup, description :Indigenous communities are among the most unserved and underserved populations for broadband deployment and computer science (CS) education, with Indigenous youth facing significant barriers in accessing CS instruction, creating a concerning educational disparity. Join leaders from Indigenous at Amazon to discuss the digital divide and the limitations that prevent Indigenous peoples from having access to technology, founder programs, and the services and products that digital services provide. Following this fireside chat, network and find community with fellow re:Invent attendees during our Indigenous in Tech meetup., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1280, startdatetimeutc :November, 30 2023 01:00:00 -0500, enddatetimeutc :November, 30 2023 02:00:00 -0500, 
+enddatetimeutc: November, 30 2023 02:00:00 -0500
+startdatetimeutc: November, 30 2023 01:00:00 -0500
+locationname: Hall B, Expo, Booth #1280
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Indigenous communities are among the most unserved and underserved populations for broadband deployment and computer science (CS) education, with Indigenous youth facing significant barriers in accessing CS instruction, creating a concerning educational disparity. Join leaders from Indigenous at Amazon to discuss the digital divide and the limitations that prevent Indigenous peoples from having access to technology, founder programs, and the services and products that digital services provide. Following this fireside chat, network and find community with fellow re:Invent attendees during our Indigenous in Tech meetup
+title: Indigenous in Tech fireside chat and meetup
+sessionuid: 69657E8E-E3CE-4895-8C8C-8BE3E995FBD9
+thirdpartyid: ACT048
+speakers: 
+tag_name: Wednesday, Day, Venetian, Venue, PeerTalks, Additional Services, Inclusion & Diversity, Area of Interest

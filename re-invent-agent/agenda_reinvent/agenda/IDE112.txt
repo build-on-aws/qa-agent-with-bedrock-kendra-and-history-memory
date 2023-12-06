@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific E
+summary: tag_name :Customer Enablement, Topic, Developer/Engineer, Role, Inclusion & Diversity, Area of Interest, Innovation on AWS, Area of Interest, Customer Stories, Area of Interest, 100 - Foundational, Level, Monday, Day, Mandalay Bay, Venue, Business Applications, Topic, IT Executive, Role, Business Executive, Role, , speakers :, thirdpartyid :IDE112, sessionuid :27387D11-9BB4-4ED5-911D-B2284181891D, title :The impact of access: Women technologists driving innovation in cloud, description :Women hold just 26% of technical roles despite making up nearly half of the US labor force. Unlocking access for women in tech fuels inclusion, innovation, and customer outcomes. Join this session to kick off the AWS Women of the Cloud event and hear from women technologists who are driving transformation across AWS., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific E, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 17:30:00 -0500, 
+enddatetimeutc: November, 27 2023 17:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: South Pacific E
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Women hold just 26% of technical roles despite making up nearly half of the US labor force. Unlocking access for women in tech fuels inclusion, innovation, and customer outcomes. Join this session to kick off the AWS Women of the Cloud event and hear from women technologists who are driving transformation across AWS
+title: The impact of access: Women technologists driving innovation in cloud
+sessionuid: 27387D11-9BB4-4ED5-911D-B2284181891D
+thirdpartyid: IDE112
+speakers: 
+tag_name: Customer Enablement, Topic, Developer/Engineer, Role, Inclusion & Diversity, Area of Interest, Innovation on AWS, Area of Interest, Customer Stories, Area of Interest, 100 - Foundational, Level, Monday, Day, Mandalay Bay, Venue, Business Applications, Topic, IT Executive, Role, Business Executive, Role

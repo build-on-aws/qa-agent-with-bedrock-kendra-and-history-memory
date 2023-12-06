@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 118
+summary: tag_name :200 - Intermediate, Level, New to AWS, Topic, Media & Entertainment, Industry, Solution/Systems Architect, Role, Wednesday, Day, MGM Grand, Venue, Amazon Interactive Video Service (IVS), Services, AWS Lambda, Services, Developer/Engineer, Role, , speakers :firstName_0: Julian, lastName_0: Bonilla, firstName_1: Vivek, lastName_1: Mittal, , thirdpartyid :NTA202, sessionuid :D06339CF-1C1F-433D-9D5B-4E3C3A6E8085, title :Build a scalable, serverless, collaborative livestreaming application, description :Organizations often struggle with the high cost associated with setting up livestreaming platforms for building low-latency and global applications. They don’t want to make huge upfront investments and need to be able to scale with their customers’ growth. In this workshop, discover how you can build a serverless livestreaming application. The workshop includes hands-on experience with Amazon Interactive Video Service (Amazon IVS), AWS Lambda, AWS Amplify, and Amazon DynamoDB to stream live video and store the video for later playback. Additionally, learn to make the application interactive by setting up chat alongside your live content and using polls to gauge audience opinion. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 118, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Grand 118
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: Organizations often struggle with the high cost associated with setting up livestreaming platforms for building low-latency and global applications. They don’t want to make huge upfront investments and need to be able to scale with their customers’ growth. In this workshop, discover how you can build a serverless livestreaming application. The workshop includes hands-on experience with Amazon Interactive Video Service (Amazon IVS), AWS Lambda, AWS Amplify, and Amazon DynamoDB to stream live video and store the video for later playback. Additionally, learn to make the application interactive by setting up chat alongside your live content and using polls to gauge audience opinion. You must bring your laptop to participate
+title: Build a scalable, serverless, collaborative livestreaming application
+sessionuid: D06339CF-1C1F-433D-9D5B-4E3C3A6E8085
+thirdpartyid: NTA202
+speakers: firstName_0: Julian, lastName_0: Bonilla, firstName_1: Vivek, lastName_1: Mittal
+tag_name: 200 - Intermediate, Level, New to AWS, Topic, Media & Entertainment, Industry, Solution/Systems Architect, Role, Wednesday, Day, MGM Grand, Venue, Amazon Interactive Video Service (IVS), Services, AWS Lambda, Services, Developer/Engineer, Role

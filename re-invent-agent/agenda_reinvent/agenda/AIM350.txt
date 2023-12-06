@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3104
+summary: tag_name :Amazon Personalize, Services, Wednesday, Day, Generative AI, Area of Interest, AI/ML, Topic, Developer/Engineer, Role, Analytics, Topic, Solution/Systems Architect, Role, Venetian, Venue, 300 - Advanced, Level, Business Intelligence, Area of Interest, Data Engineer, Role, Cross Industry, Industry, Amazon Bedrock, Services, , speakers :firstName_0: James, lastName_0: Jory, firstName_1: Tim, lastName_1: WU, , thirdpartyid :AIM350, sessionuid :54DCFECA-7361-466B-9115-EBE7A4E0C707, title :Personalized marketing content with generative AI & Amazon Personalize, description :Learn how to augment Amazon Personalize with generative AI to boost user engagement and provide highly optimized customer interactions. In this workshop, you use AWS foundation model technology with personalization algorithms from Amazon Personalize to automatically generate thematic connections between recommended content for virtually any interface. Come build a custom solution with personalized content descriptions that can be integrated into existing websites, applications, and email marketing systems using simple APIs. You must bring your laptop to participate., sessiontype :Workshop, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3104, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 21:30:00 -0500, 
+enddatetimeutc: November, 29 2023 21:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Lido 3104
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Workshop
+description: Learn how to augment Amazon Personalize with generative AI to boost user engagement and provide highly optimized customer interactions. In this workshop, you use AWS foundation model technology with personalization algorithms from Amazon Personalize to automatically generate thematic connections between recommended content for virtually any interface. Come build a custom solution with personalized content descriptions that can be integrated into existing websites, applications, and email marketing systems using simple APIs. You must bring your laptop to participate
+title: Personalized marketing content with generative AI & Amazon Personalize
+sessionuid: 54DCFECA-7361-466B-9115-EBE7A4E0C707
+thirdpartyid: AIM350
+speakers: firstName_0: James, lastName_0: Jory, firstName_1: Tim, lastName_1: WU
+tag_name: Amazon Personalize, Services, Wednesday, Day, Generative AI, Area of Interest, AI/ML, Topic, Developer/Engineer, Role, Analytics, Topic, Solution/Systems Architect, Role, Venetian, Venue, 300 - Advanced, Level, Business Intelligence, Area of Interest, Data Engineer, Role, Cross Industry, Industry, Amazon Bedrock, Services

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 101
+summary: tag_name :300 - Advanced, Level, Customer Enablement, Topic, Developer/Engineer, Role, Monday, Day, MGM Grand, Venue, Solution/Systems Architect, Role, Architecture, Topic, , speakers :firstName_0: James, lastName_0: DuHart, firstName_1: David, lastName_1: Pallmann, , thirdpartyid :XNT303-R, sessionuid :7EEC71C8-504E-4E15-8F6A-7EB718D462A0, title :Architecting resilient and highly available .NET workloads [REPEAT], description :Companies need to architect their workloads for high availability (HA) and disaster recovery (DR) to meet the application resilience expectations of their customers. In this chalk talk, explore resilient architectures, how to design for RPO/RTO, and AWS tools and services to help you optimize your Microsoft .NET workloads. Regardless of where you are in your modernization journey, join this talk for strategies to make your applications more resilient while optimizing for cost., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :101, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: 101
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Companies need to architect their workloads for high availability (HA) and disaster recovery (DR) to meet the application resilience expectations of their customers. In this chalk talk, explore resilient architectures, how to design for RPO/RTO, and AWS tools and services to help you optimize your Microsoft .NET workloads. Regardless of where you are in your modernization journey, join this talk for strategies to make your applications more resilient while optimizing for cost
+title: Architecting resilient and highly available .NET workloads [REPEAT]
+sessionuid: 7EEC71C8-504E-4E15-8F6A-7EB718D462A0
+thirdpartyid: XNT303-R
+speakers: firstName_0: James, lastName_0: DuHart, firstName_1: David, lastName_1: Pallmann
+tag_name: 300 - Advanced, Level, Customer Enablement, Topic, Developer/Engineer, Role, Monday, Day, MGM Grand, Venue, Solution/Systems Architect, Role, Architecture, Topic

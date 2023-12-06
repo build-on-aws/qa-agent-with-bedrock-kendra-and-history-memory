@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 305
+summary: tag_name :AI/ML, Topic, Business Applications, Topic, Generative AI, Area of Interest, Strategy & Transformation, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon Connect, Services, AWS Supply Chain, Services, Caesars Forum, Venue, Tuesday, Day, , speakers :firstName_0: Nelson, lastName_0: Martinez, firstName_1: Hannah, lastName_1: Bloking, , thirdpartyid :BIZ312-R, sessionuid :973E0181-F499-4D04-8C4B-ECFD00445472, title :Supercharge customer service with Amazon Connect and AWS Supply Chain [REPEAT], description :<p>Customer expectations are at an all-time high, and their experiences impact every buying decision they make. This means businesses must be able to exceed their customers’ expectations, despite external factors like product availability that can impact their buying decisions and loyalty. In this chalk talk, learn how to use Amazon Connect’s omnichannel capabilities to deliver a superior customer experience and AWS Supply Chain’s real-time insights to deliver on customer promises.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 305, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: Alliance 305
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Customer expectations are at an all-time high, and their experiences impact every buying decision they make. This means businesses must be able to exceed their customers’ expectations, despite external factors like product availability that can impact their buying decisions and loyalty. In this chalk talk, learn how to use Amazon Connect’s omnichannel capabilities to deliver a superior customer experience and AWS Supply Chain’s real-time insights to deliver on customer promises.</p>
+title: Supercharge customer service with Amazon Connect and AWS Supply Chain [REPEAT]
+sessionuid: 973E0181-F499-4D04-8C4B-ECFD00445472
+thirdpartyid: BIZ312-R
+speakers: firstName_0: Nelson, lastName_0: Martinez, firstName_1: Hannah, lastName_1: Bloking
+tag_name: AI/ML, Topic, Business Applications, Topic, Generative AI, Area of Interest, Strategy & Transformation, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon Connect, Services, AWS Supply Chain, Services, Caesars Forum, Venue, Tuesday, Day

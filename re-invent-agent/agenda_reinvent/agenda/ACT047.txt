@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1280
+summary: tag_name :Wednesday, Day, Venetian, Venue, PeerTalks, Additional Services, Inclusion & Diversity, Area of Interest, , speakers :, thirdpartyid :ACT047, sessionuid :049D2DAD-8834-4C98-88D1-DBA8756D8776, title :Black in Tech fireside chat and meetup, description :Join Amazon’s Black Employee Network (BEN) in the All Builders Welcome Lounge to connect with global leaders and members, learn more about key BEN initiatives, and network with fellow re:Invent attendees., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1280, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Hall B, Expo, Booth #1280
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Join Amazon’s Black Employee Network (BEN) in the All Builders Welcome Lounge to connect with global leaders and members, learn more about key BEN initiatives, and network with fellow re:Invent attendees
+title: Black in Tech fireside chat and meetup
+sessionuid: 049D2DAD-8834-4C98-88D1-DBA8756D8776
+thirdpartyid: ACT047
+speakers: 
+tag_name: Wednesday, Day, Venetian, Venue, PeerTalks, Additional Services, Inclusion & Diversity, Area of Interest

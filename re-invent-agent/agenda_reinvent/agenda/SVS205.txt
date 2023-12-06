@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine F
+summary: tag_name :Serverless Compute, Topic, AWS Lambda, Services, Amazon EventBridge, Services, Developer/Engineer, Role, Tech Explorer, Role, 200 - Intermediate, Level, Application Integration, Area of Interest, Thursday, Day, Mandalay Bay, Venue, AWS Step Functions, Services, Solution/Systems Architect, Role, Amazon API Gateway, Services, , speakers :firstName_0: Emily, lastName_0: Shea, firstName_1: Naren, lastName_1: Gakka, , thirdpartyid :SVS205, sessionuid :9C2E8397-2B0C-4247-AAE6-B570A774DF1C, title :Getting started building serverless event-driven applications, description :Discover how to get started building serverless web applications that can solve common problems. In this session, learn about the process of prototyping a solution from concept to a fully featured application that uses Amazon API Gateway, AWS Lambda, Amazon EventBridge, AWS Step Functions, Amazon DynamoDB, AWS Application Composer, and more. Learn why serverless is a great tool set for experimenting with new ideas and how the extensibility and modularity of serverless applications allow you to start small and quickly make your idea a reality., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine F, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: Jasmine F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Discover how to get started building serverless web applications that can solve common problems. In this session, learn about the process of prototyping a solution from concept to a fully featured application that uses Amazon API Gateway, AWS Lambda, Amazon EventBridge, AWS Step Functions, Amazon DynamoDB, AWS Application Composer, and more. Learn why serverless is a great tool set for experimenting with new ideas and how the extensibility and modularity of serverless applications allow you to start small and quickly make your idea a reality
+title: Getting started building serverless event-driven applications
+sessionuid: 9C2E8397-2B0C-4247-AAE6-B570A774DF1C
+thirdpartyid: SVS205
+speakers: firstName_0: Emily, lastName_0: Shea, firstName_1: Naren, lastName_1: Gakka
+tag_name: Serverless Compute, Topic, AWS Lambda, Services, Amazon EventBridge, Services, Developer/Engineer, Role, Tech Explorer, Role, 200 - Intermediate, Level, Application Integration, Area of Interest, Thursday, Day, Mandalay Bay, Venue, AWS Step Functions, Services, Solution/Systems Architect, Role, Amazon API Gateway, Services

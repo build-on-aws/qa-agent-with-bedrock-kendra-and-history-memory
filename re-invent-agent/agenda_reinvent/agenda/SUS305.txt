@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :Data Scientist, Role, Amazon SageMaker, Services, Sustainability, Area of Interest, Wednesday, Day, Mandalay Bay, Venue, Cross Industry, Industry, Solution/Systems Architect, Role, AI/ML, Topic, Amazon Bedrock, Services, 300 - Advanced, Level, , speakers :firstName_0: Isha, lastName_0: Dua, firstName_1: Wafae, lastName_1: Bakkali, , thirdpartyid :SUS305, sessionuid :131CC89D-27BE-4CBC-9151-824C38AC41DF, title :Optimizing generative AI workloads for sustainability, description :With the increasing complexity, scale, and adoption of AI workloads, it is important to consider their environmental impact. This chalk talk provides environmental sustainability insights that are specific to large language models and how machine learning operations (MLOps) is critical to sustainable optimization. Explore practical best practices for different customization scenarios including training models from scratch, fine-tuning with additional data using full or parameter-efficient techniques, retrieval augmented generation, and prompt engineering., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: With the increasing complexity, scale, and adoption of AI workloads, it is important to consider their environmental impact. This chalk talk provides environmental sustainability insights that are specific to large language models and how machine learning operations (MLOps) is critical to sustainable optimization. Explore practical best practices for different customization scenarios including training models from scratch, fine-tuning with additional data using full or parameter-efficient techniques, retrieval augmented generation, and prompt engineering
+title: Optimizing generative AI workloads for sustainability
+sessionuid: 131CC89D-27BE-4CBC-9151-824C38AC41DF
+thirdpartyid: SUS305
+speakers: firstName_0: Isha, lastName_0: Dua, firstName_1: Wafae, lastName_1: Bakkali
+tag_name: Data Scientist, Role, Amazon SageMaker, Services, Sustainability, Area of Interest, Wednesday, Day, Mandalay Bay, Venue, Cross Industry, Industry, Solution/Systems Architect, Role, AI/ML, Topic, Amazon Bedrock, Services, 300 - Advanced, Level

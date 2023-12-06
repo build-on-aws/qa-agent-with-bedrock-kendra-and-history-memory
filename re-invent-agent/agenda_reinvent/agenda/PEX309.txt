@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3002
+summary: tag_name :Partner Enablement, Topic, 300 - Advanced, Level, Monday, Day, Venetian, Venue, , speakers :firstName_0: lenin, lastName_0: arivukadal, firstName_1: Venkatesh, lastName_1: Periyathambi, , thirdpartyid :PEX309, sessionuid :F4499400-24DB-4990-8DE4-7124CE78D537, title :Data patterns: Get the big picture for data applications, description :In this session, learn how to identify and analyze crucial data patterns for understanding data, making informed decisions, and extracting valuable insights when migrating data to AWS. Explore a typical migration journey and discover how to choose the right AWS data services. Learn how to leverage the technical architecture and runbook for data patterns in the data lifecycle on AWS. Learning these data patterns can help you focus on the major technical activities that can drive an opportunity from discovery to launch and build scalable, reliable, and secure data pipelines that include advanced analytics and AI/ML. This session is intended for AWS Partners., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3002, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 19:30:00 -0500, 
+enddatetimeutc: November, 27 2023 19:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: Lido 3002
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Breakout Session
+description: In this session, learn how to identify and analyze crucial data patterns for understanding data, making informed decisions, and extracting valuable insights when migrating data to AWS. Explore a typical migration journey and discover how to choose the right AWS data services. Learn how to leverage the technical architecture and runbook for data patterns in the data lifecycle on AWS. Learning these data patterns can help you focus on the major technical activities that can drive an opportunity from discovery to launch and build scalable, reliable, and secure data pipelines that include advanced analytics and AI/ML. This session is intended for AWS Partners
+title: Data patterns: Get the big picture for data applications
+sessionuid: F4499400-24DB-4990-8DE4-7124CE78D537
+thirdpartyid: PEX309
+speakers: firstName_0: lenin, lastName_0: arivukadal, firstName_1: Venkatesh, lastName_1: Periyathambi
+tag_name: Partner Enablement, Topic, 300 - Advanced, Level, Monday, Day, Venetian, Venue

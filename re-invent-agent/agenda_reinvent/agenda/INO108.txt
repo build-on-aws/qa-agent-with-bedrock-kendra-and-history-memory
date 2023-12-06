@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 115
+summary: tag_name :IT Executive, Role, Innovation on AWS, Area of Interest, Financial Services, Industry, Analytics, Topic, 100 - Foundational, Level, Tuesday, Day, MGM Grand, Venue, Customer Stories, Area of Interest, Strategy & Transformation, Area of Interest, New to AWS, Topic, Business Executive, Role, , speakers :firstName_0: Lauren, lastName_0: Stein, firstName_1: Arun, lastName_1: Anur, company_1: Envestnet, firstName_2: Joe, lastName_2: Fiorillo, company_2: Envestnet, , thirdpartyid :INO108, sessionuid :9B1E8D5F-78ED-4D13-B6C1-72785198B681, title :How to drive growth and create differentiated customer experiences, description :Learn how this financial services organization reinvented the experience for investors and financial advisors by leveraging the AWS hallmark mechanism for innovation. Combining its vast amount of financial data and market data and trends with AWS solutions, this organization launched a new product that created a differentiated experience for financial advisors and potential customers. In addition, the product helped increase productivity, earn trust across the workforce, raise brand value, and enhance technology value creation., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 115, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Grand 115
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Learn how this financial services organization reinvented the experience for investors and financial advisors by leveraging the AWS hallmark mechanism for innovation. Combining its vast amount of financial data and market data and trends with AWS solutions, this organization launched a new product that created a differentiated experience for financial advisors and potential customers. In addition, the product helped increase productivity, earn trust across the workforce, raise brand value, and enhance technology value creation
+title: How to drive growth and create differentiated customer experiences
+sessionuid: 9B1E8D5F-78ED-4D13-B6C1-72785198B681
+thirdpartyid: INO108
+speakers: firstName_0: Lauren, lastName_0: Stein, firstName_1: Arun, lastName_1: Anur, company_1: Envestnet, firstName_2: Joe, lastName_2: Fiorillo, company_2: Envestnet
+tag_name: IT Executive, Role, Innovation on AWS, Area of Interest, Financial Services, Industry, Analytics, Topic, 100 - Foundational, Level, Tuesday, Day, MGM Grand, Venue, Customer Stories, Area of Interest, Strategy & Transformation, Area of Interest, New to AWS, Topic, Business Executive, Role

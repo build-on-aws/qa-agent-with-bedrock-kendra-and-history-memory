@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3104
+summary: tag_name :AWS Organizations, Services, Solution/Systems Architect, Role, 300 - Advanced, Level, DevOps Engineer, Role, IT Professional/Technical Manager, Role, Venetian, Venue, Tuesday, Day, Management & Governance, Area of Interest, AWS Systems Manager, Services, Cloud Operations, Topic, , speakers :firstName_0: Marco, lastName_0: Sommella, firstName_1: Praveen, lastName_1: Bhat, , thirdpartyid :COP346, sessionuid :463E7C2C-9053-49C4-B6DC-9CCEFAD6E118, title :Automate patch management and compliance, description :In this workshop, learn how to automate patch management and compliance. Using AWS Systems Manager, you can quickly enable patching at scale across your AWS accounts and Regions within your organization. Get hands-on experience on how to use AWS Systems Manager to enable patching operations and increase compliance. You must bring your laptop to participate., sessiontype :Workshop, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3104, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 29 2023 00:00:00 -0500, 
+enddatetimeutc: November, 29 2023 00:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Lido 3104
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Workshop
+description: In this workshop, learn how to automate patch management and compliance. Using AWS Systems Manager, you can quickly enable patching at scale across your AWS accounts and Regions within your organization. Get hands-on experience on how to use AWS Systems Manager to enable patching operations and increase compliance. You must bring your laptop to participate
+title: Automate patch management and compliance
+sessionuid: 463E7C2C-9053-49C4-B6DC-9CCEFAD6E118
+thirdpartyid: COP346
+speakers: firstName_0: Marco, lastName_0: Sommella, firstName_1: Praveen, lastName_1: Bhat
+tag_name: AWS Organizations, Services, Solution/Systems Architect, Role, 300 - Advanced, Level, DevOps Engineer, Role, IT Professional/Technical Manager, Role, Venetian, Venue, Tuesday, Day, Management & Governance, Area of Interest, AWS Systems Manager, Services, Cloud Operations, Topic

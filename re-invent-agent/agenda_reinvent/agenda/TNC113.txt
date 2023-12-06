@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Venetian Ballroom J
+summary: tag_name :Training & Certification, Topic, 100 - Foundational, Level, Monday, Day, Venetian, Venue, Lounges, Additional Services, , speakers :firstName_0: Jacqueline, lastName_0: Carpenito, , thirdpartyid :TNC113, sessionuid :AF14DE97-9C51-43EA-9412-01BF0079E577, title :Become an AWS Training and Certification Learning SME, description :This session provides an overview of the AWS Training and Certification Learning Subject Matter Expert (SME) program. If you are AWS Certified with a high level of hands-on AWS experience, join this session to explore the program, understand its benefits to you, and consider applying to contribute to the program., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Venetian Ballroom J, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Venetian Ballroom J
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: This session provides an overview of the AWS Training and Certification Learning Subject Matter Expert (SME) program. If you are AWS Certified with a high level of hands-on AWS experience, join this session to explore the program, understand its benefits to you, and consider applying to contribute to the program
+title: Become an AWS Training and Certification Learning SME
+sessionuid: AF14DE97-9C51-43EA-9412-01BF0079E577
+thirdpartyid: TNC113
+speakers: firstName_0: Jacqueline, lastName_0: Carpenito
+tag_name: Training & Certification, Topic, 100 - Foundational, Level, Monday, Day, Venetian, Venue, Lounges, Additional Services

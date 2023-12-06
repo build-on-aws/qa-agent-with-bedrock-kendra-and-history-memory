@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 2
+summary: tag_name :Developer/Engineer, Role, Responsible AI, Area of Interest, Amazon CodeWhisperer, Services, DevOps and Developer Productivity, Topic, Tuesday, Day, Wynn, Venue, Generative AI, Area of Interest, DevOps Engineer, Role, 200 - Intermediate, Level, , speakers :firstName_0: David, lastName_0: Ernst, firstName_1: Rafael, lastName_1: Ramos, , thirdpartyid :DOP204, sessionuid :6960AD57-34D2-48C7-AA5B-50B7E539318B, title :Tips and tricks for coding with Amazon CodeWhisperer, description :Generative AI tools that can generate code suggestions, such as Amazon CodeWhisperer, are growing rapidly in popularity. Join this code talk to learn how CodeWhisperer can accelerate and enhance your software development with code generation, reference tracking, security scans, and more. Learn best practices for prompt engineering, and get tips and tricks that can help you be more productive when building applications., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 2, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 20:30:00 -0500, 
+enddatetimeutc: November, 28 2023 20:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Lafite 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: Generative AI tools that can generate code suggestions, such as Amazon CodeWhisperer, are growing rapidly in popularity. Join this code talk to learn how CodeWhisperer can accelerate and enhance your software development with code generation, reference tracking, security scans, and more. Learn best practices for prompt engineering, and get tips and tricks that can help you be more productive when building applications
+title: Tips and tricks for coding with Amazon CodeWhisperer
+sessionuid: 6960AD57-34D2-48C7-AA5B-50B7E539318B
+thirdpartyid: DOP204
+speakers: firstName_0: David, lastName_0: Ernst, firstName_1: Rafael, lastName_1: Ramos
+tag_name: Developer/Engineer, Role, Responsible AI, Area of Interest, Amazon CodeWhisperer, Services, DevOps and Developer Productivity, Topic, Tuesday, Day, Wynn, Venue, Generative AI, Area of Interest, DevOps Engineer, Role, 200 - Intermediate, Level

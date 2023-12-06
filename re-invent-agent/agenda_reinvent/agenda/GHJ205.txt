@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Mandalay Bay Ballroom F
+summary: tag_name :Cross Industry, Industry, Training & Certification, Topic, 200 - Intermediate, Level, Security, Compliance, & Identity, Topic, Mandalay Bay, Venue, Thursday, Day, Solution/Systems Architect, Role, Threat Detection & Incident Response, Area of Interest, Application Security, Area of Interest, Cloud Security Specialist, Role, Network & Infrastructure Security, Area of Interest, Developer/Engineer, Role, , speakers :, thirdpartyid :GHJ205, sessionuid :9130C191-DB9E-4CAC-9ACB-31C78A53614F, title :AWS Jam: Security, description :Are you concerned about protecting sensitive data in the cloud? Are you ready to put your AWS security skills to the test and learn in a team-based competition? Join this AWS Jam to get hands-on experience with AWS services and offerings from AWS partners via simulated scenarios, and get a chance to win prizes. Activities are structured to accommodate all skill levels and AWS experts are available to help you enhance your security knowledge. Come with a team, or if you don't have a team, we will help you join one. All you need to bring is your desire to learn and a laptop., sessiontype :Gamified Learning, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Mandalay Bay Ballroom F, startdatetimeutc :November, 30 2023 16:00:00 -0500, enddatetimeutc :November, 30 2023 19:00:00 -0500, 
+enddatetimeutc: November, 30 2023 19:00:00 -0500
+startdatetimeutc: November, 30 2023 16:00:00 -0500
+locationname: Mandalay Bay Ballroom F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Gamified Learning
+description: Are you concerned about protecting sensitive data in the cloud? Are you ready to put your AWS security skills to the test and learn in a team-based competition? Join this AWS Jam to get hands-on experience with AWS services and offerings from AWS partners via simulated scenarios, and get a chance to win prizes. Activities are structured to accommodate all skill levels and AWS experts are available to help you enhance your security knowledge. Come with a team, or if you don't have a team, we will help you join one. All you need to bring is your desire to learn and a laptop
+title: AWS Jam: Security
+sessionuid: 9130C191-DB9E-4CAC-9ACB-31C78A53614F
+thirdpartyid: GHJ205
+speakers: 
+tag_name: Cross Industry, Industry, Training & Certification, Topic, 200 - Intermediate, Level, Security, Compliance, & Identity, Topic, Mandalay Bay, Venue, Thursday, Day, Solution/Systems Architect, Role, Threat Detection & Incident Response, Area of Interest, Application Security, Area of Interest, Cloud Security Specialist, Role, Network & Infrastructure Security, Area of Interest, Developer/Engineer, Role

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 169
+summary: tag_name :IT Executive, Role, Generative AI, Area of Interest, Cloud Security Specialist, Role, 200 - Intermediate, Level, Cross Industry, Industry, IT Professional/Technical Manager, Role, Security, Compliance, & Identity, Topic, Thursday, Day, MGM Grand, Venue, Open Source, Area of Interest, , speakers :firstName_0: Nithya, lastName_0: Ruff, , thirdpartyid :OPN201, sessionuid :453B8297-5E97-48E7-AA58-4AA122CF7918, title :Evolving OSPOs for supply chain security and generative AI, description :More than 90% of companies use open source in their product and infrastructure work. Understanding where your open source comes from and how to track and manage it is a growing role for open source program offices (OSPOs). In this chalk talk, learn about setting up an OSPO or growing OSPO focus at your company. The talk covers some of the trending discussions around what is meant by software supply chains, what SBoMs are, and what guidance can benefit you in managing models and datasets in an AI world. The new OSPO is about managing risk and providing opportunity for developers and the business., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 169, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: Boulevard 169
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: More than 90% of companies use open source in their product and infrastructure work. Understanding where your open source comes from and how to track and manage it is a growing role for open source program offices (OSPOs). In this chalk talk, learn about setting up an OSPO or growing OSPO focus at your company. The talk covers some of the trending discussions around what is meant by software supply chains, what SBoMs are, and what guidance can benefit you in managing models and datasets in an AI world. The new OSPO is about managing risk and providing opportunity for developers and the business
+title: Evolving OSPOs for supply chain security and generative AI
+sessionuid: 453B8297-5E97-48E7-AA58-4AA122CF7918
+thirdpartyid: OPN201
+speakers: firstName_0: Nithya, lastName_0: Ruff
+tag_name: IT Executive, Role, Generative AI, Area of Interest, Cloud Security Specialist, Role, 200 - Intermediate, Level, Cross Industry, Industry, IT Professional/Technical Manager, Role, Security, Compliance, & Identity, Topic, Thursday, Day, MGM Grand, Venue, Open Source, Area of Interest

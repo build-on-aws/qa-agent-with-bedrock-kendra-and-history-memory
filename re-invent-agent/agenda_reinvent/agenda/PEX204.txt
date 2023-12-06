@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Summit Showroom
+summary: tag_name :200 - Intermediate, Level, Monday, Day, Venetian, Venue, Partner Enablement, Topic, , speakers :firstName_0: Jing, lastName_0: Ning, firstName_1: Mike, lastName_1: Deck, , thirdpartyid :PEX204, sessionuid :88C369CF-F999-4E70-93B0-9EC343DFFE37, title :APN technical validations to grow your practice & delight customers, description :Are you interested in differentiating your solutions to customers with AWS technical validation programs? In this session, explore the most common challenges AWS Partners encounter when building a solution or consulting offer. Learn about how to address these gaps and improve your software products, consulting practices, and services. Walk away with technical best practices necessary to join AWS Competency and AWS Service Delivery Programs and tips for how to complete the required validations. This session is intended for AWS Partners., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Summit Showroom, startdatetimeutc :November, 28 2023 01:30:00 -0500, enddatetimeutc :November, 28 2023 02:30:00 -0500, 
+enddatetimeutc: November, 28 2023 02:30:00 -0500
+startdatetimeutc: November, 28 2023 01:30:00 -0500
+locationname: Summit Showroom
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: Are you interested in differentiating your solutions to customers with AWS technical validation programs? In this session, explore the most common challenges AWS Partners encounter when building a solution or consulting offer. Learn about how to address these gaps and improve your software products, consulting practices, and services. Walk away with technical best practices necessary to join AWS Competency and AWS Service Delivery Programs and tips for how to complete the required validations. This session is intended for AWS Partners
+title: APN technical validations to grow your practice & delight customers
+sessionuid: 88C369CF-F999-4E70-93B0-9EC343DFFE37
+thirdpartyid: PEX204
+speakers: firstName_0: Jing, lastName_0: Ning, firstName_1: Mike, lastName_1: Deck
+tag_name: 200 - Intermediate, Level, Monday, Day, Venetian, Venue, Partner Enablement, Topic

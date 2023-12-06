@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 115
+summary: tag_name :Storage, Topic, Migration & Transfer, Area of Interest, Financial Services, Industry, Healthcare, Industry, Sports, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon Simple Storage Service (S3), Services, AWS Storage Gateway, Services, Monday, Day, Caesars Forum, Venue, , speakers :firstName_0: Ed, lastName_0: Laura, firstName_1: Ed, lastName_1: Gummett, , thirdpartyid :STG334, sessionuid :CAFA08D5-BB5D-4061-ADAD-4B686B30037E, title :Best practices and cost optimization for Amazon S3 File Gateway, description :<p>In this chalk talk, dive into the world of Amazon S3 File Gateway to uncover how to optimize costs while ensuring robust data protection. S3 File Gateway seamlessly connects to the cloud to store application data files and images as durable objects in Amazon S3. Discover expert techniques to strike a balance between performance, availability, and the security of your S3 File Gateway setup. Designed for both seasoned AWS users and those just starting with cloud storage, this chalk talk dives deep into actionable insights and best practices for S3 File Gateway.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 115, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Forum 115
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In this chalk talk, dive into the world of Amazon S3 File Gateway to uncover how to optimize costs while ensuring robust data protection. S3 File Gateway seamlessly connects to the cloud to store application data files and images as durable objects in Amazon S3. Discover expert techniques to strike a balance between performance, availability, and the security of your S3 File Gateway setup. Designed for both seasoned AWS users and those just starting with cloud storage, this chalk talk dives deep into actionable insights and best practices for S3 File Gateway.</p>
+title: Best practices and cost optimization for Amazon S3 File Gateway
+sessionuid: CAFA08D5-BB5D-4061-ADAD-4B686B30037E
+thirdpartyid: STG334
+speakers: firstName_0: Ed, lastName_0: Laura, firstName_1: Ed, lastName_1: Gummett
+tag_name: Storage, Topic, Migration & Transfer, Area of Interest, Financial Services, Industry, Healthcare, Industry, Sports, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon Simple Storage Service (S3), Services, AWS Storage Gateway, Services, Monday, Day, Caesars Forum, Venue

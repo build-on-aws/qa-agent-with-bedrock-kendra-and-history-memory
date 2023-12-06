@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Inspector Classic, Services, Modernization, Area of Interest, Amazon CodeGuru, Services, Cross Industry, Industry, Security, Compliance, & Identity, Topic, Monday, Day, Wynn, Venue, Cloud Security Specialist, Role, 300 - Advanced, Level, Application Security, Area of Interest, Amazon CodeWhisperer, Services, , speakers :firstName_0: Nicholas, lastName_0: Jaeger, firstName_1: Niaz, lastName_1: Khan, , thirdpartyid :SEC313, sessionuid :65F1A7D3-F105-4D8D-8ADB-5B3282FC2FB7, title :Shift left: A builder discussion, description :In this chalk talk, discuss strategies for shifting security left using new AWS tooling to support code scanning in early stages of development. This talk highlights how to use services such as Amazon CodeWhisperer, Amazon CodeGuru, and Amazon Inspector to manage issues, and AWS Signer to ensure code provenance and integrity. Learn how AWS can help you achieve software process assurance and feel confident that only code approved by you gets deployed in production., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: In this chalk talk, discuss strategies for shifting security left using new AWS tooling to support code scanning in early stages of development. This talk highlights how to use services such as Amazon CodeWhisperer, Amazon CodeGuru, and Amazon Inspector to manage issues, and AWS Signer to ensure code provenance and integrity. Learn how AWS can help you achieve software process assurance and feel confident that only code approved by you gets deployed in production
+title: Shift left: A builder discussion
+sessionuid: 65F1A7D3-F105-4D8D-8ADB-5B3282FC2FB7
+thirdpartyid: SEC313
+speakers: firstName_0: Nicholas, lastName_0: Jaeger, firstName_1: Niaz, lastName_1: Khan
+tag_name: Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Inspector Classic, Services, Modernization, Area of Interest, Amazon CodeGuru, Services, Cross Industry, Industry, Security, Compliance, & Identity, Topic, Monday, Day, Wynn, Venue, Cloud Security Specialist, Role, 300 - Advanced, Level, Application Security, Area of Interest, Amazon CodeWhisperer, Services

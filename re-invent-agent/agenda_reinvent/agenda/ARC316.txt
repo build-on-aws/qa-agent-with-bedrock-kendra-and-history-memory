@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 4
+summary: tag_name :300 - Advanced, Level, Architecture, Topic, AWS Fault Injector Service (FIS), Services, Developer/Engineer, Role, Cross Industry, Industry, Solution/Systems Architect, Role, Resilience, Area of Interest, Thursday, Day, Wynn, Venue, DevOps Engineer, Role, , speakers :firstName_0: Laurent, lastName_0: Domb, firstName_1: Olga, lastName_1: Hall, , thirdpartyid :ARC316, sessionuid :E36D7E60-9BCD-4759-87F3-E6DE0B95AB6E, title :Practice like you play: How Amazon scales resilience to new heights, description :Amazon Prime Video has been one of the pioneers of continuous resilience and chaos engineering at scale. They’ve built a proven process with the motto “Think global, act local” to build and scale a sustainable culture of highly available services and resilience products that customers love and trust. This session highlights how Amazon Prime Video was able to meet high customer demands by making operational excellence, service resilience, observability, and reporting the top priorities. It dives into GameDays, dress rehearsals, and chaos engineering as well as the definition of an operational readiness score that drives resilience across various domains and results in increased customer satisfaction., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 4, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Lafite 4
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: Amazon Prime Video has been one of the pioneers of continuous resilience and chaos engineering at scale. They’ve built a proven process with the motto “Think global, act local” to build and scale a sustainable culture of highly available services and resilience products that customers love and trust. This session highlights how Amazon Prime Video was able to meet high customer demands by making operational excellence, service resilience, observability, and reporting the top priorities. It dives into GameDays, dress rehearsals, and chaos engineering as well as the definition of an operational readiness score that drives resilience across various domains and results in increased customer satisfaction
+title: Practice like you play: How Amazon scales resilience to new heights
+sessionuid: E36D7E60-9BCD-4759-87F3-E6DE0B95AB6E
+thirdpartyid: ARC316
+speakers: firstName_0: Laurent, lastName_0: Domb, firstName_1: Olga, lastName_1: Hall
+tag_name: 300 - Advanced, Level, Architecture, Topic, AWS Fault Injector Service (FIS), Services, Developer/Engineer, Role, Cross Industry, Industry, Solution/Systems Architect, Role, Resilience, Area of Interest, Thursday, Day, Wynn, Venue, DevOps Engineer, Role

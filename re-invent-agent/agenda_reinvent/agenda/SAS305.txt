@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :Developer/Engineer, Role, Solution/Systems Architect, Role, DevOps Engineer, Role, SaaS, Area of Interest, 300 - Advanced, Level, Friday, Day, Caesars Forum, Venue, Architecture, Topic, , speakers :firstName_0: Michael, lastName_0: Beardsley, firstName_1: William, lastName_1: Tarr, , thirdpartyid :SAS305, sessionuid :6BCBE6BC-DE40-4ECE-8D3E-9FAA00BC1B2B, title :SaaS architecture pitfalls: Lessons from the field, description :<p>There’s no one absolute path for building multi-tenant SaaS architectures. Arriving at the mix of strategies that address the specific needs of your SaaS business can be challenging. In this session, look back at some of the common patterns and pain points that we’ve seen impacting the growth, scale, and efficiency of SaaS businesses. The focus of this session is digging into the top challenges and traps that teams face, identifying specific strategies and approaches that can help teams avoid or overcome these pitfalls. Explore the full spectrum of these challenges, including architecture, design, coding, and operations.</p>, sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :December, 01 2023 19:30:00 -0500, enddatetimeutc :December, 01 2023 20:30:00 -0500, 
+enddatetimeutc: December, 01 2023 20:30:00 -0500
+startdatetimeutc: December, 01 2023 19:30:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: <p>There’s no one absolute path for building multi-tenant SaaS architectures. Arriving at the mix of strategies that address the specific needs of your SaaS business can be challenging. In this session, look back at some of the common patterns and pain points that we’ve seen impacting the growth, scale, and efficiency of SaaS businesses. The focus of this session is digging into the top challenges and traps that teams face, identifying specific strategies and approaches that can help teams avoid or overcome these pitfalls. Explore the full spectrum of these challenges, including architecture, design, coding, and operations.</p>
+title: SaaS architecture pitfalls: Lessons from the field
+sessionuid: 6BCBE6BC-DE40-4ECE-8D3E-9FAA00BC1B2B
+thirdpartyid: SAS305
+speakers: firstName_0: Michael, lastName_0: Beardsley, firstName_1: William, lastName_1: Tarr
+tag_name: Developer/Engineer, Role, Solution/Systems Architect, Role, DevOps Engineer, Role, SaaS, Area of Interest, 300 - Advanced, Level, Friday, Day, Caesars Forum, Venue, Architecture, Topic

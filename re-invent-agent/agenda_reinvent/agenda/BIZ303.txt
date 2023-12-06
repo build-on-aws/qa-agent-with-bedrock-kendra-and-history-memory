@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 307
+summary: tag_name :Amazon CloudWatch, Services, Amazon Connect, Services, Amazon Lex, Services, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, 300 - Advanced, Level, Analytics, Topic, Business Applications, Topic, Tuesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Ankur, lastName_0: Taunk, firstName_1: Mehmet, lastName_1: Demir, , thirdpartyid :BIZ303, sessionuid :630D6222-3BA2-4235-B083-E8FCBDCCDA49, title :Leverage real-time contact center insights to improve customer service, description :<p>With data at the center of every contact center, it’s essential for managers to make informed real-time decisions to improve the overall efficiency and effectiveness of every customer workflow, process, and interaction. The ability to react in real time ensures that customer needs are being met promptly. In this workshop, learn how to integrate multiple data sources and customize real-time reports to provide more responsive customer service with Amazon Connect. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 307, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 21:00:00 -0500, 
+enddatetimeutc: November, 28 2023 21:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Alliance 307
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>With data at the center of every contact center, it’s essential for managers to make informed real-time decisions to improve the overall efficiency and effectiveness of every customer workflow, process, and interaction. The ability to react in real time ensures that customer needs are being met promptly. In this workshop, learn how to integrate multiple data sources and customize real-time reports to provide more responsive customer service with Amazon Connect. You must bring your laptop to participate.</p>
+title: Leverage real-time contact center insights to improve customer service
+sessionuid: 630D6222-3BA2-4235-B083-E8FCBDCCDA49
+thirdpartyid: BIZ303
+speakers: firstName_0: Ankur, lastName_0: Taunk, firstName_1: Mehmet, lastName_1: Demir
+tag_name: Amazon CloudWatch, Services, Amazon Connect, Services, Amazon Lex, Services, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, 300 - Advanced, Level, Analytics, Topic, Business Applications, Topic, Tuesday, Day, Caesars Forum, Venue

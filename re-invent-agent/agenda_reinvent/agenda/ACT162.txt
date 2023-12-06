@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Sands Foyer
+summary: tag_name :Wednesday, Day, Venetian, Venue, , speakers :, thirdpartyid :ACT162, sessionuid :F9ACF116-AD40-44A0-BB48-5487E3BC0548, title :Hydrate and Help, description :<p><span id="isPasted" style='color: rgb(51, 51, 51); font-family: -apple-system, system-ui, "system-ui", "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>Stop by Hydrate and Help in The Venetian foyer to participate in the water walk and learn more about the AWS #GiveBack project to build piped water systems in Cambodia.</span></p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Sands Foyer, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 30 2023 02:00:00 -0500, 
+enddatetimeutc: November, 30 2023 02:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Sands Foyer
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p><span id="isPasted" style='color: rgb(51, 51, 51); font-family: -apple-system, system-ui, "system-ui", "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>Stop by Hydrate and Help in The Venetian foyer to participate in the water walk and learn more about the AWS #GiveBack project to build piped water systems in Cambodia.</span></p>
+title: Hydrate and Help
+sessionuid: F9ACF116-AD40-44A0-BB48-5487E3BC0548
+thirdpartyid: ACT162
+speakers: 
+tag_name: Wednesday, Day, Venetian, Venue

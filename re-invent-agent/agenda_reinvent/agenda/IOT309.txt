@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :Automotive, Industry, Solution/Systems Architect, Role, Internet of Things, Topic, Application Integration, Area of Interest, Strategy & Transformation, Area of Interest, AWS IoT Core, Services, Tuesday, Day, Wynn, Venue, 300 - Advanced, Level, Developer/Engineer, Role, Cross Industry, Industry, Innovation on AWS, Area of Interest, , speakers :firstName_0: Aditi, lastName_0: Gupta, firstName_1: Greg, lastName_1: Jones, , thirdpartyid :IOT309-R, sessionuid :907BFA89-63C5-4782-B50B-00A2F304C65E, title :Innovate your applications using AWS IoT Core with MQTT 5 [REPEAT], description :Join this interactive chalk talk to learn about the latest features of AWS IoT Core and AWS support for MQTT 5 when building your connected applications. Get an overview of MQTT 5, and then explore connected vehicle use cases. Discover how to communicate over potentially intermittent network connections using the publish and subscribe message features of MQTT, and dive deep with a demo on how to scale your fleet and applications using shared subscriptions. Also, learn how to use the rules engine for message processing with user properties and low-latency messaging using request and response., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Join this interactive chalk talk to learn about the latest features of AWS IoT Core and AWS support for MQTT 5 when building your connected applications. Get an overview of MQTT 5, and then explore connected vehicle use cases. Discover how to communicate over potentially intermittent network connections using the publish and subscribe message features of MQTT, and dive deep with a demo on how to scale your fleet and applications using shared subscriptions. Also, learn how to use the rules engine for message processing with user properties and low-latency messaging using request and response
+title: Innovate your applications using AWS IoT Core with MQTT 5 [REPEAT]
+sessionuid: 907BFA89-63C5-4782-B50B-00A2F304C65E
+thirdpartyid: IOT309-R
+speakers: firstName_0: Aditi, lastName_0: Gupta, firstName_1: Greg, lastName_1: Jones
+tag_name: Automotive, Industry, Solution/Systems Architect, Role, Internet of Things, Topic, Application Integration, Area of Interest, Strategy & Transformation, Area of Interest, AWS IoT Core, Services, Tuesday, Day, Wynn, Venue, 300 - Advanced, Level, Developer/Engineer, Role, Cross Industry, Industry, Innovation on AWS, Area of Interest

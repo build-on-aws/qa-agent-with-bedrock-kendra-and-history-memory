@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 201
+summary: tag_name :Open Source, Area of Interest, Monitoring & Observability, Area of Interest, Data Engineer, Role, Generative AI, Area of Interest, Amazon OpenSearch Service, Services, Developer/Engineer, Role, 300 - Advanced, Level, Thursday, Day, Caesars Forum, Venue, AI/ML, Topic, Analytics, Topic, Amazon OpenSearch Serverless, Services, DevOps Engineer, Role, , speakers :firstName_0: Bill, lastName_0: Burket, company_0: Electronic Arts (EA), firstName_1: Carl, lastName_1: Meadows, firstName_2: Mukul, lastName_2: Karnik, , thirdpartyid :ANT301, sessionuid :72E94D24-4FF8-4268-929B-0DC1C20244EE, title :What’s new in Amazon OpenSearch Service, description :<p>With advances in security analytics, data ingestion, availability, and vector database capabilities and AI use cases, Amazon OpenSearch Service has consistently innovated for users. In this session, join OpenSearch Service experts as they showcase the latest capabilities and features that help you securely unlock real-time search, monitoring, and analysis of operational data.</p>, sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 201, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: Summit 201
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: <p>With advances in security analytics, data ingestion, availability, and vector database capabilities and AI use cases, Amazon OpenSearch Service has consistently innovated for users. In this session, join OpenSearch Service experts as they showcase the latest capabilities and features that help you securely unlock real-time search, monitoring, and analysis of operational data.</p>
+title: What’s new in Amazon OpenSearch Service
+sessionuid: 72E94D24-4FF8-4268-929B-0DC1C20244EE
+thirdpartyid: ANT301
+speakers: firstName_0: Bill, lastName_0: Burket, company_0: Electronic Arts (EA), firstName_1: Carl, lastName_1: Meadows, firstName_2: Mukul, lastName_2: Karnik
+tag_name: Open Source, Area of Interest, Monitoring & Observability, Area of Interest, Data Engineer, Role, Generative AI, Area of Interest, Amazon OpenSearch Service, Services, Developer/Engineer, Role, 300 - Advanced, Level, Thursday, Day, Caesars Forum, Venue, AI/ML, Topic, Analytics, Topic, Amazon OpenSearch Serverless, Services, DevOps Engineer, Role

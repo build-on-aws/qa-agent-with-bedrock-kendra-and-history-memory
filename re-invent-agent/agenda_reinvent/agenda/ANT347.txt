@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 1
+summary: tag_name :Developer/Engineer, Role, AI/ML, Topic, Amazon QuickSight, Services, Generative AI, Area of Interest, 300 - Advanced, Level, Thursday, Day, Wynn, Venue, AWS Glue, Services, Analytics, Topic, Data Engineer, Role, , speakers :firstName_0: Dan, lastName_0: Stair, firstName_1: Diego, lastName_1: Ortiz, , thirdpartyid :ANT347, sessionuid :85F1ADE1-9FEA-4109-9A66-9F0780E73148, title :Using natural language to author data integration applications, description :In this chalk talk, learn how users of all skill levels, including data engineers, ETL developers, and business users, can use the latest generative AI capabilities to onboard, author, and tune data-integration applications using natural language, without needing in-depth knowledge of the underlying systems., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 1, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Lafite 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: In this chalk talk, learn how users of all skill levels, including data engineers, ETL developers, and business users, can use the latest generative AI capabilities to onboard, author, and tune data-integration applications using natural language, without needing in-depth knowledge of the underlying systems
+title: Using natural language to author data integration applications
+sessionuid: 85F1ADE1-9FEA-4109-9A66-9F0780E73148
+thirdpartyid: ANT347
+speakers: firstName_0: Dan, lastName_0: Stair, firstName_1: Diego, lastName_1: Ortiz
+tag_name: Developer/Engineer, Role, AI/ML, Topic, Amazon QuickSight, Services, Generative AI, Area of Interest, 300 - Advanced, Level, Thursday, Day, Wynn, Venue, AWS Glue, Services, Analytics, Topic, Data Engineer, Role

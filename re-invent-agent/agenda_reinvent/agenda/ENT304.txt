@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 118
+summary: tag_name :Solution/Systems Architect, Role, Microsoft, Area of Interest, EC2 Image Builder, Services, Cross Industry, Industry, Tuesday, Day, Caesars Forum, Venue, AWS App2Container, Services, Enterprise & Migration, Topic, 300 - Advanced, Level, AWS Fargate, Services, Developer/Engineer, Role, , speakers :firstName_0: Javy, lastName_0: de Koning, firstName_1: Stephen, lastName_1: Foy, , thirdpartyid :ENT304, sessionuid :1BAB8289-5351-418E-B4D0-672DAEC61882, title :Containerize a Windows application and go serverless with AWS Fargate, description :Organizations are looking for ways to migrate their on-premises, Windows-based applications to an optimized architecture on AWS. In this workshop, learn about key concepts, such as images, containers, and Dockerfiles, and then explore how to use the AWS App2Container to containerize and migrate Windows applications to AWS. Learn how to build an image with Amazon EC2 Image Builder, store it on Amazon ECR, and then run it serverless on AWS Fargate. You must bring your laptop to participate., sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 118, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Forum 118
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: Organizations are looking for ways to migrate their on-premises, Windows-based applications to an optimized architecture on AWS. In this workshop, learn about key concepts, such as images, containers, and Dockerfiles, and then explore how to use the AWS App2Container to containerize and migrate Windows applications to AWS. Learn how to build an image with Amazon EC2 Image Builder, store it on Amazon ECR, and then run it serverless on AWS Fargate. You must bring your laptop to participate
+title: Containerize a Windows application and go serverless with AWS Fargate
+sessionuid: 1BAB8289-5351-418E-B4D0-672DAEC61882
+thirdpartyid: ENT304
+speakers: firstName_0: Javy, lastName_0: de Koning, firstName_1: Stephen, lastName_1: Foy
+tag_name: Solution/Systems Architect, Role, Microsoft, Area of Interest, EC2 Image Builder, Services, Cross Industry, Industry, Tuesday, Day, Caesars Forum, Venue, AWS App2Container, Services, Enterprise & Migration, Topic, 300 - Advanced, Level, AWS Fargate, Services, Developer/Engineer, Role

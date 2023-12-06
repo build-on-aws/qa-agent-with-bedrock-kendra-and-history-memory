@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 167
+summary: tag_name :Cloud Operations, Topic, Networking & Content Delivery, Topic, Edge Computing, Area of Interest, Network & Infrastructure Security, Area of Interest, 200 - Intermediate, Level, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Christian, lastName_0: Elsen, firstName_1: Steve, lastName_1: Seymour, , thirdpartyid :NET205, sessionuid :6E1C60AF-F086-4EBB-A588-EBC552CDFB5F, title :Why is it always DNS? Ask us anything, description :<p>This chalk talk helps you better understand how the many capabilities of Amazon Route 53—including Route 53 Resolver DNS Firewall and public hosted zones over registrar services and Route 53 Resolver endpoints—fit into the bigger picture of DNS as a foundational networking service. Whether you have been wanting to move your domain to AWS but have been nervous about the widespread impact a mistake could cause or are just curious what benefits DNSSEC might bring you, this session is for you.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 167, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Boulevard 167
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>This chalk talk helps you better understand how the many capabilities of Amazon Route 53—including Route 53 Resolver DNS Firewall and public hosted zones over registrar services and Route 53 Resolver endpoints—fit into the bigger picture of DNS as a foundational networking service. Whether you have been wanting to move your domain to AWS but have been nervous about the widespread impact a mistake could cause or are just curious what benefits DNSSEC might bring you, this session is for you.</p>
+title: Why is it always DNS? Ask us anything
+sessionuid: 6E1C60AF-F086-4EBB-A588-EBC552CDFB5F
+thirdpartyid: NET205
+speakers: firstName_0: Christian, lastName_0: Elsen, firstName_1: Steve, lastName_1: Seymour
+tag_name: Cloud Operations, Topic, Networking & Content Delivery, Topic, Edge Computing, Area of Interest, Network & Infrastructure Security, Area of Interest, 200 - Intermediate, Level, Wednesday, Day, MGM Grand, Venue

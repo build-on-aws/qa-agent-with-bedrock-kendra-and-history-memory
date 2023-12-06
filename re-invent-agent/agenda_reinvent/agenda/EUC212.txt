@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :End-User Computing, Topic, Global Infrastructure, Area of Interest, Migration & Transfer, Area of Interest, Cost Optimization, Area of Interest, 200 - Intermediate, Level, IT Administrator, Role, IT Executive, Role, Solution/Systems Architect, Role, Amazon AppStream 2.0, Services, Amazon WorkSpaces, Services, Amazon WorkSpaces Web, Services, Tuesday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Andrew, lastName_0: Kloman, firstName_1: Gigi, lastName_1: Boehringer, , thirdpartyid :EUC212-R, sessionuid :AB097EFA-A9D3-4B0C-A845-5F6853E5AB16, title :Getting the most out of VMware Horizon 8 with Amazon WorkSpaces Core [REPEAT], description :<p>Organizations running an on-premises virtual desktop infrastructure (VDI) solution face pressure to improve agility and reduce costs. Amazon WorkSpaces Core allows organizations using VMware Horizon 8 to utilize highly scalable and secure AWS virtual desktop infrastructure while continuing to use their familiar VDI software. This chalk talk dives deep into Amazon WorkSpaces Core with VMware Horizon 8, including a discussion of benefits organizations can realize from the combined solution and an architecture overview.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 23:00:00 -0500, 
+enddatetimeutc: November, 28 2023 23:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Organizations running an on-premises virtual desktop infrastructure (VDI) solution face pressure to improve agility and reduce costs. Amazon WorkSpaces Core allows organizations using VMware Horizon 8 to utilize highly scalable and secure AWS virtual desktop infrastructure while continuing to use their familiar VDI software. This chalk talk dives deep into Amazon WorkSpaces Core with VMware Horizon 8, including a discussion of benefits organizations can realize from the combined solution and an architecture overview.</p>
+title: Getting the most out of VMware Horizon 8 with Amazon WorkSpaces Core [REPEAT]
+sessionuid: AB097EFA-A9D3-4B0C-A845-5F6853E5AB16
+thirdpartyid: EUC212-R
+speakers: firstName_0: Andrew, lastName_0: Kloman, firstName_1: Gigi, lastName_1: Boehringer
+tag_name: End-User Computing, Topic, Global Infrastructure, Area of Interest, Migration & Transfer, Area of Interest, Cost Optimization, Area of Interest, 200 - Intermediate, Level, IT Administrator, Role, IT Executive, Role, Solution/Systems Architect, Role, Amazon AppStream 2.0, Services, Amazon WorkSpaces, Services, Amazon WorkSpaces Web, Services, Tuesday, Day, Mandalay Bay, Venue

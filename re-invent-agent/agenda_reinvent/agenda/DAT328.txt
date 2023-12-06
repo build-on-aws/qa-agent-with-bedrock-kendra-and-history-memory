@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :Hybrid Cloud, Topic, Databases, Topic, 300 - Advanced, Level, Oracle, Area of Interest, Cross Industry, Industry, IT Professional/Technical Manager, Role, Developer/Engineer, Role, Monday, Day, Caesars Forum, Venue, Microsoft, Area of Interest, Migration & Transfer, Area of Interest, AWS Database Migration Service (DMS), Services, Solution/Systems Architect, Role, , speakers :firstName_0: John, lastName_0: Winford, firstName_1: Ryan, lastName_1: Shevchik, , thirdpartyid :DAT328, sessionuid :38C8ADCB-614E-4BF9-850D-4EDA6CB1832E, title :Dive deep into different AWS DMS migration options, description :AWS DMS offers logical replication; managed native export, import, and replication; and bulk extract and load options for migrating and replicating data. Join this session to dive deep into the options and understand how each one works, the advantages of each, performance considerations, and how new capabilities like serverless technologies, auto scaling, and schema conversion are simplifying migrations., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: AWS DMS offers logical replication; managed native export, import, and replication; and bulk extract and load options for migrating and replicating data. Join this session to dive deep into the options and understand how each one works, the advantages of each, performance considerations, and how new capabilities like serverless technologies, auto scaling, and schema conversion are simplifying migrations
+title: Dive deep into different AWS DMS migration options
+sessionuid: 38C8ADCB-614E-4BF9-850D-4EDA6CB1832E
+thirdpartyid: DAT328
+speakers: firstName_0: John, lastName_0: Winford, firstName_1: Ryan, lastName_1: Shevchik
+tag_name: Hybrid Cloud, Topic, Databases, Topic, 300 - Advanced, Level, Oracle, Area of Interest, Cross Industry, Industry, IT Professional/Technical Manager, Role, Developer/Engineer, Role, Monday, Day, Caesars Forum, Venue, Microsoft, Area of Interest, Migration & Transfer, Area of Interest, AWS Database Migration Service (DMS), Services, Solution/Systems Architect, Role

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :Monday, Day, Wynn, Venue, End-User Computing, Topic, Networking & Content Delivery, Topic, Edge Computing, Area of Interest, Global Infrastructure, Area of Interest, Media & Entertainment, Industry, 300 - Advanced, Level, Business Executive, Role, Solution/Systems Architect, Role, System Administrator, Role, , speakers :firstName_0: Ali, lastName_0: Amoli, firstName_1: Noor, lastName_1: Hassan, , thirdpartyid :MAE306, sessionuid :CCC4C23B-0636-49A0-BA55-92FAFD59A22D, title :Using AWS to create the newsrooms of the future, description :<p>To address the demands of the news cycle and viewership platforms, broadcasters are modernizing the data fabric between four pillars: research, planning, production, and publishing. Newsrooms are taking a “story-centric” approach that democratizes data to support faster and smarter content creation. In this chalk talk, learn about the technology transformations AWS users are making at scale.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 28 2023 01:30:00 -0500, enddatetimeutc :November, 28 2023 02:30:00 -0500, 
+enddatetimeutc: November, 28 2023 02:30:00 -0500
+startdatetimeutc: November, 28 2023 01:30:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>To address the demands of the news cycle and viewership platforms, broadcasters are modernizing the data fabric between four pillars: research, planning, production, and publishing. Newsrooms are taking a “story-centric” approach that democratizes data to support faster and smarter content creation. In this chalk talk, learn about the technology transformations AWS users are making at scale.</p>
+title: Using AWS to create the newsrooms of the future
+sessionuid: CCC4C23B-0636-49A0-BA55-92FAFD59A22D
+thirdpartyid: MAE306
+speakers: firstName_0: Ali, lastName_0: Amoli, firstName_1: Noor, lastName_1: Hassan
+tag_name: Monday, Day, Wynn, Venue, End-User Computing, Topic, Networking & Content Delivery, Topic, Edge Computing, Area of Interest, Global Infrastructure, Area of Interest, Media & Entertainment, Industry, 300 - Advanced, Level, Business Executive, Role, Solution/Systems Architect, Role, System Administrator, Role

@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Islander I
+summary: tag_name :Cloud Operations, Topic, Cost Optimization, Area of Interest, 300 - Advanced, Level, IT Administrator, Role, Tech Explorer, Role, IT Professional/Technical Manager, Role, Amazon QuickSight, Services, Tuesday, Day, Mandalay Bay, Venue, AWS Billing and Cost Management, Services, Management & Governance, Area of Interest, , speakers :firstName_0: Yuriy, lastName_0: Prykhodko, firstName_1: Judith, lastName_1: Lehner, , thirdpartyid :COP312, sessionuid :6EEC6F53-94A3-4A81-AE9D-7B651DAB4952, title :Track and visualize cost-effectiveness of your workloads & KPI targets, description :<p>Measuring the cost-effectiveness of your workloads on AWS helps you identify saving opportunities. Join this workshop to learn how you can use AWS Cloud Intelligence Dashboards to track efficiency of your workloads at scale. Explore how you can use and customize the dashboards to track the impact of optimizing your AWS resources, such as compute, storage, and business unit costs. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Islander I, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Islander I
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: <p>Measuring the cost-effectiveness of your workloads on AWS helps you identify saving opportunities. Join this workshop to learn how you can use AWS Cloud Intelligence Dashboards to track efficiency of your workloads at scale. Explore how you can use and customize the dashboards to track the impact of optimizing your AWS resources, such as compute, storage, and business unit costs. You must bring your laptop to participate.</p>
+title: Track and visualize cost-effectiveness of your workloads & KPI targets
+sessionuid: 6EEC6F53-94A3-4A81-AE9D-7B651DAB4952
+thirdpartyid: COP312
+speakers: firstName_0: Yuriy, lastName_0: Prykhodko, firstName_1: Judith, lastName_1: Lehner
+tag_name: Cloud Operations, Topic, Cost Optimization, Area of Interest, 300 - Advanced, Level, IT Administrator, Role, Tech Explorer, Role, IT Professional/Technical Manager, Role, Amazon QuickSight, Services, Tuesday, Day, Mandalay Bay, Venue, AWS Billing and Cost Management, Services, Management & Governance, Area of Interest

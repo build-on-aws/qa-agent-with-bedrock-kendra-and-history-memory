@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 169
+summary: tag_name :Enterprise & Migration, Topic, Solution/Systems Architect, Role, Cross Industry, Industry, Business Intelligence, Area of Interest, Amazon Elastic Block Store (EBS), Services, Tuesday, Day, MGM Grand, Venue, Modernization, Area of Interest, SAP, Area of Interest, 200 - Intermediate, Level, Data Engineer, Role, IT Professional/Technical Manager, Role, , speakers :firstName_0: Allison, lastName_0: Quinn, firstName_1: Peter, lastName_1: Perbellini, , thirdpartyid :ENT228, sessionuid :08BC5AA2-77A6-4E43-BD17-CB1C70C04530, title :Deliver new business insights with SAP data, description :Learn how organizations are combining SAP and non-SAP data in AWS data lakes to unlock business insights, improve real-time visibility, and make better decisions across their businesses. This chalk talk covers how to move data between SAP systems and AWS services, as well as common SAP business processes that can be enhanced using the broadest and deepest set of storage, machine learning, and analytics capabilities available anywhere., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 169, startdatetimeutc :November, 29 2023 00:00:00 -0500, enddatetimeutc :November, 29 2023 01:00:00 -0500, 
+enddatetimeutc: November, 29 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 00:00:00 -0500
+locationname: Boulevard 169
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Learn how organizations are combining SAP and non-SAP data in AWS data lakes to unlock business insights, improve real-time visibility, and make better decisions across their businesses. This chalk talk covers how to move data between SAP systems and AWS services, as well as common SAP business processes that can be enhanced using the broadest and deepest set of storage, machine learning, and analytics capabilities available anywhere
+title: Deliver new business insights with SAP data
+sessionuid: 08BC5AA2-77A6-4E43-BD17-CB1C70C04530
+thirdpartyid: ENT228
+speakers: firstName_0: Allison, lastName_0: Quinn, firstName_1: Peter, lastName_1: Perbellini
+tag_name: Enterprise & Migration, Topic, Solution/Systems Architect, Role, Cross Industry, Industry, Business Intelligence, Area of Interest, Amazon Elastic Block Store (EBS), Services, Tuesday, Day, MGM Grand, Venue, Modernization, Area of Interest, SAP, Area of Interest, 200 - Intermediate, Level, Data Engineer, Role, IT Professional/Technical Manager, Role

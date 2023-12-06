@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 113
+summary: tag_name :Amazon DynamoDB Streams, Services, Serverless Compute, Topic, Databases, Topic, Innovation on AWS, Area of Interest, Media & Entertainment, Industry, Solution/Systems Architect, Role, Strategy & Transformation, Area of Interest, Retail, Industry, Tuesday, Day, Caesars Forum, Venue, Cross Industry, Industry, Amazon DynamoDB, Services, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Developer/Engineer, Role, Monitoring & Observability, Area of Interest, , speakers :firstName_0: Amrith, lastName_0: Kumar, , thirdpartyid :DAT330, sessionuid :A7C8555C-D935-4CAC-9E36-4B772F889AAD, title :Dive deep into Amazon DynamoDB, description :<p>This session provides a deep dive into Amazon DynamoDB, and it shares insights into how DynamoDB is architected to deliver the scalability and response times that customers have come to expect. Learn how popular capabilities like on-demand capacity, global tables, DynamoDB Streams, and transactions work and how you can best take advantage of them in your workloads.</p>, sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 113, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Forum 113
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: <p>This session provides a deep dive into Amazon DynamoDB, and it shares insights into how DynamoDB is architected to deliver the scalability and response times that customers have come to expect. Learn how popular capabilities like on-demand capacity, global tables, DynamoDB Streams, and transactions work and how you can best take advantage of them in your workloads.</p>
+title: Dive deep into Amazon DynamoDB
+sessionuid: A7C8555C-D935-4CAC-9E36-4B772F889AAD
+thirdpartyid: DAT330
+speakers: firstName_0: Amrith, lastName_0: Kumar
+tag_name: Amazon DynamoDB Streams, Services, Serverless Compute, Topic, Databases, Topic, Innovation on AWS, Area of Interest, Media & Entertainment, Industry, Solution/Systems Architect, Role, Strategy & Transformation, Area of Interest, Retail, Industry, Tuesday, Day, Caesars Forum, Venue, Cross Industry, Industry, Amazon DynamoDB, Services, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Developer/Engineer, Role, Monitoring & Observability, Area of Interest

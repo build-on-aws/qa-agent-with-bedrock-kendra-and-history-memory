@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 306
+summary: tag_name :Cost Optimization, Area of Interest, Amazon Elastic Compute Cloud (EC2), Services, Amazon SageMaker, Services, Innovation on AWS, Area of Interest, Cross Industry, Industry, Solution/Systems Architect, Role, Generative AI, Area of Interest, Monday, Day, MGM Grand, Venue, 200 - Intermediate, Level, Data Scientist, Role, Compute, Topic, Developer/Engineer, Role, AI/ML, Topic, , speakers :firstName_0: Farooq, lastName_0: Sabir, firstName_1: Joe, lastName_1: Senerchia, , thirdpartyid :CMP205-R, sessionuid :CE957D27-07BD-4F6E-87D4-B800AFE5B384, title :Accelerate generative AI deployment with Amazon SageMaker JumpStart [REPEAT], description :In this chalk talk, learn how Amazon SageMaker JumpStart enables rapid prototyping using the latest pretrained deep learning models, including models from Stability, AI21 Labs, Cohere, and Meta. See how SageMaker JumpStart integrates and manages high-performance, cost-efficient infrastructure, such as AWS Inferentia, so you can focus on exploring, tuning, and deploying ML models. Then use a SageMaker JumpStart playground to instantly deploy and experiment with some of today’s most popular generative AI models., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :306, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 27 2023 22:00:00 -0500, 
+enddatetimeutc: November, 27 2023 22:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: 306
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: In this chalk talk, learn how Amazon SageMaker JumpStart enables rapid prototyping using the latest pretrained deep learning models, including models from Stability, AI21 Labs, Cohere, and Meta. See how SageMaker JumpStart integrates and manages high-performance, cost-efficient infrastructure, such as AWS Inferentia, so you can focus on exploring, tuning, and deploying ML models. Then use a SageMaker JumpStart playground to instantly deploy and experiment with some of today’s most popular generative AI models
+title: Accelerate generative AI deployment with Amazon SageMaker JumpStart [REPEAT]
+sessionuid: CE957D27-07BD-4F6E-87D4-B800AFE5B384
+thirdpartyid: CMP205-R
+speakers: firstName_0: Farooq, lastName_0: Sabir, firstName_1: Joe, lastName_1: Senerchia
+tag_name: Cost Optimization, Area of Interest, Amazon Elastic Compute Cloud (EC2), Services, Amazon SageMaker, Services, Innovation on AWS, Area of Interest, Cross Industry, Industry, Solution/Systems Architect, Role, Generative AI, Area of Interest, Monday, Day, MGM Grand, Venue, 200 - Intermediate, Level, Data Scientist, Role, Compute, Topic, Developer/Engineer, Role, AI/ML, Topic

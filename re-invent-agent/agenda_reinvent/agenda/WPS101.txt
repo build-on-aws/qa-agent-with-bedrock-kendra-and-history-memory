@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 122
+summary: tag_name :Customer Enablement, Topic, Innovation on AWS, Area of Interest, Inclusion & Diversity, Area of Interest, Government, Industry, Cross Industry, Industry, 100 - Foundational, Level, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Abbey, lastName_0: Kos, firstName_1: Betsy, lastName_1: Baker, firstName_2: Elizabeth, lastName_2: Perez, company_2: Washington State Department of Health, , thirdpartyid :WPS101, sessionuid :5AA2A87D-3D8C-4598-84BB-18654045AA7D, title :Advancing equity: The intersection of government, enterprise, and tech, description :<p>Building on a relationship that started during the pandemic to deliver at-home COVID-19 test kits, the Washington State Department of Health launched a new delivery service with the support of AWS to deliver fresh fruit and vegetables to its citizens. The collaboration between government and private enterprise has greatly increased citizen access to other social programs and has helped to advance equity across the country. Join us for a discussion on the innovative thinking behind these programs and the transformative power that happens when collaboration meets cloud technology.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 122, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 01:30:00 -0500, 
+enddatetimeutc: November, 30 2023 01:30:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: Grand 122
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Building on a relationship that started during the pandemic to deliver at-home COVID-19 test kits, the Washington State Department of Health launched a new delivery service with the support of AWS to deliver fresh fruit and vegetables to its citizens. The collaboration between government and private enterprise has greatly increased citizen access to other social programs and has helped to advance equity across the country. Join us for a discussion on the innovative thinking behind these programs and the transformative power that happens when collaboration meets cloud technology.</p>
+title: Advancing equity: The intersection of government, enterprise, and tech
+sessionuid: 5AA2A87D-3D8C-4598-84BB-18654045AA7D
+thirdpartyid: WPS101
+speakers: firstName_0: Abbey, lastName_0: Kos, firstName_1: Betsy, lastName_1: Baker, firstName_2: Elizabeth, lastName_2: Perez, company_2: Washington State Department of Health
+tag_name: Customer Enablement, Topic, Innovation on AWS, Area of Interest, Inclusion & Diversity, Area of Interest, Government, Industry, Cross Industry, Industry, 100 - Foundational, Level, Wednesday, Day, MGM Grand, Venue

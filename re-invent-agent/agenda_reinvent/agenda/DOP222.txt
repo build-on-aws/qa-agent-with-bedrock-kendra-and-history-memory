@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :DevOps and Developer Productivity, Topic, Wednesday, Day, Venetian, Venue, 200 - Intermediate, Level, Developer/Engineer, Role, Application Integration, Area of Interest, , speakers :firstName_0: Marco, lastName_0: Palladino, company_0: Kong, , thirdpartyid :DOP222-S, sessionuid :8995139A-5845-4F6B-8057-ADDA13E72185, title :Become an API-first company (sponsored by Kong), description :In this lightning talk, learn how federated API management and a fully customizable API portal empower teams to expertly handle API lifecycle management, cut costs, and implement robust security. This presentation is brought to you by Kong, an AWS Partner., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 21:20:00 -0500, 
+enddatetimeutc: November, 29 2023 21:20:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: In this lightning talk, learn how federated API management and a fully customizable API portal empower teams to expertly handle API lifecycle management, cut costs, and implement robust security. This presentation is brought to you by Kong, an AWS Partner
+title: Become an API-first company (sponsored by Kong)
+sessionuid: 8995139A-5845-4F6B-8057-ADDA13E72185
+thirdpartyid: DOP222-S
+speakers: firstName_0: Marco, lastName_0: Palladino, company_0: Kong
+tag_name: DevOps and Developer Productivity, Topic, Wednesday, Day, Venetian, Venue, 200 - Intermediate, Level, Developer/Engineer, Role, Application Integration, Area of Interest

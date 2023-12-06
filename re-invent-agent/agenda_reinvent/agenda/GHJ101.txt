@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas G
+summary: tag_name :Global Infrastructure, Area of Interest, Business Executive, Role, New to AWS, Topic, Cross Industry, Industry, Well-Architected Framework, Area of Interest, Monday, Day, Mandalay Bay, Venue, Training & Certification, Topic, Advisor/Consultant, Role, Sales/Marketing, Role, 100 - Foundational, Level, , speakers :, thirdpartyid :GHJ101-R, sessionuid :C18AED7A-149F-4200-A6BE-8C2B5C42D559, title :AWS Escape Room: Exam prep for AWS Certified Cloud Practitioner [REPEAT], description :Prepare for the AWS Certified Cloud Practitioner exam by playing this 3D virtual escape room game. During this session, select an avatar, enter a narrative-driven world, and solve a series of interactive puzzles, exam-style questions, and hands-on labs to leave locked rooms. Compete against others to escape first. You must bring a laptop (not a mobile device) that meets the following requirements: has a broadband internet connection; has integrated or dedicated 3D graphics; has 1920 x 1080 resolution; has a browser with HTML 5, WebGL 2.0, WASM, and 64-bit; and has a keyboard and mouse., sessiontype :Gamified Learning, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas G, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: South Seas G
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Gamified Learning
+description: Prepare for the AWS Certified Cloud Practitioner exam by playing this 3D virtual escape room game. During this session, select an avatar, enter a narrative-driven world, and solve a series of interactive puzzles, exam-style questions, and hands-on labs to leave locked rooms. Compete against others to escape first. You must bring a laptop (not a mobile device) that meets the following requirements: has a broadband internet connection; has integrated or dedicated 3D graphics; has 1920 x 1080 resolution; has a browser with HTML 5, WebGL 2.0, WASM, and 64-bit; and has a keyboard and mouse
+title: AWS Escape Room: Exam prep for AWS Certified Cloud Practitioner [REPEAT]
+sessionuid: C18AED7A-149F-4200-A6BE-8C2B5C42D559
+thirdpartyid: GHJ101-R
+speakers: 
+tag_name: Global Infrastructure, Area of Interest, Business Executive, Role, New to AWS, Topic, Cross Industry, Industry, Well-Architected Framework, Area of Interest, Monday, Day, Mandalay Bay, Venue, Training & Certification, Topic, Advisor/Consultant, Role, Sales/Marketing, Role, 100 - Foundational, Level

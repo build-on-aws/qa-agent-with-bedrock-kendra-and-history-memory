@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 7
+summary: tag_name :DevOps Engineer, Role, Strategy & Transformation, Area of Interest, Developer/Engineer, Role, Amazon CodeCatalyst, Services, Thursday, Day, Wynn, Venue, DevOps and Developer Productivity, Topic, 200 - Intermediate, Level, Innovation on AWS, Area of Interest, , speakers :firstName_0: Harry, lastName_0: Mower, firstName_1: Kyle, lastName_1: Seaman, , thirdpartyid :DOP210, sessionuid :2E004551-B573-473A-B91E-753A5F63B25E, title :Scale your application development with Amazon CodeCatalyst, description :<p>Amazon CodeCatalyst brings together everything you need to build, deploy, and collaborate on software into one integrated software development service. In this session, discover the ways that CodeCatalyst helps developers and teams build and ship code faster while spending more time doing the work they love.</p>, sessiontype :Breakout Session, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 7, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Cristal 7
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Breakout Session
+description: <p>Amazon CodeCatalyst brings together everything you need to build, deploy, and collaborate on software into one integrated software development service. In this session, discover the ways that CodeCatalyst helps developers and teams build and ship code faster while spending more time doing the work they love.</p>
+title: Scale your application development with Amazon CodeCatalyst
+sessionuid: 2E004551-B573-473A-B91E-753A5F63B25E
+thirdpartyid: DOP210
+speakers: firstName_0: Harry, lastName_0: Mower, firstName_1: Kyle, lastName_1: Seaman
+tag_name: DevOps Engineer, Role, Strategy & Transformation, Area of Interest, Developer/Engineer, Role, Amazon CodeCatalyst, Services, Thursday, Day, Wynn, Venue, DevOps and Developer Productivity, Topic, 200 - Intermediate, Level, Innovation on AWS, Area of Interest

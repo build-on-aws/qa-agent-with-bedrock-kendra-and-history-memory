@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 316
+summary: tag_name :AI/ML, Topic, Cross Industry, Industry, Business Intelligence, Area of Interest, Analytics, Topic, Data Scientist, Role, Generative AI, Area of Interest, IT Professional/Technical Manager, Role, Tuesday, Day, MGM Grand, Venue, Advisor/Consultant, Role, 200 - Intermediate, Level, Amazon QuickSight, Services, , speakers :firstName_0: Raji, lastName_0: Sivasubramaniam, firstName_1: Sam, lastName_1: Dabboussi, , thirdpartyid :BSI202, sessionuid :A253F047-35DD-47F2-91B9-CD66C1A3FFFC, title :Quickly build predictive dashboards using no-code ML and generative BI, description :<p>In this workshop, learn how to build predictive models without code using Amazon SageMaker Canvas and accelerate dashboard building with new generative BI capabilities in Amazon QuickSight to foster data-driven decision-making in your organization. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 316, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Premier 316
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>In this workshop, learn how to build predictive models without code using Amazon SageMaker Canvas and accelerate dashboard building with new generative BI capabilities in Amazon QuickSight to foster data-driven decision-making in your organization. You must bring your laptop to participate.</p>
+title: Quickly build predictive dashboards using no-code ML and generative BI
+sessionuid: A253F047-35DD-47F2-91B9-CD66C1A3FFFC
+thirdpartyid: BSI202
+speakers: firstName_0: Raji, lastName_0: Sivasubramaniam, firstName_1: Sam, lastName_1: Dabboussi
+tag_name: AI/ML, Topic, Cross Industry, Industry, Business Intelligence, Area of Interest, Analytics, Topic, Data Scientist, Role, Generative AI, Area of Interest, IT Professional/Technical Manager, Role, Tuesday, Day, MGM Grand, Venue, Advisor/Consultant, Role, 200 - Intermediate, Level, Amazon QuickSight, Services

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 370
+summary: tag_name :100 - Foundational, Level, IT Executive, Role, New to AWS, Topic, AI/ML, Topic, Monday, Day, MGM Grand, Venue, Business Executive, Role, Generative AI, Area of Interest, Innovation on AWS, Area of Interest, , speakers :firstName_0: Brittany, lastName_0: Anderson, firstName_1: Siegfried, lastName_1: Schallenmueller, , thirdpartyid :INO105, sessionuid :F5471DB5-F2DC-415B-9905-5C82B5E93ECF, title :Intersection of culture, CX & generative AI in innovative businesses, description :Amazon builds on its mission to be the most customer-centric company in the world through a combination of culture, mechanisms, tenets, and technology. In this session, discover how Amazon accelerated the journey to customer centricity at organizations across various industries, including travel, retail, and manufacturing. Learn how Amazon empowers organizations to capture the voice of the customer in real time and use generative AI and the AWS extended customer experience (CX) solution portfolio to maximize the value of data., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 370, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 20:30:00 -0500, 
+enddatetimeutc: November, 27 2023 20:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Chairmans 370
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Amazon builds on its mission to be the most customer-centric company in the world through a combination of culture, mechanisms, tenets, and technology. In this session, discover how Amazon accelerated the journey to customer centricity at organizations across various industries, including travel, retail, and manufacturing. Learn how Amazon empowers organizations to capture the voice of the customer in real time and use generative AI and the AWS extended customer experience (CX) solution portfolio to maximize the value of data
+title: Intersection of culture, CX & generative AI in innovative businesses
+sessionuid: F5471DB5-F2DC-415B-9905-5C82B5E93ECF
+thirdpartyid: INO105
+speakers: firstName_0: Brittany, lastName_0: Anderson, firstName_1: Siegfried, lastName_1: Schallenmueller
+tag_name: 100 - Foundational, Level, IT Executive, Role, New to AWS, Topic, AI/ML, Topic, Monday, Day, MGM Grand, Venue, Business Executive, Role, Generative AI, Area of Interest, Innovation on AWS, Area of Interest

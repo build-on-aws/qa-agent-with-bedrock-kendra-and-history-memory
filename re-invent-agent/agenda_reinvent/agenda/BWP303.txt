@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 120
+summary: tag_name :Amazon Bedrock, Services, 300 - Advanced, Level, Generative AI, Area of Interest, Business Applications, Topic, Business Intelligence, Area of Interest, Solution/Systems Architect, Role, Wednesday, Day, MGM Grand, Venue, BuildOn.AWS, Area of Interest, AI/ML, Topic, Retail, Industry, , speakers :firstName_0: John, lastName_0: Baker, firstName_1: Jonathan, lastName_1: Kim, company_1: Amazon, firstName_2: Zubeen, lastName_2: Sahajwani, company_2: Amazon, , thirdpartyid :BWP303, sessionuid :B207A4C9-D488-4E14-9EA0-92CB8175D061, title :Using Amazon’s Buy with Prime APIs with Amazon Bedrock, description :Explore the potential of creating personalized experiences with Amazon’s Buy with Prime APIs and agents for Amazon Bedrock. Through real-world examples, this session focuses on how you can create next-generation chatbots to enhance shopper interactions and meet consumers’ evolving expectations. Come gain a comprehensive understanding of these technologies and discover the strategic advantages they can offer your business., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 120, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Grand 120
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Explore the potential of creating personalized experiences with Amazon’s Buy with Prime APIs and agents for Amazon Bedrock. Through real-world examples, this session focuses on how you can create next-generation chatbots to enhance shopper interactions and meet consumers’ evolving expectations. Come gain a comprehensive understanding of these technologies and discover the strategic advantages they can offer your business
+title: Using Amazon’s Buy with Prime APIs with Amazon Bedrock
+sessionuid: B207A4C9-D488-4E14-9EA0-92CB8175D061
+thirdpartyid: BWP303
+speakers: firstName_0: John, lastName_0: Baker, firstName_1: Jonathan, lastName_1: Kim, company_1: Amazon, firstName_2: Zubeen, lastName_2: Sahajwani, company_2: Amazon
+tag_name: Amazon Bedrock, Services, 300 - Advanced, Level, Generative AI, Area of Interest, Business Applications, Topic, Business Intelligence, Area of Interest, Solution/Systems Architect, Role, Wednesday, Day, MGM Grand, Venue, BuildOn.AWS, Area of Interest, AI/ML, Topic, Retail, Industry

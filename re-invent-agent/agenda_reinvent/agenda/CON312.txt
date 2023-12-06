@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific E
+summary: tag_name :Solution/Systems Architect, Role, Data Scientist, Role, 300 - Advanced, Level, Developer/Engineer, Role, AI/ML, Topic, Open Source, Area of Interest, Tuesday, Day, Mandalay Bay, Venue, Kubernetes, Topic, Cross Industry, Industry, Generative AI, Area of Interest, Customer Stories, Area of Interest, Amazon Elastic Kubernetes Service (EKS), Services, , speakers :firstName_0: Rama Prasanna, lastName_0: Ponnuswami, firstName_1: John, lastName_1: Weber, company_1: Adobe, firstName_2: Mike, lastName_2: Stefaniak, , thirdpartyid :CON312, sessionuid :7CE78778-60DB-4FFC-8916-97707E5BA80A, title :Navigating the future of AI: Deploying generative models on Amazon EKS, description :Generative AI applications are fundamentally transforming how businesses interact with and serve their customers. And many customers are turning to open source tools running on Kubernetes to help accelerate their generative AI journeys. In this session, learn how tools like Ray, JupyterHub, Argo Workflows, and Karpenter can accelerate your path to building and deploying generative AI applications on Amazon EKS. Also dive deep into specific generative AI use cases that AWS customers are running on Amazon EKS., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific E, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: South Pacific E
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Generative AI applications are fundamentally transforming how businesses interact with and serve their customers. And many customers are turning to open source tools running on Kubernetes to help accelerate their generative AI journeys. In this session, learn how tools like Ray, JupyterHub, Argo Workflows, and Karpenter can accelerate your path to building and deploying generative AI applications on Amazon EKS. Also dive deep into specific generative AI use cases that AWS customers are running on Amazon EKS
+title: Navigating the future of AI: Deploying generative models on Amazon EKS
+sessionuid: 7CE78778-60DB-4FFC-8916-97707E5BA80A
+thirdpartyid: CON312
+speakers: firstName_0: Rama Prasanna, lastName_0: Ponnuswami, firstName_1: John, lastName_1: Weber, company_1: Adobe, firstName_2: Mike, lastName_2: Stefaniak
+tag_name: Solution/Systems Architect, Role, Data Scientist, Role, 300 - Advanced, Level, Developer/Engineer, Role, AI/ML, Topic, Open Source, Area of Interest, Tuesday, Day, Mandalay Bay, Venue, Kubernetes, Topic, Cross Industry, Industry, Generative AI, Area of Interest, Customer Stories, Area of Interest, Amazon Elastic Kubernetes Service (EKS), Services

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 126
+summary: tag_name :End-User Computing, Topic, Application Integration, Area of Interest, Independent Software Vendor (ISV), Area of Interest, Cost Optimization, Area of Interest, 200 - Intermediate, Level, Business Executive, Role, IT Administrator, Role, Solution/Systems Architect, Role, Amazon AppStream 2.0, Services, Amazon WorkSpaces, Services, Amazon WorkSpaces Web, Services, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Ariel, lastName_0: Fu, firstName_1: Wael, lastName_1: Aoudi, , thirdpartyid :EUC211, sessionuid :BD48AB97-0878-4481-98E5-88DC6A6D6D66, title :Converting a desktop app to a cloud service in less than an hour, description :<p>Refactoring Windows- or Linux-based applications for web-based delivery to employees or SaaS-based consumption by customers can be resource intensive and time consuming. In this interactive chalk talk, learn how to convert your desktop applications to web-based delivery in hours or minutes using Amazon AppStream 2.0, no refactoring required.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 126, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Forum 126
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Refactoring Windows- or Linux-based applications for web-based delivery to employees or SaaS-based consumption by customers can be resource intensive and time consuming. In this interactive chalk talk, learn how to convert your desktop applications to web-based delivery in hours or minutes using Amazon AppStream 2.0, no refactoring required.</p>
+title: Converting a desktop app to a cloud service in less than an hour
+sessionuid: BD48AB97-0878-4481-98E5-88DC6A6D6D66
+thirdpartyid: EUC211
+speakers: firstName_0: Ariel, lastName_0: Fu, firstName_1: Wael, lastName_1: Aoudi
+tag_name: End-User Computing, Topic, Application Integration, Area of Interest, Independent Software Vendor (ISV), Area of Interest, Cost Optimization, Area of Interest, 200 - Intermediate, Level, Business Executive, Role, IT Administrator, Role, Solution/Systems Architect, Role, Amazon AppStream 2.0, Services, Amazon WorkSpaces, Services, Amazon WorkSpaces Web, Services, Wednesday, Day, Caesars Forum, Venue

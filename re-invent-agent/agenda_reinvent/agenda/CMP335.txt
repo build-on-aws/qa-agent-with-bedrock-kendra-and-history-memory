@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 307
+summary: tag_name :Amazon EC2 Auto Scaling, Services, Data Engineer, Role, Developer/Engineer, Role, Compute, Topic, Cross Industry, Industry, Amazon Elastic Compute Cloud (EC2), Services, IT Administrator, Role, Migration & Transfer, Area of Interest, 300 - Advanced, Level, Monday, Day, Caesars Forum, Venue, Cost Optimization, Area of Interest, , speakers :firstName_0: Steve, lastName_0: Cole, firstName_1: Ankur, lastName_1: Sethi, , thirdpartyid :CMP335-R, sessionuid :E32C1CD6-D674-4966-B1EA-8E5D082F906F, title :Proactive auto scaling for optimal cost and availability [REPEAT], description :Amazon EC2 Auto Scaling groups empower users to benefit from the elasticity benefits of the AWS Cloud. In this workshop, learn how you can make the most of the latest innovations from EC2 Auto Scaling to improve your web application availability at lower costs. Specifically, find out how to use a combination of predictive scaling, dynamic scaling, and warm pool features to automatically launch and terminate capacity with changing demands. With more responsive and proactive scaling, you run only the required number of instances at any time of the day, reducing the cost of overprovisioned EC2 instances. You must bring your laptop to participate., sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 307, startdatetimeutc :November, 27 2023 16:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 16:00:00 -0500
+locationname: Alliance 307
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: Amazon EC2 Auto Scaling groups empower users to benefit from the elasticity benefits of the AWS Cloud. In this workshop, learn how you can make the most of the latest innovations from EC2 Auto Scaling to improve your web application availability at lower costs. Specifically, find out how to use a combination of predictive scaling, dynamic scaling, and warm pool features to automatically launch and terminate capacity with changing demands. With more responsive and proactive scaling, you run only the required number of instances at any time of the day, reducing the cost of overprovisioned EC2 instances. You must bring your laptop to participate
+title: Proactive auto scaling for optimal cost and availability [REPEAT]
+sessionuid: E32C1CD6-D674-4966-B1EA-8E5D082F906F
+thirdpartyid: CMP335-R
+speakers: firstName_0: Steve, lastName_0: Cole, firstName_1: Ankur, lastName_1: Sethi
+tag_name: Amazon EC2 Auto Scaling, Services, Data Engineer, Role, Developer/Engineer, Role, Compute, Topic, Cross Industry, Industry, Amazon Elastic Compute Cloud (EC2), Services, IT Administrator, Role, Migration & Transfer, Area of Interest, 300 - Advanced, Level, Monday, Day, Caesars Forum, Venue, Cost Optimization, Area of Interest

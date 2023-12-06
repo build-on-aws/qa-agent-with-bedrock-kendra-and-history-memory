@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 120
+summary: tag_name :Energy, Industry, Solution/Systems Architect, Role, Enterprise & Migration, Topic, VMware, Area of Interest, Migration & Transfer, Area of Interest, Customer Stories, Area of Interest, 100 - Foundational, Level, MGM Grand, Venue, Wednesday, Day, Cross Industry, Industry, Business Executive, Role, IT Executive, Role, , speakers :firstName_0: Andy, lastName_0: Reedy, firstName_1: Rick, lastName_1: Snell, company_1: Phillips 66, , thirdpartyid :ENT102, sessionuid :4D2EC072-B3BF-4837-9853-7EECEE436447, title :Fueling resilience: Phillips 66’s journey with VMware Cloud on AWS, description :Navigating change and embracing innovation are crucial to achieving business success. VMware Cloud on AWS has empowered organizations globally to accelerate their paths to the cloud while improving resilience and enabling business transformation. Hear directly from AWS and Phillips 66 on how you can approach complex cloud migrations, help ensure data protection, and gain a competitive edge in industries bounded in legacy systems. Get inspired by Phillip 66’s fast and scalable cloud adoption journey and learn practical tips for how to apply these insights to your own migration., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 120, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 17:30:00 -0500, 
+enddatetimeutc: November, 29 2023 17:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: Grand 120
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Navigating change and embracing innovation are crucial to achieving business success. VMware Cloud on AWS has empowered organizations globally to accelerate their paths to the cloud while improving resilience and enabling business transformation. Hear directly from AWS and Phillips 66 on how you can approach complex cloud migrations, help ensure data protection, and gain a competitive edge in industries bounded in legacy systems. Get inspired by Phillip 66’s fast and scalable cloud adoption journey and learn practical tips for how to apply these insights to your own migration
+title: Fueling resilience: Phillips 66’s journey with VMware Cloud on AWS
+sessionuid: 4D2EC072-B3BF-4837-9853-7EECEE436447
+thirdpartyid: ENT102
+speakers: firstName_0: Andy, lastName_0: Reedy, firstName_1: Rick, lastName_1: Snell, company_1: Phillips 66
+tag_name: Energy, Industry, Solution/Systems Architect, Role, Enterprise & Migration, Topic, VMware, Area of Interest, Migration & Transfer, Area of Interest, Customer Stories, Area of Interest, 100 - Foundational, Level, MGM Grand, Venue, Wednesday, Day, Cross Industry, Industry, Business Executive, Role, IT Executive, Role

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 115
+summary: tag_name :Partner Enablement, Topic, Tuesday, Day, Caesars Forum, Venue, 300 - Advanced, Level, , speakers :firstName_0: Ahilan, lastName_0: Thiagarajah, firstName_1: Rishi, lastName_1: Singla, , thirdpartyid :PEX307, sessionuid :BD561D32-5852-4EF0-9921-D573EC94532B, title :Secure migration and modernization, description :Security is our top priority, and it’s important that AWS Partners continue to adhere to security and compliance best practices when planning the security foundation during the mobilization phase. This chalk talk covers the key security areas that need to be planned by a partner during the mobilization phase and shares best practices and tooling that should be used to achieve a secure foundation outcome. This chalk talk is intended for AWS Partners., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 115, startdatetimeutc :November, 28 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 22:00:00 -0500, 
+enddatetimeutc: November, 28 2023 22:00:00 -0500
+startdatetimeutc: November, 28 2023 21:00:00 -0500
+locationname: Forum 115
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Security is our top priority, and it’s important that AWS Partners continue to adhere to security and compliance best practices when planning the security foundation during the mobilization phase. This chalk talk covers the key security areas that need to be planned by a partner during the mobilization phase and shares best practices and tooling that should be used to achieve a secure foundation outcome. This chalk talk is intended for AWS Partners
+title: Secure migration and modernization
+sessionuid: BD561D32-5852-4EF0-9921-D573EC94532B
+thirdpartyid: PEX307
+speakers: firstName_0: Ahilan, lastName_0: Thiagarajah, firstName_1: Rishi, lastName_1: Singla
+tag_name: Partner Enablement, Topic, Tuesday, Day, Caesars Forum, Venue, 300 - Advanced, Level

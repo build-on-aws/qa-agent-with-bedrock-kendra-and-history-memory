@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 101
+summary: tag_name :Developer/Engineer, Role, Social Impact, Area of Interest, Well-Architected Framework, Area of Interest, Architecture, Topic, Solution/Systems Architect, Role, 300 - Advanced, Level, Nonprofit, Industry, IT Professional/Technical Manager, Role, Thursday, Day, MGM Grand, Venue, AWS Well-Architected Tool, Services, Cross Industry, Industry, , speakers :firstName_0: Mike, lastName_0: George, firstName_1: Matt, lastName_1: Bollinger, , thirdpartyid :IMP301, sessionuid :C06991B2-D6C3-454B-B8D6-FD68C322E15D, title :Building resilient workloads to achieve mission outcomes, description :Dr. Werner Vogels, VP and CTO at Amazon.com, has famously stated that “Failures are a given and everything will eventually fail over time.” How should nonprofit, mission-based, or other resource-constrained organizations approach resiliency when they already feel like they don't have enough time or money to meet their mission objectives? In this chalk talk, discover how AWS thinks about building highly available workloads, and explore the tools you can use to build your applications to be resilient. Learn how you can build resilient applications to better meet your mission objectives., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :101, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: 101
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Dr. Werner Vogels, VP and CTO at Amazon.com, has famously stated that “Failures are a given and everything will eventually fail over time.” How should nonprofit, mission-based, or other resource-constrained organizations approach resiliency when they already feel like they don't have enough time or money to meet their mission objectives? In this chalk talk, discover how AWS thinks about building highly available workloads, and explore the tools you can use to build your applications to be resilient. Learn how you can build resilient applications to better meet your mission objectives
+title: Building resilient workloads to achieve mission outcomes
+sessionuid: C06991B2-D6C3-454B-B8D6-FD68C322E15D
+thirdpartyid: IMP301
+speakers: firstName_0: Mike, lastName_0: George, firstName_1: Matt, lastName_1: Bollinger
+tag_name: Developer/Engineer, Role, Social Impact, Area of Interest, Well-Architected Framework, Area of Interest, Architecture, Topic, Solution/Systems Architect, Role, 300 - Advanced, Level, Nonprofit, Industry, IT Professional/Technical Manager, Role, Thursday, Day, MGM Grand, Venue, AWS Well-Architected Tool, Services, Cross Industry, Industry

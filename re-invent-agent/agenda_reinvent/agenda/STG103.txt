@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :Monday, Day, Enterprise & Migration, Topic, New to AWS, Topic, Data Protection, Area of Interest, Modernization, Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, IT Executive, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon Elastic Block Store (EBS), Services, Amazon FSx, Services, Amazon Simple Storage Service (S3), Services, Caesars Forum, Venue, , speakers :firstName_0: Christian, lastName_0: Smith, firstName_1: Rajesh, lastName_1: Vijayaraghavan, , thirdpartyid :STG103, sessionuid :E41DC28A-18BE-43B1-87DE-7BBFF02EFAE1, title :Build with the efficiency, agility & innovation of the cloud with AWS, description :<p>Organizations are building with cloud storage to increase agility, optimize costs, and accelerate innovation. In this session, learn how applications and workloads are taking advantage of the scale, flexibility, and resiliency of cloud storage, and learn about the AWS storage portfolio that makes this possible. Dive deep into design patterns companies use for building data environments for applications migrated with container strategies, stateless applications built with serverless compute, analytics at scale, and training of AI and ML models.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 20:30:00 -0500, 
+enddatetimeutc: November, 27 2023 20:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Organizations are building with cloud storage to increase agility, optimize costs, and accelerate innovation. In this session, learn how applications and workloads are taking advantage of the scale, flexibility, and resiliency of cloud storage, and learn about the AWS storage portfolio that makes this possible. Dive deep into design patterns companies use for building data environments for applications migrated with container strategies, stateless applications built with serverless compute, analytics at scale, and training of AI and ML models.</p>
+title: Build with the efficiency, agility & innovation of the cloud with AWS
+sessionuid: E41DC28A-18BE-43B1-87DE-7BBFF02EFAE1
+thirdpartyid: STG103
+speakers: firstName_0: Christian, lastName_0: Smith, firstName_1: Rajesh, lastName_1: Vijayaraghavan
+tag_name: Monday, Day, Enterprise & Migration, Topic, New to AWS, Topic, Data Protection, Area of Interest, Modernization, Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, IT Executive, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon Elastic Block Store (EBS), Services, Amazon FSx, Services, Amazon Simple Storage Service (S3), Services, Caesars Forum, Venue

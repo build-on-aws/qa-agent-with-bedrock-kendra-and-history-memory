@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 120
+summary: tag_name :Developer/Engineer, Role, Serverless Compute, Topic, Monday, Day, MGM Grand, Venue, 300 - Advanced, Level, Architecture, Topic, Solution/Systems Architect, Role, , speakers :firstName_0: James, lastName_0: Eastham, firstName_1: Craig, lastName_1: Bossie, , thirdpartyid :XNT301, sessionuid :2D3ACB30-00CD-4CFF-8B3A-494E8867033C, title :Build production-ready serverless .NET apps with AWS Lambda, description :This session explores development and architectural best practices when building serverless applications with .NET and AWS Lambda, including when to run ASP.NET on Lambda, code structure, and using native AOT to massively increase performance. Join this session to learn how to develop, test, and deploy .NET serverless applications and gain a solid understanding of how to build production-ready, high-performance serverless applications., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 120, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 27 2023 22:00:00 -0500, 
+enddatetimeutc: November, 27 2023 22:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: Grand 120
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: This session explores development and architectural best practices when building serverless applications with .NET and AWS Lambda, including when to run ASP.NET on Lambda, code structure, and using native AOT to massively increase performance. Join this session to learn how to develop, test, and deploy .NET serverless applications and gain a solid understanding of how to build production-ready, high-performance serverless applications
+title: Build production-ready serverless .NET apps with AWS Lambda
+sessionuid: 2D3ACB30-00CD-4CFF-8B3A-494E8867033C
+thirdpartyid: XNT301
+speakers: firstName_0: James, lastName_0: Eastham, firstName_1: Craig, lastName_1: Bossie
+tag_name: Developer/Engineer, Role, Serverless Compute, Topic, Monday, Day, MGM Grand, Venue, 300 - Advanced, Level, Architecture, Topic, Solution/Systems Architect, Role

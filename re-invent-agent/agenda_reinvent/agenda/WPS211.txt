@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 104
+summary: tag_name :Cross Industry, Industry, Government, Industry, AI/ML, Topic, 200 - Intermediate, Level, Application Integration, Area of Interest, SaaS, Area of Interest, Business Intelligence, Area of Interest, Business Applications, Topic, Thursday, Day, MGM Grand, Venue, , speakers :firstName_0: Andy, lastName_0: Banks, firstName_1: Gayathri, lastName_1: Govindhan, , thirdpartyid :WPS211, sessionuid :959BEE76-7818-4CA5-802C-E74A79C69ABF, title :Reduce costs and operate with speed in the global supply chain, description :Events around the world have a major impact on the global supply chain. Federal agencies are looking to strengthen the system using technology products and services to improve performance and lower costs. In this chalk talk, explore how AWS supply chain and logistics solutions help with data management, management, inventory management, and order management., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :104, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: 104
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Events around the world have a major impact on the global supply chain. Federal agencies are looking to strengthen the system using technology products and services to improve performance and lower costs. In this chalk talk, explore how AWS supply chain and logistics solutions help with data management, management, inventory management, and order management
+title: Reduce costs and operate with speed in the global supply chain
+sessionuid: 959BEE76-7818-4CA5-802C-E74A79C69ABF
+thirdpartyid: WPS211
+speakers: firstName_0: Andy, lastName_0: Banks, firstName_1: Gayathri, lastName_1: Govindhan
+tag_name: Cross Industry, Industry, Government, Industry, AI/ML, Topic, 200 - Intermediate, Level, Application Integration, Area of Interest, SaaS, Area of Interest, Business Intelligence, Area of Interest, Business Applications, Topic, Thursday, Day, MGM Grand, Venue

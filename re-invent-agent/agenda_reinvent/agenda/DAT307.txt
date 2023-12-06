@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 353
+summary: tag_name :Amazon Aurora, Services, Cross Industry, Industry, Migration & Transfer, Area of Interest, DevOps Engineer, Role, Amazon Relational Database Service (RDS), Services, Data Protection, Area of Interest, IT Professional/Technical Manager, Role, Databases, Topic, Monday, Day, MGM Grand, Venue, 300 - Advanced, Level, Developer/Engineer, Role, Management & Governance, Area of Interest, , speakers :firstName_0: Tim, lastName_0: Gustafson, firstName_1: Maria, lastName_1: Ehsan, firstName_2: Paola, lastName_2: Lorusso, firstName_3: Vijay, lastName_3: Karumajji, firstName_4: Ovidiu, lastName_4: Hutuleac, , thirdpartyid :DAT307-R, sessionuid :E53EEC33-BAA0-4FB7-96FF-7064EC151D48, title :Perform database updates with Amazon RDS Blue/Green Deployments [REPEAT], description :Amazon RDS Blue/Green Deployments simplify the process of upgrading and performing maintenance on your Amazon Aurora and Amazon RDS for MySQL databases. In this builders’ session, learn to apply database updates, such as major or minor engine version upgrades for Amazon Aurora MySQL-Compatible Edition and perform schema changes with Amazon RDS for MySQL, with predictable downtime. You must bring your laptop to participate., sessiontype :Builders' Session, venuename :MGM Grand, floorplanname :Level 3, locationname :353, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: 353
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Builders' Session
+description: Amazon RDS Blue/Green Deployments simplify the process of upgrading and performing maintenance on your Amazon Aurora and Amazon RDS for MySQL databases. In this builders’ session, learn to apply database updates, such as major or minor engine version upgrades for Amazon Aurora MySQL-Compatible Edition and perform schema changes with Amazon RDS for MySQL, with predictable downtime. You must bring your laptop to participate
+title: Perform database updates with Amazon RDS Blue/Green Deployments [REPEAT]
+sessionuid: E53EEC33-BAA0-4FB7-96FF-7064EC151D48
+thirdpartyid: DAT307-R
+speakers: firstName_0: Tim, lastName_0: Gustafson, firstName_1: Maria, lastName_1: Ehsan, firstName_2: Paola, lastName_2: Lorusso, firstName_3: Vijay, lastName_3: Karumajji, firstName_4: Ovidiu, lastName_4: Hutuleac
+tag_name: Amazon Aurora, Services, Cross Industry, Industry, Migration & Transfer, Area of Interest, DevOps Engineer, Role, Amazon Relational Database Service (RDS), Services, Data Protection, Area of Interest, IT Professional/Technical Manager, Role, Databases, Topic, Monday, Day, MGM Grand, Venue, 300 - Advanced, Level, Developer/Engineer, Role, Management & Governance, Area of Interest

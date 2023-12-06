@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3002
+summary: tag_name :200 - Intermediate, Level, Enterprise & Migration, Topic, Solution/Systems Architect, Role, Business Executive, Role, IT Executive, Role, Resilience, Area of Interest, Tuesday, Day, Venetian, Venue, Cloud Operations, Topic, , speakers :firstName_0: Michael, lastName_0: Gutsche, company_0: Splunk, firstName_1: Tony, lastName_1: Pierce, company_1: Splunk, , thirdpartyid :COP215-S, sessionuid :14A7F077-8169-4929-88C5-40C353BC9FDD, title :Building digital resilience with unified security and observability (sponsored by Splunk), description :Customers continue to expect seamless, always-on experiences, and organizations are tasked with keeping their systems secure and reliable. But building digital resilience brings major challenges, including increasing complexity through modern technology stacks, siloed teams and tools, and an ever-evolving threat landscape. In this session, learn how Splunk and AWS help organizations across all industries innovate and adapt quickly while maintaining security, reliability, and compliance requirements. This presentation is brought to you by Splunk, an AWS Partner., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3002, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 20:30:00 -0500, 
+enddatetimeutc: November, 28 2023 20:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Lido 3002
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Breakout Session
+description: Customers continue to expect seamless, always-on experiences, and organizations are tasked with keeping their systems secure and reliable. But building digital resilience brings major challenges, including increasing complexity through modern technology stacks, siloed teams and tools, and an ever-evolving threat landscape. In this session, learn how Splunk and AWS help organizations across all industries innovate and adapt quickly while maintaining security, reliability, and compliance requirements. This presentation is brought to you by Splunk, an AWS Partner
+title: Building digital resilience with unified security and observability (sponsored by Splunk)
+sessionuid: 14A7F077-8169-4929-88C5-40C353BC9FDD
+thirdpartyid: COP215-S
+speakers: firstName_0: Michael, lastName_0: Gutsche, company_0: Splunk, firstName_1: Tony, lastName_1: Pierce, company_1: Splunk
+tag_name: 200 - Intermediate, Level, Enterprise & Migration, Topic, Solution/Systems Architect, Role, Business Executive, Role, IT Executive, Role, Resilience, Area of Interest, Tuesday, Day, Venetian, Venue, Cloud Operations, Topic

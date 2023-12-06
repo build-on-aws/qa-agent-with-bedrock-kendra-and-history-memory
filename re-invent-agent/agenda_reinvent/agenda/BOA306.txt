@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 407
+summary: tag_name :Amazon Bedrock, Services, Amazon CodeWhisperer, Services, AI/ML, Topic, BuildOn.AWS, Area of Interest, Generative AI, Area of Interest, Tuesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Olivier, lastName_0: Leplus, firstName_1: Banjo, lastName_1: Obayomi, , thirdpartyid :BOA306, sessionuid :887B9587-5D0F-4ADB-A507-681C93ED6F99, title :Building an AWS solutions architect agent with Amazon Bedrock, description :<p>Navigating through complex cloud solutions can be a daunting task. In this session, see how generative AI can help solve this problem by building an AWS solutions architect agent. Using Amazon Bedrock, learn how to build a generative AI agent that can query AWS documentation, generate code, and create diagrams. The session ends with a live demo, where our generative AI agent handles a variety of tasks, significantly reducing manual effort and error. Gain practical insights and the know-how to build generative AI agents to alleviate similar pain points.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 407, startdatetimeutc :November, 29 2023 01:30:00 -0500, enddatetimeutc :November, 29 2023 02:30:00 -0500, 
+enddatetimeutc: November, 29 2023 02:30:00 -0500
+startdatetimeutc: November, 29 2023 01:30:00 -0500
+locationname: Academy 407
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Navigating through complex cloud solutions can be a daunting task. In this session, see how generative AI can help solve this problem by building an AWS solutions architect agent. Using Amazon Bedrock, learn how to build a generative AI agent that can query AWS documentation, generate code, and create diagrams. The session ends with a live demo, where our generative AI agent handles a variety of tasks, significantly reducing manual effort and error. Gain practical insights and the know-how to build generative AI agents to alleviate similar pain points.</p>
+title: Building an AWS solutions architect agent with Amazon Bedrock
+sessionuid: 887B9587-5D0F-4ADB-A507-681C93ED6F99
+thirdpartyid: BOA306
+speakers: firstName_0: Olivier, lastName_0: Leplus, firstName_1: Banjo, lastName_1: Obayomi
+tag_name: Amazon Bedrock, Services, Amazon CodeWhisperer, Services, AI/ML, Topic, BuildOn.AWS, Area of Interest, Generative AI, Area of Interest, Tuesday, Day, Caesars Forum, Venue

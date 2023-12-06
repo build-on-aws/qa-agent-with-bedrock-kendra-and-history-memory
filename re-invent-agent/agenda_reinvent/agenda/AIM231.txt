@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Oceanside B
+summary: tag_name :Wednesday, Day, Mandalay Bay, Venue, AI/ML, Topic, Business Intelligence, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, Data Engineer, Role, IT Executive, Role, , speakers :firstName_0: Brendan, lastName_0: Grady, company_0: Qlik, , thirdpartyid :AIM231-S, sessionuid :C1314F84-64FE-495B-BC6E-8A55510ABC10, title :Avoiding 5 missteps that undermine your AI readiness and success (sponsored by Qlik), description :<p>Are you ready to dive into the AI frenzy? While many organizations are still learning to support AI, the value of getting it right is transformational. But some leaders are cautious about moving too fast due to very real risk, governance, and trust concerns. In this session, explore how to avoid key missteps and learn how to use rapidly advancing technology from AWS and AWS Partners—so you can dive in with confidence. This presentation is brought to you by Qlik, an AWS Partner.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Oceanside B, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Oceanside B
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Are you ready to dive into the AI frenzy? While many organizations are still learning to support AI, the value of getting it right is transformational. But some leaders are cautious about moving too fast due to very real risk, governance, and trust concerns. In this session, explore how to avoid key missteps and learn how to use rapidly advancing technology from AWS and AWS Partners—so you can dive in with confidence. This presentation is brought to you by Qlik, an AWS Partner.</p>
+title: Avoiding 5 missteps that undermine your AI readiness and success (sponsored by Qlik)
+sessionuid: C1314F84-64FE-495B-BC6E-8A55510ABC10
+thirdpartyid: AIM231-S
+speakers: firstName_0: Brendan, lastName_0: Grady, company_0: Qlik
+tag_name: Wednesday, Day, Mandalay Bay, Venue, AI/ML, Topic, Business Intelligence, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, Data Engineer, Role, IT Executive, Role

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 320
+summary: tag_name :AI/ML, Topic, Analytics, Topic, Innovation on AWS, Area of Interest, Generative AI, Area of Interest, Strategy & Transformation, Area of Interest, Education, Industry, Government, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon Personalize, Services, Amazon SageMaker, Services, Amazon Textract, Services, Monday, Day, MGM Grand, Venue, , speakers :firstName_0: Raghavarao, lastName_0: Sodabathina, firstName_1: Dustin, lastName_1: Liukkonen, , thirdpartyid :WPS205, sessionuid :08396836-F873-4F12-AC35-9399B5B03568, title :Improving customer experience for public sector, description :<p>Every customer interaction, or touch point, is an opportunity to improve a citizen’s experience and tailor it to their preferences and needs. Join this interactive chalk talk to learn how public sector organizations can modernize their data platforms and use AI/ML and generative AI to improve their citizen and customer experience (CX). Discover best practices and reference architectures for common public sector use cases as well as adaptations for new data or business requirements.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 320, startdatetimeutc :November, 27 2023 20:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 20:00:00 -0500
+locationname: Premier 320
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Every customer interaction, or touch point, is an opportunity to improve a citizen’s experience and tailor it to their preferences and needs. Join this interactive chalk talk to learn how public sector organizations can modernize their data platforms and use AI/ML and generative AI to improve their citizen and customer experience (CX). Discover best practices and reference architectures for common public sector use cases as well as adaptations for new data or business requirements.</p>
+title: Improving customer experience for public sector
+sessionuid: 08396836-F873-4F12-AC35-9399B5B03568
+thirdpartyid: WPS205
+speakers: firstName_0: Raghavarao, lastName_0: Sodabathina, firstName_1: Dustin, lastName_1: Liukkonen
+tag_name: AI/ML, Topic, Analytics, Topic, Innovation on AWS, Area of Interest, Generative AI, Area of Interest, Strategy & Transformation, Area of Interest, Education, Industry, Government, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon Personalize, Services, Amazon SageMaker, Services, Amazon Textract, Services, Monday, Day, MGM Grand, Venue

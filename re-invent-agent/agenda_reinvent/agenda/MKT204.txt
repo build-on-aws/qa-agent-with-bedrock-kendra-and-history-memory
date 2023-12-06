@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Thursday, Day, Venetian, Venue, Cloud Operations, Topic, Security, Compliance, & Identity, Topic, AWS Marketplace, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Cloud Security Specialist, Role, IT Executive, Role, Solution/Systems Architect, Role, AWS Marketplace, Services, , speakers :firstName_0: Tim, lastName_0: Honychurch, , thirdpartyid :MKT204, sessionuid :7719A03A-3786-4130-8BA7-F8E3521AC808, title :Assess vendor risk in AWS Marketplace for SaaS-based solutions, description :<p>In this follow-up demo to MKT101 and MKT201, explore how AWS Marketplace helps simplify third-party SaaS software risk assessments by compiling security and compliance information in a unified dashboard. See how the procurement process is streamlined by accessing evidence made available by sellers related to data privacy and residency, application security, and access control.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 22:50:00 -0500, 
+enddatetimeutc: November, 30 2023 22:50:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>In this follow-up demo to MKT101 and MKT201, explore how AWS Marketplace helps simplify third-party SaaS software risk assessments by compiling security and compliance information in a unified dashboard. See how the procurement process is streamlined by accessing evidence made available by sellers related to data privacy and residency, application security, and access control.</p>
+title: Assess vendor risk in AWS Marketplace for SaaS-based solutions
+sessionuid: 7719A03A-3786-4130-8BA7-F8E3521AC808
+thirdpartyid: MKT204
+speakers: firstName_0: Tim, lastName_0: Honychurch
+tag_name: Thursday, Day, Venetian, Venue, Cloud Operations, Topic, Security, Compliance, & Identity, Topic, AWS Marketplace, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Cloud Security Specialist, Role, IT Executive, Role, Solution/Systems Architect, Role, AWS Marketplace, Services

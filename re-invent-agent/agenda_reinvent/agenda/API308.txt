@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :Developer/Engineer, Role, 300 - Advanced, Level, Solution/Systems Architect, Role, Amazon EventBridge, Services, Wynn, Venue, Wednesday, Day, IT Professional/Technical Manager, Role, Application Integration, Area of Interest, Serverless Compute, Topic, , speakers :firstName_0: Brian, lastName_0: Zambrano, firstName_1: luca, lastName_1: mezzalira, , thirdpartyid :API308-R, sessionuid :317974F4-D85E-484E-9F5E-235902E21BA7, title :Accelerating event-driven architecture with domain-driven design [REPEAT], description :Event-driven architectures are experiencing a renaissance. While getting started is not difficult, builders may encounter challenges on their journey. Domain-driven design is a tool that can help, but many developers are unfamiliar with how to get started. In this chalk talk, learn about a general framework that uses domain-driven design to think through, design, and build cloud-native event-driven architectures., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Event-driven architectures are experiencing a renaissance. While getting started is not difficult, builders may encounter challenges on their journey. Domain-driven design is a tool that can help, but many developers are unfamiliar with how to get started. In this chalk talk, learn about a general framework that uses domain-driven design to think through, design, and build cloud-native event-driven architectures
+title: Accelerating event-driven architecture with domain-driven design [REPEAT]
+sessionuid: 317974F4-D85E-484E-9F5E-235902E21BA7
+thirdpartyid: API308-R
+speakers: firstName_0: Brian, lastName_0: Zambrano, firstName_1: luca, lastName_1: mezzalira
+tag_name: Developer/Engineer, Role, 300 - Advanced, Level, Solution/Systems Architect, Role, Amazon EventBridge, Services, Wynn, Venue, Wednesday, Day, IT Professional/Technical Manager, Role, Application Integration, Area of Interest, Serverless Compute, Topic

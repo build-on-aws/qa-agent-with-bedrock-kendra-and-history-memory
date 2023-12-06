@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Lagoon L
+summary: tag_name :Solution/Systems Architect, Role, Quantum Technologies, Area of Interest, Developer/Engineer, Role, Compute, Topic, Amazon Braket, Services, Training & Certification, Topic, Monday, Day, Mandalay Bay, Venue, Cross Industry, Industry, Advisor/Consultant, Role, 200 - Intermediate, Level, BuildOn.AWS, Area of Interest, , speakers :firstName_0: Jonathan, lastName_0: Dion, , thirdpartyid :TNC207, sessionuid :989DB180-C9CE-4EAF-8AB9-933EB7B9E9C8, title :Building your first quantum circuit with Amazon Braket, description :In this lab, create your first quantum circuit using a full state vector simulator (SV1) device and a tensor network simulator (TN1) device. Upon logging in to the AWS console, you navigate to the Amazon Braket notebook and perform quantum operations within it. Inside the Amazon Braket notebook, you prepare a GHZ state (named after the three physicists Greenberger, Horne, and Zeilinger), which is often referred to as the “Hello, World!” tutorial of quantum computing. Once the quantum tasks are complete, your results are saved to an Amazon S3 bucket where you can download and review them., sessiontype :Lab, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Lagoon L, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Lagoon L
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Lab
+description: In this lab, create your first quantum circuit using a full state vector simulator (SV1) device and a tensor network simulator (TN1) device. Upon logging in to the AWS console, you navigate to the Amazon Braket notebook and perform quantum operations within it. Inside the Amazon Braket notebook, you prepare a GHZ state (named after the three physicists Greenberger, Horne, and Zeilinger), which is often referred to as the “Hello, World!” tutorial of quantum computing. Once the quantum tasks are complete, your results are saved to an Amazon S3 bucket where you can download and review them
+title: Building your first quantum circuit with Amazon Braket
+sessionuid: 989DB180-C9CE-4EAF-8AB9-933EB7B9E9C8
+thirdpartyid: TNC207
+speakers: firstName_0: Jonathan, lastName_0: Dion
+tag_name: Solution/Systems Architect, Role, Quantum Technologies, Area of Interest, Developer/Engineer, Role, Compute, Topic, Amazon Braket, Services, Training & Certification, Topic, Monday, Day, Mandalay Bay, Venue, Cross Industry, Industry, Advisor/Consultant, Role, 200 - Intermediate, Level, BuildOn.AWS, Area of Interest

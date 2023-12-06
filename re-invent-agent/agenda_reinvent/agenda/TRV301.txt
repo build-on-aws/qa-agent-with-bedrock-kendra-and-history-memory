@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 320
+summary: tag_name :Developer/Engineer, Role, Business Intelligence, Area of Interest, AI/ML, Topic, AWS Panorama, Services, Solution/Systems Architect, Role, Data Scientist, Role, Travel & Hospitality, Industry, 300 - Advanced, Level, Generative AI, Area of Interest, Tuesday, Day, MGM Grand, Venue, Amazon Bedrock, Services, Analytics, Topic, Amazon SageMaker, Services, Strategy & Transformation, Area of Interest, , speakers :firstName_0: Jorge Alfaro, lastName_0: Hidalgo, firstName_1: Nicola, lastName_1: Pietroluongo, , thirdpartyid :TRV301, sessionuid :831B0DB7-0448-470B-A1F9-7EB3711E2C92, title :Enhance customer experiences with computer vision and generative AI, description :In this chalk talk, discover how to harness computer vision and generative AI to collect accurate customer insights, unlock personalized recommendations, and run intelligent video and image analyses. Learn how airports, airlines, hotels, and restaurants can use Amazon SageMaker, AWS Panorama, and image generation models like Stable Diffusion to redefine the traveler and guest experience., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 320, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 20:30:00 -0500, 
+enddatetimeutc: November, 28 2023 20:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Premier 320
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: In this chalk talk, discover how to harness computer vision and generative AI to collect accurate customer insights, unlock personalized recommendations, and run intelligent video and image analyses. Learn how airports, airlines, hotels, and restaurants can use Amazon SageMaker, AWS Panorama, and image generation models like Stable Diffusion to redefine the traveler and guest experience
+title: Enhance customer experiences with computer vision and generative AI
+sessionuid: 831B0DB7-0448-470B-A1F9-7EB3711E2C92
+thirdpartyid: TRV301
+speakers: firstName_0: Jorge Alfaro, lastName_0: Hidalgo, firstName_1: Nicola, lastName_1: Pietroluongo
+tag_name: Developer/Engineer, Role, Business Intelligence, Area of Interest, AI/ML, Topic, AWS Panorama, Services, Solution/Systems Architect, Role, Data Scientist, Role, Travel & Hospitality, Industry, 300 - Advanced, Level, Generative AI, Area of Interest, Tuesday, Day, MGM Grand, Venue, Amazon Bedrock, Services, Analytics, Topic, Amazon SageMaker, Services, Strategy & Transformation, Area of Interest

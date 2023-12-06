@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :Storage, Topic, Monitoring & Observability, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon S3 Glacier, Services, Amazon Simple Storage Service (S3), Services, Monday, Day, Wynn, Venue, , speakers :firstName_0: Pino, lastName_0: Suliman, firstName_1: Pranav, lastName_1: Murlidhar, , thirdpartyid :STG329-R, sessionuid :8980AAAB-4506-40F2-B063-F3C16EB69A93, title :Analyze your storage usage at scale using Amazon S3 Storage Lens [REPEAT], description :<p>As your data grows and becomes spread across tens or even hundreds of accounts, you might be in search of a tool that makes it easier to manage your storage footprint and improve cost efficiencies. Amazon S3 Storage Lens is an analytics feature built in to the Amazon S3 console to help you gain organization-wide visibility into your object storage usage and to identify cost savings and data protection opportunities. In this session, see how you can start using S3 Storage Lens to implement changes.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 27 2023 20:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 20:00:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>As your data grows and becomes spread across tens or even hundreds of accounts, you might be in search of a tool that makes it easier to manage your storage footprint and improve cost efficiencies. Amazon S3 Storage Lens is an analytics feature built in to the Amazon S3 console to help you gain organization-wide visibility into your object storage usage and to identify cost savings and data protection opportunities. In this session, see how you can start using S3 Storage Lens to implement changes.</p>
+title: Analyze your storage usage at scale using Amazon S3 Storage Lens [REPEAT]
+sessionuid: 8980AAAB-4506-40F2-B063-F3C16EB69A93
+thirdpartyid: STG329-R
+speakers: firstName_0: Pino, lastName_0: Suliman, firstName_1: Pranav, lastName_1: Murlidhar
+tag_name: Storage, Topic, Monitoring & Observability, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon S3 Glacier, Services, Amazon Simple Storage Service (S3), Services, Monday, Day, Wynn, Venue

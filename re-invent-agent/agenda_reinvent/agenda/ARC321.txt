@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 320
+summary: tag_name :Well-Architected Framework, Area of Interest, DevOps and Developer Productivity, Topic, IT Professional/Technical Manager, Role, Architecture, Topic, Solution/Systems Architect, Role, Cross Industry, Industry, DevOps Engineer, Role, Wednesday, Day, MGM Grand, Venue, Resilience, Area of Interest, AWS Fault Injector Service (FIS), Services, 300 - Advanced, Level, , speakers :firstName_0: Shllomi, lastName_0: Ezra, firstName_1: Seth, lastName_1: Eliot, photo_1: new_photo_small_3_20231708125159.jpg, , thirdpartyid :ARC321, sessionuid :17911F40-B7FA-4DA5-9EA4-4EFCC23D6DF3, title :Improve the resilience of AWS workloads using chaos engineering, description :Chaos engineering uses fault injection experiments to build confidence in your workload’s resilience. In this chalk talk, learn how to employ a data-driven approach that can help you formulate hypotheses and put them to the test. These experiments can help provide valuable insights into your application’s resilience, while effectively mitigating associated risks. Ultimately, the result is an application that your customers can rely on, ensuring availability when it matters most., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 320, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Premier 320
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Chaos engineering uses fault injection experiments to build confidence in your workload’s resilience. In this chalk talk, learn how to employ a data-driven approach that can help you formulate hypotheses and put them to the test. These experiments can help provide valuable insights into your application’s resilience, while effectively mitigating associated risks. Ultimately, the result is an application that your customers can rely on, ensuring availability when it matters most
+title: Improve the resilience of AWS workloads using chaos engineering
+sessionuid: 17911F40-B7FA-4DA5-9EA4-4EFCC23D6DF3
+thirdpartyid: ARC321
+speakers: firstName_0: Shllomi, lastName_0: Ezra, firstName_1: Seth, lastName_1: Eliot, photo_1: new_photo_small_3_20231708125159.jpg
+tag_name: Well-Architected Framework, Area of Interest, DevOps and Developer Productivity, Topic, IT Professional/Technical Manager, Role, Architecture, Topic, Solution/Systems Architect, Role, Cross Industry, Industry, DevOps Engineer, Role, Wednesday, Day, MGM Grand, Venue, Resilience, Area of Interest, AWS Fault Injector Service (FIS), Services, 300 - Advanced, Level

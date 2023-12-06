@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 407
+summary: tag_name :300 - Advanced, Level, IT Professional/Technical Manager, Role, Developer/Engineer, Role, Amazon Elastic Kubernetes Service (EKS), Services, Global Infrastructure, Area of Interest, Kubernetes, Topic, Monday, Day, Caesars Forum, Venue, Customer Stories, Area of Interest, Cross Industry, Industry, DevOps Engineer, Role, DevOps and Developer Productivity, Topic, , speakers :firstName_0: Roland, lastName_0: Barcia, firstName_1: Ahmed, lastName_1: Bebars, company_1: The New York Times, firstName_2: Kevin, lastName_2: Coleman, , thirdpartyid :CON311, sessionuid :884EC469-0520-4C8B-828E-9D302C8DCEEB, title :Platform engineering with Amazon EKS, description :A wide range of companies, from the most innovative startups to the world’s leading enterprises, are running their internal platforms on Amazon EKS, helping them to accelerate developer velocity and increase the pace of innovation. In this session, learn about best practices that AWS has developed over years of helping thousands of customers build and scale their internal platforms on Amazon EKS., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 407, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 01:30:00 -0500, 
+enddatetimeutc: November, 28 2023 01:30:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: Academy 407
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: A wide range of companies, from the most innovative startups to the world’s leading enterprises, are running their internal platforms on Amazon EKS, helping them to accelerate developer velocity and increase the pace of innovation. In this session, learn about best practices that AWS has developed over years of helping thousands of customers build and scale their internal platforms on Amazon EKS
+title: Platform engineering with Amazon EKS
+sessionuid: 884EC469-0520-4C8B-828E-9D302C8DCEEB
+thirdpartyid: CON311
+speakers: firstName_0: Roland, lastName_0: Barcia, firstName_1: Ahmed, lastName_1: Bebars, company_1: The New York Times, firstName_2: Kevin, lastName_2: Coleman
+tag_name: 300 - Advanced, Level, IT Professional/Technical Manager, Role, Developer/Engineer, Role, Amazon Elastic Kubernetes Service (EKS), Services, Global Infrastructure, Area of Interest, Kubernetes, Topic, Monday, Day, Caesars Forum, Venue, Customer Stories, Area of Interest, Cross Industry, Industry, DevOps Engineer, Role, DevOps and Developer Productivity, Topic

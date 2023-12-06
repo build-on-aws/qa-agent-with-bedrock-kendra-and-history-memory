@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 364
+summary: tag_name :AI/ML, Topic, Compute, Topic, Customer Stories, Area of Interest, Innovation on AWS, Area of Interest, Education, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Thursday, Day, MGM Grand, Venue, , speakers :firstName_0: Debra, lastName_0: Goldfarb, firstName_1: Circe, lastName_1: Tsui, company_1: Emory, , thirdpartyid :WPS207, sessionuid :7F6B4005-E044-4861-8783-89CAAE7C3FE8, title :Bridging research and computing to tackle the world's grand challenges, description :<p>From mitigating the impacts of climate change to ensuring food security, there is no lack of challenges for researchers. Technology is a key to success in these endeavors. When research is limited from access to data or expensive computing equipment, there’s an opportunity to utilize the power of the cloud. Join us for a discussion with experts from top academic research organizations on the intersection of research, high performance computing, and AI/ML to tackle grand challenges facing the world. Hear how these universities have used the cloud to let their researchers focus on what they do best—science.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 364, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Chairmans 364
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>From mitigating the impacts of climate change to ensuring food security, there is no lack of challenges for researchers. Technology is a key to success in these endeavors. When research is limited from access to data or expensive computing equipment, there’s an opportunity to utilize the power of the cloud. Join us for a discussion with experts from top academic research organizations on the intersection of research, high performance computing, and AI/ML to tackle grand challenges facing the world. Hear how these universities have used the cloud to let their researchers focus on what they do best—science.</p>
+title: Bridging research and computing to tackle the world's grand challenges
+sessionuid: 7F6B4005-E044-4861-8783-89CAAE7C3FE8
+thirdpartyid: WPS207
+speakers: firstName_0: Debra, lastName_0: Goldfarb, firstName_1: Circe, lastName_1: Tsui, company_1: Emory
+tag_name: AI/ML, Topic, Compute, Topic, Customer Stories, Area of Interest, Innovation on AWS, Area of Interest, Education, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Thursday, Day, MGM Grand, Venue

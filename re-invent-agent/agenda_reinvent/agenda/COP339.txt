@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine F
+summary: tag_name :DevOps Engineer, Role, Management & Governance, Area of Interest, Mandalay Bay, Venue, Thursday, Day, Monitoring & Observability, Area of Interest, AWS Systems Manager, Services, 300 - Advanced, Level, Cloud Operations, Topic, Amazon CloudWatch, Services, System Administrator, Role, Amazon Managed Service for Prometheus, Services, IT Administrator, Role, , speakers :firstName_0: Brian, lastName_0: Dennehy, firstName_1: Gregory, lastName_1: Eppel, , thirdpartyid :COP339, sessionuid :3B46F5EB-64A1-4C12-A0E7-CC4C4A640C4F, title :What’s new with AWS observability and operations, description :Whether you are operating in the cloud or migrating your operations, AWS can help you manage and provide insights into your applications and infrastructure across multiple environments. Attend this session to learn about the most recent innovations that you can use to elevate and optimize your cloud operations. Dive into the latest launches with demos of AWS IT management tools and observability solutions., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine F, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: Jasmine F
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Whether you are operating in the cloud or migrating your operations, AWS can help you manage and provide insights into your applications and infrastructure across multiple environments. Attend this session to learn about the most recent innovations that you can use to elevate and optimize your cloud operations. Dive into the latest launches with demos of AWS IT management tools and observability solutions
+title: What’s new with AWS observability and operations
+sessionuid: 3B46F5EB-64A1-4C12-A0E7-CC4C4A640C4F
+thirdpartyid: COP339
+speakers: firstName_0: Brian, lastName_0: Dennehy, firstName_1: Gregory, lastName_1: Eppel
+tag_name: DevOps Engineer, Role, Management & Governance, Area of Interest, Mandalay Bay, Venue, Thursday, Day, Monitoring & Observability, Area of Interest, AWS Systems Manager, Services, 300 - Advanced, Level, Cloud Operations, Topic, Amazon CloudWatch, Services, System Administrator, Role, Amazon Managed Service for Prometheus, Services, IT Administrator, Role

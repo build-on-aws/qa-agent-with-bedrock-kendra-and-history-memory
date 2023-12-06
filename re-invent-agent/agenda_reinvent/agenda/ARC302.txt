@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 312
+summary: tag_name :DevOps Engineer, Role, Resilience, Area of Interest, 300 - Advanced, Level, Thursday, Day, MGM Grand, Venue, Amazon Route 53 Application Recovery Controller, Services, Cross Industry, Industry, Architecture, Topic, Developer/Engineer, Role, Solution/Systems Architect, Role, , speakers :firstName_0: Scott, lastName_0: Wainstock, , thirdpartyid :ARC302, sessionuid :8B094396-1262-400A-B0F8-BDCD9735928C, title :Drive resilience with Amazon Route 53 Application Recovery Controller, description :An event that prevents a workload or system from fulfilling its business objectives in its primary deployed location is considered a disaster. Disaster recovery is the process of preparing for and recovering from a disaster. In this workshop, learn about Amazon Route 53 Application Recovery Controller and how it can help recover an example program―a tic-tac-toe game―from application failures. Explore tooling that assists in multi-Region and in-Region disaster recovery. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 312, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :December, 01 2023 00:00:00 -0500, 
+enddatetimeutc: December, 01 2023 00:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Premier 312
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: An event that prevents a workload or system from fulfilling its business objectives in its primary deployed location is considered a disaster. Disaster recovery is the process of preparing for and recovering from a disaster. In this workshop, learn about Amazon Route 53 Application Recovery Controller and how it can help recover an example program―a tic-tac-toe game―from application failures. Explore tooling that assists in multi-Region and in-Region disaster recovery. You must bring your laptop to participate
+title: Drive resilience with Amazon Route 53 Application Recovery Controller
+sessionuid: 8B094396-1262-400A-B0F8-BDCD9735928C
+thirdpartyid: ARC302
+speakers: firstName_0: Scott, lastName_0: Wainstock
+tag_name: DevOps Engineer, Role, Resilience, Area of Interest, 300 - Advanced, Level, Thursday, Day, MGM Grand, Venue, Amazon Route 53 Application Recovery Controller, Services, Cross Industry, Industry, Architecture, Topic, Developer/Engineer, Role, Solution/Systems Architect, Role

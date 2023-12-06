@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :Databases, Topic, Application Integration, Area of Interest, Data Protection, Area of Interest, Migration & Transfer, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Data Engineer, Role, Data Scientist, Role, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, EC2 Image Builder, Services, Wednesday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Amit, lastName_0: Shah, firstName_1: Adam, lastName_1: Hill, , thirdpartyid :CMP203, sessionuid :F5CD73B8-B82A-47AD-A964-F57B6A757EBF, title :Scaling SAP HANA workloads on AWS, description :<p>Running SAP HANA on AWS means organizations can rightsize their SAP HANA infrastructure and migrate between instance sizes as their needs change. In this chalk talk, find out how SAP HANA on AWS customers are benefiting from the flexibility and reliability of the AWS Cloud, and learn how you can migrate your mission-critical SAP HANA workloads to AWS. Explore the various SAP-certified Amazon EC2 instances that AWS offers to meet organization requirements. Also, discover how you can choose between bare metal and virtual instances for SAP and the benefits around recovery time.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Running SAP HANA on AWS means organizations can rightsize their SAP HANA infrastructure and migrate between instance sizes as their needs change. In this chalk talk, find out how SAP HANA on AWS customers are benefiting from the flexibility and reliability of the AWS Cloud, and learn how you can migrate your mission-critical SAP HANA workloads to AWS. Explore the various SAP-certified Amazon EC2 instances that AWS offers to meet organization requirements. Also, discover how you can choose between bare metal and virtual instances for SAP and the benefits around recovery time.</p>
+title: Scaling SAP HANA workloads on AWS
+sessionuid: F5CD73B8-B82A-47AD-A964-F57B6A757EBF
+thirdpartyid: CMP203
+speakers: firstName_0: Amit, lastName_0: Shah, firstName_1: Adam, lastName_1: Hill
+tag_name: Databases, Topic, Application Integration, Area of Interest, Data Protection, Area of Interest, Migration & Transfer, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Data Engineer, Role, Data Scientist, Role, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, EC2 Image Builder, Services, Wednesday, Day, Mandalay Bay, Venue

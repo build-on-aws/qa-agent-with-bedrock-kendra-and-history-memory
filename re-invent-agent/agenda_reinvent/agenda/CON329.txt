@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 304
+summary: tag_name :Edge Computing, Area of Interest, Amazon Elastic Kubernetes Service (EKS), Services, Wednesday, Day, MGM Grand, Venue, DevOps Engineer, Role, Developer/Engineer, Role, Cross Industry, Industry, Hybrid Cloud, Topic, Global Infrastructure, Area of Interest, 300 - Advanced, Level, Kubernetes, Topic, IT Professional/Technical Manager, Role, , speakers :firstName_0: Chris, lastName_0: Splinter, firstName_1: Ray, lastName_1: Krueger, , thirdpartyid :CON329, sessionuid :9238B738-E418-48A4-B5FA-42F8A93F7B30, title :Choosing edge container services for your architecture, description :AWS supports several ways to run containers at the edge and in hybrid architectures. How do you choose the right service and apply it to your architecture? Are all container services created equal for use at the edge? This chalk talk dives deep into the available services and shows how to apply them to architectures in industries such as telecommunications, manufacturing, financial services, healthcare and life sciences, and agriculture., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :304, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 17:30:00 -0500, 
+enddatetimeutc: November, 29 2023 17:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: 304
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: AWS supports several ways to run containers at the edge and in hybrid architectures. How do you choose the right service and apply it to your architecture? Are all container services created equal for use at the edge? This chalk talk dives deep into the available services and shows how to apply them to architectures in industries such as telecommunications, manufacturing, financial services, healthcare and life sciences, and agriculture
+title: Choosing edge container services for your architecture
+sessionuid: 9238B738-E418-48A4-B5FA-42F8A93F7B30
+thirdpartyid: CON329
+speakers: firstName_0: Chris, lastName_0: Splinter, firstName_1: Ray, lastName_1: Krueger
+tag_name: Edge Computing, Area of Interest, Amazon Elastic Kubernetes Service (EKS), Services, Wednesday, Day, MGM Grand, Venue, DevOps Engineer, Role, Developer/Engineer, Role, Cross Industry, Industry, Hybrid Cloud, Topic, Global Infrastructure, Area of Interest, 300 - Advanced, Level, Kubernetes, Topic, IT Professional/Technical Manager, Role

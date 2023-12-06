@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 228
+summary: tag_name :AI/ML, Topic, Developer/Engineer, Role, Amazon SageMaker, Services, Monday, Day, Caesars Forum, Venue, SaaS, Area of Interest, Solution/Systems Architect, Role, 300 - Advanced, Level, , speakers :firstName_0: Ujwal, lastName_0: Bukka, firstName_1: Mehran, lastName_1: Najafi, , thirdpartyid :SAS301, sessionuid :1C35DA75-0758-4151-B6CC-E37B71AF39C1, title :SaaS and AI/ML: Inside a multi-tenant AI/ML solution, description :SaaS providers are increasingly creating solutions that rely on AI/ML as part of their offerings. ML models are used to introduce new features, enrich existing experiences, and drive differentiation. A challenge is discovering how to support AI/ML models and inferencing in multi-tenant environments. There are multiple strategies that can be used to share and dedicate tenant models, deploy tenant inferencing, and more. In this workshop, learn how to build a multi-tenant solution that supports a range of AI/ML SaaS architecture strategies, including training tenant-specific models, exposing multi-tenant inferencing, and isolating tenant AI/ML resources. You must bring your laptop to participate., sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 228, startdatetimeutc :November, 27 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 22:00:00 -0500
+locationname: Summit 228
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: SaaS providers are increasingly creating solutions that rely on AI/ML as part of their offerings. ML models are used to introduce new features, enrich existing experiences, and drive differentiation. A challenge is discovering how to support AI/ML models and inferencing in multi-tenant environments. There are multiple strategies that can be used to share and dedicate tenant models, deploy tenant inferencing, and more. In this workshop, learn how to build a multi-tenant solution that supports a range of AI/ML SaaS architecture strategies, including training tenant-specific models, exposing multi-tenant inferencing, and isolating tenant AI/ML resources. You must bring your laptop to participate
+title: SaaS and AI/ML: Inside a multi-tenant AI/ML solution
+sessionuid: 1C35DA75-0758-4151-B6CC-E37B71AF39C1
+thirdpartyid: SAS301
+speakers: firstName_0: Ujwal, lastName_0: Bukka, firstName_1: Mehran, lastName_1: Najafi
+tag_name: AI/ML, Topic, Developer/Engineer, Role, Amazon SageMaker, Services, Monday, Day, Caesars Forum, Venue, SaaS, Area of Interest, Solution/Systems Architect, Role, 300 - Advanced, Level

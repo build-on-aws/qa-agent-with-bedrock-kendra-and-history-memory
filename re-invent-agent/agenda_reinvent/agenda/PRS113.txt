@@ -1,0 +1,14 @@
+location: Venetian, Level 3, San Polo 3503
+summary: tag_name :Venetian, Venue, Thursday, Day, 100 - Foundational, Level, , speakers :, thirdpartyid :PRS113, sessionuid :9A013696-AC2B-4D74-9F22-46488C5CA768, title :Press Presentation Room, description :The Press Presentation Room is for press attendees only., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 3, locationname :San Polo 3503, startdatetimeutc :November, 30 2023 15:00:00 -0500, enddatetimeutc :December, 01 2023 02:00:00 -0500, 
+enddatetimeutc: December, 01 2023 02:00:00 -0500
+startdatetimeutc: November, 30 2023 15:00:00 -0500
+locationname: San Polo 3503
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Community Activities
+description: The Press Presentation Room is for press attendees only
+title: Press Presentation Room
+sessionuid: 9A013696-AC2B-4D74-9F22-46488C5CA768
+thirdpartyid: PRS113
+speakers: 
+tag_name: Venetian, Venue, Thursday, Day, 100 - Foundational, Level

@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Venetian, Venue, Wednesday, Day, AI/ML, Topic, Cloud Operations, Topic, Innovation on AWS, Area of Interest, Modernization, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, , speakers :, thirdpartyid :AIM244-S, sessionuid :4D5EC2AF-D00F-45E8-857E-D9B8FDF00E47, title :Explore geocoded datasets with PwC’s innovative data platform (sponsored by PwC), description :<p>Join this lightning talk to see how PwC used native AWS capabilities to build an innovative data platform that generates geocoded datasets and lets users interact with and explore them through the metaverse and 3D models. PwC empowers customers to innovate, and by working with AWS and using their end-to-end cloud capabilities, PwC can deliver a future-proof cloud strategy, see it through to implementation, and continue with managed services. This agile operational model helps PwC’s clients react to an ever-changing economic environment. This presentation is brought to you by PwC, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 00:20:00 -0500, 
+enddatetimeutc: November, 30 2023 00:20:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Join this lightning talk to see how PwC used native AWS capabilities to build an innovative data platform that generates geocoded datasets and lets users interact with and explore them through the metaverse and 3D models. PwC empowers customers to innovate, and by working with AWS and using their end-to-end cloud capabilities, PwC can deliver a future-proof cloud strategy, see it through to implementation, and continue with managed services. This agile operational model helps PwC’s clients react to an ever-changing economic environment. This presentation is brought to you by PwC, an AWS Partner.</p>
+title: Explore geocoded datasets with PwC’s innovative data platform (sponsored by PwC)
+sessionuid: 4D5EC2AF-D00F-45E8-857E-D9B8FDF00E47
+thirdpartyid: AIM244-S
+speakers: 
+tag_name: Venetian, Venue, Wednesday, Day, AI/ML, Topic, Cloud Operations, Topic, Innovation on AWS, Area of Interest, Modernization, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 4
+summary: tag_name :Amazon SageMaker, Services, AWS IoT Core, Services, AWS IoT Greengrass, Services, Business Executive, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, 100 - Foundational, Level, Manufacturing & Industrial, Industry, Customer Stories, Area of Interest, Strategy & Transformation, Area of Interest, AI/ML, Topic, Internet of Things, Topic, Monday, Day, Wynn, Venue, , speakers :firstName_0: Shaun, lastName_0: Kirby, firstName_1: Joseph, lastName_1: Rosing, firstName_2: Justin, lastName_2: Herman, company_2: Panasonic Energy, , thirdpartyid :MFG101, sessionuid :BF178B83-7702-4BE9-9866-161D94B4A4DD, title :Improving manufacturing at Panasonic Energy, description :<p>Join this session to learn how Panasonic Energy of North America (PENA) implemented an Industrial Data Fabric solution to improve the efficiency of their battery manufacturing using AWS Professional Services and Palantir Foundry. The solution helped operationalize disparate industrial data sources and, within months, was able to reduce waste throughout the manufacturing process, resulting in millions of dollars in annual savings. Dive deep into multiple cross-functional use cases that empower PENA to drive operational excellence through data-driven decision-making.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 4, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 01:00:00 -0500, 
+enddatetimeutc: November, 28 2023 01:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: Lafite 4
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Join this session to learn how Panasonic Energy of North America (PENA) implemented an Industrial Data Fabric solution to improve the efficiency of their battery manufacturing using AWS Professional Services and Palantir Foundry. The solution helped operationalize disparate industrial data sources and, within months, was able to reduce waste throughout the manufacturing process, resulting in millions of dollars in annual savings. Dive deep into multiple cross-functional use cases that empower PENA to drive operational excellence through data-driven decision-making.</p>
+title: Improving manufacturing at Panasonic Energy
+sessionuid: BF178B83-7702-4BE9-9866-161D94B4A4DD
+thirdpartyid: MFG101
+speakers: firstName_0: Shaun, lastName_0: Kirby, firstName_1: Joseph, lastName_1: Rosing, firstName_2: Justin, lastName_2: Herman, company_2: Panasonic Energy
+tag_name: Amazon SageMaker, Services, AWS IoT Core, Services, AWS IoT Greengrass, Services, Business Executive, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, 100 - Foundational, Level, Manufacturing & Industrial, Industry, Customer Stories, Area of Interest, Strategy & Transformation, Area of Interest, AI/ML, Topic, Internet of Things, Topic, Monday, Day, Wynn, Venue

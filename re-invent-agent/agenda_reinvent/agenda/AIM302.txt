@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 316
+summary: tag_name :Monday, Day, MGM Grand, Venue, Amazon Transcribe, Services, Retail, Industry, IT Professional/Technical Manager, Role, 300 - Advanced, Level, AI/ML, Topic, Amazon Kendra, Services, Developer/Engineer, Role, Amazon Bedrock, Services, Cross Industry, Industry, Solution/Systems Architect, Role, Generative AI, Area of Interest, Financial Services, Industry, , speakers :firstName_0: Kishore, lastName_0: Dhamodaran, firstName_1: Krishna, lastName_1: Mudda, , thirdpartyid :AIM302, sessionuid :7BA8F69B-99B8-4C74-97CE-9EB8A373BEC3, title :Use generative AI to extract insights from contact center recordings, description :<p>Learn how to derive insights from contact center recordings and other media using Amazon Transcribe and generative AI. In this workshop, learn how to combine automatic call recording, transcription, post-call analysis, sentiment analysis, issue detection, and call summarization from your own telephony recordings (Cisco, Genesys, Talkdesk, Avaya, and more) using AWS Contact Center Intelligence (CCI) solutions and generative AI. See demos on how to build analytics dashboards and integrations between LLMs and Amazon QuickSight to visualize your key metrics. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 316, startdatetimeutc :November, 27 2023 16:30:00 -0500, enddatetimeutc :November, 27 2023 18:30:00 -0500, 
+enddatetimeutc: November, 27 2023 18:30:00 -0500
+startdatetimeutc: November, 27 2023 16:30:00 -0500
+locationname: Premier 316
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>Learn how to derive insights from contact center recordings and other media using Amazon Transcribe and generative AI. In this workshop, learn how to combine automatic call recording, transcription, post-call analysis, sentiment analysis, issue detection, and call summarization from your own telephony recordings (Cisco, Genesys, Talkdesk, Avaya, and more) using AWS Contact Center Intelligence (CCI) solutions and generative AI. See demos on how to build analytics dashboards and integrations between LLMs and Amazon QuickSight to visualize your key metrics. You must bring your laptop to participate.</p>
+title: Use generative AI to extract insights from contact center recordings
+sessionuid: 7BA8F69B-99B8-4C74-97CE-9EB8A373BEC3
+thirdpartyid: AIM302
+speakers: firstName_0: Kishore, lastName_0: Dhamodaran, firstName_1: Krishna, lastName_1: Mudda
+tag_name: Monday, Day, MGM Grand, Venue, Amazon Transcribe, Services, Retail, Industry, IT Professional/Technical Manager, Role, 300 - Advanced, Level, AI/ML, Topic, Amazon Kendra, Services, Developer/Engineer, Role, Amazon Bedrock, Services, Cross Industry, Industry, Solution/Systems Architect, Role, Generative AI, Area of Interest, Financial Services, Industry

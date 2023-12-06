@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Mouton 2
+summary: tag_name :Management & Governance, Area of Interest, Cloud Operations, Topic, 300 - Advanced, Level, Amazon CloudWatch, Services, DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Wednesday, Day, Wynn, Venue, Amazon DevOps Guru, Services, Monitoring & Observability, Area of Interest, , speakers :firstName_0: Phani Kumar, lastName_0: Lingamallu, firstName_1: Shanna, lastName_1: Chang, , thirdpartyid :COP307-R, sessionuid :C9349B0A-1DA9-488D-B3AF-6845376BC6B7, title :Improve incident management with the right alarms and AIOps [REPEAT], description :The foundation to incident management is setting up the right alarms to ensure smoother remediation. AWS observability services—including Amazon CloudWatch and AWS managed open source observability services—offer alarms from static and composite to anomaly detection and metrics insights. In this workshop, discover common use cases and recommendations for how to build an alarm strategy across your metrics and logs. Learn how AWS observability alarms and Amazon DevOps Guru can help automate incident management and offer proactive recommendations, as well as improving your MTTD and MTTR. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Level 1, locationname :Mouton 2, startdatetimeutc :November, 30 2023 02:00:00 -0500, enddatetimeutc :November, 30 2023 04:00:00 -0500, 
+enddatetimeutc: November, 30 2023 04:00:00 -0500
+startdatetimeutc: November, 30 2023 02:00:00 -0500
+locationname: Mouton 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Workshop
+description: The foundation to incident management is setting up the right alarms to ensure smoother remediation. AWS observability services—including Amazon CloudWatch and AWS managed open source observability services—offer alarms from static and composite to anomaly detection and metrics insights. In this workshop, discover common use cases and recommendations for how to build an alarm strategy across your metrics and logs. Learn how AWS observability alarms and Amazon DevOps Guru can help automate incident management and offer proactive recommendations, as well as improving your MTTD and MTTR. You must bring your laptop to participate
+title: Improve incident management with the right alarms and AIOps [REPEAT]
+sessionuid: C9349B0A-1DA9-488D-B3AF-6845376BC6B7
+thirdpartyid: COP307-R
+speakers: firstName_0: Phani Kumar, lastName_0: Lingamallu, firstName_1: Shanna, lastName_1: Chang
+tag_name: Management & Governance, Area of Interest, Cloud Operations, Topic, 300 - Advanced, Level, Amazon CloudWatch, Services, DevOps Engineer, Role, Solution/Systems Architect, Role, System Administrator, Role, Wednesday, Day, Wynn, Venue, Amazon DevOps Guru, Services, Monitoring & Observability, Area of Interest

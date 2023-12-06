@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 368
+summary: tag_name :DevOps Engineer, Role, Cloud Operations, Topic, System Administrator, Role, Wednesday, Day, MGM Grand, Venue, Amazon CloudWatch, Services, AWS X-Ray, Services, Monitoring & Observability, Area of Interest, Solution/Systems Architect, Role, 300 - Advanced, Level, , speakers :firstName_0: Rodrigue, lastName_0: Koffi, firstName_1: Surbhi, lastName_1: Dangi, , thirdpartyid :COP322, sessionuid :E34743AE-25BE-443A-8D8A-A5300043396D, title :Implementing application observability, description :<p>Observability helps you diagnose issues quickly and make things right sooner. In this session, learn how to implement observability into all the layers of your applications with Amazon CloudWatch, so you can understand how your application is performing, from your users to your backend systems.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 368, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Chairmans 368
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>Observability helps you diagnose issues quickly and make things right sooner. In this session, learn how to implement observability into all the layers of your applications with Amazon CloudWatch, so you can understand how your application is performing, from your users to your backend systems.</p>
+title: Implementing application observability
+sessionuid: E34743AE-25BE-443A-8D8A-A5300043396D
+thirdpartyid: COP322
+speakers: firstName_0: Rodrigue, lastName_0: Koffi, firstName_1: Surbhi, lastName_1: Dangi
+tag_name: DevOps Engineer, Role, Cloud Operations, Topic, System Administrator, Role, Wednesday, Day, MGM Grand, Venue, Amazon CloudWatch, Services, AWS X-Ray, Services, Monitoring & Observability, Area of Interest, Solution/Systems Architect, Role, 300 - Advanced, Level

@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Oceanside B
+summary: tag_name :Developer/Engineer, Role, Generative AI, Area of Interest, AI/ML, Topic, Amazon DynamoDB Streams, Services, Wednesday, Day, Mandalay Bay, Venue, Amazon DynamoDB, Services, 300 - Advanced, Level, Cross Industry, Industry, IT Professional/Technical Manager, Role, Databases, Topic, Solution/Systems Architect, Role, Innovation on AWS, Area of Interest, , speakers :firstName_0: Jon, lastName_0: Handler, firstName_1: Jason, lastName_1: Hunter, , thirdpartyid :DAT339, sessionuid :3FDD1466-361D-4177-93FD-1C8E07880FF2, title :Advanced integration patterns with Amazon DynamoDB, description :<p>Making the most of your data often means using multiple AWS services, such as Amazon OpenSearch Service for full-text, geospatial, or vector search. Amazon DynamoDB offers many different ways to build integrations, including export functionality and DynamoDB Streams. In this session, explore different architecture patterns and sample implementations, including an end-to-end vector search example, to understand best practices when integrating from DynamoDB.</p>, sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Oceanside B, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 17:30:00 -0500, 
+enddatetimeutc: November, 29 2023 17:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: Oceanside B
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: <p>Making the most of your data often means using multiple AWS services, such as Amazon OpenSearch Service for full-text, geospatial, or vector search. Amazon DynamoDB offers many different ways to build integrations, including export functionality and DynamoDB Streams. In this session, explore different architecture patterns and sample implementations, including an end-to-end vector search example, to understand best practices when integrating from DynamoDB.</p>
+title: Advanced integration patterns with Amazon DynamoDB
+sessionuid: 3FDD1466-361D-4177-93FD-1C8E07880FF2
+thirdpartyid: DAT339
+speakers: firstName_0: Jon, lastName_0: Handler, firstName_1: Jason, lastName_1: Hunter
+tag_name: Developer/Engineer, Role, Generative AI, Area of Interest, AI/ML, Topic, Amazon DynamoDB Streams, Services, Wednesday, Day, Mandalay Bay, Venue, Amazon DynamoDB, Services, 300 - Advanced, Level, Cross Industry, Industry, IT Professional/Technical Manager, Role, Databases, Topic, Solution/Systems Architect, Role, Innovation on AWS, Area of Interest

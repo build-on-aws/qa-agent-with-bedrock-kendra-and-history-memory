@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :Compute, Topic, Serverless Compute, Topic, Application Security, Area of Interest, Management & Governance, Area of Interest, Business Executive, Role, Developer/Engineer, Role, DevOps Engineer, Role, Aerospace & Satellite, Industry, Cross Industry, Industry, Amazon Elastic Container Service (ECS), Services, AWS Fargate, Services, 200 - Intermediate, Level, Monday, Day, Caesars Forum, Venue, , speakers :firstName_0: Grant, lastName_0: Milstead, company_0: United Airlines, firstName_1: Nick, lastName_1: Coult, , thirdpartyid :CON205, sessionuid :1CD4C6EC-92AB-48B7-AD48-85E6E68740BD, title :Supercharge your business applications with Amazon ECS, description :<p>Amazon ECS is a fully managed container orchestration service that makes it simpler to run highly secure, reliable, and scalable containers. Join Nick Coult, GM of Amazon ECS, to hear about how building with Amazon ECS can supercharge your critical business applications. Learn about the most recent advancements in Amazon ECS and AWS Fargate that can help you more quickly achieve your modernization goals. Also, find out how United Airlines transitioned from monolithic applications to microservices with Amazon ECS to modernize their applications and drive remarkable results.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Amazon ECS is a fully managed container orchestration service that makes it simpler to run highly secure, reliable, and scalable containers. Join Nick Coult, GM of Amazon ECS, to hear about how building with Amazon ECS can supercharge your critical business applications. Learn about the most recent advancements in Amazon ECS and AWS Fargate that can help you more quickly achieve your modernization goals. Also, find out how United Airlines transitioned from monolithic applications to microservices with Amazon ECS to modernize their applications and drive remarkable results.</p>
+title: Supercharge your business applications with Amazon ECS
+sessionuid: 1CD4C6EC-92AB-48B7-AD48-85E6E68740BD
+thirdpartyid: CON205
+speakers: firstName_0: Grant, lastName_0: Milstead, company_0: United Airlines, firstName_1: Nick, lastName_1: Coult
+tag_name: Compute, Topic, Serverless Compute, Topic, Application Security, Area of Interest, Management & Governance, Area of Interest, Business Executive, Role, Developer/Engineer, Role, DevOps Engineer, Role, Aerospace & Satellite, Industry, Cross Industry, Industry, Amazon Elastic Container Service (ECS), Services, AWS Fargate, Services, 200 - Intermediate, Level, Monday, Day, Caesars Forum, Venue

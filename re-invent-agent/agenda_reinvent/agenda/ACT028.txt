@@ -1,0 +1,14 @@
+location: MGM Grand, Level 2, International Smoke
+summary: tag_name :Tuesday, Day, MGM Grand, Venue, Happy Hour/Reception, Additional Services, , speakers :, thirdpartyid :ACT028, sessionuid :5484896C-FF9E-479F-B733-AE9AECDDC03D, title :International Splunk at International Smoke, description :<p>Join us for a dazzling happy hour hosted by Splunk! Get ready to unwind and ignite your Tuesday evening at the vibrant International Smoke in the heart of Las Vegas. Savor exquisite cocktails and delectable bites while mingling with fellow cloud enthusiasts from all around the world. Let the dynamic energy of Splunk and the glamour of Las Vegas combine for an unforgettable evening.</p>, sessiontype :Community Activities, venuename :MGM Grand, floorplanname :Level 2, locationname :International Smoke, startdatetimeutc :November, 29 2023 02:00:00 -0500, enddatetimeutc :November, 29 2023 04:00:00 -0500, 
+enddatetimeutc: November, 29 2023 04:00:00 -0500
+startdatetimeutc: November, 29 2023 02:00:00 -0500
+locationname: International Smoke
+floorplanname: Level 2
+venuename: MGM Grand
+sessiontype: Community Activities
+description: <p>Join us for a dazzling happy hour hosted by Splunk! Get ready to unwind and ignite your Tuesday evening at the vibrant International Smoke in the heart of Las Vegas. Savor exquisite cocktails and delectable bites while mingling with fellow cloud enthusiasts from all around the world. Let the dynamic energy of Splunk and the glamour of Las Vegas combine for an unforgettable evening.</p>
+title: International Splunk at International Smoke
+sessionuid: 5484896C-FF9E-479F-B733-AE9AECDDC03D
+thirdpartyid: ACT028
+speakers: 
+tag_name: Tuesday, Day, MGM Grand, Venue, Happy Hour/Reception, Additional Services

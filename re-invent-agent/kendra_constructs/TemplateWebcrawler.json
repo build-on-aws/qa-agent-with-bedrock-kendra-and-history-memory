@@ -1,0 +1,67 @@
+{
+    "connectionConfiguration": {
+        "repositoryEndpointMetadata": {
+            "s3SeedUrl": null,
+            "siteMapUrls": null,
+            "seedUrlConnections": [
+                {
+                    "seedUrl": "https://aws.amazon.com/blogs/contact-center/aws-recognized-as-a-leader-in-2023-gartner-magic-quadrant-for-contact-center-as-a-service-with-amazon-connect/"
+                }
+            ],
+            "s3SiteMapUrl": null,
+            "authentication": "NoAuthentication"
+        }
+    },
+    "enableIdentityCrawler": false,
+    "syncMode": "FORCED_FULL_CRAWL",
+    "additionalProperties": {
+        "inclusionFileIndexPatterns": [],
+        "rateLimit": "300",
+        "maxFileSize": "50",
+        "crawlDepth": "2",
+        "crawlAllDomain": false,
+        "crawlSubDomain": false,
+        "inclusionURLIndexPatterns": [],
+        "exclusionFileIndexPatterns": [],
+        "proxy": {},
+        "exclusionURLCrawlPatterns": [],
+        "exclusionURLIndexPatterns": [],
+        "crawlAttachments": false,
+        "honorRobots": true,
+        "inclusionURLCrawlPatterns": [],
+        "crawlDomainsOnly": true,
+        "maxLinksPerUrl": "100"
+    },
+    "type": "WEBCRAWLERV2",
+    "version": "1.0.0",
+    "repositoryConfigurations": {
+        "attachment": {
+            "fieldMappings": [
+                {
+                    "dataSourceFieldName": "category",
+                    "indexFieldName": "_category",
+                    "indexFieldType": "STRING"
+                },
+                {
+                    "dataSourceFieldName": "sourceUrl",
+                    "indexFieldName": "_source_uri",
+                    "indexFieldType": "STRING"
+                }
+            ]
+        },
+        "webPage": {
+            "fieldMappings": [
+                {
+                    "dataSourceFieldName": "category",
+                    "indexFieldName": "_category",
+                    "indexFieldType": "STRING"
+                },
+                {
+                    "dataSourceFieldName": "sourceUrl",
+                    "indexFieldName": "_source_uri",
+                    "indexFieldType": "STRING"
+                }
+            ]
+        }
+    }
+}

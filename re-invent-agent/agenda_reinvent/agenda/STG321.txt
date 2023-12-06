@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 320
+summary: tag_name :Solution/Systems Architect, Role, 300 - Advanced, Level, Manufacturing & Industrial, Industry, IT Professional/Technical Manager, Role, Storage, Topic, Thursday, Day, MGM Grand, Venue, Financial Services, Industry, Enterprise & Migration, Topic, AWS Transfer Family, Services, System Administrator, Role, Cross Industry, Industry, Migration & Transfer, Area of Interest, , speakers :firstName_0: Jud, lastName_0: Waite, firstName_1: Fabio, lastName_1: Lattanzi, , thirdpartyid :STG321, sessionuid :8B616652-E219-4486-90F7-44A33649DCB3, title :Low-code file movement to supercharge managed file transfer ecosystems, description :Enterprises exchange a range of data over a variety of interfaces and protocols with their partners and customers. File-based transfers using protocols like SFTP continue to be the most prevalent mechanisms used for these workflows. In this chalk talk, explore commonly used architecture patterns to build an enterprise-class ecosystem around your file-exchange processes, such as managed file transfers (MFT). These patterns encompass pre- and post-file processing steps that are common within and across enterprises that use AWS Transfer Family., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 320, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 20:30:00 -0500, 
+enddatetimeutc: November, 30 2023 20:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Premier 320
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Enterprises exchange a range of data over a variety of interfaces and protocols with their partners and customers. File-based transfers using protocols like SFTP continue to be the most prevalent mechanisms used for these workflows. In this chalk talk, explore commonly used architecture patterns to build an enterprise-class ecosystem around your file-exchange processes, such as managed file transfers (MFT). These patterns encompass pre- and post-file processing steps that are common within and across enterprises that use AWS Transfer Family
+title: Low-code file movement to supercharge managed file transfer ecosystems
+sessionuid: 8B616652-E219-4486-90F7-44A33649DCB3
+thirdpartyid: STG321
+speakers: firstName_0: Jud, lastName_0: Waite, firstName_1: Fabio, lastName_1: Lattanzi
+tag_name: Solution/Systems Architect, Role, 300 - Advanced, Level, Manufacturing & Industrial, Industry, IT Professional/Technical Manager, Role, Storage, Topic, Thursday, Day, MGM Grand, Venue, Financial Services, Industry, Enterprise & Migration, Topic, AWS Transfer Family, Services, System Administrator, Role, Cross Industry, Industry, Migration & Transfer, Area of Interest

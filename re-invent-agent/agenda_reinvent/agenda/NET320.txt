@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 167
+summary: tag_name :Networking & Content Delivery, Topic, Migration & Transfer, Area of Interest, Network & Infrastructure Security, Area of Interest, 300 - Advanced, Level, Solution/Systems Architect, Role, System Administrator, Role, IT Professional/Technical Manager, Role, AWS Cloud WAN, Services, AWS Direct Connect, Services, AWS Transit Gateway, Services, Thursday, Day, MGM Grand, Venue, , speakers :firstName_0: Alexis, lastName_0: Marcou, firstName_1: James, lastName_1: Devine, , thirdpartyid :NET320, sessionuid :93FD694F-FF91-4792-A848-1C4391432410, title :Connecting multicloud and hybrid networks, description :<p>There is additional complexity to consider when connecting your network with other cloud providers, your on-premises network, or resources in a collocation facility. In this chalk talk, learn common patterns for multicloud and hybrid connectivity using AWS Direct Connect, AWS Cloud WAN, AWS Transit Gateway, AWS Site-to-Site VPN, or SD-WAN devices. Based on your questions, the talk will introduce real-world use cases and best practices.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 167, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Boulevard 167
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>There is additional complexity to consider when connecting your network with other cloud providers, your on-premises network, or resources in a collocation facility. In this chalk talk, learn common patterns for multicloud and hybrid connectivity using AWS Direct Connect, AWS Cloud WAN, AWS Transit Gateway, AWS Site-to-Site VPN, or SD-WAN devices. Based on your questions, the talk will introduce real-world use cases and best practices.</p>
+title: Connecting multicloud and hybrid networks
+sessionuid: 93FD694F-FF91-4792-A848-1C4391432410
+thirdpartyid: NET320
+speakers: firstName_0: Alexis, lastName_0: Marcou, firstName_1: James, lastName_1: Devine
+tag_name: Networking & Content Delivery, Topic, Migration & Transfer, Area of Interest, Network & Infrastructure Security, Area of Interest, 300 - Advanced, Level, Solution/Systems Architect, Role, System Administrator, Role, IT Professional/Technical Manager, Role, AWS Cloud WAN, Services, AWS Direct Connect, Services, AWS Transit Gateway, Services, Thursday, Day, MGM Grand, Venue

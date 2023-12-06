@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 3
+summary: tag_name :Architecture, Topic, Enterprise & Migration, Topic, Disaster Response & Recovery, Area of Interest, Migration & Transfer, Area of Interest, Resilience, Area of Interest, Government, Industry, Cross Industry, Industry, 300 - Advanced, Level, AWS Resilience Hub, Services, Monday, Day, Wynn, Venue, , speakers :firstName_0: Efrat, lastName_0: Manor Portnoy, firstName_1: Shawn, lastName_1: Asfeld, , thirdpartyid :WPS301, sessionuid :EB746BB5-C613-4BF1-8C32-111ED3B2DC95, title :Is your AWS GovCloud (US) architecture resilient?, description :<p>When you design AWS GovCloud (US) architectures, you follow best practices and known design patterns. Is your mission-critical architecture going to hold up like you think it will? You can find the answer using AWS Resilience Hub and AWS Fault Injection Simulator. In this workshop, review architectures that appear to be well-architected and expose their risks and deficiencies. Use AWS tools to uncover components that will fail in the event of an outage and learn how to re-architect to fix these gaps. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 3, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 21:30:00 -0500, 
+enddatetimeutc: November, 27 2023 21:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Cristal 3
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: standard
+description: <p>When you design AWS GovCloud (US) architectures, you follow best practices and known design patterns. Is your mission-critical architecture going to hold up like you think it will? You can find the answer using AWS Resilience Hub and AWS Fault Injection Simulator. In this workshop, review architectures that appear to be well-architected and expose their risks and deficiencies. Use AWS tools to uncover components that will fail in the event of an outage and learn how to re-architect to fix these gaps. You must bring your laptop to participate.</p>
+title: Is your AWS GovCloud (US) architecture resilient?
+sessionuid: EB746BB5-C613-4BF1-8C32-111ED3B2DC95
+thirdpartyid: WPS301
+speakers: firstName_0: Efrat, lastName_0: Manor Portnoy, firstName_1: Shawn, lastName_1: Asfeld
+tag_name: Architecture, Topic, Enterprise & Migration, Topic, Disaster Response & Recovery, Area of Interest, Migration & Transfer, Area of Interest, Resilience, Area of Interest, Government, Industry, Cross Industry, Industry, 300 - Advanced, Level, AWS Resilience Hub, Services, Monday, Day, Wynn, Venue

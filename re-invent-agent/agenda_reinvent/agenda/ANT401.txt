@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Breakers I
+summary: tag_name :Open Source, Area of Interest, Amazon Managed Streaming for Apache Kafka (MSK), Services, Amazon Managed Service for Apache Flink, Services, Application Integration, Area of Interest, Analytics, Topic, IT Professional/Technical Manager, Role, Tuesday, Day, Mandalay Bay, Venue, DevOps Engineer, Role, 400 - Expert, Level, Developer/Engineer, Role, , speakers :firstName_0: Masudur, lastName_0: Rahaman Sayem, firstName_1: Umesh, lastName_1: Chaudhari, , thirdpartyid :ANT401-R, sessionuid :9053BE3C-7A64-4EA4-B661-4E3C0028A3C3, title :Event detection with MSK and Amazon Managed Service for Apache Flink [REPEAT], description :<p>In this workshop, take on the role of a technology manager for a Las Vegas casino. Learn how to create a stream-processing application that identifies historically “high roller” casino guests entering the casino and that sends you an email when they sit down at a gambling table. To do this, use Amazon MSK to capture events, Amazon Managed Service for Apache Flink to detect events of interest, and AWS Lambda with Amazon SNS to send you an email for any events. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Breakers I, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Breakers I
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: <p>In this workshop, take on the role of a technology manager for a Las Vegas casino. Learn how to create a stream-processing application that identifies historically “high roller” casino guests entering the casino and that sends you an email when they sit down at a gambling table. To do this, use Amazon MSK to capture events, Amazon Managed Service for Apache Flink to detect events of interest, and AWS Lambda with Amazon SNS to send you an email for any events. You must bring your laptop to participate.</p>
+title: Event detection with MSK and Amazon Managed Service for Apache Flink [REPEAT]
+sessionuid: 9053BE3C-7A64-4EA4-B661-4E3C0028A3C3
+thirdpartyid: ANT401-R
+speakers: firstName_0: Masudur, lastName_0: Rahaman Sayem, firstName_1: Umesh, lastName_1: Chaudhari
+tag_name: Open Source, Area of Interest, Amazon Managed Streaming for Apache Kafka (MSK), Services, Amazon Managed Service for Apache Flink, Services, Application Integration, Area of Interest, Analytics, Topic, IT Professional/Technical Manager, Role, Tuesday, Day, Mandalay Bay, Venue, DevOps Engineer, Role, 400 - Expert, Level, Developer/Engineer, Role

@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Oceanside D
+summary: tag_name :New to AWS, Topic, 300 - Advanced, Level, Amazon Virtual Private Cloud (VPC), Services, AWS Direct Connect, Services, AWS Site-to-Site VPN, Services, Wednesday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Anoop, lastName_0: Talluri, firstName_1: Mike, lastName_1: Cornstubble, firstName_2: Nayan, lastName_2: Karumuri, , thirdpartyid :NTA307, sessionuid :EF493CFC-1713-4596-B1A8-61CD9C9DCB79, title :AWS networking foundations, description :<p>In this session, learn about a methodical approach to help you build your network on AWS from curated AWS greenfield experiences. Learn about network connectivity models, beginning with a single VPC in a single Region and growing to a hybrid cloud environment, integrating your on-premises networks to global network connection models, and how the AWS Partner Network can help you complete your vision. Explore services like Amazon VPC, AWS Transit Gateway, AWS Site-to-Site VPN, AWS Direct Connect, and AWS Cloud WAN and learn general recommendations for networking on AWS.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Oceanside D, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Oceanside D
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>In this session, learn about a methodical approach to help you build your network on AWS from curated AWS greenfield experiences. Learn about network connectivity models, beginning with a single VPC in a single Region and growing to a hybrid cloud environment, integrating your on-premises networks to global network connection models, and how the AWS Partner Network can help you complete your vision. Explore services like Amazon VPC, AWS Transit Gateway, AWS Site-to-Site VPN, AWS Direct Connect, and AWS Cloud WAN and learn general recommendations for networking on AWS.</p>
+title: AWS networking foundations
+sessionuid: EF493CFC-1713-4596-B1A8-61CD9C9DCB79
+thirdpartyid: NTA307
+speakers: firstName_0: Anoop, lastName_0: Talluri, firstName_1: Mike, lastName_1: Cornstubble, firstName_2: Nayan, lastName_2: Karumuri
+tag_name: New to AWS, Topic, 300 - Advanced, Level, Amazon Virtual Private Cloud (VPC), Services, AWS Direct Connect, Services, AWS Site-to-Site VPN, Services, Wednesday, Day, Mandalay Bay, Venue

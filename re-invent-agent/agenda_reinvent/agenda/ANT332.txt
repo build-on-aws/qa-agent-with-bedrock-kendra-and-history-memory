@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Margaux 1
+summary: tag_name :300 - Advanced, Level, Amazon Athena, Services, Monday, Day, Wynn, Venue, Developer/Engineer, Role, Data Scientist, Role, Data Engineer, Role, Analytics, Topic, , speakers :firstName_0: Navnit, lastName_0: Shukla, firstName_1: Soujanya, lastName_1: Konka, , thirdpartyid :ANT332-R, sessionuid :05A19935-08A4-46B4-B3C4-7DD4CAD0C6BD, title :Customize Amazon Athena to integrate with new data sources [REPEAT], description :The Amazon Athena Query Federation SDK helps you customize Amazon Athena with your own code. This helps you integrate your system with new data sources and proprietary data formats or build in new user-defined functions. Athena uses data source connectors that run on AWS Lambda to run federated queries. A data source connector is a piece of code that can translate between your target data source and Athena. Join this code talk to customize the prebuilt connectors that Amazon Athena provides to access data from any data source on the cloud or on premises., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Margaux 1, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 20:30:00 -0500, 
+enddatetimeutc: November, 27 2023 20:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Margaux 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: The Amazon Athena Query Federation SDK helps you customize Amazon Athena with your own code. This helps you integrate your system with new data sources and proprietary data formats or build in new user-defined functions. Athena uses data source connectors that run on AWS Lambda to run federated queries. A data source connector is a piece of code that can translate between your target data source and Athena. Join this code talk to customize the prebuilt connectors that Amazon Athena provides to access data from any data source on the cloud or on premises
+title: Customize Amazon Athena to integrate with new data sources [REPEAT]
+sessionuid: 05A19935-08A4-46B4-B3C4-7DD4CAD0C6BD
+thirdpartyid: ANT332-R
+speakers: firstName_0: Navnit, lastName_0: Shukla, firstName_1: Soujanya, lastName_1: Konka
+tag_name: 300 - Advanced, Level, Amazon Athena, Services, Monday, Day, Wynn, Venue, Developer/Engineer, Role, Data Scientist, Role, Data Engineer, Role, Analytics, Topic

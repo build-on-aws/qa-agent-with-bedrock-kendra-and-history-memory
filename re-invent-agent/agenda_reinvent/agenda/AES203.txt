@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 370
+summary: tag_name :Aerospace & Satellite, Industry, AI/ML, Topic, Cross Industry, Industry, Customer Stories, Area of Interest, Telecommunications, Industry, Amazon SageMaker, Services, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, MGM Grand, Venue, Wednesday, Day, Application Integration, Area of Interest, Solution/Systems Architect, Role, Amazon Elastic MapReduce (EMR), Services, Amazon Managed Service for Apache Flink, Services, Innovation on AWS, Area of Interest, , speakers :firstName_0: Andre, lastName_0: Kearns, firstName_1: Claire, lastName_1: Zou Price, firstName_2: Sumeet, lastName_2: Singh, company_2: Viasat, , thirdpartyid :AES203, sessionuid :9941E7A3-8F1C-43FF-8844-A56F67625834, title :How Viasat uses AWS AI to customize algorithms for satellite customers, description :Satellite networks generate massive amounts of real-time network data. Training and building models is complex, especially with real-time data streaming. In this session, learn how Viasat used Amazon SageMaker, Amazon EMR, Amazon Kinesis Data Streams, and Apache Flink to build real-time models in the cloud., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 370, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Chairmans 370
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Satellite networks generate massive amounts of real-time network data. Training and building models is complex, especially with real-time data streaming. In this session, learn how Viasat used Amazon SageMaker, Amazon EMR, Amazon Kinesis Data Streams, and Apache Flink to build real-time models in the cloud
+title: How Viasat uses AWS AI to customize algorithms for satellite customers
+sessionuid: 9941E7A3-8F1C-43FF-8844-A56F67625834
+thirdpartyid: AES203
+speakers: firstName_0: Andre, lastName_0: Kearns, firstName_1: Claire, lastName_1: Zou Price, firstName_2: Sumeet, lastName_2: Singh, company_2: Viasat
+tag_name: Aerospace & Satellite, Industry, AI/ML, Topic, Cross Industry, Industry, Customer Stories, Area of Interest, Telecommunications, Industry, Amazon SageMaker, Services, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, MGM Grand, Venue, Wednesday, Day, Application Integration, Area of Interest, Solution/Systems Architect, Role, Amazon Elastic MapReduce (EMR), Services, Amazon Managed Service for Apache Flink, Services, Innovation on AWS, Area of Interest

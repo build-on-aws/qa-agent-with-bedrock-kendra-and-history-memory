@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :System Administrator, Role, AWS Glue, Services, IT Professional/Technical Manager, Role, Monitoring & Observability, Area of Interest, Amazon AppFlow, Services, Thursday, Day, Mandalay Bay, Venue, Amazon CloudWatch, Services, Analytics, Topic, 300 - Advanced, Level, , speakers :firstName_0: Partha, lastName_0: Sarathi Sahoo, firstName_1: Sean, lastName_1: Ma, , thirdpartyid :ANT341, sessionuid :0E283761-8FC7-46CD-8A7E-7C5051976873, title :Reduce downtime and optimize costs through data pipeline observability, description :As the scale of business-critical pipelines grows, data operations and data integration teams may find it increasingly difficult to detect problems that impact data pipeline health, to trace root cause across systems, and to predict future issues. Data pipeline observability leverages key metrics, including availability, lineage, performance, and quality, to provide insight across all your data pipelines. It reduces the time spent on manually analyzing issues and also reduces future disruptions. In this chalk talk, see how data observability with AWS Glue and Amazon CloudWatch can help you identify inefficient data pipelines and define strategies to reduce errors., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 23:30:00 -0500, 
+enddatetimeutc: November, 30 2023 23:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: As the scale of business-critical pipelines grows, data operations and data integration teams may find it increasingly difficult to detect problems that impact data pipeline health, to trace root cause across systems, and to predict future issues. Data pipeline observability leverages key metrics, including availability, lineage, performance, and quality, to provide insight across all your data pipelines. It reduces the time spent on manually analyzing issues and also reduces future disruptions. In this chalk talk, see how data observability with AWS Glue and Amazon CloudWatch can help you identify inefficient data pipelines and define strategies to reduce errors
+title: Reduce downtime and optimize costs through data pipeline observability
+sessionuid: 0E283761-8FC7-46CD-8A7E-7C5051976873
+thirdpartyid: ANT341
+speakers: firstName_0: Partha, lastName_0: Sarathi Sahoo, firstName_1: Sean, lastName_1: Ma
+tag_name: System Administrator, Role, AWS Glue, Services, IT Professional/Technical Manager, Role, Monitoring & Observability, Area of Interest, Amazon AppFlow, Services, Thursday, Day, Mandalay Bay, Venue, Amazon CloudWatch, Services, Analytics, Topic, 300 - Advanced, Level

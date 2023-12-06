@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 304
+summary: tag_name :300 - Advanced, Level, BuildOn.AWS, Area of Interest, Amazon DocumentDB (with MongoDB compatibility), Services, Databases, Topic, Amazon ElastiCache, Services, Monday, Day, MGM Grand, Venue, Amazon DynamoDB, Services, , speakers :firstName_0: Mohammed Fazalullah, lastName_0: Qudrath, firstName_1: Almas, lastName_1: Shaikh, , thirdpartyid :BOA315, sessionuid :99DA7BC2-EBFC-4547-B2AF-C91A3050CF66, title :Dos and don’ts of NoSQL data modeling, description :When traditional SQL databases can’t scale as needed, organizations often turn to NoSQL databases. The main challenge in migrating to NoSQL is data modeling, which requires a deep grasp of data access patterns. In this chalk talk, learn about identifying data access patterns and the techniques available in modeling data on a NoSQL database. Explore how to future-proof your data model, common pitfalls that you should be aware of, and solutions provided by different types of NoSQL database offerings on AWS., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :304, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 27 2023 22:00:00 -0500, 
+enddatetimeutc: November, 27 2023 22:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: 304
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: When traditional SQL databases can’t scale as needed, organizations often turn to NoSQL databases. The main challenge in migrating to NoSQL is data modeling, which requires a deep grasp of data access patterns. In this chalk talk, learn about identifying data access patterns and the techniques available in modeling data on a NoSQL database. Explore how to future-proof your data model, common pitfalls that you should be aware of, and solutions provided by different types of NoSQL database offerings on AWS
+title: Dos and don’ts of NoSQL data modeling
+sessionuid: 99DA7BC2-EBFC-4547-B2AF-C91A3050CF66
+thirdpartyid: BOA315
+speakers: firstName_0: Mohammed Fazalullah, lastName_0: Qudrath, firstName_1: Almas, lastName_1: Shaikh
+tag_name: 300 - Advanced, Level, BuildOn.AWS, Area of Interest, Amazon DocumentDB (with MongoDB compatibility), Services, Databases, Topic, Amazon ElastiCache, Services, Monday, Day, MGM Grand, Venue, Amazon DynamoDB, Services

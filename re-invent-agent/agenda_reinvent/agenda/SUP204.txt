@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Wednesday, Day, Venetian, Venue, Cloud Operations, Topic, Management & Governance, Area of Interest, Monitoring & Observability, Area of Interest, Resilience, Area of Interest, 200 - Intermediate, Level, Developer/Engineer, Role, DevOps Engineer, Role, IT Professional/Technical Manager, Role, AWS Health, Services, AWS Health Dashboard, Services, AWS Support, Services, , speakers :firstName_0: Andrew, lastName_0: Riley, , thirdpartyid :SUP204, sessionuid :E485E3C6-21CF-4328-B51F-43B2E9E3ED26, title :Dive deeper into best practices for using AWS Health, description :<p>In this follow-up demonstration to SUP309, learn more about the features and capabilities of AWS Health. AWS Health keeps you informed about service events, planned changes, and account notifications to help you manage your cloud resources. In this lightning talk, see the different ways that you can use and programmatically integrate AWS Health events with the operational tool of your choice. Learn how you can start using AWS Health to improve the security and availability of your applications and manage the health of your AWS resources at scale.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 29 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 23:50:00 -0500, 
+enddatetimeutc: November, 29 2023 23:50:00 -0500
+startdatetimeutc: November, 29 2023 23:30:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>In this follow-up demonstration to SUP309, learn more about the features and capabilities of AWS Health. AWS Health keeps you informed about service events, planned changes, and account notifications to help you manage your cloud resources. In this lightning talk, see the different ways that you can use and programmatically integrate AWS Health events with the operational tool of your choice. Learn how you can start using AWS Health to improve the security and availability of your applications and manage the health of your AWS resources at scale.</p>
+title: Dive deeper into best practices for using AWS Health
+sessionuid: E485E3C6-21CF-4328-B51F-43B2E9E3ED26
+thirdpartyid: SUP204
+speakers: firstName_0: Andrew, lastName_0: Riley
+tag_name: Wednesday, Day, Venetian, Venue, Cloud Operations, Topic, Management & Governance, Area of Interest, Monitoring & Observability, Area of Interest, Resilience, Area of Interest, 200 - Intermediate, Level, Developer/Engineer, Role, DevOps Engineer, Role, IT Professional/Technical Manager, Role, AWS Health, Services, AWS Health Dashboard, Services, AWS Support, Services

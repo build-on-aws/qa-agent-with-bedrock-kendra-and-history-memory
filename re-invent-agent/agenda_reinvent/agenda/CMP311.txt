@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :Compute, Topic, Cross Industry, Industry, Developer/Engineer, Role, DevOps Engineer, Role, AWS Secrets Manager, Services, Global Infrastructure, Area of Interest, Front-End Web & Mobile, Area of Interest, DevOps and Developer Productivity, Topic, Thursday, Day, Wynn, Venue, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Amazon Elastic Compute Cloud (EC2), Services, , speakers :firstName_0: Dave, lastName_0: Siederer, firstName_1: Seth, lastName_1: Fox, , thirdpartyid :CMP311, sessionuid :EFDB520B-6004-4FFA-A8CC-61BF40B52919, title :Apple on AWS: Managing dev environments on Amazon EC2 Mac instances, description :<p>From securing mobile device management to streamlining CI/CD fleets, organizations use on-demand Amazon EC2 Mac instances for their Apple application development workloads. In this chalk talk, learn how to use Amazon EC2 Mac instances with Jamf to create securely managed endpoints for your application development and packaging teams. Through demos and discussion, discover the possibilities of cloud-based Mac workloads now and in the future.</p>, sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: <p>From securing mobile device management to streamlining CI/CD fleets, organizations use on-demand Amazon EC2 Mac instances for their Apple application development workloads. In this chalk talk, learn how to use Amazon EC2 Mac instances with Jamf to create securely managed endpoints for your application development and packaging teams. Through demos and discussion, discover the possibilities of cloud-based Mac workloads now and in the future.</p>
+title: Apple on AWS: Managing dev environments on Amazon EC2 Mac instances
+sessionuid: EFDB520B-6004-4FFA-A8CC-61BF40B52919
+thirdpartyid: CMP311
+speakers: firstName_0: Dave, lastName_0: Siederer, firstName_1: Seth, lastName_1: Fox
+tag_name: Compute, Topic, Cross Industry, Industry, Developer/Engineer, Role, DevOps Engineer, Role, AWS Secrets Manager, Services, Global Infrastructure, Area of Interest, Front-End Web & Mobile, Area of Interest, DevOps and Developer Productivity, Topic, Thursday, Day, Wynn, Venue, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Amazon Elastic Compute Cloud (EC2), Services

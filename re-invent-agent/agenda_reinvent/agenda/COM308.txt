@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 115
+summary: tag_name :Resilience, Area of Interest, Serverless Compute, Topic, Application Integration, Area of Interest, Data Engineer, Role, Solution/Systems Architect, Role, 300 - Advanced, Level, Analytics, Topic, AWS Lambda, Services, Developer/Engineer, Role, Amazon Kinesis Data Streams, Services, AWS Community, Area of Interest, Monday, Day, MGM Grand, Venue, , speakers :firstName_0: Anahit, lastName_0: Pogosova, company_0: Solita, , thirdpartyid :COM308, sessionuid :CD71AD44-69B2-45DD-9A4A-8AAD9E2EB226, title :Serverless data streaming: Amazon Kinesis Data Streams and AWS Lambda, description :<p>Need a serverless near real-time data streaming architecture? Just connect Amazon Kinesis Data Streams to AWS Lambda. Simple! Is it, though? What happens in the real world? In this session, explore the intricacies of creating scalable, production-ready data streaming architectures using Kinesis Data Streams and Lambda. Delve into tips and best practices essential to navigating the challenges and pitfalls inherent to distributed systems that arise along the way, and observe how AWS services work and interact. Also, reflect on embracing failures because, as Dr. Werner Vogels likes to say, everything fails, all the time.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 115, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Grand 115
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>Need a serverless near real-time data streaming architecture? Just connect Amazon Kinesis Data Streams to AWS Lambda. Simple! Is it, though? What happens in the real world? In this session, explore the intricacies of creating scalable, production-ready data streaming architectures using Kinesis Data Streams and Lambda. Delve into tips and best practices essential to navigating the challenges and pitfalls inherent to distributed systems that arise along the way, and observe how AWS services work and interact. Also, reflect on embracing failures because, as Dr. Werner Vogels likes to say, everything fails, all the time.</p>
+title: Serverless data streaming: Amazon Kinesis Data Streams and AWS Lambda
+sessionuid: CD71AD44-69B2-45DD-9A4A-8AAD9E2EB226
+thirdpartyid: COM308
+speakers: firstName_0: Anahit, lastName_0: Pogosova, company_0: Solita
+tag_name: Resilience, Area of Interest, Serverless Compute, Topic, Application Integration, Area of Interest, Data Engineer, Role, Solution/Systems Architect, Role, 300 - Advanced, Level, Analytics, Topic, AWS Lambda, Services, Developer/Engineer, Role, Amazon Kinesis Data Streams, Services, AWS Community, Area of Interest, Monday, Day, MGM Grand, Venue

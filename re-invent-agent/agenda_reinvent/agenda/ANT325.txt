@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas E
+summary: tag_name :Cost Optimization, Area of Interest, Amazon RedShift, Services, AI/ML, Topic, Analytics, Topic, 300 - Advanced, Level, Tuesday, Day, Mandalay Bay, Venue, Data Engineer, Role, Data Scientist, Role, , speakers :firstName_0: Francisco, lastName_0: Juan, company_0: Klarna, firstName_1: Ippokratis, lastName_1: Pandis, firstName_2: Neeraja, lastName_2: Rentachintala, , thirdpartyid :ANT325, sessionuid :D79A8B44-DE83-49E5-B3C6-3DFFEDA065F4, title :Amazon Redshift: A decade of innovation in cloud data warehousing, description :Exponential data growth has created unique challenges for data practitioners to manage data warehouses that can support high performance workloads at scale within cost constraints. Amazon Redshift has been constantly innovating over the last decade to give you a modern, massively parallel processing cloud data warehouse that delivers the best price performance, ease of use, scalability, and reliability. In this session, learn about Amazon Redshift’s technical innovations including serverless, AI/ML-powered autonomics, and zero-ETL data integrations. Discover how you can use Amazon Redshift to build a data mesh architecture to analyze your data., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas E, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 20:30:00 -0500, 
+enddatetimeutc: November, 28 2023 20:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: South Seas E
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Exponential data growth has created unique challenges for data practitioners to manage data warehouses that can support high performance workloads at scale within cost constraints. Amazon Redshift has been constantly innovating over the last decade to give you a modern, massively parallel processing cloud data warehouse that delivers the best price performance, ease of use, scalability, and reliability. In this session, learn about Amazon Redshift’s technical innovations including serverless, AI/ML-powered autonomics, and zero-ETL data integrations. Discover how you can use Amazon Redshift to build a data mesh architecture to analyze your data
+title: Amazon Redshift: A decade of innovation in cloud data warehousing
+sessionuid: D79A8B44-DE83-49E5-B3C6-3DFFEDA065F4
+thirdpartyid: ANT325
+speakers: firstName_0: Francisco, lastName_0: Juan, company_0: Klarna, firstName_1: Ippokratis, lastName_1: Pandis, firstName_2: Neeraja, lastName_2: Rentachintala
+tag_name: Cost Optimization, Area of Interest, Amazon RedShift, Services, AI/ML, Topic, Analytics, Topic, 300 - Advanced, Level, Tuesday, Day, Mandalay Bay, Venue, Data Engineer, Role, Data Scientist, Role

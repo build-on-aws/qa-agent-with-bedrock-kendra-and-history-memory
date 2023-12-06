@@ -1,0 +1,14 @@
+location: , , 
+summary: tag_name :Thursday, Day, Caesars Forum, Venue, Mandalay Bay, Venue, MGM Grand, Venue, Venetian, Venue, Wynn, Venue, Meals & Conference Services, Additional Services, , speakers :, thirdpartyid :ACT007, sessionuid :A112EE86-D6BB-4647-A1EF-4A235C661087, title :Thursday breakfast, description :Breakfast for attendees is served in Caesars Forum, Forum 130; Mandalay Bay, Level 2, Shoreline Hall; MGM Grand, Level 1, Marquee Ballroom; The Venetian, Level 1, Hall G; and Wynn, Cristal Ballroom 2., sessiontype :Community Activities, venuename :, floorplanname :, locationname :, startdatetimeutc :November, 30 2023 15:00:00 -0500, enddatetimeutc :November, 30 2023 17:00:00 -0500, 
+enddatetimeutc: November, 30 2023 17:00:00 -0500
+startdatetimeutc: November, 30 2023 15:00:00 -0500
+locationname: 
+floorplanname: 
+venuename: 
+sessiontype: Community Activities
+description: Breakfast for attendees is served in Caesars Forum, Forum 130; Mandalay Bay, Level 2, Shoreline Hall; MGM Grand, Level 1, Marquee Ballroom; The Venetian, Level 1, Hall G; and Wynn, Cristal Ballroom 2
+title: Thursday breakfast
+sessionuid: A112EE86-D6BB-4647-A1EF-4A235C661087
+thirdpartyid: ACT007
+speakers: 
+tag_name: Thursday, Day, Caesars Forum, Venue, Mandalay Bay, Venue, MGM Grand, Venue, Venetian, Venue, Wynn, Venue, Meals & Conference Services, Additional Services

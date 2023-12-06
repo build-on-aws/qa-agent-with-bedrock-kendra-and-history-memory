@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :DevOps and Developer Productivity, Topic, Kubernetes, Topic, Migration & Transfer, Area of Interest, Modernization, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, 300 - Advanced, Level, Monday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Anitha, lastName_0: Deenadayalan, firstName_1: Michael, lastName_1: Sciscenti, , thirdpartyid :ENT324, sessionuid :BF513E60-A338-40EC-B52E-D94ACAA6BA6C, title :7 must-know patterns for application modernization, description :<p>Application modernization patterns are proven approaches to well-known problems that help make jobs easier and set projects up for success. In complex, distributed systems such as microservices, patterns are critical to help decouple and scale systems and unlock hidden context that is valuable to the business. In this chalk talk, learn how to assess current applications and apply seven must-know patterns in modernization engagements for building robust and performant microservice architectures. Find out how these patterns can help you reduce technical debt and drive business agility.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 28 2023 01:30:00 -0500, enddatetimeutc :November, 28 2023 02:30:00 -0500, 
+enddatetimeutc: November, 28 2023 02:30:00 -0500
+startdatetimeutc: November, 28 2023 01:30:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Application modernization patterns are proven approaches to well-known problems that help make jobs easier and set projects up for success. In complex, distributed systems such as microservices, patterns are critical to help decouple and scale systems and unlock hidden context that is valuable to the business. In this chalk talk, learn how to assess current applications and apply seven must-know patterns in modernization engagements for building robust and performant microservice architectures. Find out how these patterns can help you reduce technical debt and drive business agility.</p>
+title: 7 must-know patterns for application modernization
+sessionuid: BF513E60-A338-40EC-B52E-D94ACAA6BA6C
+thirdpartyid: ENT324
+speakers: firstName_0: Anitha, lastName_0: Deenadayalan, firstName_1: Michael, lastName_1: Sciscenti
+tag_name: DevOps and Developer Productivity, Topic, Kubernetes, Topic, Migration & Transfer, Area of Interest, Modernization, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, 300 - Advanced, Level, Monday, Day, Mandalay Bay, Venue

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 167
+summary: tag_name :IT Professional/Technical Manager, Role, Data Scientist, Role, Amazon Elastic Compute Cloud (EC2), Services, Innovation on AWS, Area of Interest, AI/ML, Topic, Cross Industry, Industry, Monday, Day, MGM Grand, Venue, Compute, Topic, Developer/Engineer, Role, 400 - Expert, Level, Migration & Transfer, Area of Interest, Cost Optimization, Area of Interest, , speakers :firstName_0: Arthur, lastName_0: Petitpierre, firstName_1: Vishal, lastName_1: Manan, , thirdpartyid :CMP409-R, sessionuid :0F66F0FD-4B88-4BDB-BE51-14198D2CCE3C, title :AI/ML inference on AWS Graviton3–based instances [REPEAT], description :Using processors instead of GPUs can be very cost-effective for some ML workloads. In this chalk talk, learn how AWS Graviton3 can accelerate your inference workloads even more. Explore the performance optimization work that AWS has conducted on PyTorch 2.0 to make it very fast and cost-efficient on Graviton3 processors., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 167, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 20:30:00 -0500, 
+enddatetimeutc: November, 27 2023 20:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Boulevard 167
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Using processors instead of GPUs can be very cost-effective for some ML workloads. In this chalk talk, learn how AWS Graviton3 can accelerate your inference workloads even more. Explore the performance optimization work that AWS has conducted on PyTorch 2.0 to make it very fast and cost-efficient on Graviton3 processors
+title: AI/ML inference on AWS Graviton3–based instances [REPEAT]
+sessionuid: 0F66F0FD-4B88-4BDB-BE51-14198D2CCE3C
+thirdpartyid: CMP409-R
+speakers: firstName_0: Arthur, lastName_0: Petitpierre, firstName_1: Vishal, lastName_1: Manan
+tag_name: IT Professional/Technical Manager, Role, Data Scientist, Role, Amazon Elastic Compute Cloud (EC2), Services, Innovation on AWS, Area of Interest, AI/ML, Topic, Cross Industry, Industry, Monday, Day, MGM Grand, Venue, Compute, Topic, Developer/Engineer, Role, 400 - Expert, Level, Migration & Transfer, Area of Interest, Cost Optimization, Area of Interest

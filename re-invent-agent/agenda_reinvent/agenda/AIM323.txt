@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 110
+summary: tag_name :Advisor/Consultant, Role, Amazon Bedrock, Services, AI/ML, Topic, Developer/Engineer, Role, Manufacturing & Industrial, Industry, Automotive, Industry, Internet of Things, Topic, Tech Explorer, Role, Generative AI, Area of Interest, Cost Optimization, Area of Interest, Monday, Day, Caesars Forum, Venue, Business Intelligence, Area of Interest, Amazon Monitron, Services, 300 - Advanced, Level, , speakers :firstName_0: Danny, lastName_0: Smith, firstName_1: Garry, lastName_1: Galinsky, , thirdpartyid :AIM323-R, sessionuid :C07AE834-EB39-432B-9715-A9CE31D3B3C8, title :Using generative AI for smarter predictive maintenance [REPEAT], description :As manufacturing facilities strive for increased efficiency and uptime, predictive maintenance powered by AI presents tremendous opportunity. In this chalk talk, explore how AWS AI services can be combined to enable generative AI solutions for maintenance workflows. See a demo combining sensor data from Amazon Monitron, corporate knowledge, and natural language generation to increase manufacturing productivity through more predictive and automated maintenance programs. Learn how ML can transform maintenance operations to be efficient, automated, and optimized., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 110, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 20:30:00 -0500, 
+enddatetimeutc: November, 27 2023 20:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Forum 110
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: As manufacturing facilities strive for increased efficiency and uptime, predictive maintenance powered by AI presents tremendous opportunity. In this chalk talk, explore how AWS AI services can be combined to enable generative AI solutions for maintenance workflows. See a demo combining sensor data from Amazon Monitron, corporate knowledge, and natural language generation to increase manufacturing productivity through more predictive and automated maintenance programs. Learn how ML can transform maintenance operations to be efficient, automated, and optimized
+title: Using generative AI for smarter predictive maintenance [REPEAT]
+sessionuid: C07AE834-EB39-432B-9715-A9CE31D3B3C8
+thirdpartyid: AIM323-R
+speakers: firstName_0: Danny, lastName_0: Smith, firstName_1: Garry, lastName_1: Galinsky
+tag_name: Advisor/Consultant, Role, Amazon Bedrock, Services, AI/ML, Topic, Developer/Engineer, Role, Manufacturing & Industrial, Industry, Automotive, Industry, Internet of Things, Topic, Tech Explorer, Role, Generative AI, Area of Interest, Cost Optimization, Area of Interest, Monday, Day, Caesars Forum, Venue, Business Intelligence, Area of Interest, Amazon Monitron, Services, 300 - Advanced, Level

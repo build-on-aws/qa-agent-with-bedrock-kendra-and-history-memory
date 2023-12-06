@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 7
+summary: tag_name :Open Source, Area of Interest, 200 - Intermediate, Level, Amazon Elastic MapReduce (EMR), Services, IT Executive, Role, Data Scientist, Role, Amazon Athena, Services, Wednesday, Day, Wynn, Venue, Data Engineer, Role, AI/ML, Topic, Analytics, Topic, , speakers :firstName_0: Gopinathan, lastName_0: Kannan, firstName_1: Vinita, lastName_1: Ananth, , thirdpartyid :ANT204, sessionuid :2E9D1D15-8841-4E70-B4E6-1B5AA054F609, title :What’s new with Amazon EMR and Amazon Athena, description :Organizations use open source data solutions to empower teams with the latest technology and build applications with the most flexibility. Amazon EMR and Amazon Athena are fully managed analytics services that make it faster and easier to run open source frameworks such as Apache Spark, Trino, Hudi, Iceberg, and more. Join this session to learn how AWS teams accelerate data science adoption, empower real-time data processing, run custom data preparation for AI/ML jobs, and build low-latency SQL at petabyte scale. Find out about the latest launches and how AWS continues to accelerate insights with even greater reliability and resiliency with optimized runtime and leading price performance., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 7, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Cristal 7
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Breakout Session
+description: Organizations use open source data solutions to empower teams with the latest technology and build applications with the most flexibility. Amazon EMR and Amazon Athena are fully managed analytics services that make it faster and easier to run open source frameworks such as Apache Spark, Trino, Hudi, Iceberg, and more. Join this session to learn how AWS teams accelerate data science adoption, empower real-time data processing, run custom data preparation for AI/ML jobs, and build low-latency SQL at petabyte scale. Find out about the latest launches and how AWS continues to accelerate insights with even greater reliability and resiliency with optimized runtime and leading price performance
+title: What’s new with Amazon EMR and Amazon Athena
+sessionuid: 2E9D1D15-8841-4E70-B4E6-1B5AA054F609
+thirdpartyid: ANT204
+speakers: firstName_0: Gopinathan, lastName_0: Kannan, firstName_1: Vinita, lastName_1: Ananth
+tag_name: Open Source, Area of Interest, 200 - Intermediate, Level, Amazon Elastic MapReduce (EMR), Services, IT Executive, Role, Data Scientist, Role, Amazon Athena, Services, Wednesday, Day, Wynn, Venue, Data Engineer, Role, AI/ML, Topic, Analytics, Topic

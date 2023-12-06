@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 126
+summary: tag_name :New to AWS, Topic, 200 - Intermediate, Level, IT Executive, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, AWS Control Tower, Services, AWS Security Hub, Services, AWS Well-Architected Tool, Services, Tuesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Kunle, lastName_0: Adeleke, firstName_1: Sara, lastName_1: Rogers, , thirdpartyid :NTA212, sessionuid :9542F379-283C-435F-A287-6743F31B3023, title :Addressing cloud adoption hesitancy factors, description :<p>This chalk talk reviews top cloud adoption hesitancy factors and how they can be addressed with proper architecture and guidance. This includes concerns that business and technical decision makers have, such as security and privacy (including hybrid cloud design, cloud security, and compliance), business disruption and risk aversion (including disaster recovery strategies), and cost management (including proactive and reactive monitoring).</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 126, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Forum 126
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>This chalk talk reviews top cloud adoption hesitancy factors and how they can be addressed with proper architecture and guidance. This includes concerns that business and technical decision makers have, such as security and privacy (including hybrid cloud design, cloud security, and compliance), business disruption and risk aversion (including disaster recovery strategies), and cost management (including proactive and reactive monitoring).</p>
+title: Addressing cloud adoption hesitancy factors
+sessionuid: 9542F379-283C-435F-A287-6743F31B3023
+thirdpartyid: NTA212
+speakers: firstName_0: Kunle, lastName_0: Adeleke, firstName_1: Sara, lastName_1: Rogers
+tag_name: New to AWS, Topic, 200 - Intermediate, Level, IT Executive, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, AWS Control Tower, Services, AWS Security Hub, Services, AWS Well-Architected Tool, Services, Tuesday, Day, Caesars Forum, Venue

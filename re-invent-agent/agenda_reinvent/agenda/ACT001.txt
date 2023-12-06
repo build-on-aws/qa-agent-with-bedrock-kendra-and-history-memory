@@ -1,0 +1,14 @@
+location: Venetian, Level 1, Galileo 1001A
+summary: tag_name :Sunday, Day, Venetian, Venue, Meals & Conference Services, Additional Services, , speakers :, thirdpartyid :ACT001, sessionuid :70948CB9-DA01-4AEB-A872-0E3F8F572B4E, title :Lactation room, description :The lactation room provides parents with a private, secure space to express breastmilk for their nursing child. The room is equipped with lockers, a refrigerator, a microwave, disposable cold packs and wipes, and a comfortable space to pump. Reservations for the duration of the conference can be made at the check-in desk outside the room., sessiontype :Conference Services, venuename :Venetian, floorplanname :Level 1, locationname :Galileo 1001A, startdatetimeutc :November, 26 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 03:00:00 -0500, 
+enddatetimeutc: November, 27 2023 03:00:00 -0500
+startdatetimeutc: November, 26 2023 18:00:00 -0500
+locationname: Galileo 1001A
+floorplanname: Level 1
+venuename: Venetian
+sessiontype: Conference Services
+description: The lactation room provides parents with a private, secure space to express breastmilk for their nursing child. The room is equipped with lockers, a refrigerator, a microwave, disposable cold packs and wipes, and a comfortable space to pump. Reservations for the duration of the conference can be made at the check-in desk outside the room
+title: Lactation room
+sessionuid: 70948CB9-DA01-4AEB-A872-0E3F8F572B4E
+thirdpartyid: ACT001
+speakers: 
+tag_name: Sunday, Day, Venetian, Venue, Meals & Conference Services, Additional Services

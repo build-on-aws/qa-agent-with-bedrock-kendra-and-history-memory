@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Bellini 2105
+summary: tag_name :200 - Intermediate, Level, Management & Governance, Area of Interest, Cloud Operations, Topic, Wednesday, Day, Venetian, Venue, IT Professional/Technical Manager, Role, Advisor/Consultant, Role, IT Executive, Role, , speakers :firstName_0: Anne, lastName_0: Johnston, company_0: Capital One, firstName_1: Patrick, lastName_1: Barch, company_1: Capital One Software, , thirdpartyid :COP224-S, sessionuid :6BF60E3C-3822-4E68-816B-4A9B8EA630BF, title :FinOps tips for optimizing your cloud infrastructure and data costs (sponsored by Capital One), description :Cloud-based companies face the challenge of managing costs in a fluid environment. Many companies apply the concept of FinOps to help with cloud cost-optimization. However, a big part of a cloud spend bill comes from your cloud data. In this session, Capital One shares how they use FinOps principles to reduce cloud spend and how you can apply similar principles to do the same. This presentation is brought to you by Capital One, an AWS Partner., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Bellini 2105, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Bellini 2105
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: Cloud-based companies face the challenge of managing costs in a fluid environment. Many companies apply the concept of FinOps to help with cloud cost-optimization. However, a big part of a cloud spend bill comes from your cloud data. In this session, Capital One shares how they use FinOps principles to reduce cloud spend and how you can apply similar principles to do the same. This presentation is brought to you by Capital One, an AWS Partner
+title: FinOps tips for optimizing your cloud infrastructure and data costs (sponsored by Capital One)
+sessionuid: 6BF60E3C-3822-4E68-816B-4A9B8EA630BF
+thirdpartyid: COP224-S
+speakers: firstName_0: Anne, lastName_0: Johnston, company_0: Capital One, firstName_1: Patrick, lastName_1: Barch, company_1: Capital One Software
+tag_name: 200 - Intermediate, Level, Management & Governance, Area of Interest, Cloud Operations, Topic, Wednesday, Day, Venetian, Venue, IT Professional/Technical Manager, Role, Advisor/Consultant, Role, IT Executive, Role

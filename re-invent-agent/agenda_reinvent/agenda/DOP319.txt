@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :Well-Architected Framework, Area of Interest, DevOps Engineer, Role, AWS Cloud Development Kit (CDK), Services, Strategy & Transformation, Area of Interest, Wednesday, Day, Mandalay Bay, Venue, Developer/Engineer, Role, AWS CodeDeploy, Services, 300 - Advanced, Level, DevOps and Developer Productivity, Topic, Amazon CodeCatalyst, Services, , speakers :firstName_0: Brian, lastName_0: Handy, firstName_1: Matt, lastName_1: Laver, , thirdpartyid :DOP319-R, sessionuid :ED2140F8-8E4A-4208-BED9-5DC566AA2901, title :Zero-downtime deployment strategies [REPEAT], description :<p>AWS services support a wealth of deployment options to meet your needs, ranging from in-place updates to blue/green deployment to continuous configuration with feature flags. In this chalk talk, hear about multiple options for deploying changes to Amazon EC2, Amazon ECS, and AWS Lambda compute platforms using AWS CodeDeploy, AWS AppConfig, AWS CloudFormation, AWS Cloud Development Kit (AWS CDK), and Amazon CodeCatalyst.</p>, sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: <p>AWS services support a wealth of deployment options to meet your needs, ranging from in-place updates to blue/green deployment to continuous configuration with feature flags. In this chalk talk, hear about multiple options for deploying changes to Amazon EC2, Amazon ECS, and AWS Lambda compute platforms using AWS CodeDeploy, AWS AppConfig, AWS CloudFormation, AWS Cloud Development Kit (AWS CDK), and Amazon CodeCatalyst.</p>
+title: Zero-downtime deployment strategies [REPEAT]
+sessionuid: ED2140F8-8E4A-4208-BED9-5DC566AA2901
+thirdpartyid: DOP319-R
+speakers: firstName_0: Brian, lastName_0: Handy, firstName_1: Matt, lastName_1: Laver
+tag_name: Well-Architected Framework, Area of Interest, DevOps Engineer, Role, AWS Cloud Development Kit (CDK), Services, Strategy & Transformation, Area of Interest, Wednesday, Day, Mandalay Bay, Venue, Developer/Engineer, Role, AWS CodeDeploy, Services, 300 - Advanced, Level, DevOps and Developer Productivity, Topic, Amazon CodeCatalyst, Services

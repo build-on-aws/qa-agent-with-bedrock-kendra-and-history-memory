@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 104
+summary: tag_name :Solution/Systems Architect, Role, 300 - Advanced, Level, Media & Entertainment, Industry, Financial Services, Industry, IT Professional/Technical Manager, Role, Network & Infrastructure Security, Area of Interest, Amazon Simple Storage Service (S3), Services, Cross Industry, Industry, Security, Compliance, & Identity, Topic, Wednesday, Day, MGM Grand, Venue, Storage, Topic, Well-Architected Framework, Area of Interest, IT Administrator, Role, Application Security, Area of Interest, , speakers :firstName_0: Akshat, lastName_0: Sandh, firstName_1: Bryant, lastName_1: Cutler, , thirdpartyid :STG324-R, sessionuid :56315E7C-7555-4BF7-A060-0C62F71DADA9, title :Advanced security patterns on Amazon S3 [REPEAT], description :<p>Amazon S3 security settings and access controls are suitable for virtually any workload. In this chalk talk, equip yourself with proven patterns for managing access at scale. Learn how to optimize policy usage, scale beyond AWS Identity and Access Management (IAM) policy limits, and secure your data lake perimeter.</p>, sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :104, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: 104
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: <p>Amazon S3 security settings and access controls are suitable for virtually any workload. In this chalk talk, equip yourself with proven patterns for managing access at scale. Learn how to optimize policy usage, scale beyond AWS Identity and Access Management (IAM) policy limits, and secure your data lake perimeter.</p>
+title: Advanced security patterns on Amazon S3 [REPEAT]
+sessionuid: 56315E7C-7555-4BF7-A060-0C62F71DADA9
+thirdpartyid: STG324-R
+speakers: firstName_0: Akshat, lastName_0: Sandh, firstName_1: Bryant, lastName_1: Cutler
+tag_name: Solution/Systems Architect, Role, 300 - Advanced, Level, Media & Entertainment, Industry, Financial Services, Industry, IT Professional/Technical Manager, Role, Network & Infrastructure Security, Area of Interest, Amazon Simple Storage Service (S3), Services, Cross Industry, Industry, Security, Compliance, & Identity, Topic, Wednesday, Day, MGM Grand, Venue, Storage, Topic, Well-Architected Framework, Area of Interest, IT Administrator, Role, Application Security, Area of Interest

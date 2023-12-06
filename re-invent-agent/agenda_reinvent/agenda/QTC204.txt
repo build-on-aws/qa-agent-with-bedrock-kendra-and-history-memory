@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 115
+summary: tag_name :Quantum Technologies, Area of Interest, Telecommunications, Industry, Customer Enablement, Topic, Solution/Systems Architect, Role, Networking & Content Delivery, Topic, Academic/Researcher, Role, Government, Industry, Cloud Security Specialist, Role, Thursday, Day, MGM Grand, Venue, 200 - Intermediate, Level, , speakers :firstName_0: Cyrus, lastName_0: Proctor, firstName_1: Grant, lastName_1: Salton, firstName_2: Lee, lastName_2: Sattler, company_2: Verizon Communications, , thirdpartyid :QTC204, sessionuid :4EFB1786-FFC7-49B6-A663-C768DCA7D3C5, title :Practical implementations of quantum communication networks, description :<p>Quantum networks enable a wide range of use cases, such as provably secure encryption, improved sensing and measurements, and even distributed quantum computing. Forward-thinking companies are already exploring applications and use cases for quantum networks built with commercially available devices. In this session, hear from experts about what it takes to deploy a quantum-resistant network. Explore a proof-of-concept demo and how scientists developed the infrastructure they needed to connect commercial, off-the-shelf quantum key distribution systems into a multi-vendor and multi-site mesh network.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 115, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 23:30:00 -0500, 
+enddatetimeutc: November, 30 2023 23:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Grand 115
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>Quantum networks enable a wide range of use cases, such as provably secure encryption, improved sensing and measurements, and even distributed quantum computing. Forward-thinking companies are already exploring applications and use cases for quantum networks built with commercially available devices. In this session, hear from experts about what it takes to deploy a quantum-resistant network. Explore a proof-of-concept demo and how scientists developed the infrastructure they needed to connect commercial, off-the-shelf quantum key distribution systems into a multi-vendor and multi-site mesh network.</p>
+title: Practical implementations of quantum communication networks
+sessionuid: 4EFB1786-FFC7-49B6-A663-C768DCA7D3C5
+thirdpartyid: QTC204
+speakers: firstName_0: Cyrus, lastName_0: Proctor, firstName_1: Grant, lastName_1: Salton, firstName_2: Lee, lastName_2: Sattler, company_2: Verizon Communications
+tag_name: Quantum Technologies, Area of Interest, Telecommunications, Industry, Customer Enablement, Topic, Solution/Systems Architect, Role, Networking & Content Delivery, Topic, Academic/Researcher, Role, Government, Industry, Cloud Security Specialist, Role, Thursday, Day, MGM Grand, Venue, 200 - Intermediate, Level

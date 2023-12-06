@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 201
+summary: tag_name :Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Cloud Operations, Topic, Cloud Security Specialist, Role, AWS Config, Services, Monday, Day, Caesars Forum, Venue, 300 - Advanced, Level, AWS CloudTrail, Services, AWS Control Tower, Services, Management & Governance, Area of Interest, , speakers :firstName_0: Sidharth, lastName_0: Nabar, firstName_1: Andres, lastName_1: Silva, , thirdpartyid :COP340, sessionuid :6018726F-DE85-4AFB-93B6-0FFF88CAC974, title :What’s new with AWS governance and compliance, description :When you set up an environment that is optimized for governance and compliance, you can increase your productivity and operational efficiency. This in turn allows you to focus on delivering business outcomes and saving time and cost. Join this session to find out how AWS is innovating in the governance and compliance space. Learn about recent launches and how you can use them to solve a variety of challenges., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 201, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: Summit 201
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: When you set up an environment that is optimized for governance and compliance, you can increase your productivity and operational efficiency. This in turn allows you to focus on delivering business outcomes and saving time and cost. Join this session to find out how AWS is innovating in the governance and compliance space. Learn about recent launches and how you can use them to solve a variety of challenges
+title: What’s new with AWS governance and compliance
+sessionuid: 6018726F-DE85-4AFB-93B6-0FFF88CAC974
+thirdpartyid: COP340
+speakers: firstName_0: Sidharth, lastName_0: Nabar, firstName_1: Andres, lastName_1: Silva
+tag_name: Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Cloud Operations, Topic, Cloud Security Specialist, Role, AWS Config, Services, Monday, Day, Caesars Forum, Venue, 300 - Advanced, Level, AWS CloudTrail, Services, AWS Control Tower, Services, Management & Governance, Area of Interest

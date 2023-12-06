@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 220
+summary: tag_name :Developer/Engineer, Role, 300 - Advanced, Level, Analytics, Topic, Amazon OpenSearch Service, Services, System Administrator, Role, Monitoring & Observability, Area of Interest, Cloud Operations, Topic, Generative AI, Area of Interest, Wednesday, Day, Caesars Forum, Venue, DevOps Engineer, Role, Amazon OpenSearch Serverless, Services, , speakers :firstName_0: Binu, lastName_0: Purushothaman, company_0: Fidelity Investments, firstName_1: Muthu, lastName_1: Pitchaimani, firstName_2: Nitin, lastName_2: Chandra, , thirdpartyid :ANT340, sessionuid :F20307A4-2A7D-495D-AF22-DE4E88E18C47, title :Powering observability with AI and Amazon OpenSearch Ingestion, description :Enterprises have been building logging solutions to gain visibility into their operations for well over a decade. In this session, learn how Amazon OpenSearch Ingestion helps you ingest operational data such as logs, traces, and metrics to aid your observability needs. Also see how generative AI helps in simplifying the analysis of all your operational data, drastically reducing the time needed for root cause analysis and threat hunting, with Amazon OpenSearch Service., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 220, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Summit 220
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Enterprises have been building logging solutions to gain visibility into their operations for well over a decade. In this session, learn how Amazon OpenSearch Ingestion helps you ingest operational data such as logs, traces, and metrics to aid your observability needs. Also see how generative AI helps in simplifying the analysis of all your operational data, drastically reducing the time needed for root cause analysis and threat hunting, with Amazon OpenSearch Service
+title: Powering observability with AI and Amazon OpenSearch Ingestion
+sessionuid: F20307A4-2A7D-495D-AF22-DE4E88E18C47
+thirdpartyid: ANT340
+speakers: firstName_0: Binu, lastName_0: Purushothaman, company_0: Fidelity Investments, firstName_1: Muthu, lastName_1: Pitchaimani, firstName_2: Nitin, lastName_2: Chandra
+tag_name: Developer/Engineer, Role, 300 - Advanced, Level, Analytics, Topic, Amazon OpenSearch Service, Services, System Administrator, Role, Monitoring & Observability, Area of Interest, Cloud Operations, Topic, Generative AI, Area of Interest, Wednesday, Day, Caesars Forum, Venue, DevOps Engineer, Role, Amazon OpenSearch Serverless, Services

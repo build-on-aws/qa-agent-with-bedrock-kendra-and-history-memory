@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 201
+summary: tag_name :Solution/Systems Architect, Role, 300 - Advanced, Level, DevOps Engineer, Role, Management & Governance, Area of Interest, Wednesday, Day, Caesars Forum, Venue, AWS Systems Manager, Services, IT Professional/Technical Manager, Role, Cloud Operations, Topic, , speakers :firstName_0: Bhadri, lastName_0: Govindarajan, company_0: MuleSoft (Salesforce), firstName_1: Erik, lastName_1: Weber, firstName_2: Oren, lastName_2: Nachman, , thirdpartyid :COP320, sessionuid :8E40B483-EC97-4D58-A5FD-62AC4011517A, title :Centralize your operations, description :Whatever stage you are at in your process of moving to or operating in the cloud, AWS offers a centralized operations management solution that you can use to manage and operate your applications on AWS, on-premises, in hybrid environments, and at the edge. In this session, learn how you can use AWS Systems Manager to automate proactive processes, such as patching and resource changes, and remediate issues with hundreds of runbooks. Using automation, you can make it easier to minimize service disruptions, simplify time-consuming processes, and avoid repetitive tasks to reach operational efficiency., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 201, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 01:30:00 -0500, 
+enddatetimeutc: November, 30 2023 01:30:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: Summit 201
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: Whatever stage you are at in your process of moving to or operating in the cloud, AWS offers a centralized operations management solution that you can use to manage and operate your applications on AWS, on-premises, in hybrid environments, and at the edge. In this session, learn how you can use AWS Systems Manager to automate proactive processes, such as patching and resource changes, and remediate issues with hundreds of runbooks. Using automation, you can make it easier to minimize service disruptions, simplify time-consuming processes, and avoid repetitive tasks to reach operational efficiency
+title: Centralize your operations
+sessionuid: 8E40B483-EC97-4D58-A5FD-62AC4011517A
+thirdpartyid: COP320
+speakers: firstName_0: Bhadri, lastName_0: Govindarajan, company_0: MuleSoft (Salesforce), firstName_1: Erik, lastName_1: Weber, firstName_2: Oren, lastName_2: Nachman
+tag_name: Solution/Systems Architect, Role, 300 - Advanced, Level, DevOps Engineer, Role, Management & Governance, Area of Interest, Wednesday, Day, Caesars Forum, Venue, AWS Systems Manager, Services, IT Professional/Technical Manager, Role, Cloud Operations, Topic

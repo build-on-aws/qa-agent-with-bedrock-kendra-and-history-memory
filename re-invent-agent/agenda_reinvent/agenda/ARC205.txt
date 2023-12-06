@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 306
+summary: tag_name :Cross Industry, Industry, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, Entrepreneur (Founder/Co-Founder), Role, SaaS, Area of Interest, Solution/Systems Architect, Role, Well-Architected Framework, Area of Interest, Tuesday, Day, MGM Grand, Venue, Architecture, Topic, Resilience, Area of Interest, , speakers :firstName_0: Tod, lastName_0: Golding, firstName_1: Ujwal, lastName_1: Bukka, , thirdpartyid :ARC205, sessionuid :D064A567-C08F-44BB-B022-8CBFC34ACD21, title :SaaS jump-start: Exploring core multi-tenant strategies, description :There are a broad range of considerations that go into designing a multi-tenant architecture. The realities of your environment, the needs of your domain, the isolation requirements of your tenants, the identity model of your solution—they are all areas you should explore when building a SaaS solution on AWS. In this chalk talk, start from the beginning by exploring the foundational principles of SaaS and explore the different technical and business factors that provide you with insights on the core concepts that are part of virtually every SaaS journey., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :306, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: 306
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: There are a broad range of considerations that go into designing a multi-tenant architecture. The realities of your environment, the needs of your domain, the isolation requirements of your tenants, the identity model of your solution—they are all areas you should explore when building a SaaS solution on AWS. In this chalk talk, start from the beginning by exploring the foundational principles of SaaS and explore the different technical and business factors that provide you with insights on the core concepts that are part of virtually every SaaS journey
+title: SaaS jump-start: Exploring core multi-tenant strategies
+sessionuid: D064A567-C08F-44BB-B022-8CBFC34ACD21
+thirdpartyid: ARC205
+speakers: firstName_0: Tod, lastName_0: Golding, firstName_1: Ujwal, lastName_1: Bukka
+tag_name: Cross Industry, Industry, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, Entrepreneur (Founder/Co-Founder), Role, SaaS, Area of Interest, Solution/Systems Architect, Role, Well-Architected Framework, Area of Interest, Tuesday, Day, MGM Grand, Venue, Architecture, Topic, Resilience, Area of Interest

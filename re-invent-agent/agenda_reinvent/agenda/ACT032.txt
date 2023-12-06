@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Bayside B
+summary: tag_name :Sunday, Day, Mandalay Bay, Venue, Community Activities, Additional Services, , speakers :, thirdpartyid :ACT032, sessionuid :C9EC9584-124C-48F7-BBD6-098DA41C0F19, title :re:Invent Rec Center: Sports, description :<p>See AWS sports collaborations come to life at the new re:Invent Rec Center in Mandalay Bay. Don’t miss the chance to watch, play, and experience the world’s leading sports brands like never before—all powered by AWS. Whether you choose to play on the field, the pitch, or the racetrack, the Rec Center puts you at the center of the action. Challenge your friends to head-to-head competition, play on a team, or compete against yourself. With daily prize giveaways, like signed memorabilia, throughout the space, you could leave Las Vegas with the ultimate souvenir.</p>, sessiontype :Community Activities, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Bayside B, startdatetimeutc :November, 26 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 02:00:00 -0500, 
+enddatetimeutc: November, 27 2023 02:00:00 -0500
+startdatetimeutc: November, 26 2023 18:00:00 -0500
+locationname: Bayside B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Community Activities
+description: <p>See AWS sports collaborations come to life at the new re:Invent Rec Center in Mandalay Bay. Don’t miss the chance to watch, play, and experience the world’s leading sports brands like never before—all powered by AWS. Whether you choose to play on the field, the pitch, or the racetrack, the Rec Center puts you at the center of the action. Challenge your friends to head-to-head competition, play on a team, or compete against yourself. With daily prize giveaways, like signed memorabilia, throughout the space, you could leave Las Vegas with the ultimate souvenir.</p>
+title: re:Invent Rec Center: Sports
+sessionuid: C9EC9584-124C-48F7-BBD6-098DA41C0F19
+thirdpartyid: ACT032
+speakers: 
+tag_name: Sunday, Day, Mandalay Bay, Venue, Community Activities, Additional Services

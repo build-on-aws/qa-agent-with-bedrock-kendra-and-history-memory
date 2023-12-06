@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Bellini 2105
+summary: tag_name :Strategy & Transformation, Area of Interest, 200 - Intermediate, Level, Tuesday, Day, Venetian, Venue, AI/ML, Topic, Business Executive, Role, Cross Industry, Industry, Hybrid Cloud, Topic, , speakers :firstName_0: Varma, lastName_0: Kunaparaju, company_0: Ops Ramp, A Hewlett Packard Company, firstName_1: RIK, lastName_1: Kukunuri, company_1: Hewlett Packard Enterprise, , thirdpartyid :AIM204-S, sessionuid :80C70850-5D1F-41B5-8CF2-254A86FA529C, title :OpsRamp: Innovations in AI for automating IT operations (sponsored by Hewlett Packard Enterprise), description :In this session, Varma Kunaparaju, Co-Founder and CEO of OpsRamp, a Hewlett Packard Enterprise company, unfolds key trends and innovations for utilizing AI and ML for greater insights, efficiencies, and predictability in IT operations. Discover how to modernize your IT operations practice by unlocking the true potential of your AIOps strategy. Learn about OpsRamp’s hybrid observability, event management, and automation capabilities, which are available as a stand-alone SaaS offering and integrated within the HPE GreenLake platform. This presentation is brought to you by Hewlett Packard Enterprise, an AWS Partner., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Bellini 2105, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: Bellini 2105
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: In this session, Varma Kunaparaju, Co-Founder and CEO of OpsRamp, a Hewlett Packard Enterprise company, unfolds key trends and innovations for utilizing AI and ML for greater insights, efficiencies, and predictability in IT operations. Discover how to modernize your IT operations practice by unlocking the true potential of your AIOps strategy. Learn about OpsRamp’s hybrid observability, event management, and automation capabilities, which are available as a stand-alone SaaS offering and integrated within the HPE GreenLake platform. This presentation is brought to you by Hewlett Packard Enterprise, an AWS Partner
+title: OpsRamp: Innovations in AI for automating IT operations (sponsored by Hewlett Packard Enterprise)
+sessionuid: 80C70850-5D1F-41B5-8CF2-254A86FA529C
+thirdpartyid: AIM204-S
+speakers: firstName_0: Varma, lastName_0: Kunaparaju, company_0: Ops Ramp, A Hewlett Packard Company, firstName_1: RIK, lastName_1: Kukunuri, company_1: Hewlett Packard Enterprise
+tag_name: Strategy & Transformation, Area of Interest, 200 - Intermediate, Level, Tuesday, Day, Venetian, Venue, AI/ML, Topic, Business Executive, Role, Cross Industry, Industry, Hybrid Cloud, Topic

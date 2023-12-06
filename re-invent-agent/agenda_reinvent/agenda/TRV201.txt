@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine H
+summary: tag_name :AI/ML, Topic, Databases, Topic, BuildOn.AWS, Area of Interest, Innovation on AWS, Area of Interest, Cost Optimization, Area of Interest, Travel & Hospitality, Industry, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Tuesday, Day, Mandalay Bay, Venue, , speakers :firstName_0: Greg, lastName_0: Land, firstName_1: Jeff, lastName_1: Yuan, company_1: DoorDash, firstName_2: Monte, lastName_2: Gardiner, company_2: Best Western Hotels & Resorts, , thirdpartyid :TRV201, sessionuid :9FEE62C3-D4EC-49CB-B235-B842A06DBBED, title :From modernization to innovation: The tales of two hospitality leaders, description :<p>Learn how Best Western Hotels &amp; Resorts and DoorDash are meeting the needs of B2B and B2C customers through the development of cloud-based products and services. This session explores how the two hospitality companies—one digitally native and one originally built on legacy technology—continue to modernize their cloud and data infrastructures to scale, optimize costs, and adopt AI/ML applications. Hear lessons they learned along the way and the next steps in their innovation journeys.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine H, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: Jasmine H
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Learn how Best Western Hotels &amp; Resorts and DoorDash are meeting the needs of B2B and B2C customers through the development of cloud-based products and services. This session explores how the two hospitality companies—one digitally native and one originally built on legacy technology—continue to modernize their cloud and data infrastructures to scale, optimize costs, and adopt AI/ML applications. Hear lessons they learned along the way and the next steps in their innovation journeys.</p>
+title: From modernization to innovation: The tales of two hospitality leaders
+sessionuid: 9FEE62C3-D4EC-49CB-B235-B842A06DBBED
+thirdpartyid: TRV201
+speakers: firstName_0: Greg, lastName_0: Land, firstName_1: Jeff, lastName_1: Yuan, company_1: DoorDash, firstName_2: Monte, lastName_2: Gardiner, company_2: Best Western Hotels & Resorts
+tag_name: AI/ML, Topic, Databases, Topic, BuildOn.AWS, Area of Interest, Innovation on AWS, Area of Interest, Cost Optimization, Area of Interest, Travel & Hospitality, Industry, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Tuesday, Day, Mandalay Bay, Venue

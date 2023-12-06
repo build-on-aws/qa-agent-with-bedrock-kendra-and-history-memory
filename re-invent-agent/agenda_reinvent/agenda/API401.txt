@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 113
+summary: tag_name :Serverless Compute, Topic, Tech Explorer, Role, AWS Lambda, Services, Application Integration, Area of Interest, AWS Step Functions, Services, Thursday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, 400 - Expert, Level, Developer/Engineer, Role, , speakers :firstName_0: Ben, lastName_0: Smith, , thirdpartyid :API401, sessionuid :F7BDF69F-DA25-4587-B503-285C43A42DF6, title :Advanced serverless workflow patterns and best practices, description :<p>Are you an experienced serverless developer building applications with AWS Step Functions workflows? Do you want a guide for unleashing the full power of Step Functions for your production workloads? Are you wondering whether to choose an Express or a Standard workflow? Or whether to use a Map state, a Parallel state, or a nested workflow? In this session, learn about architectural best practices and repeatable patterns for building workflows and cost optimizations, and discover handy cheat codes that you can use to build secure, high-scale, high-performance serverless applications. Real production scenarios illustrate the benefits.</p>, sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 113, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Forum 113
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: <p>Are you an experienced serverless developer building applications with AWS Step Functions workflows? Do you want a guide for unleashing the full power of Step Functions for your production workloads? Are you wondering whether to choose an Express or a Standard workflow? Or whether to use a Map state, a Parallel state, or a nested workflow? In this session, learn about architectural best practices and repeatable patterns for building workflows and cost optimizations, and discover handy cheat codes that you can use to build secure, high-scale, high-performance serverless applications. Real production scenarios illustrate the benefits.</p>
+title: Advanced serverless workflow patterns and best practices
+sessionuid: F7BDF69F-DA25-4587-B503-285C43A42DF6
+thirdpartyid: API401
+speakers: firstName_0: Ben, lastName_0: Smith
+tag_name: Serverless Compute, Topic, Tech Explorer, Role, AWS Lambda, Services, Application Integration, Area of Interest, AWS Step Functions, Services, Thursday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, 400 - Expert, Level, Developer/Engineer, Role

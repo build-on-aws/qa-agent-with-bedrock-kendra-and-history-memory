@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 120
+summary: tag_name :Storage, Topic, Migration & Transfer, Area of Interest, Energy, Industry, Financial Services, Industry, Government, Industry, 200 - Intermediate, Level, Solution/Systems Architect, Role, System Administrator, Role, IT Professional/Technical Manager, Role, AWS DataSync, Services, AWS Snow Family, Services, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Erik, lastName_0: Durand, firstName_1: Jeff, lastName_1: Bartley, , thirdpartyid :STG206, sessionuid :C36AFDE9-0E6B-44D2-B1C1-EA5EDF1D45F6, title :Best practices for moving data to AWS using online and offline methods, description :<p>In this session, learn how you can use AWS DataSync and AWS Snow Family to accelerate your process for moving data to Amazon S3, Amazon EFS, and Amazon FSx at scale. Explore use cases and best practices, and learn when to choose online or offline methods. Finally, discover how to use both AWS Snow Family and DataSync together to create a seamless migration experience.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 120, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Grand 120
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>In this session, learn how you can use AWS DataSync and AWS Snow Family to accelerate your process for moving data to Amazon S3, Amazon EFS, and Amazon FSx at scale. Explore use cases and best practices, and learn when to choose online or offline methods. Finally, discover how to use both AWS Snow Family and DataSync together to create a seamless migration experience.</p>
+title: Best practices for moving data to AWS using online and offline methods
+sessionuid: C36AFDE9-0E6B-44D2-B1C1-EA5EDF1D45F6
+thirdpartyid: STG206
+speakers: firstName_0: Erik, lastName_0: Durand, firstName_1: Jeff, lastName_1: Bartley
+tag_name: Storage, Topic, Migration & Transfer, Area of Interest, Energy, Industry, Financial Services, Industry, Government, Industry, 200 - Intermediate, Level, Solution/Systems Architect, Role, System Administrator, Role, IT Professional/Technical Manager, Role, AWS DataSync, Services, AWS Snow Family, Services, Wednesday, Day, MGM Grand, Venue

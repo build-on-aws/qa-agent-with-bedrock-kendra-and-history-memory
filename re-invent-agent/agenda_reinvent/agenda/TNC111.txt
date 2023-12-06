@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Venetian Ballroom J
+summary: tag_name :Thursday, Day, Venetian, Venue, Training & Certification, Topic, 100 - Foundational, Level, Business Executive, Role, IT Administrator, Role, IT Professional/Technical Manager, Role, Lounges, Additional Services, , speakers :firstName_0: Curtis, lastName_0: Morton, , thirdpartyid :TNC111, sessionuid :ADA289D6-83C5-460A-AE8B-2432D1C8BED9, title :Recertify as AWS Certified Cloud Practitioner with game-based learning, description :<p>Join this session to learn how you can recertify as AWS Certified Cloud Practitioner with AWS Cloud Quest, a game-based learning experience available now on AWS Skill Builder. AWS Certified Cloud Practitioners who are due to recertify within 6 months are eligible to participate.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Venetian Ballroom J, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Venetian Ballroom J
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Join this session to learn how you can recertify as AWS Certified Cloud Practitioner with AWS Cloud Quest, a game-based learning experience available now on AWS Skill Builder. AWS Certified Cloud Practitioners who are due to recertify within 6 months are eligible to participate.</p>
+title: Recertify as AWS Certified Cloud Practitioner with game-based learning
+sessionuid: ADA289D6-83C5-460A-AE8B-2432D1C8BED9
+thirdpartyid: TNC111
+speakers: firstName_0: Curtis, lastName_0: Morton
+tag_name: Thursday, Day, Venetian, Venue, Training & Certification, Topic, 100 - Foundational, Level, Business Executive, Role, IT Administrator, Role, IT Professional/Technical Manager, Role, Lounges, Additional Services

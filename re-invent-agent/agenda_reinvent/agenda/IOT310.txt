@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :IT Professional/Technical Manager, Role, AWS IoT TwinMaker, Services, AWS IoT SiteWise, Services, Strategy & Transformation, Area of Interest, Monitoring & Observability, Area of Interest, Solution/Systems Architect, Role, Tuesday, Day, Wynn, Venue, Internet of Things, Topic, Innovation on AWS, Area of Interest, Developer/Engineer, Role, Energy, Industry, Manufacturing & Industrial, Industry, 300 - Advanced, Level, , speakers :firstName_0: Chris, lastName_0: Azer, firstName_1: Pallavi, lastName_1: Chari, , thirdpartyid :IOT310-R, sessionuid :43C13314-2C33-4A24-A01F-A571D555B711, title :Demystifying how to build a digital twin on AWS in 60 minutes [REPEAT], description :Step into the future of digital transformation by creating virtual representations of your real-world systems. This chalk talk guides you through the journey from what you have (Autodesk CAD file, Matterport scans, and telemetry data) to building your very own digital twin. The twin includes 3D visualization, a knowledge graph, and the binding of telemetry data to that knowledge graph. Learn how to harness the functionality of AWS IoT TwinMaker knowledge graph to perform data contextualization and drive informed business decisions. Get started on your digital twin journey., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 20:30:00 -0500, 
+enddatetimeutc: November, 28 2023 20:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Step into the future of digital transformation by creating virtual representations of your real-world systems. This chalk talk guides you through the journey from what you have (Autodesk CAD file, Matterport scans, and telemetry data) to building your very own digital twin. The twin includes 3D visualization, a knowledge graph, and the binding of telemetry data to that knowledge graph. Learn how to harness the functionality of AWS IoT TwinMaker knowledge graph to perform data contextualization and drive informed business decisions. Get started on your digital twin journey
+title: Demystifying how to build a digital twin on AWS in 60 minutes [REPEAT]
+sessionuid: 43C13314-2C33-4A24-A01F-A571D555B711
+thirdpartyid: IOT310-R
+speakers: firstName_0: Chris, lastName_0: Azer, firstName_1: Pallavi, lastName_1: Chari
+tag_name: IT Professional/Technical Manager, Role, AWS IoT TwinMaker, Services, AWS IoT SiteWise, Services, Strategy & Transformation, Area of Interest, Monitoring & Observability, Area of Interest, Solution/Systems Architect, Role, Tuesday, Day, Wynn, Venue, Internet of Things, Topic, Innovation on AWS, Area of Interest, Developer/Engineer, Role, Energy, Industry, Manufacturing & Industrial, Industry, 300 - Advanced, Level

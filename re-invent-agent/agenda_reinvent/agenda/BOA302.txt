@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :AI/ML, Topic, 300 - Advanced, Level, BuildOn.AWS, Area of Interest, Generative AI, Area of Interest, Amazon Bedrock, Services, Tuesday, Day, Wynn, Venue, , speakers :firstName_0: Agustin, lastName_0: Calatayud, firstName_1: Manuel, lastName_1: Ortiz, , thirdpartyid :BOA302, sessionuid :3D39AC30-9B7C-4AF6-8E79-125D978D32CD, title :Building a generative AI trivia app with Svelte & Amazon ElastiCache, description :<p>This year, our team built a real-world scalable multiplayer trivia application to support learning games. Our game-based learning platform supports both AI-generated and user-generated multiple-choice quizzes that can be accessed via a web browser. In this chalk talk, discover how we built this application using the Svelte framework, Amazon ElastiCache for Redis, and Amazon Bedrock. Learn how the application is designed to store the intermittent state in the cloud and how it is set up to create quizzes and store the data using a GraphQL API with AWS AppSync.</p>, sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 23:00:00 -0500, 
+enddatetimeutc: November, 28 2023 23:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: <p>This year, our team built a real-world scalable multiplayer trivia application to support learning games. Our game-based learning platform supports both AI-generated and user-generated multiple-choice quizzes that can be accessed via a web browser. In this chalk talk, discover how we built this application using the Svelte framework, Amazon ElastiCache for Redis, and Amazon Bedrock. Learn how the application is designed to store the intermittent state in the cloud and how it is set up to create quizzes and store the data using a GraphQL API with AWS AppSync.</p>
+title: Building a generative AI trivia app with Svelte & Amazon ElastiCache
+sessionuid: 3D39AC30-9B7C-4AF6-8E79-125D978D32CD
+thirdpartyid: BOA302
+speakers: firstName_0: Agustin, lastName_0: Calatayud, firstName_1: Manuel, lastName_1: Ortiz
+tag_name: AI/ML, Topic, 300 - Advanced, Level, BuildOn.AWS, Area of Interest, Generative AI, Area of Interest, Amazon Bedrock, Services, Tuesday, Day, Wynn, Venue

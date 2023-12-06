@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1566, AWS Training & Certification Lounge
+summary: tag_name :Training & Certification, Topic, Monday, Day, Venetian, Venue, , speakers :, thirdpartyid :TNC007-R, sessionuid :A67A94C9-5A92-4234-8531-D0BE0A2631AB, title :AWS Training and Certification Lounge [REPEAT], description :Build beyond with AWS Training and Certification. Visit the AWS Certification Lounge to learn how to jump-start your career, up-level your cloud skills, and give your team the skills and resources to thrive in the cloud. Meet with AWS Training and Certification experts, learn how to redeem your free seven-day trial of AWS Skill Builder to advance your professional goals, challenge your cloud skills with an AWS Jam, and participate in activities to get SWAG and win exclusive prizes., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1566, AWS Training & Certification Lounge, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 03:00:00 -0500, 
+enddatetimeutc: November, 28 2023 03:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: Hall B, Expo, Booth #1566, AWS Training & Certification Lounge
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Build beyond with AWS Training and Certification. Visit the AWS Certification Lounge to learn how to jump-start your career, up-level your cloud skills, and give your team the skills and resources to thrive in the cloud. Meet with AWS Training and Certification experts, learn how to redeem your free seven-day trial of AWS Skill Builder to advance your professional goals, challenge your cloud skills with an AWS Jam, and participate in activities to get SWAG and win exclusive prizes
+title: AWS Training and Certification Lounge [REPEAT]
+sessionuid: A67A94C9-5A92-4234-8531-D0BE0A2631AB
+thirdpartyid: TNC007-R
+speakers: 
+tag_name: Training & Certification, Topic, Monday, Day, Venetian, Venue

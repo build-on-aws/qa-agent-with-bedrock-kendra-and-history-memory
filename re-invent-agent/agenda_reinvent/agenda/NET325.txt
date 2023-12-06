@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 110
+summary: tag_name :Networking & Content Delivery, Topic, Application Security, Area of Interest, Well-Architected Framework, Area of Interest, Media & Entertainment, Industry, Cross Industry, Industry, 300 - Advanced, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon CloudFront, Services, AWS Firewall Manager, Services, AWS WAF, Services, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Girish, lastName_0: Keshav, firstName_1: Sagar, lastName_1: Rao, , thirdpartyid :NET325, sessionuid :66855826-2855-4A85-8462-7307BAD9048C, title :Understanding false positives in your application security, description :<p>In this chalk talk, explore the potential of AWS Firewall Manager for establishing comprehensive organizational security. Dive into advanced strategies for countering false positives, from testing and monitoring using count mode to crafting custom rules. Discover how to elevate your security posture with insights, real-world examples, automation, and innovative practices. Learn about security orchestration and false positive analysis for a fortified digital environment.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 110, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Forum 110
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In this chalk talk, explore the potential of AWS Firewall Manager for establishing comprehensive organizational security. Dive into advanced strategies for countering false positives, from testing and monitoring using count mode to crafting custom rules. Discover how to elevate your security posture with insights, real-world examples, automation, and innovative practices. Learn about security orchestration and false positive analysis for a fortified digital environment.</p>
+title: Understanding false positives in your application security
+sessionuid: 66855826-2855-4A85-8462-7307BAD9048C
+thirdpartyid: NET325
+speakers: firstName_0: Girish, lastName_0: Keshav, firstName_1: Sagar, lastName_1: Rao
+tag_name: Networking & Content Delivery, Topic, Application Security, Area of Interest, Well-Architected Framework, Area of Interest, Media & Entertainment, Industry, Cross Industry, Industry, 300 - Advanced, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon CloudFront, Services, AWS Firewall Manager, Services, AWS WAF, Services, Wednesday, Day, Caesars Forum, Venue

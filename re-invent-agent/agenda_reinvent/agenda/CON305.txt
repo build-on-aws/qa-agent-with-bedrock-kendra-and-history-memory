@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 312
+summary: tag_name :Cross Industry, Industry, 300 - Advanced, Level, DevOps Engineer, Role, Compute, Topic, Kubernetes, Topic, Amazon VPC Lattice, Services, Amazon Elastic Kubernetes Service (EKS), Services, Tuesday, Day, MGM Grand, Venue, Developer/Engineer, Role, System Administrator, Role, Resilience, Area of Interest, Global Infrastructure, Area of Interest, , speakers :firstName_0: Niall, lastName_0: Thomson, firstName_1: Sai, lastName_1: Vennam, , thirdpartyid :CON305, sessionuid :2448D6BD-68F5-4C8D-BEEB-5176EEE00BDF, title :Fundamentals to scale Kubernetes across your organization, description :Ready to get hands-on with Kubernetes on AWS? Using an adaptable, choose-your-adventure format, this workshop is geared for Kubernetes users of all skill levels. Learn about Amazon EKS fundamentals before diving into tailored areas of interest like observability, GitOps, security, and networking. Get practical experience with modules, including using Karpenter for cluster auto scaling, solving IP exhaustion through custom networking, and creating GitOps-based pipelines with Flux or Argo CD. Join this workshop for a unique opportunity to explore and experiment with Amazon EKS. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 312, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 21:00:00 -0500, 
+enddatetimeutc: November, 28 2023 21:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Premier 312
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: Ready to get hands-on with Kubernetes on AWS? Using an adaptable, choose-your-adventure format, this workshop is geared for Kubernetes users of all skill levels. Learn about Amazon EKS fundamentals before diving into tailored areas of interest like observability, GitOps, security, and networking. Get practical experience with modules, including using Karpenter for cluster auto scaling, solving IP exhaustion through custom networking, and creating GitOps-based pipelines with Flux or Argo CD. Join this workshop for a unique opportunity to explore and experiment with Amazon EKS. You must bring your laptop to participate
+title: Fundamentals to scale Kubernetes across your organization
+sessionuid: 2448D6BD-68F5-4C8D-BEEB-5176EEE00BDF
+thirdpartyid: CON305
+speakers: firstName_0: Niall, lastName_0: Thomson, firstName_1: Sai, lastName_1: Vennam
+tag_name: Cross Industry, Industry, 300 - Advanced, Level, DevOps Engineer, Role, Compute, Topic, Kubernetes, Topic, Amazon VPC Lattice, Services, Amazon Elastic Kubernetes Service (EKS), Services, Tuesday, Day, MGM Grand, Venue, Developer/Engineer, Role, System Administrator, Role, Resilience, Area of Interest, Global Infrastructure, Area of Interest

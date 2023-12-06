@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :DevOps Engineer, Role, AWS Lambda, Services, Amazon Simple Storage Service (S3), Services, Serverless Compute, Topic, Open Source, Area of Interest, Venetian, Venue, Wednesday, Day, Developer/Engineer, Role, Amazon DynamoDB, Services, 200 - Intermediate, Level, Customer Stories, Area of Interest, , speakers :firstName_0: Maxime, lastName_0: David, company_0: Datadog, , thirdpartyid :COM212, sessionuid :E73BE16E-B5BD-4DC5-8B9E-0A93F44AD8CB, title :Benchmarking AWS Lambda cold starts, description :Did you know that cold start duration is directly tied to the runtime that your AWS Lambda function is running on? You’ve probably seen some blog posts on cold start benchmarking, but they may already be out of date. Join this dev chat for a deep dive on how to build an open-source and always up-to-date cold start benchmark. Get ready for an “Inception”-like experience, as the solution uses Lambda to benchmark Lambda., sessiontype :Dev Chat, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Dev Chat
+description: Did you know that cold start duration is directly tied to the runtime that your AWS Lambda function is running on? You’ve probably seen some blog posts on cold start benchmarking, but they may already be out of date. Join this dev chat for a deep dive on how to build an open-source and always up-to-date cold start benchmark. Get ready for an “Inception”-like experience, as the solution uses Lambda to benchmark Lambda
+title: Benchmarking AWS Lambda cold starts
+sessionuid: E73BE16E-B5BD-4DC5-8B9E-0A93F44AD8CB
+thirdpartyid: COM212
+speakers: firstName_0: Maxime, lastName_0: David, company_0: Datadog
+tag_name: DevOps Engineer, Role, AWS Lambda, Services, Amazon Simple Storage Service (S3), Services, Serverless Compute, Topic, Open Source, Area of Interest, Venetian, Venue, Wednesday, Day, Developer/Engineer, Role, Amazon DynamoDB, Services, 200 - Intermediate, Level, Customer Stories, Area of Interest

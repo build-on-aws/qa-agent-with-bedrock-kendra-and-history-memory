@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas E
+summary: tag_name :300 - Advanced, Level, AI/ML, Topic, Thursday, Day, Cross Industry, Industry, IT Professional/Technical Manager, Role, Innovation on AWS, Area of Interest, Solution/Systems Architect, Role, Generative AI, Area of Interest, Mandalay Bay, Venue, Cost Optimization, Area of Interest, Developer/Engineer, Role, Amazon SageMaker, Services, , speakers :firstName_0: Romi, lastName_0: Datta, firstName_1: Amanda, lastName_1: Lester, , thirdpartyid :AIM334, sessionuid :C0A317E2-92BD-4023-96E7-7653DA10176A, title :Improve FMs with Amazon SageMaker human-in-the-loop capabilities, description :Amazon SageMaker Ground Truth offers a set of human-in-the-loop capabilities for machine learning, allowing you to harness the power of human feedback across the ML lifecycle. In this session, learn how AWS uses human input to help you create high-quality training datasets for your generative AI applications (through supervised fine tuning and reinforcement learning with human feedback); customize foundation models (FMs) on specific tasks or with company- and domain-specific data; and evaluate and select the FM that is best suited for your use case. Join this session to see real-world examples and demos., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas E, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: South Seas E
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Amazon SageMaker Ground Truth offers a set of human-in-the-loop capabilities for machine learning, allowing you to harness the power of human feedback across the ML lifecycle. In this session, learn how AWS uses human input to help you create high-quality training datasets for your generative AI applications (through supervised fine tuning and reinforcement learning with human feedback); customize foundation models (FMs) on specific tasks or with company- and domain-specific data; and evaluate and select the FM that is best suited for your use case. Join this session to see real-world examples and demos
+title: Improve FMs with Amazon SageMaker human-in-the-loop capabilities
+sessionuid: C0A317E2-92BD-4023-96E7-7653DA10176A
+thirdpartyid: AIM334
+speakers: firstName_0: Romi, lastName_0: Datta, firstName_1: Amanda, lastName_1: Lester
+tag_name: 300 - Advanced, Level, AI/ML, Topic, Thursday, Day, Cross Industry, Industry, IT Professional/Technical Manager, Role, Innovation on AWS, Area of Interest, Solution/Systems Architect, Role, Generative AI, Area of Interest, Mandalay Bay, Venue, Cost Optimization, Area of Interest, Developer/Engineer, Role, Amazon SageMaker, Services

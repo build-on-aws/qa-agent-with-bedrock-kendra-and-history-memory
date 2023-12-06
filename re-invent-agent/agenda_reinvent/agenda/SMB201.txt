@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 304
+summary: tag_name :200 - Intermediate, Level, Business Executive, Role, Small and Midsize Business (SMB), Area of Interest, Tuesday, Day, MGM Grand, Venue, Cross Industry, Industry, Amazon Elastic Kubernetes Service (EKS), Services, Enterprise & Migration, Topic, Amazon Elastic Container Service (ECS), Services, IT Executive, Role, Advisor/Consultant, Role, , speakers :firstName_0: Ramesh, lastName_0: Krishnamagaru, firstName_1: Sabha, lastName_1: Parameswaran, , thirdpartyid :SMB201, sessionuid :9FEA8BAF-9C9F-476F-9C2C-A52DF977F549, title :What’s next after migration? Strategies for refactoring in the cloud, description :Organizations that have migrated to the cloud via lift and shift or that are already on the cloud with a legacy architecture need to refactor and modernize their environment to fully realize the benefits of the cloud (e.g., agility, cost, and economy of scale). This chalk talk covers modernization patterns with case studies and a demo that highlight choices for rearchitecting the application stack. This talk also shares guidance and recommendations on decomposition and refactoring and using cloud-native and purpose-built services for API mediation and database and microservice orchestration., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :304, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: 304
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Organizations that have migrated to the cloud via lift and shift or that are already on the cloud with a legacy architecture need to refactor and modernize their environment to fully realize the benefits of the cloud (e.g., agility, cost, and economy of scale). This chalk talk covers modernization patterns with case studies and a demo that highlight choices for rearchitecting the application stack. This talk also shares guidance and recommendations on decomposition and refactoring and using cloud-native and purpose-built services for API mediation and database and microservice orchestration
+title: What’s next after migration? Strategies for refactoring in the cloud
+sessionuid: 9FEA8BAF-9C9F-476F-9C2C-A52DF977F549
+thirdpartyid: SMB201
+speakers: firstName_0: Ramesh, lastName_0: Krishnamagaru, firstName_1: Sabha, lastName_1: Parameswaran
+tag_name: 200 - Intermediate, Level, Business Executive, Role, Small and Midsize Business (SMB), Area of Interest, Tuesday, Day, MGM Grand, Venue, Cross Industry, Industry, Amazon Elastic Kubernetes Service (EKS), Services, Enterprise & Migration, Topic, Amazon Elastic Container Service (ECS), Services, IT Executive, Role, Advisor/Consultant, Role

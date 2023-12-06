@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 115
+summary: tag_name :IT Professional/Technical Manager, Role, Well-Architected Framework, Area of Interest, DevOps Engineer, Role, 200 - Intermediate, Level, Solution/Systems Architect, Role, Architecture, Topic, Cross Industry, Industry, BuildOn.AWS, Area of Interest, Wednesday, Day, MGM Grand, Venue, AWS Well-Architected Tool, Services, , speakers :firstName_0: Ilana, lastName_0: Morris, firstName_1: Samir, lastName_1: Kopal, , thirdpartyid :ARC216, sessionuid :B45E13F2-2CBC-4C7C-B8FE-A1E317E497C2, title :Scaling AWS Well-Architected best practices across your organization, description :Organizations often ask how to scale well-architected practices across their organization. In this session, explore how to optimize workloads and processes using the AWS Well-Architected Framework. Learn how to establish a management and governance practice grounded in the AWS Well-Architected best practices. Discover how the AWS Well-Architected Framework can be used as a mechanism for improvement, featuring examples from organizations that have enhanced their workload health and organizational processes using this approach., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 115, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Grand 115
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Organizations often ask how to scale well-architected practices across their organization. In this session, explore how to optimize workloads and processes using the AWS Well-Architected Framework. Learn how to establish a management and governance practice grounded in the AWS Well-Architected best practices. Discover how the AWS Well-Architected Framework can be used as a mechanism for improvement, featuring examples from organizations that have enhanced their workload health and organizational processes using this approach
+title: Scaling AWS Well-Architected best practices across your organization
+sessionuid: B45E13F2-2CBC-4C7C-B8FE-A1E317E497C2
+thirdpartyid: ARC216
+speakers: firstName_0: Ilana, lastName_0: Morris, firstName_1: Samir, lastName_1: Kopal
+tag_name: IT Professional/Technical Manager, Role, Well-Architected Framework, Area of Interest, DevOps Engineer, Role, 200 - Intermediate, Level, Solution/Systems Architect, Role, Architecture, Topic, Cross Industry, Industry, BuildOn.AWS, Area of Interest, Wednesday, Day, MGM Grand, Venue, AWS Well-Architected Tool, Services

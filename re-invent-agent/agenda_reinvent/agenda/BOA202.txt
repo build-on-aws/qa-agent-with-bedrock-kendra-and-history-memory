@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :200 - Intermediate, Level, BuildOn.AWS, Area of Interest, Global Infrastructure, Area of Interest, AWS Config, Services, AWS Cloud Development Kit (CDK), Services, Wednesday, Day, Wynn, Venue, DevOps and Developer Productivity, Topic, , speakers :firstName_0: Derek, lastName_0: Bingham, firstName_1: Donnie, lastName_1: Prakoso, , thirdpartyid :BOA202-R, sessionuid :A03742C9-6494-428E-8626-5CE1255E6841, title :DevOps in practice for beginners [REPEAT], description :If you’re new to DevOps or unsure of its best practices on AWS, this chalk talk is for you. Learn about the principles, methodologies, and tools that can help you build and operate your applications. Through whiteboarding and demos, learn about real-world case studies and industry best practices. Discover the importance of automation to implement infrastructure as code with AWS CDK; CI/CD with AWS CodePipeline and AWS CodeBuild; and monitoring and observability using AWS Distro for OpenTelemetry, AWS X-Ray, and Amazon CloudWatch. By the end, you’ll know how to get started with DevOps., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 21:00:00 -0500, 
+enddatetimeutc: November, 29 2023 21:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: If you’re new to DevOps or unsure of its best practices on AWS, this chalk talk is for you. Learn about the principles, methodologies, and tools that can help you build and operate your applications. Through whiteboarding and demos, learn about real-world case studies and industry best practices. Discover the importance of automation to implement infrastructure as code with AWS CDK; CI/CD with AWS CodePipeline and AWS CodeBuild; and monitoring and observability using AWS Distro for OpenTelemetry, AWS X-Ray, and Amazon CloudWatch. By the end, you’ll know how to get started with DevOps
+title: DevOps in practice for beginners [REPEAT]
+sessionuid: A03742C9-6494-428E-8626-5CE1255E6841
+thirdpartyid: BOA202-R
+speakers: firstName_0: Derek, lastName_0: Bingham, firstName_1: Donnie, lastName_1: Prakoso
+tag_name: 200 - Intermediate, Level, BuildOn.AWS, Area of Interest, Global Infrastructure, Area of Interest, AWS Config, Services, AWS Cloud Development Kit (CDK), Services, Wednesday, Day, Wynn, Venue, DevOps and Developer Productivity, Topic

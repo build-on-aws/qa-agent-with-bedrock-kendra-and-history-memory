@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 110
+summary: tag_name :Internet of Things, Topic, Networking & Content Delivery, Topic, Edge Computing, Area of Interest, Network & Infrastructure Security, Area of Interest, Automotive, Industry, Manufacturing & Industrial, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon Elastic Kubernetes Service (EKS), Services, AWS Direct Connect, Services, AWS Snow Family, Services, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Fiona, lastName_0: Armada, firstName_1: Fabrizio, lastName_1: Manfredi, , thirdpartyid :MFG303, sessionuid :61D54702-12B4-4652-BB34-37176771DD58, title :Hybrid networking and HA edge infrastructure for manufacturing, description :<p>In this chalk talk, explore various architectural design patterns aimed at providing secure and reliable end-to-end connectivity from the factory floor to the cloud while considering scenarios like offline operation and low-latency requirements. Also, walk through various methods for deploying an edge gateway in a highly available mode, and see how you can integrate different AWS services to meet different degrees of security, reliability, and performance.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 110, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Forum 110
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In this chalk talk, explore various architectural design patterns aimed at providing secure and reliable end-to-end connectivity from the factory floor to the cloud while considering scenarios like offline operation and low-latency requirements. Also, walk through various methods for deploying an edge gateway in a highly available mode, and see how you can integrate different AWS services to meet different degrees of security, reliability, and performance.</p>
+title: Hybrid networking and HA edge infrastructure for manufacturing
+sessionuid: 61D54702-12B4-4652-BB34-37176771DD58
+thirdpartyid: MFG303
+speakers: firstName_0: Fiona, lastName_0: Armada, firstName_1: Fabrizio, lastName_1: Manfredi
+tag_name: Internet of Things, Topic, Networking & Content Delivery, Topic, Edge Computing, Area of Interest, Network & Infrastructure Security, Area of Interest, Automotive, Industry, Manufacturing & Industrial, Industry, 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon Elastic Kubernetes Service (EKS), Services, AWS Direct Connect, Services, AWS Snow Family, Services, Wednesday, Day, Caesars Forum, Venue

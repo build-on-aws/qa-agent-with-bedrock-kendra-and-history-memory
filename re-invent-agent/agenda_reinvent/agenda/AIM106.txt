@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Reef F
+summary: tag_name :Analytics, Topic, Business Executive, Role, AI/ML, Topic, Customer Stories, Area of Interest, 100 - Foundational, Level, Data Scientist, Role, Media & Entertainment, Industry, Strategy & Transformation, Area of Interest, Sports, Industry, Mandalay Bay, Venue, Wednesday, Day, Business Intelligence, Area of Interest, , speakers :firstName_0: Russell, lastName_0: Scibetti, company_0: New York Giants, firstName_1: Hillary, lastName_1: Ashton, company_1: Teradata, , thirdpartyid :AIM106-S, sessionuid :2162D8A6-9D80-4B9F-B8A3-372F1F2BE094, title :How the NY Giants use Teradata to personalize fan experiences (sponsored by Teradata), description :<p>There are many customer journey touchpoints for today’s sports fans, from ticket sales and merchandise to in-stadium Wi-Fi and more. Sophisticated sports organizations are collecting, connecting, and analyzing this information to provide tailored game-day experiences that keep fans coming back for more. Join this session to discover how the New York Giants use Teradata to deliver stellar experiences and personalized offerings powered by ClearScape Analytics to create fans for life. This presentation is brought to you by Teradata, an AWS Partner.</p>, sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Reef F, startdatetimeutc :November, 30 2023 00:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 30 2023 00:00:00 -0500
+locationname: Reef F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: <p>There are many customer journey touchpoints for today’s sports fans, from ticket sales and merchandise to in-stadium Wi-Fi and more. Sophisticated sports organizations are collecting, connecting, and analyzing this information to provide tailored game-day experiences that keep fans coming back for more. Join this session to discover how the New York Giants use Teradata to deliver stellar experiences and personalized offerings powered by ClearScape Analytics to create fans for life. This presentation is brought to you by Teradata, an AWS Partner.</p>
+title: How the NY Giants use Teradata to personalize fan experiences (sponsored by Teradata)
+sessionuid: 2162D8A6-9D80-4B9F-B8A3-372F1F2BE094
+thirdpartyid: AIM106-S
+speakers: firstName_0: Russell, lastName_0: Scibetti, company_0: New York Giants, firstName_1: Hillary, lastName_1: Ashton, company_1: Teradata
+tag_name: Analytics, Topic, Business Executive, Role, AI/ML, Topic, Customer Stories, Area of Interest, 100 - Foundational, Level, Data Scientist, Role, Media & Entertainment, Industry, Strategy & Transformation, Area of Interest, Sports, Industry, Mandalay Bay, Venue, Wednesday, Day, Business Intelligence, Area of Interest

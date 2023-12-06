@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 201
+summary: tag_name :Thursday, Day, Caesars Forum, Venue, New to AWS, Topic, Independent Software Vendor (ISV), Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon Bedrock, Services, , speakers :firstName_0: Jeffrey, lastName_0: Hammond, , thirdpartyid :SEG105, sessionuid :D703DE7F-D866-4E14-943A-AE19C0F82238, title :Driving profitable growth with innovative products, description :<p>In this session, learn how product and technology officers at software companies continue to drive their innovation agenda, maintain differentiation, and avoid disruption. Technologies like generative AI have captured the imagination of the industry and are poised to bring in the next wave of advancements. However, software companies face challenges like navigating the current macroeconomic climate and optimizing their capital allocation, profitability, and R&amp;D priorities. Explore strategies for how product and technology officers can work together to build a strong foundation for business.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 201, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Summit 201
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>In this session, learn how product and technology officers at software companies continue to drive their innovation agenda, maintain differentiation, and avoid disruption. Technologies like generative AI have captured the imagination of the industry and are poised to bring in the next wave of advancements. However, software companies face challenges like navigating the current macroeconomic climate and optimizing their capital allocation, profitability, and R&amp;D priorities. Explore strategies for how product and technology officers can work together to build a strong foundation for business.</p>
+title: Driving profitable growth with innovative products
+sessionuid: D703DE7F-D866-4E14-943A-AE19C0F82238
+thirdpartyid: SEG105
+speakers: firstName_0: Jeffrey, lastName_0: Hammond
+tag_name: Thursday, Day, Caesars Forum, Venue, New to AWS, Topic, Independent Software Vendor (ISV), Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon Bedrock, Services

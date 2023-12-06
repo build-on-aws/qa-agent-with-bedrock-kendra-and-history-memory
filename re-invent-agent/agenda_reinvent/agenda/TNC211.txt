@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Lagoon L
+summary: tag_name :Migration & Transfer, Area of Interest, AWS Storage Gateway, Services, DevOps Engineer, Role, Cross Industry, Industry, Amazon Elastic Compute Cloud (EC2), Services, BuildOn.AWS, Area of Interest, 200 - Intermediate, Level, Amazon Simple Storage Service (S3), Services, Storage, Topic, Developer/Engineer, Role, Solution/Systems Architect, Role, Training & Certification, Topic, Thursday, Day, Mandalay Bay, Venue, Resilience, Area of Interest, , speakers :firstName_0: Diego, lastName_0: Casas, , thirdpartyid :TNC211, sessionuid :7FDE0AF7-75C9-465F-822A-B64481F6F56B, title :Migrating an on-premises NFS share to the AWS Cloud, description :In this lab, learn how to migrate an on-premises NFS share to the AWS Cloud. Steps covered include deploying and activating an AWS DataSync agent on an Amazon EC2 instance, creating a DataSync task to copy data from a Linux-based NFS server to an Amazon S3 bucket, deploying and activating an AWS Storage Gateway file gateway appliance as an EC2 instance, creating an NFS file share on a file gateway, and configuring a Linux host to connect to an NFS share on a file gateway., sessiontype :Lab, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Lagoon L, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Lagoon L
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Lab
+description: In this lab, learn how to migrate an on-premises NFS share to the AWS Cloud. Steps covered include deploying and activating an AWS DataSync agent on an Amazon EC2 instance, creating a DataSync task to copy data from a Linux-based NFS server to an Amazon S3 bucket, deploying and activating an AWS Storage Gateway file gateway appliance as an EC2 instance, creating an NFS file share on a file gateway, and configuring a Linux host to connect to an NFS share on a file gateway
+title: Migrating an on-premises NFS share to the AWS Cloud
+sessionuid: 7FDE0AF7-75C9-465F-822A-B64481F6F56B
+thirdpartyid: TNC211
+speakers: firstName_0: Diego, lastName_0: Casas
+tag_name: Migration & Transfer, Area of Interest, AWS Storage Gateway, Services, DevOps Engineer, Role, Cross Industry, Industry, Amazon Elastic Compute Cloud (EC2), Services, BuildOn.AWS, Area of Interest, 200 - Intermediate, Level, Amazon Simple Storage Service (S3), Services, Storage, Topic, Developer/Engineer, Role, Solution/Systems Architect, Role, Training & Certification, Topic, Thursday, Day, Mandalay Bay, Venue, Resilience, Area of Interest

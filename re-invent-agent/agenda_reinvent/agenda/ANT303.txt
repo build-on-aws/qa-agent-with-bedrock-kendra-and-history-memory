@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 364
+summary: tag_name :Data Engineer, Role, Management & Governance, Area of Interest, System Administrator, Role, AWS Lake Formation, Services, 300 - Advanced, Level, Wednesday, Day, MGM Grand, Venue, Solution/Systems Architect, Role, Analytics, Topic, Innovation on AWS, Area of Interest, , speakers :firstName_0: Jennifer, lastName_0: Mastry, company_0: Duke Energy, firstName_1: Purvaja, lastName_1: Narayanaswamy, firstName_2: Leon, lastName_2: Stigter, , thirdpartyid :ANT303, sessionuid :FE919A68-56C9-4B77-9143-0B52A7486045, title :What’s new in AWS Lake Formation, description :Chief data officers, data platform administrators, architects, owners, and consumers are looking to simplify data access permissions and governance. AWS Lake Formation makes it easier to centrally govern, secure, and globally share data for analytics and machine learning use cases. Join this session to learn about new capabilities, customer stories, and how you can get the most out of Lake Formation., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 364, startdatetimeutc :November, 29 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 19:30:00 -0500, 
+enddatetimeutc: November, 29 2023 19:30:00 -0500
+startdatetimeutc: November, 29 2023 18:30:00 -0500
+locationname: Chairmans 364
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Chief data officers, data platform administrators, architects, owners, and consumers are looking to simplify data access permissions and governance. AWS Lake Formation makes it easier to centrally govern, secure, and globally share data for analytics and machine learning use cases. Join this session to learn about new capabilities, customer stories, and how you can get the most out of Lake Formation
+title: What’s new in AWS Lake Formation
+sessionuid: FE919A68-56C9-4B77-9143-0B52A7486045
+thirdpartyid: ANT303
+speakers: firstName_0: Jennifer, lastName_0: Mastry, company_0: Duke Energy, firstName_1: Purvaja, lastName_1: Narayanaswamy, firstName_2: Leon, lastName_2: Stigter
+tag_name: Data Engineer, Role, Management & Governance, Area of Interest, System Administrator, Role, AWS Lake Formation, Services, 300 - Advanced, Level, Wednesday, Day, MGM Grand, Venue, Solution/Systems Architect, Role, Analytics, Topic, Innovation on AWS, Area of Interest

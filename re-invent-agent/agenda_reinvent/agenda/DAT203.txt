@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Databases, Topic, Generative AI, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Solution/Systems Architect, Role, Amazon Bedrock, Services, Tuesday, Day, Venetian, Venue, , speakers :firstName_0: Ben, lastName_0: Lackey, company_0: Neo4j, , thirdpartyid :DAT203-S, sessionuid :BDA0FC38-9CD5-4183-B714-D4F5F8631B1E, title :Power Amazon Bedrock applications with Neo4j knowledge graph (sponsored by Neo4j), description :<p>Combining generative AI with knowledge graphs enhances language understanding and generates more contextually accurate responses. This enriches information retrieval and context-based reasoning, and improves the overall user experience. In this lightning talk, explore the application of Amazon Bedrock to parse semi-structured data, automating the creation of knowledge graphs in Neo4j. Learn how integrating this knowledge graph with a chatbot improves reliability and accuracy. This presentation is brought to you by Neo4j, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Combining generative AI with knowledge graphs enhances language understanding and generates more contextually accurate responses. This enriches information retrieval and context-based reasoning, and improves the overall user experience. In this lightning talk, explore the application of Amazon Bedrock to parse semi-structured data, automating the creation of knowledge graphs in Neo4j. Learn how integrating this knowledge graph with a chatbot improves reliability and accuracy. This presentation is brought to you by Neo4j, an AWS Partner.</p>
+title: Power Amazon Bedrock applications with Neo4j knowledge graph (sponsored by Neo4j)
+sessionuid: BDA0FC38-9CD5-4183-B714-D4F5F8631B1E
+thirdpartyid: DAT203-S
+speakers: firstName_0: Ben, lastName_0: Lackey, company_0: Neo4j
+tag_name: Databases, Topic, Generative AI, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Solution/Systems Architect, Role, Amazon Bedrock, Services, Tuesday, Day, Venetian, Venue

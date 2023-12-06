@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas C
+summary: tag_name :Network & Infrastructure Security, Area of Interest, IT Executive, Role, Cross Industry, Industry, Amazon GuardDuty, Services, Security, Compliance, & Identity, Topic, Tuesday, Day, Mandalay Bay, Venue, 300 - Advanced, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, Partner Enablement, Topic, , speakers :firstName_0: Andy, lastName_0: Kroll, firstName_1: Sudhir, lastName_1: Menon G, , thirdpartyid :TNC303, sessionuid :9DAF50F5-6FF7-4DB5-9C24-EFAAFBAF9CC7, title :AWS Partner training: Threat detection and monitoring, description :This bootcamp is for AWS Partners only. This training introduces you to AWS networking fundamentals, multi-VPC architecture, connections to on-premises networks, network monitoring, and security controls. It includes presentations and hands-on labs covering topics such as AWS Global Infrastructure, VPC constructs, connectivity options, network monitoring with VPC Flow Logs and Amazon CloudWatch, and security controls. Through interactive exercises, gain practical experience and a comprehensive understanding of AWS networking concepts. You must bring your laptop to participate., sessiontype :Bootcamp, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas C, startdatetimeutc :November, 28 2023 16:00:00 -0500, enddatetimeutc :November, 29 2023 01:00:00 -0500, 
+enddatetimeutc: November, 29 2023 01:00:00 -0500
+startdatetimeutc: November, 28 2023 16:00:00 -0500
+locationname: South Seas C
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Bootcamp
+description: This bootcamp is for AWS Partners only. This training introduces you to AWS networking fundamentals, multi-VPC architecture, connections to on-premises networks, network monitoring, and security controls. It includes presentations and hands-on labs covering topics such as AWS Global Infrastructure, VPC constructs, connectivity options, network monitoring with VPC Flow Logs and Amazon CloudWatch, and security controls. Through interactive exercises, gain practical experience and a comprehensive understanding of AWS networking concepts. You must bring your laptop to participate
+title: AWS Partner training: Threat detection and monitoring
+sessionuid: 9DAF50F5-6FF7-4DB5-9C24-EFAAFBAF9CC7
+thirdpartyid: TNC303
+speakers: firstName_0: Andy, lastName_0: Kroll, firstName_1: Sudhir, lastName_1: Menon G
+tag_name: Network & Infrastructure Security, Area of Interest, IT Executive, Role, Cross Industry, Industry, Amazon GuardDuty, Services, Security, Compliance, & Identity, Topic, Tuesday, Day, Mandalay Bay, Venue, 300 - Advanced, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, Partner Enablement, Topic

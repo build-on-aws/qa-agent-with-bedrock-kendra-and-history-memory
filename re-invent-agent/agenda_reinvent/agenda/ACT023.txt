@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Canonita
+summary: tag_name :Tuesday, Day, Venetian, Venue, Happy Hour/Reception, Additional Services, , speakers :, thirdpartyid :ACT023, sessionuid :F7214DCC-35EF-4822-BFF6-5070E83046CC, title :Elastic networking reception at Cañonita, description :<p>More information coming soon.</p>, sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Canonita, startdatetimeutc :November, 29 2023 02:00:00 -0500, enddatetimeutc :November, 29 2023 04:00:00 -0500, 
+enddatetimeutc: November, 29 2023 04:00:00 -0500
+startdatetimeutc: November, 29 2023 02:00:00 -0500
+locationname: Canonita
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: <p>More information coming soon.</p>
+title: Elastic networking reception at Cañonita
+sessionuid: F7214DCC-35EF-4822-BFF6-5070E83046CC
+thirdpartyid: ACT023
+speakers: 
+tag_name: Tuesday, Day, Venetian, Venue, Happy Hour/Reception, Additional Services

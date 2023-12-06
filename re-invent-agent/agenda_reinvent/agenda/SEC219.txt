@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 214
+summary: tag_name :200 - Intermediate, Level, Cross Industry, Industry, Well-Architected Framework, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Security, Compliance, & Identity, Topic, Application Security, Area of Interest, , speakers :firstName_0: Jeff, lastName_0: Lombardo, firstName_1: Reef, lastName_1: Dsouza, , thirdpartyid :SEC219, sessionuid :2710B726-A365-4157-85A8-AD48C7A63B4B, title :Build secure applications on AWS the well-architected way, description :This year, AWS announced updates to the AWS Well-Architected Framework across all six pillars. The security pillar added a new best practice area, application security (AppSec). In this session, walk through some of the best practices highlighted in this area. Review four key domains: organization and culture, security of the pipeline, security in the pipeline, and dependency management. Explore how each area provides a set of principles that you can implement and provides a complete view of how you design, develop, build, deploy, and operate workloads. Learn how you can use this guidance to make decisions on the tools, testing, and organizational approach used to develop software., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 214, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Summit 214
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: This year, AWS announced updates to the AWS Well-Architected Framework across all six pillars. The security pillar added a new best practice area, application security (AppSec). In this session, walk through some of the best practices highlighted in this area. Review four key domains: organization and culture, security of the pipeline, security in the pipeline, and dependency management. Explore how each area provides a set of principles that you can implement and provides a complete view of how you design, develop, build, deploy, and operate workloads. Learn how you can use this guidance to make decisions on the tools, testing, and organizational approach used to develop software
+title: Build secure applications on AWS the well-architected way
+sessionuid: 2710B726-A365-4157-85A8-AD48C7A63B4B
+thirdpartyid: SEC219
+speakers: firstName_0: Jeff, lastName_0: Lombardo, firstName_1: Reef, lastName_1: Dsouza
+tag_name: 200 - Intermediate, Level, Cross Industry, Industry, Well-Architected Framework, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Security, Compliance, & Identity, Topic, Application Security, Area of Interest

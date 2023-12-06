@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :200 - Intermediate, Level, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Media & Entertainment, Industry, Databases, Topic, Financial Services, Industry, Innovation on AWS, Area of Interest, Wednesday, Day, Venetian, Venue, Amazon ElastiCache, Services, Cost Optimization, Area of Interest, Developer/Engineer, Role, , speakers :, thirdpartyid :DAT209, sessionuid :DC9FDF0C-2645-46DD-9652-61B85FDE6394, title :What’s new with Amazon ElastiCache?, description :<p>Amazon ElastiCache is a fully managed, Redis- and Memcached-compatible caching service that delivers real-time, cost-optimized performance for modern applications. In this follow-up demonstration to DAT336, see how the latest ElastiCache innovations can accelerate your database and application performance at a lower cost.</p>, sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 00:50:00 -0500, 
+enddatetimeutc: November, 30 2023 00:50:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: <p>Amazon ElastiCache is a fully managed, Redis- and Memcached-compatible caching service that delivers real-time, cost-optimized performance for modern applications. In this follow-up demonstration to DAT336, see how the latest ElastiCache innovations can accelerate your database and application performance at a lower cost.</p>
+title: What’s new with Amazon ElastiCache?
+sessionuid: DC9FDF0C-2645-46DD-9652-61B85FDE6394
+thirdpartyid: DAT209
+speakers: 
+tag_name: 200 - Intermediate, Level, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Media & Entertainment, Industry, Databases, Topic, Financial Services, Industry, Innovation on AWS, Area of Interest, Wednesday, Day, Venetian, Venue, Amazon ElastiCache, Services, Cost Optimization, Area of Interest, Developer/Engineer, Role

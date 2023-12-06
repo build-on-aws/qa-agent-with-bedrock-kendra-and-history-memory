@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Open Source, Area of Interest, IT Professional/Technical Manager, Role, Cloud Operations, Topic, Strategy & Transformation, Area of Interest, Hybrid Cloud, Topic, IT Executive, Role, SAP, Area of Interest, Tuesday, Day, Venetian, Venue, Cross Industry, Industry, Solution/Systems Architect, Role, 100 - Foundational, Level, , speakers :firstName_0: JP, lastName_0: Silvestre, company_0: Red Hat, , thirdpartyid :COP101-S, sessionuid :D53CCABA-25E9-47BC-82F9-F6D976F5A6CF, title :Reduce risk & accelerate your SAP journey with Red Hat and EPI-USE (sponsored by Red Hat), description :In this lightning talk, discover the trends and behaviors Red Hat and EPI-USE are seeing with their clients’ SAP journeys. Explore the starting points and ways forward as well as tools and processes used to help many client journeys, with experiences and key learning points shared along the way. How’s this going to help you? Gain valuable insight into how the Red Hat open hybrid cloud, along with EPI-USE’s SAP HR and payroll expertise and tools such as the Data Sync Manager (DSM) suite and Archive Central, can help you reduce risk and modernize your SAP landscape on AWS. This presentation is brought to you by Red Hat, an AWS Partner., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: In this lightning talk, discover the trends and behaviors Red Hat and EPI-USE are seeing with their clients’ SAP journeys. Explore the starting points and ways forward as well as tools and processes used to help many client journeys, with experiences and key learning points shared along the way. How’s this going to help you? Gain valuable insight into how the Red Hat open hybrid cloud, along with EPI-USE’s SAP HR and payroll expertise and tools such as the Data Sync Manager (DSM) suite and Archive Central, can help you reduce risk and modernize your SAP landscape on AWS. This presentation is brought to you by Red Hat, an AWS Partner
+title: Reduce risk & accelerate your SAP journey with Red Hat and EPI-USE (sponsored by Red Hat)
+sessionuid: D53CCABA-25E9-47BC-82F9-F6D976F5A6CF
+thirdpartyid: COP101-S
+speakers: firstName_0: JP, lastName_0: Silvestre, company_0: Red Hat
+tag_name: Open Source, Area of Interest, IT Professional/Technical Manager, Role, Cloud Operations, Topic, Strategy & Transformation, Area of Interest, Hybrid Cloud, Topic, IT Executive, Role, SAP, Area of Interest, Tuesday, Day, Venetian, Venue, Cross Industry, Industry, Solution/Systems Architect, Role, 100 - Foundational, Level

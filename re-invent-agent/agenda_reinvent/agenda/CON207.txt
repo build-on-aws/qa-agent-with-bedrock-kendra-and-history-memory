@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 368
+summary: tag_name :200 - Intermediate, Level, Kubernetes, Topic, Developer/Engineer, Role, Global Infrastructure, Area of Interest, Monday, Day, MGM Grand, Venue, Cross Industry, Industry, DevOps Engineer, Role, Solution/Systems Architect, Role, Red Hat OpenShift Service on AWS (ROSA), Services, , speakers :firstName_0: Eric, lastName_0: Chapman, , thirdpartyid :CON207, sessionuid :4224168D-CB5B-4E3C-9506-75E493CD8AA2, title :Running OpenShift on AWS using Red Hat OpenShift Service on AWS (ROSA), description :<p>OpenShift is a Kubernetes-based application platform that gives developers and platform engineers a turnkey option for hosting containerized apps. Red Hat OpenShift Service on AWS (ROSA) is a fully managed OpenShift experience, integrated with AWS to accelerate migrations and deployments. Learn what we’re doing to make this experience even smoother and more delightful for application and platform teams.</p>, sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 368, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Chairmans 368
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: <p>OpenShift is a Kubernetes-based application platform that gives developers and platform engineers a turnkey option for hosting containerized apps. Red Hat OpenShift Service on AWS (ROSA) is a fully managed OpenShift experience, integrated with AWS to accelerate migrations and deployments. Learn what we’re doing to make this experience even smoother and more delightful for application and platform teams.</p>
+title: Running OpenShift on AWS using Red Hat OpenShift Service on AWS (ROSA)
+sessionuid: 4224168D-CB5B-4E3C-9506-75E493CD8AA2
+thirdpartyid: CON207
+speakers: firstName_0: Eric, lastName_0: Chapman
+tag_name: 200 - Intermediate, Level, Kubernetes, Topic, Developer/Engineer, Role, Global Infrastructure, Area of Interest, Monday, Day, MGM Grand, Venue, Cross Industry, Industry, DevOps Engineer, Role, Solution/Systems Architect, Role, Red Hat OpenShift Service on AWS (ROSA), Services

@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall C, Expo
+summary: tag_name :Wednesday, Day, Venetian, Venue, Happy Hour/Reception, Additional Services, , speakers :, thirdpartyid :ACT013, sessionuid :0C6BE42C-9746-48EB-A702-C2B321618A52, title :Expo Happy Hour, description :Connect with AWS Partners, network with peers, talk to experts, and see the latest interactive demos. Beverage service is provided throughout the Expo. The Expo Happy Hour is brought to you by Dell Technologies, an AWS Partner., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall C, Expo, startdatetimeutc :November, 30 2023 00:30:00 -0500, enddatetimeutc :November, 30 2023 02:00:00 -0500, 
+enddatetimeutc: November, 30 2023 02:00:00 -0500
+startdatetimeutc: November, 30 2023 00:30:00 -0500
+locationname: Hall C, Expo
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Connect with AWS Partners, network with peers, talk to experts, and see the latest interactive demos. Beverage service is provided throughout the Expo. The Expo Happy Hour is brought to you by Dell Technologies, an AWS Partner
+title: Expo Happy Hour
+sessionuid: 0C6BE42C-9746-48EB-A702-C2B321618A52
+thirdpartyid: ACT013
+speakers: 
+tag_name: Wednesday, Day, Venetian, Venue, Happy Hour/Reception, Additional Services

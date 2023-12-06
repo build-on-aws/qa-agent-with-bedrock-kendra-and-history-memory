@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 307
+summary: tag_name :Monday, Day, Caesars Forum, Venue, Generative AI, Area of Interest, 200 - Intermediate, Level, Internet of Things, Topic, AWS IoT Greengrass, Services, AI/ML, Topic, Amazon Bedrock, Services, Developer/Engineer, Role, Manufacturing & Industrial, Industry, Academic/Researcher, Role, Innovation on AWS, Area of Interest, AWS IoT Core, Services, Edge Computing, Area of Interest, Solution/Systems Architect, Role, , speakers :firstName_0: Jordan, lastName_0: Alexander, firstName_1: Vijay, lastName_1: Baskar, , thirdpartyid :IOT205, sessionuid :52D7B207-B307-404A-A7C9-8273D7F23A04, title :Using generative AI & AWS IoT to build a 2D robot that draws pictures, description :<p>AWS IoT offers a transformative opportunity to bridge the gap between the digital and physical realms, unlocking unprecedented value from data. In this workshop, discover how to complement IoT applications with modern AI technologies for automated outcomes. Join this learning experience to assemble an intelligent XY plotter that brings these AI-created images to life. Use AWS generative AI and IoT services to transform text into images and those images into real-life drawings. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 307, startdatetimeutc :November, 27 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 22:00:00 -0500
+locationname: Alliance 307
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: <p>AWS IoT offers a transformative opportunity to bridge the gap between the digital and physical realms, unlocking unprecedented value from data. In this workshop, discover how to complement IoT applications with modern AI technologies for automated outcomes. Join this learning experience to assemble an intelligent XY plotter that brings these AI-created images to life. Use AWS generative AI and IoT services to transform text into images and those images into real-life drawings. You must bring your laptop to participate.</p>
+title: Using generative AI & AWS IoT to build a 2D robot that draws pictures
+sessionuid: 52D7B207-B307-404A-A7C9-8273D7F23A04
+thirdpartyid: IOT205
+speakers: firstName_0: Jordan, lastName_0: Alexander, firstName_1: Vijay, lastName_1: Baskar
+tag_name: Monday, Day, Caesars Forum, Venue, Generative AI, Area of Interest, 200 - Intermediate, Level, Internet of Things, Topic, AWS IoT Greengrass, Services, AI/ML, Topic, Amazon Bedrock, Services, Developer/Engineer, Role, Manufacturing & Industrial, Industry, Academic/Researcher, Role, Innovation on AWS, Area of Interest, AWS IoT Core, Services, Edge Computing, Area of Interest, Solution/Systems Architect, Role

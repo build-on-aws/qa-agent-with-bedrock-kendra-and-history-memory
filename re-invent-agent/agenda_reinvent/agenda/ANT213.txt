@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Analytics, Topic, Open Source, Area of Interest, 200 - Intermediate, Level, Thursday, Day, Venetian, Venue, Tech Explorer, Role, , speakers :firstName_0: Darin, lastName_0: Briskman, company_0: Imply, , thirdpartyid :ANT213-S, sessionuid :0DFB4631-7525-4A1B-AEFB-8A397A1BC344, title :Analyzing streaming data with Apache Druid (sponsored by Imply), description :Streaming data is not only data in motion—it’s a potential source of valuable insights, ready to be harvested and utilized. The challenge is to analyze streaming data at scale and extract these insights—before they go stale. Join this lightning talk on building real-time analytics for streaming data to see how you can use Apache Kafka with Apache Druid, the open source database for speed, scale, and streaming data. Learn how Druid makes it easy to ingest streaming Kafka data natively at scale, run SQL queries combining real-time and historical data, create interactive dashboards to visualize event data, and embed the dashboards into a web application. This presentation is brought to you by Imply, an AWS Partner., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Streaming data is not only data in motion—it’s a potential source of valuable insights, ready to be harvested and utilized. The challenge is to analyze streaming data at scale and extract these insights—before they go stale. Join this lightning talk on building real-time analytics for streaming data to see how you can use Apache Kafka with Apache Druid, the open source database for speed, scale, and streaming data. Learn how Druid makes it easy to ingest streaming Kafka data natively at scale, run SQL queries combining real-time and historical data, create interactive dashboards to visualize event data, and embed the dashboards into a web application. This presentation is brought to you by Imply, an AWS Partner
+title: Analyzing streaming data with Apache Druid (sponsored by Imply)
+sessionuid: 0DFB4631-7525-4A1B-AEFB-8A397A1BC344
+thirdpartyid: ANT213-S
+speakers: firstName_0: Darin, lastName_0: Briskman, company_0: Imply
+tag_name: Analytics, Topic, Open Source, Area of Interest, 200 - Intermediate, Level, Thursday, Day, Venetian, Venue, Tech Explorer, Role

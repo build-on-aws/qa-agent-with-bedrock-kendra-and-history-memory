@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :Amazon Simple Queue Service (SQS), Services, Application Integration, Area of Interest, Developer/Engineer, Role, Serverless Compute, Topic, 200 - Intermediate, Level, Wednesday, Day, Wynn, Venue, Solution/Systems Architect, Role, Amazon Simple Notification Service (SNS), Services, Amazon Kinesis, Services, IT Professional/Technical Manager, Role, , speakers :firstName_0: Brian, lastName_0: Zambrano, firstName_1: Daniel, lastName_1: Fargano, , thirdpartyid :API207, sessionuid :501F6F99-09DE-4679-96B9-5DE0148519C1, title :Messaging at scale: How to decide which service to use, description :Distributed messaging can be challenging at scale, especially with the range of tools for the job. Event brokers, topics, queues, or streams—what is the right solution for your workload? In this chalk talk, explore the different features and services that you can use on AWS. From Kafka to Amazon Kinesis and Amazon SNS to Amazon SQS, learn how these offerings differ and the commonly used architectures., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 18:00:00 -0500, 
+enddatetimeutc: November, 29 2023 18:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Distributed messaging can be challenging at scale, especially with the range of tools for the job. Event brokers, topics, queues, or streams—what is the right solution for your workload? In this chalk talk, explore the different features and services that you can use on AWS. From Kafka to Amazon Kinesis and Amazon SNS to Amazon SQS, learn how these offerings differ and the commonly used architectures
+title: Messaging at scale: How to decide which service to use
+sessionuid: 501F6F99-09DE-4679-96B9-5DE0148519C1
+thirdpartyid: API207
+speakers: firstName_0: Brian, lastName_0: Zambrano, firstName_1: Daniel, lastName_1: Fargano
+tag_name: Amazon Simple Queue Service (SQS), Services, Application Integration, Area of Interest, Developer/Engineer, Role, Serverless Compute, Topic, 200 - Intermediate, Level, Wednesday, Day, Wynn, Venue, Solution/Systems Architect, Role, Amazon Simple Notification Service (SNS), Services, Amazon Kinesis, Services, IT Professional/Technical Manager, Role

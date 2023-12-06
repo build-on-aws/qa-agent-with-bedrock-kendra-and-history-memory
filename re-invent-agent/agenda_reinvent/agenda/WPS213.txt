@@ -1,0 +1,14 @@
+location: Venetian, Level 5, Palazzo Ballroom B
+summary: tag_name :Monday, Day, Venetian, Venue, AI/ML, Topic, Enterprise & Migration, Topic, Customer Stories, Area of Interest, Innovation on AWS, Area of Interest, Modernization, Area of Interest, Education, Industry, Government, Industry, Nonprofit, Industry, 200 - Intermediate, Level, , speakers :firstName_0: Dave, lastName_0: Levy, , thirdpartyid :WPS213-INT, sessionuid :8B1B8382-889E-4B5A-913D-B1991F22BB06, title :Empowering citizens through digital innovation, description :<p>Around the world, public sector organizations face challenges that require transformative thinking. Empowering innovative leaders with advanced technologies like machine learning and generative AI helps secure a more accessible world. Join Dave Levy, Vice President of AWS Worldwide Public Sector, and hear from the Federal Reserve Bank of Boston, Covered California, and Singapore’s Smart Nation and Digital Government Group on the generational impact that cloud technology has helped drive—reducing health disparities, creating history’s most equitable financial system, building smart nations, and more. These organizations demonstrate the limitless possibilities when data and technology power invention.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 5, locationname :Palazzo Ballroom B, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 01:30:00 -0500, 
+enddatetimeutc: November, 28 2023 01:30:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: Palazzo Ballroom B
+floorplanname: Level 5
+venuename: Venetian
+sessiontype: standard
+description: <p>Around the world, public sector organizations face challenges that require transformative thinking. Empowering innovative leaders with advanced technologies like machine learning and generative AI helps secure a more accessible world. Join Dave Levy, Vice President of AWS Worldwide Public Sector, and hear from the Federal Reserve Bank of Boston, Covered California, and Singapore’s Smart Nation and Digital Government Group on the generational impact that cloud technology has helped drive—reducing health disparities, creating history’s most equitable financial system, building smart nations, and more. These organizations demonstrate the limitless possibilities when data and technology power invention.</p>
+title: Empowering citizens through digital innovation
+sessionuid: 8B1B8382-889E-4B5A-913D-B1991F22BB06
+thirdpartyid: WPS213-INT
+speakers: firstName_0: Dave, lastName_0: Levy
+tag_name: Monday, Day, Venetian, Venue, AI/ML, Topic, Enterprise & Migration, Topic, Customer Stories, Area of Interest, Innovation on AWS, Area of Interest, Modernization, Area of Interest, Education, Industry, Government, Industry, Nonprofit, Industry, 200 - Intermediate, Level

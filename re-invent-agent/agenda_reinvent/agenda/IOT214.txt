@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Analytics, Topic, Internet of Things, Topic, Application Integration, Area of Interest, Independent Software Vendor (ISV), Area of Interest, Modernization, Area of Interest, Automotive, Industry, Energy, Industry, Manufacturing & Industrial, Industry, 200 - Intermediate, Level, Entrepreneur (Founder/Co-Founder), Role, IT Executive, Role, Wednesday, Day, Venetian, Venue, , speakers :, thirdpartyid :IOT214-S, sessionuid :2FE0AFCA-AF9F-4015-9C4D-159C9B256DFB, title :Building scalable IoT systems with MQTT and AWS (sponsored by HiveMQ), description :<p>In this lightning talk, HiveMQ shares the pivotal role of a robust MQTT platform in creating scalable IoT systems that seamlessly integrate with AWS. Delve into architectural patterns that harness MQTT communication capabilities with AWS services like Amazon Kinesis, Amazon DynamoDB, Amazon Timestream, and AWS Lambda. Gain unique insights into translating MQTT to AWS paradigms, and discover how HiveMQ's expertise empowers IoT deployments to thrive on AWS. Don't miss this opportunity to grasp the nuances of MQTT and AWS synergy in IoT. This presentation is brought to you by HiveMQ, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :November, 30 2023 01:00:00 -0500, enddatetimeutc :November, 30 2023 01:20:00 -0500, 
+enddatetimeutc: November, 30 2023 01:20:00 -0500
+startdatetimeutc: November, 30 2023 01:00:00 -0500
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>In this lightning talk, HiveMQ shares the pivotal role of a robust MQTT platform in creating scalable IoT systems that seamlessly integrate with AWS. Delve into architectural patterns that harness MQTT communication capabilities with AWS services like Amazon Kinesis, Amazon DynamoDB, Amazon Timestream, and AWS Lambda. Gain unique insights into translating MQTT to AWS paradigms, and discover how HiveMQ's expertise empowers IoT deployments to thrive on AWS. Don't miss this opportunity to grasp the nuances of MQTT and AWS synergy in IoT. This presentation is brought to you by HiveMQ, an AWS Partner.</p>
+title: Building scalable IoT systems with MQTT and AWS (sponsored by HiveMQ)
+sessionuid: 2FE0AFCA-AF9F-4015-9C4D-159C9B256DFB
+thirdpartyid: IOT214-S
+speakers: 
+tag_name: Analytics, Topic, Internet of Things, Topic, Application Integration, Area of Interest, Independent Software Vendor (ISV), Area of Interest, Modernization, Area of Interest, Automotive, Industry, Energy, Industry, Manufacturing & Industrial, Industry, 200 - Intermediate, Level, Entrepreneur (Founder/Co-Founder), Role, IT Executive, Role, Wednesday, Day, Venetian, Venue

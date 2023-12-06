@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 104
+summary: tag_name :New to AWS, Topic, 200 - Intermediate, Level, Amazon Monitron, Services, AWS IoT SiteWise, Services, Thursday, Day, MGM Grand, Venue, , speakers :firstName_0: Adil, lastName_0: Can, firstName_1: Pranjit, lastName_1: Biswas, , thirdpartyid :NTA214, sessionuid :550EBFA8-59B6-42AC-AD46-D08E7C1C6759, title :Optimize productivity and uptime using AWS Industry 4.0 technologies, description :<p>Industrial customers use hundreds of pieces of equipment to drive complex business processes. In this chalk talk, learn about AWS purpose-built IoT solutions for asset-intensive industry use cases. Discover how these solutions detect abnormal behavior in industrial machinery, making it possible for organizations to implement predictive maintenance and reduce unplanned downtime. Hear about the challenges in adoption of Industry 4.0 and how AWS can help customers overcome these challenges by collecting, organizing, monitoring, and analyzing industrial data at scale using AWS IoT services.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :104, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 20:30:00 -0500, 
+enddatetimeutc: November, 30 2023 20:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: 104
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Industrial customers use hundreds of pieces of equipment to drive complex business processes. In this chalk talk, learn about AWS purpose-built IoT solutions for asset-intensive industry use cases. Discover how these solutions detect abnormal behavior in industrial machinery, making it possible for organizations to implement predictive maintenance and reduce unplanned downtime. Hear about the challenges in adoption of Industry 4.0 and how AWS can help customers overcome these challenges by collecting, organizing, monitoring, and analyzing industrial data at scale using AWS IoT services.</p>
+title: Optimize productivity and uptime using AWS Industry 4.0 technologies
+sessionuid: 550EBFA8-59B6-42AC-AD46-D08E7C1C6759
+thirdpartyid: NTA214
+speakers: firstName_0: Adil, lastName_0: Can, firstName_1: Pranjit, lastName_1: Biswas
+tag_name: New to AWS, Topic, 200 - Intermediate, Level, Amazon Monitron, Services, AWS IoT SiteWise, Services, Thursday, Day, MGM Grand, Venue

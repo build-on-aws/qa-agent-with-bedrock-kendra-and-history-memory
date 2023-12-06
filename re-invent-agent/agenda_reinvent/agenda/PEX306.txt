@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 305
+summary: tag_name :Partner Enablement, Topic, Monday, Day, Caesars Forum, Venue, 300 - Advanced, Level, , speakers :firstName_0: Sara, lastName_0: van de Moosdijk, firstName_1: Vasileios, lastName_1: Vonikakis, , thirdpartyid :PEX306-R, sessionuid :50089523-C321-4329-9378-97C56C8028A8, title :LLMOps: The lifecycle of an LLM [REPEAT], description :The rise of large language models (LLMs) has surfaced new challenges in development, deployment, and maintenance of these models. While many standard MLOps practices apply, foundation models require additional considerations. This chalk talk provides practical advice on adopting LLMs at scale in your organization and maintaining those models in the long run. This chalk talk is intended for AWS Partners., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 305, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Alliance 305
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: The rise of large language models (LLMs) has surfaced new challenges in development, deployment, and maintenance of these models. While many standard MLOps practices apply, foundation models require additional considerations. This chalk talk provides practical advice on adopting LLMs at scale in your organization and maintaining those models in the long run. This chalk talk is intended for AWS Partners
+title: LLMOps: The lifecycle of an LLM [REPEAT]
+sessionuid: 50089523-C321-4329-9378-97C56C8028A8
+thirdpartyid: PEX306-R
+speakers: firstName_0: Sara, lastName_0: van de Moosdijk, firstName_1: Vasileios, lastName_1: Vonikakis
+tag_name: Partner Enablement, Topic, Monday, Day, Caesars Forum, Venue, 300 - Advanced, Level

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 113
+summary: tag_name :AI/ML, Topic, Small and Midsize Business (SMB), Area of Interest, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Monday, Day, Caesars Forum, Venue, , speakers :firstName_0: Mitesh, lastName_0: Patel, firstName_1: Rana, lastName_1: Dutt, , thirdpartyid :SMB202, sessionuid :B5231F37-8F29-473C-95E2-76675871DEF7, title :Harness AI/ML to drive innovation and unlock new opportunities, description :<p>AI/ML is no longer a buzzword only used by big tech companies. All businesses can be improved with AI/ML. Still, many business and IT leaders struggle to adopt AI/ML to solve real business challenges. In this session, hear about ML use cases, the AI/ML lifecycle, essential concepts of ML including generative AI, and the roles played by various stakeholders throughout different stages. Come away from this session with an understanding of how to use AI/ML to overcome business challenges.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 113, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 27 2023 22:00:00 -0500, 
+enddatetimeutc: November, 27 2023 22:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: Forum 113
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>AI/ML is no longer a buzzword only used by big tech companies. All businesses can be improved with AI/ML. Still, many business and IT leaders struggle to adopt AI/ML to solve real business challenges. In this session, hear about ML use cases, the AI/ML lifecycle, essential concepts of ML including generative AI, and the roles played by various stakeholders throughout different stages. Come away from this session with an understanding of how to use AI/ML to overcome business challenges.</p>
+title: Harness AI/ML to drive innovation and unlock new opportunities
+sessionuid: B5231F37-8F29-473C-95E2-76675871DEF7
+thirdpartyid: SMB202
+speakers: firstName_0: Mitesh, lastName_0: Patel, firstName_1: Rana, lastName_1: Dutt
+tag_name: AI/ML, Topic, Small and Midsize Business (SMB), Area of Interest, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, Monday, Day, Caesars Forum, Venue

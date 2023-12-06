@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas E
+summary: tag_name :Monday, Day, Mandalay Bay, Venue, Business Applications, Topic, SaaS, Area of Interest, Cost Optimization, Area of Interest, Modernization, Area of Interest, 200 - Intermediate, Level, Business Executive, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Connect, Services, , speakers :, thirdpartyid :BIZ224-S, sessionuid :DC9D9554-1949-4609-91B7-420F58B1A109, title :Transform your customer service organization with AI and automation (sponsored by Salesforce), description :<p>In this session, learn how 3M is using the power of automation, AI, and integration to create personalized customer experiences that drive growth and improve customer satisfaction with Salesforce and AWS solutions. Discover how 3M is also improving the experience for their agents and admins while making productivity gains with their Service Cloud Voice deployment. This presentation is brought to you by Salesforce, an AWS Partner.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas E, startdatetimeutc :November, 27 2023 23:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 23:00:00 -0500
+locationname: South Seas E
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>In this session, learn how 3M is using the power of automation, AI, and integration to create personalized customer experiences that drive growth and improve customer satisfaction with Salesforce and AWS solutions. Discover how 3M is also improving the experience for their agents and admins while making productivity gains with their Service Cloud Voice deployment. This presentation is brought to you by Salesforce, an AWS Partner.</p>
+title: Transform your customer service organization with AI and automation (sponsored by Salesforce)
+sessionuid: DC9D9554-1949-4609-91B7-420F58B1A109
+thirdpartyid: BIZ224-S
+speakers: 
+tag_name: Monday, Day, Mandalay Bay, Venue, Business Applications, Topic, SaaS, Area of Interest, Cost Optimization, Area of Interest, Modernization, Area of Interest, 200 - Intermediate, Level, Business Executive, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Connect, Services

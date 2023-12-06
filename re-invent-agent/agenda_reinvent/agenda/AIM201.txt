@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Bellini 2105
+summary: tag_name :Tuesday, Day, Venetian, Venue, AI/ML, Topic, Customer Stories, Area of Interest, 200 - Intermediate, Level, Developer/Engineer, Role, IT Professional/Technical Manager, Role, , speakers :, thirdpartyid :AIM201-S, sessionuid :510D8DEB-9EFE-4A4E-AAC8-50A0C6193877, title :Elasticsearch Relevance Engine: Your path to highly relevant AI search (sponsored by Elastic), description :<p>The Elasticsearch Relevance Engine (ESRE) builds on Elastic’s leadership in search and more than two years of machine learning research and development to provide new capabilities for creating highly relevant AI search applications. ESRE combines AI with Elastic’s text search and gives developers sophisticated retrieval algorithms and the ability to integrate with large language models (LLMs). In this session, discover how you can access ESRE via a simple, unified API that Elastic’s community already trusts, so you can start using it immediately to elevate search relevance. Also learn how customers use Elastic’s vector database for scalable, semantic search to deliver highly relevant search results. This presentation is brought to you by Elastic, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Bellini 2105, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: Bellini 2105
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>The Elasticsearch Relevance Engine (ESRE) builds on Elastic’s leadership in search and more than two years of machine learning research and development to provide new capabilities for creating highly relevant AI search applications. ESRE combines AI with Elastic’s text search and gives developers sophisticated retrieval algorithms and the ability to integrate with large language models (LLMs). In this session, discover how you can access ESRE via a simple, unified API that Elastic’s community already trusts, so you can start using it immediately to elevate search relevance. Also learn how customers use Elastic’s vector database for scalable, semantic search to deliver highly relevant search results. This presentation is brought to you by Elastic, an AWS Partner.</p>
+title: Elasticsearch Relevance Engine: Your path to highly relevant AI search (sponsored by Elastic)
+sessionuid: 510D8DEB-9EFE-4A4E-AAC8-50A0C6193877
+thirdpartyid: AIM201-S
+speakers: 
+tag_name: Tuesday, Day, Venetian, Venue, AI/ML, Topic, Customer Stories, Area of Interest, 200 - Intermediate, Level, Developer/Engineer, Role, IT Professional/Technical Manager, Role

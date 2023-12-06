@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 104
+summary: tag_name :Solution/Systems Architect, Role, 300 - Advanced, Level, Application Integration, Area of Interest, Serverless Compute, Topic, Amazon Managed Streaming for Apache Kafka (MSK), Services, Amazon EventBridge, Services, Thursday, Day, Caesars Forum, Venue, Tech Explorer, Role, Developer/Engineer, Role, , speakers :firstName_0: David, lastName_0: Boyne, firstName_1: Michael, lastName_1: Gasch, , thirdpartyid :API304, sessionuid :CD49BBBB-DB7D-4877-ADAE-C3C6FD225E1A, title :Building better with Apache Kafka and Amazon EventBridge, description :In this chalk talk, explore the convergence of event-driven architectures and real-time event streaming to meet modern business requirements. Learn about Amazon EventBridge and Apache Kafka and gain insights into their roles for facilitating real-time decision-making, increased business velocity, and operational autonomy. Learn how to combine EventBridge and Kafka, unlocking rapid event-driven business processes. Discover how Amazon MSK, EventBridge event buses and pipes, and Kafka connectors can empower organizations to build scalable and resilient event-driven architectures., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 104, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Forum 104
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: In this chalk talk, explore the convergence of event-driven architectures and real-time event streaming to meet modern business requirements. Learn about Amazon EventBridge and Apache Kafka and gain insights into their roles for facilitating real-time decision-making, increased business velocity, and operational autonomy. Learn how to combine EventBridge and Kafka, unlocking rapid event-driven business processes. Discover how Amazon MSK, EventBridge event buses and pipes, and Kafka connectors can empower organizations to build scalable and resilient event-driven architectures
+title: Building better with Apache Kafka and Amazon EventBridge
+sessionuid: CD49BBBB-DB7D-4877-ADAE-C3C6FD225E1A
+thirdpartyid: API304
+speakers: firstName_0: David, lastName_0: Boyne, firstName_1: Michael, lastName_1: Gasch
+tag_name: Solution/Systems Architect, Role, 300 - Advanced, Level, Application Integration, Area of Interest, Serverless Compute, Topic, Amazon Managed Streaming for Apache Kafka (MSK), Services, Amazon EventBridge, Services, Thursday, Day, Caesars Forum, Venue, Tech Explorer, Role, Developer/Engineer, Role

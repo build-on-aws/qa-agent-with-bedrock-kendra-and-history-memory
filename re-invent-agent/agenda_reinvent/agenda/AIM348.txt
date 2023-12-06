@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 220
+summary: tag_name :IT Professional/Technical Manager, Role, Generative AI, Area of Interest, AI/ML, Topic, Cross Industry, Industry, Migration & Transfer, Area of Interest, Amazon SageMaker, Services, Thursday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, Innovation on AWS, Area of Interest, Financial Services, Industry, Developer/Engineer, Role, 300 - Advanced, Level, Life Sciences, Industry, , speakers :firstName_0: Manoj, lastName_0: Ravi, firstName_1: Arun, lastName_1: Kumar Lokanatha, , thirdpartyid :AIM348, sessionuid :D5358AB3-1206-4C26-A485-2A3F0AB4952E, title :Train foundation models at scale with Amazon SageMaker, description :Amazon SageMaker offers purpose-built tools to reduce the time and cost to train and tune machine learning (ML) models at scale without the need to manage infrastructure. Join this chalk talk to find the right tools for your use case. Learn how you can take advantage of a wide choice of ML compute infrastructure, high-performing distributed training, model tuning, interactivity and monitoring tools, and more to accelerate and scale foundation model (FM) development., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 220, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Summit 220
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Amazon SageMaker offers purpose-built tools to reduce the time and cost to train and tune machine learning (ML) models at scale without the need to manage infrastructure. Join this chalk talk to find the right tools for your use case. Learn how you can take advantage of a wide choice of ML compute infrastructure, high-performing distributed training, model tuning, interactivity and monitoring tools, and more to accelerate and scale foundation model (FM) development
+title: Train foundation models at scale with Amazon SageMaker
+sessionuid: D5358AB3-1206-4C26-A485-2A3F0AB4952E
+thirdpartyid: AIM348
+speakers: firstName_0: Manoj, lastName_0: Ravi, firstName_1: Arun, lastName_1: Kumar Lokanatha
+tag_name: IT Professional/Technical Manager, Role, Generative AI, Area of Interest, AI/ML, Topic, Cross Industry, Industry, Migration & Transfer, Area of Interest, Amazon SageMaker, Services, Thursday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, Innovation on AWS, Area of Interest, Financial Services, Industry, Developer/Engineer, Role, 300 - Advanced, Level, Life Sciences, Industry

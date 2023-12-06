@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Jasmine H
+summary: tag_name :Cross Industry, Industry, Kubernetes, Topic, 200 - Intermediate, Level, Tuesday, Day, Mandalay Bay, Venue, IT Professional/Technical Manager, Role, Global Infrastructure, Area of Interest, DevOps Engineer, Role, Developer/Engineer, Role, Amazon Elastic Kubernetes Service (EKS), Services, Cloud Operations, Topic, , speakers :firstName_0: Liz, lastName_0: Duke, firstName_1: Prateek, lastName_1: Gogia, , thirdpartyid :CON206, sessionuid :3BADEAF8-ED81-4AD2-8E3B-2C431B8F33A9, title :Accelerate your Kubernetes journey with Amazon EKS, description :In this session, hear how Amazon EKS provides AWS customers with production-grade Kubernetes. Organizations need to scale clusters to support the size of their businesses. Teams across organizations may also want to modernize their applications using Kubernetes and need guidance and support establishing the right security guardrails and best practices. Learn how Amazon EKS brings the benefits of knowledge gained from thousands of AWS customers running Kubernetes at every scale, from startups to enterprise, so you can focus on your business applications, not infrastructure, and still run production-grade Kubernetes., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Jasmine H, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: Jasmine H
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: In this session, hear how Amazon EKS provides AWS customers with production-grade Kubernetes. Organizations need to scale clusters to support the size of their businesses. Teams across organizations may also want to modernize their applications using Kubernetes and need guidance and support establishing the right security guardrails and best practices. Learn how Amazon EKS brings the benefits of knowledge gained from thousands of AWS customers running Kubernetes at every scale, from startups to enterprise, so you can focus on your business applications, not infrastructure, and still run production-grade Kubernetes
+title: Accelerate your Kubernetes journey with Amazon EKS
+sessionuid: 3BADEAF8-ED81-4AD2-8E3B-2C431B8F33A9
+thirdpartyid: CON206
+speakers: firstName_0: Liz, lastName_0: Duke, firstName_1: Prateek, lastName_1: Gogia
+tag_name: Cross Industry, Industry, Kubernetes, Topic, 200 - Intermediate, Level, Tuesday, Day, Mandalay Bay, Venue, IT Professional/Technical Manager, Role, Global Infrastructure, Area of Interest, DevOps Engineer, Role, Developer/Engineer, Role, Amazon Elastic Kubernetes Service (EKS), Services, Cloud Operations, Topic

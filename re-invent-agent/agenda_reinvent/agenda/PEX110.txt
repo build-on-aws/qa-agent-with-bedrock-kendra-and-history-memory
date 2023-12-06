@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Strategy & Transformation, Area of Interest, Sales/Marketing, Role, Thursday, Day, Venetian, Venue, IT Executive, Role, Partner Enablement, Topic, Business Executive, Role, 100 - Foundational, Level, , speakers :firstName_0: Jeremiah, lastName_0: Jenson, , thirdpartyid :PEX110, sessionuid :F541A2E2-ACA8-482D-98C8-97683C6A55AD, title :A “better together” story: AWS Partners and AWS Distribution Partners, description :In this lightning talk, learn how AWS Distribution Partners can help other AWS Partners upskill their internal resources while building out their AWS practices to increase profitability. This lightning talk is intended for AWS Partners., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :November, 30 2023 18:30:00 -0500, enddatetimeutc :November, 30 2023 18:50:00 -0500, 
+enddatetimeutc: November, 30 2023 18:50:00 -0500
+startdatetimeutc: November, 30 2023 18:30:00 -0500
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: In this lightning talk, learn how AWS Distribution Partners can help other AWS Partners upskill their internal resources while building out their AWS practices to increase profitability. This lightning talk is intended for AWS Partners
+title: A “better together” story: AWS Partners and AWS Distribution Partners
+sessionuid: F541A2E2-ACA8-482D-98C8-97683C6A55AD
+thirdpartyid: PEX110
+speakers: firstName_0: Jeremiah, lastName_0: Jenson
+tag_name: Strategy & Transformation, Area of Interest, Sales/Marketing, Role, Thursday, Day, Venetian, Venue, IT Executive, Role, Partner Enablement, Topic, Business Executive, Role, 100 - Foundational, Level

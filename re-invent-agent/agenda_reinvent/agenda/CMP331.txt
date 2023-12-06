@@ -1,0 +1,14 @@
+location: Wynn, Level 1, La Tache 1
+summary: tag_name :Compute, Topic, Storage, Topic, Innovation on AWS, Area of Interest, Cost Optimization, Area of Interest, Modernization, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Data Engineer, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Block Store (EBS), Services, Amazon Elastic Compute Cloud (EC2), Services, Thursday, Day, Wynn, Venue, , speakers :firstName_0: Aaron, lastName_0: Chen, firstName_1: Fred, lastName_1: Zhang, , thirdpartyid :CMP331, sessionuid :0FFF237A-0731-42A6-BE2D-3864AE1BA383, title :Differentiated performance for databases with Amazon EC2 & Amazon EBS, description :<p>Databases represent a critical component for business workloads. Amazon EC2 offers a broad portfolio of compute instances in the cloud for running database workloads. Join this chalk talk to learn how organizations can deploy their database workloads, relational or in-memory, using Amazon EC2 instances and Amazon EBS storage to achieve high and scalable performance while optimizing cost.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :La Tache 1, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: La Tache 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Databases represent a critical component for business workloads. Amazon EC2 offers a broad portfolio of compute instances in the cloud for running database workloads. Join this chalk talk to learn how organizations can deploy their database workloads, relational or in-memory, using Amazon EC2 instances and Amazon EBS storage to achieve high and scalable performance while optimizing cost.</p>
+title: Differentiated performance for databases with Amazon EC2 & Amazon EBS
+sessionuid: 0FFF237A-0731-42A6-BE2D-3864AE1BA383
+thirdpartyid: CMP331
+speakers: firstName_0: Aaron, lastName_0: Chen, firstName_1: Fred, lastName_1: Zhang
+tag_name: Compute, Topic, Storage, Topic, Innovation on AWS, Area of Interest, Cost Optimization, Area of Interest, Modernization, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Data Engineer, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Block Store (EBS), Services, Amazon Elastic Compute Cloud (EC2), Services, Thursday, Day, Wynn, Venue

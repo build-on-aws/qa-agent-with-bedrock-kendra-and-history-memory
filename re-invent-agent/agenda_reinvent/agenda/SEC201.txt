@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Murano 3306
+summary: tag_name :DevOps and Developer Productivity, Topic, Security, Compliance, & Identity, Topic, Application Security, Area of Interest, Network & Infrastructure Security, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Cloud Security Specialist, Role, DevOps Engineer, Role, IT Professional/Technical Manager, Role, Amazon Elastic Compute Cloud (EC2), Services, Amazon Elastic Kubernetes Service (EKS), Services, AWS Secrets Manager, Services, Tuesday, Day, Venetian, Venue, , speakers :firstName_0: David, lastName_0: Mills, company_0: HashiCorp, firstName_1: Rob, lastName_1: Barnes, company_1: HashiCorp, , thirdpartyid :SEC201-S, sessionuid :72C52972-9207-4609-B030-CBDC83AED3C9, title :Run modern PKI workflows with HCP Vault on AWS (sponsored by HashiCorp), description :<p>Learn how to use HCP Vault with AWS Certificate Manager to help your organization’s modern PKI, certificate authority, and certificate management workflows to secure service-to-service communication on Amazon EKS. Using Vault workflows and automation can help you avoid expensive expired-certificate outages and run more efficiently without a lot of manual processes or heroics. This presentation is brought to you by HashiCorp, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 3, locationname :Murano 3306, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 23:00:00 -0500, 
+enddatetimeutc: November, 28 2023 23:00:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Murano 3306
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: standard
+description: <p>Learn how to use HCP Vault with AWS Certificate Manager to help your organization’s modern PKI, certificate authority, and certificate management workflows to secure service-to-service communication on Amazon EKS. Using Vault workflows and automation can help you avoid expensive expired-certificate outages and run more efficiently without a lot of manual processes or heroics. This presentation is brought to you by HashiCorp, an AWS Partner.</p>
+title: Run modern PKI workflows with HCP Vault on AWS (sponsored by HashiCorp)
+sessionuid: 72C52972-9207-4609-B030-CBDC83AED3C9
+thirdpartyid: SEC201-S
+speakers: firstName_0: David, lastName_0: Mills, company_0: HashiCorp, firstName_1: Rob, lastName_1: Barnes, company_1: HashiCorp
+tag_name: DevOps and Developer Productivity, Topic, Security, Compliance, & Identity, Topic, Application Security, Area of Interest, Network & Infrastructure Security, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Cloud Security Specialist, Role, DevOps Engineer, Role, IT Professional/Technical Manager, Role, Amazon Elastic Compute Cloud (EC2), Services, Amazon Elastic Kubernetes Service (EKS), Services, AWS Secrets Manager, Services, Tuesday, Day, Venetian, Venue

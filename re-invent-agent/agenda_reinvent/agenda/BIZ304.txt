@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Oceanside A
+summary: tag_name :Mandalay Bay, Venue, Wednesday, Day, Amazon Bedrock, Services, AI/ML, Topic, Developer/Engineer, Role, Generative AI, Area of Interest, IT Professional/Technical Manager, Role, Amazon Connect, Services, Business Applications, Topic, Solution/Systems Architect, Role, 300 - Advanced, Level, , speakers :firstName_0: Jeremy, lastName_0: Puent, firstName_1: Steve, lastName_1: Earl, , thirdpartyid :BIZ304, sessionuid :C0FF8EE2-699D-4120-BD88-2DD310AAF95C, title :Use LLMs to analyze data and provide guidance to contact center agents, description :In this workshop, learn how to create large language models (LLMs) to analyze Amazon Connect Contact Lens data, then use it with step-by-step guides to transform your agents into superstars by helping them emulate the best practices of the top performers on your team. By training models using transcripts from successful interactions, you can guide agents with the optimal language to achieve desired outcomes, such as preventing account cancellations and driving upsells. Discover how this helps enable consistent implementation of best practices across all agents in different customer interaction scenarios. You must bring your laptop to participate., sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Oceanside A, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 21:30:00 -0500, 
+enddatetimeutc: November, 29 2023 21:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Oceanside A
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: In this workshop, learn how to create large language models (LLMs) to analyze Amazon Connect Contact Lens data, then use it with step-by-step guides to transform your agents into superstars by helping them emulate the best practices of the top performers on your team. By training models using transcripts from successful interactions, you can guide agents with the optimal language to achieve desired outcomes, such as preventing account cancellations and driving upsells. Discover how this helps enable consistent implementation of best practices across all agents in different customer interaction scenarios. You must bring your laptop to participate
+title: Use LLMs to analyze data and provide guidance to contact center agents
+sessionuid: C0FF8EE2-699D-4120-BD88-2DD310AAF95C
+thirdpartyid: BIZ304
+speakers: firstName_0: Jeremy, lastName_0: Puent, firstName_1: Steve, lastName_1: Earl
+tag_name: Mandalay Bay, Venue, Wednesday, Day, Amazon Bedrock, Services, AI/ML, Topic, Developer/Engineer, Role, Generative AI, Area of Interest, IT Professional/Technical Manager, Role, Amazon Connect, Services, Business Applications, Topic, Solution/Systems Architect, Role, 300 - Advanced, Level

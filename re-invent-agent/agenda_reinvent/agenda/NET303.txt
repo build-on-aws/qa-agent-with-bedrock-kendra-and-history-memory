@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 315
+summary: tag_name :Architecture, Topic, Networking & Content Delivery, Topic, AWS Cloud WAN, Services, Developer/Engineer, Role, Cross Industry, Industry, Global Infrastructure, Area of Interest, 300 - Advanced, Level, Monday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, Amazon Virtual Private Cloud (VPC), Services, AWS Transit Gateway, Services, Well-Architected Framework, Area of Interest, , speakers :firstName_0: Pablo Sánchez, lastName_0: Carmona, firstName_1: Andy, lastName_1: Taylor, firstName_2: Jorge, lastName_2: Prado, firstName_3: Eric, lastName_3: Vasquez, firstName_4: Fiona, lastName_4: Armada, , thirdpartyid :NET303-R, sessionuid :736DF54F-8FD5-4F81-8D53-0532CB1CE180, title :How to manage your network using infrastructure as code [REPEAT], description :<p>As workloads increase on AWS and you expand to different AWS Regions, creating and managing network elements can be challenging. In this builders’ session, learn about recommended approaches to using infrastructure as code (IaC) when migrating from an AWS Transit Gateway–based network to AWS Cloud WAN. This session uses Terraform as the IaC framework. You must bring your laptop to participate.</p>, sessiontype :Builders' Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 315, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Alliance 315
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Builders' Session
+description: <p>As workloads increase on AWS and you expand to different AWS Regions, creating and managing network elements can be challenging. In this builders’ session, learn about recommended approaches to using infrastructure as code (IaC) when migrating from an AWS Transit Gateway–based network to AWS Cloud WAN. This session uses Terraform as the IaC framework. You must bring your laptop to participate.</p>
+title: How to manage your network using infrastructure as code [REPEAT]
+sessionuid: 736DF54F-8FD5-4F81-8D53-0532CB1CE180
+thirdpartyid: NET303-R
+speakers: firstName_0: Pablo Sánchez, lastName_0: Carmona, firstName_1: Andy, lastName_1: Taylor, firstName_2: Jorge, lastName_2: Prado, firstName_3: Eric, lastName_3: Vasquez, firstName_4: Fiona, lastName_4: Armada
+tag_name: Architecture, Topic, Networking & Content Delivery, Topic, AWS Cloud WAN, Services, Developer/Engineer, Role, Cross Industry, Industry, Global Infrastructure, Area of Interest, 300 - Advanced, Level, Monday, Day, Caesars Forum, Venue, Solution/Systems Architect, Role, Amazon Virtual Private Cloud (VPC), Services, AWS Transit Gateway, Services, Well-Architected Framework, Area of Interest

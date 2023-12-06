@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :System Administrator, Role, Amazon Elastic Kubernetes Service (EKS), Services, Kubernetes, Topic, DevOps Engineer, Role, Digital Native Business (DNB), Area of Interest, Developer/Engineer, Role, Tuesday, Day, Venetian, Venue, Cost Optimization, Area of Interest, 200 - Intermediate, Level, Non-English, Area of Interest, Cloud Operations, Topic, , speakers :firstName_0: Hyunsoo, lastName_0: Cho, firstName_1: Jaewook, lastName_1: Shim, company_1: Wesang, , thirdpartyid :GBL210-KO, sessionuid :17AD4BB7-6170-4EDE-A92A-DC3BBA9DE638, title :Continuous resource tracking with Amazon EKS for cost optimization [Korean], description :This lightning talk is delivered in Korean. Yogiyo is a food delivery service in South Korea that builds efficient and scalable Kubernetes clusters using Amazon EKS. In this talk, learn how to use Karpenter to configure and architect Amazon EKS to use mixed clustering with On-Demand and Spot Instances and to track down idle resources and automate them to identify and realize Amazon EKS cost savings of up to 40%., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 28 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 22:20:00 -0500, 
+enddatetimeutc: November, 28 2023 22:20:00 -0500
+startdatetimeutc: November, 28 2023 22:00:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: This lightning talk is delivered in Korean. Yogiyo is a food delivery service in South Korea that builds efficient and scalable Kubernetes clusters using Amazon EKS. In this talk, learn how to use Karpenter to configure and architect Amazon EKS to use mixed clustering with On-Demand and Spot Instances and to track down idle resources and automate them to identify and realize Amazon EKS cost savings of up to 40%
+title: Continuous resource tracking with Amazon EKS for cost optimization [Korean]
+sessionuid: 17AD4BB7-6170-4EDE-A92A-DC3BBA9DE638
+thirdpartyid: GBL210-KO
+speakers: firstName_0: Hyunsoo, lastName_0: Cho, firstName_1: Jaewook, lastName_1: Shim, company_1: Wesang
+tag_name: System Administrator, Role, Amazon Elastic Kubernetes Service (EKS), Services, Kubernetes, Topic, DevOps Engineer, Role, Digital Native Business (DNB), Area of Interest, Developer/Engineer, Role, Tuesday, Day, Venetian, Venue, Cost Optimization, Area of Interest, 200 - Intermediate, Level, Non-English, Area of Interest, Cloud Operations, Topic

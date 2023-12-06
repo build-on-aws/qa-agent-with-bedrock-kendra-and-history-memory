@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 117
+summary: tag_name :Cross Industry, Industry, MGM Grand, Venue, Monday, Day, Generative AI, Area of Interest, Developer/Engineer, Role, AI/ML, Topic, Amazon Neptune, Services, Databases, Topic, 300 - Advanced, Level, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Innovation on AWS, Area of Interest, , speakers :firstName_0: Kelvin, lastName_0: Lawrence, , thirdpartyid :DAT305, sessionuid :2510A81F-C930-4BD2-B648-280B2FD155FD, title :Get started with Amazon Neptune, LLMs, and LangChain, description :Amazon Neptune is a fast, reliable, and fully managed graph database service that makes it easier to build and run applications that work with highly connected datasets. In this workshop, get hands-on experience and learn how to use LLMs and LangChain with Neptune graph notebooks to create and load a connected graph dataset. Also learn to use natural language to generate graph queries with openCypher and generate rich visualizations with your connected data. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 117, startdatetimeutc :November, 27 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 22:00:00 -0500
+locationname: Grand 117
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: Amazon Neptune is a fast, reliable, and fully managed graph database service that makes it easier to build and run applications that work with highly connected datasets. In this workshop, get hands-on experience and learn how to use LLMs and LangChain with Neptune graph notebooks to create and load a connected graph dataset. Also learn to use natural language to generate graph queries with openCypher and generate rich visualizations with your connected data. You must bring your laptop to participate
+title: Get started with Amazon Neptune, LLMs, and LangChain
+sessionuid: 2510A81F-C930-4BD2-B648-280B2FD155FD
+thirdpartyid: DAT305
+speakers: firstName_0: Kelvin, lastName_0: Lawrence
+tag_name: Cross Industry, Industry, MGM Grand, Venue, Monday, Day, Generative AI, Area of Interest, Developer/Engineer, Role, AI/ML, Topic, Amazon Neptune, Services, Databases, Topic, 300 - Advanced, Level, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Innovation on AWS, Area of Interest

@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Reef F
+summary: tag_name :Application Security, Area of Interest, AWS AppFabric, Services, System Administrator, Role, Cross Industry, Industry, IT Administrator, Role, Cloud Security Specialist, Role, Business Applications, Topic, Healthcare, Industry, Application Integration, Area of Interest, 200 - Intermediate, Level, Security, Compliance, & Identity, Topic, Monday, Day, Mandalay Bay, Venue, Financial Services, Industry, Amazon Security Lake, Services, , speakers :firstName_0: Anush, lastName_0: Jayaraman, company_0: Splunk, firstName_1: Tamar, lastName_1: Heyman, , thirdpartyid :BIZ213, sessionuid :F86357EA-B21A-452B-B78C-F8F9613CE32B, title :Improve SaaS application security observability with AWS AppFabric, description :The rise of software-as-a-service (SaaS) application adoption puts increased pressure on IT and security teams to continuously manage disparate data and point-to-point integrations. Inefficiencies multiply as data silos form and security complexities grow. Join this session to learn how AWS AppFabric automatically normalizes SaaS application data so security analysts can more easily ingest logs into their preferred security tool and enhance their security posture at reduced operational costs., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Reef F, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 27 2023 22:00:00 -0500, 
+enddatetimeutc: November, 27 2023 22:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: Reef F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: The rise of software-as-a-service (SaaS) application adoption puts increased pressure on IT and security teams to continuously manage disparate data and point-to-point integrations. Inefficiencies multiply as data silos form and security complexities grow. Join this session to learn how AWS AppFabric automatically normalizes SaaS application data so security analysts can more easily ingest logs into their preferred security tool and enhance their security posture at reduced operational costs
+title: Improve SaaS application security observability with AWS AppFabric
+sessionuid: F86357EA-B21A-452B-B78C-F8F9613CE32B
+thirdpartyid: BIZ213
+speakers: firstName_0: Anush, lastName_0: Jayaraman, company_0: Splunk, firstName_1: Tamar, lastName_1: Heyman
+tag_name: Application Security, Area of Interest, AWS AppFabric, Services, System Administrator, Role, Cross Industry, Industry, IT Administrator, Role, Cloud Security Specialist, Role, Business Applications, Topic, Healthcare, Industry, Application Integration, Area of Interest, 200 - Intermediate, Level, Security, Compliance, & Identity, Topic, Monday, Day, Mandalay Bay, Venue, Financial Services, Industry, Amazon Security Lake, Services

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 4
+summary: tag_name :AWS Systems Manager, Services, 300 - Advanced, Level, AWS Config, Services, Solution/Systems Architect, Role, Cloud Operations, Topic, Monday, Day, Wynn, Venue, Monitoring & Observability, Area of Interest, Management & Governance, Area of Interest, System Administrator, Role, DevOps Engineer, Role, Amazon CloudWatch, Services, , speakers :firstName_0: Rich, lastName_0: McDonough, firstName_1: Ellie, lastName_1: Tamari, firstName_2: Shane, lastName_2: Carter, company_2: Philips66, , thirdpartyid :COP324, sessionuid :6F66A7EB-C7A4-4EAB-A939-9E58F7FDF517, title :Centralize hybrid & multicloud management with AWS, description :Operating in a hybrid and multicloud environment may introduce operational complexity. In this session, learn how you can use services such as AWS Systems Manager, Amazon CloudWatch, and Amazon Managed Grafana to streamline, manage, and govern your hybrid and multicloud infrastructure and applications with AWS., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 4, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Lafite 4
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: Operating in a hybrid and multicloud environment may introduce operational complexity. In this session, learn how you can use services such as AWS Systems Manager, Amazon CloudWatch, and Amazon Managed Grafana to streamline, manage, and govern your hybrid and multicloud infrastructure and applications with AWS
+title: Centralize hybrid & multicloud management with AWS
+sessionuid: 6F66A7EB-C7A4-4EAB-A939-9E58F7FDF517
+thirdpartyid: COP324
+speakers: firstName_0: Rich, lastName_0: McDonough, firstName_1: Ellie, lastName_1: Tamari, firstName_2: Shane, lastName_2: Carter, company_2: Philips66
+tag_name: AWS Systems Manager, Services, 300 - Advanced, Level, AWS Config, Services, Solution/Systems Architect, Role, Cloud Operations, Topic, Monday, Day, Wynn, Venue, Monitoring & Observability, Area of Interest, Management & Governance, Area of Interest, System Administrator, Role, DevOps Engineer, Role, Amazon CloudWatch, Services

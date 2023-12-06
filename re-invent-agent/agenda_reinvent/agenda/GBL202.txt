@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, Islander G
+summary: tag_name :Generative AI, Area of Interest, Networking & Content Delivery, Topic, Global Infrastructure, Area of Interest, Cross Industry, Industry, IT Executive, Role, AI/ML, Topic, Business Executive, Role, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, Non-English, Area of Interest, Mandalay Bay, Venue, Monday, Day, Strategy & Transformation, Area of Interest, , speakers :firstName_0: Erik, lastName_0: Chen, firstName_1: Marco, lastName_1: Su, firstName_2: Xavier, lastName_2: WAng, , thirdpartyid :GBL202-CMN, sessionuid :98CF556E-5A8B-4866-A51A-BA18A7E58DB5, title :Learn about the latest ways AWS is reimagining the future [Mandarin Chinese], description :This session is delivered in Mandarin Chinese. Utilizing global strengths and acting locally, AWS China continues to help customers build digital businesses and reinvent traditional strategies. This session introduces the AWS China strategy, recaps the latest AWS re:Invent announcements, and offers AWS China experts’ perspectives on the value propositions of these announcements for China customers., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :Islander G, startdatetimeutc :November, 27 2023 20:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 20:00:00 -0500
+locationname: Islander G
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: This session is delivered in Mandarin Chinese. Utilizing global strengths and acting locally, AWS China continues to help customers build digital businesses and reinvent traditional strategies. This session introduces the AWS China strategy, recaps the latest AWS re:Invent announcements, and offers AWS China experts’ perspectives on the value propositions of these announcements for China customers
+title: Learn about the latest ways AWS is reimagining the future [Mandarin Chinese]
+sessionuid: 98CF556E-5A8B-4866-A51A-BA18A7E58DB5
+thirdpartyid: GBL202-CMN
+speakers: firstName_0: Erik, lastName_0: Chen, firstName_1: Marco, lastName_1: Su, firstName_2: Xavier, lastName_2: WAng
+tag_name: Generative AI, Area of Interest, Networking & Content Delivery, Topic, Global Infrastructure, Area of Interest, Cross Industry, Industry, IT Executive, Role, AI/ML, Topic, Business Executive, Role, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, Non-English, Area of Interest, Mandalay Bay, Venue, Monday, Day, Strategy & Transformation, Area of Interest

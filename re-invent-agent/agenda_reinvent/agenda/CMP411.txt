@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :DevOps Engineer, Role, 400 - Expert, Level, IT Professional/Technical Manager, Role, Wednesday, Day, Mandalay Bay, Venue, Compute, Topic, Developer/Engineer, Role, Migration & Transfer, Area of Interest, DevOps and Developer Productivity, Topic, Cross Industry, Industry, Amazon Elastic Compute Cloud (EC2), Services, , speakers :firstName_0: Gautham, lastName_0: Panth, firstName_1: Santosh, lastName_1: Kumar, , thirdpartyid :CMP411, sessionuid :F428B56C-E511-45B6-B923-4814ABCD3148, title :Optimize your CI/CD pipeline to accelerate AWS Graviton adoption, description :Adopting AWS Graviton–based instances has helped organizations optimize the price performance of their applications. A purposefully engineered CI/CD pipeline helps minimize friction in adopting Graviton instances. This chalk talk explores the changes you can make to your CI/CD pipeline and best practices to adopt Graviton with minimal friction., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: Adopting AWS Graviton–based instances has helped organizations optimize the price performance of their applications. A purposefully engineered CI/CD pipeline helps minimize friction in adopting Graviton instances. This chalk talk explores the changes you can make to your CI/CD pipeline and best practices to adopt Graviton with minimal friction
+title: Optimize your CI/CD pipeline to accelerate AWS Graviton adoption
+sessionuid: F428B56C-E511-45B6-B923-4814ABCD3148
+thirdpartyid: CMP411
+speakers: firstName_0: Gautham, lastName_0: Panth, firstName_1: Santosh, lastName_1: Kumar
+tag_name: DevOps Engineer, Role, 400 - Expert, Level, IT Professional/Technical Manager, Role, Wednesday, Day, Mandalay Bay, Venue, Compute, Topic, Developer/Engineer, Role, Migration & Transfer, Area of Interest, DevOps and Developer Productivity, Topic, Cross Industry, Industry, Amazon Elastic Compute Cloud (EC2), Services

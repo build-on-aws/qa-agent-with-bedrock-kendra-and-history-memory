@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Lagoon L
+summary: tag_name :DevOps Engineer, Role, DevOps and Developer Productivity, Topic, BuildOn.AWS, Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, Developer/Engineer, Role, AWS Lambda, Services, Training & Certification, Topic, Wednesday, Day, Mandalay Bay, Venue, Solution/Systems Architect, Role, Microsoft, Area of Interest, , speakers :firstName_0: Jesse, lastName_0: Toporowski, , thirdpartyid :TNC103, sessionuid :F8BE9CDD-F358-4B38-979F-10946FF166E6, title :.NET workloads on AWS Lambda, description :In this lab, learn how to deploy, modify, and invoke .NET applications in the AWS Cloud from an integrated development environment (IDE). The .NET projects covered make use of the AWS Lambda service for a serverless architecture., sessiontype :Lab, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Lagoon L, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Lagoon L
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Lab
+description: In this lab, learn how to deploy, modify, and invoke .NET applications in the AWS Cloud from an integrated development environment (IDE). The .NET projects covered make use of the AWS Lambda service for a serverless architecture
+title: .NET workloads on AWS Lambda
+sessionuid: F8BE9CDD-F358-4B38-979F-10946FF166E6
+thirdpartyid: TNC103
+speakers: firstName_0: Jesse, lastName_0: Toporowski
+tag_name: DevOps Engineer, Role, DevOps and Developer Productivity, Topic, BuildOn.AWS, Area of Interest, Cross Industry, Industry, 100 - Foundational, Level, Developer/Engineer, Role, AWS Lambda, Services, Training & Certification, Topic, Wednesday, Day, Mandalay Bay, Venue, Solution/Systems Architect, Role, Microsoft, Area of Interest

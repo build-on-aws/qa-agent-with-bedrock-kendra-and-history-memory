@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 101
+summary: tag_name :300 - Advanced, Level, IT Executive, Role, Cross Industry, Industry, Well-Architected Framework, Area of Interest, Advisor/Consultant, Role, Security, Compliance, & Identity, Topic, Monday, Day, Caesars Forum, Venue, Developer/Engineer, Role, , speakers :firstName_0: Thanh, lastName_0: Nguyen, firstName_1: Liam, lastName_1: Schneider, , thirdpartyid :SEC319-R, sessionuid :AC35178D-9123-4402-898C-BB1B4B034150, title :Enhance cloud security: Using AWS SRA with Terraform [REPEAT], description :Optimal security is a cornerstone of successful cloud operations. In this chalk talk, delve into using the AWS Security Reference Architecture (AWS SRA), a powerful tool designed to help you enhance cloud security, with Terraform. Learn how AWS SRA, with its preconfigured controls, provides an efficient solution for businesses with limited resources or security expertise. Examine the architectural aspects of deploying the AWS SRA code library using Terraform for infrastructure as code, and explore cloud security management with a demo of AWS SRA and Terraform. Learn how to bolster your cloud security strategies effectively., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 101, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 19:30:00 -0500, 
+enddatetimeutc: November, 27 2023 19:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: Forum 101
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Optimal security is a cornerstone of successful cloud operations. In this chalk talk, delve into using the AWS Security Reference Architecture (AWS SRA), a powerful tool designed to help you enhance cloud security, with Terraform. Learn how AWS SRA, with its preconfigured controls, provides an efficient solution for businesses with limited resources or security expertise. Examine the architectural aspects of deploying the AWS SRA code library using Terraform for infrastructure as code, and explore cloud security management with a demo of AWS SRA and Terraform. Learn how to bolster your cloud security strategies effectively
+title: Enhance cloud security: Using AWS SRA with Terraform [REPEAT]
+sessionuid: AC35178D-9123-4402-898C-BB1B4B034150
+thirdpartyid: SEC319-R
+speakers: firstName_0: Thanh, lastName_0: Nguyen, firstName_1: Liam, lastName_1: Schneider
+tag_name: 300 - Advanced, Level, IT Executive, Role, Cross Industry, Industry, Well-Architected Framework, Area of Interest, Advisor/Consultant, Role, Security, Compliance, & Identity, Topic, Monday, Day, Caesars Forum, Venue, Developer/Engineer, Role

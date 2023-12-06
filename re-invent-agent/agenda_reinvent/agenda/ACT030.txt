@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, Banyan CD
+summary: tag_name :Mandalay Bay, Venue, Wednesday, Day, Happy Hour/Reception, Additional Services, , speakers :, thirdpartyid :ACT030, sessionuid :CEAA5292-2F8E-4D69-A821-CF1BA786DC8C, title :Paint and sip, description :Join fellow re:Invent attendees for a fun painting experience. Talented instructors show you step-by-step how to take a blank canvas and turn it into your very own masterpiece., sessiontype :Community Activities, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :Banyan CD, startdatetimeutc :November, 30 2023 02:00:00 -0500, enddatetimeutc :November, 30 2023 03:30:00 -0500, 
+enddatetimeutc: November, 30 2023 03:30:00 -0500
+startdatetimeutc: November, 30 2023 02:00:00 -0500
+locationname: Banyan CD
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Community Activities
+description: Join fellow re:Invent attendees for a fun painting experience. Talented instructors show you step-by-step how to take a blank canvas and turn it into your very own masterpiece
+title: Paint and sip
+sessionuid: CEAA5292-2F8E-4D69-A821-CF1BA786DC8C
+thirdpartyid: ACT030
+speakers: 
+tag_name: Mandalay Bay, Venue, Wednesday, Day, Happy Hour/Reception, Additional Services

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Mouton 2
+summary: tag_name :Analytics, Topic, Data Engineer, Role, Amazon Aurora, Services, Business Intelligence, Area of Interest, Application Integration, Area of Interest, Databases, Topic, IT Professional/Technical Manager, Role, Wednesday, Day, Wynn, Venue, Amazon RedShift, Services, 300 - Advanced, Level, Data Scientist, Role, , speakers :firstName_0: Natasha, lastName_0: McCann, firstName_1: Rohit, lastName_1: Vashishtha, , thirdpartyid :ANT307, sessionuid :8CA9E72F-682F-4E98-B155-53FD9326171D, title :Connect and analyze all your data with zero-ETL approaches, description :<p>Unifying your data is a key first step to get to analytics and machine learning insights. But, it can be challenging to build custom data management pipelines and code to prepare your data for analytics. In this workshop, learn how AWS integrates data services so that data flows from one system to another virtually seamlessly. Learn how to perform analytics and machine learning without moving or transforming data from your databases, data lakes, or third-party data storage. This workshop covers Amazon Aurora zero-ETL to Amazon Redshift, a federated query to data in your Amazon S3 data lake, Amazon Redshift ML, and automatic streaming ingestion. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Wynn, floorplanname :Level 1, locationname :Mouton 2, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Mouton 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Workshop
+description: <p>Unifying your data is a key first step to get to analytics and machine learning insights. But, it can be challenging to build custom data management pipelines and code to prepare your data for analytics. In this workshop, learn how AWS integrates data services so that data flows from one system to another virtually seamlessly. Learn how to perform analytics and machine learning without moving or transforming data from your databases, data lakes, or third-party data storage. This workshop covers Amazon Aurora zero-ETL to Amazon Redshift, a federated query to data in your Amazon S3 data lake, Amazon Redshift ML, and automatic streaming ingestion. You must bring your laptop to participate.</p>
+title: Connect and analyze all your data with zero-ETL approaches
+sessionuid: 8CA9E72F-682F-4E98-B155-53FD9326171D
+thirdpartyid: ANT307
+speakers: firstName_0: Natasha, lastName_0: McCann, firstName_1: Rohit, lastName_1: Vashishtha
+tag_name: Analytics, Topic, Data Engineer, Role, Amazon Aurora, Services, Business Intelligence, Area of Interest, Application Integration, Area of Interest, Databases, Topic, IT Professional/Technical Manager, Role, Wednesday, Day, Wynn, Venue, Amazon RedShift, Services, 300 - Advanced, Level, Data Scientist, Role

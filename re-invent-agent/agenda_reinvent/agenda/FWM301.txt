@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 312
+summary: tag_name :Front-End Web & Mobile, Area of Interest, 300 - Advanced, Level, DevOps and Developer Productivity, Topic, AWS AppSync, Services, Developer/Engineer, Role, Wednesday, Day, MGM Grand, Venue, AWS Amplify, Services, , speakers :firstName_0: Adrianna, lastName_0: Kurzela, firstName_1: Kim, lastName_1: Wendt, , thirdpartyid :FWM301-R, sessionuid :FF607A81-690D-4F9B-90E5-C4F32691B708, title :Building GraphQL and WebSockets APIs with AWS AppSync [REPEAT], description :<p>In this workshop, discover the functionality of AWS AppSync, a fully managed service that makes it easy to develop GraphQL APIs by handling the heavy lifting of securely connecting to data sources like Amazon DynamoDB, AWS Lambda, and more. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 312, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 18:30:00 -0500, 
+enddatetimeutc: November, 29 2023 18:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: Premier 312
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>In this workshop, discover the functionality of AWS AppSync, a fully managed service that makes it easy to develop GraphQL APIs by handling the heavy lifting of securely connecting to data sources like Amazon DynamoDB, AWS Lambda, and more. You must bring your laptop to participate.</p>
+title: Building GraphQL and WebSockets APIs with AWS AppSync [REPEAT]
+sessionuid: FF607A81-690D-4F9B-90E5-C4F32691B708
+thirdpartyid: FWM301-R
+speakers: firstName_0: Adrianna, lastName_0: Kurzela, firstName_1: Kim, lastName_1: Wendt
+tag_name: Front-End Web & Mobile, Area of Interest, 300 - Advanced, Level, DevOps and Developer Productivity, Topic, AWS AppSync, Services, Developer/Engineer, Role, Wednesday, Day, MGM Grand, Venue, AWS Amplify, Services

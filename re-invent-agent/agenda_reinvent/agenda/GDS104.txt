@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :Wednesday, Day, Venetian, Venue, Cloud Operations, Topic, 100 - Foundational, Level, , speakers :firstName_0: Jorge, lastName_0: Lobo, , thirdpartyid :GDS104, sessionuid :B678FA0E-01FE-46D0-B62A-9770F6A37404, title :CFM (FinOps) assessment: Building a roadmap for financial success, description :<p>This lightning talk combines assessment and strategic planning to help you create a comprehensive Cloud Financial Management (FinOps) roadmap. Be part of a guided CFM assessment process designed to evaluate your organization's current practices. Discover how to identify areas of improvement and uncover actionable insights that can drive cost-optimization and financial success. Through hands-on exercises and collaborative discussions, learn to use the assessment results to develop a tailored CFM roadmap that aligns with your organization’s goals. Leave this talk equipped with a clear action plan and the knowledge to propel your CFM journey toward excellence.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 01:50:00 -0500, 
+enddatetimeutc: November, 30 2023 01:50:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>This lightning talk combines assessment and strategic planning to help you create a comprehensive Cloud Financial Management (FinOps) roadmap. Be part of a guided CFM assessment process designed to evaluate your organization's current practices. Discover how to identify areas of improvement and uncover actionable insights that can drive cost-optimization and financial success. Through hands-on exercises and collaborative discussions, learn to use the assessment results to develop a tailored CFM roadmap that aligns with your organization’s goals. Leave this talk equipped with a clear action plan and the knowledge to propel your CFM journey toward excellence.</p>
+title: CFM (FinOps) assessment: Building a roadmap for financial success
+sessionuid: B678FA0E-01FE-46D0-B62A-9770F6A37404
+thirdpartyid: GDS104
+speakers: firstName_0: Jorge, lastName_0: Lobo
+tag_name: Wednesday, Day, Venetian, Venue, Cloud Operations, Topic, 100 - Foundational, Level

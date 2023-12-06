@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 104
+summary: tag_name :AI/ML, Topic, Customer Enablement, Topic, Customer Stories, Area of Interest, Innovation on AWS, Area of Interest, Media & Entertainment, Industry, Sports, Industry, 200 - Intermediate, Level, Business Executive, Role, Data Scientist, Role, Developer/Engineer, Role, Amazon QuickSight, Services, Monday, Day, MGM Grand, Venue, , speakers :firstName_0: Jess, lastName_0: Corones, company_0: Swimming Australia, firstName_1: Paul, lastName_1: Devlin, , thirdpartyid :SPT204, sessionuid :1DA6D1B0-D46C-46C2-97A4-E5D1D9FD3314, title :Swimming Australia’s pursuit of gold with data and AWS, description :<p>Take a deep dive into how AWS helped Swimming Australia become an innovative leader in Olympic sports. Hear how and why they aggregated their data into an AWS data lake, surfaced data insights for coaches using Amazon QuickSight, built a machine learning (ML) model to predict relay swim order at Tokyo, and developed an artificial intelligence and ML–based camera tracking system for their High Performance Centres using AWS Panorama devices with AWS Professional Services.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :104, startdatetimeutc :November, 27 2023 18:30:00 -0500, enddatetimeutc :November, 27 2023 19:30:00 -0500, 
+enddatetimeutc: November, 27 2023 19:30:00 -0500
+startdatetimeutc: November, 27 2023 18:30:00 -0500
+locationname: 104
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Take a deep dive into how AWS helped Swimming Australia become an innovative leader in Olympic sports. Hear how and why they aggregated their data into an AWS data lake, surfaced data insights for coaches using Amazon QuickSight, built a machine learning (ML) model to predict relay swim order at Tokyo, and developed an artificial intelligence and ML–based camera tracking system for their High Performance Centres using AWS Panorama devices with AWS Professional Services.</p>
+title: Swimming Australia’s pursuit of gold with data and AWS
+sessionuid: 1DA6D1B0-D46C-46C2-97A4-E5D1D9FD3314
+thirdpartyid: SPT204
+speakers: firstName_0: Jess, lastName_0: Corones, company_0: Swimming Australia, firstName_1: Paul, lastName_1: Devlin
+tag_name: AI/ML, Topic, Customer Enablement, Topic, Customer Stories, Area of Interest, Innovation on AWS, Area of Interest, Media & Entertainment, Industry, Sports, Industry, 200 - Intermediate, Level, Business Executive, Role, Data Scientist, Role, Developer/Engineer, Role, Amazon QuickSight, Services, Monday, Day, MGM Grand, Venue

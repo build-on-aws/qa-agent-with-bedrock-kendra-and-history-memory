@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 305
+summary: tag_name :System Administrator, Role, AWS Service Catalog, Services, 300 - Advanced, Level, Wednesday, Day, Caesars Forum, Venue, IT Professional/Technical Manager, Role, Management & Governance, Area of Interest, Solution/Systems Architect, Role, AWS Systems Manager, Services, Cloud Operations, Topic, , speakers :firstName_0: Ed, lastName_0: Mahlum, firstName_1: Jon, lastName_1: Galentine, , thirdpartyid :COP334, sessionuid :57E612BE-292A-43D5-A7A2-3C3557765A3D, title :Simplify application management for operational excellence, description :Monitoring and supporting multiple applications across multiple services can be challenging for operations teams as applications evolve and grow. In this chalk talk, dive deep with AWS experts to learn how to maintain operational excellence across applications using AWS Service Catalog AppRegistry and Application Manager, a capability of AWS Systems Manager. Learn how to define applications in the AWS Cloud, and explore how to take operational actions on those applications to address and remediate issues related to compliance, cost, and performance., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 305, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Alliance 305
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Monitoring and supporting multiple applications across multiple services can be challenging for operations teams as applications evolve and grow. In this chalk talk, dive deep with AWS experts to learn how to maintain operational excellence across applications using AWS Service Catalog AppRegistry and Application Manager, a capability of AWS Systems Manager. Learn how to define applications in the AWS Cloud, and explore how to take operational actions on those applications to address and remediate issues related to compliance, cost, and performance
+title: Simplify application management for operational excellence
+sessionuid: 57E612BE-292A-43D5-A7A2-3C3557765A3D
+thirdpartyid: COP334
+speakers: firstName_0: Ed, lastName_0: Mahlum, firstName_1: Jon, lastName_1: Galentine
+tag_name: System Administrator, Role, AWS Service Catalog, Services, 300 - Advanced, Level, Wednesday, Day, Caesars Forum, Venue, IT Professional/Technical Manager, Role, Management & Governance, Area of Interest, Solution/Systems Architect, Role, AWS Systems Manager, Services, Cloud Operations, Topic

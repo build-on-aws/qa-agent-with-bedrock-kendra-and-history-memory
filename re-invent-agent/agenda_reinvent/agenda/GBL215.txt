@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Tuesday, Day, Venetian, Venue, AI/ML, Topic, Serverless Compute, Topic, Generative AI, Area of Interest, Non-English, Area of Interest, Strategy & Transformation, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Data Engineer, Role, Data Scientist, Role, Developer/Engineer, Role, Amazon Bedrock, Services, Amazon QuickSight, Services, Amazon SageMaker, Services, , speakers :firstName_0: David, lastName_0: Laredo, , thirdpartyid :GBL215-ES, sessionuid :5FBCBF3D-68F7-4470-9CE8-7F1A703B4C56, title :Boost your customer service with serverless and generative AI [Spanish], description :<p>This lightning talk is delivered in Spanish. Discover how social media can be a plentiful source of insights for your brand. In this lightning talk, discover the power of generative language models to analyze real-time interactions. Learn to extract topics, sentiments, locations, and key entities from your customers. It’s not just about reacting to incidents but about proactively offering unparalleled customer service. Don’t miss this unique opportunity to take your brand’s social media monitoring to the next level.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :November, 29 2023 00:30:00 -0500, enddatetimeutc :November, 29 2023 00:50:00 -0500, 
+enddatetimeutc: November, 29 2023 00:50:00 -0500
+startdatetimeutc: November, 29 2023 00:30:00 -0500
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>This lightning talk is delivered in Spanish. Discover how social media can be a plentiful source of insights for your brand. In this lightning talk, discover the power of generative language models to analyze real-time interactions. Learn to extract topics, sentiments, locations, and key entities from your customers. It’s not just about reacting to incidents but about proactively offering unparalleled customer service. Don’t miss this unique opportunity to take your brand’s social media monitoring to the next level.</p>
+title: Boost your customer service with serverless and generative AI [Spanish]
+sessionuid: 5FBCBF3D-68F7-4470-9CE8-7F1A703B4C56
+thirdpartyid: GBL215-ES
+speakers: firstName_0: David, lastName_0: Laredo
+tag_name: Tuesday, Day, Venetian, Venue, AI/ML, Topic, Serverless Compute, Topic, Generative AI, Area of Interest, Non-English, Area of Interest, Strategy & Transformation, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Data Engineer, Role, Data Scientist, Role, Developer/Engineer, Role, Amazon Bedrock, Services, Amazon QuickSight, Services, Amazon SageMaker, Services

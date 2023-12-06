@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 7
+summary: tag_name :Monday, Day, Wynn, Venue, Analytics, Topic, Modernization, Area of Interest, Advertising & Marketing, Industry, Media & Entertainment, Industry, 200 - Intermediate, Level, Advisor/Consultant, Role, Business Executive, Role, IT Executive, Role, AWS Clean Rooms, Services, , speakers :firstName_0: Georgia, lastName_0: Borghesi, firstName_1: Ryan, lastName_1: McConville, company_1: NBC Universal, , thirdpartyid :MAE205, sessionuid :F77B2504-9585-46DB-A645-8EA95D76FB07, title :NBCUniversal drives media effectiveness through modernized TV, description :<p>Changes in consumer behavior, fragmentation of media across new and existing platforms, and increased focus on measurable outcomes have led to growing complexity across the advertising ecosystem. With One Platform, NBCUniversal has been on a journey to build a video platform that combines the power of professionally produced, culture-defining content with the benefits of best-in-class media technology. In this session, NBCUniversal shares learnings from their One Platform journey and walks through examples of how they’ve collaborated with AWS to create solutions so their advertising customers can reach the right consumers wherever they are—effectively, efficiently, and at scale.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 7, startdatetimeutc :November, 27 2023 21:30:00 -0500, enddatetimeutc :November, 27 2023 22:30:00 -0500, 
+enddatetimeutc: November, 27 2023 22:30:00 -0500
+startdatetimeutc: November, 27 2023 21:30:00 -0500
+locationname: Cristal 7
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: standard
+description: <p>Changes in consumer behavior, fragmentation of media across new and existing platforms, and increased focus on measurable outcomes have led to growing complexity across the advertising ecosystem. With One Platform, NBCUniversal has been on a journey to build a video platform that combines the power of professionally produced, culture-defining content with the benefits of best-in-class media technology. In this session, NBCUniversal shares learnings from their One Platform journey and walks through examples of how they’ve collaborated with AWS to create solutions so their advertising customers can reach the right consumers wherever they are—effectively, efficiently, and at scale.</p>
+title: NBCUniversal drives media effectiveness through modernized TV
+sessionuid: F77B2504-9585-46DB-A645-8EA95D76FB07
+thirdpartyid: MAE205
+speakers: firstName_0: Georgia, lastName_0: Borghesi, firstName_1: Ryan, lastName_1: McConville, company_1: NBC Universal
+tag_name: Monday, Day, Wynn, Venue, Analytics, Topic, Modernization, Area of Interest, Advertising & Marketing, Industry, Media & Entertainment, Industry, 200 - Intermediate, Level, Advisor/Consultant, Role, Business Executive, Role, IT Executive, Role, AWS Clean Rooms, Services

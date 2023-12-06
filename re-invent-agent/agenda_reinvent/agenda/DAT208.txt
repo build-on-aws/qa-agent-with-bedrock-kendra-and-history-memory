@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Amazon Neptune, Services, Innovation on AWS, Area of Interest, Developer/Engineer, Role, Tuesday, Day, Venetian, Venue, Solution/Systems Architect, Role, Databases, Topic, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, Generative AI, Area of Interest, Cross Industry, Industry, , speakers :firstName_0: Umit, lastName_0: Catalyurek, , thirdpartyid :DAT208, sessionuid :FC388299-1630-44F8-BB71-F648A8C69E73, title :Amazon Neptune: New features for next-generation graph applications, description :Amazon Neptune is used by AWS customers to run high-throughput, low-latency graph-based applications with virtually unlimited relationships. In this follow-up demonstration to DAT325, see how the latest Neptune innovations enable next-generation graph-based applications and new use cases., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Amazon Neptune is used by AWS customers to run high-throughput, low-latency graph-based applications with virtually unlimited relationships. In this follow-up demonstration to DAT325, see how the latest Neptune innovations enable next-generation graph-based applications and new use cases
+title: Amazon Neptune: New features for next-generation graph applications
+sessionuid: FC388299-1630-44F8-BB71-F648A8C69E73
+thirdpartyid: DAT208
+speakers: firstName_0: Umit, lastName_0: Catalyurek
+tag_name: Amazon Neptune, Services, Innovation on AWS, Area of Interest, Developer/Engineer, Role, Tuesday, Day, Venetian, Venue, Solution/Systems Architect, Role, Databases, Topic, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, Generative AI, Area of Interest, Cross Industry, Industry

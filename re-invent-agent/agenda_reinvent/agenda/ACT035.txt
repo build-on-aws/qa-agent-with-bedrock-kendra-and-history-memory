@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Canaletto
+summary: tag_name :Tuesday, Day, Venetian, Venue, Happy Hour/Reception, Additional Services, , speakers :, thirdpartyid :ACT035, sessionuid :D24DE7A3-76F4-4A64-8D1C-01DA9D33FDF1, title :EPYC to the Core networking reception, description :<p>Join AMD for EPYC to the Core, an official AWS re:Invent networking reception! It’s a cloud-based world, and 4th Gen AMD EPYC processors are delivering accelerated business results and improving overall efficiency for our latest instances available on Amazon EC2. Don’t miss an opportunity to connect and relax with AMD executives, subject matter experts, and fellow attendees where you can chat about the benefits of AMD-based solutions for your most demanding workloads and indulge in great food, refreshing drinks, and amazing music.</p>, sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Canaletto, startdatetimeutc :November, 29 2023 02:00:00 -0500, enddatetimeutc :November, 29 2023 04:00:00 -0500, 
+enddatetimeutc: November, 29 2023 04:00:00 -0500
+startdatetimeutc: November, 29 2023 02:00:00 -0500
+locationname: Canaletto
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: <p>Join AMD for EPYC to the Core, an official AWS re:Invent networking reception! It’s a cloud-based world, and 4th Gen AMD EPYC processors are delivering accelerated business results and improving overall efficiency for our latest instances available on Amazon EC2. Don’t miss an opportunity to connect and relax with AMD executives, subject matter experts, and fellow attendees where you can chat about the benefits of AMD-based solutions for your most demanding workloads and indulge in great food, refreshing drinks, and amazing music.</p>
+title: EPYC to the Core networking reception
+sessionuid: D24DE7A3-76F4-4A64-8D1C-01DA9D33FDF1
+thirdpartyid: ACT035
+speakers: 
+tag_name: Tuesday, Day, Venetian, Venue, Happy Hour/Reception, Additional Services

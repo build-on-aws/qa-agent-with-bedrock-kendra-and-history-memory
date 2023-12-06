@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 355
+summary: tag_name :Architecture, Topic, AWS Community, Area of Interest, Well-Architected Framework, Area of Interest, Advisor/Consultant, Role, IT Executive, Role, Solution/Systems Architect, Role, Cross Industry, Industry, AWS re:Post, Services, AWS Support, Services, 200 - Intermediate, Level, Monday, Day, MGM Grand, Venue, , speakers :firstName_0: John, lastName_0: Bell, , thirdpartyid :ARC207, sessionuid :7B809402-806D-4069-B1C6-60B8EA95F503, title :Scale organizational cloud knowledge & improve builder productivity, description :Organizations of all sizes are building on and migrating to the cloud. Leaders at startups, enterprises, and government agencies need new ways to equip their builders with training on cloud concepts and to drive collaboration with AWS teams to define and carry out their cloud strategies at scale. Hybrid work continues to be an important work approach for many enterprises, which has led to an increased need to help employees remain productive. In this session, learn mechanisms for organizations to scale their cloud knowledge and improve builder productivity and efficiency. The mechanisms include knowledge management best practices and using technical communities., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 355, startdatetimeutc :November, 28 2023 00:00:00 -0500, enddatetimeutc :November, 28 2023 01:00:00 -0500, 
+enddatetimeutc: November, 28 2023 01:00:00 -0500
+startdatetimeutc: November, 28 2023 00:00:00 -0500
+locationname: Chairmans 355
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Organizations of all sizes are building on and migrating to the cloud. Leaders at startups, enterprises, and government agencies need new ways to equip their builders with training on cloud concepts and to drive collaboration with AWS teams to define and carry out their cloud strategies at scale. Hybrid work continues to be an important work approach for many enterprises, which has led to an increased need to help employees remain productive. In this session, learn mechanisms for organizations to scale their cloud knowledge and improve builder productivity and efficiency. The mechanisms include knowledge management best practices and using technical communities
+title: Scale organizational cloud knowledge & improve builder productivity
+sessionuid: 7B809402-806D-4069-B1C6-60B8EA95F503
+thirdpartyid: ARC207
+speakers: firstName_0: John, lastName_0: Bell
+tag_name: Architecture, Topic, AWS Community, Area of Interest, Well-Architected Framework, Area of Interest, Advisor/Consultant, Role, IT Executive, Role, Solution/Systems Architect, Role, Cross Industry, Industry, AWS re:Post, Services, AWS Support, Services, 200 - Intermediate, Level, Monday, Day, MGM Grand, Venue

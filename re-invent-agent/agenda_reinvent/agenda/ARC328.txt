@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 304
+summary: tag_name :Resilience, Area of Interest, Cross Industry, Industry, DevOps Engineer, Role, Developer/Engineer, Role, Amazon DynamoDB, Services, Architecture, Topic, Amazon Simple Storage Service (S3), Services, Thursday, Day, MGM Grand, Venue, 300 - Advanced, Level, Solution/Systems Architect, Role, Amazon Aurora, Services, Global Infrastructure, Area of Interest, , speakers :firstName_0: Clark, lastName_0: Richey, firstName_1: Hemal, lastName_1: Gadhiya, , thirdpartyid :ARC328, sessionuid :C6248856-1925-498A-8527-1A7F770E37BD, title :Verifying consistency with asynchronous data replication, description :The cross-Region data replication capabilities of databases such as Amazon DynamoDB and Amazon Aurora are a critical component of many multi-Region architectures. While this replication allows critical applications to achieve short recovery point objective and recovery time objective goals, the asynchronous nature of the data replication can pose a challenge during a failover from the primary Region to the secondary Region. In this chalk talk, explore the challenges inherent in asynchronous data replication and a sample architecture that provides the ability to verify the consistency of your data during an unplanned failover event., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :304, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: 304
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: The cross-Region data replication capabilities of databases such as Amazon DynamoDB and Amazon Aurora are a critical component of many multi-Region architectures. While this replication allows critical applications to achieve short recovery point objective and recovery time objective goals, the asynchronous nature of the data replication can pose a challenge during a failover from the primary Region to the secondary Region. In this chalk talk, explore the challenges inherent in asynchronous data replication and a sample architecture that provides the ability to verify the consistency of your data during an unplanned failover event
+title: Verifying consistency with asynchronous data replication
+sessionuid: C6248856-1925-498A-8527-1A7F770E37BD
+thirdpartyid: ARC328
+speakers: firstName_0: Clark, lastName_0: Richey, firstName_1: Hemal, lastName_1: Gadhiya
+tag_name: Resilience, Area of Interest, Cross Industry, Industry, DevOps Engineer, Role, Developer/Engineer, Role, Amazon DynamoDB, Services, Architecture, Topic, Amazon Simple Storage Service (S3), Services, Thursday, Day, MGM Grand, Venue, 300 - Advanced, Level, Solution/Systems Architect, Role, Amazon Aurora, Services, Global Infrastructure, Area of Interest

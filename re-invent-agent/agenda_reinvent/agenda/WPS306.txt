@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 108
+summary: tag_name :AI/ML, Topic, Data Protection, Area of Interest, Management & Governance, Area of Interest, Government, Industry, Cross Industry, Industry, 300 - Advanced, Level, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Henry, lastName_0: Jia, firstName_1: Kwadwo, lastName_1: Ankrah-Kusi, , thirdpartyid :WPS306-R, sessionuid :A9C6564D-47D6-43E1-9761-35DA1D61E753, title :Responsible machine learning in the era of generative AI [REPEAT], description :<p>Explore the intricacies of crafting responsible ML architectures in the age of generative AI and foundational models. This chalk talk delves into key questions: How can we counteract bias? What strategies can be employed to establish safety measures? How can we ensure compliance in ML operations? This topic is crucial for public sector organizations with stringent demands on privacy, security, lineage tracking, and reproducibility. This talk guides you through the process of constructing ML systems, prioritizing compliance, data privacy, and ethical AI. Leave this talk equipped with a robust understanding of AWS tools and industry-leading strategies for effective ML governance.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 108, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Forum 108
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Explore the intricacies of crafting responsible ML architectures in the age of generative AI and foundational models. This chalk talk delves into key questions: How can we counteract bias? What strategies can be employed to establish safety measures? How can we ensure compliance in ML operations? This topic is crucial for public sector organizations with stringent demands on privacy, security, lineage tracking, and reproducibility. This talk guides you through the process of constructing ML systems, prioritizing compliance, data privacy, and ethical AI. Leave this talk equipped with a robust understanding of AWS tools and industry-leading strategies for effective ML governance.</p>
+title: Responsible machine learning in the era of generative AI [REPEAT]
+sessionuid: A9C6564D-47D6-43E1-9761-35DA1D61E753
+thirdpartyid: WPS306-R
+speakers: firstName_0: Henry, lastName_0: Jia, firstName_1: Kwadwo, lastName_1: Ankrah-Kusi
+tag_name: AI/ML, Topic, Data Protection, Area of Interest, Management & Governance, Area of Interest, Government, Industry, Cross Industry, Industry, 300 - Advanced, Level, Wednesday, Day, Caesars Forum, Venue

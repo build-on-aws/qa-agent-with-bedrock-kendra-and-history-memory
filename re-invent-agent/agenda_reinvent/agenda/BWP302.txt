@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 364
+summary: tag_name :300 - Advanced, Level, AWS Cloud Development Kit (CDK), Services, Global Infrastructure, Area of Interest, Amazon CloudWatch, Services, Application Security, Area of Interest, Solution/Systems Architect, Role, Wednesday, Day, MGM Grand, Venue, Retail, Industry, Architecture, Topic, Cross Industry, Industry, Enterprise & Migration, Topic, Monitoring & Observability, Area of Interest, , speakers :firstName_0: Joseph, lastName_0: Decena, company_0: Amazon, firstName_1: Madhav, lastName_1: Gupta, company_1: Amazon, firstName_2: Stephen, lastName_2: Godderidge, company_2: Amazon, , thirdpartyid :BWP302, sessionuid :7BD51C54-2127-409F-8FD8-2BB5F2E88C25, title :Construct your constructs: Use AWS CDK to create architecture at scale, description :Learn how to rapidly scale your organization’s cloud strategy with AWS CDK. Hear the story of how Amazon’s Buy with Prime created secure-by-default CDK components to provide engineers with the building blocks needed to create incredibly secure and extensible ecommerce systems, cutting down on costs, delivery time, and overhead., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 364, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Chairmans 364
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Learn how to rapidly scale your organization’s cloud strategy with AWS CDK. Hear the story of how Amazon’s Buy with Prime created secure-by-default CDK components to provide engineers with the building blocks needed to create incredibly secure and extensible ecommerce systems, cutting down on costs, delivery time, and overhead
+title: Construct your constructs: Use AWS CDK to create architecture at scale
+sessionuid: 7BD51C54-2127-409F-8FD8-2BB5F2E88C25
+thirdpartyid: BWP302
+speakers: firstName_0: Joseph, lastName_0: Decena, company_0: Amazon, firstName_1: Madhav, lastName_1: Gupta, company_1: Amazon, firstName_2: Stephen, lastName_2: Godderidge, company_2: Amazon
+tag_name: 300 - Advanced, Level, AWS Cloud Development Kit (CDK), Services, Global Infrastructure, Area of Interest, Amazon CloudWatch, Services, Application Security, Area of Interest, Solution/Systems Architect, Role, Wednesday, Day, MGM Grand, Venue, Retail, Industry, Architecture, Topic, Cross Industry, Industry, Enterprise & Migration, Topic, Monitoring & Observability, Area of Interest

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 101
+summary: tag_name :Cross Industry, Industry, Solution/Systems Architect, Role, AWS Config, Services, Resilience, Area of Interest, AWS Billing and Cost Management, Services, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Cloud Operations, Topic, Cost Optimization, Area of Interest, Tuesday, Day, MGM Grand, Venue, Architecture, Topic, Developer/Engineer, Role, Management & Governance, Area of Interest, , speakers :firstName_0: Courtney, lastName_0: Waugh, firstName_1: Duncan, lastName_1: Bell, , thirdpartyid :ARC215, sessionuid :517ACA4B-3F87-4521-85EB-06E2D5A4DB36, title :Tagging strategies to align with AWS Well-Architected best practices, description :In this chalk talk, explore strategies for defining your tagging strategy to align with your business needs and multiple aspects of AWS Well-Architected best practices. Learn how tags can help you save money and improve security and resilience. Explore approaches to managing tagging dictionaries across an enterprise and managing changes to tagging approaches over time., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :101, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: 101
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: In this chalk talk, explore strategies for defining your tagging strategy to align with your business needs and multiple aspects of AWS Well-Architected best practices. Learn how tags can help you save money and improve security and resilience. Explore approaches to managing tagging dictionaries across an enterprise and managing changes to tagging approaches over time
+title: Tagging strategies to align with AWS Well-Architected best practices
+sessionuid: 517ACA4B-3F87-4521-85EB-06E2D5A4DB36
+thirdpartyid: ARC215
+speakers: firstName_0: Courtney, lastName_0: Waugh, firstName_1: Duncan, lastName_1: Bell
+tag_name: Cross Industry, Industry, Solution/Systems Architect, Role, AWS Config, Services, Resilience, Area of Interest, AWS Billing and Cost Management, Services, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Cloud Operations, Topic, Cost Optimization, Area of Interest, Tuesday, Day, MGM Grand, Venue, Architecture, Topic, Developer/Engineer, Role, Management & Governance, Area of Interest

@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific D
+summary: tag_name :Amazon Cognito, Services, 300 - Advanced, Level, Security, Compliance, & Identity, Topic, Thursday, Day, Mandalay Bay, Venue, Amazon Verified Permissions, Services, , speakers :firstName_0: Mahmoud, lastName_0: Matouk, firstName_1: Harvinder, lastName_1: Nagpal, , thirdpartyid :SEC322, sessionuid :33564512-8DD2-4F5A-97BB-4C16A30C50F2, title :Integrate apps with Amazon Cognito and Amazon Verified Permissions, description :Authentication and authorization are core components in almost every application. Amazon Cognito allows developers to add authentication and user management to their applications, while Amazon Verified Permissions adds authorization to these applications. There are several methods and patterns to consider when integrating your applications with Amazon Cognito and Verified Permissions, and many users find it challenging to decide which integration pattern to choose and how to get started. Join this chalk talk to learn about available options, explore examples of integrations using various SDKs, and consider a comparison method to help you choose the best approach for your application., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific D, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: South Pacific D
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: Authentication and authorization are core components in almost every application. Amazon Cognito allows developers to add authentication and user management to their applications, while Amazon Verified Permissions adds authorization to these applications. There are several methods and patterns to consider when integrating your applications with Amazon Cognito and Verified Permissions, and many users find it challenging to decide which integration pattern to choose and how to get started. Join this chalk talk to learn about available options, explore examples of integrations using various SDKs, and consider a comparison method to help you choose the best approach for your application
+title: Integrate apps with Amazon Cognito and Amazon Verified Permissions
+sessionuid: 33564512-8DD2-4F5A-97BB-4C16A30C50F2
+thirdpartyid: SEC322
+speakers: firstName_0: Mahmoud, lastName_0: Matouk, firstName_1: Harvinder, lastName_1: Nagpal
+tag_name: Amazon Cognito, Services, 300 - Advanced, Level, Security, Compliance, & Identity, Topic, Thursday, Day, Mandalay Bay, Venue, Amazon Verified Permissions, Services

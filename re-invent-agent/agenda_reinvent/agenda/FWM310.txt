@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 101
+summary: tag_name :AWS Amplify, Services, DevOps Engineer, Role, Developer/Engineer, Role, 300 - Advanced, Level, Front-End Web & Mobile, Area of Interest, AWS AppSync, Services, Monday, Day, Caesars Forum, Venue, DevOps and Developer Productivity, Topic, , speakers :firstName_0: Jason, lastName_0: Hoog, firstName_1: Ritik, lastName_1: Khatwani, , thirdpartyid :FWM310, sessionuid :5B2B8EC3-1DD5-43EC-95E2-39909B5726ED, title :Faster, easier app data modeling with AWS Amplify and AWS AppSync, description :Today, real-time digital experiences are ubiquitous, and consumers have come to expect them. Examples include real-time sports scores and financial portfolio updates, interactive learning, location tracking, and chat capabilities. In this chalk talk, learn how AWS Amplify and AWS AppSync help to simplify your app development, connect and synchronize data between your web and mobile apps and your database, and build differentiated, real-time and offline apps faster., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 101, startdatetimeutc :November, 27 2023 20:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 20:00:00 -0500
+locationname: Forum 101
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Today, real-time digital experiences are ubiquitous, and consumers have come to expect them. Examples include real-time sports scores and financial portfolio updates, interactive learning, location tracking, and chat capabilities. In this chalk talk, learn how AWS Amplify and AWS AppSync help to simplify your app development, connect and synchronize data between your web and mobile apps and your database, and build differentiated, real-time and offline apps faster
+title: Faster, easier app data modeling with AWS Amplify and AWS AppSync
+sessionuid: 5B2B8EC3-1DD5-43EC-95E2-39909B5726ED
+thirdpartyid: FWM310
+speakers: firstName_0: Jason, lastName_0: Hoog, firstName_1: Ritik, lastName_1: Khatwani
+tag_name: AWS Amplify, Services, DevOps Engineer, Role, Developer/Engineer, Role, 300 - Advanced, Level, Front-End Web & Mobile, Area of Interest, AWS AppSync, Services, Monday, Day, Caesars Forum, Venue, DevOps and Developer Productivity, Topic

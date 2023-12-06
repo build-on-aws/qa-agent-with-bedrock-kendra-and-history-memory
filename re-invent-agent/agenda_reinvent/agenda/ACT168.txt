@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1380, AWS Community Developer Lounge
+summary: tag_name :Tuesday, Day, Venetian, Venue, AWS Community, Area of Interest, BuildOn.AWS, Area of Interest, Customer Stories, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, Tech Explorer, Role, Community Activities, Additional Services, , speakers :, thirdpartyid :ACT168, sessionuid :33555DF8-A9C5-4299-9016-652345C5E4FC, title :AWS Community Developer Lounge, description :<p>Explore the AWS Community Developer Lounge, a vibrant hub where technologists like you can find your AWS community. Immerse yourself in an environment crafted to enhance the way you build on AWS, stay up to date with the latest modern application development techniques, and explore open source software. Engage in valuable conversations with community experts at meetups and community-led dev chats.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1380, AWS Community Developer Lounge, startdatetimeutc :November, 28 2023 18:00:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 28 2023 18:00:00 -0500
+locationname: Hall B, Expo, Booth #1380, AWS Community Developer Lounge
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Explore the AWS Community Developer Lounge, a vibrant hub where technologists like you can find your AWS community. Immerse yourself in an environment crafted to enhance the way you build on AWS, stay up to date with the latest modern application development techniques, and explore open source software. Engage in valuable conversations with community experts at meetups and community-led dev chats.</p>
+title: AWS Community Developer Lounge
+sessionuid: 33555DF8-A9C5-4299-9016-652345C5E4FC
+thirdpartyid: ACT168
+speakers: 
+tag_name: Tuesday, Day, Venetian, Venue, AWS Community, Area of Interest, BuildOn.AWS, Area of Interest, Customer Stories, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, Tech Explorer, Role, Community Activities, Additional Services

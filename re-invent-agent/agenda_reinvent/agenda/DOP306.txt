@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 305
+summary: tag_name :Amazon CodeCatalyst, Services, Application Security, Area of Interest, DevOps Engineer, Role, DevOps and Developer Productivity, Topic, Tuesday, Day, Caesars Forum, Venue, 300 - Advanced, Level, Developer/Engineer, Role, , speakers :firstName_0: Casey, lastName_0: Lee, firstName_1: David, lastName_1: Hessler, , thirdpartyid :DOP306, sessionuid :362672E4-9AC6-4B79-B318-2D5CAA55E4DB, title :Streamline DevSecOps with a complete software development service, description :Security is not just for application code—the automated software supply chains that build modern software can also be exploited by attackers. In this chalk talk, learn how you can use Amazon CodeCatalyst to incorporate security tests into every aspect of your software development lifecycle while maintaining a great developer experience. Discover how CodeCatalyst’s flexible actions-based CI/CD workflows streamline the process of adapting to security threats., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 305, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Alliance 305
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Security is not just for application code—the automated software supply chains that build modern software can also be exploited by attackers. In this chalk talk, learn how you can use Amazon CodeCatalyst to incorporate security tests into every aspect of your software development lifecycle while maintaining a great developer experience. Discover how CodeCatalyst’s flexible actions-based CI/CD workflows streamline the process of adapting to security threats
+title: Streamline DevSecOps with a complete software development service
+sessionuid: 362672E4-9AC6-4B79-B318-2D5CAA55E4DB
+thirdpartyid: DOP306
+speakers: firstName_0: Casey, lastName_0: Lee, firstName_1: David, lastName_1: Hessler
+tag_name: Amazon CodeCatalyst, Services, Application Security, Area of Interest, DevOps Engineer, Role, DevOps and Developer Productivity, Topic, Tuesday, Day, Caesars Forum, Venue, 300 - Advanced, Level, Developer/Engineer, Role

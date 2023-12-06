@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 407
+summary: tag_name :Architecture, Topic, SaaS, Area of Interest, Cost Optimization, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Kubernetes Service (EKS), Services, Amazon QuickSight, Services, AWS Lambda, Services, Monday, Day, Caesars Forum, Venue, , speakers :firstName_0: Tod, lastName_0: Golding, , thirdpartyid :ARC311, sessionuid :DC5E91DD-82EA-497D-97ED-34AC24E5CDF8, title :Building cost-optimized multi-tenant SaaS architectures, description :Cost plays a key role in driving the growth strategies of SaaS companies. Multi-tenancy requires teams to think beyond the basics of auto scaling, enabling creative strategies that allow their architecture to support a myriad of complex cost-scaling challenges. In this session, explore the common design patterns that can be applied to your architecture to support the continually evolving scale needs of your environment while still maximizing margins and limiting spikes in the cost profile of your infrastructure. This is about giving the business options and creating an architecture footprint that can fuel the growth needs of your multi-tenant offering., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 407, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Academy 407
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: Cost plays a key role in driving the growth strategies of SaaS companies. Multi-tenancy requires teams to think beyond the basics of auto scaling, enabling creative strategies that allow their architecture to support a myriad of complex cost-scaling challenges. In this session, explore the common design patterns that can be applied to your architecture to support the continually evolving scale needs of your environment while still maximizing margins and limiting spikes in the cost profile of your infrastructure. This is about giving the business options and creating an architecture footprint that can fuel the growth needs of your multi-tenant offering
+title: Building cost-optimized multi-tenant SaaS architectures
+sessionuid: DC5E91DD-82EA-497D-97ED-34AC24E5CDF8
+thirdpartyid: ARC311
+speakers: firstName_0: Tod, lastName_0: Golding
+tag_name: Architecture, Topic, SaaS, Area of Interest, Cost Optimization, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Developer/Engineer, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Kubernetes Service (EKS), Services, Amazon QuickSight, Services, AWS Lambda, Services, Monday, Day, Caesars Forum, Venue

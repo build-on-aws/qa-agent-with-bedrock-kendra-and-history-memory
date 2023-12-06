@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 167
+summary: tag_name :Generative AI, Area of Interest, 200 - Intermediate, Level, BuildOn.AWS, Area of Interest, Monday, Day, MGM Grand, Venue, Amazon Bedrock, Services, AWS Lambda, Services, AI/ML, Topic, Amazon Transcribe, Services, , speakers :firstName_0: Elizabeth, lastName_0: Fuentes, firstName_1: Guillermo, lastName_1: Ruiz Esteban, , thirdpartyid :BOA212, sessionuid :6E5EE951-6BAC-4A0E-B7B1-F7FE2193CA7E, title :From Las Vegas, NM, to Las Vegas, NV: Elevating customer support, description :<p>What happens in Vegas should actually happen in the right Vegas! Dive into this chalk talk that unveils the magic of LangChain and RAG in transforming customer support. This talk blends humor with cutting-edge tech insights, showcasing how AI-driven solutions can transform confounding chat and voice mix-ups into positive customer experiences. Join this talk to make sure your customers are always at the right destination.</p>, sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 167, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Boulevard 167
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: <p>What happens in Vegas should actually happen in the right Vegas! Dive into this chalk talk that unveils the magic of LangChain and RAG in transforming customer support. This talk blends humor with cutting-edge tech insights, showcasing how AI-driven solutions can transform confounding chat and voice mix-ups into positive customer experiences. Join this talk to make sure your customers are always at the right destination.</p>
+title: From Las Vegas, NM, to Las Vegas, NV: Elevating customer support
+sessionuid: 6E5EE951-6BAC-4A0E-B7B1-F7FE2193CA7E
+thirdpartyid: BOA212
+speakers: firstName_0: Elizabeth, lastName_0: Fuentes, firstName_1: Guillermo, lastName_1: Ruiz Esteban
+tag_name: Generative AI, Area of Interest, 200 - Intermediate, Level, BuildOn.AWS, Area of Interest, Monday, Day, MGM Grand, Venue, Amazon Bedrock, Services, AWS Lambda, Services, AI/ML, Topic, Amazon Transcribe, Services

@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 3
+summary: tag_name :Serverless Compute, Topic, Amazon Aurora, Services, AWS Lambda, Services, Security, Compliance, & Identity, Topic, Developer/Engineer, Role, Tuesday, Day, Wynn, Venue, Amazon API Gateway, Services, 300 - Advanced, Level, , speakers :firstName_0: Ranjan, lastName_0: Bhandari, firstName_1: Chris, lastName_1: McPeek, , thirdpartyid :SVS303-R, sessionuid :6091B374-71BD-45A0-81F4-622DC8CB9126, title :Building secure serverless applications workshop [REPEAT], description :Get hands-on and learn techniques to secure a serverless application built with AWS Lambda, Amazon API Gateway, and Amazon Aurora. This workshop covers AWS services and features that you can utilize to improve the security of a serverless application in 5 domains: identity and access management, infrastructure, data, code, and logging and monitoring. Finally, explore new features including integrations with Amazon Inspector and Amazon GuardDuty. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 3, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Cristal 3
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: Get hands-on and learn techniques to secure a serverless application built with AWS Lambda, Amazon API Gateway, and Amazon Aurora. This workshop covers AWS services and features that you can utilize to improve the security of a serverless application in 5 domains: identity and access management, infrastructure, data, code, and logging and monitoring. Finally, explore new features including integrations with Amazon Inspector and Amazon GuardDuty. You must bring your laptop to participate
+title: Building secure serverless applications workshop [REPEAT]
+sessionuid: 6091B374-71BD-45A0-81F4-622DC8CB9126
+thirdpartyid: SVS303-R
+speakers: firstName_0: Ranjan, lastName_0: Bhandari, firstName_1: Chris, lastName_1: McPeek
+tag_name: Serverless Compute, Topic, Amazon Aurora, Services, AWS Lambda, Services, Security, Compliance, & Identity, Topic, Developer/Engineer, Role, Tuesday, Day, Wynn, Venue, Amazon API Gateway, Services, 300 - Advanced, Level

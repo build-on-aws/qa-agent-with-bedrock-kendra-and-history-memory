@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :100 - Foundational, Level, Data Engineer, Role, Business Intelligence, Area of Interest, Solution/Systems Architect, Role, Tuesday, Day, Venetian, Venue, Analytics, Topic, Open Source, Area of Interest, Modernization, Area of Interest, Data Scientist, Role, , speakers :, thirdpartyid :ANT106-S, sessionuid :C805CCD8-DBEC-4764-BED4-2CBF281EE188, title :Building a governed, DataOps-native open lakehouse with Dremio & AWS (sponsored by Dremio), description :Cloud data warehouses provide an impressive way to consume on-demand compute resources. However, the challenges of maintaining multiple environments, complex data operations, and time-consuming data optimization strategies still exist. In this lightning talk, learn about Dremio Arctic, a data lakehouse management service that provides “git-like” version control on data, which enables using one environment for all types of workloads. Also learn about Apache Iceberg, an open table format with branching and tagging capabilities. AWS Lake Formation will then be introduced to apply governance for the open lakehouse solution. This presentation is brought to you by Dremio, an AWS Partner., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :November, 28 2023 18:30:00 -0500, enddatetimeutc :November, 28 2023 18:50:00 -0500, 
+enddatetimeutc: November, 28 2023 18:50:00 -0500
+startdatetimeutc: November, 28 2023 18:30:00 -0500
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Cloud data warehouses provide an impressive way to consume on-demand compute resources. However, the challenges of maintaining multiple environments, complex data operations, and time-consuming data optimization strategies still exist. In this lightning talk, learn about Dremio Arctic, a data lakehouse management service that provides “git-like” version control on data, which enables using one environment for all types of workloads. Also learn about Apache Iceberg, an open table format with branching and tagging capabilities. AWS Lake Formation will then be introduced to apply governance for the open lakehouse solution. This presentation is brought to you by Dremio, an AWS Partner
+title: Building a governed, DataOps-native open lakehouse with Dremio & AWS (sponsored by Dremio)
+sessionuid: C805CCD8-DBEC-4764-BED4-2CBF281EE188
+thirdpartyid: ANT106-S
+speakers: 
+tag_name: 100 - Foundational, Level, Data Engineer, Role, Business Intelligence, Area of Interest, Solution/Systems Architect, Role, Tuesday, Day, Venetian, Venue, Analytics, Topic, Open Source, Area of Interest, Modernization, Area of Interest, Data Scientist, Role

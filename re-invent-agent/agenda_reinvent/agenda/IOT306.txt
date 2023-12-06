@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 104
+summary: tag_name :300 - Advanced, Level, AI/ML, Topic, Internet of Things, Topic, Edge Computing, Area of Interest, Generative AI, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon CodeWhisperer, Services, AWS IoT Greengrass, Services, Agriculture, Industry, Energy, Industry, Manufacturing & Industrial, Industry, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Varinder, lastName_0: Dhanota, firstName_1: Zaiba, lastName_1: Jamadar, , thirdpartyid :IOT306-R, sessionuid :9B158925-897F-459D-A430-C5546966DB88, title :Designing an AWS IoT Greengrass component with generative AI [REPEAT], description :<p>This chalk talk focuses on the creation of an AWS IoT Greengrass component to monitor and track power consumption across a variety of smart home appliances using new technologies, such as generative AI, to enhance prototype development, boost productivity, and improve code quality. The talk also showcases the value of using Amazon CodeWhisperer to efficiently generate intelligent code for building custom IoT Greengrass components. From this, you can reduce errors and quickly develop high-quality and differentiated IoT applications.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 104, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Forum 104
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>This chalk talk focuses on the creation of an AWS IoT Greengrass component to monitor and track power consumption across a variety of smart home appliances using new technologies, such as generative AI, to enhance prototype development, boost productivity, and improve code quality. The talk also showcases the value of using Amazon CodeWhisperer to efficiently generate intelligent code for building custom IoT Greengrass components. From this, you can reduce errors and quickly develop high-quality and differentiated IoT applications.</p>
+title: Designing an AWS IoT Greengrass component with generative AI [REPEAT]
+sessionuid: 9B158925-897F-459D-A430-C5546966DB88
+thirdpartyid: IOT306-R
+speakers: firstName_0: Varinder, lastName_0: Dhanota, firstName_1: Zaiba, lastName_1: Jamadar
+tag_name: 300 - Advanced, Level, AI/ML, Topic, Internet of Things, Topic, Edge Computing, Area of Interest, Generative AI, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon CodeWhisperer, Services, AWS IoT Greengrass, Services, Agriculture, Industry, Energy, Industry, Manufacturing & Industrial, Industry, Wednesday, Day, Caesars Forum, Venue

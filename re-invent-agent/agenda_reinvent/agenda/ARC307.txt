@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Murano 3306
+summary: tag_name :Cross Industry, Industry, Digital Native Business (DNB), Area of Interest, Well-Architected Framework, Area of Interest, AWS Proton, Services, AWS Lambda, Services, Thursday, Day, Venetian, Venue, Architecture, Topic, 300 - Advanced, Level, IT Executive, Role, Amazon API Gateway, Services, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, , speakers :firstName_0: Gregor, lastName_0: Hohpe, , thirdpartyid :ARC307, sessionuid :65B5D0B4-21EE-440A-AB5F-CEC4BD75AD02, title :Do modern cloud applications lock you in?, description :Modern cloud applications utilize fully managed services that keep builders from having to manage infrastructure. Does having the cloud do more make it harder to move applications somewhere else? Can abstraction layers and in-house platforms give you the best of both worlds? Does decoupling your application actually increase your cloud costs? This session examines trade-offs for modern cloud applications, explains why lock-in isn’t just the result of the services that you use, and reveals if the best abstraction layers actually exist., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 3, locationname :Murano 3306, startdatetimeutc :November, 30 2023 19:00:00 -0500, enddatetimeutc :November, 30 2023 20:00:00 -0500, 
+enddatetimeutc: November, 30 2023 20:00:00 -0500
+startdatetimeutc: November, 30 2023 19:00:00 -0500
+locationname: Murano 3306
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Breakout Session
+description: Modern cloud applications utilize fully managed services that keep builders from having to manage infrastructure. Does having the cloud do more make it harder to move applications somewhere else? Can abstraction layers and in-house platforms give you the best of both worlds? Does decoupling your application actually increase your cloud costs? This session examines trade-offs for modern cloud applications, explains why lock-in isn’t just the result of the services that you use, and reveals if the best abstraction layers actually exist
+title: Do modern cloud applications lock you in?
+sessionuid: 65B5D0B4-21EE-440A-AB5F-CEC4BD75AD02
+thirdpartyid: ARC307
+speakers: firstName_0: Gregor, lastName_0: Hohpe
+tag_name: Cross Industry, Industry, Digital Native Business (DNB), Area of Interest, Well-Architected Framework, Area of Interest, AWS Proton, Services, AWS Lambda, Services, Thursday, Day, Venetian, Venue, Architecture, Topic, 300 - Advanced, Level, IT Executive, Role, Amazon API Gateway, Services, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role

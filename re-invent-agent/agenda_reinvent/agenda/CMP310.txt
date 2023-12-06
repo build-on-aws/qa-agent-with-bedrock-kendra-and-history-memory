@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 104
+summary: tag_name :Compute, Topic, Security, Compliance, & Identity, Topic, Application Security, Area of Interest, Network & Infrastructure Security, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Cloud Security Specialist, Role, Data Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, AWS Security Hub, Services, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: J.D., lastName_0: Bean, firstName_1: Arvind, lastName_1: Raghu, , thirdpartyid :CMP310-R, sessionuid :26191B0F-CCCD-4167-B98F-FA856DFA9BB1, title :Set up multi-party collaboration using AWS confidential compute [REPEAT], description :<p>Join this chalk talk to learn how to architect a solution where multiple parties can securely share data, AI/ML models, and compute while preserving the privacy and confidentiality of both data and code.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :104, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: 104
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Join this chalk talk to learn how to architect a solution where multiple parties can securely share data, AI/ML models, and compute while preserving the privacy and confidentiality of both data and code.</p>
+title: Set up multi-party collaboration using AWS confidential compute [REPEAT]
+sessionuid: 26191B0F-CCCD-4167-B98F-FA856DFA9BB1
+thirdpartyid: CMP310-R
+speakers: firstName_0: J.D., lastName_0: Bean, firstName_1: Arvind, lastName_1: Raghu
+tag_name: Compute, Topic, Security, Compliance, & Identity, Topic, Application Security, Area of Interest, Network & Infrastructure Security, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Cloud Security Specialist, Role, Data Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, AWS Security Hub, Services, Wednesday, Day, MGM Grand, Venue

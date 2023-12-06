@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Sands Foyer
+summary: tag_name :Monday, Day, Venetian, Venue, , speakers :, thirdpartyid :ACT160, sessionuid :95F8E28A-DA86-498C-8BB9-44AD4B03692C, title :Hydrate and Help, description :<p>Stop by Hydrate and Help in The Venetian foyer to participate in the water walk and learn more about the AWS #GiveBack project to build piped water systems in Cambodia.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Sands Foyer, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 28 2023 02:00:00 -0500, 
+enddatetimeutc: November, 28 2023 02:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Sands Foyer
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Stop by Hydrate and Help in The Venetian foyer to participate in the water walk and learn more about the AWS #GiveBack project to build piped water systems in Cambodia.</p>
+title: Hydrate and Help
+sessionuid: 95F8E28A-DA86-498C-8BB9-44AD4B03692C
+thirdpartyid: ACT160
+speakers: 
+tag_name: Monday, Day, Venetian, Venue

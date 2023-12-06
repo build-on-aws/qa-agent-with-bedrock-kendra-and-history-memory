@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Developer/Engineer, Role, Inclusion & Diversity, Area of Interest, Customer Enablement, Topic, IT Executive, Role, Workforce Development, Area of Interest, Customer Stories, Area of Interest, Tuesday, Day, Venetian, Venue, 100 - Foundational, Level, Business Applications, Topic, Business Executive, Role, , speakers :firstName_0: Heather, lastName_0: Wigell, company_0: GirlsWhoCode, , thirdpartyid :IDE110, sessionuid :1628B314-FA07-4948-A515-12FEAF74713F, title :Understanding the gender gap in technology with Girls Who Code, description :Join the Girls Who Code Research and Analytics team to learn how they evaluate the gender gap in the technology industry. In this lightning talk, explore the data, analyses, architectures, improvements, and challenges involved in deepening an organizational understanding of the gender gap., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :November, 29 2023 01:30:00 -0500, enddatetimeutc :November, 29 2023 01:50:00 -0500, 
+enddatetimeutc: November, 29 2023 01:50:00 -0500
+startdatetimeutc: November, 29 2023 01:30:00 -0500
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Join the Girls Who Code Research and Analytics team to learn how they evaluate the gender gap in the technology industry. In this lightning talk, explore the data, analyses, architectures, improvements, and challenges involved in deepening an organizational understanding of the gender gap
+title: Understanding the gender gap in technology with Girls Who Code
+sessionuid: 1628B314-FA07-4948-A515-12FEAF74713F
+thirdpartyid: IDE110
+speakers: firstName_0: Heather, lastName_0: Wigell, company_0: GirlsWhoCode
+tag_name: Developer/Engineer, Role, Inclusion & Diversity, Area of Interest, Customer Enablement, Topic, IT Executive, Role, Workforce Development, Area of Interest, Customer Stories, Area of Interest, Tuesday, Day, Venetian, Venue, 100 - Foundational, Level, Business Applications, Topic, Business Executive, Role

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :DevOps Engineer, Role, Data Engineer, Role, Security, Compliance, & Identity, Topic, Monday, Day, Wynn, Venue, 300 - Advanced, Level, Open Source, Area of Interest, Analytics, Topic, Developer/Engineer, Role, , speakers :firstName_0: Subham, lastName_0: Rakshit, firstName_1: Paul, lastName_1: Kukiel, , thirdpartyid :OPN308-R, sessionuid :BD4D5C7E-9AB9-44A4-A390-FBAA7ABC38CF, title :Build and operate a Zero Trust Apache Kafka cluster [REPEAT], description :In order to run a multi-tenant, Apache Kafka–based, real-time data streaming platform, security and trust are paramount. Organizations often seek architectural recommendations when building Zero Trust, secure Kafka clusters. In this chalk talk, learn about the common concerns customers need guidance on, such as encrypting or decrypting PII data while sending or receiving events from topics, ensuring consumers and producers do not hog cluster resources, and guaranteeing consumers and producers do not violate payload contracts. Discuss best practices and architectural recommendations for building and operating Zero Trust Kafka clusters., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 20:30:00 -0500, 
+enddatetimeutc: November, 27 2023 20:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: In order to run a multi-tenant, Apache Kafka–based, real-time data streaming platform, security and trust are paramount. Organizations often seek architectural recommendations when building Zero Trust, secure Kafka clusters. In this chalk talk, learn about the common concerns customers need guidance on, such as encrypting or decrypting PII data while sending or receiving events from topics, ensuring consumers and producers do not hog cluster resources, and guaranteeing consumers and producers do not violate payload contracts. Discuss best practices and architectural recommendations for building and operating Zero Trust Kafka clusters
+title: Build and operate a Zero Trust Apache Kafka cluster [REPEAT]
+sessionuid: BD4D5C7E-9AB9-44A4-A390-FBAA7ABC38CF
+thirdpartyid: OPN308-R
+speakers: firstName_0: Subham, lastName_0: Rakshit, firstName_1: Paul, lastName_1: Kukiel
+tag_name: DevOps Engineer, Role, Data Engineer, Role, Security, Compliance, & Identity, Topic, Monday, Day, Wynn, Venue, 300 - Advanced, Level, Open Source, Area of Interest, Analytics, Topic, Developer/Engineer, Role

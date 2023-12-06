@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 122
+summary: tag_name :Innovation on AWS, Area of Interest, IT Executive, Role, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Tuesday, Day, MGM Grand, Venue, Cost Optimization, Area of Interest, Strategy & Transformation, Area of Interest, Business Executive, Role, , speakers :firstName_0: Chris, lastName_0: Hennesey, , thirdpartyid :SEG202, sessionuid :C3A12C5F-92D7-447C-B457-1A9126BCACE9, title :Making dollars and sense out of FinOps, description :In today's cloud-centric landscape, understanding and controlling cloud costs is crucial. It’s important for leaders to understand how financial processes and strategies translate into clear and actionable insights in both the short and long term. FinOps, the practice of managing cloud costs, offers organizations a powerful methodology to optimize financial management and drive business value. In this session, representatives from the Enterprise Strategy team at AWS discuss key FinOps concepts and methodologies, as well as real-world examples of how organizations achieve cost savings while delivering business value for their organization. Receive practical guidance intended to empower you to implement FinOps., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 122, startdatetimeutc :November, 29 2023 00:00:00 -0500, enddatetimeutc :November, 29 2023 01:00:00 -0500, 
+enddatetimeutc: November, 29 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 00:00:00 -0500
+locationname: Grand 122
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: In today's cloud-centric landscape, understanding and controlling cloud costs is crucial. It’s important for leaders to understand how financial processes and strategies translate into clear and actionable insights in both the short and long term. FinOps, the practice of managing cloud costs, offers organizations a powerful methodology to optimize financial management and drive business value. In this session, representatives from the Enterprise Strategy team at AWS discuss key FinOps concepts and methodologies, as well as real-world examples of how organizations achieve cost savings while delivering business value for their organization. Receive practical guidance intended to empower you to implement FinOps
+title: Making dollars and sense out of FinOps
+sessionuid: C3A12C5F-92D7-447C-B457-1A9126BCACE9
+thirdpartyid: SEG202
+speakers: firstName_0: Chris, lastName_0: Hennesey
+tag_name: Innovation on AWS, Area of Interest, IT Executive, Role, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Tuesday, Day, MGM Grand, Venue, Cost Optimization, Area of Interest, Strategy & Transformation, Area of Interest, Business Executive, Role

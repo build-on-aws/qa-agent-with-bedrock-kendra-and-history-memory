@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific F
+summary: tag_name :Solution/Systems Architect, Role, Mandalay Bay, Venue, Monday, Day, Financial Services, Industry, Amazon Chime SDK, Services, Travel & Hospitality, Industry, Telecommunications, Industry, AI/ML, Topic, Developer/Engineer, Role, Data Scientist, Role, Amazon Machine Learning (ML), Services, Business Intelligence, Area of Interest, Business Applications, Topic, 300 - Advanced, Level, , speakers :firstName_0: Court, lastName_0: Schuett, , thirdpartyid :BIZ301, sessionuid :2048BDB8-F6B5-4E0F-A705-01CD0B6B6909, title :Amazon Chime SDK ML-based call analytics, description :<p>Join the Amazon Chime SDK team and explore how you can use call analytics to bring AWS AI/ML services to your existing telephony system. In this workshop, discover advanced features you can use to get the most out of your calls. Learn how to create, analyze, and take action on what the customer is saying and how they're saying it. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific F, startdatetimeutc :November, 27 2023 16:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 16:00:00 -0500
+locationname: South Pacific F
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: <p>Join the Amazon Chime SDK team and explore how you can use call analytics to bring AWS AI/ML services to your existing telephony system. In this workshop, discover advanced features you can use to get the most out of your calls. Learn how to create, analyze, and take action on what the customer is saying and how they're saying it. You must bring your laptop to participate.</p>
+title: Amazon Chime SDK ML-based call analytics
+sessionuid: 2048BDB8-F6B5-4E0F-A705-01CD0B6B6909
+thirdpartyid: BIZ301
+speakers: firstName_0: Court, lastName_0: Schuett
+tag_name: Solution/Systems Architect, Role, Mandalay Bay, Venue, Monday, Day, Financial Services, Industry, Amazon Chime SDK, Services, Travel & Hospitality, Industry, Telecommunications, Industry, AI/ML, Topic, Developer/Engineer, Role, Data Scientist, Role, Amazon Machine Learning (ML), Services, Business Intelligence, Area of Interest, Business Applications, Topic, 300 - Advanced, Level

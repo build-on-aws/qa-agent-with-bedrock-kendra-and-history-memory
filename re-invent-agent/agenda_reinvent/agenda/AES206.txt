@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Thursday, Day, Venetian, Venue, Databases, Topic, Serverless Compute, Topic, Customer Stories, Area of Interest, Edge Computing, Area of Interest, Innovation on AWS, Area of Interest, Aerospace & Satellite, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, AWS IoT Greengrass, Services, AWS Serverless Application Model (SAM), Services, , speakers :, thirdpartyid :AES206, sessionuid :B730EFEC-02F3-4A98-BC96-B6787ABB6B2A, title :Reducing EO data volume to optimize satellite operations, description :<p>In this lightning talk, discover how machine learning can be used on orbit to reduce the amount of data that has to be downlinked back to Earth. This results in saved cost and improved efficiency of Earth observation analysis.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 30 2023 18:30:00 -0500, enddatetimeutc :November, 30 2023 18:50:00 -0500, 
+enddatetimeutc: November, 30 2023 18:50:00 -0500
+startdatetimeutc: November, 30 2023 18:30:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>In this lightning talk, discover how machine learning can be used on orbit to reduce the amount of data that has to be downlinked back to Earth. This results in saved cost and improved efficiency of Earth observation analysis.</p>
+title: Reducing EO data volume to optimize satellite operations
+sessionuid: B730EFEC-02F3-4A98-BC96-B6787ABB6B2A
+thirdpartyid: AES206
+speakers: 
+tag_name: Thursday, Day, Venetian, Venue, Databases, Topic, Serverless Compute, Topic, Customer Stories, Area of Interest, Edge Computing, Area of Interest, Innovation on AWS, Area of Interest, Aerospace & Satellite, Industry, Cross Industry, Industry, 200 - Intermediate, Level, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, AWS IoT Greengrass, Services, AWS Serverless Application Model (SAM), Services

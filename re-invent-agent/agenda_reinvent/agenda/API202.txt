@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 5
+summary: tag_name :200 - Intermediate, Level, Data Engineer, Role, Application Integration, Area of Interest, Data Scientist, Role, Developer/Engineer, Role, Wednesday, Day, Wynn, Venue, AWS Step Functions, Services, Serverless Compute, Topic, , speakers :firstName_0: Dan, lastName_0: Fox, firstName_1: Rahul, lastName_1: Pisal, , thirdpartyid :API202, sessionuid :442B2D4A-2ACF-44D4-AF03-7E10DEADC492, title :The AWS Step Functions workshop, description :Join this workshop to learn about the primary features of AWS Step Functions. Step Functions is a low-code visual workflow service that developers use to build distributed applications, automate IT and business processes, and build data and machine learning pipelines based on AWS services. This workshop contains a series of interactive modules that provide hands-on experience building resilient workflows with robust error handling in a workshop environment. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 5, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 18:30:00 -0500, 
+enddatetimeutc: November, 29 2023 18:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: Cristal 5
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: Join this workshop to learn about the primary features of AWS Step Functions. Step Functions is a low-code visual workflow service that developers use to build distributed applications, automate IT and business processes, and build data and machine learning pipelines based on AWS services. This workshop contains a series of interactive modules that provide hands-on experience building resilient workflows with robust error handling in a workshop environment. You must bring your laptop to participate
+title: The AWS Step Functions workshop
+sessionuid: 442B2D4A-2ACF-44D4-AF03-7E10DEADC492
+thirdpartyid: API202
+speakers: firstName_0: Dan, lastName_0: Fox, firstName_1: Rahul, lastName_1: Pisal
+tag_name: 200 - Intermediate, Level, Data Engineer, Role, Application Integration, Area of Interest, Data Scientist, Role, Developer/Engineer, Role, Wednesday, Day, Wynn, Venue, AWS Step Functions, Services, Serverless Compute, Topic

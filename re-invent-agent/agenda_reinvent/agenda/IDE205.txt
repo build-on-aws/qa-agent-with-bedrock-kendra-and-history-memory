@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Business Intelligence, Area of Interest, Business Executive, Role, Inclusion & Diversity, Area of Interest, Business Applications, Topic, Wednesday, Day, Venetian, Venue, Advisor/Consultant, Role, Responsible AI, Area of Interest, Developer/Engineer, Role, 200 - Intermediate, Level, AI/ML, Topic, , speakers :, thirdpartyid :IDE205, sessionuid :EA4D4D8A-05C6-459D-B4E0-4D312802659F, title :Addressing bias and discrimination in AI: LGBTQIA+ perspectives, description :Artificial intelligence (AI) systems are increasingly shaping various aspects of our lives, but they can also perpetuate bias and discrimination. This lightning talk explores the impact of AI on the LGBTQIA+ community and offers strategies to mitigate bias in AI technologies. This talk includes examples of AI systems that have demonstrated bias against LGBTQIA+ individuals and reflects on the underlying causes. It also proposes solutions, including data diversification, inclusive design principles, and algorithmic transparency, to ensure AI technologies are fair, inclusive, and respectful of LGBTQIA+ rights., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 29 2023 19:00:00 -0500, enddatetimeutc :November, 29 2023 19:20:00 -0500, 
+enddatetimeutc: November, 29 2023 19:20:00 -0500
+startdatetimeutc: November, 29 2023 19:00:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Artificial intelligence (AI) systems are increasingly shaping various aspects of our lives, but they can also perpetuate bias and discrimination. This lightning talk explores the impact of AI on the LGBTQIA+ community and offers strategies to mitigate bias in AI technologies. This talk includes examples of AI systems that have demonstrated bias against LGBTQIA+ individuals and reflects on the underlying causes. It also proposes solutions, including data diversification, inclusive design principles, and algorithmic transparency, to ensure AI technologies are fair, inclusive, and respectful of LGBTQIA+ rights
+title: Addressing bias and discrimination in AI: LGBTQIA+ perspectives
+sessionuid: EA4D4D8A-05C6-459D-B4E0-4D312802659F
+thirdpartyid: IDE205
+speakers: 
+tag_name: Business Intelligence, Area of Interest, Business Executive, Role, Inclusion & Diversity, Area of Interest, Business Applications, Topic, Wednesday, Day, Venetian, Venue, Advisor/Consultant, Role, Responsible AI, Area of Interest, Developer/Engineer, Role, 200 - Intermediate, Level, AI/ML, Topic

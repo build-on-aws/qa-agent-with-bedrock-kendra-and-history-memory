@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 315
+summary: tag_name :MGM Grand, Venue, Monday, Day, 300 - Advanced, Level, Partner Enablement, Topic, , speakers :firstName_0: Ray, lastName_0: Strickland, firstName_1: Veena, lastName_1: Vasudevan, , thirdpartyid :PEX302-R, sessionuid :283A255C-5D56-4684-AFAA-1DE9AD265941, title :Build intelligent enterprise apps powered by generative AI on AWS [REPEAT], description :Generative AI is transforming businesses by automating complex tasks, enhancing creativity, and expediting innovation through its ability to generate high-quality content, designs, and solutions. Join this workshop to build an end-to-end intelligent retail enterprise application on AWS by harnessing the power of generative AI. Gain hands-on experience with AWS generative AI services and features such as Amazon Bedrock and Amazon RDS (pgvector). Complete exercises that teach you how to use text-to-text, text-to-embeddings, and text-to-image LLMs to generate product descriptions, craft ad campaigns, build conversational interfaces (chatbots), and accelerate application development with best practices. You must bring your laptop to participate. This workshop is intended for AWS Partners., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 315, startdatetimeutc :November, 28 2023 01:00:00 -0500, enddatetimeutc :November, 28 2023 03:00:00 -0500, 
+enddatetimeutc: November, 28 2023 03:00:00 -0500
+startdatetimeutc: November, 28 2023 01:00:00 -0500
+locationname: Premier 315
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: Generative AI is transforming businesses by automating complex tasks, enhancing creativity, and expediting innovation through its ability to generate high-quality content, designs, and solutions. Join this workshop to build an end-to-end intelligent retail enterprise application on AWS by harnessing the power of generative AI. Gain hands-on experience with AWS generative AI services and features such as Amazon Bedrock and Amazon RDS (pgvector). Complete exercises that teach you how to use text-to-text, text-to-embeddings, and text-to-image LLMs to generate product descriptions, craft ad campaigns, build conversational interfaces (chatbots), and accelerate application development with best practices. You must bring your laptop to participate. This workshop is intended for AWS Partners
+title: Build intelligent enterprise apps powered by generative AI on AWS [REPEAT]
+sessionuid: 283A255C-5D56-4684-AFAA-1DE9AD265941
+thirdpartyid: PEX302-R
+speakers: firstName_0: Ray, lastName_0: Strickland, firstName_1: Veena, lastName_1: Vasudevan
+tag_name: MGM Grand, Venue, Monday, Day, 300 - Advanced, Level, Partner Enablement, Topic

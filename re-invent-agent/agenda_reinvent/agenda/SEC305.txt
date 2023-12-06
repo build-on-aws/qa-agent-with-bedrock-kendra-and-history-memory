@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 7
+summary: tag_name :Cross Industry, Industry, Solution/Systems Architect, Role, 300 - Advanced, Level, AWS Identity and Access Management (IAM), Services, Cloud Security Specialist, Role, Developer/Engineer, Role, Cloud Operations, Topic, Management & Governance, Area of Interest, Security, Compliance, & Identity, Topic, Monday, Day, Wynn, Venue, , speakers :firstName_0: Tatyana, lastName_0: Yatskevich, firstName_1: Sophia, lastName_1: Yang, firstName_2: Roberto, lastName_2: Migli, firstName_3: Matt, lastName_3: Luttrell, firstName_4: Aarthi, lastName_4: Sukumar, , thirdpartyid :SEC305-R, sessionuid :3ECBCC37-B5ED-4926-913C-D0A33895B8D8, title :Building effective IAM policies [REPEAT], description :Anyone who builds on AWS should understand how to build effective IAM policies. In this session, learn the requirements for security controls and walk through the construction of IAM policies that implement those controls. See which policy types are most appropriate for each control, and walk away with some real-life examples of IAM policies that you can take back to your organization. You must bring your laptop to participate., sessiontype :Builders' Session, venuename :Wynn, floorplanname :Level 1, locationname :Latour 7, startdatetimeutc :November, 27 2023 17:00:00 -0500, enddatetimeutc :November, 27 2023 18:00:00 -0500, 
+enddatetimeutc: November, 27 2023 18:00:00 -0500
+startdatetimeutc: November, 27 2023 17:00:00 -0500
+locationname: Latour 7
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Builders' Session
+description: Anyone who builds on AWS should understand how to build effective IAM policies. In this session, learn the requirements for security controls and walk through the construction of IAM policies that implement those controls. See which policy types are most appropriate for each control, and walk away with some real-life examples of IAM policies that you can take back to your organization. You must bring your laptop to participate
+title: Building effective IAM policies [REPEAT]
+sessionuid: 3ECBCC37-B5ED-4926-913C-D0A33895B8D8
+thirdpartyid: SEC305-R
+speakers: firstName_0: Tatyana, lastName_0: Yatskevich, firstName_1: Sophia, lastName_1: Yang, firstName_2: Roberto, lastName_2: Migli, firstName_3: Matt, lastName_3: Luttrell, firstName_4: Aarthi, lastName_4: Sukumar
+tag_name: Cross Industry, Industry, Solution/Systems Architect, Role, 300 - Advanced, Level, AWS Identity and Access Management (IAM), Services, Cloud Security Specialist, Role, Developer/Engineer, Role, Cloud Operations, Topic, Management & Governance, Area of Interest, Security, Compliance, & Identity, Topic, Monday, Day, Wynn, Venue

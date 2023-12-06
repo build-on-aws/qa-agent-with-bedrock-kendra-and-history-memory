@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 4
+summary: tag_name :Data Scientist, Role, Data Engineer, Role, Amazon RedShift, Services, Analytics, Topic, Customer Stories, Area of Interest, Monday, Day, Wynn, Venue, Amazon Kinesis Data Streams, Services, Amazon Managed Streaming for Apache Kafka (MSK), Services, 200 - Intermediate, Level, Innovation on AWS, Area of Interest, , speakers :firstName_0: Kate, lastName_0: Kim, company_0: Fan Duel, firstName_1: Naresh, lastName_1: Chainani, , thirdpartyid :ANT211, sessionuid :54441A5E-8B05-4587-BA27-B5FF13AE688F, title :Powering self-service & near real-time analytics with Amazon Redshift, description :To stay competitive, allowing data citizens across your organization to see near real-time analytics without worrying about data infrastructure management is crucial for your business. In this session, learn how your data users can get to near real-time insights on streaming data with Amazon Redshift and AWS streaming data services. Explore a solution using flexible querying tools and a serverless architecture, which brings intelligent automation and scaling capabilities, and maintains consistently high performance for even the most demanding and volatile workloads., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 4, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 27 2023 22:00:00 -0500, 
+enddatetimeutc: November, 27 2023 22:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: Lafite 4
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: To stay competitive, allowing data citizens across your organization to see near real-time analytics without worrying about data infrastructure management is crucial for your business. In this session, learn how your data users can get to near real-time insights on streaming data with Amazon Redshift and AWS streaming data services. Explore a solution using flexible querying tools and a serverless architecture, which brings intelligent automation and scaling capabilities, and maintains consistently high performance for even the most demanding and volatile workloads
+title: Powering self-service & near real-time analytics with Amazon Redshift
+sessionuid: 54441A5E-8B05-4587-BA27-B5FF13AE688F
+thirdpartyid: ANT211
+speakers: firstName_0: Kate, lastName_0: Kim, company_0: Fan Duel, firstName_1: Naresh, lastName_1: Chainani
+tag_name: Data Scientist, Role, Data Engineer, Role, Amazon RedShift, Services, Analytics, Topic, Customer Stories, Area of Interest, Monday, Day, Wynn, Venue, Amazon Kinesis Data Streams, Services, Amazon Managed Streaming for Apache Kafka (MSK), Services, 200 - Intermediate, Level, Innovation on AWS, Area of Interest

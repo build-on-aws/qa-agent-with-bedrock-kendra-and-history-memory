@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 221
+summary: tag_name :Analytics, Topic, Solution/Systems Architect, Role, Amazon Bedrock, Services, Amazon Textract, Services, AI/ML, Topic, Data Engineer, Role, IT Executive, Role, Tuesday, Day, Caesars Forum, Venue, Energy, Industry, 300 - Advanced, Level, Amazon Simple Storage Service (S3), Services, , speakers :firstName_0: Kumar, lastName_0: Lakshmipathi, firstName_1: Tianxia, lastName_1: Jia, , thirdpartyid :ENU302-R, sessionuid :5AB2F36A-5FBD-493C-8385-3116C3949BA7, title :Using generative AI to gain insights from operational reports [REPEAT], description :Generative AI holds the potential to transform the energy industry. By engaging in human-like conversations with data, energy professionals can focus on more creative, high-value tasks and concern themselves less with data processing and transformation challenges. In this chalk talk, using a set of operational reports as example, explore how to build an architecture to help energy professionals interact with the reports using natural language queries. We’ll accomplish this using Amazon Bedrock, the fully managed generative AI service from AWS, in conjunction with Amazon S3, Amazon Textract, and Amazon Athena., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 221, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 20:30:00 -0500, 
+enddatetimeutc: November, 28 2023 20:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Summit 221
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Generative AI holds the potential to transform the energy industry. By engaging in human-like conversations with data, energy professionals can focus on more creative, high-value tasks and concern themselves less with data processing and transformation challenges. In this chalk talk, using a set of operational reports as example, explore how to build an architecture to help energy professionals interact with the reports using natural language queries. We’ll accomplish this using Amazon Bedrock, the fully managed generative AI service from AWS, in conjunction with Amazon S3, Amazon Textract, and Amazon Athena
+title: Using generative AI to gain insights from operational reports [REPEAT]
+sessionuid: 5AB2F36A-5FBD-493C-8385-3116C3949BA7
+thirdpartyid: ENU302-R
+speakers: firstName_0: Kumar, lastName_0: Lakshmipathi, firstName_1: Tianxia, lastName_1: Jia
+tag_name: Analytics, Topic, Solution/Systems Architect, Role, Amazon Bedrock, Services, Amazon Textract, Services, AI/ML, Topic, Data Engineer, Role, IT Executive, Role, Tuesday, Day, Caesars Forum, Venue, Energy, Industry, 300 - Advanced, Level, Amazon Simple Storage Service (S3), Services

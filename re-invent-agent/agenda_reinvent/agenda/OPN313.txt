@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Boulevard 167
+summary: tag_name :AWS CloudFormation, Services, Developer/Engineer, Role, DevOps and Developer Productivity, Topic, Security, Compliance, & Identity, Topic, Thursday, Day, MGM Grand, Venue, AWS Serverless Application Model (SAM), Services, DevOps Engineer, Role, Open Source, Area of Interest, System Administrator, Role, 300 - Advanced, Level, , speakers :firstName_0: Welly, lastName_0: Siauw, firstName_1: Tyler, lastName_1: Lynch, , thirdpartyid :OPN313, sessionuid :30E22F76-180C-4F0C-9932-5AA8A39CE028, title :Shifting left & preventing misconfigurations using open source tooling, description :To manage compliance and risk at speed and scale, organizations need to implement automation and have an effective mechanism to manage it. In this chalk talk, learn how to implement policy as code (PaC) using different open source tools (Regula, checkov, cfn-guard, and cfn-lint) to validate your infrastructure as code (IaC). PaC shares many of the same benefits as IaC: speed, automation, peer review, and auditability. Learn about jump-starting using predefined policies and examples, defining custom policies, distribution of policies, and validating using a CI/CD pipeline., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :Boulevard 167, startdatetimeutc :November, 30 2023 23:30:00 -0500, enddatetimeutc :December, 01 2023 00:30:00 -0500, 
+enddatetimeutc: December, 01 2023 00:30:00 -0500
+startdatetimeutc: November, 30 2023 23:30:00 -0500
+locationname: Boulevard 167
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: To manage compliance and risk at speed and scale, organizations need to implement automation and have an effective mechanism to manage it. In this chalk talk, learn how to implement policy as code (PaC) using different open source tools (Regula, checkov, cfn-guard, and cfn-lint) to validate your infrastructure as code (IaC). PaC shares many of the same benefits as IaC: speed, automation, peer review, and auditability. Learn about jump-starting using predefined policies and examples, defining custom policies, distribution of policies, and validating using a CI/CD pipeline
+title: Shifting left & preventing misconfigurations using open source tooling
+sessionuid: 30E22F76-180C-4F0C-9932-5AA8A39CE028
+thirdpartyid: OPN313
+speakers: firstName_0: Welly, lastName_0: Siauw, firstName_1: Tyler, lastName_1: Lynch
+tag_name: AWS CloudFormation, Services, Developer/Engineer, Role, DevOps and Developer Productivity, Topic, Security, Compliance, & Identity, Topic, Thursday, Day, MGM Grand, Venue, AWS Serverless Application Model (SAM), Services, DevOps Engineer, Role, Open Source, Area of Interest, System Administrator, Role, 300 - Advanced, Level

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 318
+summary: tag_name :Architecture, Topic, Application Integration, Area of Interest, BuildOn.AWS, Area of Interest, Generative AI, Area of Interest, 300 - Advanced, Level, Amazon DynamoDB, Services, AWS Lambda, Services, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Derick, lastName_0: Chen, firstName_1: Kim, lastName_1: Kao, firstName_2: Kunaruk, lastName_2: Osatapirat, , thirdpartyid :BOA309, sessionuid :C99F5A8B-E6C1-4B8C-B750-86A301D4B21C, title :Implementing distributed design patterns on AWS, description :<p>Legacy applications were once modern. The challenge is to have development principles and processes continuously improve and to develop applications with minimal technical debt. Developing complex modern applications requires a thorough understanding of how to extract business requirements and goals and to select the appropriate tactical design and implementation patterns that support business strategies. Learn how to define business strategies in terms of bounded contexts, subdomains, and context mapping with domain-driven design. Also learn to select distributed design patterns and the appropriate services to implement the design, how to streamline your application development, and how to deploy on AWS.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 318, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Premier 318
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Legacy applications were once modern. The challenge is to have development principles and processes continuously improve and to develop applications with minimal technical debt. Developing complex modern applications requires a thorough understanding of how to extract business requirements and goals and to select the appropriate tactical design and implementation patterns that support business strategies. Learn how to define business strategies in terms of bounded contexts, subdomains, and context mapping with domain-driven design. Also learn to select distributed design patterns and the appropriate services to implement the design, how to streamline your application development, and how to deploy on AWS.</p>
+title: Implementing distributed design patterns on AWS
+sessionuid: C99F5A8B-E6C1-4B8C-B750-86A301D4B21C
+thirdpartyid: BOA309
+speakers: firstName_0: Derick, lastName_0: Chen, firstName_1: Kim, lastName_1: Kao, firstName_2: Kunaruk, lastName_2: Osatapirat
+tag_name: Architecture, Topic, Application Integration, Area of Interest, BuildOn.AWS, Area of Interest, Generative AI, Area of Interest, 300 - Advanced, Level, Amazon DynamoDB, Services, AWS Lambda, Services, Wednesday, Day, MGM Grand, Venue

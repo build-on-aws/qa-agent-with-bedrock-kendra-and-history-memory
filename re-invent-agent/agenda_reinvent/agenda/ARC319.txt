@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 115
+summary: tag_name :Financial Services, Industry, 300 - Advanced, Level, Solution/Systems Architect, Role, Wednesday, Day, MGM Grand, Venue, Cost Optimization, Area of Interest, Cross Industry, Industry, Advisor/Consultant, Role, Business Executive, Role, Architecture, Topic, , speakers :firstName_0: Yuriy, lastName_0: Prykhodko, firstName_1: Mike, lastName_1: Graff, , thirdpartyid :ARC319, sessionuid :A8CFD459-819D-4BBF-84E4-F99E8A546A71, title :Optimize cost and performance and track progress toward mitigation, description :Do you have insight into the details of your cost and usage on AWS? Are you taking advantage of cost optimization opportunities and best practices recommendations across the AWS Well-Architected Framework? In this session, learn how organizations are using Cloud Intelligence Dashboards to optimize cost and performance, improve security and resiliency, and operate at scale in the cloud. Explore specific use cases and learn how you can use these insights to drive and measure your optimization efforts, track progress towards mitigation over time, and create a collaborative environment for your engineering, operations, reliability, and executive teams to make informed, data-driven decisions., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 115, startdatetimeutc :November, 29 2023 21:30:00 -0500, enddatetimeutc :November, 29 2023 22:30:00 -0500, 
+enddatetimeutc: November, 29 2023 22:30:00 -0500
+startdatetimeutc: November, 29 2023 21:30:00 -0500
+locationname: Grand 115
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Do you have insight into the details of your cost and usage on AWS? Are you taking advantage of cost optimization opportunities and best practices recommendations across the AWS Well-Architected Framework? In this session, learn how organizations are using Cloud Intelligence Dashboards to optimize cost and performance, improve security and resiliency, and operate at scale in the cloud. Explore specific use cases and learn how you can use these insights to drive and measure your optimization efforts, track progress towards mitigation over time, and create a collaborative environment for your engineering, operations, reliability, and executive teams to make informed, data-driven decisions
+title: Optimize cost and performance and track progress toward mitigation
+sessionuid: A8CFD459-819D-4BBF-84E4-F99E8A546A71
+thirdpartyid: ARC319
+speakers: firstName_0: Yuriy, lastName_0: Prykhodko, firstName_1: Mike, lastName_1: Graff
+tag_name: Financial Services, Industry, 300 - Advanced, Level, Solution/Systems Architect, Role, Wednesday, Day, MGM Grand, Venue, Cost Optimization, Area of Interest, Cross Industry, Industry, Advisor/Consultant, Role, Business Executive, Role, Architecture, Topic

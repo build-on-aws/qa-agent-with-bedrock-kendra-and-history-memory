@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :AI/ML, Topic, Analytics, Topic, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, Small and Midsize Business (SMB), Area of Interest, Thursday, Day, Venetian, Venue, , speakers :firstName_0: Subhash, lastName_0: Vanga, , thirdpartyid :SMB206, sessionuid :A8428B4F-3308-4285-8B60-09BC23562F79, title :Data readiness for deriving business insight with analytics and AI/ML, description :<p>You want to utilize advanced analytics and AI/ML to make smarter business decisions. But do you have a data strategy in place that enables you to derive this insight? Are you collecting the right data from your customers, on your campaigns, and on your products? Are you able to ingest data, structured and unstructured? Are you storing the right data and in the right format for analytics and machine learning models to consume? Join this lightning talk to explore the readiness of your data strategy to support advanced business insights, and learn how AWS can help you with a consultative engagement to get you there.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>You want to utilize advanced analytics and AI/ML to make smarter business decisions. But do you have a data strategy in place that enables you to derive this insight? Are you collecting the right data from your customers, on your campaigns, and on your products? Are you able to ingest data, structured and unstructured? Are you storing the right data and in the right format for analytics and machine learning models to consume? Join this lightning talk to explore the readiness of your data strategy to support advanced business insights, and learn how AWS can help you with a consultative engagement to get you there.</p>
+title: Data readiness for deriving business insight with analytics and AI/ML
+sessionuid: A8428B4F-3308-4285-8B60-09BC23562F79
+thirdpartyid: SMB206
+speakers: firstName_0: Subhash, lastName_0: Vanga
+tag_name: AI/ML, Topic, Analytics, Topic, 200 - Intermediate, Level, Business Executive, Role, IT Executive, Role, Small and Midsize Business (SMB), Area of Interest, Thursday, Day, Venetian, Venue

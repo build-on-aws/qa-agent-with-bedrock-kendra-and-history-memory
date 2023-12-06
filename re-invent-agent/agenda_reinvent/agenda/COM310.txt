@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Analytics, Topic, Architecture, Topic, Resilience, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, Tech Explorer, Role, Amazon Elastic MapReduce (EMR), Services, Amazon OpenSearch Serverless, Services, 300 - Advanced, Level, Monday, Day, Venetian, Venue, , speakers :firstName_0: Neylson, lastName_0: Crepalde, company_0: A3Data, , thirdpartyid :COM310, sessionuid :FF7A44CF-62CA-48AD-8B9A-6B2F15339263, title :Processing over 450 million events per day in real time with AWS, description :<p>This dev chat highlights a remarkable technical accomplishment that addressed a substantial challenge faced by a prominent Brazilian financial institution. The task at hand was to perform log analytics on a colossal five-terabyte-per-month data volume, comprising 450 million messages per day. Using fine-tuned Apache Spark Structured Streaming code on Amazon EMR, the institution engineered a real-time data pipeline capable of handling their massive data load. They also achieved blazing-fast data visualization using Amazon OpenSearch Service, which empowered the company to glean invaluable insights and optimize security-critical processes with increased efficiency and speed.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>This dev chat highlights a remarkable technical accomplishment that addressed a substantial challenge faced by a prominent Brazilian financial institution. The task at hand was to perform log analytics on a colossal five-terabyte-per-month data volume, comprising 450 million messages per day. Using fine-tuned Apache Spark Structured Streaming code on Amazon EMR, the institution engineered a real-time data pipeline capable of handling their massive data load. They also achieved blazing-fast data visualization using Amazon OpenSearch Service, which empowered the company to glean invaluable insights and optimize security-critical processes with increased efficiency and speed.</p>
+title: Processing over 450 million events per day in real time with AWS
+sessionuid: FF7A44CF-62CA-48AD-8B9A-6B2F15339263
+thirdpartyid: COM310
+speakers: firstName_0: Neylson, lastName_0: Crepalde, company_0: A3Data
+tag_name: Analytics, Topic, Architecture, Topic, Resilience, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, Tech Explorer, Role, Amazon Elastic MapReduce (EMR), Services, Amazon OpenSearch Serverless, Services, 300 - Advanced, Level, Monday, Day, Venetian, Venue

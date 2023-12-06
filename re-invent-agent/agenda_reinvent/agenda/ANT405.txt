@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Margaux 1
+summary: tag_name :Amazon Managed Service for Apache Flink, Services, Analytics, Topic, Data Engineer, Role, Developer/Engineer, Role, Open Source, Area of Interest, Amazon Managed Streaming for Apache Kafka (MSK), Services, Wednesday, Day, Wynn, Venue, 400 - Expert, Level, , speakers :firstName_0: Jeremy, lastName_0: Ber, firstName_1: Buddhike, lastName_1: de Silva, , thirdpartyid :ANT405, sessionuid :08C978A7-B55D-472A-86B9-11F5A2723968, title :Build a Flink application on Amazon Managed Service for Apache Flink, description :Amazon Managed Service for Apache Flink is a fully managed service that helps you use an Apache Flink application to process streaming data. Join this code talk to develop and host a streaming and production-ready Apache Flink application on Amazon Managed Service for Apache Flink using the DataStream and Table API programming models., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Margaux 1, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 02:30:00 -0500, 
+enddatetimeutc: November, 30 2023 02:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Margaux 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: Amazon Managed Service for Apache Flink is a fully managed service that helps you use an Apache Flink application to process streaming data. Join this code talk to develop and host a streaming and production-ready Apache Flink application on Amazon Managed Service for Apache Flink using the DataStream and Table API programming models
+title: Build a Flink application on Amazon Managed Service for Apache Flink
+sessionuid: 08C978A7-B55D-472A-86B9-11F5A2723968
+thirdpartyid: ANT405
+speakers: firstName_0: Jeremy, lastName_0: Ber, firstName_1: Buddhike, lastName_1: de Silva
+tag_name: Amazon Managed Service for Apache Flink, Services, Analytics, Topic, Data Engineer, Role, Developer/Engineer, Role, Open Source, Area of Interest, Amazon Managed Streaming for Apache Kafka (MSK), Services, Wednesday, Day, Wynn, Venue, 400 - Expert, Level

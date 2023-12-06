@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :100 - Foundational, Level, Blockchain, Area of Interest, Business Executive, Role, IT Executive, Role, Tech Explorer, Role, Amazon Managed Blockchain, Services, Venetian, Venue, Wednesday, Day, Financial Services, Industry, , speakers :firstName_0: John, lastName_0: Liu, , thirdpartyid :BLC103, sessionuid :A148D80F-C875-4000-8798-1781F71CC418, title :Unlocking scalable digital asset custody applications on AWS, description :<p>Join this lightning talk for a live demo event showcasing how Amazon Managed Blockchain (AMB) Access and Amazon Managed Blockchain (AMB) Query work seamlessly together to accelerate your digital asset custody solution. Watch as AMB Access sends customer withdrawals to the blockchain, and explore how AMB Query quickly delivers crucial on-chain data back to your application. The Managed Blockchain team will be on hand to answer your questions and help you start building quickly.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 01:50:00 -0500, 
+enddatetimeutc: November, 30 2023 01:50:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Join this lightning talk for a live demo event showcasing how Amazon Managed Blockchain (AMB) Access and Amazon Managed Blockchain (AMB) Query work seamlessly together to accelerate your digital asset custody solution. Watch as AMB Access sends customer withdrawals to the blockchain, and explore how AMB Query quickly delivers crucial on-chain data back to your application. The Managed Blockchain team will be on hand to answer your questions and help you start building quickly.</p>
+title: Unlocking scalable digital asset custody applications on AWS
+sessionuid: A148D80F-C875-4000-8798-1781F71CC418
+thirdpartyid: BLC103
+speakers: firstName_0: John, lastName_0: Liu
+tag_name: 100 - Foundational, Level, Blockchain, Area of Interest, Business Executive, Role, IT Executive, Role, Tech Explorer, Role, Amazon Managed Blockchain, Services, Venetian, Venue, Wednesday, Day, Financial Services, Industry

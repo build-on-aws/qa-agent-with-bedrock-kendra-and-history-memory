@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Surf A
+summary: tag_name :Cloud Operations, Topic, Small and Midsize Business (SMB), Area of Interest, 300 - Advanced, Level, Developer/Engineer, Role, DevOps Engineer, Role, IT Executive, Role, Wednesday, Day, Mandalay Bay, Venue, , speakers :firstName_0: John, lastName_0: Lee, firstName_1: Henrique, lastName_1: Trevisan, firstName_2: Jamal, lastName_2: Arif, firstName_3: Jeetendra, lastName_3: Vaidya, firstName_4: Neha, lastName_4: Inampudi, , thirdpartyid :SMB302, sessionuid :2B8B10B2-A9A8-452F-99B6-D673F8DB6735, title :Achieving cost transparency for workloads with minimal cost oversight, description :<p>Cost optimization can be achieved after fully understanding your current AWS footprint and costs. This can be a challenge for existing workloads running with minimal cost oversight. In this builders' session, learn how you can gain full visibility of your costs using AWS tools. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Surf A, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Surf A
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: standard
+description: <p>Cost optimization can be achieved after fully understanding your current AWS footprint and costs. This can be a challenge for existing workloads running with minimal cost oversight. In this builders' session, learn how you can gain full visibility of your costs using AWS tools. You must bring your laptop to participate.</p>
+title: Achieving cost transparency for workloads with minimal cost oversight
+sessionuid: 2B8B10B2-A9A8-452F-99B6-D673F8DB6735
+thirdpartyid: SMB302
+speakers: firstName_0: John, lastName_0: Lee, firstName_1: Henrique, lastName_1: Trevisan, firstName_2: Jamal, lastName_2: Arif, firstName_3: Jeetendra, lastName_3: Vaidya, firstName_4: Neha, lastName_4: Inampudi
+tag_name: Cloud Operations, Topic, Small and Midsize Business (SMB), Area of Interest, 300 - Advanced, Level, Developer/Engineer, Role, DevOps Engineer, Role, IT Executive, Role, Wednesday, Day, Mandalay Bay, Venue

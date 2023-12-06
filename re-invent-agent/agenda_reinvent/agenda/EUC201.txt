@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific F
+summary: tag_name :Cost Optimization, Area of Interest, IT Administrator, Role, Solution/Systems Architect, Role, End-User Computing, Topic, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Resilience, Area of Interest, Tuesday, Day, Mandalay Bay, Venue, Amazon WorkSpaces, Services, , speakers :firstName_0: Russell, lastName_0: Bell, , thirdpartyid :EUC201-R, sessionuid :78B65CCD-B12B-4B07-AEE6-F2641163E6A8, title :Getting started with Amazon WorkSpaces [REPEAT], description :<p>IT teams responsible for end user computing face numerous challenges, including rapid fluctuations in head count, emerging security threats, and pressure to do more with less. Amazon WorkSpaces allows you to provision cloud-based virtual desktops that provide users access to documents, applications, and resources they need to do their jobs. In this workshop, learn how easy it can be to deploy WorkSpaces and AWS Directory Service. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific F, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 21:00:00 -0500, 
+enddatetimeutc: November, 28 2023 21:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: South Pacific F
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Workshop
+description: <p>IT teams responsible for end user computing face numerous challenges, including rapid fluctuations in head count, emerging security threats, and pressure to do more with less. Amazon WorkSpaces allows you to provision cloud-based virtual desktops that provide users access to documents, applications, and resources they need to do their jobs. In this workshop, learn how easy it can be to deploy WorkSpaces and AWS Directory Service. You must bring your laptop to participate.</p>
+title: Getting started with Amazon WorkSpaces [REPEAT]
+sessionuid: 78B65CCD-B12B-4B07-AEE6-F2641163E6A8
+thirdpartyid: EUC201-R
+speakers: firstName_0: Russell, lastName_0: Bell
+tag_name: Cost Optimization, Area of Interest, IT Administrator, Role, Solution/Systems Architect, Role, End-User Computing, Topic, 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Resilience, Area of Interest, Tuesday, Day, Mandalay Bay, Venue, Amazon WorkSpaces, Services

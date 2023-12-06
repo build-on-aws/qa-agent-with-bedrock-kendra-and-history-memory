@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 4
+summary: tag_name :Developer/Engineer, Role, Cost Optimization, Area of Interest, IT Executive, Role, Wednesday, Day, Wynn, Venue, 200 - Intermediate, Level, Cloud Operations, Topic, Business Executive, Role, , speakers :firstName_0: Stephanie, lastName_0: Gooch, firstName_1: Darko, lastName_1: Mesaros, firstName_2: Rahul, lastName_2: Subramaniam, company_2: CloudFix, firstName_3: Stephen, lastName_3: Barr, company_3: CloudFix, , thirdpartyid :COP219-S, sessionuid :1B7011F5-C39C-495E-AA49-F7C91E6C84E9, title :A cloud cost savings spectacular (sponsored by CloudFix), description :<p>In this session, AWS experts join together to empower you with actionable insights to reduce your cloud spend. CloudFix’s Stephen Barr and Rahul Subramaniam and AWS’s Darko Mesaroš and Steph Gooch pack this fun and fact-filled session with next-level tips for saving on AWS costs, optimizing infrastructure, and avoiding major mistakes that can accelerate spending. Come for the cost saving, stay for the laughs and camaraderie. This presentation is brought to you by CloudFix, an AWS Partner.</p>, sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 4, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Lafite 4
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: <p>In this session, AWS experts join together to empower you with actionable insights to reduce your cloud spend. CloudFix’s Stephen Barr and Rahul Subramaniam and AWS’s Darko Mesaroš and Steph Gooch pack this fun and fact-filled session with next-level tips for saving on AWS costs, optimizing infrastructure, and avoiding major mistakes that can accelerate spending. Come for the cost saving, stay for the laughs and camaraderie. This presentation is brought to you by CloudFix, an AWS Partner.</p>
+title: A cloud cost savings spectacular (sponsored by CloudFix)
+sessionuid: 1B7011F5-C39C-495E-AA49-F7C91E6C84E9
+thirdpartyid: COP219-S
+speakers: firstName_0: Stephanie, lastName_0: Gooch, firstName_1: Darko, lastName_1: Mesaros, firstName_2: Rahul, lastName_2: Subramaniam, company_2: CloudFix, firstName_3: Stephen, lastName_3: Barr, company_3: CloudFix
+tag_name: Developer/Engineer, Role, Cost Optimization, Area of Interest, IT Executive, Role, Wednesday, Day, Wynn, Venue, 200 - Intermediate, Level, Cloud Operations, Topic, Business Executive, Role

@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Developer/Engineer, Role, Amazon Kinesis Data Firehose, Services, System Administrator, Role, Storage, Topic, Amazon Athena, Services, Wednesday, Day, Venetian, Venue, Customer Stories, Area of Interest, 200 - Intermediate, Level, Architecture, Topic, Amazon EventBridge, Services, , speakers :firstName_0: Sébastien, lastName_0: Napoleon, company_0: Ippon, , thirdpartyid :COM210, sessionuid :A76006CA-FC99-4267-95D4-D5713DA21804, title :Unleash the hidden potential of event-driven architecture, description :Did you know that the events flowing throughout your architecture all day long are a real valuable source of information? Event-driven architectures are becoming increasingly common today. You’ve likely either heard of them or are currently working with them. Whether they’re business events (like a product sale) or technical events (like an error during an order), these events can add real value if you can easily store and query them. This dev chat introduces a 100% serverless architecture based on AWS services that can allow you to ingest, modify, store, and query (using SQL) all of these events., sessiontype :Dev Chat, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Dev Chat
+description: Did you know that the events flowing throughout your architecture all day long are a real valuable source of information? Event-driven architectures are becoming increasingly common today. You’ve likely either heard of them or are currently working with them. Whether they’re business events (like a product sale) or technical events (like an error during an order), these events can add real value if you can easily store and query them. This dev chat introduces a 100% serverless architecture based on AWS services that can allow you to ingest, modify, store, and query (using SQL) all of these events
+title: Unleash the hidden potential of event-driven architecture
+sessionuid: A76006CA-FC99-4267-95D4-D5713DA21804
+thirdpartyid: COM210
+speakers: firstName_0: Sébastien, lastName_0: Napoleon, company_0: Ippon
+tag_name: Developer/Engineer, Role, Amazon Kinesis Data Firehose, Services, System Administrator, Role, Storage, Topic, Amazon Athena, Services, Wednesday, Day, Venetian, Venue, Customer Stories, Area of Interest, 200 - Intermediate, Level, Architecture, Topic, Amazon EventBridge, Services

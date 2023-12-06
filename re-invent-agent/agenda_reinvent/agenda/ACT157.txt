@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall C, Tattoo and Piercing Zone
+summary: tag_name :Thursday, Day, Venetian, Venue, , speakers :, thirdpartyid :ACT157, sessionuid :78A5C4C5-BE24-46B6-A05A-70B4A79C1B71, title :Tattoo and Piercing Zone, description :<p>Discover an exciting addition to this year’s re:Invent. Visit our Tattoo and Piercing Zone to get permanent body art and piercings.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall C, Tattoo and Piercing Zone, startdatetimeutc :November, 30 2023 20:00:00 -0500, enddatetimeutc :December, 01 2023 02:00:00 -0500, 
+enddatetimeutc: December, 01 2023 02:00:00 -0500
+startdatetimeutc: November, 30 2023 20:00:00 -0500
+locationname: Hall C, Tattoo and Piercing Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Discover an exciting addition to this year’s re:Invent. Visit our Tattoo and Piercing Zone to get permanent body art and piercings.</p>
+title: Tattoo and Piercing Zone
+sessionuid: 78A5C4C5-BE24-46B6-A05A-70B4A79C1B71
+thirdpartyid: ACT157
+speakers: 
+tag_name: Thursday, Day, Venetian, Venue

@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1280
+summary: tag_name :Wednesday, Day, Venetian, Venue, Expo, Additional Services, Inclusion & Diversity, Area of Interest, , speakers :, thirdpartyid :ACT042, sessionuid :81BE02D7-8605-4A90-96E7-9BD8B4BD8EFA, title :All Builders Welcome Lounge inclusion takeover, description :Join Amazon affinity group leaders from Women at Amazon, the Black Employee Network, Latinos at Amazon, Indigenous at Amazon, Asians at Amazon, Amazon People with Disabilities, Glamazon, and Warriors at Amazon to get a behind-the-scenes look at how a culture of inclusion is built across Amazon and AWS. Stop by for fireside chats and meetups throughout the day to find community and network with fellow re:Invent attendees., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1280, startdatetimeutc :November, 29 2023 18:00:00 -0500, enddatetimeutc :November, 30 2023 02:00:00 -0500, 
+enddatetimeutc: November, 30 2023 02:00:00 -0500
+startdatetimeutc: November, 29 2023 18:00:00 -0500
+locationname: Hall B, Expo, Booth #1280
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Join Amazon affinity group leaders from Women at Amazon, the Black Employee Network, Latinos at Amazon, Indigenous at Amazon, Asians at Amazon, Amazon People with Disabilities, Glamazon, and Warriors at Amazon to get a behind-the-scenes look at how a culture of inclusion is built across Amazon and AWS. Stop by for fireside chats and meetups throughout the day to find community and network with fellow re:Invent attendees
+title: All Builders Welcome Lounge inclusion takeover
+sessionuid: 81BE02D7-8605-4A90-96E7-9BD8B4BD8EFA
+thirdpartyid: ACT042
+speakers: 
+tag_name: Wednesday, Day, Venetian, Venue, Expo, Additional Services, Inclusion & Diversity, Area of Interest

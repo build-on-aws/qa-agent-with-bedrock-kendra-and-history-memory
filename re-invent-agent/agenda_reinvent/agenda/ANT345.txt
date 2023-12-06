@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 2
+summary: tag_name :Analytics, Topic, Architecture, Topic, Well-Architected Framework, Area of Interest, Data Engineer, Role, Solution/Systems Architect, Role, Amazon Athena, Services, Amazon QuickSight, Services, AWS Glue, Services, 300 - Advanced, Level, Tuesday, Day, Wynn, Venue, , speakers :firstName_0: Dhiraj, lastName_0: Thakur, firstName_1: Gareth, lastName_1: Eagar, , thirdpartyid :ANT345, sessionuid :6E5F4D4F-8CE5-4C87-8601-D65AF5B4DEC2, title :Simplify working with data across multicloud with AWS analytics, description :<p>AWS data and analytics services help you simplify and centralize the management of your applications and gain insights from your data, wherever it’s stored, including other cloud storage services. In this code talk, build multicloud data pipelines on AWS, across AWS and other cloud providers, with AWS analytics offerings.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 2, startdatetimeutc :November, 28 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 22:00:00 -0500, 
+enddatetimeutc: November, 28 2023 22:00:00 -0500
+startdatetimeutc: November, 28 2023 21:00:00 -0500
+locationname: Lafite 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>AWS data and analytics services help you simplify and centralize the management of your applications and gain insights from your data, wherever it’s stored, including other cloud storage services. In this code talk, build multicloud data pipelines on AWS, across AWS and other cloud providers, with AWS analytics offerings.</p>
+title: Simplify working with data across multicloud with AWS analytics
+sessionuid: 6E5F4D4F-8CE5-4C87-8601-D65AF5B4DEC2
+thirdpartyid: ANT345
+speakers: firstName_0: Dhiraj, lastName_0: Thakur, firstName_1: Gareth, lastName_1: Eagar
+tag_name: Analytics, Topic, Architecture, Topic, Well-Architected Framework, Area of Interest, Data Engineer, Role, Solution/Systems Architect, Role, Amazon Athena, Services, Amazon QuickSight, Services, AWS Glue, Services, 300 - Advanced, Level, Tuesday, Day, Wynn, Venue

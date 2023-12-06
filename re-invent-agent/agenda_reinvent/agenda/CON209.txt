@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 9
+summary: tag_name :Compute, Topic, Thursday, Day, Wynn, Venue, Serverless Compute, Topic, Amazon Elastic Container Service (ECS), Services, IT Professional/Technical Manager, Role, DevOps Engineer, Role, Monitoring & Observability, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, AWS App Runner, Services, Developer/Engineer, Role, Network & Infrastructure Security, Area of Interest, Cost Optimization, Area of Interest, , speakers :, thirdpartyid :CON209, sessionuid :2F898583-11F3-44F7-9701-A3F1DDB5A3CC, title :Optimizing for cost and performance with AWS App Runner, description :Compute cost is a common consideration when organizations evaluate where and how to deploy their workloads. This session showcases how you can lower your total cost of ownership and improve agility for your applications with the fully managed capabilities of AWS App Runner. This session covers automatic scaling, continuous deployments, and managed runtime versions. Get concrete examples of how App Runner can deploy from code, manage infrastructure, and reduce infrastructure overhead. Additionally, receive expert guidance on performance tuning with App Runner, helping your applications run efficiently., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 9, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: Lafite 9
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: Compute cost is a common consideration when organizations evaluate where and how to deploy their workloads. This session showcases how you can lower your total cost of ownership and improve agility for your applications with the fully managed capabilities of AWS App Runner. This session covers automatic scaling, continuous deployments, and managed runtime versions. Get concrete examples of how App Runner can deploy from code, manage infrastructure, and reduce infrastructure overhead. Additionally, receive expert guidance on performance tuning with App Runner, helping your applications run efficiently
+title: Optimizing for cost and performance with AWS App Runner
+sessionuid: 2F898583-11F3-44F7-9701-A3F1DDB5A3CC
+thirdpartyid: CON209
+speakers: 
+tag_name: Compute, Topic, Thursday, Day, Wynn, Venue, Serverless Compute, Topic, Amazon Elastic Container Service (ECS), Services, IT Professional/Technical Manager, Role, DevOps Engineer, Role, Monitoring & Observability, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, AWS App Runner, Services, Developer/Engineer, Role, Network & Infrastructure Security, Area of Interest, Cost Optimization, Area of Interest

@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 3
+summary: tag_name :Solution/Systems Architect, Role, Architecture, Topic, Developer/Engineer, Role, Amazon DynamoDB, Services, 400 - Expert, Level, Wednesday, Day, Wynn, Venue, Amazon Elastic Kubernetes Service (EKS), Services, SaaS, Area of Interest, , speakers :firstName_0: Humberto, lastName_0: Somensi, firstName_1: Syed, lastName_1: Hussain, , thirdpartyid :SAS401-R, sessionuid :CE0F413D-67AC-4664-A7AD-B78AAC3A647A, title :SaaS microservices deep dive: Multi-tenancy meets microservices [REPEAT], description :Microservices represent the area of your SaaS application where multi-tenant context meets the everyday coding needs of SaaS developers. The microservices of your SaaS environment are where you’ll ultimately apply the constructs that address tenant isolation, accessing data with tenant context, recording tenant-aware metrics, integrating with billing systems, interacting with other multi-tenant microservices, and a long list of other considerations. In this workshop, create real-world microservices that cover a broad spectrum of multi-tenant use cases and implementation strategies. See firsthand the way SaaS influences the inner workings of your microservices. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 3, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 01:00:00 -0500, 
+enddatetimeutc: November, 30 2023 01:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Cristal 3
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: Microservices represent the area of your SaaS application where multi-tenant context meets the everyday coding needs of SaaS developers. The microservices of your SaaS environment are where you’ll ultimately apply the constructs that address tenant isolation, accessing data with tenant context, recording tenant-aware metrics, integrating with billing systems, interacting with other multi-tenant microservices, and a long list of other considerations. In this workshop, create real-world microservices that cover a broad spectrum of multi-tenant use cases and implementation strategies. See firsthand the way SaaS influences the inner workings of your microservices. You must bring your laptop to participate
+title: SaaS microservices deep dive: Multi-tenancy meets microservices [REPEAT]
+sessionuid: CE0F413D-67AC-4664-A7AD-B78AAC3A647A
+thirdpartyid: SAS401-R
+speakers: firstName_0: Humberto, lastName_0: Somensi, firstName_1: Syed, lastName_1: Hussain
+tag_name: Solution/Systems Architect, Role, Architecture, Topic, Developer/Engineer, Role, Amazon DynamoDB, Services, 400 - Expert, Level, Wednesday, Day, Wynn, Venue, Amazon Elastic Kubernetes Service (EKS), Services, SaaS, Area of Interest

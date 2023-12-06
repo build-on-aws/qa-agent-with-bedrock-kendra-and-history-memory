@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 2
+summary: tag_name :Monday, Day, 400 - Expert, Level, Databases, Topic, Application Security, Area of Interest, Open Source, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Amazon Aurora, Services, Wynn, Venue, , speakers :firstName_0: Shayon, lastName_0: Sanyal, firstName_1: Raj, lastName_1: Jayakrishnan, , thirdpartyid :DAT414, sessionuid :BAA60851-A66A-4C08-BC44-40C9D377EB12, title :Building with Trusted Language Extensions in Amazon Aurora PostgreSQL, description :<p>Amazon Aurora PostgreSQL-Compatible Edition supports Trusted Language Extensions (TLE) for PostgreSQL, which is an open source development kit for building PostgreSQL extensions and managing them from a SQL interface. In this code talk, build and deploy an extension that performs a password verification and complexity check using TLE.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 2, startdatetimeutc :November, 28 2023 00:30:00 -0500, enddatetimeutc :November, 28 2023 01:30:00 -0500, 
+enddatetimeutc: November, 28 2023 01:30:00 -0500
+startdatetimeutc: November, 28 2023 00:30:00 -0500
+locationname: Lafite 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Amazon Aurora PostgreSQL-Compatible Edition supports Trusted Language Extensions (TLE) for PostgreSQL, which is an open source development kit for building PostgreSQL extensions and managing them from a SQL interface. In this code talk, build and deploy an extension that performs a password verification and complexity check using TLE.</p>
+title: Building with Trusted Language Extensions in Amazon Aurora PostgreSQL
+sessionuid: BAA60851-A66A-4C08-BC44-40C9D377EB12
+thirdpartyid: DAT414
+speakers: firstName_0: Shayon, lastName_0: Sanyal, firstName_1: Raj, lastName_1: Jayakrishnan
+tag_name: Monday, Day, 400 - Expert, Level, Databases, Topic, Application Security, Area of Interest, Open Source, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Amazon Aurora, Services, Wynn, Venue

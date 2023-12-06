@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :Thursday, Day, Venetian, Venue, AI/ML, Topic, Generative AI, Area of Interest, Healthcare, Industry, Life Sciences, Industry, 100 - Foundational, Level, Business Executive, Role, Amazon Bedrock, Services, , speakers :firstName_0: Valerie, lastName_0: Delva, , thirdpartyid :HLC101, sessionuid :88F668FB-8D6B-4A65-A535-DEFC371D6FF4, title :Driving health breakthroughs with integrated data strategies & gen AI, description :<p>Generative AI has the potential to dramatically improve the time to diagnoses and quality of care and accelerate research and development of critical therapeutics. But the success of generative AI depends on access to quality data, and access to quality data depends on having a comprehensive data strategy. This lightning talk explores the essential role of an end-to-end data strategy that uses the AWS Health Data Portfolio to unlock the full power of healthcare and life sciences data. Learn how to build integrated data strategies to make better, faster decisions with the power of machine learning and generative AI.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 22:50:00 -0500, 
+enddatetimeutc: November, 30 2023 22:50:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Generative AI has the potential to dramatically improve the time to diagnoses and quality of care and accelerate research and development of critical therapeutics. But the success of generative AI depends on access to quality data, and access to quality data depends on having a comprehensive data strategy. This lightning talk explores the essential role of an end-to-end data strategy that uses the AWS Health Data Portfolio to unlock the full power of healthcare and life sciences data. Learn how to build integrated data strategies to make better, faster decisions with the power of machine learning and generative AI.</p>
+title: Driving health breakthroughs with integrated data strategies & gen AI
+sessionuid: 88F668FB-8D6B-4A65-A535-DEFC371D6FF4
+thirdpartyid: HLC101
+speakers: firstName_0: Valerie, lastName_0: Delva
+tag_name: Thursday, Day, Venetian, Venue, AI/ML, Topic, Generative AI, Area of Interest, Healthcare, Industry, Life Sciences, Industry, 100 - Foundational, Level, Business Executive, Role, Amazon Bedrock, Services

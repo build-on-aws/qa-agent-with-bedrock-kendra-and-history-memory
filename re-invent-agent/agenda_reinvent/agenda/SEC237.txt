@@ -1,0 +1,14 @@
+location: Venetian, Level 5, Palazzo Ballroom B
+summary: tag_name :AWS Identity and Access Management (IAM), Services, Generative AI, Area of Interest, Amazon GuardDuty, Services, Amazon Security Lake, Services, Network & Infrastructure Security, Area of Interest, Security, Compliance, & Identity, Topic, Monday, Day, Venetian, Venue, 200 - Intermediate, Level, Threat Detection & Incident Response, Area of Interest, , speakers :firstName_0: Chris, lastName_0: Betz, firstName_1: Steve, lastName_1: Schmidt, , thirdpartyid :SEC237-INT, sessionuid :F99621F1-1039-49FC-9DB3-BDCA11CE4E80, title :Move fast, stay secure: Strategies for the future of security, description :The security landscape is evolving as organizations adapt and embrace new technologies. In this talk, discover the AWS vision for security that drives business agility. Hear directly from security leaders as they share their insights on key topics like Zero Trust, builder security experience, and generative AI. Learn how AWS approaches these areas internally and understand how to apply those lessons to help you meet your security goals., sessiontype :Innovation Talk, venuename :Venetian, floorplanname :Level 5, locationname :Palazzo Ballroom B, startdatetimeutc :November, 27 2023 21:30:00 -0500, enddatetimeutc :November, 27 2023 22:30:00 -0500, 
+enddatetimeutc: November, 27 2023 22:30:00 -0500
+startdatetimeutc: November, 27 2023 21:30:00 -0500
+locationname: Palazzo Ballroom B
+floorplanname: Level 5
+venuename: Venetian
+sessiontype: Innovation Talk
+description: The security landscape is evolving as organizations adapt and embrace new technologies. In this talk, discover the AWS vision for security that drives business agility. Hear directly from security leaders as they share their insights on key topics like Zero Trust, builder security experience, and generative AI. Learn how AWS approaches these areas internally and understand how to apply those lessons to help you meet your security goals
+title: Move fast, stay secure: Strategies for the future of security
+sessionuid: F99621F1-1039-49FC-9DB3-BDCA11CE4E80
+thirdpartyid: SEC237-INT
+speakers: firstName_0: Chris, lastName_0: Betz, firstName_1: Steve, lastName_1: Schmidt
+tag_name: AWS Identity and Access Management (IAM), Services, Generative AI, Area of Interest, Amazon GuardDuty, Services, Amazon Security Lake, Services, Network & Infrastructure Security, Area of Interest, Security, Compliance, & Identity, Topic, Monday, Day, Venetian, Venue, 200 - Intermediate, Level, Threat Detection & Incident Response, Area of Interest

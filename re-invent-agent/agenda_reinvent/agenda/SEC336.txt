@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 113
+summary: tag_name :Tuesday, Day, Security, Compliance, & Identity, Topic, Caesars Forum, Venue, 300 - Advanced, Level, , speakers :firstName_0: Brigid, lastName_0: Johnson, firstName_1: Karen, lastName_1: Haberkorn, , thirdpartyid :SEC336, sessionuid :0B5B30EE-68B2-4FF4-9385-D394E7EB90D8, title :Spur productivity with options for identity and access, description :Identity and access management is a foundational security pillar that applies to your workforce, data, and customers. In this session, explore frameworks, solutions, and best practices your teams can use to build on AWS. Consider solutions that empower central security teams to set up your organization for success by establishing governance for access controls. Then, explore tools for fine-grained permissions for AWS infrastructure so that builders can move quickly and adhere to set security standards. Diving into data access, learn about scenarios and tools that allow builders to innovate with data while restricting access to your most critical data. Finally, review solutions for fine-grained customer access to applications., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 113, startdatetimeutc :November, 28 2023 23:30:00 -0500, enddatetimeutc :November, 29 2023 00:30:00 -0500, 
+enddatetimeutc: November, 29 2023 00:30:00 -0500
+startdatetimeutc: November, 28 2023 23:30:00 -0500
+locationname: Forum 113
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: Identity and access management is a foundational security pillar that applies to your workforce, data, and customers. In this session, explore frameworks, solutions, and best practices your teams can use to build on AWS. Consider solutions that empower central security teams to set up your organization for success by establishing governance for access controls. Then, explore tools for fine-grained permissions for AWS infrastructure so that builders can move quickly and adhere to set security standards. Diving into data access, learn about scenarios and tools that allow builders to innovate with data while restricting access to your most critical data. Finally, review solutions for fine-grained customer access to applications
+title: Spur productivity with options for identity and access
+sessionuid: 0B5B30EE-68B2-4FF4-9385-D394E7EB90D8
+thirdpartyid: SEC336
+speakers: firstName_0: Brigid, lastName_0: Johnson, firstName_1: Karen, lastName_1: Haberkorn
+tag_name: Tuesday, Day, Security, Compliance, & Identity, Topic, Caesars Forum, Venue, 300 - Advanced, Level

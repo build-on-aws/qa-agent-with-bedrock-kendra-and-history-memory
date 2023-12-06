@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 1
+summary: tag_name :AI/ML, Topic, Amazon CodeWhisperer, Services, 300 - Advanced, Level, Generative AI, Area of Interest, BuildOn.AWS, Area of Interest, Tuesday, Day, Wynn, Venue, Amazon Bedrock, Services, , speakers :firstName_0: Banjo, lastName_0: Obayomi, , thirdpartyid :BOA316, sessionuid :E3C62969-A97E-464D-AC13-2C306DC1F416, title :An immersive experience with Amazon Bedrock, description :Navigating AI application development can be intricate. In this chalk talk, explore how to unlock the power of Amazon Bedrock, the easiest way to build and scale generative AI applications with foundation models. Learn through live coding demonstrations how to build image and text generation applications, including a dialogue-based conversational tool, using Amazon CodeWhisperer for live code recommendations to accelerate the application building process. Ideal for developers and AI enthusiasts, this immersive talk provides practical experience in using Amazon Bedrock., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 1, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: Lafite 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Navigating AI application development can be intricate. In this chalk talk, explore how to unlock the power of Amazon Bedrock, the easiest way to build and scale generative AI applications with foundation models. Learn through live coding demonstrations how to build image and text generation applications, including a dialogue-based conversational tool, using Amazon CodeWhisperer for live code recommendations to accelerate the application building process. Ideal for developers and AI enthusiasts, this immersive talk provides practical experience in using Amazon Bedrock
+title: An immersive experience with Amazon Bedrock
+sessionuid: E3C62969-A97E-464D-AC13-2C306DC1F416
+thirdpartyid: BOA316
+speakers: firstName_0: Banjo, lastName_0: Obayomi
+tag_name: AI/ML, Topic, Amazon CodeWhisperer, Services, 300 - Advanced, Level, Generative AI, Area of Interest, BuildOn.AWS, Area of Interest, Tuesday, Day, Wynn, Venue, Amazon Bedrock, Services

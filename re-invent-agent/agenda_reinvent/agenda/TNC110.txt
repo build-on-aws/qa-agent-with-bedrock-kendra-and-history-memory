@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Lagoon L
+summary: tag_name :Cloud Security Specialist, Role, Amazon Virtual Private Cloud (VPC), Services, Network & Infrastructure Security, Area of Interest, 100 - Foundational, Level, Networking & Content Delivery, Topic, BuildOn.AWS, Area of Interest, Developer/Engineer, Role, Training & Certification, Topic, Thursday, Day, Mandalay Bay, Venue, Solution/Systems Architect, Role, Cross Industry, Industry, , speakers :firstName_0: Kent, lastName_0: Rademacher, , thirdpartyid :TNC110, sessionuid :C49BFAA3-8E4D-4991-944C-D39E9679E465, title :Traffic monitoring and packet analysis, description :Security engineers can use Amazon VPC Traffic Mirroring to send a complete copy of traffic to a target of their choice. This is a very important capability to allow for in-depth traffic monitoring, analysis, and threat detection. In this lab, learn how to use Amazon VPC Traffic Mirroring to capture the traffic of your interest for monitoring purposes., sessiontype :Lab, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Lagoon L, startdatetimeutc :November, 30 2023 21:15:00 -0500, enddatetimeutc :November, 30 2023 22:45:00 -0500, 
+enddatetimeutc: November, 30 2023 22:45:00 -0500
+startdatetimeutc: November, 30 2023 21:15:00 -0500
+locationname: Lagoon L
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Lab
+description: Security engineers can use Amazon VPC Traffic Mirroring to send a complete copy of traffic to a target of their choice. This is a very important capability to allow for in-depth traffic monitoring, analysis, and threat detection. In this lab, learn how to use Amazon VPC Traffic Mirroring to capture the traffic of your interest for monitoring purposes
+title: Traffic monitoring and packet analysis
+sessionuid: C49BFAA3-8E4D-4991-944C-D39E9679E465
+thirdpartyid: TNC110
+speakers: firstName_0: Kent, lastName_0: Rademacher
+tag_name: Cloud Security Specialist, Role, Amazon Virtual Private Cloud (VPC), Services, Network & Infrastructure Security, Area of Interest, 100 - Foundational, Level, Networking & Content Delivery, Topic, BuildOn.AWS, Area of Interest, Developer/Engineer, Role, Training & Certification, Topic, Thursday, Day, Mandalay Bay, Venue, Solution/Systems Architect, Role, Cross Industry, Industry

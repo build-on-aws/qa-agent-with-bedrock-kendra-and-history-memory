@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 7
+summary: tag_name :200 - Intermediate, Level, Kubernetes, Topic, Amazon Elastic Kubernetes Service (EKS), Services, Open Source, Area of Interest, Tuesday, Day, Wynn, Venue, BuildOn.AWS, Area of Interest, , speakers :firstName_0: Thirumalai, lastName_0: Aiyalu, firstName_1: Mohammed Fazalullah, lastName_1: Qudrath, , thirdpartyid :BOA205, sessionuid :F28A1D9E-3985-48AF-BEC1-5539343311C3, title :My pods aren’t responding! A Kubernetes troubleshooting journey, description :Debugging cloud-based, containerized, distributed services can be like a scavenger hunt. Without the proper debugging and observability tools, it is virtually impossible to see what is happening in a large-scale production deployment. This session demos a multi-scenario troubleshooting experience for developers and operators tasked with ensuring that applications are served correctly. In addition to covering a framework for troubleshooting issues in production, it also sets up an in-depth examination of the Kubernetes architecture and how certain errors may not appear as expected. Discover how kubectl, Amazon CloudWatch, and other open source services such as OpenTelemetry can enhance your troubleshooting abilities., sessiontype :Breakout Session, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 7, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 20:30:00 -0500, 
+enddatetimeutc: November, 28 2023 20:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Cristal 7
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Breakout Session
+description: Debugging cloud-based, containerized, distributed services can be like a scavenger hunt. Without the proper debugging and observability tools, it is virtually impossible to see what is happening in a large-scale production deployment. This session demos a multi-scenario troubleshooting experience for developers and operators tasked with ensuring that applications are served correctly. In addition to covering a framework for troubleshooting issues in production, it also sets up an in-depth examination of the Kubernetes architecture and how certain errors may not appear as expected. Discover how kubectl, Amazon CloudWatch, and other open source services such as OpenTelemetry can enhance your troubleshooting abilities
+title: My pods aren’t responding! A Kubernetes troubleshooting journey
+sessionuid: F28A1D9E-3985-48AF-BEC1-5539343311C3
+thirdpartyid: BOA205
+speakers: firstName_0: Thirumalai, lastName_0: Aiyalu, firstName_1: Mohammed Fazalullah, lastName_1: Qudrath
+tag_name: 200 - Intermediate, Level, Kubernetes, Topic, Amazon Elastic Kubernetes Service (EKS), Services, Open Source, Area of Interest, Tuesday, Day, Wynn, Venue, BuildOn.AWS, Area of Interest

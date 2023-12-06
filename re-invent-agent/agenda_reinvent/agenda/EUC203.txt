@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 307
+summary: tag_name :Solution/Systems Architect, Role, 200 - Intermediate, Level, End-User Computing, Topic, Cost Optimization, Area of Interest, Amazon AppStream 2.0, Services, IT Administrator, Role, IT Professional/Technical Manager, Role, SaaS, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Independent Software Vendor (ISV), Area of Interest, , speakers :firstName_0: Justin, lastName_0: Grego, firstName_1: Manav, lastName_1: Verma, , thirdpartyid :EUC203, sessionuid :CCB26695-C203-47DA-96DF-A0B879A3649B, title :Optimize application streaming costs with Amazon AppStream 2.0, description :Whether configured as an application streaming service or an all-inclusive virtual desktop service, Amazon AppStream 2.0 gives you the flexibility to support a wide range of user requirements while minimizing operating costs. This workshop includes hands-on practice setting up various fleet types and fine-tuning instance settings to optimize end user experience and control cost. You must bring your laptop to participate., sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 307, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 00:30:00 -0500, 
+enddatetimeutc: November, 30 2023 00:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Alliance 307
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: Whether configured as an application streaming service or an all-inclusive virtual desktop service, Amazon AppStream 2.0 gives you the flexibility to support a wide range of user requirements while minimizing operating costs. This workshop includes hands-on practice setting up various fleet types and fine-tuning instance settings to optimize end user experience and control cost. You must bring your laptop to participate
+title: Optimize application streaming costs with Amazon AppStream 2.0
+sessionuid: CCB26695-C203-47DA-96DF-A0B879A3649B
+thirdpartyid: EUC203
+speakers: firstName_0: Justin, lastName_0: Grego, firstName_1: Manav, lastName_1: Verma
+tag_name: Solution/Systems Architect, Role, 200 - Intermediate, Level, End-User Computing, Topic, Cost Optimization, Area of Interest, Amazon AppStream 2.0, Services, IT Administrator, Role, IT Professional/Technical Manager, Role, SaaS, Area of Interest, Wednesday, Day, Caesars Forum, Venue, Independent Software Vendor (ISV), Area of Interest

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 306
+summary: tag_name :Solution/Systems Architect, Role, 300 - Advanced, Level, DevOps Engineer, Role, Monitoring & Observability, Area of Interest, Monday, Day, MGM Grand, Venue, AWS Lambda, Services, Serverless Compute, Topic, Developer/Engineer, Role, , speakers :firstName_0: Marco, lastName_0: Jahn, firstName_1: Ben, lastName_1: Freiberg, , thirdpartyid :SVS313, sessionuid :35D0ADE7-BD23-422C-89B8-25C1C59AEE74, title :Harnessing observability to optimize your serverless workloads, description :Observability is more than monitoring your workload—you also need logs and traces for full visibility into your applications. Many serverless workloads consist of components distributed over multiple accounts and teams. This requires you to join and correlate information from many sources to gain an understanding of the overall system. You then have to ask the right questions to gain insights from the data. In this chalk talk, learn how to improve your observability foundations and derive valuable insights to understand and optimize your serverless workloads., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :306, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: 306
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: Observability is more than monitoring your workload—you also need logs and traces for full visibility into your applications. Many serverless workloads consist of components distributed over multiple accounts and teams. This requires you to join and correlate information from many sources to gain an understanding of the overall system. You then have to ask the right questions to gain insights from the data. In this chalk talk, learn how to improve your observability foundations and derive valuable insights to understand and optimize your serverless workloads
+title: Harnessing observability to optimize your serverless workloads
+sessionuid: 35D0ADE7-BD23-422C-89B8-25C1C59AEE74
+thirdpartyid: SVS313
+speakers: firstName_0: Marco, lastName_0: Jahn, firstName_1: Ben, lastName_1: Freiberg
+tag_name: Solution/Systems Architect, Role, 300 - Advanced, Level, DevOps Engineer, Role, Monitoring & Observability, Area of Interest, Monday, Day, MGM Grand, Venue, AWS Lambda, Services, Serverless Compute, Topic, Developer/Engineer, Role

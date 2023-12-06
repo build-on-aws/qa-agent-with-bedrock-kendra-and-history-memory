@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 370
+summary: tag_name :Monday, Day, MGM Grand, Venue, Architecture, Topic, Compute, Topic, Edge Computing, Area of Interest, Innovation on AWS, Area of Interest, Modernization, Area of Interest, Aerospace & Satellite, Industry, 300 - Advanced, Level, Developer/Engineer, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services, , speakers :firstName_0: Ajit, lastName_0: Rajdeosingh, firstName_1: Alistair, lastName_1: McLean, , thirdpartyid :AES303, sessionuid :4FD5E23C-8BC4-4A1C-9B17-5F6080EEC157, title :Ground station digitalization with SDRs in the cloud, description :<p>In this session, learn how AWS aerospace and satellite customers are building the next generation of software-defined radios (SDRs) in the cloud using accelerated compute Amazon EC2 instance types. Find out how to use Amazon EC2 F1 instances to develop and run FPGA-based SDRs in the cloud, and discover how you can enable high-performance and low-latency networking using the Data Plane Development Kit (DPDK).</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 370, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Chairmans 370
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>In this session, learn how AWS aerospace and satellite customers are building the next generation of software-defined radios (SDRs) in the cloud using accelerated compute Amazon EC2 instance types. Find out how to use Amazon EC2 F1 instances to develop and run FPGA-based SDRs in the cloud, and discover how you can enable high-performance and low-latency networking using the Data Plane Development Kit (DPDK).</p>
+title: Ground station digitalization with SDRs in the cloud
+sessionuid: 4FD5E23C-8BC4-4A1C-9B17-5F6080EEC157
+thirdpartyid: AES303
+speakers: firstName_0: Ajit, lastName_0: Rajdeosingh, firstName_1: Alistair, lastName_1: McLean
+tag_name: Monday, Day, MGM Grand, Venue, Architecture, Topic, Compute, Topic, Edge Computing, Area of Interest, Innovation on AWS, Area of Interest, Modernization, Area of Interest, Aerospace & Satellite, Industry, 300 - Advanced, Level, Developer/Engineer, Role, DevOps Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Compute Cloud (EC2), Services

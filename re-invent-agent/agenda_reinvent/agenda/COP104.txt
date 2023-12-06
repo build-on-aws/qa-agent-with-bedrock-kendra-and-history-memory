@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3104
+summary: tag_name :Tuesday, Day, Venetian, Venue, Cloud Operations, Topic, VMware, Area of Interest, Agriculture, Industry, Financial Services, Industry, Manufacturing & Industrial, Industry, 100 - Foundational, Level, Cloud Security Specialist, Role, Data Engineer, Role, Developer/Engineer, Role, , speakers :, thirdpartyid :COP104-S, sessionuid :CE6B1ECE-36E8-44B3-AF26-69DCAE36B0AA, title :Explore and migrate with VMware Cloud on AWS (sponsored by VMware), description :<p>Thinking of shutting down an existing data center or extending on-premises infrastructure to the cloud? VMware can help. With VMware Cloud on AWS, accelerate your cloud migration journey in the simplest and fastest manner that’s also cost-effective. Join this workshop to gain hands-on experience setting up the fundamentals for this service and learn how to migrate workloads to VMware Cloud on AWS. In this workshop, learn how to set up your VMware software-defined data center, how to use the latest capabilities to migrate workloads, what migration options you have, how to scale storage independent of compute, and much more. You must bring your laptop to participate. This presentation is brought to you by VMware, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3104, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 21:00:00 -0500, 
+enddatetimeutc: November, 28 2023 21:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Lido 3104
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: standard
+description: <p>Thinking of shutting down an existing data center or extending on-premises infrastructure to the cloud? VMware can help. With VMware Cloud on AWS, accelerate your cloud migration journey in the simplest and fastest manner that’s also cost-effective. Join this workshop to gain hands-on experience setting up the fundamentals for this service and learn how to migrate workloads to VMware Cloud on AWS. In this workshop, learn how to set up your VMware software-defined data center, how to use the latest capabilities to migrate workloads, what migration options you have, how to scale storage independent of compute, and much more. You must bring your laptop to participate. This presentation is brought to you by VMware, an AWS Partner.</p>
+title: Explore and migrate with VMware Cloud on AWS (sponsored by VMware)
+sessionuid: CE6B1ECE-36E8-44B3-AF26-69DCAE36B0AA
+thirdpartyid: COP104-S
+speakers: 
+tag_name: Tuesday, Day, Venetian, Venue, Cloud Operations, Topic, VMware, Area of Interest, Agriculture, Industry, Financial Services, Industry, Manufacturing & Industrial, Industry, 100 - Foundational, Level, Cloud Security Specialist, Role, Data Engineer, Role, Developer/Engineer, Role

@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :AI/ML, Topic, Business Applications, Topic, AWS Marketplace, Area of Interest, Innovation on AWS, Area of Interest, SaaS, Area of Interest, 100 - Foundational, Level, Developer/Engineer, Role, IT Administrator, Role, IT Executive, Role, Tuesday, Day, Venetian, Venue, , speakers :firstName_0: Stephen, lastName_0: Gee, company_0: Workday, , thirdpartyid :BIZ108-S, sessionuid :62F9F48C-01C2-4A26-9390-6801CC12606D, title :Workday Extend: Build people and money apps with low-code tooling (sponsored by Workday), description :<p>Workday is a leading provider of enterprise cloud applications for finance and HR, helping more than 10,000 customers around the world adapt and thrive in a changing world. To act with speed and agility, Workday empowers IT teams with Workday Extend, a purpose-built platform with low-code tools to quickly compose new capabilities. Workday Extend can help you efficiently build new finance and people capabilities to respond to business needs. Join this lightning talk to experience the power of Workday Extend and its expanding customer and partner ecosystem. This presentation is brought to you by Workday, an AWS Partner.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Workday is a leading provider of enterprise cloud applications for finance and HR, helping more than 10,000 customers around the world adapt and thrive in a changing world. To act with speed and agility, Workday empowers IT teams with Workday Extend, a purpose-built platform with low-code tools to quickly compose new capabilities. Workday Extend can help you efficiently build new finance and people capabilities to respond to business needs. Join this lightning talk to experience the power of Workday Extend and its expanding customer and partner ecosystem. This presentation is brought to you by Workday, an AWS Partner.</p>
+title: Workday Extend: Build people and money apps with low-code tooling (sponsored by Workday)
+sessionuid: 62F9F48C-01C2-4A26-9390-6801CC12606D
+thirdpartyid: BIZ108-S
+speakers: firstName_0: Stephen, lastName_0: Gee, company_0: Workday
+tag_name: AI/ML, Topic, Business Applications, Topic, AWS Marketplace, Area of Interest, Innovation on AWS, Area of Interest, SaaS, Area of Interest, 100 - Foundational, Level, Developer/Engineer, Role, IT Administrator, Role, IT Executive, Role, Tuesday, Day, Venetian, Venue

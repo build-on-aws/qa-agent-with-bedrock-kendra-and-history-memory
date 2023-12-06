@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 5
+summary: tag_name :Developer/Engineer, Role, 300 - Advanced, Level, Threat Detection & Incident Response, Area of Interest, DevOps Engineer, Role, Cross Industry, Industry, Cloud Security Specialist, Role, Security, Compliance, & Identity, Topic, Monday, Day, Wynn, Venue, Application Security, Area of Interest, , speakers :firstName_0: Jason, lastName_0: Schamp, firstName_1: Ajit, lastName_1: Puthiyavettle, , thirdpartyid :SEC303, sessionuid :F19A4AEF-2AB5-4958-8D24-DE8946AC4E77, title :Container threat detection with AWS security services, description :This container security workshop simulates scenarios and security events that could occur while using Amazon EKS. Learn how to use AWS security services to detect and respond to events and improve your security practices. Join this workshop and learn how to improve your security posture when running workloads on Amazon EKS. You must bring your laptop to participate., sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 5, startdatetimeutc :November, 27 2023 22:00:00 -0500, enddatetimeutc :November, 28 2023 00:00:00 -0500, 
+enddatetimeutc: November, 28 2023 00:00:00 -0500
+startdatetimeutc: November, 27 2023 22:00:00 -0500
+locationname: Cristal 5
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: This container security workshop simulates scenarios and security events that could occur while using Amazon EKS. Learn how to use AWS security services to detect and respond to events and improve your security practices. Join this workshop and learn how to improve your security posture when running workloads on Amazon EKS. You must bring your laptop to participate
+title: Container threat detection with AWS security services
+sessionuid: F19A4AEF-2AB5-4958-8D24-DE8946AC4E77
+thirdpartyid: SEC303
+speakers: firstName_0: Jason, lastName_0: Schamp, firstName_1: Ajit, lastName_1: Puthiyavettle
+tag_name: Developer/Engineer, Role, 300 - Advanced, Level, Threat Detection & Incident Response, Area of Interest, DevOps Engineer, Role, Cross Industry, Industry, Cloud Security Specialist, Role, Security, Compliance, & Identity, Topic, Monday, Day, Wynn, Venue, Application Security, Area of Interest

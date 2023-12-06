@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 201
+summary: tag_name :Partner Enablement, Topic, Thursday, Day, Caesars Forum, Venue, 200 - Intermediate, Level, , speakers :firstName_0: Asha, lastName_0: Thoyakat, firstName_1: Michael, lastName_1: Herger, , thirdpartyid :PEX201, sessionuid :9EFF0DA7-D670-4A02-8035-16CD2EFDAD6A, title :Automate and accelerate your sales motion with AWS Marketplace, description :<p>In today’s rapid pace of cloud migration and modernization, AWS Marketplace sellers need to scale their sales motions quickly through automation. In this session, learn how sellers can drive efficiencies when managing their AWS Marketplace transactions for products, offers, and subscriptions using AWS APIs and connectors. This session is intended for AWS Partners.</p>, sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 201, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 23:30:00 -0500, 
+enddatetimeutc: November, 30 2023 23:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Summit 201
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: <p>In today’s rapid pace of cloud migration and modernization, AWS Marketplace sellers need to scale their sales motions quickly through automation. In this session, learn how sellers can drive efficiencies when managing their AWS Marketplace transactions for products, offers, and subscriptions using AWS APIs and connectors. This session is intended for AWS Partners.</p>
+title: Automate and accelerate your sales motion with AWS Marketplace
+sessionuid: 9EFF0DA7-D670-4A02-8035-16CD2EFDAD6A
+thirdpartyid: PEX201
+speakers: firstName_0: Asha, lastName_0: Thoyakat, firstName_1: Michael, lastName_1: Herger
+tag_name: Partner Enablement, Topic, Thursday, Day, Caesars Forum, Venue, 200 - Intermediate, Level

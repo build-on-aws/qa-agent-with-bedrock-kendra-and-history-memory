@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Chairmans 368
+summary: tag_name :AWS DataSync, Services, IT Administrator, Role, Customer Stories, Area of Interest, System Administrator, Role, AWS Storage Gateway, Services, Thursday, Day, MGM Grand, Venue, New to AWS, Topic, Amazon S3 Glacier, Services, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, , speakers :firstName_0: David, lastName_0: Cathey, firstName_1: Joe, lastName_1: Howe, firstName_2: Mason, lastName_2: Hensley, company_2: Caris Life Sciences, firstName_3: Alysha, lastName_3: Test, , thirdpartyid :NTA213, sessionuid :6CB57E52-F6A6-4182-8C70-8C3380D68B43, title :0 to 25 PB in one year, description :Migrating tape data to Amazon S3 can take time. If you have units of work that encompass multiple files but the files are scattered across multiple volumes, is there a way to optimize restoring them? In this session, learn how tracking file/tape relationships with Amazon Neptune may help you optimize your restoration plan., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Chairmans 368, startdatetimeutc :November, 30 2023 21:00:00 -0500, enddatetimeutc :November, 30 2023 22:00:00 -0500, 
+enddatetimeutc: November, 30 2023 22:00:00 -0500
+startdatetimeutc: November, 30 2023 21:00:00 -0500
+locationname: Chairmans 368
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Migrating tape data to Amazon S3 can take time. If you have units of work that encompass multiple files but the files are scattered across multiple volumes, is there a way to optimize restoring them? In this session, learn how tracking file/tape relationships with Amazon Neptune may help you optimize your restoration plan
+title: 0 to 25 PB in one year
+sessionuid: 6CB57E52-F6A6-4182-8C70-8C3380D68B43
+thirdpartyid: NTA213
+speakers: firstName_0: David, lastName_0: Cathey, firstName_1: Joe, lastName_1: Howe, firstName_2: Mason, lastName_2: Hensley, company_2: Caris Life Sciences, firstName_3: Alysha, lastName_3: Test
+tag_name: AWS DataSync, Services, IT Administrator, Role, Customer Stories, Area of Interest, System Administrator, Role, AWS Storage Gateway, Services, Thursday, Day, MGM Grand, Venue, New to AWS, Topic, Amazon S3 Glacier, Services, IT Professional/Technical Manager, Role, 200 - Intermediate, Level

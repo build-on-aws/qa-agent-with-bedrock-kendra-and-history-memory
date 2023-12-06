@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 306
+summary: tag_name :Compute, Topic, Hybrid Cloud, Topic, Edge Computing, Area of Interest, Migration & Transfer, Area of Interest, Modernization, Area of Interest, Financial Services, Industry, Healthcare, Industry, Telecommunications, Industry, 300 - Advanced, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, AWS Local Zones, Services, AWS Outposts, Services, AWS Snow Family, Services, Thursday, Day, MGM Grand, Venue, , speakers :firstName_0: Qasim, lastName_0: Arham, firstName_1: Vaibhav, lastName_1: Phadnis, , thirdpartyid :HYB313, sessionuid :7EA197DA-F4F9-4FAD-8C96-458F9D60678D, title :Real-world analysis of successful hybrid cloud migrations, description :<p>In this chalk talk, learn how organizations across industries have used AWS hybrid and edge services to migrate their application stack in order to increase agility, lower costs, and accelerate innovation. This talk highlights some organizations that have successfully migrated and modernized their application stack with AWS, reviews their architectural considerations, and whiteboards some possible scenarios for your organization to consider.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :306, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: 306
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>In this chalk talk, learn how organizations across industries have used AWS hybrid and edge services to migrate their application stack in order to increase agility, lower costs, and accelerate innovation. This talk highlights some organizations that have successfully migrated and modernized their application stack with AWS, reviews their architectural considerations, and whiteboards some possible scenarios for your organization to consider.</p>
+title: Real-world analysis of successful hybrid cloud migrations
+sessionuid: 7EA197DA-F4F9-4FAD-8C96-458F9D60678D
+thirdpartyid: HYB313
+speakers: firstName_0: Qasim, lastName_0: Arham, firstName_1: Vaibhav, lastName_1: Phadnis
+tag_name: Compute, Topic, Hybrid Cloud, Topic, Edge Computing, Area of Interest, Migration & Transfer, Area of Interest, Modernization, Area of Interest, Financial Services, Industry, Healthcare, Industry, Telecommunications, Industry, 300 - Advanced, Level, Business Executive, Role, IT Executive, Role, IT Professional/Technical Manager, Role, AWS Local Zones, Services, AWS Outposts, Services, AWS Snow Family, Services, Thursday, Day, MGM Grand, Venue

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 353
+summary: tag_name :Data Engineer, Role, Amazon Elastic Block Store (EBS), Services, System Administrator, Role, Cross Industry, Industry, 400 - Expert, Level, Disaster Response & Recovery, Area of Interest, Databases, Topic, Microsoft, Area of Interest, Solution/Systems Architect, Role, Tuesday, Day, MGM Grand, Venue, Enterprise & Migration, Topic, , speakers :firstName_0: Alexander, lastName_0: Zarenin, firstName_1: RAFET, lastName_1: DUCIC, firstName_2: REGHARDT, lastName_2: VAN ROOYEN, firstName_3: Rita, lastName_3: Ladda, firstName_4: Vikas Babu, lastName_4: Gali, , thirdpartyid :ENT401-R, sessionuid :65158FDE-56D6-452E-8C6B-F61B3B10A27A, title :Build a high availability SQL Server failover cluster with Amazon EBS [REPEAT], description :<p>In this builders’ session, learn how to construct highly resilient SQL Server failover clusters with Amazon EBS to improve your data availability and system stability. Walk through the process of using Amazon EBS Multi-Attach with persistent reservations to build a robust SQL Server failover cluster. Learn techniques to elevate your database management to a new level of reliability. You must bring your laptop to participate.</p>, sessiontype :Builders' Session, venuename :MGM Grand, floorplanname :Level 3, locationname :353, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: 353
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Builders' Session
+description: <p>In this builders’ session, learn how to construct highly resilient SQL Server failover clusters with Amazon EBS to improve your data availability and system stability. Walk through the process of using Amazon EBS Multi-Attach with persistent reservations to build a robust SQL Server failover cluster. Learn techniques to elevate your database management to a new level of reliability. You must bring your laptop to participate.</p>
+title: Build a high availability SQL Server failover cluster with Amazon EBS [REPEAT]
+sessionuid: 65158FDE-56D6-452E-8C6B-F61B3B10A27A
+thirdpartyid: ENT401-R
+speakers: firstName_0: Alexander, lastName_0: Zarenin, firstName_1: RAFET, lastName_1: DUCIC, firstName_2: REGHARDT, lastName_2: VAN ROOYEN, firstName_3: Rita, lastName_3: Ladda, firstName_4: Vikas Babu, lastName_4: Gali
+tag_name: Data Engineer, Role, Amazon Elastic Block Store (EBS), Services, System Administrator, Role, Cross Industry, Industry, 400 - Expert, Level, Disaster Response & Recovery, Area of Interest, Databases, Topic, Microsoft, Area of Interest, Solution/Systems Architect, Role, Tuesday, Day, MGM Grand, Venue, Enterprise & Migration, Topic

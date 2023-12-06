@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas C
+summary: tag_name :Partner Enablement, Topic, Cross Industry, Industry, AWS Application Migration Service, Services, 300 - Advanced, Level, Monday, Day, Mandalay Bay, Venue, IT Executive, Role, Migration & Transfer, Area of Interest, Enterprise & Migration, Topic, Solution/Systems Architect, Role, Advisor/Consultant, Role, , speakers :firstName_0: Andy, lastName_0: Kroll, firstName_1: Sherif, lastName_1: Habib, , thirdpartyid :TNC306, sessionuid :D24107FB-F7C4-4B41-938C-BB91C93AC079, title :AWS Partner training: Application modernization, description :<p>This bootcamp is for AWS Partners only. Explore common cloud migration drivers, patterns, benefits, and challenges in this training that focuses on the strangler pattern, which helps you break down monolithic applications and incrementally modernize them using cloud-native services. Engage in team brainstorming and hands-on activities to gain practical experience in transforming monolithic applications into microservices. This bootcamp is specifically designed to accelerate customer opportunities and is centered around the application modernization pillar of modernization initiatives. You must bring your laptop to participate.</p>, sessiontype :Bootcamp, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas C, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: South Seas C
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Bootcamp
+description: <p>This bootcamp is for AWS Partners only. Explore common cloud migration drivers, patterns, benefits, and challenges in this training that focuses on the strangler pattern, which helps you break down monolithic applications and incrementally modernize them using cloud-native services. Engage in team brainstorming and hands-on activities to gain practical experience in transforming monolithic applications into microservices. This bootcamp is specifically designed to accelerate customer opportunities and is centered around the application modernization pillar of modernization initiatives. You must bring your laptop to participate.</p>
+title: AWS Partner training: Application modernization
+sessionuid: D24107FB-F7C4-4B41-938C-BB91C93AC079
+thirdpartyid: TNC306
+speakers: firstName_0: Andy, lastName_0: Kroll, firstName_1: Sherif, lastName_1: Habib
+tag_name: Partner Enablement, Topic, Cross Industry, Industry, AWS Application Migration Service, Services, 300 - Advanced, Level, Monday, Day, Mandalay Bay, Venue, IT Executive, Role, Migration & Transfer, Area of Interest, Enterprise & Migration, Topic, Solution/Systems Architect, Role, Advisor/Consultant, Role

@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Startup, Area of Interest, Strategy & Transformation, Area of Interest, 100 - Foundational, Level, Sales/Marketing, Role, Monday, Day, Venetian, Venue, Business Executive, Role, Partner Enablement, Topic, IT Executive, Role, , speakers :firstName_0: Serge, lastName_0: Shevchenko, , thirdpartyid :PEX119, sessionuid :85CD14A9-49A0-4D38-8B5E-5115F14CE2DE, title :How to GTM with the AWS Global Startup Program, description :With a better understanding of how to build intentional sales plays throughout the funnel, partners in the AWS Global Startup Program can identify areas of growth and success through a joint partner plan. This lightning talk provides a blueprint on how to collaborate with AWS to plan and implement a joint go-to-market motion with the AWS Global Startup Program, a GTM program for early- to mid-stage software startups that have raised funding, achieved product-market fit, and are ready to scale. This lightning talk is intended for AWS Partners., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :November, 28 2023 02:00:00 -0500, enddatetimeutc :November, 28 2023 02:20:00 -0500, 
+enddatetimeutc: November, 28 2023 02:20:00 -0500
+startdatetimeutc: November, 28 2023 02:00:00 -0500
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: With a better understanding of how to build intentional sales plays throughout the funnel, partners in the AWS Global Startup Program can identify areas of growth and success through a joint partner plan. This lightning talk provides a blueprint on how to collaborate with AWS to plan and implement a joint go-to-market motion with the AWS Global Startup Program, a GTM program for early- to mid-stage software startups that have raised funding, achieved product-market fit, and are ready to scale. This lightning talk is intended for AWS Partners
+title: How to GTM with the AWS Global Startup Program
+sessionuid: 85CD14A9-49A0-4D38-8B5E-5115F14CE2DE
+thirdpartyid: PEX119
+speakers: firstName_0: Serge, lastName_0: Shevchenko
+tag_name: Startup, Area of Interest, Strategy & Transformation, Area of Interest, 100 - Foundational, Level, Sales/Marketing, Role, Monday, Day, Venetian, Venue, Business Executive, Role, Partner Enablement, Topic, IT Executive, Role

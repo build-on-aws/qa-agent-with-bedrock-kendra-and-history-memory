@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Margaux 1
+summary: tag_name :Cloud Operations, Topic, Tuesday, Day, Wynn, Venue, IT Administrator, Role, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Management & Governance, Area of Interest, 300 - Advanced, Level, , speakers :firstName_0: Stephanie, lastName_0: Gooch, firstName_1: Alex, lastName_1: Head, , thirdpartyid :COP342, sessionuid :CEE4C486-92E7-4BA2-B071-1CC14AF15FEF, title :Advanced analytics with AWS Cost and Usage Reports, description :Are you curious about the breakdown of your AWS Savings Plans discounts per account? Do you want a complete picture of your application’s service usage by including all the resources it’s built upon? In this code talk, learn how to write queries for your AWS Cost and Usage Reports (AWS CUR) and analyze your billing and usage for deeper insights and optimization opportunities., sessiontype :Code Talk, venuename :Wynn, floorplanname :Level 1, locationname :Margaux 1, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: Margaux 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Code Talk
+description: Are you curious about the breakdown of your AWS Savings Plans discounts per account? Do you want a complete picture of your application’s service usage by including all the resources it’s built upon? In this code talk, learn how to write queries for your AWS Cost and Usage Reports (AWS CUR) and analyze your billing and usage for deeper insights and optimization opportunities
+title: Advanced analytics with AWS Cost and Usage Reports
+sessionuid: CEE4C486-92E7-4BA2-B071-1CC14AF15FEF
+thirdpartyid: COP342
+speakers: firstName_0: Stephanie, lastName_0: Gooch, firstName_1: Alex, lastName_1: Head
+tag_name: Cloud Operations, Topic, Tuesday, Day, Wynn, Venue, IT Administrator, Role, IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Management & Governance, Area of Interest, 300 - Advanced, Level

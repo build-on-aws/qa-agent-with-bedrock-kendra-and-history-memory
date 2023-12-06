@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Cristal 3
+summary: tag_name :Migration & Transfer, Area of Interest, 300 - Advanced, Level, Solution/Systems Architect, Role, Microsoft, Area of Interest, Enterprise & Migration, Topic, AWS Directory Service for Microsoft Active Directory, Services, Amazon Elastic Compute Cloud (EC2), Services, BuildOn.AWS, Area of Interest, IT Professional/Technical Manager, Role, Wednesday, Day, Wynn, Venue, Cross Industry, Industry, Developer/Engineer, Role, Amazon Relational Database Service (RDS), Services, , speakers :firstName_0: Christine, lastName_0: Megit, firstName_1: Jarod, lastName_1: Oliver, , thirdpartyid :ENT307, sessionuid :650733C5-8EB5-4A4E-A127-013412789551, title :The Microsoft on AWS adventure game, description :<p>Brave adventurers, join this noble quest to build a web application on AWS using Microsoft technologies. In this workshop, embark on this epic adventure to pull together the powers of Amazon EC2 for Microsoft Windows Server, AWS Managed Microsoft AD, Amazon FSx for Windows File Server, and Amazon RDS for SQL Server. Use the AWS Management Console to bring this adventure to life! You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :Wynn, floorplanname :Upper Level, locationname :Cristal 3, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Cristal 3
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: Workshop
+description: <p>Brave adventurers, join this noble quest to build a web application on AWS using Microsoft technologies. In this workshop, embark on this epic adventure to pull together the powers of Amazon EC2 for Microsoft Windows Server, AWS Managed Microsoft AD, Amazon FSx for Windows File Server, and Amazon RDS for SQL Server. Use the AWS Management Console to bring this adventure to life! You must bring your laptop to participate.</p>
+title: The Microsoft on AWS adventure game
+sessionuid: 650733C5-8EB5-4A4E-A127-013412789551
+thirdpartyid: ENT307
+speakers: firstName_0: Christine, lastName_0: Megit, firstName_1: Jarod, lastName_1: Oliver
+tag_name: Migration & Transfer, Area of Interest, 300 - Advanced, Level, Solution/Systems Architect, Role, Microsoft, Area of Interest, Enterprise & Migration, Topic, AWS Directory Service for Microsoft Active Directory, Services, Amazon Elastic Compute Cloud (EC2), Services, BuildOn.AWS, Area of Interest, IT Professional/Technical Manager, Role, Wednesday, Day, Wynn, Venue, Cross Industry, Industry, Developer/Engineer, Role, Amazon Relational Database Service (RDS), Services

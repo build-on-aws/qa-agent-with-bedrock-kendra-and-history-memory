@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 220
+summary: tag_name :Edge Computing, Area of Interest, Front-End Web & Mobile, Area of Interest, Media & Entertainment, Industry, Cross Industry, Industry, DevOps Engineer, Role, Thursday, Day, Caesars Forum, Venue, DevOps and Developer Productivity, Topic, Amazon Elastic Compute Cloud (EC2), Services, Compute, Topic, Solution/Systems Architect, Role, 300 - Advanced, Level, Amazon Simple Storage Service (S3), Services, Developer/Engineer, Role, Application Integration, Area of Interest, , speakers :firstName_0: Kimate, lastName_0: Richards, firstName_1: Avantika, lastName_1: Ajit, , thirdpartyid :CMP322, sessionuid :6A16285E-0F2E-43AD-A6DE-B2439B8CFFD3, title :Getting started with applications for Apple Vision Pro on AWS, description :In this chalk talk, spatial computing specialists guide you through the toolkit needed to build applications on the new visionOS ecosystem for the forthcoming Apple Vision Pro headset using Amazon EC2 Mac instances. Hands-on demos break down Xcode and Unity and show how you can work within your existing AWS pipelines to create exciting spatial computing experiences., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 220, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Summit 220
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: In this chalk talk, spatial computing specialists guide you through the toolkit needed to build applications on the new visionOS ecosystem for the forthcoming Apple Vision Pro headset using Amazon EC2 Mac instances. Hands-on demos break down Xcode and Unity and show how you can work within your existing AWS pipelines to create exciting spatial computing experiences
+title: Getting started with applications for Apple Vision Pro on AWS
+sessionuid: 6A16285E-0F2E-43AD-A6DE-B2439B8CFFD3
+thirdpartyid: CMP322
+speakers: firstName_0: Kimate, lastName_0: Richards, firstName_1: Avantika, lastName_1: Ajit
+tag_name: Edge Computing, Area of Interest, Front-End Web & Mobile, Area of Interest, Media & Entertainment, Industry, Cross Industry, Industry, DevOps Engineer, Role, Thursday, Day, Caesars Forum, Venue, DevOps and Developer Productivity, Topic, Amazon Elastic Compute Cloud (EC2), Services, Compute, Topic, Solution/Systems Architect, Role, 300 - Advanced, Level, Amazon Simple Storage Service (S3), Services, Developer/Engineer, Role, Application Integration, Area of Interest

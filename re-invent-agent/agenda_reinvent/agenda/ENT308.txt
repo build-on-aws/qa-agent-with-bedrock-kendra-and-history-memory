@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 118
+summary: tag_name :Solution/Systems Architect, Role, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Monday, Day, MGM Grand, Venue, Migration & Transfer, Area of Interest, Developer/Engineer, Role, Enterprise & Migration, Topic, , speakers :firstName_0: Arunkumar, lastName_0: Selvam, firstName_1: Souma, lastName_1: Ghosh, , thirdpartyid :ENT308, sessionuid :8BA0D507-12FB-43CF-8A5F-05F41BBF5A17, title :Build well-architected refactored mainframe AWS Blu Age applications, description :<p>In this workshop, use the AWS Mainframe Modernization Automated Refactor with AWS Blu Age not just to transform a legacy application in COBOL into a Java agile service but also to experiment with how the transformed application running on an AWS Cloud native runtime environment can be auto scaled, secured, supported for compliance, and streamlined for DevOps. Join this hands-on workshop to experience a refactored application and its runtime environment. You must bring your laptop to participate.</p>, sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 118, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 00:30:00 -0500, 
+enddatetimeutc: November, 28 2023 00:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Grand 118
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: <p>In this workshop, use the AWS Mainframe Modernization Automated Refactor with AWS Blu Age not just to transform a legacy application in COBOL into a Java agile service but also to experiment with how the transformed application running on an AWS Cloud native runtime environment can be auto scaled, secured, supported for compliance, and streamlined for DevOps. Join this hands-on workshop to experience a refactored application and its runtime environment. You must bring your laptop to participate.</p>
+title: Build well-architected refactored mainframe AWS Blu Age applications
+sessionuid: 8BA0D507-12FB-43CF-8A5F-05F41BBF5A17
+thirdpartyid: ENT308
+speakers: firstName_0: Arunkumar, lastName_0: Selvam, firstName_1: Souma, lastName_1: Ghosh
+tag_name: Solution/Systems Architect, Role, 300 - Advanced, Level, IT Professional/Technical Manager, Role, Monday, Day, MGM Grand, Venue, Migration & Transfer, Area of Interest, Developer/Engineer, Role, Enterprise & Migration, Topic

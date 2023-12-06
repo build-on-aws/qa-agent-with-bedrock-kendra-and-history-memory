@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 104
+summary: tag_name :300 - Advanced, Level, AWS Billing and Cost Management, Services, DevOps Engineer, Role, Cross Industry, Industry, AWS Trusted Advisor, Services, Advisor/Consultant, Role, IT Professional/Technical Manager, Role, Cloud Operations, Topic, Monday, Day, Caesars Forum, Venue, Sustainability, Area of Interest, Architecture, Topic, , speakers :firstName_0: Raman, lastName_0: Pujani, firstName_1: Deepthi, lastName_1: Madamanchi, , thirdpartyid :SUS303-R, sessionuid :94AE69A6-6249-492B-AD24-CE1F7E30E062, title :Measuring sustainability optimization of cloud workloads [REPEAT], description :Optimizing cloud workloads for sustainability starts with defining metrics or KPIs that can help organizations adopt best practices recommended by the AWS Well-Architected sustainability pillar. In this chalk talk, learn how to use AWS services and tools like the AWS Customer Carbon Footprint Tool, AWS Trusted Advisor, and AWS Cost and Usage Reports to define proxy metrics and combine with business metrics to establish a show-back mechanism to evaluate and quantify the effect of the optimizations., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 104, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: Forum 104
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: Optimizing cloud workloads for sustainability starts with defining metrics or KPIs that can help organizations adopt best practices recommended by the AWS Well-Architected sustainability pillar. In this chalk talk, learn how to use AWS services and tools like the AWS Customer Carbon Footprint Tool, AWS Trusted Advisor, and AWS Cost and Usage Reports to define proxy metrics and combine with business metrics to establish a show-back mechanism to evaluate and quantify the effect of the optimizations
+title: Measuring sustainability optimization of cloud workloads [REPEAT]
+sessionuid: 94AE69A6-6249-492B-AD24-CE1F7E30E062
+thirdpartyid: SUS303-R
+speakers: firstName_0: Raman, lastName_0: Pujani, firstName_1: Deepthi, lastName_1: Madamanchi
+tag_name: 300 - Advanced, Level, AWS Billing and Cost Management, Services, DevOps Engineer, Role, Cross Industry, Industry, AWS Trusted Advisor, Services, Advisor/Consultant, Role, IT Professional/Technical Manager, Role, Cloud Operations, Topic, Monday, Day, Caesars Forum, Venue, Sustainability, Area of Interest, Architecture, Topic

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 1
+summary: tag_name :300 - Advanced, Level, Management & Governance, Area of Interest, AWS Organizations, Services, DevOps Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Thursday, Day, Wynn, Venue, Cloud Operations, Topic, AWS Control Tower, Services, , speakers :firstName_0: Alex, lastName_0: Torres, firstName_1: Balaji, lastName_1: Palanisamy, firstName_2: Bradie, lastName_2: Loeffel, , thirdpartyid :COP308, sessionuid :520C8A76-8893-4630-8B59-51D7BA553856, title :Migrate accounts like an expert, description :Multi-account best practices can help you migrate AWS accounts like an expert during mergers and acquisitions, divestitures, and other business transitions. You can simplify scaling your workloads and promote agility while saving time and mitigating risks. In this chalk talk, learn how you can assess dependencies and perform additional checks to achieve a quick, secure, and efficient migration., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 1, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Lafite 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Multi-account best practices can help you migrate AWS accounts like an expert during mergers and acquisitions, divestitures, and other business transitions. You can simplify scaling your workloads and promote agility while saving time and mitigating risks. In this chalk talk, learn how you can assess dependencies and perform additional checks to achieve a quick, secure, and efficient migration
+title: Migrate accounts like an expert
+sessionuid: 520C8A76-8893-4630-8B59-51D7BA553856
+thirdpartyid: COP308
+speakers: firstName_0: Alex, lastName_0: Torres, firstName_1: Balaji, lastName_1: Palanisamy, firstName_2: Bradie, lastName_2: Loeffel
+tag_name: 300 - Advanced, Level, Management & Governance, Area of Interest, AWS Organizations, Services, DevOps Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Thursday, Day, Wynn, Venue, Cloud Operations, Topic, AWS Control Tower, Services

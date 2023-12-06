@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+summary: tag_name :Business Executive, Role, Customer Enablement, Topic, Developer/Engineer, Role, 100 - Foundational, Level, Venture Capitalist, Role, Inclusion & Diversity, Area of Interest, Thursday, Day, Venetian, Venue, Customer Stories, Area of Interest, Startup, Area of Interest, AI/ML, Topic, , speakers :firstName_0: Nicholas, lastName_0: Wilkins, company_0: Sign-Speak, , thirdpartyid :IDE105, sessionuid :208912E4-21F5-4B3C-B894-BC2AE232BD0F, title :Plug and play with AI sign language recognition, description :In the US alone, it is estimated that there are over 37 million daily interactions using American Sign Language (ASL). Join this lightning talk to experience the first-ever sign language recognition API from Sign-Speak! This software enables ASL recognition and translates it into English while turning spoken word into ASL via an avatar. By embracing ASL, you empower your service with one of the most common language in the US. Dive into artificial intelligence, and become a champion of accessibility like never before., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 22:20:00 -0500, 
+enddatetimeutc: November, 30 2023 22:20:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Hall B, Expo, Theater 3, Booth #1480, Developer Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: In the US alone, it is estimated that there are over 37 million daily interactions using American Sign Language (ASL). Join this lightning talk to experience the first-ever sign language recognition API from Sign-Speak! This software enables ASL recognition and translates it into English while turning spoken word into ASL via an avatar. By embracing ASL, you empower your service with one of the most common language in the US. Dive into artificial intelligence, and become a champion of accessibility like never before
+title: Plug and play with AI sign language recognition
+sessionuid: 208912E4-21F5-4B3C-B894-BC2AE232BD0F
+thirdpartyid: IDE105
+speakers: firstName_0: Nicholas, lastName_0: Wilkins, company_0: Sign-Speak
+tag_name: Business Executive, Role, Customer Enablement, Topic, Developer/Engineer, Role, 100 - Foundational, Level, Venture Capitalist, Role, Inclusion & Diversity, Area of Interest, Thursday, Day, Venetian, Venue, Customer Stories, Area of Interest, Startup, Area of Interest, AI/ML, Topic

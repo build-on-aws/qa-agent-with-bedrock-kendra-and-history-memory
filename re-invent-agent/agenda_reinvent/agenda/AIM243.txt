@@ -1,0 +1,14 @@
+location: Wynn, Upper Level, Bollinger
+summary: tag_name :Thursday, Day, Wynn, Venue, AI/ML, Topic, Innovation on AWS, Area of Interest, Generative AI, Area of Interest, Modernization, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, Amazon Bedrock, Services, Amazon SageMaker, Services, , speakers :, thirdpartyid :AIM243-S, sessionuid :AA79C8D5-2DC3-47BF-89D5-9C81E3A3975C, title :Gen AI & the SDLC: Changing the way we bring digital products to life (sponsored by PwC), description :<p>Join PwC for an engaging conversation on how the software development lifecycle (SDLC) is evolving with the rise of generative AI and services like Amazon Bedrock. In this discussion, hear from influential voices from various industries, all at the forefront of digital product development and software creation. Delve deep into the transformative impact of generative AI on the SDLC and unravel its innovative role in redefining the way we conceive, design, and implement digital products. This is your opportunity to gain unique insights into the future of the SDLC and how generative AI is shaping the digital landscape. This presentation is brought to you by PwC, an AWS Partner.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Upper Level, locationname :Bollinger, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 21:30:00 -0500, 
+enddatetimeutc: November, 30 2023 21:30:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Bollinger
+floorplanname: Upper Level
+venuename: Wynn
+sessiontype: standard
+description: <p>Join PwC for an engaging conversation on how the software development lifecycle (SDLC) is evolving with the rise of generative AI and services like Amazon Bedrock. In this discussion, hear from influential voices from various industries, all at the forefront of digital product development and software creation. Delve deep into the transformative impact of generative AI on the SDLC and unravel its innovative role in redefining the way we conceive, design, and implement digital products. This is your opportunity to gain unique insights into the future of the SDLC and how generative AI is shaping the digital landscape. This presentation is brought to you by PwC, an AWS Partner.</p>
+title: Gen AI & the SDLC: Changing the way we bring digital products to life (sponsored by PwC)
+sessionuid: AA79C8D5-2DC3-47BF-89D5-9C81E3A3975C
+thirdpartyid: AIM243-S
+speakers: 
+tag_name: Thursday, Day, Wynn, Venue, AI/ML, Topic, Innovation on AWS, Area of Interest, Generative AI, Area of Interest, Modernization, Area of Interest, Cross Industry, Industry, 200 - Intermediate, Level, Business Executive, Role, Amazon Bedrock, Services, Amazon SageMaker, Services

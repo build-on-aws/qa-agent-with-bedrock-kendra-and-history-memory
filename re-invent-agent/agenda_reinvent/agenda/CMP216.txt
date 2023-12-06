@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 1 | North, South Pacific B
+summary: tag_name :Amazon Elastic Compute Cloud (EC2), Services, Cost Optimization, Area of Interest, Amazon EC2 Auto Scaling, Services, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, Resilience, Area of Interest, Amazon CloudWatch, Services, Compute, Topic, DevOps Engineer, Role, Tuesday, Day, Mandalay Bay, Venue, Cross Industry, Industry, Monitoring & Observability, Area of Interest, IT Executive, Role, , speakers :firstName_0: Flamur, lastName_0: Gogolli, firstName_1: Kevin, lastName_1: OConnor, , thirdpartyid :CMP216, sessionuid :32C74A47-5EED-43FA-BD95-AF29EDF2F3C9, title :Resilient and resourceful: Balance compute resiliency and costs, description :This chalk talk covers the latest Amazon EC2 Auto Scaling innovations and best practices designed to increase the resiliency of your applications while meeting your cost-efficiency objectives. Learn how your deployment patterns, and tools like Amazon EC2 Auto Scaling instance maintenance policy and instance refresh rollback, can help you achieve the exact balance of healthy compute capacity needed., sessiontype :Chalk Talk, venuename :Mandalay Bay, floorplanname :Level 1 | North, locationname :South Pacific B, startdatetimeutc :November, 29 2023 01:30:00 -0500, enddatetimeutc :November, 29 2023 02:30:00 -0500, 
+enddatetimeutc: November, 29 2023 02:30:00 -0500
+startdatetimeutc: November, 29 2023 01:30:00 -0500
+locationname: South Pacific B
+floorplanname: Level 1 | North
+venuename: Mandalay Bay
+sessiontype: Chalk Talk
+description: This chalk talk covers the latest Amazon EC2 Auto Scaling innovations and best practices designed to increase the resiliency of your applications while meeting your cost-efficiency objectives. Learn how your deployment patterns, and tools like Amazon EC2 Auto Scaling instance maintenance policy and instance refresh rollback, can help you achieve the exact balance of healthy compute capacity needed
+title: Resilient and resourceful: Balance compute resiliency and costs
+sessionuid: 32C74A47-5EED-43FA-BD95-AF29EDF2F3C9
+thirdpartyid: CMP216
+speakers: firstName_0: Flamur, lastName_0: Gogolli, firstName_1: Kevin, lastName_1: OConnor
+tag_name: Amazon Elastic Compute Cloud (EC2), Services, Cost Optimization, Area of Interest, Amazon EC2 Auto Scaling, Services, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, Resilience, Area of Interest, Amazon CloudWatch, Services, Compute, Topic, DevOps Engineer, Role, Tuesday, Day, Mandalay Bay, Venue, Cross Industry, Industry, Monitoring & Observability, Area of Interest, IT Executive, Role

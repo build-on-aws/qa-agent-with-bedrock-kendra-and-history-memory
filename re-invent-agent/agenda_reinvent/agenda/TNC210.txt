@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 3 | South, South Seas G
+summary: tag_name :Architecture, Topic, Training & Certification, Topic, Tuesday, Day, Mandalay Bay, Venue, 200 - Intermediate, Level, Cross Industry, Industry, Solution/Systems Architect, Role, , speakers :firstName_0: Satabdi, lastName_0: Das, firstName_1: Anita, lastName_1: Harvin, , thirdpartyid :TNC210, sessionuid :4D4FC86C-C519-4214-B3D9-13FEA0FF9D15, title :Exam prep: AWS Certified Solutions Architect – Associate, description :Prepare for the AWS Certified Solutions Architect – Associate exam with this 1.5-hour interactive study session. Review the AWS Certified Solutions Architect – Associate Official Practice Question Set, and get your questions answered by the subject matter expert leading the study session., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 3 | South, locationname :South Seas G, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: South Seas G
+floorplanname: Level 3 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: Prepare for the AWS Certified Solutions Architect – Associate exam with this 1.5-hour interactive study session. Review the AWS Certified Solutions Architect – Associate Official Practice Question Set, and get your questions answered by the subject matter expert leading the study session
+title: Exam prep: AWS Certified Solutions Architect – Associate
+sessionuid: 4D4FC86C-C519-4214-B3D9-13FEA0FF9D15
+thirdpartyid: TNC210
+speakers: firstName_0: Satabdi, lastName_0: Das, firstName_1: Anita, lastName_1: Harvin
+tag_name: Architecture, Topic, Training & Certification, Topic, Tuesday, Day, Mandalay Bay, Venue, 200 - Intermediate, Level, Cross Industry, Industry, Solution/Systems Architect, Role

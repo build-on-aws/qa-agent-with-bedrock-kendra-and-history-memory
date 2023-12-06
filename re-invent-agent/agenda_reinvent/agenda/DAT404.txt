@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 411
+summary: tag_name :Games, Industry, Solution/Systems Architect, Role, Financial Services, Industry, Amazon DocumentDB (with MongoDB compatibility), Services, 400 - Expert, Level, Well-Architected Framework, Area of Interest, IT Professional/Technical Manager, Role, Databases, Topic, Thursday, Day, Caesars Forum, Venue, Developer/Engineer, Role, Innovation on AWS, Area of Interest, Customer Enablement, Topic, , speakers :firstName_0: Rashim, lastName_0: Gupta, firstName_1: Tim, lastName_1: Callaghan, , thirdpartyid :DAT404, sessionuid :580020E6-0B1A-45E4-8E9B-AF8D119AEF9C, title :Amazon DocumentDB for expert practitioners, description :As a fully managed database service for native document data model enterprise workloads, Amazon DocumentDB (with MongoDB compatibility) removes the undifferentiated heavy lifting of operating a database so that you can focus your time on delivering value for your customers. In this chalk talk, dive deep into implementation trade-offs for various workloads, including compression, performance, and cost. The talk also includes whiteboarding on scaling options, including Amazon DocumentDB elastic clusters., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 411, startdatetimeutc :December, 01 2023 00:00:00 -0500, enddatetimeutc :December, 01 2023 01:00:00 -0500, 
+enddatetimeutc: December, 01 2023 01:00:00 -0500
+startdatetimeutc: December, 01 2023 00:00:00 -0500
+locationname: Academy 411
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: As a fully managed database service for native document data model enterprise workloads, Amazon DocumentDB (with MongoDB compatibility) removes the undifferentiated heavy lifting of operating a database so that you can focus your time on delivering value for your customers. In this chalk talk, dive deep into implementation trade-offs for various workloads, including compression, performance, and cost. The talk also includes whiteboarding on scaling options, including Amazon DocumentDB elastic clusters
+title: Amazon DocumentDB for expert practitioners
+sessionuid: 580020E6-0B1A-45E4-8E9B-AF8D119AEF9C
+thirdpartyid: DAT404
+speakers: firstName_0: Rashim, lastName_0: Gupta, firstName_1: Tim, lastName_1: Callaghan
+tag_name: Games, Industry, Solution/Systems Architect, Role, Financial Services, Industry, Amazon DocumentDB (with MongoDB compatibility), Services, 400 - Expert, Level, Well-Architected Framework, Area of Interest, IT Professional/Technical Manager, Role, Databases, Topic, Thursday, Day, Caesars Forum, Venue, Developer/Engineer, Role, Innovation on AWS, Area of Interest, Customer Enablement, Topic

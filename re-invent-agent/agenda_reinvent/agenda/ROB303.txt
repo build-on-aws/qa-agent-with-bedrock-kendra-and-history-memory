@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 305
+summary: tag_name :Analytics, Topic, Internet of Things, Topic, Customer Stories, Area of Interest, Innovation on AWS, Area of Interest, Robotics, Area of Interest, Travel & Hospitality, Industry, Cross Industry, Industry, 300 - Advanced, Level, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, AWS IoT Core, Services, AWS IoT Greengrass, Services, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: yuri, lastName_0: chamarelli, firstName_1: Hazif, lastName_1: Abdoul Gaffour, company_1: Aldebaran, , thirdpartyid :ROB303, sessionuid :26FDD254-C5D3-449A-BD16-B3E44400B136, title :Connecting your robots to the cloud for remote fleet management, description :<p>Join this chalk talk for a deep dive on how to connect your robots to the cloud—even when operating in remote, rugged locations where connectivity may be disrupted, intermittent, or even unavailable. Discover how one AWS customer has connected thousands of robots to facilitate remote management, analytics, and predictive maintenance. Explore a proven architecture that allows you to control robot configuration both locally and remotely while meeting low-latency, security, reliability, and cost-efficiency requirements.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 305, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Alliance 305
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>Join this chalk talk for a deep dive on how to connect your robots to the cloud—even when operating in remote, rugged locations where connectivity may be disrupted, intermittent, or even unavailable. Discover how one AWS customer has connected thousands of robots to facilitate remote management, analytics, and predictive maintenance. Explore a proven architecture that allows you to control robot configuration both locally and remotely while meeting low-latency, security, reliability, and cost-efficiency requirements.</p>
+title: Connecting your robots to the cloud for remote fleet management
+sessionuid: 26FDD254-C5D3-449A-BD16-B3E44400B136
+thirdpartyid: ROB303
+speakers: firstName_0: yuri, lastName_0: chamarelli, firstName_1: Hazif, lastName_1: Abdoul Gaffour, company_1: Aldebaran
+tag_name: Analytics, Topic, Internet of Things, Topic, Customer Stories, Area of Interest, Innovation on AWS, Area of Interest, Robotics, Area of Interest, Travel & Hospitality, Industry, Cross Industry, Industry, 300 - Advanced, Level, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, AWS IoT Core, Services, AWS IoT Greengrass, Services, Wednesday, Day, Caesars Forum, Venue

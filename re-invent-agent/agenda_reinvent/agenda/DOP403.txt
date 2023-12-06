@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 7
+summary: tag_name :DevOps and Developer Productivity, Topic, Well-Architected Framework, Area of Interest, Strategy & Transformation, Area of Interest, DevOps Engineer, Role, Tuesday, Day, Wynn, Venue, Developer/Engineer, Role, 400 - Expert, Level, Amazon CodeCatalyst, Services, , speakers :firstName_0: Alex, lastName_0: Forsyth, firstName_1: Birant, lastName_1: Akarslan, firstName_2: Humberto, lastName_2: Cornia, firstName_3: Janardhan, lastName_3: Molumuri, firstName_4: Kandarp, lastName_4: Thakar, , thirdpartyid :DOP403-R, sessionuid :DA7FD99C-C572-439B-ABB1-203E8FEA8825, title :Hands-on with Amazon CodeCatalyst: Automating security in CI/CD pipelines [REPEAT], description :<p>In this session, learn how to build a CI/CD pipeline with Amazon CodeCatalyst and add the necessary steps to secure your pipeline. Learn how to perform tasks such as secret scanning, software composition analysis (SCA), static application security testing (SAST), and generating a software bill of materials (SBOM). You must bring your laptop to participate.</p>, sessiontype :Builders' Session, venuename :Wynn, floorplanname :Level 1, locationname :Latour 7, startdatetimeutc :November, 28 2023 19:30:00 -0500, enddatetimeutc :November, 28 2023 20:30:00 -0500, 
+enddatetimeutc: November, 28 2023 20:30:00 -0500
+startdatetimeutc: November, 28 2023 19:30:00 -0500
+locationname: Latour 7
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Builders' Session
+description: <p>In this session, learn how to build a CI/CD pipeline with Amazon CodeCatalyst and add the necessary steps to secure your pipeline. Learn how to perform tasks such as secret scanning, software composition analysis (SCA), static application security testing (SAST), and generating a software bill of materials (SBOM). You must bring your laptop to participate.</p>
+title: Hands-on with Amazon CodeCatalyst: Automating security in CI/CD pipelines [REPEAT]
+sessionuid: DA7FD99C-C572-439B-ABB1-203E8FEA8825
+thirdpartyid: DOP403-R
+speakers: firstName_0: Alex, lastName_0: Forsyth, firstName_1: Birant, lastName_1: Akarslan, firstName_2: Humberto, lastName_2: Cornia, firstName_3: Janardhan, lastName_3: Molumuri, firstName_4: Kandarp, lastName_4: Thakar
+tag_name: DevOps and Developer Productivity, Topic, Well-Architected Framework, Area of Interest, Strategy & Transformation, Area of Interest, DevOps Engineer, Role, Tuesday, Day, Wynn, Venue, Developer/Engineer, Role, 400 - Expert, Level, Amazon CodeCatalyst, Services

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 2
+summary: tag_name :Architecture, Topic, Compute, Topic, Cost Optimization, Area of Interest, Cross Industry, Industry, 400 - Expert, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, DevOps Engineer, Role, Amazon Elastic Compute Cloud (EC2), Services, Thursday, Day, Wynn, Venue, , speakers :firstName_0: Arthur, lastName_0: Petitpierre, firstName_1: Hahnara, lastName_1: Hyun, , thirdpartyid :CMP413, sessionuid :3E8DCB36-5C38-42EF-A771-2FF347FED9E5, title :Exploring performance analysis with AWS Graviton instances, description :<p>Many developers are working at a higher and higher level, which is fantastic from a productivity standpoint. However, when it comes to performance, it is often necessary to be closer to the metal to understand the dynamics of applications, study their behavior, and understand and fix their bottlenecks. In this code talk, AWS experts open a shell on an Amazon EC2 instance and dig into the system to see which tools and resources you can use. Learn as they write some mini applications to study their performance behavior and troubleshoot how to improve them.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 2, startdatetimeutc :November, 30 2023 22:30:00 -0500, enddatetimeutc :November, 30 2023 23:30:00 -0500, 
+enddatetimeutc: November, 30 2023 23:30:00 -0500
+startdatetimeutc: November, 30 2023 22:30:00 -0500
+locationname: Lafite 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Many developers are working at a higher and higher level, which is fantastic from a productivity standpoint. However, when it comes to performance, it is often necessary to be closer to the metal to understand the dynamics of applications, study their behavior, and understand and fix their bottlenecks. In this code talk, AWS experts open a shell on an Amazon EC2 instance and dig into the system to see which tools and resources you can use. Learn as they write some mini applications to study their performance behavior and troubleshoot how to improve them.</p>
+title: Exploring performance analysis with AWS Graviton instances
+sessionuid: 3E8DCB36-5C38-42EF-A771-2FF347FED9E5
+thirdpartyid: CMP413
+speakers: firstName_0: Arthur, lastName_0: Petitpierre, firstName_1: Hahnara, lastName_1: Hyun
+tag_name: Architecture, Topic, Compute, Topic, Cost Optimization, Area of Interest, Cross Industry, Industry, 400 - Expert, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, DevOps Engineer, Role, Amazon Elastic Compute Cloud (EC2), Services, Thursday, Day, Wynn, Venue

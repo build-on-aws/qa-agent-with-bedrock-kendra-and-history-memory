@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Partner Enablement, Topic, Strategy & Transformation, Area of Interest, Sales/Marketing, Role, IT Executive, Role, Wednesday, Day, Venetian, Venue, Business Executive, Role, 100 - Foundational, Level, , speakers :firstName_0: Jessica, lastName_0: Rudy, firstName_1: Luca, lastName_1: Certini, , thirdpartyid :PEX126, sessionuid :805A036A-61B9-4217-9BF1-1115F276A4D0, title :Scale your AWS Partner business through personalized insights, description :AWS Partner Analytics Dashboard is a new tool partners can access via AWS Partner Central to view never-before-shared analytical insights and growth recommendations. Through AWS Partner Analytics Dashboard, partners can now dive deep on critical data including their co-sell pipeline, investments, and AWS Marketplace performance, helping them strategize on how to best grow their partnership with AWS. This lightning talk is intended for AWS Partners., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 20:20:00 -0500, 
+enddatetimeutc: November, 29 2023 20:20:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: AWS Partner Analytics Dashboard is a new tool partners can access via AWS Partner Central to view never-before-shared analytical insights and growth recommendations. Through AWS Partner Analytics Dashboard, partners can now dive deep on critical data including their co-sell pipeline, investments, and AWS Marketplace performance, helping them strategize on how to best grow their partnership with AWS. This lightning talk is intended for AWS Partners
+title: Scale your AWS Partner business through personalized insights
+sessionuid: 805A036A-61B9-4217-9BF1-1115F276A4D0
+thirdpartyid: PEX126
+speakers: firstName_0: Jessica, lastName_0: Rudy, firstName_1: Luca, lastName_1: Certini
+tag_name: Partner Enablement, Topic, Strategy & Transformation, Area of Interest, Sales/Marketing, Role, IT Executive, Role, Wednesday, Day, Venetian, Venue, Business Executive, Role, 100 - Foundational, Level

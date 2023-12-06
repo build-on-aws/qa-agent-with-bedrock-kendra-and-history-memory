@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafleur 2
+summary: tag_name :300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, SaaS, Area of Interest, Tuesday, Day, Wynn, Venue, Architecture, Topic, DevOps Engineer, Role, , speakers :firstName_0: Tod, lastName_0: Golding, , thirdpartyid :SAS304, sessionuid :9200B3AB-5CED-4018-A620-F1C6EFA4BD04, title :SaaS deep dive: Inside a scalable, efficient multi-tenant architecture, description :<p>SaaS workloads present builders with a unique blend of architecture challenges. Teams are constantly searching for strategies, policies, and deployment models that allow them to address shifting multi-tenant consumption patterns across different geographic, performance, and activity profiles. This session dives into the details of multi-tenant scaling, resilience, and performance challenges, exploring common techniques that are used to build efficient SaaS environments. Explore design and implementation strategies that can be used to maximize the value and impact of your multi-tenant architecture. This includes examining how pod/cell, throttling, packaging, and other strategies are used to shape the scaling/performance model of your solution.</p>, sessiontype :Breakout Session, venuename :Wynn, floorplanname :Level 1, locationname :Lafleur 2, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Lafleur 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Breakout Session
+description: <p>SaaS workloads present builders with a unique blend of architecture challenges. Teams are constantly searching for strategies, policies, and deployment models that allow them to address shifting multi-tenant consumption patterns across different geographic, performance, and activity profiles. This session dives into the details of multi-tenant scaling, resilience, and performance challenges, exploring common techniques that are used to build efficient SaaS environments. Explore design and implementation strategies that can be used to maximize the value and impact of your multi-tenant architecture. This includes examining how pod/cell, throttling, packaging, and other strategies are used to shape the scaling/performance model of your solution.</p>
+title: SaaS deep dive: Inside a scalable, efficient multi-tenant architecture
+sessionuid: 9200B3AB-5CED-4018-A620-F1C6EFA4BD04
+thirdpartyid: SAS304
+speakers: firstName_0: Tod, lastName_0: Golding
+tag_name: 300 - Advanced, Level, Developer/Engineer, Role, Solution/Systems Architect, Role, SaaS, Area of Interest, Tuesday, Day, Wynn, Venue, Architecture, Topic, DevOps Engineer, Role

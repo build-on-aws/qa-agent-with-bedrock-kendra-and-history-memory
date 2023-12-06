@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Bellini 2105
+summary: tag_name :AI/ML, Topic, Analytics, Topic, Venetian, Venue, Wednesday, Day, Innovation on AWS, Area of Interest, Cross Industry, Industry, Business Executive, Role, 200 - Intermediate, Level, Amazon SageMaker, Services, Developer/Engineer, Role, , speakers :firstName_0: Davide, lastName_0: Gallitelli, firstName_1: Urvashi, lastName_1: Chowdhary, firstName_2: Ramdev, lastName_2: Wudali, company_2: Thomson Reuters, , thirdpartyid :AIM217, sessionuid :3B890D45-33DC-40CD-BC3A-48C98CC30807, title :Democratize ML with no code/low code using Amazon SageMaker Canvas, description :Machine learning (ML) can solve business problems that help organizations achieve better outcomes. But, how do you take ML beyond technical users to implement it throughout your organization? In this session, learn how you can use Amazon SageMaker Canvas to complete the ML lifecycle from preparing data and creating models to generating predictions, without writing a single line of code. With SageMaker Canvas, you can utilize ready-to-use models or create your own models to get insights from your data and ML models. Join us in the journey to democratize ML across your organization and achieve better business outcomes., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Bellini 2105, startdatetimeutc :November, 30 2023 01:30:00 -0500, enddatetimeutc :November, 30 2023 02:30:00 -0500, 
+enddatetimeutc: November, 30 2023 02:30:00 -0500
+startdatetimeutc: November, 30 2023 01:30:00 -0500
+locationname: Bellini 2105
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: Machine learning (ML) can solve business problems that help organizations achieve better outcomes. But, how do you take ML beyond technical users to implement it throughout your organization? In this session, learn how you can use Amazon SageMaker Canvas to complete the ML lifecycle from preparing data and creating models to generating predictions, without writing a single line of code. With SageMaker Canvas, you can utilize ready-to-use models or create your own models to get insights from your data and ML models. Join us in the journey to democratize ML across your organization and achieve better business outcomes
+title: Democratize ML with no code/low code using Amazon SageMaker Canvas
+sessionuid: 3B890D45-33DC-40CD-BC3A-48C98CC30807
+thirdpartyid: AIM217
+speakers: firstName_0: Davide, lastName_0: Gallitelli, firstName_1: Urvashi, lastName_1: Chowdhary, firstName_2: Ramdev, lastName_2: Wudali, company_2: Thomson Reuters
+tag_name: AI/ML, Topic, Analytics, Topic, Venetian, Venue, Wednesday, Day, Innovation on AWS, Area of Interest, Cross Industry, Industry, Business Executive, Role, 200 - Intermediate, Level, Amazon SageMaker, Services, Developer/Engineer, Role

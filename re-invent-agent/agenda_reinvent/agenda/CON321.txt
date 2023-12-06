@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 221
+summary: tag_name :Developer/Engineer, Role, Cross Industry, Industry, Migration & Transfer, Area of Interest, Serverless Compute, Topic, Amazon Elastic Compute Cloud (EC2), Services, AWS Fargate, Services, Solution/Systems Architect, Role, Tuesday, Day, Caesars Forum, Venue, 300 - Advanced, Level, DevOps Engineer, Role, Amazon Elastic Container Service (ECS), Services, , speakers :firstName_0: Re, lastName_0: Alvarez Parmar, firstName_1: Sanghwa, lastName_1: Na, , thirdpartyid :CON321, sessionuid :6334E1E8-31C8-4E82-BF17-2E7E7EB4DF1B, title :Migrating containerized workloads to AWS Fargate, description :AWS Fargate helps organizations reduce the operational burden of deploying and monitoring their container workloads so they can focus on building applications and running their businesses. In this chalk talk, explore design considerations for migrating workloads from Amazon EC2 to AWS Fargate serverless compute running on Amazon ECS., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 221, startdatetimeutc :November, 28 2023 21:00:00 -0500, enddatetimeutc :November, 28 2023 22:00:00 -0500, 
+enddatetimeutc: November, 28 2023 22:00:00 -0500
+startdatetimeutc: November, 28 2023 21:00:00 -0500
+locationname: Summit 221
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: AWS Fargate helps organizations reduce the operational burden of deploying and monitoring their container workloads so they can focus on building applications and running their businesses. In this chalk talk, explore design considerations for migrating workloads from Amazon EC2 to AWS Fargate serverless compute running on Amazon ECS
+title: Migrating containerized workloads to AWS Fargate
+sessionuid: 6334E1E8-31C8-4E82-BF17-2E7E7EB4DF1B
+thirdpartyid: CON321
+speakers: firstName_0: Re, lastName_0: Alvarez Parmar, firstName_1: Sanghwa, lastName_1: Na
+tag_name: Developer/Engineer, Role, Cross Industry, Industry, Migration & Transfer, Area of Interest, Serverless Compute, Topic, Amazon Elastic Compute Cloud (EC2), Services, AWS Fargate, Services, Solution/Systems Architect, Role, Tuesday, Day, Caesars Forum, Venue, 300 - Advanced, Level, DevOps Engineer, Role, Amazon Elastic Container Service (ECS), Services

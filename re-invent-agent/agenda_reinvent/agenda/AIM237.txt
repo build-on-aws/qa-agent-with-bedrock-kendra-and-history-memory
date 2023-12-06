@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 407
+summary: tag_name :Wednesday, Day, Caesars Forum, Venue, AI/ML, Topic, Security, Compliance, & Identity, Topic, Application Security, Area of Interest, Generative AI, Area of Interest, 200 - Intermediate, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, DevOps Engineer, Role, , speakers :firstName_0: James, lastName_0: Adkins, company_0: DISH Network, firstName_1: Jim, lastName_1: Armstrong, company_1: Snyk, , thirdpartyid :AIM237-S, sessionuid :D7975065-74F1-49AB-9CEE-420AD8FD5364, title :How a 0-day event galvanized a developer-led security mindset at DISH (sponsored by Snyk), description :<p>DISH Network maintains over 3,000 separate codebases—one for every five DISH employees. Like so many companies, developers used to handle security issues mainly to satisfy the security team. Then, Log4j happened. The time it took to pore through all their code to find and fix every instance of vulnerability had the positive effect of bringing security and developers together to find a better way to handle the next Log4j. In this session, hear from Jim Adkins, Director of Information Security at DISH, on how they scaled their security program with their developers. This presentation is brought to you by Snyk, an AWS Partner.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 407, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Academy 407
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>DISH Network maintains over 3,000 separate codebases—one for every five DISH employees. Like so many companies, developers used to handle security issues mainly to satisfy the security team. Then, Log4j happened. The time it took to pore through all their code to find and fix every instance of vulnerability had the positive effect of bringing security and developers together to find a better way to handle the next Log4j. In this session, hear from Jim Adkins, Director of Information Security at DISH, on how they scaled their security program with their developers. This presentation is brought to you by Snyk, an AWS Partner.</p>
+title: How a 0-day event galvanized a developer-led security mindset at DISH (sponsored by Snyk)
+sessionuid: D7975065-74F1-49AB-9CEE-420AD8FD5364
+thirdpartyid: AIM237-S
+speakers: firstName_0: James, lastName_0: Adkins, company_0: DISH Network, firstName_1: Jim, lastName_1: Armstrong, company_1: Snyk
+tag_name: Wednesday, Day, Caesars Forum, Venue, AI/ML, Topic, Security, Compliance, & Identity, Topic, Application Security, Area of Interest, Generative AI, Area of Interest, 200 - Intermediate, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, DevOps Engineer, Role

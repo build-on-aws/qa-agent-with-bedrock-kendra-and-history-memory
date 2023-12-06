@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+summary: tag_name :IT Professional/Technical Manager, Role, IT Executive, Role, Cloud Operations, Topic, Cross Industry, Industry, AWS Marketplace, Area of Interest, Customer Stories, Area of Interest, Solution/Systems Architect, Role, Tuesday, Day, Venetian, Venue, Hybrid Cloud, Topic, 100 - Foundational, Level, Management & Governance, Area of Interest, , speakers :firstName_0: Pete, lastName_0: Cruz, company_0: Red Hat, , thirdpartyid :COP102-S, sessionuid :6DCFAE27-8BE3-4D09-BA82-38CFD7A03403, title :Ticketmaster: Centralizing automation to drive business value (sponsored by Red Hat), description :Ticketmaster turned to Red Hat Ansible Automation Platform on AWS to drive business value, help ensure rigorous security requirements, and automate the management and delivery of their core business applications. In this lightning talk, learn the best practices and techniques Ticketmaster employs to meet their market challenges and drive success. This presentation is brought to you by Red Hat, an AWS Partner., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 2, Booth #280, Industry Teams Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: Ticketmaster turned to Red Hat Ansible Automation Platform on AWS to drive business value, help ensure rigorous security requirements, and automate the management and delivery of their core business applications. In this lightning talk, learn the best practices and techniques Ticketmaster employs to meet their market challenges and drive success. This presentation is brought to you by Red Hat, an AWS Partner
+title: Ticketmaster: Centralizing automation to drive business value (sponsored by Red Hat)
+sessionuid: 6DCFAE27-8BE3-4D09-BA82-38CFD7A03403
+thirdpartyid: COP102-S
+speakers: firstName_0: Pete, lastName_0: Cruz, company_0: Red Hat
+tag_name: IT Professional/Technical Manager, Role, IT Executive, Role, Cloud Operations, Topic, Cross Industry, Industry, AWS Marketplace, Area of Interest, Customer Stories, Area of Interest, Solution/Systems Architect, Role, Tuesday, Day, Venetian, Venue, Hybrid Cloud, Topic, 100 - Foundational, Level, Management & Governance, Area of Interest

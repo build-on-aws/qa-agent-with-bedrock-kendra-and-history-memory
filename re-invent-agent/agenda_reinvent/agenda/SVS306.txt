@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 316
+summary: tag_name :AWS Lambda, Services, Amazon CloudWatch, Services, 300 - Advanced, Level, Monitoring & Observability, Area of Interest, Security, Compliance, & Identity, Topic, Monday, Day, MGM Grand, Venue, Serverless Compute, Topic, DevOps Engineer, Role, , speakers :firstName_0: Peterson, lastName_0: Larentis, firstName_1: Enrico, lastName_1: Bergamo, , thirdpartyid :SVS306-R, sessionuid :CC7CE87B-53CD-4358-B4AF-0966409A4598, title :Serverless observability workshop [REPEAT], description :Join this immersive workshop to walk through the process of instrumenting, collecting, and analyzing metrics, traces, and logs in your serverless applications. Designed for developers and architects, the hands-on activities empower you with the expertise needed to gain valuable insights into the inner workings of your applications, identify anomalies, and proactively prevent failures. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 316, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 00:30:00 -0500, 
+enddatetimeutc: November, 28 2023 00:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Premier 316
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Workshop
+description: Join this immersive workshop to walk through the process of instrumenting, collecting, and analyzing metrics, traces, and logs in your serverless applications. Designed for developers and architects, the hands-on activities empower you with the expertise needed to gain valuable insights into the inner workings of your applications, identify anomalies, and proactively prevent failures. You must bring your laptop to participate
+title: Serverless observability workshop [REPEAT]
+sessionuid: CC7CE87B-53CD-4358-B4AF-0966409A4598
+thirdpartyid: SVS306-R
+speakers: firstName_0: Peterson, lastName_0: Larentis, firstName_1: Enrico, lastName_1: Bergamo
+tag_name: AWS Lambda, Services, Amazon CloudWatch, Services, 300 - Advanced, Level, Monitoring & Observability, Area of Interest, Security, Compliance, & Identity, Topic, Monday, Day, MGM Grand, Venue, Serverless Compute, Topic, DevOps Engineer, Role

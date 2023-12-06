@@ -1,0 +1,14 @@
+location: Venetian, Level 5, Palazzo Ballroom B
+summary: tag_name :Architecture, Topic, AI/ML, Topic, Amazon Bedrock, Services, 200 - Intermediate, Level, Amazon SageMaker, Services, IT Professional/Technical Manager, Role, Strategy & Transformation, Area of Interest, Developer/Engineer, Role, Wednesday, Day, Venetian, Venue, Generative AI, Area of Interest, Innovation on AWS, Area of Interest, Amazon CodeWhisperer, Services, Solution/Systems Architect, Role, , speakers :firstName_0: Francessca, lastName_0: Vasquez, , thirdpartyid :ARC217-INT, sessionuid :479D3951-AE94-47AA-9B1F-1D092828ACC3, title :From hype to impact: Building a generative AI architecture, description :Generative AI represents a paradigm shift for how companies operate today. Generative AI is empowering developers to reimagine customer experiences and applications while transforming virtually every industry. Organizations are rapidly innovating to create the right architecture for scaling generative AI securely, economically, and responsibly to deliver business value. In this talk, learn how leaders are modernizing their data foundation, selecting industry-leading foundation models, and deploying purpose-built accelerators to unlock the possibilities of generative AI., sessiontype :Innovation Talk, venuename :Venetian, floorplanname :Level 5, locationname :Palazzo Ballroom B, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 20:30:00 -0500, 
+enddatetimeutc: November, 29 2023 20:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Palazzo Ballroom B
+floorplanname: Level 5
+venuename: Venetian
+sessiontype: Innovation Talk
+description: Generative AI represents a paradigm shift for how companies operate today. Generative AI is empowering developers to reimagine customer experiences and applications while transforming virtually every industry. Organizations are rapidly innovating to create the right architecture for scaling generative AI securely, economically, and responsibly to deliver business value. In this talk, learn how leaders are modernizing their data foundation, selecting industry-leading foundation models, and deploying purpose-built accelerators to unlock the possibilities of generative AI
+title: From hype to impact: Building a generative AI architecture
+sessionuid: 479D3951-AE94-47AA-9B1F-1D092828ACC3
+thirdpartyid: ARC217-INT
+speakers: firstName_0: Francessca, lastName_0: Vasquez
+tag_name: Architecture, Topic, AI/ML, Topic, Amazon Bedrock, Services, 200 - Intermediate, Level, Amazon SageMaker, Services, IT Professional/Technical Manager, Role, Strategy & Transformation, Area of Interest, Developer/Engineer, Role, Wednesday, Day, Venetian, Venue, Generative AI, Area of Interest, Innovation on AWS, Area of Interest, Amazon CodeWhisperer, Services, Solution/Systems Architect, Role

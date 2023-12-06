@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 101
+summary: tag_name :Analytics, Topic, Cross Industry, Industry, Nonprofit, Industry, Amazon Athena, Services, AWS Glue, Services, Data Engineer, Role, Amazon DataZone, Services, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Thursday, Day, MGM Grand, Venue, Business Intelligence, Area of Interest, Architecture, Topic, Social Impact, Area of Interest, 200 - Intermediate, Level, , speakers :firstName_0: Madhu, lastName_0: Bussa, firstName_1: John, lastName_1: Hill, , thirdpartyid :IMP203, sessionuid :6BAE2C4F-AF82-4820-B695-612E23C73EE7, title :Modern data strategies to amplify nonprofit mission outcomes, description :In today's data-centric world, nonprofits can significantly benefit from effective data strategies. In this chalk talk tailored for nonprofits, explore modern data architectures and their implementation. Learn how to design a data platform that aligns with your nonprofit’s needs. Discover how to gather and manage data effectively; enable secure, easy data access; and transform raw data into actionable insights. Finally, gain an understanding of key elements to include in a data strategy to amplify nonprofit mission outcomes., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :101, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: 101
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: In today's data-centric world, nonprofits can significantly benefit from effective data strategies. In this chalk talk tailored for nonprofits, explore modern data architectures and their implementation. Learn how to design a data platform that aligns with your nonprofit’s needs. Discover how to gather and manage data effectively; enable secure, easy data access; and transform raw data into actionable insights. Finally, gain an understanding of key elements to include in a data strategy to amplify nonprofit mission outcomes
+title: Modern data strategies to amplify nonprofit mission outcomes
+sessionuid: 6BAE2C4F-AF82-4820-B695-612E23C73EE7
+thirdpartyid: IMP203
+speakers: firstName_0: Madhu, lastName_0: Bussa, firstName_1: John, lastName_1: Hill
+tag_name: Analytics, Topic, Cross Industry, Industry, Nonprofit, Industry, Amazon Athena, Services, AWS Glue, Services, Data Engineer, Role, Amazon DataZone, Services, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Thursday, Day, MGM Grand, Venue, Business Intelligence, Area of Interest, Architecture, Topic, Social Impact, Area of Interest, 200 - Intermediate, Level

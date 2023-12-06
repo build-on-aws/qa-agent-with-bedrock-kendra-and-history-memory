@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 201
+summary: tag_name :DevOps and Developer Productivity, Topic, AWS Cloud Development Kit (CDK), Services, AWS CloudFormation, Services, 200 - Intermediate, Level, DevOps Engineer, Role, Tuesday, Day, Caesars Forum, Venue, Customer Stories, Area of Interest, Well-Architected Framework, Area of Interest, Developer/Engineer, Role, , speakers :firstName_0: Ben, lastName_0: Perak, firstName_1: Tatiana, lastName_1: Cooke, , thirdpartyid :DOP206, sessionuid :2BE5C154-183B-45F2-9D3E-8B653C4155E4, title :AWS infrastructure as code: A year in review, description :AWS provides services that help with the creation, deployment, and maintenance of application infrastructure in a programmatic, descriptive, and declarative way. These services help provide rigor, clarity, and reliability to application development. Join this session to learn about the new features and improvements for AWS infrastructure as code with AWS CloudFormation and AWS Cloud Development Kit (AWS CDK) and how they can benefit your team., sessiontype :Breakout Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 201, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Summit 201
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Breakout Session
+description: AWS provides services that help with the creation, deployment, and maintenance of application infrastructure in a programmatic, descriptive, and declarative way. These services help provide rigor, clarity, and reliability to application development. Join this session to learn about the new features and improvements for AWS infrastructure as code with AWS CloudFormation and AWS Cloud Development Kit (AWS CDK) and how they can benefit your team
+title: AWS infrastructure as code: A year in review
+sessionuid: 2BE5C154-183B-45F2-9D3E-8B653C4155E4
+thirdpartyid: DOP206
+speakers: firstName_0: Ben, lastName_0: Perak, firstName_1: Tatiana, lastName_1: Cooke
+tag_name: DevOps and Developer Productivity, Topic, AWS Cloud Development Kit (CDK), Services, AWS CloudFormation, Services, 200 - Intermediate, Level, DevOps Engineer, Role, Tuesday, Day, Caesars Forum, Venue, Customer Stories, Area of Interest, Well-Architected Framework, Area of Interest, Developer/Engineer, Role

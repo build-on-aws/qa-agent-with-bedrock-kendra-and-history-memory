@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 228
+summary: tag_name :Developer/Engineer, Role, Management & Governance, Area of Interest, Data Protection, Area of Interest, Amazon DataZone, Services, AI/ML, Topic, IT Professional/Technical Manager, Role, Wednesday, Day, Caesars Forum, Venue, AWS Glue, Services, 300 - Advanced, Level, Application Integration, Area of Interest, AWS Lake Formation, Services, Data Engineer, Role, Analytics, Topic, , speakers :firstName_0: Deepmala, lastName_0: Agarwal, firstName_1: Durga, lastName_1: Mishra, , thirdpartyid :ANT304-R, sessionuid :E6B7B70C-A14C-4CF3-ADD0-D8A20BF3C957, title :A pragmatic approach to data governance on AWS [REPEAT], description :In this workshop, learn how to implement a modern data governance strategy using AWS services like Amazon DataZone, AWS Lake Formation, AWS Glue, and more. Get hands-on experience with data governance activities that can be performed as a data platform owner, data owner, or data consumer with these services. You must bring your laptop to participate., sessiontype :Workshop, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 228, startdatetimeutc :November, 29 2023 19:30:00 -0500, enddatetimeutc :November, 29 2023 21:30:00 -0500, 
+enddatetimeutc: November, 29 2023 21:30:00 -0500
+startdatetimeutc: November, 29 2023 19:30:00 -0500
+locationname: Summit 228
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Workshop
+description: In this workshop, learn how to implement a modern data governance strategy using AWS services like Amazon DataZone, AWS Lake Formation, AWS Glue, and more. Get hands-on experience with data governance activities that can be performed as a data platform owner, data owner, or data consumer with these services. You must bring your laptop to participate
+title: A pragmatic approach to data governance on AWS [REPEAT]
+sessionuid: E6B7B70C-A14C-4CF3-ADD0-D8A20BF3C957
+thirdpartyid: ANT304-R
+speakers: firstName_0: Deepmala, lastName_0: Agarwal, firstName_1: Durga, lastName_1: Mishra
+tag_name: Developer/Engineer, Role, Management & Governance, Area of Interest, Data Protection, Area of Interest, Amazon DataZone, Services, AI/ML, Topic, IT Professional/Technical Manager, Role, Wednesday, Day, Caesars Forum, Venue, AWS Glue, Services, 300 - Advanced, Level, Application Integration, Area of Interest, AWS Lake Formation, Services, Data Engineer, Role, Analytics, Topic

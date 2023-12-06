@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :AI/ML, Topic, Generative AI, Area of Interest, Partner Enablement, Topic, Tuesday, Day, Venetian, Venue, Sales/Marketing, Role, Strategy & Transformation, Area of Interest, IT Executive, Role, 100 - Foundational, Level, Business Executive, Role, , speakers :firstName_0: PRIYA, lastName_0: ARORA, , thirdpartyid :PEX123, sessionuid :F556BD95-A8C3-4804-9C8D-D4905B8A88D4, title :Using the AWS Generative AI Center of Excellence (COE), description :If you’re interested in building practices and developing applications using generative AI on AWS, join this lightning talk to learn about the valuable resources the AWS Generative AI Center of Excellence has developed and curated to accelerate partner capability and application development. Learn about the importance of each of the four calls to action for the AWS Partner community—specialize, familiarize, build, and engage—and the resources available to implement them. This lightning talk is intended for AWS Partners., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :November, 29 2023 01:00:00 -0500, enddatetimeutc :November, 29 2023 01:20:00 -0500, 
+enddatetimeutc: November, 29 2023 01:20:00 -0500
+startdatetimeutc: November, 29 2023 01:00:00 -0500
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: If you’re interested in building practices and developing applications using generative AI on AWS, join this lightning talk to learn about the valuable resources the AWS Generative AI Center of Excellence has developed and curated to accelerate partner capability and application development. Learn about the importance of each of the four calls to action for the AWS Partner community—specialize, familiarize, build, and engage—and the resources available to implement them. This lightning talk is intended for AWS Partners
+title: Using the AWS Generative AI Center of Excellence (COE)
+sessionuid: F556BD95-A8C3-4804-9C8D-D4905B8A88D4
+thirdpartyid: PEX123
+speakers: firstName_0: PRIYA, lastName_0: ARORA
+tag_name: AI/ML, Topic, Generative AI, Area of Interest, Partner Enablement, Topic, Tuesday, Day, Venetian, Venue, Sales/Marketing, Role, Strategy & Transformation, Area of Interest, IT Executive, Role, 100 - Foundational, Level, Business Executive, Role

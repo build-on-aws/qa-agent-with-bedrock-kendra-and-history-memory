@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+summary: tag_name :200 - Intermediate, Level, IT Professional/Technical Manager, Role, Enterprise & Migration, Topic, Cross Industry, Industry, VMware, Area of Interest, System Administrator, Role, Solution/Systems Architect, Role, Venetian, Venue, Tuesday, Day, Migration & Transfer, Area of Interest, Hybrid Cloud, Topic, , speakers :firstName_0: Sean, lastName_0: Lambert, firstName_1: David, lastName_1: Piet, , thirdpartyid :ENT235, sessionuid :6D24562D-F456-44B4-958D-5C20B70A08C5, title :Migrations in action with VMware Cloud on AWS, description :In this follow-up demonstration to ENT101, see how you can migrate vSphere-based virtual machines both in and out of AWS. VMware Cloud on AWS users have always been able to migrate their workloads on premises to the cloud as they are, without the need for replatforming and rearchitecting. Join this lightning talk to see how easy it can be to migrate your virtual machines to VMware Cloud on AWS with VMware Hybrid Cloud Extension (HCX) in real time., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Hall B, Expo, Theater 1, Booth #422, Infrastructure Solutions Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: In this follow-up demonstration to ENT101, see how you can migrate vSphere-based virtual machines both in and out of AWS. VMware Cloud on AWS users have always been able to migrate their workloads on premises to the cloud as they are, without the need for replatforming and rearchitecting. Join this lightning talk to see how easy it can be to migrate your virtual machines to VMware Cloud on AWS with VMware Hybrid Cloud Extension (HCX) in real time
+title: Migrations in action with VMware Cloud on AWS
+sessionuid: 6D24562D-F456-44B4-958D-5C20B70A08C5
+thirdpartyid: ENT235
+speakers: firstName_0: Sean, lastName_0: Lambert, firstName_1: David, lastName_1: Piet
+tag_name: 200 - Intermediate, Level, IT Professional/Technical Manager, Role, Enterprise & Migration, Topic, Cross Industry, Industry, VMware, Area of Interest, System Administrator, Role, Solution/Systems Architect, Role, Venetian, Venue, Tuesday, Day, Migration & Transfer, Area of Interest, Hybrid Cloud, Topic

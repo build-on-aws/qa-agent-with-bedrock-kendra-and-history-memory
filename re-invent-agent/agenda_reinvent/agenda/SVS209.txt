@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Alliance 315
+summary: tag_name :AWS Lambda, Services, Caesars Forum, Venue, Tuesday, Day, AI/ML, Topic, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Serverless Compute, Topic, 200 - Intermediate, Level, Generative AI, Area of Interest, Amazon DynamoDB, Services, AWS Amplify, Services, Developer/Engineer, Role, , speakers :firstName_0: Samrat, lastName_0: Lamichhane, firstName_1: Nishant, lastName_1: Dhiman, firstName_2: Mark, lastName_2: Richman, firstName_3: Kensuke, lastName_3: Shimokawa, firstName_4: Hardik, lastName_4: Vasa, , thirdpartyid :SVS209-R, sessionuid :9B4149B3-538D-4BDB-B219-9A7529A9FE64, title :Using generative AI to build a serverless registration app [REPEAT], description :In this hands-on builders’ session, learn how to use generative AI with AWS Lambda, AWS Amplify, and Amazon DynamoDB to implement a workshop registration application feature. Gain a better understanding of how to use serverless technologies with generative AI to create personalized content. Also implement best practices for observability using Powertools for AWS Lambda. During this session, you will build a working solution that benefits from generative AI and serverless. You must bring your laptop to participate., sessiontype :Builders' Session, venuename :Caesars Forum, floorplanname :Level 1, locationname :Alliance 315, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: Alliance 315
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Builders' Session
+description: In this hands-on builders’ session, learn how to use generative AI with AWS Lambda, AWS Amplify, and Amazon DynamoDB to implement a workshop registration application feature. Gain a better understanding of how to use serverless technologies with generative AI to create personalized content. Also implement best practices for observability using Powertools for AWS Lambda. During this session, you will build a working solution that benefits from generative AI and serverless. You must bring your laptop to participate
+title: Using generative AI to build a serverless registration app [REPEAT]
+sessionuid: 9B4149B3-538D-4BDB-B219-9A7529A9FE64
+thirdpartyid: SVS209-R
+speakers: firstName_0: Samrat, lastName_0: Lamichhane, firstName_1: Nishant, lastName_1: Dhiman, firstName_2: Mark, lastName_2: Richman, firstName_3: Kensuke, lastName_3: Shimokawa, firstName_4: Hardik, lastName_4: Vasa
+tag_name: AWS Lambda, Services, Caesars Forum, Venue, Tuesday, Day, AI/ML, Topic, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Serverless Compute, Topic, 200 - Intermediate, Level, Generative AI, Area of Interest, Amazon DynamoDB, Services, AWS Amplify, Services, Developer/Engineer, Role

@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1280
+summary: tag_name :Venetian, Venue, Tuesday, Day, Inclusion & Diversity, Area of Interest, Expo, Additional Services, , speakers :, thirdpartyid :ACT041, sessionuid :63EDBA98-CA16-48FE-A516-3084369A1B58, title :All Builders Welcome Lounge #GivingTuesday takeover, description :<p>Engage with organizations supporting underserved communities alongside the AWS Nonprofits and AWS Inclusion, Diversity, and Equity Community Activations teams during #GivingTuesday in the Expo. From organizations like Girls Who Code, Moneythink, and Year Up, who are expanding access to education and jobs for young technologists, and Women in Tech, whose mission includes closing the gender gap across STEM career fields, learn how to amplify the impact of giving back through corporate partnerships and volunteering.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1280, startdatetimeutc :November, 28 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 28 2023 17:00:00 -0500
+locationname: Hall B, Expo, Booth #1280
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Engage with organizations supporting underserved communities alongside the AWS Nonprofits and AWS Inclusion, Diversity, and Equity Community Activations teams during #GivingTuesday in the Expo. From organizations like Girls Who Code, Moneythink, and Year Up, who are expanding access to education and jobs for young technologists, and Women in Tech, whose mission includes closing the gender gap across STEM career fields, learn how to amplify the impact of giving back through corporate partnerships and volunteering.</p>
+title: All Builders Welcome Lounge #GivingTuesday takeover
+sessionuid: 63EDBA98-CA16-48FE-A516-3084369A1B58
+thirdpartyid: ACT041
+speakers: 
+tag_name: Venetian, Venue, Tuesday, Day, Inclusion & Diversity, Area of Interest, Expo, Additional Services

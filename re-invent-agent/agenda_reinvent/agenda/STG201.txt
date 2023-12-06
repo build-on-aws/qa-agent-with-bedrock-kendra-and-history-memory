@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Reef F
+summary: tag_name :Data Protection, Area of Interest, Business Intelligence, Area of Interest, AI/ML, Topic, Data Engineer, Role, Cost Optimization, Area of Interest, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, Tuesday, Day, Mandalay Bay, Venue, IT Administrator, Role, Storage, Topic, Life Sciences, Industry, Media & Entertainment, Industry, AWS Storage Gateway, Services, Amazon S3 Glacier, Services, Amazon Simple Storage Service (S3), Services, , speakers :firstName_0: Roohi, lastName_0: Sood, firstName_1: Nitish, lastName_1: Pandey, , thirdpartyid :STG201, sessionuid :50201EC9-C901-4731-B294-2539132EDC1C, title :Maximize the value of cold data with Amazon S3 Glacier, description :The majority of the world’s data is cold, but with advanced analytics and increased demand for machine learning and generative AI models, it could be put to work at any time. In this session, learn how to use Amazon S3 Glacier storage classes to modernize your data archive and cost-effectively store long-term data without worrying about expensive tape drives or off-premises archival data. Discover the options for ingesting and restoring your data at petabyte scale while taking into consideration cost and retrieval performance., sessiontype :Breakout Session, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Reef F, startdatetimeutc :November, 28 2023 19:00:00 -0500, enddatetimeutc :November, 28 2023 20:00:00 -0500, 
+enddatetimeutc: November, 28 2023 20:00:00 -0500
+startdatetimeutc: November, 28 2023 19:00:00 -0500
+locationname: Reef F
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Breakout Session
+description: The majority of the world’s data is cold, but with advanced analytics and increased demand for machine learning and generative AI models, it could be put to work at any time. In this session, learn how to use Amazon S3 Glacier storage classes to modernize your data archive and cost-effectively store long-term data without worrying about expensive tape drives or off-premises archival data. Discover the options for ingesting and restoring your data at petabyte scale while taking into consideration cost and retrieval performance
+title: Maximize the value of cold data with Amazon S3 Glacier
+sessionuid: 50201EC9-C901-4731-B294-2539132EDC1C
+thirdpartyid: STG201
+speakers: firstName_0: Roohi, lastName_0: Sood, firstName_1: Nitish, lastName_1: Pandey
+tag_name: Data Protection, Area of Interest, Business Intelligence, Area of Interest, AI/ML, Topic, Data Engineer, Role, Cost Optimization, Area of Interest, IT Professional/Technical Manager, Role, 200 - Intermediate, Level, Tuesday, Day, Mandalay Bay, Venue, IT Administrator, Role, Storage, Topic, Life Sciences, Industry, Media & Entertainment, Industry, AWS Storage Gateway, Services, Amazon S3 Glacier, Services, Amazon Simple Storage Service (S3), Services

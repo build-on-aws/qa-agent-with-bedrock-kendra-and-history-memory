@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Murano 3306
+summary: tag_name :Cross Industry, Industry, IT Professional/Technical Manager, Role, Amazon Elastic Kubernetes Service (EKS), Services, Solution/Systems Architect, Role, Customer Stories, Area of Interest, Monday, Day, Venetian, Venue, 200 - Intermediate, Level, IT Executive, Role, Compute, Topic, Kubernetes, Topic, Global Infrastructure, Area of Interest, , speakers :firstName_0: Alex, lastName_0: Demitri, company_0: Slack, firstName_1: Nathan, lastName_1: Taber, firstName_2: Nova, lastName_2: DaSarma, company_2: Anthropic, , thirdpartyid :CON203, sessionuid :1C5418F6-474B-4190-868E-721F40A9E194, title :The future of Amazon EKS, description :Kubernetes has become a standard way for organizations to innovate and modernize their application portfolio. AWS developed Amazon EKS to make Kubernetes more accessible to organizations of all sizes, helping them free up resources and focus on what matters most: their businesses. Join Barry Cooks, VP of Kubernetes at AWS, to learn how organizations use Amazon EKS to run their most demanding applications in the cloud, on premises, and at the edge and how that is shaping the future of Amazon EKS and our community involvement., sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 3, locationname :Murano 3306, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 27 2023 22:00:00 -0500, 
+enddatetimeutc: November, 27 2023 22:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: Murano 3306
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Breakout Session
+description: Kubernetes has become a standard way for organizations to innovate and modernize their application portfolio. AWS developed Amazon EKS to make Kubernetes more accessible to organizations of all sizes, helping them free up resources and focus on what matters most: their businesses. Join Barry Cooks, VP of Kubernetes at AWS, to learn how organizations use Amazon EKS to run their most demanding applications in the cloud, on premises, and at the edge and how that is shaping the future of Amazon EKS and our community involvement
+title: The future of Amazon EKS
+sessionuid: 1C5418F6-474B-4190-868E-721F40A9E194
+thirdpartyid: CON203
+speakers: firstName_0: Alex, lastName_0: Demitri, company_0: Slack, firstName_1: Nathan, lastName_1: Taber, firstName_2: Nova, lastName_2: DaSarma, company_2: Anthropic
+tag_name: Cross Industry, Industry, IT Professional/Technical Manager, Role, Amazon Elastic Kubernetes Service (EKS), Services, Solution/Systems Architect, Role, Customer Stories, Area of Interest, Monday, Day, Venetian, Venue, 200 - Intermediate, Level, IT Executive, Role, Compute, Topic, Kubernetes, Topic, Global Infrastructure, Area of Interest

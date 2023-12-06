@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 111
+summary: tag_name :Architecture, Topic, Compute, Topic, Application Integration, Area of Interest, Global Infrastructure, Area of Interest, Automotive, Industry, Cross Industry, Industry, 300 - Advanced, Level, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Block Store (EBS), Services, Amazon Elastic Compute Cloud (EC2), Services, AWS Lambda, Services, Monday, Day, MGM Grand, Venue, , speakers :firstName_0: Brian, lastName_0: Kreitzer, firstName_1: Kellan, lastName_1: Cartledge, , thirdpartyid :CMP314, sessionuid :2C2E9EB2-C142-4B69-BD44-AD4128CC5CAE, title :Deploying NVIDIA Omniverse Nucleus on AWS, description :<p>Spatial computing specialists show you how to deploy NVIDIA Omniverse on AWS in this interactive workshop. Solve problems in real time, and see how AWS can help you empower your teams to collaborate and innovate with 3D data across your cloud infrastructure. You must bring your laptop to participate.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 111, startdatetimeutc :November, 27 2023 19:30:00 -0500, enddatetimeutc :November, 27 2023 21:30:00 -0500, 
+enddatetimeutc: November, 27 2023 21:30:00 -0500
+startdatetimeutc: November, 27 2023 19:30:00 -0500
+locationname: Grand 111
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Spatial computing specialists show you how to deploy NVIDIA Omniverse on AWS in this interactive workshop. Solve problems in real time, and see how AWS can help you empower your teams to collaborate and innovate with 3D data across your cloud infrastructure. You must bring your laptop to participate.</p>
+title: Deploying NVIDIA Omniverse Nucleus on AWS
+sessionuid: 2C2E9EB2-C142-4B69-BD44-AD4128CC5CAE
+thirdpartyid: CMP314
+speakers: firstName_0: Brian, lastName_0: Kreitzer, firstName_1: Kellan, lastName_1: Cartledge
+tag_name: Architecture, Topic, Compute, Topic, Application Integration, Area of Interest, Global Infrastructure, Area of Interest, Automotive, Industry, Cross Industry, Industry, 300 - Advanced, Level, Data Scientist, Role, Developer/Engineer, Role, Solution/Systems Architect, Role, Amazon Elastic Block Store (EBS), Services, Amazon Elastic Compute Cloud (EC2), Services, AWS Lambda, Services, Monday, Day, MGM Grand, Venue

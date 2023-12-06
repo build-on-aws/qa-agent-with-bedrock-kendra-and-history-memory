@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Summit Showroom
+summary: tag_name :Thursday, Day, Venetian, Venue, IT Professional/Technical Manager, Role, AI/ML, Topic, Cross Industry, Industry, Business Intelligence, Area of Interest, Amazon Connect, Services, Amazon Bedrock, Services, Generative AI, Area of Interest, Business Executive, Role, Independent Software Vendor (ISV), Area of Interest, Business Applications, Topic, Amazon Lex, Services, IT Executive, Role, Financial Services, Industry, 200 - Intermediate, Level, Healthcare, Industry, , speakers :firstName_0: Ganesh, lastName_0: Kumar Gella, firstName_1: Marcelo, lastName_1: Silva, firstName_2: Gregg, lastName_2: Doppelheuer, company_2: Lockheed Martin Missiles & Fire Control, , thirdpartyid :AIM222, sessionuid :496C1FC2-F58A-49FF-BF76-7316B768C51B, title :Amazon Lex reshapes CX with conversational workflows and generative AI, description :<p>Customers expect personalized and immediate responses from chat- and voice-based virtual agents. Learn how you can use Amazon Lex powered by generative AI to deliver self-service customer experiences. Understand how a fully integrated platform with Amazon Lex and Amazon Connect can help create personalized omnichannel workflows for employees and customers.</p>, sessiontype :Breakout Session, venuename :Venetian, floorplanname :Level 2, locationname :Summit Showroom, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 23:00:00 -0500, 
+enddatetimeutc: November, 30 2023 23:00:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Summit Showroom
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Breakout Session
+description: <p>Customers expect personalized and immediate responses from chat- and voice-based virtual agents. Learn how you can use Amazon Lex powered by generative AI to deliver self-service customer experiences. Understand how a fully integrated platform with Amazon Lex and Amazon Connect can help create personalized omnichannel workflows for employees and customers.</p>
+title: Amazon Lex reshapes CX with conversational workflows and generative AI
+sessionuid: 496C1FC2-F58A-49FF-BF76-7316B768C51B
+thirdpartyid: AIM222
+speakers: firstName_0: Ganesh, lastName_0: Kumar Gella, firstName_1: Marcelo, lastName_1: Silva, firstName_2: Gregg, lastName_2: Doppelheuer, company_2: Lockheed Martin Missiles & Fire Control
+tag_name: Thursday, Day, Venetian, Venue, IT Professional/Technical Manager, Role, AI/ML, Topic, Cross Industry, Industry, Business Intelligence, Area of Interest, Amazon Connect, Services, Amazon Bedrock, Services, Generative AI, Area of Interest, Business Executive, Role, Independent Software Vendor (ISV), Area of Interest, Business Applications, Topic, Amazon Lex, Services, IT Executive, Role, Financial Services, Industry, 200 - Intermediate, Level, Healthcare, Industry

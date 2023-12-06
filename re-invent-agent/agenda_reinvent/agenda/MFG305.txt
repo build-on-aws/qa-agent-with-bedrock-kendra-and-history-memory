@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Latour 5
+summary: tag_name :Security, Compliance, & Identity, Topic, Edge Computing, Area of Interest, Network & Infrastructure Security, Area of Interest, Automotive, Industry, Manufacturing & Industrial, Industry, 300 - Advanced, Level, Cloud Security Specialist, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon EventBridge, Services, AWS IoT Device Defender, Services, AWS Security Hub, Services, Monday, Day, Wynn, Venue, , speakers :firstName_0: Madhu, lastName_0: Pai, firstName_1: Nishant, lastName_1: Saini, , thirdpartyid :MFG305, sessionuid :0215E412-3537-46A6-92A9-39581519ABAF, title :Cybersecurity for operational technology and industrial IoT, description :<p>Join this chalk talk to see the design patterns and solutions for operational technology (OT) and industrial IoT (IIoT) cybersecurity use cases on AWS. Get a review of the features and capabilities that constitute a well-architected cybersecurity solution for manufacturing, using the Purdue model for industrial control system security as the foundation. Hear about AWS and AWS Partner solutions that provide a single pane of glass to consolidate OT and IT security management, threat detection, compliance, and event management.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Latour 5, startdatetimeutc :November, 27 2023 21:30:00 -0500, enddatetimeutc :November, 27 2023 22:30:00 -0500, 
+enddatetimeutc: November, 27 2023 22:30:00 -0500
+startdatetimeutc: November, 27 2023 21:30:00 -0500
+locationname: Latour 5
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Join this chalk talk to see the design patterns and solutions for operational technology (OT) and industrial IoT (IIoT) cybersecurity use cases on AWS. Get a review of the features and capabilities that constitute a well-architected cybersecurity solution for manufacturing, using the Purdue model for industrial control system security as the foundation. Hear about AWS and AWS Partner solutions that provide a single pane of glass to consolidate OT and IT security management, threat detection, compliance, and event management.</p>
+title: Cybersecurity for operational technology and industrial IoT
+sessionuid: 0215E412-3537-46A6-92A9-39581519ABAF
+thirdpartyid: MFG305
+speakers: firstName_0: Madhu, lastName_0: Pai, firstName_1: Nishant, lastName_1: Saini
+tag_name: Security, Compliance, & Identity, Topic, Edge Computing, Area of Interest, Network & Infrastructure Security, Area of Interest, Automotive, Industry, Manufacturing & Industrial, Industry, 300 - Advanced, Level, Cloud Security Specialist, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Amazon EventBridge, Services, AWS IoT Device Defender, Services, AWS Security Hub, Services, Monday, Day, Wynn, Venue

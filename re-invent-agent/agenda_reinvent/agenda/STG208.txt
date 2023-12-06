@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :Monitoring & Observability, Area of Interest, 200 - Intermediate, Level, Storage, Topic, Amazon Elastic Block Store (EBS), Services, IT Administrator, Role, Resilience, Area of Interest, AWS Fault Injector Service (FIS), Services, IT Professional/Technical Manager, Role, Monday, Day, Wynn, Venue, Disaster Response & Recovery, Area of Interest, Cross Industry, Industry, Cloud Operations, Topic, Financial Services, Industry, Amazon CloudWatch, Services, System Administrator, Role, , speakers :firstName_0: Heather, lastName_0: Horbochuk, firstName_1: Sooraj, lastName_1: Prasannan, , thirdpartyid :STG208, sessionuid :9CDDFD61-BD85-43B2-8F20-93F7ABABFACB, title :Build resilient architectures with Amazon EBS, description :Among components of a resilient system, storage is fundamental for any enterprise application. In this session, walk through the use of Pause I/O action on AWS Fault Injection Simulator (AWS FIS) to simulate an unresponsive state of an Amazon EBS volume. Learn the best practices of configuring Amazon EBS for resilience and high availability. Discover how Amazon EBS can help you meet even the most demanding service levels for mission-critical applications., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 27 2023 21:30:00 -0500, enddatetimeutc :November, 27 2023 22:30:00 -0500, 
+enddatetimeutc: November, 27 2023 22:30:00 -0500
+startdatetimeutc: November, 27 2023 21:30:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Among components of a resilient system, storage is fundamental for any enterprise application. In this session, walk through the use of Pause I/O action on AWS Fault Injection Simulator (AWS FIS) to simulate an unresponsive state of an Amazon EBS volume. Learn the best practices of configuring Amazon EBS for resilience and high availability. Discover how Amazon EBS can help you meet even the most demanding service levels for mission-critical applications
+title: Build resilient architectures with Amazon EBS
+sessionuid: 9CDDFD61-BD85-43B2-8F20-93F7ABABFACB
+thirdpartyid: STG208
+speakers: firstName_0: Heather, lastName_0: Horbochuk, firstName_1: Sooraj, lastName_1: Prasannan
+tag_name: Monitoring & Observability, Area of Interest, 200 - Intermediate, Level, Storage, Topic, Amazon Elastic Block Store (EBS), Services, IT Administrator, Role, Resilience, Area of Interest, AWS Fault Injector Service (FIS), Services, IT Professional/Technical Manager, Role, Monday, Day, Wynn, Venue, Disaster Response & Recovery, Area of Interest, Cross Industry, Industry, Cloud Operations, Topic, Financial Services, Industry, Amazon CloudWatch, Services, System Administrator, Role

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Forum 123
+summary: tag_name :Compute, Topic, Hybrid Cloud, Topic, Edge Computing, Area of Interest, Global Infrastructure, Area of Interest, Automotive, Industry, Government, Industry, Telecommunications, Industry, 300 - Advanced, Level, Developer/Engineer, Role, IT Executive, Role, IT Professional/Technical Manager, Role, AWS Local Zones, Services, AWS Outposts, Services, AWS Snow Family, Services, Wednesday, Day, Caesars Forum, Venue, , speakers :firstName_0: Nida, lastName_0: Beig, firstName_1: Kate, lastName_1: Sposato, , thirdpartyid :HYB312, sessionuid :38E31A9F-A828-46DC-AAB2-013B8E128593, title :Deploying cloud-enabled applications starting at the edge, description :<p>AWS is reinventing hybrid cloud and edge computing models by providing consistent cloud services wherever organizations need them, including at edge-native applications, to support their businesses. In this chalk talk, explore how you can use AWS hybrid cloud and edge computing services, such as AWS Local Zones, AWS Wavelength, AWS Outposts, and the AWS Snow Family, with workloads that start at the edge. Learn more about how edge workloads can utilize the cloud and how this can help you develop, test, and deploy edge applications wherever data is being generated.</p>, sessiontype :standard, venuename :Caesars Forum, floorplanname :Level 1, locationname :Forum 123, startdatetimeutc :November, 29 2023 21:00:00 -0500, enddatetimeutc :November, 29 2023 22:00:00 -0500, 
+enddatetimeutc: November, 29 2023 22:00:00 -0500
+startdatetimeutc: November, 29 2023 21:00:00 -0500
+locationname: Forum 123
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: standard
+description: <p>AWS is reinventing hybrid cloud and edge computing models by providing consistent cloud services wherever organizations need them, including at edge-native applications, to support their businesses. In this chalk talk, explore how you can use AWS hybrid cloud and edge computing services, such as AWS Local Zones, AWS Wavelength, AWS Outposts, and the AWS Snow Family, with workloads that start at the edge. Learn more about how edge workloads can utilize the cloud and how this can help you develop, test, and deploy edge applications wherever data is being generated.</p>
+title: Deploying cloud-enabled applications starting at the edge
+sessionuid: 38E31A9F-A828-46DC-AAB2-013B8E128593
+thirdpartyid: HYB312
+speakers: firstName_0: Nida, lastName_0: Beig, firstName_1: Kate, lastName_1: Sposato
+tag_name: Compute, Topic, Hybrid Cloud, Topic, Edge Computing, Area of Interest, Global Infrastructure, Area of Interest, Automotive, Industry, Government, Industry, Telecommunications, Industry, 300 - Advanced, Level, Developer/Engineer, Role, IT Executive, Role, IT Professional/Technical Manager, Role, AWS Local Zones, Services, AWS Outposts, Services, AWS Snow Family, Services, Wednesday, Day, Caesars Forum, Venue

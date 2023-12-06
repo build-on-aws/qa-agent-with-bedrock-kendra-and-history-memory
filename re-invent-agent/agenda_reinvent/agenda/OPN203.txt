@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 120
+summary: tag_name :AI/ML, Topic, Academic/Researcher, Role, Developer/Engineer, Role, 200 - Intermediate, Level, Data Scientist, Role, Monday, Day, MGM Grand, Venue, Open Source, Area of Interest, Generative AI, Area of Interest, , speakers :firstName_0: Piyush, lastName_0: Jain, firstName_1: Jason, lastName_1: Weill, , thirdpartyid :OPN203, sessionuid :EB71F574-47C3-4524-A718-E55E43D094D1, title :Jupyter AI: Open source brings LLMs to your notebooks, description :At AWS, our developers built Jupyter AI, an open source project to connect JupyterLab with generative AI large language models (LLMs) like Amazon Titan and OpenAI’s gpt-3.5-turbo (used in ChatGPT). In this session, explore how you can use the power of these models to become more productive. Learn from several use cases, including code refactoring, debugging, code explanation, and answering common questions, about how Jupyter AI can answer questions based on user input, help explain and fix code errors, and learn from and answer questions about local data files. Announced at JupyterCon 2023, Jupyter AI is available as free, open source software., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 120, startdatetimeutc :November, 27 2023 22:30:00 -0500, enddatetimeutc :November, 27 2023 23:30:00 -0500, 
+enddatetimeutc: November, 27 2023 23:30:00 -0500
+startdatetimeutc: November, 27 2023 22:30:00 -0500
+locationname: Grand 120
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: At AWS, our developers built Jupyter AI, an open source project to connect JupyterLab with generative AI large language models (LLMs) like Amazon Titan and OpenAI’s gpt-3.5-turbo (used in ChatGPT). In this session, explore how you can use the power of these models to become more productive. Learn from several use cases, including code refactoring, debugging, code explanation, and answering common questions, about how Jupyter AI can answer questions based on user input, help explain and fix code errors, and learn from and answer questions about local data files. Announced at JupyterCon 2023, Jupyter AI is available as free, open source software
+title: Jupyter AI: Open source brings LLMs to your notebooks
+sessionuid: EB71F574-47C3-4524-A718-E55E43D094D1
+thirdpartyid: OPN203
+speakers: firstName_0: Piyush, lastName_0: Jain, firstName_1: Jason, lastName_1: Weill
+tag_name: AI/ML, Topic, Academic/Researcher, Role, Developer/Engineer, Role, 200 - Intermediate, Level, Data Scientist, Role, Monday, Day, MGM Grand, Venue, Open Source, Area of Interest, Generative AI, Area of Interest

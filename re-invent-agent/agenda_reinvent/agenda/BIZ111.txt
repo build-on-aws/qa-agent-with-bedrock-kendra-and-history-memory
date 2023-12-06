@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 5, Booth #1130, Data Zone
+summary: tag_name :Manufacturing & Industrial, Industry, Consumer Packaged Goods, Industry, Cost Optimization, Area of Interest, Strategy & Transformation, Area of Interest, Advisor/Consultant, Role, Customer Stories, Area of Interest, AWS Supply Chain, Services, Cross Industry, Industry, Solution/Systems Architect, Role, Business Applications, Topic, Venetian, Venue, Thursday, Day, Business Executive, Role, 100 - Foundational, Level, , speakers :firstName_0: Vikram, lastName_0: Balasubramanian, , thirdpartyid :BIZ111, sessionuid :7C4987F8-A386-4984-8821-B6CEB564F7F3, title :Plan for better results, description :See a demo of how the AWS Supply Chain Demand Planning application can help you produce more accurate forecasts, faster. Demand Planning uses machine learning to analyze historical and real-time sales and purchase order data to create adaptive forecast models. These models are continuously learning and adjust forecasts according to market conditions and changing demand patterns. Learn how AWS Supply Chain can help you improve supply chain performance and customer service and satisfaction levels., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 5, Booth #1130, Data Zone, startdatetimeutc :November, 30 2023 20:30:00 -0500, enddatetimeutc :November, 30 2023 20:50:00 -0500, 
+enddatetimeutc: November, 30 2023 20:50:00 -0500
+startdatetimeutc: November, 30 2023 20:30:00 -0500
+locationname: Hall B, Expo, Theater 5, Booth #1130, Data Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: See a demo of how the AWS Supply Chain Demand Planning application can help you produce more accurate forecasts, faster. Demand Planning uses machine learning to analyze historical and real-time sales and purchase order data to create adaptive forecast models. These models are continuously learning and adjust forecasts according to market conditions and changing demand patterns. Learn how AWS Supply Chain can help you improve supply chain performance and customer service and satisfaction levels
+title: Plan for better results
+sessionuid: 7C4987F8-A386-4984-8821-B6CEB564F7F3
+thirdpartyid: BIZ111
+speakers: firstName_0: Vikram, lastName_0: Balasubramanian
+tag_name: Manufacturing & Industrial, Industry, Consumer Packaged Goods, Industry, Cost Optimization, Area of Interest, Strategy & Transformation, Area of Interest, Advisor/Consultant, Role, Customer Stories, Area of Interest, AWS Supply Chain, Services, Cross Industry, Industry, Solution/Systems Architect, Role, Business Applications, Topic, Venetian, Venue, Thursday, Day, Business Executive, Role, 100 - Foundational, Level

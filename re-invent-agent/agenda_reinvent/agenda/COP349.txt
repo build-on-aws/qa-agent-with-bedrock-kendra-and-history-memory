@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Theater 4, Booth #1460, Security Zone
+summary: tag_name :Amazon CloudWatch, Services, AWS Systems Manager, Services, 300 - Advanced, Level, Cloud Operations, Topic, Thursday, Day, Venetian, Venue, System Administrator, Role, Amazon Managed Service for Prometheus, Services, DevOps Engineer, Role, IT Administrator, Role, Monitoring & Observability, Area of Interest, Management & Governance, Area of Interest, , speakers :firstName_0: Gregory, lastName_0: Eppel, , thirdpartyid :COP349, sessionuid :66E1EBFD-9D58-4EB3-BE71-ECD7B87FD530, title :Demonstration of what’s new with AWS observability and operations, description :In this follow-up demonstration to COP339, see how AWS helps manage and provide insights into your applications and infrastructure across multiple environments. This lightning talk dives into the latest AWS launches with demos of IT management tools and observability solutions., sessiontype :Lightning Talk, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Theater 4, Booth #1460, Security Zone, startdatetimeutc :November, 30 2023 22:00:00 -0500, enddatetimeutc :November, 30 2023 22:20:00 -0500, 
+enddatetimeutc: November, 30 2023 22:20:00 -0500
+startdatetimeutc: November, 30 2023 22:00:00 -0500
+locationname: Hall B, Expo, Theater 4, Booth #1460, Security Zone
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lightning Talk
+description: In this follow-up demonstration to COP339, see how AWS helps manage and provide insights into your applications and infrastructure across multiple environments. This lightning talk dives into the latest AWS launches with demos of IT management tools and observability solutions
+title: Demonstration of what’s new with AWS observability and operations
+sessionuid: 66E1EBFD-9D58-4EB3-BE71-ECD7B87FD530
+thirdpartyid: COP349
+speakers: firstName_0: Gregory, lastName_0: Eppel
+tag_name: Amazon CloudWatch, Services, AWS Systems Manager, Services, 300 - Advanced, Level, Cloud Operations, Topic, Thursday, Day, Venetian, Venue, System Administrator, Role, Amazon Managed Service for Prometheus, Services, DevOps Engineer, Role, IT Administrator, Role, Monitoring & Observability, Area of Interest, Management & Governance, Area of Interest

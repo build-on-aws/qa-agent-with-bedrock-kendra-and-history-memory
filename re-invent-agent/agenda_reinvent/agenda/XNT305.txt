@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, Premier 318
+summary: tag_name :Business Applications, Topic, Amazon CodeWhisperer, Services, Developer/Engineer, Role, 300 - Advanced, Level, AI/ML, Topic, Wednesday, Day, MGM Grand, Venue, Amazon Textract, Services, Amazon Translate, Services, Solution/Systems Architect, Role, Amazon Comprehend, Services, , speakers :firstName_0: Prasad, lastName_0: Rao, firstName_1: Alexander, lastName_1: Dragunov, , thirdpartyid :XNT305, sessionuid :7C15E059-52FB-4E6A-9009-C147FD9324F2, title :Enrich your .NET applications with AI capabilities, description :Discover how you can supercharge your .NET applications with AWS AI services. In this demo-heavy session, learn how you can enrich your .NET applications with AI capabilities like natural language processing, language detection, and translation all using an AI-assisted code generator. You can also see how to build an end-to-end intelligent document processing application with .NET using AWS AI services., sessiontype :Breakout Session, venuename :MGM Grand, floorplanname :Level 3, locationname :Premier 318, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Premier 318
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Breakout Session
+description: Discover how you can supercharge your .NET applications with AWS AI services. In this demo-heavy session, learn how you can enrich your .NET applications with AI capabilities like natural language processing, language detection, and translation all using an AI-assisted code generator. You can also see how to build an end-to-end intelligent document processing application with .NET using AWS AI services
+title: Enrich your .NET applications with AI capabilities
+sessionuid: 7C15E059-52FB-4E6A-9009-C147FD9324F2
+thirdpartyid: XNT305
+speakers: firstName_0: Prasad, lastName_0: Rao, firstName_1: Alexander, lastName_1: Dragunov
+tag_name: Business Applications, Topic, Amazon CodeWhisperer, Services, Developer/Engineer, Role, 300 - Advanced, Level, AI/ML, Topic, Wednesday, Day, MGM Grand, Venue, Amazon Textract, Services, Amazon Translate, Services, Solution/Systems Architect, Role, Amazon Comprehend, Services

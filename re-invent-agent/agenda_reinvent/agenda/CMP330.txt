@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Montrachet 1
+summary: tag_name :IT Professional/Technical Manager, Role, Amazon Elastic Compute Cloud (EC2), Services, Cross Industry, Industry, Solution/Systems Architect, Role, Amazon Elastic Block Store (EBS), Services, 300 - Advanced, Level, Innovation on AWS, Area of Interest, Compute, Topic, Customer Stories, Area of Interest, Wednesday, Day, Wynn, Venue, Data Engineer, Role, Storage, Topic, Migration & Transfer, Area of Interest, , speakers :firstName_0: Reena, lastName_0: Gupta, firstName_1: Amit, lastName_1: Shah, , thirdpartyid :CMP330, sessionuid :9A56A4F0-BFF7-48B3-A040-D560DA4559B5, title :Optimizing your workloads to adopt next-gen storage instances, description :Join this chalk talk to learn how to optimize your workloads for the next generation of storage instances. Learn about optimization for workloads such as real-time databases, streaming Kafka, search, and analytics. During this talk, see how the architecture of the workloads helps define what instances you should select to achieve the best performance and cost. Hear real examples of how organizations have made workload selections and achieved goals from this consolidation., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Montrachet 1, startdatetimeutc :November, 29 2023 23:00:00 -0500, enddatetimeutc :November, 30 2023 00:00:00 -0500, 
+enddatetimeutc: November, 30 2023 00:00:00 -0500
+startdatetimeutc: November, 29 2023 23:00:00 -0500
+locationname: Montrachet 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Join this chalk talk to learn how to optimize your workloads for the next generation of storage instances. Learn about optimization for workloads such as real-time databases, streaming Kafka, search, and analytics. During this talk, see how the architecture of the workloads helps define what instances you should select to achieve the best performance and cost. Hear real examples of how organizations have made workload selections and achieved goals from this consolidation
+title: Optimizing your workloads to adopt next-gen storage instances
+sessionuid: 9A56A4F0-BFF7-48B3-A040-D560DA4559B5
+thirdpartyid: CMP330
+speakers: firstName_0: Reena, lastName_0: Gupta, firstName_1: Amit, lastName_1: Shah
+tag_name: IT Professional/Technical Manager, Role, Amazon Elastic Compute Cloud (EC2), Services, Cross Industry, Industry, Solution/Systems Architect, Role, Amazon Elastic Block Store (EBS), Services, 300 - Advanced, Level, Innovation on AWS, Area of Interest, Compute, Topic, Customer Stories, Area of Interest, Wednesday, Day, Wynn, Venue, Data Engineer, Role, Storage, Topic, Migration & Transfer, Area of Interest

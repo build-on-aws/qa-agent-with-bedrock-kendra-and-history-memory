@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Academy 411
+summary: tag_name :Amazon Textract, Services, Data Scientist, Role, Business Applications, Topic, Amazon Comprehend, Services, Business Intelligence, Area of Interest, Financial Services, Industry, AI/ML, Topic, Caesars Forum, Venue, Tuesday, Day, Amazon Bedrock, Services, Government, Industry, Healthcare, Industry, Generative AI, Area of Interest, Independent Software Vendor (ISV), Area of Interest, Solution/Systems Architect, Role, Developer/Engineer, Role, 300 - Advanced, Level, , speakers :firstName_0: Smriti, lastName_0: Ranjan, firstName_1: Wrick, lastName_1: Talukdar, , thirdpartyid :AIM316, sessionuid :CA1761EB-6E5F-4A2B-9AE8-B0FDE665E627, title :Accelerating intelligent document processing in insurance with gen AI, description :In this chalk talk, learn how you can automate insurance document processing workflows and accelerate business value with generative AI. Discover how Amazon Textract and Amazon Comprehend, when infused with generative AI, elevate document management to new heights, streamlining claim processes and redefining customer experiences in the insurance domain., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Academy 411, startdatetimeutc :November, 28 2023 22:30:00 -0500, enddatetimeutc :November, 28 2023 23:30:00 -0500, 
+enddatetimeutc: November, 28 2023 23:30:00 -0500
+startdatetimeutc: November, 28 2023 22:30:00 -0500
+locationname: Academy 411
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: In this chalk talk, learn how you can automate insurance document processing workflows and accelerate business value with generative AI. Discover how Amazon Textract and Amazon Comprehend, when infused with generative AI, elevate document management to new heights, streamlining claim processes and redefining customer experiences in the insurance domain
+title: Accelerating intelligent document processing in insurance with gen AI
+sessionuid: CA1761EB-6E5F-4A2B-9AE8-B0FDE665E627
+thirdpartyid: AIM316
+speakers: firstName_0: Smriti, lastName_0: Ranjan, firstName_1: Wrick, lastName_1: Talukdar
+tag_name: Amazon Textract, Services, Data Scientist, Role, Business Applications, Topic, Amazon Comprehend, Services, Business Intelligence, Area of Interest, Financial Services, Industry, AI/ML, Topic, Caesars Forum, Venue, Tuesday, Day, Amazon Bedrock, Services, Government, Industry, Healthcare, Industry, Generative AI, Area of Interest, Independent Software Vendor (ISV), Area of Interest, Solution/Systems Architect, Role, Developer/Engineer, Role, 300 - Advanced, Level

@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3002
+summary: tag_name :Thursday, Day, Venetian, Venue, Partner Enablement, Topic, 200 - Intermediate, Level, , speakers :, thirdpartyid :PEX206, sessionuid :A320B896-72FA-4DF8-A448-2531ACC02C23, title :Learn how SIs create new sales channels and revenue streams with AWS, description :, sessiontype :standard, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3002, startdatetimeutc :November, 30 2023 19:30:00 -0500, enddatetimeutc :November, 30 2023 20:30:00 -0500, 
+enddatetimeutc: November, 30 2023 20:30:00 -0500
+startdatetimeutc: November, 30 2023 19:30:00 -0500
+locationname: Lido 3002
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: standard
+description: 
+title: Learn how SIs create new sales channels and revenue streams with AWS
+sessionuid: A320B896-72FA-4DF8-A448-2531ACC02C23
+thirdpartyid: PEX206
+speakers: 
+tag_name: Thursday, Day, Venetian, Venue, Partner Enablement, Topic, 200 - Intermediate, Level

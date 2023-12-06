@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 115
+summary: tag_name :Cloud Operations, Topic, Management & Governance, Area of Interest, Resilience, Area of Interest, Monitoring & Observability, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, IT Professional/Technical Manager, Role, AWS Health, Services, 300 - Advanced, Level, Wednesday, Day, MGM Grand, Venue, Amazon Elastic Kubernetes Service (EKS), Services, Amazon Relational Database Service (RDS), Services, , speakers :firstName_0: Paddy, lastName_0: Rafferty, company_0: Cox Automotive, firstName_1: James, lastName_1: Aitken, firstName_2: Andrew, lastName_2: Riley, , thirdpartyid :SUP309, sessionuid :BF201BBD-6E28-4414-B035-A13AC7C92779, title :Manage resource lifecycle events at scale with AWS Health, description :<p>AWS Health keeps you informed about service events, planned changes, and account notifications to help you manage your cloud resources. In this session, learn best practices for using AWS Health events to improve the security and availability of your applications and to manage your resources at scale. Join us to learn firsthand how Cox Automotive use AWS Health events, Amazon EventBridge, and AWS Health API to programmatically manage AWS resources such as Amazon EKS, Amazon RDS, and AWS Lambda.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 115, startdatetimeutc :November, 29 2023 20:00:00 -0500, enddatetimeutc :November, 29 2023 21:00:00 -0500, 
+enddatetimeutc: November, 29 2023 21:00:00 -0500
+startdatetimeutc: November, 29 2023 20:00:00 -0500
+locationname: Grand 115
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: standard
+description: <p>AWS Health keeps you informed about service events, planned changes, and account notifications to help you manage your cloud resources. In this session, learn best practices for using AWS Health events to improve the security and availability of your applications and to manage your resources at scale. Join us to learn firsthand how Cox Automotive use AWS Health events, Amazon EventBridge, and AWS Health API to programmatically manage AWS resources such as Amazon EKS, Amazon RDS, and AWS Lambda.</p>
+title: Manage resource lifecycle events at scale with AWS Health
+sessionuid: BF201BBD-6E28-4414-B035-A13AC7C92779
+thirdpartyid: SUP309
+speakers: firstName_0: Paddy, lastName_0: Rafferty, company_0: Cox Automotive, firstName_1: James, lastName_1: Aitken, firstName_2: Andrew, lastName_2: Riley
+tag_name: Cloud Operations, Topic, Management & Governance, Area of Interest, Resilience, Area of Interest, Monitoring & Observability, Area of Interest, Developer/Engineer, Role, DevOps Engineer, Role, IT Professional/Technical Manager, Role, AWS Health, Services, 300 - Advanced, Level, Wednesday, Day, MGM Grand, Venue, Amazon Elastic Kubernetes Service (EKS), Services, Amazon Relational Database Service (RDS), Services

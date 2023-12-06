@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 306
+summary: tag_name :Business Applications, Topic, Compute, Topic, Application Integration, Area of Interest, Small and Midsize Business (SMB), Area of Interest, Advertising & Marketing, Industry, Retail, Industry, Cross Industry, Industry, 100 - Foundational, Level, Business Executive, Role, Entrepreneur (Founder/Co-Founder), Role, Venture Capitalist, Role, Amazon Lightsail, Services, Amazon Elastic Compute Cloud (EC2), Services, Monday, Day, MGM Grand, Venue, , speakers :firstName_0: Andy, lastName_0: Yates, firstName_1: Trishi, lastName_1: Mehta, , thirdpartyid :CMP103, sessionuid :42468689-F27C-42CE-A57F-C2D66422F7CB, title :Bring your small business to the cloud with Amazon Lightsail, description :<p>Join this chalk talk to learn how easy it can be to bring your business application to the cloud on Amazon Lightsail. A WordPress blog, point-of-sale system, ecommerce site, and even a remote Windows desktop can all be hosted on Lightsail. With Lightsail, it’s fast and easy to get up and running with the reliability of the cloud. Learn how streamlined it is to quickly deploy and configure your application, with a simple monthly price.</p>, sessiontype :standard, venuename :MGM Grand, floorplanname :Level 3, locationname :306, startdatetimeutc :November, 27 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 19:00:00 -0500, 
+enddatetimeutc: November, 27 2023 19:00:00 -0500
+startdatetimeutc: November, 27 2023 18:00:00 -0500
+locationname: 306
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: standard
+description: <p>Join this chalk talk to learn how easy it can be to bring your business application to the cloud on Amazon Lightsail. A WordPress blog, point-of-sale system, ecommerce site, and even a remote Windows desktop can all be hosted on Lightsail. With Lightsail, it’s fast and easy to get up and running with the reliability of the cloud. Learn how streamlined it is to quickly deploy and configure your application, with a simple monthly price.</p>
+title: Bring your small business to the cloud with Amazon Lightsail
+sessionuid: 42468689-F27C-42CE-A57F-C2D66422F7CB
+thirdpartyid: CMP103
+speakers: firstName_0: Andy, lastName_0: Yates, firstName_1: Trishi, lastName_1: Mehta
+tag_name: Business Applications, Topic, Compute, Topic, Application Integration, Area of Interest, Small and Midsize Business (SMB), Area of Interest, Advertising & Marketing, Industry, Retail, Industry, Cross Industry, Industry, 100 - Foundational, Level, Business Executive, Role, Entrepreneur (Founder/Co-Founder), Role, Venture Capitalist, Role, Amazon Lightsail, Services, Amazon Elastic Compute Cloud (EC2), Services, Monday, Day, MGM Grand, Venue

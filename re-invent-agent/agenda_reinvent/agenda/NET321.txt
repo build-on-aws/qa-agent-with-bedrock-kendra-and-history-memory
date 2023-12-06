@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafleur 2
+summary: tag_name :Networking & Content Delivery, Topic, Application Integration, Area of Interest, Front-End Web & Mobile, Area of Interest, Network & Infrastructure Security, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Amazon CloudFront, Services, AWS WAF, Services, Wynn, Venue, Monday, Day, , speakers :firstName_0: Kris, lastName_0: Hatlelid, firstName_1: Nitin, lastName_1: Saxena, , thirdpartyid :NET321, sessionuid :D4DA2FCE-52BE-4971-ACEF-A1FC264C4431, title :How to control bots and help prevent account fraud using AWS WAF, description :<p>Learn how you can effectively deploy AWS WAF to filter and control requests from bots to safeguard your online applications, and discover proactive measures to combat credential stuffing and enhance user account security. Come away from this session with insights into best practices and real-world examples to help you implement robust protection mechanisms. Join this session for a comprehensive discussion on using AWS WAF for advanced threat prevention.</p>, sessiontype :standard, venuename :Wynn, floorplanname :Level 1, locationname :Lafleur 2, startdatetimeutc :November, 27 2023 20:00:00 -0500, enddatetimeutc :November, 27 2023 21:00:00 -0500, 
+enddatetimeutc: November, 27 2023 21:00:00 -0500
+startdatetimeutc: November, 27 2023 20:00:00 -0500
+locationname: Lafleur 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: standard
+description: <p>Learn how you can effectively deploy AWS WAF to filter and control requests from bots to safeguard your online applications, and discover proactive measures to combat credential stuffing and enhance user account security. Come away from this session with insights into best practices and real-world examples to help you implement robust protection mechanisms. Join this session for a comprehensive discussion on using AWS WAF for advanced threat prevention.</p>
+title: How to control bots and help prevent account fraud using AWS WAF
+sessionuid: D4DA2FCE-52BE-4971-ACEF-A1FC264C4431
+thirdpartyid: NET321
+speakers: firstName_0: Kris, lastName_0: Hatlelid, firstName_1: Nitin, lastName_1: Saxena
+tag_name: Networking & Content Delivery, Topic, Application Integration, Area of Interest, Front-End Web & Mobile, Area of Interest, Network & Infrastructure Security, Area of Interest, Cross Industry, Industry, 300 - Advanced, Level, Cloud Security Specialist, Role, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Amazon CloudFront, Services, AWS WAF, Services, Wynn, Venue, Monday, Day

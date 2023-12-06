@@ -1,0 +1,14 @@
+location: MGM Grand, Level 3, 306
+summary: tag_name :IT Administrator, Role, Application Security, Area of Interest, Amazon QuickSight, Services, Cloud Security Specialist, Role, Business Intelligence, Area of Interest, System Administrator, Role, AWS Lake Formation, Services, Analytics, Topic, Management & Governance, Area of Interest, Security, Compliance, & Identity, Topic, MGM Grand, Venue, Tuesday, Day, 300 - Advanced, Level, AWS Identity and Access Management (IAM), Services, Cross Industry, Industry, , speakers :firstName_0: Mei, lastName_0: Xi, company_0: JPMorgan Chase (JPMC), firstName_1: Ramon, lastName_1: Lopez, , thirdpartyid :BSI302, sessionuid :F8D60D80-89AD-4AEA-A83E-8CACCB0A2584, title :Architecting governed BI for all users with Amazon QuickSight, description :In this chalk talk, learn about Amazon QuickSight account management, permissions, and security controls for enterprise BI deployments to facilitate governance and security at scale. Explore common architectural patterns to deploy governed data access and centrally managed self-service analytics organized by project, department, or line of business., sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 3, locationname :306, startdatetimeutc :November, 28 2023 20:30:00 -0500, enddatetimeutc :November, 28 2023 21:30:00 -0500, 
+enddatetimeutc: November, 28 2023 21:30:00 -0500
+startdatetimeutc: November, 28 2023 20:30:00 -0500
+locationname: 306
+floorplanname: Level 3
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: In this chalk talk, learn about Amazon QuickSight account management, permissions, and security controls for enterprise BI deployments to facilitate governance and security at scale. Explore common architectural patterns to deploy governed data access and centrally managed self-service analytics organized by project, department, or line of business
+title: Architecting governed BI for all users with Amazon QuickSight
+sessionuid: F8D60D80-89AD-4AEA-A83E-8CACCB0A2584
+thirdpartyid: BSI302
+speakers: firstName_0: Mei, lastName_0: Xi, company_0: JPMorgan Chase (JPMC), firstName_1: Ramon, lastName_1: Lopez
+tag_name: IT Administrator, Role, Application Security, Area of Interest, Amazon QuickSight, Services, Cloud Security Specialist, Role, Business Intelligence, Area of Interest, System Administrator, Role, AWS Lake Formation, Services, Analytics, Topic, Management & Governance, Area of Interest, Security, Compliance, & Identity, Topic, MGM Grand, Venue, Tuesday, Day, 300 - Advanced, Level, AWS Identity and Access Management (IAM), Services, Cross Industry, Industry

@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :200 - Intermediate, Level, BuildOn.AWS, Area of Interest, AWS CodeCommit, Services, Cost Optimization, Area of Interest, Wednesday, Day, Wynn, Venue, AWS CodeBuild, Services, AWS CodePipeline, Services, DevOps and Developer Productivity, Topic, , speakers :firstName_0: Igor, lastName_0: Ivaniuk, firstName_1: Viktor, lastName_1: Vedmich, , thirdpartyid :BOA203-R, sessionuid :CA31DCCD-71ED-4903-9609-3ED8F86B48B5, title :Evaluating the cost of infrastructure changes [REPEAT], description :In today’s rapid DevOps environments, managing infrastructure costs sometimes falls to the wayside, and when addressed, it is usually done manually and after deployment. This reactive approach can lead to unanticipated cost overruns. In this chalk talk, learn about a proactive, automated solution using GitOps and open source tools. See a demo of how to automate cost evaluation before applying changes on AWS, saving time and helping ensure a more cost-effective deployment strategy at scale., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 29 2023 16:30:00 -0500, enddatetimeutc :November, 29 2023 17:30:00 -0500, 
+enddatetimeutc: November, 29 2023 17:30:00 -0500
+startdatetimeutc: November, 29 2023 16:30:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: In today’s rapid DevOps environments, managing infrastructure costs sometimes falls to the wayside, and when addressed, it is usually done manually and after deployment. This reactive approach can lead to unanticipated cost overruns. In this chalk talk, learn about a proactive, automated solution using GitOps and open source tools. See a demo of how to automate cost evaluation before applying changes on AWS, saving time and helping ensure a more cost-effective deployment strategy at scale
+title: Evaluating the cost of infrastructure changes [REPEAT]
+sessionuid: CA31DCCD-71ED-4903-9609-3ED8F86B48B5
+thirdpartyid: BOA203-R
+speakers: firstName_0: Igor, lastName_0: Ivaniuk, firstName_1: Viktor, lastName_1: Vedmich
+tag_name: 200 - Intermediate, Level, BuildOn.AWS, Area of Interest, AWS CodeCommit, Services, Cost Optimization, Area of Interest, Wednesday, Day, Wynn, Venue, AWS CodeBuild, Services, AWS CodePipeline, Services, DevOps and Developer Productivity, Topic

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, Grand 111
+summary: tag_name :Serverless Compute, Topic, 200 - Intermediate, Level, AWS Lambda, Services, Developer/Engineer, Role, DevOps and Developer Productivity, Topic, Wednesday, Day, MGM Grand, Venue, , speakers :firstName_0: Tim, lastName_0: Colson, firstName_1: Giedrius, lastName_1: Praspaliauskas, , thirdpartyid :SVS202, sessionuid :06442A85-42FF-42FE-9B6F-09EFE7B42991, title :Getting started with serverless patterns, description :Serverless applications are built using services in a variety of common architecture patterns. Although customer scenarios are unique, these patterns emerge again and again. In this workshop, learn how to recognize and apply those patterns and best practices by building nearly production-ready code for a serverless application. Create microservices, run unit and integration tests, configure a CI/CD pipeline, and set up observability. You must bring your laptop to participate., sessiontype :Workshop, venuename :MGM Grand, floorplanname :Level 1, locationname :Grand 111, startdatetimeutc :November, 29 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 19:00:00 -0500, 
+enddatetimeutc: November, 29 2023 19:00:00 -0500
+startdatetimeutc: November, 29 2023 17:00:00 -0500
+locationname: Grand 111
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Workshop
+description: Serverless applications are built using services in a variety of common architecture patterns. Although customer scenarios are unique, these patterns emerge again and again. In this workshop, learn how to recognize and apply those patterns and best practices by building nearly production-ready code for a serverless application. Create microservices, run unit and integration tests, configure a CI/CD pipeline, and set up observability. You must bring your laptop to participate
+title: Getting started with serverless patterns
+sessionuid: 06442A85-42FF-42FE-9B6F-09EFE7B42991
+thirdpartyid: SVS202
+speakers: firstName_0: Tim, lastName_0: Colson, firstName_1: Giedrius, lastName_1: Praspaliauskas
+tag_name: Serverless Compute, Topic, 200 - Intermediate, Level, AWS Lambda, Services, Developer/Engineer, Role, DevOps and Developer Productivity, Topic, Wednesday, Day, MGM Grand, Venue

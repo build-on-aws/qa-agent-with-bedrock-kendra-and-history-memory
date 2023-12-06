@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Palmer 2
+summary: tag_name :Solution/Systems Architect, Role, AWS Lake Formation, Services, Management & Governance, Area of Interest, Amazon DataZone, Services, Amazon SageMaker, Services, AI/ML, Topic, 300 - Advanced, Level, Data Protection, Area of Interest, Wednesday, Day, Wynn, Venue, Data Engineer, Role, Developer/Engineer, Role, Analytics, Topic, , speakers :firstName_0: Joel, lastName_0: Farvault, firstName_1: Nanda, lastName_1: Vijaydev, firstName_2: Ritesh, lastName_2: Shah, company_2: Vanguard, , thirdpartyid :ANT334, sessionuid :DF4B0ABF-0FE3-4F7F-8CE4-D98853FD248E, title :End-to-end data and machine learning governance on AWS, description :A data governance framework empowers organizations to protect, curate, and understand their data throughout its lifecycle. Join this chalk talk to learn how to implement a data and machine learning governance strategy with AWS. Learn to use AWS services including Amazon DataZone, AWS Lake Formation, AWS Glue, and Amazon SageMaker to discover, cleanse, access, protect, and securely share data across organizational boundaries., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Palmer 2, startdatetimeutc :November, 29 2023 22:30:00 -0500, enddatetimeutc :November, 29 2023 23:30:00 -0500, 
+enddatetimeutc: November, 29 2023 23:30:00 -0500
+startdatetimeutc: November, 29 2023 22:30:00 -0500
+locationname: Palmer 2
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: A data governance framework empowers organizations to protect, curate, and understand their data throughout its lifecycle. Join this chalk talk to learn how to implement a data and machine learning governance strategy with AWS. Learn to use AWS services including Amazon DataZone, AWS Lake Formation, AWS Glue, and Amazon SageMaker to discover, cleanse, access, protect, and securely share data across organizational boundaries
+title: End-to-end data and machine learning governance on AWS
+sessionuid: DF4B0ABF-0FE3-4F7F-8CE4-D98853FD248E
+thirdpartyid: ANT334
+speakers: firstName_0: Joel, lastName_0: Farvault, firstName_1: Nanda, lastName_1: Vijaydev, firstName_2: Ritesh, lastName_2: Shah, company_2: Vanguard
+tag_name: Solution/Systems Architect, Role, AWS Lake Formation, Services, Management & Governance, Area of Interest, Amazon DataZone, Services, Amazon SageMaker, Services, AI/ML, Topic, 300 - Advanced, Level, Data Protection, Area of Interest, Wednesday, Day, Wynn, Venue, Data Engineer, Role, Developer/Engineer, Role, Analytics, Topic
