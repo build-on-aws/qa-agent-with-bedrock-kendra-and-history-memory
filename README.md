@@ -1,5 +1,6 @@
 # RAG with history memory agents using Amazon Bedrock, Amazon Kendra, Amazon Lambda Function, and Amazon DynamoDB 
 > 🚨🚨🚨🚨🚨🚨🚨🚨 This repo is deprecated, learn how to build these types of applications in [https://github.com/build-on-aws/rag-postgresql-agent-bedrock](https://github.com/build-on-aws/rag-postgresql-agent-bedrock) 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+
 In this repository you will find a use cases of RAG on AWS using [CDK](https://docs.aws.amazon.com/cdk/v2/guide/home.html). 
 
 Additionally,  you will find a notebook where you can run the agent localy.
